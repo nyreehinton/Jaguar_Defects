@@ -1,0 +1,170 @@
+1 / 8Affected Models:   2014 - 2022 UH200/A (Burgman 200/200 ABS) 
+Affected Departments:   Management, Service, Sales, Warranty , Parts, Accessories
+Attachment:    Customer Letter ( warranty extension announcement )
+Reference:    Burgman 200/200 ABS Service Manual ( 99500-31523-03E )
+Suzuki Motor Corporation (SMC) is announcing a ten-year warranty repair coverage on the fuel pumps of 2014 
+– 2022 Burgman 200/200 ABS scooters. Normally, the warranty repair coverage period for the Burgman 200/200 ABS scooter is one-year.
+What is the problem?
+It has been determined that operating or storing a Burgman 200/200 ABS scooter in an area where salt water from certain atmospheric phenomena may accumulate onto the fuel pump, the fuel pump discharge port resin material may deteriorate from extended contact with compounds present in the salt water. This deterioration, combined with bending stress from the fuel pump outlet hose, can cause micro-cracks to form in the discharge port resin material. In the worst case over time, the micro-cracks may enlarge into a larger crack that passes completely through the fuel pump discharge port structure. In this case, fuel leakage can occur from the crack.
+What is Suzuki doing to solve the problem:
+To ensure customer satisfaction, SMC has decided to extend the warranty period for the fuel pump on the 2014 – 2022 Burgman 200/200 ABS (UH200/A L4 - M2). The extension will provide warranty coverage for 
+a pump-related leak for ten years (unlimited mileage), starting on the original date of purchase. A new rubber protective cover has been developed, that combined with a new fuel pump assembly, a new fuel hose, and other related parts, will help resolve the salt water-related fuel leak.
+What Suzuki Motor USA, LLC (Suzuki) will do:
+Beginning the week of February 10, 2025, Suzuki will mail notification letters to owners of potentially affected scooters for whom we have information (see pages 7 and 8 of this bulletin). This letter informs customers of the 
+fuel pump warranty extension and instructs them to contact a Suzuki dealer if a fuel leak occurs to schedule an appointment to diagnose and repair the fuel leak.  
+What your Suzuki dealership will do:
+Before performing a fuel pump repair on a scooter, first verify the repair needs to be performed by diagnosing the cause of the fuel leak. Use the Vehicle Master Inquiry function on Suzuki CONNECT to determine the original date of sale to verify warranty coverage for the repair. Then order the required parts as listed on page 2 of this 
+bulletin and perform the repair as recommended on pages 4 - 6.  After repair completion, return the scooter to 
+the customer and submit a warranty claim as listed on page 3 .
+If you have a question regarding fuel pump warranty repair eligibility or a technical concern, contact TECH-LINE at (714) 996-7480 or call your Suzuki Technical Service & Parts Manager (TSPM).GV/AN/UH No. 059 
+(*Revised, page 2)Date: February 12, 2024 
+Original issue date: January 24, 2025Motorcycle/ATV
+SERVICE
+Fuel Pump Warranty Extension
+for 2014 - 2022 Burgman 200/200 ABS  Scooters 
+Continued on the following page >> Links will function when bulletin is viewed in Suzuki CONNECT
+2 / 8Ordering parts for the fuel pump repair:
+Beginning the week of February 17, 2025, parts can be ordered via Suzuki CONNECT. You will select the 
+shipping terms. Please note that there are two parts lists, depending upon the model year of the Burgman 
+200/200 ABS scooter (the model/year unique parts are in the red-shaded cells).
+Model / Year Part name Part number Quantity
+UH200/A, L4 - L6        
+(Burgman 200/200 ABS, 2014 - 2016)Pump Assy, Fuel 15100-03H21 1
+Packing, Fuel Pump 44596-03H00 1
+Cover, Fuel Pump 15211-29K00 1
+Hose Comp, Fuel 15810-12J30 1
+O-ring, Injector 15717-03H00 1
+O-ring 15716-03H00 1
+Gasket, Exhaust 14181-46E10 1
+O-ring (OD: 2.4 mm, ID: 33.7 mm) 09280-34004 2
+Clamp 09407-14407 1
+Clamp 09407-17403 1
+Nut, Crankcase Bracket 08319-3112A 1
+UH200/A, L7 - M2        
+(Burgman 200/200 ABS, 2017 - 2022)Pump Assy, Fuel 15100-03H21 1
+Packing, Fuel Pump 44596-03H00 1
+Cover, Fuel Pump 15211-29K00 1
+Hose Comp, Fuel 15810-29K20 1
+O-ring, Injector 15721-26J00 1
+O-ring 15722-21H00 1
+Gasket, Exhaust 14181-46E10 1
+O-ring (OD: 2.4 mm, ID: 33.7 mm) 09280-34004 2
+Clamp 09407-14407 1
+Clamp 09407-17403 1
+Nut, Crankcase Bracket 08319-3112A 1
+NOTE: Replacement of the fuel pump requires replacement of the engine coolant. The engine coolant capacity 
+(excluding the reservoir) is 1.4 US qt. (1350 ml) for the 2014 - 2022 Burgman 200/200 ABS models. Be sure to 
+have the necessary coolant available before you begin the repair.
+• Suzuki ECSTAR Long Life Coolant (1.0 US qt.)  990A0-02E00-01Q  *Sold in case of 12
+*Revised 02/12/2025 to correct part number error in part listing above.
+Parts identification:  
+Refer to these images to distinguish between the original and counter-measure fuel hoses.
+New, counter-measure hose: 15810-12J30 or 15810-29K20
+Continued on the following page >>
+3 / 8Warranty claim processing: 
+Submit a warranty claim for each Customer Warranty Extension repair immediately upon completion. This warranty extension requires you to file a warranty claim using the Long Campaign form as shown below .
+Suzuki CONNECT Long Campaign Claim: A Long Campaign Claim form will reimburse you for replacement 
+of the fuel pump plus the additional parts (as listed by model/year on page 2), 2 quarts of Suzuki ECSTAR Long Life Engine Coolant (990A0-02E00-01Q) and 3.9 hours of labor.
+WARRANTY EXTENSION CAMPAIGN 2M99, UH200/200A FUEL PUMP REPLACEMENT 
+SUZUKI CONNECT LONG WARRANTY CLAIM FORM INSTRUCTIONS
+CLAIM INFORMATION
+CLAIM NUMBER: XXXXX,X (Dealer enters number)
+ENTRY TYPE: VIN, Model/Frame or Control/Sequence # (Dealer chooses)
+REPAIR DATE: Enter date of repair
+MILEAGE/HOURS: Enter mileage or hours at repair date
+CAMPAIGN NUMBER: 2M99
+LABOR TIME: 3.9 hours
+PARTS INFORMATION
+REPLACEMENT PART 1: 15100-03H21 (Qty. 1)
+ADDITIONAL PARTS: Additional parts as listed on the model/year parts list
+AUTHORIZATION:Only needed if additional parts (besides parts on the part list) or labor 
+claimed, will require TSPM authorization
+FAILURE DESCRIPTION
+DESCRIPTION OF DEFECT: Fuel Pump Replacement
+DESCRIPTION OF REPAIR Performed warranty extension repair as required per Service Bulletin
+NOTES:
+If the scooter is still within the original, one-year warranty period, please submit as a regular warranty claim using the correct Defect Code. 
+If you encounter an unusual situation related to the Burgman 200/200 ABS fuel pump warranty extension, please 
+contact TECH-LINE at (714) 996-7480 or call your TSPM. 
+Continued on the following page >>
+4 / 8Fuel pump repair - required tools:
+The general tools and special tools listed below are required to replace the original fuel pump with a new fuel 
+pump, a new fuel pump protective cover, a new fuel pump hose, and other related parts. 
+Tool or item Size or capability
+Ratchet handle (Typically 3/8-inch drive)
+Extension bar(s) (Typically 3/8-inch drive)
+T-handle (Typically 3/8-inch drive)
+Ratchet sockets 8 mm, 10 mm, 12 mm, 14 mm, & 17 mm
+Deep ratchet sockets 10 mm  & 12 mm
+Hexagon socket (Allen-type) 4 mm, 5 mm, & 6 mm
+Combination wrench 10 mm, 12 mm, 14 mm, & 17 mm
+Phillips screwdriver #2 (mid-size bit)
+Flat blade screwdriver #1 (small blade) & #2 (mid-size blade)
+Plastic hammer (Typical tool)
+Needle-nose pliers (Typical tool)
+Snub-nose pliers (Typical tool)
+Wire cutter (Typical tool)
+Torque wrench Torque range:  0.73 ~ 73.7 lbf-ft (1.0 ~ 100.0 N.m)
+Jack (Typical shop equipment)
+Shop towels (Typical shop supplies)
+Special tools
+Ring locknut wrench
+09941-51013SDS-II Diagnostic tool
+09904-41030
+Thickness gauge
+09900-20803Thickness gauge
+09900-20806
+Precautions for working on the Fuel System:
+ WARNING
+• Keep away from fire or spark.
+• During disassembly, use care to minimize the spilling of gasoline.
+• Spilled gasoline should be cleaned up immediately.
+• Work in a well ventilated area.
+CAUTION
+• To protect the fuel system (fuel tank, fuel hose, etc.) from foreign particle contamination, seal all openings. 
+• After removing the throttle body, tape the cylinder head intake to prevent foreign particle from entering.
+• Adhere to the safety recommendations in the Service Manual.
+Continued on the following page >>
+5 / 8D) Additional removal steps to the fuel tank removal 
+procedure. Remove the original fuel hose (page 1G-9):
+1. Remove the fuel hose clamp bolt 1.Fuel Pump repair procedure : 
+Refer to the Burgman 200/200 ABS Service Manual ( 99500-31523-03E ) and the additional procedures listed in 
+the bulletin to replace the original fuel pump with a new fuel pump, a new fuel pump protective cover, a new fuel 
+pump hose, and other related parts. 
+To provide adequate access to replace the fuel pump and associated parts, the fuel tank must be removed from 
+the chassis. Use these steps from the Burgman 200/200A Service Manual:
+A. Remove the engine assembly (see page 1D-28 in the Service Manual)
+B. Remove the footboard (see page 9D-23)
+C. Remove the lower leg shield (page 9D-17)
+D. Remove the fuel tank assembly (page 1G-8)
+• Add additional removal steps as listed below.
+• Add additional installation steps as shown on page 6 of this bulletin.
+2. Remove the wire clamp 2 and disconnect the fuel injector 
+electrical coupler 3.  
+3. Place an absorbent cloth or similar item near the end of 
+the fuel hose and around the fuel pump.
+4. Remove the fuel hose mounting bolts 4 and then remove the fuel hose 5 from the fuel pump.  
+  
+   
+5. Remove the fuel hose clamp 6 from the disconnected 
+fuel hose  5. 
+Continued on the following page >>
+6 / 8D) Additional installation steps to the fuel tank installation 
+procedure. How to install the fuel hose clamp to the new  fuel hose and how to install the new protective cover to the fuel pump (pages 1G-11 to 1G-15):
+1. Orient the new fuel hose 1 so the white line 3 is facing 
+directly upwards [a].
+2. Attach the fuel hose clamp 2 to the fuel hose 1 so the 
+surface of the hose clamp 4 is vertical.
+NOTE:
+Do not install the fuel hose to the fuel pump until you install the new protective cover (step 3, below).  
+3. Install the fuel pump outlet protective cover 5 on the 
+fuel pump outlet as shown. Install the fuel hose onto the fuel pump and complete the reinstallation of the fuel tank 
+onto the scooter.    
+  
+ 
+Customer letter on the following page >>If you have a question about this warranty extension or a technical concern related to the fuel pump repair, 
+please contact TECH-LINE at (714) 996-7480 or call your Suzuki TSPM.
+Suzuki Service Department
+7 / 8 Customer letter page 2 on the following page >>Burgman  200/200 ABS Fuel Pump Warranty Extension - Customer letter, page 1/2
+February 10, 2025February 10, 2025
+8 / 8 ENDBurgman  200/200 ABS Fuel Pump Warranty Extension - Customer letter, page 2/2

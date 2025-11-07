@@ -1,0 +1,64 @@
+{
+  "vendor_name": "WEST ADAMS RADIATOR",
+  "vendor_address": "4928 W Adams, Los Angeles, CA 90016",
+  "vendor_phone": "(323) 731-0816",
+  "customer_name": "NYREE HINTON",
+  "customer_address": "CA 90016",
+  "customer_phone": "(732) 979 - 6264",
+  "document_type": "ESTIMATE",
+  "document_date": "Aug 25th, 2025",
+  "vehicle_details": {
+    "make_model_year": "JAGUAR / F-TPE / 2020",
+    "license_plate": "9PCM313",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage": "1"
+  },
+  "line_items": [
+    {
+      "quantity": 1.00,
+      "item": "New Part",
+      "description": "PEN - G 012 A8G 1G - Coolant/Antifreeze SF (Pink) 1.5 Liters",
+      "unit_price": 19.28,
+      "amount": 19.28,
+      "taxable": true
+    },
+    {
+      "quantity": 1.00,
+      "item": "New Part",
+      "description": "JAGUAR-JDE41599-SUPERCHARGER WATER PUMP",
+      "unit_price": 306.90,
+      "amount": 306.90,
+      "taxable": true
+    },
+    {
+      "quantity": 1.00,
+      "item": "New Part",
+      "description": "T2R47919 EXPANSION TANK HOSE",
+      "unit_price": 205.97,
+      "amount": 205.97,
+      "taxable": true
+    },
+    {
+      "quantity": 3.00,
+      "item": "General Labor",
+      "description": "REMOVE AND REPLACE JAGUAR-JDE41599-SUPERCHARGER WATER PUMP",
+      "unit_price": 165.00,
+      "amount": 495.00,
+      "taxable": false
+    },
+    {
+      "quantity": 1.00,
+      "item": "General Labor",
+      "description": "REMOVE AND REPLACE T2R47919 EXPANSION TANK HOSE(TANK TO RADIATOR OUTLETO",
+      "unit_price": 165.00,
+      "amount": 165.00,
+      "taxable": false
+    }
+  ],
+  "totals": {
+    "subtotal": 1192.15,
+    "shipping": 0.00,
+    "tax": 51.88,
+    "total_amount": 1244.03
+  }
+}

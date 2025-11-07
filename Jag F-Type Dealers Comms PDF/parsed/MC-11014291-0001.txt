@@ -1,0 +1,157 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-001
+Service BulletinDate: February, 2025
+TECHNICAL
+Transmission Fluid Leak Near Torque Converter Housing Area
+This bulletin replaces PIP6025. Please discard PIP6025.
+This bulletin only applies to 8T65/45 or 9T45/50/60/65 transmissions.
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+BuickEncore GX
+2024 2025
+     M3F
+Enclave M3W, MF8
+CadillacXT4
+2024 2025M3H
+XT5 M3G M3W
+XT6 M3G M3W
+ChevroletBlazer 2024
+2025M3T M3V
+Equinox 2025 MGH
+Trailblazer
+2024M3F
+Traverse MF8
+GMCAcadia
+2024 2025MF8
+Terrain M3U, MGH
+ 
+Involved Region or Country North America, Japan, South Korea, Europe, Palestine, Middle East
+ConditionSome customers may comment on a transmission fluid leak.
+Some technicians may comment on a transmission fluid leak coming from the torque
+converter housing.Subject:
+Attention:
+Page 2 February, 2025 Bulletin No.: 25-NA-001
+Cause
+6419117
+This condition may be caused by the transmission pump bolts were not fully torqued.
+CauseNote: Service replacement transmission assemblies received may be built in the same
+Julian date range. If that occurs replacement of the pump bolts must be performed before
+the transmission is installed in the vehicle.
+For Transmission Julian Date, refer to Transmission Identification Information  in SI.
+Check transmission Julian build date:
+• If the transmission Julian date is between 24 160 and 24 311 and the vehicle comes in
+with a transmission leak in the torque converter housing area, order the bolt kit as re-
+quired.
+Note: Example TUN where Julian date is found: 13241794TKBP0151 (Date
+Reads 13[24179]4TKBP0151).
+• Once the bolt kit arrives, remove the transmission, and verify that the bolts are loose.
+• If loose, replace all the bolts and reinstall the transmission.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Bulletin No.: 25-NA-001 February, 2025 Page 3
+Parts Information
+Part Number Description Qty
+24044946 Automatic Transmission
+Fluid Pump Cover Bolt
+(KIT)1
+ 
+ 
+Warranty Information
+Note: Service transmission assembly bolt replacement should use bulletin labor operation, include the ADD time for
+labor, and include the pump cover bolt kit in the parts cost.
+For vehicles repaired under the Powertrain coverage, use the following labor operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor
+OperationDescription Vehicle Labor Time
+8486478* Replace
+Transmission
+Pump
+Exterior BoltsEnclave
+(FWD)
+M3W7.6
+Enclave
+(AWD)
+M3W8.5
+Enclave
+(FWD)
+MF8ST
+Enclave
+(AWD)
+MF812.9
+Encore GX 10.8
+XT4 (FWD)
+M3H12.6
+XT4 (AWD)
+M3H16.1
+XT5 (FWD)
+M3G6.9
+XT5 (AWD)
+M3GST
+XT5 (FWD)
+M3W7.2
+XT5 (AWD)
+M3W7.6
+XT6 (FWD)
+M3G12
+XT6 (AWD)
+M3GST
+XT6 (FWD)
+M3W9.5
+XT6 (AWD)
+M3W12
+Blazer (FWD)
+M3T8.5
+Page 4 February, 2025 Bulletin No.: 25-NA-001
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONLabor
+OperationDescription Vehicle Labor Time
+Blazer (AWD)
+M3T10.9
+Blazer (FWD)
+M3VST
+Blazer (AWD)
+M3VST
+Equinox
+(AWD)
+MGH11.1
+Traverse
+(FWD)
+MF810.8
+Traverse
+(AWD)
+MF813.1
+Trailblazer
+(AWD)
+M3F10.8
+Acadia (FWD)
+MF810.8
+Acadia
+(AWD)
+MF813.1
+Terrain (FWD)
+M3U11.3
+Terrain
+(AWD)
+M3UST
+Terrain
+(AWD)
+MGHST
+Add Bolt
+ReplacementAll 0.5
+ 
+Version 2
+ModifiedReleased January 10, 2025
+Revised February 04, 2025 - Added a Note and Updated Julian Date in the Correction
+section and Added a Note and Add time for Bolt Replacement in the Warranty Information
+section.

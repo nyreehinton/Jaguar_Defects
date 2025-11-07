@@ -1,0 +1,83 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: PIE0815
+Service BulletinDate: January, 2025
+ENGINEERING INFORMATION
+Engineering Information – Service Engine Soon (SES) Lamp Illuminated on
+Driver Information Center (DIC), Suspect Non-OE Catalytic Converters and/or
+Exhaust Systems, DTCs P013F, P014A, P014B and/or P013E Set
+Proceed with this EI ONLY if the customer has commented about this
+concern AND the PIE number is listed in the Global Warranty
+Management / Investigate History link (GWM/IVH). If the customer has not
+commented about this condition or the EI does not show in GWM/IVH,
+disregard the PIE, and proceed with diagnostics found in published
+service information. THIS IS NOT A RECALL. Refer to the latest version of
+Service Bulletin 04-00-89-053 for more details on the use of Engineering
+Information bulletins.
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission:
+from to from to
+Chevrolet Corvette 2023 2024 — —5.5L (RPO
+LT6)All
+Involved Region or Country U.S. Dealers ONLY
+ConditionSome customers may comment on the Service Engine Soon (SES) Lamp illuminated on
+the Driver Information Center (DIC).
+Technicians may find one or more of the following DTCs set:
+• P013F - Heated Oxygen Sensor 2 Delayed Response Lean to Rich — Bank 1
+• P014A - Heated Oxygen Sensor 2 Delayed Response Rich to Lean Bank 2
+• P014B - Heated Oxygen Sensor 2 Delayed Response Lean to Rich Bank 2
+• P013E - Heated Oxygen Sensor 2 Delayed Response Rich to Lean — Bank 1
+CauseGM Engineering is attempting to determine the root cause of the above condition.
+Engineering has a need to gather information on vehicles PRIOR to repair that may
+exhibit this condition. As a result, this information will be used to "root cause" the
+customer's concern and develop/validate a field fix.Subject:
+Attention:
+Page 2 January, 2025 Bulletin No.: PIE0815
+6825871
+6825873
+There are two different conditions in which the above codes may set. One is with the
+stock OE exhaust components (1) and the other is with an aftermarket non-OE exhaust
+components (2), as shown in the pictures above.
+Note: The different position of the O2 sensors.
+Note: If the catalytic converters DO NOT  look like the ones shown above in the picture
+(1), the catalytic converter could be considered suspect. Also, please inspect for any af-
+termarket exhaust systems (2) as well.
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+If you encounter a vehicle with the above concern, setting one or more of the following DTCs, Call the engineer
+listed below with your findings and for further direction.
+Bulletin No.: PIE0815 January, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONDO NOT attempt to repair this concern if non-OE converters are found. Advise the customer that they need to return
+the vehicle to original OE equipped components. If the converters and/or exhaust system are OE and there are no
+other issues found, such as aftermarket calibrations per the latest version of Service Bulletin 09-06-04-026 etc., then
+proceed with applicable SI diagnostic procedures.
+Important: Having non-OE components installed could also result in a Powertrain warranty block.
+Contact Information
+Please include the following information if leaving a message:
+- Technician name
+- Dealer name and phone number
+- Complete VIN and repair order (R.O) number
+On the repair order, document the date and time the call was placed (even if the engineer was not reached).
+If engineering is unable to return the call within one hour, proceed with diagnosis and repair based on information
+found in SI.
+Warranty Information
+If an engineer was contacted or required information was provided, use:
+Labor
+OperationDescription Labor Time
+4089448* Engineering Information -
+(SES) Lamp Illuminated on
+(DIC), DTCs P013F,
+P014A, P014B and/or
+P013E Set0.3 hr
+*This is a unique Labor Operation for bulletin use only.
+Version 1
+Modified Released January 30, 2025The Contact Information has been redacted.

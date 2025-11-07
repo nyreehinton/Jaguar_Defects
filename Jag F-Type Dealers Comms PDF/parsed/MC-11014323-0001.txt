@@ -1,0 +1,62 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on a thump, clunk, pop,
+or click type noise coming from the front end. 
+In some cases, the noise ma y be felt in the front
+driver/passenger ﬂoor or brak e pedal.   
+The noise is typically heard once the vehicle has been
+driven above 45 MPH, then coming to a stop, or
+releasing brake pedal after a stop. 
+In rare cases, DTC P059F ma y set.
+NOTE: This noise has been misdiagnosed as an engine
+lifter noise or related to the auto start / stop system. 
+The auto start/stop system can be turned oﬀ to rule that
+out.
+CauseThe cause of this noise could be something contacting
+the Active Grill Shutters as they open and close.
+Bulletin No.: PIT5986C
+Published date: 02/14/2025
+Preliminary Information
+PIT5986C Diagnostic Tip: Intermittent Thump Clunk Pop Click Noise
+From Front End Coming To A Stop / Taking Oﬀ From A Stop / At
+Random Times (Contact With Active Grill Shutters)
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2021 - 2025 All AllAll All
+Cadillac Escalade ESV 2021 - 2025 All AllAll All
+Chevr oletSilverado 1500 2021 - 2025 All AllAll All
+Chevr oletSilverado 2500/3500 HD 2021 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC Sierra 1500 2021 - 2025 All AllAll All
+GMC Sierra 2500/3500 HD 2021 - 2025 All AllAll All
+GMC Yukon 2021 - 2025 All AllAll All
+GMC Yukon XL 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+To help determine if the noise is from the Active Grill Shutters contacting
+something, perform the following: 
+Version 4
+Modiﬁed02/16/2023 - Created on.  
+05/08/2023 - Updated  Condition   
+5/7/2024- Update to the models and title
+02/14/2025 - Update to the model listWith the shutters open, remove the fuse that powers the grill shutter actuator . 
+Then test the vehicle and see if the noise goes awa y. 
+If the noise goes awa y remove the intak e air splash shield to inspect the
+grill shutters for any contact. 
+Some known items that have been found contacting the shutters could be a
+mispositioned horn brack et, an unsecured intak e air duct, stones, ice, etc. 
+Warranty Information
+The correction for this concern ma y be any one of several repairs described above.  
+For vehicles repaired under warranty , please use the appropriate warranty labor operation
+based on the actual cause and repair .
+Additional SI K eywords
+scrape, scraped, scraping
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

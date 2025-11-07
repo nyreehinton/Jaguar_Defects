@@ -1,0 +1,94 @@
+SERVICEBULLETIN
+2025-01-23 M1650
+M1650:MILWAUKEEEIGHTANDTWINCAMCAMSHAFT DRIVEGEARRETENTION
+KITCHANGES
+Reason forRevision
+Table1
+Table1.Document History
+Revision (Rev)Description Rev Date
+Initialrelease - 2025-01-23
+Purpose forService Bulletin
+Thisbulletininformsdealersthatchanges havebeenmadeto
+theCamshaft DriveGearRetention Kitandserviceprocedures
+fortheMilwaukee-Eight andTwinCamapplications.
+Inanefforttoincrease theclamploadofthecamshaft drive
+sprocket boltedjointandpreventthedriveboltfromloosening
+inhighliftcamshaft applications, thefollowing changes have
+beenmade:
+a.Thecamshaft driveboltfinaltorquehasbeenincreased to
+40ft-lbs(54N·m)forallMilwaukee-Eight andcertainTwin
+Camsmodels. SeeVehiclesAffected.Thisincrease in
+torquewillmaketheboltaonetimeuseapplication.
+Neverre-useacamshaft driveboltforservice after
+tightening totheincreased specification. Seeservice
+manualforupdated procedure.
+b.Anewcamshaft drivegearretention kit(PartNo.91800088)
+hasbeencreated. Thisnewkitiscompatible withall
+Milwaukee-Eight andTwinCamengines usingPartsand
+Accessories (P&A)camshaft andOriginalEquipment (OE)
+camshaft applications. SeeInstruction sheetforspecific
+fitmentonTwinCamOEcamshaft applications. Thenewkit
+utilizesfrictionwashers toprevent unwanted rotation of
+components inthedrivesprocket boltedjointunderstress.
+Theuseofliquidthreadlocker onthethreadsoftheboltand
+pre-lube totheheadoftheboltflangeandoutsideofthe
+washerhelptheboltreachfullstretchwhentightening.
+NOTE
+Engines produced atallHarley-Davidson MotorCompany
+(HDMC) plantswillnotcomewiththenewkitsinstalled. They
+willcontinue tobeproduced with(PartNo.25566-06).
+VehiclesAffected
+2006-2017: DynaTwinCammodels
+2007-2017: SoftailTwinCammodels
+2007-2016: CVO,PoliceandTouringTwinCammodels2009-2016: TrikeTwinCammodels
+2018andlater:SoftailMilwaukee-Eight models
+2017andlater:CVO,Police,TouringandTrikeMilwaukee-Eight
+models
+Markets Affected
+Allmarkets affected.
+PartNumbers
+Table2
+Table2.PartNumbers
+NewPartNo. ItemDescriptionCurrent Part
+No.
+91800088Camshaft DriveGear
+Retention Kit25566-06
+Required DealerAction
+Table3.
+ResolutionAction
+Required
+Non-Actionable:
+Thisisforinformational purposes onlyora
+technical tip.NO
+YES
+Follownewservicemanualprocedures andkitinstruction sheet
+forbestresults.
+•UsenewCamshaft DriveRetention Kit(PartNo.91800088)
+inALLP&Acamshaft applications.
+•Useexisting stockof(PartNo.25566-06) onallOETwin
+Camcamshaft applications.
+DealerInventory Instructions
+UseCamshaft DriveRetention Kit(PartNo.25566-06) onOE
+TwinCamcamshaft applications.
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE
+Supplemental Procedure Video
+WARNING
+Alwaysreviewtheappropriate serviceprocedure priorto
+performing it.Thisvideoisintended tosupplement, not
+replace, documented service procedures. Attempting
+service procedures without thepropertraining, tools,
+equipment, andmanuals couldresultindeathorinjuryto
+youorothers.Thiscouldalsodamage themotorcycle or
+causethemotorcycle tooperate improperly .(10406a)
+Thisvideoisasupplement oftheprocedure covered inthe
+document. Thisvideocanonlybeviewedthrough Service
+Information Portal(SIP).
+1436457
+Video1.Camshaft DriveGearRetention Kit
+2/2 M1650

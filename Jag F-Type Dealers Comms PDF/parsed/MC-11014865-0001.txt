@@ -1,0 +1,214 @@
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 1 of 11
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 02-193-24R
+ DATE: 02/16/25
+ REVISED: 02/17/25 APPLICABILITY: 2020-24MY Legacy and Outback 2.5L NA  
+  and 2.4L DIT 
+  2018-24MY Crosstrek
+  2017-24MY Impreza  
+  2019-24MY Forester 2.5 NA
+  2014-18MY Forester 2.0L DIT
+  2015-24MY WRX 2.0 DIT
+  2019-24MY Ascent
+ SUBJECT: Walnut Blast Cleaning Procedure for Carbon   
+  Deposit Removal to Address Engine Misfire DTCs,  
+  Black Smoke from the Exhaust, Lack of Power,  
+  Knocking (Ping) and / or Rough Idle Concerns
+INTRODUCTION: 
+This bulletin provides updated parts information and a service procedure to follow for removing 
+accumulated carbon deposits from fuel injectors and internal engine components (e.g. intake valves 
+and / or manifold, and combustion chambers). Fuel quality and how the vehicle is operated are both 
+major contributing factors which will have a direct effect on carbon deposit accumulation. This 
+cleaning procedure for carbon deposit removal is recommended to address engine misfire DTCs, 
+black smoke from the exhaust, lack of power, knocking (ping) and / or rough idle concerns. The 
+procedure outlines the use of an Autool HTS558 Walnut Blasting Machine that has been approved by 
+Subaru of America. 
+IMPORTANT: This procedure was developed as a suitable alternative to the procedures outlined in 
+09-74-21R due to available retailer equipment. ONLY one procedure can be reimbursed by Warranty.
+REQUIRED TOOLS:
+WALNUT BLASTING MACHINE
+AUTOOL HTS558
+ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2024 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 2 of 11
+Continued...WALNUT SHELL MEDIA
+Grit Size: #24orSAE 18/40 
+Amount: Approximately 1-2lbs
+SHOP TOWELS
+Size: 14in x 12in 
+Quantity: As Needed
+MOVING BLANKET
+Size: 40in x 72in
+Quantity: 2
+MASKING TAPE
+Recommended Size ：1.88in(48mm)
+SEAL PICK TOOLS
+Tip shape: 90°, 45°
+Length:  Approx 6.3in(160mm) or more
+CAP
+SOA Part Number: 16519AA100
+NOTE: Can be ordered through Subaru Parts
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 3 of 11
+Continued...SUBARU THROTTLE PLATE CLEANER
+SOA Part Number: SOA868V9170
+NOTE: Can be ordered through Subaru Parts
+P.E.A. (POLYETHERAMINE) CARBON CLEANER
+SOA Part Number SOA868V9166
+NOTE: Fuel tank additive
+SERVICE PROCEDURE / INFORMATION:
+STEP 1: Refer to the applicable Service Manual and review: General Description > Repair Contents 
+> Action required before & after Battery Disconnect . Additionally, record any stored seat position(s) 
+before proceeding. Relearn any seat position memory after work is complete. If the power rear gate 
+(PRG) height has been customized, that position must also be noted and relearned. 
+STEP 2: Remove the battery as per the applicable Service Manual: Engine > STARTING/
+CHARGING SYSTEMS > Battery > Removal
+STEP 3: Remove the intake manifold as per the applicable Service Manual: Engine > FUEL  
+INJECTION (FUEL SYSTEMS) > Intake Manifold Assembly > Removal
+IMPORTANT CAUTIONS:  
+• The Service Manual uses a black star (★) in the component breakdown illustrations to 
+indicate one-time use parts.
+• It is vital to confirm no foreign matter enters any fuel lines, intake ducts, and any other 
+peripheral parts. 
+• 2.0L & 2.5L DINA equipped models DO NOT require fuel delivery tube disconnection
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 4 of 11
+Continued...STEP 4: Cover/seal the required areas indicated in the model specific images below . Proceed to Step 
+5 for 2.0L & 2.5L DINA equipped models. 
+2.0L DIT & 2.4L DIT:  Cover the turbo charger duct opening with making tape.  
+2.4L DIT: Install the cap (p.n. 16519AA100) on to the high pressure fuel pump connection.  
+STEP 5: Rotate the crank pully clockwise until the timing mark matches the position indicated 
+below. 
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 5 of 11
+Continued...STEP 6: Visually inspect the intake valves of cylinders #1 and #3. Confirm the valves are in the 
+closed position.  
+NOTE: If the valves are open, rotate the crank pully 360 degrees in the clockwise direction and 
+monitor the valve position. DO NOT continue until the valves are confirmed to be closed. 
+STEP 7: Seal the intake ports of cylinders #2 and 
+#4 with masking tape. This will prevent any foreign 
+material from entering.  
+CAUTION: Contamination or adhesion of foreign 
+material such as walnut shell media  
+inside the engine may cause starting failure  
+and/or engine stalling.  
+STEP 8: Cover the area around the intake port with two moving blankets. This will help prevent any 
+walnut shell material from contamination. 
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 6 of 11
+Continued...
+CAUTION: Confirm harness connections, fuels lines, and ALL other components are covered prior 
+to cleaning. 
+STEP 9: Prepare the walnut blasting machine (AUTOOL HTS558) with the necessary air supply. 
+Always use NEW abrasive material when performing cleaning.  
+STEP 10: Prepare the angled suction hose by inserting the square yellow adapter onto the end of the 
+hose. Allow approximately 10mm of the hose to protrude from the adapter. This will provide added 
+stability when cleaning.  
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 7 of 11
+Continued...STEP 11: Set the hose into the cylinder #1 intake port. Cover any gaps with a shop towel.  
+STEP 12: Clean the intake valve and intake port of cylinders #1.
+A. Confirm the walnut blaster is turned on. 
+B. Insert the nozzle of the walnut blaster into the suction hose. 
+C. Pull the trigger and allow the abrasive material to pass through the nozzle. 
+D. Aim the nozzle in the direction of Valve A. 
+E. Aim the nozzle in the direction of Valve B. 
+F. Move the nozzle up, down, left, and right to ensure the entire area is cleaned. 
+ 
+CAUTION: DO NOT  remove the nozzle from suction hose while blasting the abrasive material. 
+This can cause contamination to the surrounding area. 
+ 
+TIP: A seal pick can be used for the removal of  
+some of the more difficult to remove carbon deposits. 
+Be careful not to scratch the valves or cylinder head.  
+ 
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 8 of 11
+Continued...STEP 13: Repeat the cleaning process outlined in Step 12 for cylinder #3.  
+STEP 14: After cleaning is completed, remove any remaining abrasive material using the suction 
+hose. Using a flashlight, inspect the ports and confirm there is no remaining material.  
+STEP 15: Remove the moving blankets and masking tape covering the intake ports on cylinders #2 
+and #4. 
+CAUTION:  Be mindful not to spread any of the abrasive material collected by the blankets into the 
+engine area. 
+STEP 16: Rotate the crank pully clockwise 360 degrees until the timing mark matches the position 
+indicated below. 
+STEP 17: Visually inspect the intake valves of cylinders #2 and #4. Confirm the valves are in the 
+closed position.  
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 9 of 11
+Continued...STEP 18: Seal the intake ports of cylinders #1 and #3 with 
+masking tape. This will prevent any foreign material from 
+entering.  
+CAUTION: Contamination or adhesion of foreign material 
+such as walnut shell media inside the engine may cause 
+starting failure and/or engine stalling.  
+STEP 19: Cover the area around the intake port with two moving blankets. This will help prevent any 
+walnut shell material from contamination.
+CAUTION: Confirm harness connections, fuels lines, and ALL other components are covered prior 
+to cleaning. 
+STEP 20: Repeat the procedures outlined in Steps 9 through 15 on cylinders #2 and #4.  
+ 
+
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 10 of 11
+Continued...STEP 21: Clean the plate and stick portions of all the cylinder head plates using throttle plate cleaner . 
+Dry the cylinder head plates with a clean shop towel. Confirm there is no cleaner remaining on the 
+plates. 
+STEP 22: Clean the throttle body.
+A. Remove the throttle body from the intake manifold.  
+B. Soak a shop towel in throttle plate cleaner.
+C.  Wipe the throttle valve and bore inner surfaces from both the intake manifold and intake 
+duct sides. 
+D. Wipe the cleaned areas with a clean shop towel and confirm no throttle plate cleaner remains. 
+CAUTION: DO NOT open and close the throttle valve manually during cleaning. DO NOT deform 
+or scratch the throttle valve/bore. 
+STEP 23: Reinstall all parts in the reverse order of disassembly. 
+STEP 24: Fill the fuel tank fuel. Add one bottle of P.E.A. carbon cleaner (SOA868V9166) the fuel   
+           tank.
+NOTES: 
+• The Service Manual uses a black star (★) in the component breakdown illustrations to 
+indicate one-time use parts.
+• Whenever reconnecting the ground cable terminal to the battery sensor, torque to 7.5Nm 
+(5.5ft.-lbs. or 66inch-lbs.) while supporting the sensor with the other hand as outlined in the 
+applicable Service Manual under: STARTING/CHARGING SYSTSEMS > Battery Sensor.
+Continued...
+Bulletin Number: 02-193-24R;  Revised: 02/17/25         Page 11 of 11
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Powertrain Limited Warranty period, this repair may be submitted using the 
+following claim information:
+NOTE: This procedure was developed as a suitable alternative to the procedures outlined in 09-74-
+21R due to available retailer equipment. ONLY one procedure can be reimbursed by Warranty.
+Labor Description Labor Operation # Repair Code Labor Time / Aspiration
+ROUGHNESS DIAGNOSIS & MEDIA 
+CLEANING INTAKE PORTSA449-286 BON-223.0h NA
+3.6h Turbo
+The claimable Warranty Part Number for 1 (one) bottle of the P.E.A. cleaner is SOA635328.
+Add: Up to $2.00 can be claimed as Sublet for this repair for Walnut Shell Media
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

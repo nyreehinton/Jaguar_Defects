@@ -1,0 +1,96 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment the MIL is illuminated or Service
+High V oltage Message displa yed on the IPC.  
+A technician ma y ﬁnd any of the following DTCs; U2220, U2221,
+U2222, U2223, U2224, U2225, U2226, U2227, U2228, U2229,
+U222A , U222B, U222C, U222D, U222E, U222F , U2230, U2231,
+U2232, U2233, U2234, U2235, U2236, U2237, and/or U2C11 set
+as current or history .
+Cause A potential software anomaly ma y be present. 
+Bulletin No.: PIT6044N
+Published date: 02/27/2025
+Preliminary Information
+PIT6044N Service High Voltage with MIL and/or DTCs
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+BrightDr op600 2023 - 2024 ALL AllAll All
+BrightDr op400 2024 - 2024 ALL AllAll All
+Chevr olet BrightDr op 400 2025 AllAll All
+Chevr olet BrightDr op 600 2025 AllAll All
+Cadillac LYRIQ 2023 - 2025 All AllAll All
+Cadillac Escalade IQ 2025 All AllAll All
+Cadillac Optiq 2025 All AllAll Al
+Chevr olet Blazer EV 2024 - 2025 All AllAll All
+Chevr olet Silverado EV 2024 - 2025 All AllAll All
+Chevr olet Equino x EV 2024 - 2025 All AllAll All
+GMC HUMMER EV 2022 - 2025 All AllAll All
+GMC HUMMER EV SUV 2024 - 2025 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+1. Verify the vehicle has one or more of the following DTCs set; U2220, U2221, U2222,
+U2223, U2224, U2225, U2226, U2227, U2228, U2229, U222A , U222B, U222C, U222D,
+U222E, U222F , U2230, U2231, U2232, U2233, U2234, U2235, U2236, U2237, and/or
+U2C11 set as current or history .
+2. Program the K16 Battery Energy Control Module (BECM) with the most recent
+software via SPS.
+3. After programming the BECM, perform Manual Reset process twice.
+Manual Reset Process:
+Version 14
+Modiﬁed08/03/2023 - Created on.  
+08/09/2023 - Updated to include U2C11.  
+09/01/2023 - Updated to add more information for the
+LYRIQ.  
+09/05/2023 - Update more programming numbers for 2024
+LYRIQ.  
+10/26/2023 - Update information for BrightDrop and
+HUMMER EV .  
+10/30/2023 - Updated correction.  
+12/01/2023 - Updated correction.  
+02/27/2023 - Updated correction.  
+04/24/2024 - Updated Models and years   
+07/29/2024 - Added Blazer EV and Silverado EV  
+08/19/2024 - updated model year  
+09/19/2024 - Added GMC Sierra EV  
+01/15/2024 - Added Escalade IQ and OPTIQ  
+02/27/2025 – Updated Models.Labor Operation Description Labor Time
+*5080388Hybrid/Electric V ehicle Battery P ack
+Communication Module manual reset1.5 Hr .
+Add Time (as
+Required) K16 Battery Energy Control Module
+Program0.4 Hr .
+*This is a unique Labor Operation for Bulletin use onlyNeeds to Be completed Even if there are no updates
+A. Perform the Battery Negative Cable Disconnection and Connection procedure outlined
+in Service Information.
+Warning: Alwa ys ensure the Battery Maintenance Mode is inactive before
+disconnecting the 12-volt battery . This mode can be active with the
+ignition oﬀ, regardless of whether the vehicle charging cord is plugged in
+or not. When this mode is active, the on-board high voltage battery
+charger will energize the 12-volt battery cables and charge the 12-volt
+battery . Disconnecting the battery cables while this mode is active ma y
+result in an electrical shock or a burn from hot battery cable leads.
+B. Wait 15 mins, then reconnect the 12v following the Battery Negative Cable
+Disconnection and Connection procedure outlined in Service Information.
+C. Place the vehicle in Propulsion “Ready” mode for 10 seconds, (has power-steering)
+then turn the vehicle “OFF” and remove the keyless transmitter from the vehicle and
+place the transmitter in a safe location approximately 10 ft awa y. Wait 15 mins.
+D. Repeat Manual Reset Process steps A-C a total of 2 times.
+4. Place the vehicle in Service mode (No power-steering) then use GDS2 and clear all DTCs.
+5. If any of the following DTCs: U2220, U2221, U2222, U2223, U2224, U2225, U2226,
+U2227, U2228, U2229, U222A , U222B, U222C, U222D, U222E, U222F U2230, U2231, U2232,
+U2233, U2234, U2235, U2236, U2C11 and/or U2237 return, start a T AC case, and reference
+this P .I.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

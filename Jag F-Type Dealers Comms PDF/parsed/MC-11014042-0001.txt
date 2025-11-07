@@ -1,0 +1,30 @@
+SIB 65 01 25
+SERVICE SOLUTION: Central Locking Doesn't W ork2025-02-03
+MODEL
+Model Model Description Model Code 
+K589 K 1200 L T 0559
+ 
+SITUA TION
+ 
+Central locking does not work with DW A part number 7 678 934 (DW A 5.1 with central locking).
+ 
+PROCEDURE
+ 
+DO NOT  order a new DW A for this complaint the issue.
+ 
+The Central team is still investigating this complaint.
+ 
+There is currently no repair at this time.
+ 
+If you have one submit a TSARA  case for documentation of the complaint.
+QUESTIONS REGARDING THIS BULLETIN
+Technical inquiries Contact the BMW Technical Support Group via TSARA
+Warranty inquiries Submit an IDS ticket to the W arranty Department
+Parts inquiries Submit an IDS ticket to the Motorrad Parts Department
+ 
+Supporting Materials
+picture_as_pdf 65 01 25 SESO DW A central locking does not work.pdf
+Copyright ©2025 MOT ORRAD USA, a division of BMW of North America, LLC. All Rights Reserved2/6/25, 5:33 AM 65 01 25_SERVICE SOLUTION: Central Locking Doesn't Work
+about:blank 1/2
+Copyright ©2025 MOT ORRAD USA, a division of BMW of North America, LLC. All Rights Reserved2/6/25, 5:33 AM 65 01 25_SERVICE SOLUTION: Central Locking Doesn't Work
+about:blank 2/2

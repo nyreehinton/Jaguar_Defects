@@ -1,0 +1,1214 @@
+SERVICEBULLETIN
+2025-01-03 M1508
+M1508(REVB):2009-2025 TRIKEPLATFORM -REVERSE MOTOR
+Reason forRevision
+RefertoTable1.
+Table1.
+Revision (Rev)Description Rev Date
+Added2025modelsB 2025-01-03Updated: Motorcycles Affected *
+Addedsection:PINIONEXTENDS BUT
+REVERSE MOTORSTALLSORSPINS
+SLOWLYA 2025-01-02Added:PINIONEXTENDS BUTRE-
+VERSEMOTORSTALLSORSPINS
+SLOWLY*
+Initialrelease - 2020-02-26
+Purpose forService Bulletin
+Toinformdealersofarunning changeforthenewreverse
+motor(PartNo.83388-09C) forTrikemodels. AsofJanuary
+28,2020allTrikeplatform vehicles willbemanufactured using
+thenewreversemotor.Thenewreversemotorwillbeusedto
+replace reverse motorassemblies (PartNo.83388-09,
+83388-09A,83388-09B) thathavefaileddiagnostics. Referto
+Table3.
+Thismotorcontains severalimprovements forbettermotor
+durability .
+Anewprocedure hasbeenadded,RefertoPINIONEXTENDS
+BUTREVERSE MOTORSTALLSORSPINSSLOWLY.
+Motorcycles Affected
+2009-2025 Trikeplatform. RefertoTable2.
+Table2.TrikeModels
+Model Years
+FLHTCUTG 2009-2025
+FLHXXX 2010-201 1
+FLRT 2015-2025
+FLHTCUTGSE 2020-2022
+FLHTCUTGANV 2013,2018,2023
+FLTRT 2023-2025
+Markets Affected
+Allmarkets areaffected.
+PartNumbers
+RefertoTable3.Table3.PartNumbers
+NewPartNo. ItemDescription PastPartNo.
+83388-09C Reverse MotorAssembly83388-09,
+83388-09A,
+83388-09B
+Required DealerAction
+NOTE
+It'simportant tofollowallrelevant troubleshooting steps
+toensurethecorrectrepairismade.Warrantyclaimsmay
+bedeniedifthereverse motorisinspected anditwas
+determined thatonlytherepairoutlined inupdated bulletin
+M1508needed tobeperformed.
+Table4.Required DealerAction
+Required Description Category
+MustPerform Repair 1
+RepairIfPresenting Symptom 2
+FeaturePack-
+Customer/Dealer Paid3
+Informational Purposes Only 4
+Perform thereverse motordiagnostics andtestingperthe
+service bulletin todetermine therequired replacement
+component:
+•Solenoid (PartNo.31400139)
+•Electrical kit(PartNo.31400143)
+Ifthemotorhasfailedelectrically orifthereisphysical damage
+to:
+•Gearhousing
+•Planetary gearset
+•Piniongear
+•Cracked motormounting bossesonthegearhousing
+Replacing thereverse motorassembly isrequired inthese
+instances. Seethepartsmanual forreverse motor
+replacements.
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE
+Guide
+Table5.Service Bulletin Guide
+REVERSE MOTORPINION
+WILLNOTDISENGAGEDESCRIPTION ANDOPERA-
+TION
+DISASSEMBLEREVERSE MOTORSTALLS
+ORSPINSTOOSLOWLY
+ASSEMBLE REVERSE MOTORRUNSON
+NEWLABORCODEREVERSE MOTORINOPER-
+ATIVE
+DESCRIPTION ANDOPERATION
+Thereversemotorusesbatterypowertomovethevehiclein
+reversewiththeenginerunningandthetransmission inneutral.
+Thereversemotorisdesigned forlightload,shortduration use.
+Steepinclines, longdistance travelinreverse orattempted
+operation withbrakesappliedwilldrainthebatteryorcause
+thereversecircuitbreakertotrip.
+Thereversesystemisanelectrical systemwithanoutputdrive
+connected directlytothevehicledrivewheninoperation. The
+systemusesa:
+•Reverse motor.
+•Reverse motorsolenoid.
+•Electrical kit(ifequipped, contains PrintedCircuitBoard
+(PCB)relayand2-wayswitch)
+•Reverse controlsolenoid.
+•Reverse ControlModule(RCM).
+•150Amanualresetcircuitbreaker.
+•Reverse handswitch(Located intheRightHandControl
+Module(RHCM)).
+SeeFigure1.Thereversemotorandattached reversemotor
+solenoid resembles astartermotor.Theassembly issingle
+direction (reverse) onlyandcannotbeusedtomovethevehicle
+forward. Voltagetothereverse motorassembly isprovided
+through a150Amanualresetcircuitbreaker andtheRCM
+solenoid, inresponse totheoutputoftheRCM.
+Operation
+TheElectronic ControlModule(ECM)willenablereverse if
+conditions arecorrect.
+•Reverse switchonRHCMispressed.
+•Transmission isinneutral.
+•Vehicleisnotmoving.
+•Parking brakeisdisengaged andindicator lightisnot
+illuminated onInstrument Module(IM).
+•Enginerunningatlessthan1,500rpm.
+•NoreverseDiagnostic TroubleCodes(DTCs)arepresent.
+Uponenabling reverse function, theECMwillactivate the
+reverse telltalelamplocated intheIM(FLHTCUTG) or
+speedometer (FLRT)andindicate reverse enablestatusto
+othermodules viaaController AreaNetwork (CAN)message.
+1.Oncethereverseenablestatusisacknowledged bythe
+BodyControlModule(BCM),theBCMsupplies battery
+voltagethroughthe(TN/V)wiretoRCM[245]terminal 3.
+2.TheRCMsendsasignaltotheECMonthe(TN/BE) wire.3.Withoutelectrical kit:SeeFigure3.Whenreverse is
+enabled, theECMsends5VtotheRCMthroughthe(TN)
+wire.TheRCMactivates thereversecontrolsolenoid. The
+controlsolenoid activates thereverse motorsolenoid
+causing thereversemotortoengageandthevehicleto
+backup.Reverse isdisabled foranyofthefollowing
+conditions:
+•Reverse switchonRHCMisreleased.
+•Transmission isshiftedintogear.
+•Engineisstopped.
+4.Withelectrical kit:SeeFigure4.Whenreverseisenabled,
+theECMsends5voltstotheRCMthroughthe(TN)wire.
+TheRCMactivates thereverse controlsolenoid. The
+controlsolenoid activates thereversemotorsolenoid. When
+thereversemotorsolenoid isactivated, the2-wayswitch
+andPCBrelayaresignaled. The2-wayswitchsupplies
+powertothereversemotorcausing thereversemotorto
+engage andthevehicletobackup.Whenthereverse
+controlsolenoid deactivates, thePCBrelaysignalsthe
+2-wayswitchtosupplypowertotheotherpostofthe
+reverse motor.Thismomentary voltage releases the
+tensionbetween thereversemotorgearanddrivegear
+allowing thesolenoid todisengage moreeasily.Reverse
+isdisabled foranyofthefollowing conditions:
+•Reverse switchonRHCMisreleased.
+•Transmission isshiftedintogear.
+•Engineisstopped.
+Table6.CodeDescription
+DESCRIPTION DTC
+Reverse actuator feedback low P1772
+Reverse actuator feedback error P1775
+Reverse actuator low P1777
+Reverse actuator high P1778
+5
+43211164773
+RCM[245] 1.
+RCMsolenoid [251B] 2.
+RCMsolenoid [215A] 3.
+Reverse motorassembly 4.
+RCMsolenoid [246] 5.
+Figure1.TypicalReverse System
+2/20 M1508
+1164892Figure2.RHCM:Reverse Switch
+132
+4
+56215911
+Reverse motorsolenoid terminal [248] 4. Reverse motorhighcurrentinputterminal [249B] 1.
+Reverse motorandRCMground 5. Reverse motorsolenoid 2.
+Reverse motor 6. Reverse motorsolenoid highcurrentinputterminal
+[249A]3.
+Figure3.Reverse Motorwithout Electrical Kit
+M1508 3/20
+1232 1
+5
+64
+791011
+81416276Reverse motorandRCMground 7. K1/K2switch 1.
+Reverse motor 8. Terminal [T4] 2.
+PCBrelay 9. Reverse motorsolenoid highcurrentterminal
+[249A]3.
+Reverse motorterminal [T12] 10. Reverse motorsolenoid 4.
+K1/K2switchground 11. Reverse motorsolenoid terminal [248] 5.
+Reverse motorsolenoid terminal [248] 12. Reverse motorterminal [T7] 6.
+Figure4.Reverse MotorWithK1/K2SwitchAssembly
+1 21178581
+Resetlever(pushindirection ofarrowtoreset) 1.
+Manualtrippushbutton 2.
+Figure5.Reverse MotorCircuitBreaker
+Conditions forSettings
+TheseDTCswillsetwhileattempting toengagereverse.•Diagnostic TroubleCode(DTC)P1772willsetifECM[78-3]
+terminal 4isshortedtoground.
+•DTCP1775willsetifECMhasdetected anerrorwithinthe
+reversesystem.
+•DTCP1777willsetifECM[78-3]terminal 16isshortedto
+ground.
+•DTCP1778willsetifECM[78-3]terminal 16isshortedto
+batteryvoltage.
+Diagnostic Tips
+Thereisnobreakout boxavailable fortestingthereversemotor
+system. Whenperforming thediagnostic tests,usetheTEST
+CONNECT ORKIT(PARTNUMBER: HD-41404) anda
+multimeter .
+Thereversesystemmaynotworkproperly ifbatteryvoltageis
+lowerthan10V.Connect batterytobatterycharger before
+performing anydiagnostic tests.
+Raisetherearwheelsoffthegroundbyplacingjackstands
+undertherearaxlebeforeperforming anydiagnostic teststhat
+requirepushing thereversebutton.
+Beforeproceeding withdiagnostic tests,always:
+4/20 M1508
+•Checkallfuses.
+•Checkthatbatteryisfullycharged.
+•Checkthatcharging systemisworkingproperly.
+•Checkthatparkingbrakeisdisengaged andindicator lamp
+isnotilluminated.
+•Tripandresetthe150Acircuitbreaker.
+NOTE
+SeeFigure5.Thecircuitbreakerismanually resettable witha
+trippushbutton andaresetlever.
+Tomanually tripthecircuitbreaker:
+1.Pushdownonthetrippushbutton.
+2.Resetleverwillextendout.
+NOTE
+Whentheresetleverisextended asshown,thecircuitbreaker
+isopen/tripped.
+1.Toreset,presstheresetlevertowardthecircuitbreaker
+bodyuntilanaudibleclickisheardandtheleverisfully
+seatedagainstthecircuitbreakerbody.2.Ifthecircuitbreakerrepeatedly opensundernon-strenuous
+loadingconditions, orifthereversemotorwillnotoperate
+afterresetting circuitbreakerandchecking fuses,proceed
+withdiagnostics.
+NOTE
+•Whenthecircuitbreakertrips,thereversemotorpiniongear
+engages theringgear.Thisisnormal.
+•Thereshouldbeanaudible"click"whenresetting thecircuit
+breaker.Presstheresetswitchuntilitisfullyseatedagainst
+thecircuitbreakerbody.
+•Thereverseenableindicator mayremainonwhilethecircuit
+breakerisopen.
+Itisveryimportant thatthevehiclestartsandrunscorrectly.If
+thevehicledoesnotstartandrunproperly,itcancausethe
+reversesystemtooperateimproperly .
+Connector Information
+Foradditional information abouttheconnectors inthefollowing
+diagram(s) anddiagnostic procedure(s), including thecolorof
+theharness testkitterminal probes, seeWireHarness
+Connectors/General intheservicemanualsupplement.
+M1508 5/20
+2 14 3ReverseAcviateInput
+ReverseEnableFeedback
+RCM
+2345678
+2345678
+AccesoryPowerReverseLightPowerGround
+ReverseActivate InputReverseEnableFeedbackRCMSolenoid PowerRCMSolenoid GroundBCM
+Accessory Power
+M2
+To
+Main
+HarnessGround
+SystemPower
+G4L3CANLow
+E2CANHigh
+NeutralSwitchInput
+D2D3M2G4Reverse LightPower
+G2G2L3 E2D2D3
+Main
+FuseABSystemPowerFuse
+BatteryFuseFuseBlock
+[64B]
+[251A][251B]ReverseControl
+Solenoid
+(14AWG)150AManual
+ResetCircuit
+Breaker[252B]
+[252A]
+RedBand
+BatteryStarterEngine GND1
+GroundGroundSystemPowerBatteryFuseGroundECM
+101618 1310CANLowCANHigh
+14101618 41016
+41016131014
+1
+1
+2
+3
+41
+2
+3
+42
+12Instrument
+Cluster
+28 5728 57CANLow
+BatteryFuseCANHigh
+Ground
+32453245
+NeutralSwitch1 11 1
+GND1[242A]
+[242B][78A-3]
+[78B-3][39A]
+[39B]
+[1A]
+[1B]
+TN/BE
+TN/BE
+BK/GNBK/GN
+BK/GN
+BK/GNBK/GNBK/GN
+BK/GN
+TN/GY
+BK[78A-1]
+[78B-1][78A-2]
+[78B-2]
+TN/R
+TN/V
+TN/VTN/GYTN/RV/GN
+V/GN R/GN
+R/GNW/BK
+W/BKW/BKR/GN
+R/GN[245B][245A]
+[131B-1]
+[131A-1]
+[246B]
+[246A][131B-2]
+[131A-2]
+[5B]BKBK
+BK
+BK
+BK
+BK
+BK BK BKGN
+BKBKBK
+BK
+BK
+BKGNBK
+BK
+BKBK
+BKTN
+TN
+R
+RRYY
+WW
+RRWWR/OR/OR/O
+R/Y
+R/YR/YR/O R/OW/R
+W/BK
+W/RW/RW/BKW/R
+W/R(BK) (BN) (GY)
+ReverseMotor
+Solenoid
+(14AWG)(6AWG)
+[249B][249A]
+T4
+T12T7[253]Reverse
+MotorContactor
+PCB
+Relay2-Way
+SwitchT1 T11
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+RR
+YW
+BKBKBK[248]1421193Figure6.Simplified Reverse MotorSystem withSwitchAssembly: FLHTCUTG
+6/20 M1508
+2 14 3ReverseAcviateInput
+ReverseEnableFeedback
+RCM
+2345678
+2345678
+AccesoryPowerReverseLightPowerGround
+ReverseActivate InputReverseEnableFeedbackRCMSolenoid PowerRCMSolenoid GroundBCM
+Accessory Power
+M2
+To
+Main
+HarnessGround
+SystemPower
+G4L3CANLow
+E2CANHigh
+NeutralSwitchInput
+D2D3M2G4Reverse LightPower
+G2G2L3 E2D2D3
+Main
+FuseABSystemPowerFuse
+BatteryFuseFuseBlock
+[64B]
+[251A][251B]ReverseMotor
+SolenoidReverseControl
+Solenoid
+(14AWG)(6AWG)
+(14AWG)[249B][249A]
+T4
+T12T7[253]Reverse
+Motor150AManual
+ResetCircuit
+BreakerContactor
+PCB
+Relay2-Way
+Switch[252B]
+[252A]
+RedBand
+Battery Starter Engine GND1
+GroundGroundSystemPowerBatteryFuseGroundECM
+101618 1310CANLowCANHigh
+14101618 41016
+41016131014
+12
+1
+2
+3
+41
+2
+3
+412Speedometer
+28 5728 57CANLow
+BatteryFuseCANHigh
+Ground
+31623162451011451011
+NeutralSwitch1 11 1
+GND1T1 T11[242A]
+[242B][78A-3]
+[78B-3][39A]
+[39B]
+[20A]
+[20B]
+TN/BE
+TN/BE
+BK/GNBK/GN
+BK/GN
+BK/GNBK/GNBK/GN
+BK/GN
+TN/GY
+BK[78A-1]
+[78B-1][78A-2]
+[78B-2]
+TN/R
+TN/V
+TN/VTN/GYTN/RV/GN
+V/GN R/GN
+R/GNW/BK
+W/BKW/BKR/GN
+R/GN[245B][245A]
+[131B-1]
+[131A-1]
+[246B]
+[246A][312B]
+[312A]
+[131B-2]
+[131A-2]
+[5B]BKBK
+BK
+BK BK BKGN
+BKBKBKBK
+BKBK
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BK BKBK
+BK
+BKBK
+BKGNBK
+BK
+BKBK
+BKTN
+TN
+RRR
+RW
+Y YWYW
+R
+RRWWR/OR/OR/O
+R/Y
+R/YR/YR/O R/OW/R
+W/BK
+W/RW/RW/BKW/BKW/BK
+W/RW/RW/R
+W/BKW/BK
+W/RW/R
+W/R(BK) (BN) (GY)
+[248]1418902Figure7.Simplified Reverse MotorSystem withSwitchAssembly: FLRT
+M1508 7/20
+PINIONEXTENDS BUTREVERSE MOTOR
+STALLSORSPINSSLOWLY
+NOTE
+Raisetherearwheelsoffthegroundbyplacingjackstands
+undertherearaxlebeforeperforming anydiagnostic teststhat
+requirepushing thereversebutton.
+Avideoisassociated withthisprocedure. RefertoSupplemental
+Procedure Video.
+1.Reverse MotorVoltageTest
+1.Disconnect reverse motorsolenoid terminal [249A]and
+inspectconnections.
+2.Connect reversemotorsolenoid terminal [249A].
+3.Testvoltagefrom[249A]toground.
+4.Engagereversemotor.
+5.Isbatteryvoltagepresent?
+a.Yes.GotoStep2.
+b.No.Continue tosectionREVERSE MOTORSTALLS
+ORSPINSTOOSLOWLY.
+BK
+BKR
+R1967664
+Figure8.
+2.K1/K2RelayTest
+1.Remove dustcoveronT7.
+2.TestvoltagefromT7toground.
+3.Engagereversemotor.
+4.2.Isvoltagelessthan9V?
+a.Yes.Replace electrical kit.
+b.No.Continue tosectionREVERSE MOTORSTALLS
+ORSPINSTOOSLOWLY.
+BK
+BKR
+R1967665Figure9.
+REVERSE MOTORSTALLSORSPINSTOO
+SLOWLY
+1.Reverse System Identification Test
+1.Inspect150Acircuitbreaker.
+2.Resetifnecessary .
+3.Inspectreversemotorassembly .
+4.Doesthereversemotorassembly haveanelectrical kit?
+a.Yes.GotoStep2.
+b.No.GotoStep4.
+2.Reverse MotorVoltageDropTest
+NOTE
+Raisetherearwheelsoffthegroundbyplacingjackstands
+undertherearaxlebeforeperforming anydiagnostic teststhat
+requirepushing thereversebutton.
+1.Perform voltagedroptestfrombatterypositivetoreverse
+motorterminal T7withreversemotorengaged.
+8/20 M1508
+2.Isvoltagedropgreaterthan1V?
+BK
+BK
+BKR
+R
+R1422154
+Figure10.
+a.Yes.GotoStep3.
+b.No.GotoStep8.
+3.Reverse System VoltageDropTest
+1.Perform voltagedroptestfrombatterypositivetoreverse
+motorsolenoid terminal[249B]withreversemotorengaged.
+2.Isvoltagedropgreaterthan1V?
+BK
+BK
+BKR
+R
+R1422359
+Figure11.
+a.Yes.GotoStep4.
+b.No.Replace electrical kit.
+4.Reverse MotorSolenoid VoltageDropTest
+1.Perform voltagedroptestfrombatterypositivetoreverse
+motorsolenoid terminal[249A]withreversemotorengaged.2.Isvoltagedropgreaterthan1V?
+BK
+BK
+BKR
+R
+R1229447
+Figure12.
+a.Yes.GotoStep5.
+b.No.Replace reversemotorsolenoid.
+5.Reverse MotorSolenoid CircuitTest
+1.Perform voltagedroptestfrombatterypositivetoreverse
+motorcircuitbreaker terminal [252B]withreversemotor
+engaged.
+2.Isvoltagedropgreaterthan1V?
+(+) (–)1229454
+Figure13.
+a.Yes.GotoStep6.
+b.No.Repair/replace circuitbreaker toreverse motor
+solenoid wire.
+6.CircuitBreaker VoltageDropTest
+1.Perform voltagedroptestfrombatterypositivetoreverse
+motorcircuitbreaker terminal [252A]withreversemotor
+engaged.
+M1508 9/20
+2.Isvoltagedropgreaterthan1V?
+(+) (–)1229458
+Figure14.
+a.Yes.GotoStep7.
+b.No.Replace circuitbreaker.
+7.VehicleStarterTest
+1.Performvoltagedropbetween batterypositiveandthehigh
+currentpowerfromthevehiclestarter.
+2.Isvoltagedropgreaterthan1V?
+BK
+BK
+BK
+R
+R
+R
+BK12
+3 41157345
+Figure15.
+a.Yes.Repair/replace vehiclestartertobatterypositive
+wire.
+b.No.Repair/replace vehiclestartertocircuitbreakerwire.
+8.Ground CircuitTest
+1.Performvoltagedropbetween batterynegative andreverse
+motormounting boltswithreversemotorengaged.2.Isvoltagedropgreaterthan1V?
+BK
+BKBK
+R
+R
+R
+BK12
+3 41157346
+Figure16.
+a.Yes.Clean/repair mounting boltsandmounting surface
+orgroundcablefromtransmission casetoreversemotor
+mounting bolt.
+b.No.GotoStep9.
+9.Reverse MotorCurrent DrawOnVehicleTest
+1.Perform reversemotorcurrentdrawtestonvehicle.See
+Reverse MotorTest.
+2.Aretestresultswithinrange?
+a.Yes.GotoStep10.
+b.No.GotoStep11.
+10.Reverse MotorTest
+1.Perform reversemotorsolenoid test.SeeReverse Motor
+Solenoid.
+2.Didreversemotorsolenoid passthetest?
+a.Yes.Replace reversemotor.
+b.No.Replace reversemotorsolenoid.
+11.Reverse MotorFreeRunning Current DrawTest
+1.Perform reversemotorfreerunningcurrentdrawbench
+test.SeeTestingReverse MotoronBench.
+2.Aretestsresultswithinrange?
+a.Yes.Repairsourceofmechanical bind.
+b.No.Replace reversemotor.
+REVERSE MOTORRUNSON
+1.Reverse Solenoid Control CircuitTest
+1.Tripcircuitbreaker.
+2.Disconnect reverse motorsolenoid [248]andinspect
+connections.
+3.Resetcircuitbreaker.
+4.TurnIGNON.
+10/20 M1508
+5.Doesreversemotorcontinue torunon?
+a.Yes,without electrical kit.Replace reverse motor
+solenoid.
+b.Yes,withelectrical kit.GotoStep5.
+c.No.GotoStep2.
+2.RCMSolenoid CircuitTest
+1.TurnIGNOFF.
+2.Disconnect reverse controlsolenoid [246]andinspect
+connections.
+3.TurnIGNON.
+4.Withreverse drivebuttonnotpushedandusingTEST
+CONNECT ORKIT(PARTNUMBER: HD-41404) ,test
+voltagebetween [248]andground.
+5.Isbatteryvoltagepresent?
+(+) (–)1229462
+Figure17.
+a.Yes.GotoStep3.
+b.No.GotoStep4.
+3.Reverse MotorSolenoid Control CircuitTest
+1.TurnIGNOFF.
+2.Disconnect reverse controlsolenoid [251]andinspect
+connections.
+3.TurnIGNON.
+4.Withreversedrivebuttonnotpushed,testvoltagebetween
+[248]andground.
+5.Isbatteryvoltagepresent?
+a.Yes.Repairshorttovoltageon(BK)wire.
+b.No.Replace Reverse ControlModule(RCM)solenoid.
+4.RCMSolenoid Control CircuitTest
+1.TurnIGNOFF.
+2.Disconnect RCM[245]andinspectconnections.
+3.TurnIGNON.
+4.Withthereverse drivebuttonnotpushed, testvoltage
+between [246B]terminal 1andground.5.Isbatteryvoltagepresent?
+12(+) (–)1158718
+Figure18.
+a.Yes.Repairshorttovoltageon(TN/R)wire.
+b.No.Replace RCM.
+5.Electrical KitTest
+1.Disconnect [249A]and[249B].
+2.Testforcontinuity reversemotorsolenoid terminals [249A]
+and[249B].
+3.Iscontinuity present?
+BK
+BK
+BK R
+R1422360
+Figure19.
+a.Yes.Replace reversemotorsolenoid.
+b.No.Replace electrical kit.
+REVERSE MOTORINOPERA TIVE
+1.CircuitBreaker ResetTest
+1.Reset150Areversemotorcircuitbreaker.
+2.Verifyreversefunction.
+3.Isreversemotorworking?
+a.Yes.Circuitbreakerwasreset.
+b.No.GotoStep2.
+2.Reverse SwitchFunction Test
+1.Verifyconditions arecorrecttoenablereverse. See
+Reverse MotorSystemDiagnostics.
+2.Startengine.
+3.Activate reverse buttononRightHandControlModule
+(RHCM).
+M1508 11/20
+4.Doesreverseindicator illuminate?
+a.Yes.Solid"R".GotoStep3.
+b.Yes.Flashing "R".GotoStep16.
+c.No.SeeIndicator LampDiagnostics.
+3.RCMCircuitTest
+NOTE
+Raisetherearwheelsoffthegroundbyplacingjackstands
+undertherearaxlebeforeperforming anydiagnostic teststhat
+requirepushing thereversebutton.
+1.Withreverse drivebuttonpressed andusingTEST
+CONNECT ORKIT(PARTNUMBER: HD-41404) ,test
+voltagebetween reversemotorsolenoid [248]andground.
+2.Isvoltagegreaterthan10V?
+(+) (–)1229462
+Figure20.
+a.Yes.GotoStep4.
+b.No.GotoStep7.
+4.Reverse MotorHighCurrent CircuitTest
+1.Withreversebuttonpressed, testvoltagebetween reverse
+motorsolenoid [249B]andground.
+2.Isvoltagegreaterthan10V?
+(+) (–)1229466
+Figure21.
+a.Yes.GotoStep5.
+b.No.GotoStep13.5.Ground CircuitTest
+1.TurnIGNOFF.
+2.Testresistance between reversemotormounting bolt[253]
+andground.
+3.Isresistance lessthan0.5Ω?
+a.Yes,without electrical kit.GotoStep6.
+b.Yes,withelectrical kit.GotoStep23.
+c.No.Clean/repair mounting boltsandmounting surface.
+6.Reverse MotorSolenoid Test
+1.Perform reversemotorsolenoid test.SeeReverse Motor
+Testing.
+2.Didreversemotorsolenoid passtest?
+a.Yes.Replace reversemotor.
+b.No.Replace reversemotorsolenoid.
+7.Reverse MotorControl CircuitTest
+1.Startengine.
+2.Withreversebuttonpressed, testvoltagebetween reverse
+controlsolenoid [251A&B]andground.
+3.Isvoltagegreaterthan10Vatbothterminals?
+(+) (–)1229470
+Figure22.
+a.Yes.Repairopenbetween [251B]and[248](BK)wire.
+b.No,onlyterminal [251A].GotoStep8.
+c.No,neitherterminal. GotoStep12.
+8.RCMSolenoid Control CircuitTest
+1.TurnIGNOFF.
+2.Disconnect [246]andinspectconnections.
+3.Startengine.
+4.Withreverseswitchpressed, testvoltagebetween [246B]
+terminal 1(TN/R)wireandground.
+12/20 M1508
+5.Isvoltagegreaterthan10V?
+12(+) (–)1158718
+Figure23.
+a.Yes.GotoStep9.
+b.No.GotoStep11.
+9.RCMSolenoid Ground CircuitTest
+1.TurnIGNOFF.
+2.Testresistance between [246B]terminal 2andground.
+3.Isresistance lessthan1Ω?
+12(+) (–)1158740
+Figure24.
+a.Yes.Replace RCMsolenoid.
+b.No.GotoStep10.
+10.RCMGround CircuitTest
+1.Disconnect [245]andinspectconnections.
+2.Testresistance between [245B]terminal 8and[246B]
+terminal 2(TN/GY).
+3.Isresistance lessthan0.5Ω?
+4321
+87651 2
+(+) (–)1177613
+Figure25.
+a.Yes.Replace RCM.
+b.No.Repairopenin(TN/GY) wire.
+11.RCMSolenoid Control CircuitOpenTest
+1.TurnIGNOFF.
+2.Disconnect RCM[245]andinspectconnections.
+3.Testresistance between [246B]terminal 1and[245B]
+terminal 7(TN/R).4.Isresistance lessthan0.5Ω?
+4321
+87651 2
+(+) (–)1177617
+Figure26.
+a.Yes.Replace RCM.
+b.No.Repairopenin(TN/R)wire.
+12.CircuitBreaker SupplyVoltageTest
+1.Testvoltagebetween circuitbreaker[252A]andground.
+2.Isvoltagegreaterthan10V?
+(+) (–)1229474
+Figure27.
+a.Yes.Repairopenbetween [251A]and[252A](BK)wire.
+b.No.Repairopenbetween [252A]andstarter(BK)wire.
+13.Reverse MotorSolenoid Test
+1.Startengine.
+2.Withreversebuttonpressed, testvoltagebetween reverse
+motorsolenoid [249A]andground.
+M1508 13/20
+3.Isvoltagegreaterthan10V?
+(+) (–)1229481
+Figure28.
+a.Yes,without electrical kit.Replace reverse motor
+solenoid.
+b.Yes,withelectrical kit.GotoStep23.
+c.No.GotoStep14.
+14.Reverse MotorCircuitSolenoid Test
+1.Withreversebuttonpressed, testvoltagebetween circuit
+breaker[252B]andground.
+2.Isvoltagegreaterthan10V?
+(+) (–)1229485
+Figure29.
+a.Yes.Repairopenbetween [249A]and[252B](BK)wire.
+b.No.GotoStep15.
+15.CircuitBreaker Test
+1.Withreversebuttonpressed, testvoltagebetween circuit
+breaker[252A]andground.2.Isvoltagegreaterthan10V?
+(+) (–)1229474
+Figure30.
+a.Yes.Replace circuitbreaker.
+b.No.Repairopenin(BK)wirebetween [252A]and
+starter.
+16.NeutralCircuitTest
+1.Verifytransmission isinneutral.
+2.Isneutrallampfunctional?
+a.Yes.GotoStep17.
+b.No.Seeneutrallampdiagnostics.
+17.Accessory CircuitOpenTest
+1.TurnIGNOFF.
+2.Disconnect RCM[245]andinspectconnections.
+3.TurnIGNON.
+4.Testvoltagebetween [245B]terminal 2(R/Y)wireand
+ground.
+5.Isvoltagegreaterthan10V?
+4321
+8765(+) (–)1177621
+Figure31.
+a.Yes.GotoStep18.
+b.No.Repairopenin(R/Y)wire.
+18.Ground CircuitOpenTest
+1.TurnIGNOFF.
+2.UsingTESTCONNECT ORKIT(PARTNUMBER:
+HD-41404) ,testresistance between RCM[245B]terminal
+5andground(BK)wire.
+14/20 M1508
+3.Isresistance lessthan0.5Ω?
+4321
+8765(+) (–)1177625
+Figure32.
+a.Yes.GotoStep19.
+b.No.Repairopenin(BK)wire.
+19.Backup LightPowerTest
+1.Connect [245].
+2.Connect BREAKOUT BOX(PARTNUMBER: HD-50390-1)
+andBCMCABLE(PARTNUMBER: HD-50390-2A) towire
+harness [242B],leaving[242A]disconnected.
+3.VerifyBCMOVERLA Y(PARTNUMBER: HD-50390-2-P) is
+inpositiononBreakout Box(BOB).
+4.Startengine.
+5.Withreversebuttonpressed, testvoltagebetween BOB
+terminal G2andground.
+6.Isvoltagegreaterthan10V?
+K2
+E3M4
+L1K4K3 K1J4J3
+J2J1H4H3H2H1G4
+G3G2G1F4F3F2F1
+E4 E2E1D4D3D2
+D1C4C3C2C1B4B3
+B2B1A4A3A2A1M3M2M1L4L3L2HD-50390-1
+Modular BreakOutBox
+HD-50390-2-P
+(+) (–)1203511
+Figure33.
+a.Yes.GotoStep20.
+b.No.Replace BodyControlModule(BCM).
+20.Reverse EnableFeedback Test
+1.TurnIGNOFF.
+2.Remove BodyControlModule(BCM)BOB,andconnect
+[242].
+3.Connect BREAKOUT BOX(PARTNUMBER: HD-50390-1)
+andECMCABLE(PARTNUMBER: HD-50390-4) between
+wireharness [78B-1], [78B-2], [78B-3]andECM[78A-1],
+[78A-2], [78A-3].
+4.VerifyECMOVERLA Y(PARTNUMBER: HD-50390-4-P)
+isinpositiononBOB.
+5.Startengine.6.Withreversebuttonpressed, testvoltagebetween BOB
+[78-3]terminal 4and[78-2]terminal 18.
+7.Isvoltagegreaterthan10V?
+[78-1] [78-2] [78-3]91
+891011121314
+15161718
+1234567
+8 1011121314
+15161718
+1234567
+8910 11121314
+15161718234567HD-50390-1
+Modular BreakOutBox
+HD-50390-4-P ECM
+(+) (–)1205667
+Figure34.
+a.Yes.GotoStep21.
+b.No.Replace RCM.
+21.Reverse Activate Test
+1.Pressreversebuttontwotimes,testvoltagebetween BOB
+[78-3]terminal 16andground.
+2.Isvoltagebetween 4–6V?
+[78-1] [78-2] [78-3]91
+891011121314
+15161718
+1234567
+8 1011121314
+15161718
+1234567
+8910 11121314
+15161718234567HD-50390-1
+Modular BreakOutBox
+HD-50390-4-P ECM
+(+) (–)1205315
+Figure35.
+a.Yes.GotoStep22.
+b.No.Replace ECM.
+22.Reverse Activate InputOpenTest
+1.TurnIGNOFF.
+2.Disconnect RCM[245]andinspectconnections.
+3.Testresistance between BOB[78-3]terminal16and[245B]
+terminal 4.
+M1508 15/20
+4.Isresistance lessthan0.5Ω?
+[78-1] [78-2] [78-3]91
+891011121314
+15161718
+1234567
+8 1011121314
+15161718
+1234567
+8910 11121314
+15161718234567HD-50390-1
+Modular BreakOutBox
+HD-50390-4-P ECM 4321
+8765
+(+) (–)1205671
+Figure36.
+a.Yes.Replace RCM.
+b.No.Repairopenin(TN)wire.
+23.Reverse MotorTest
+1.Startengine.
+2.Withreversebuttonpressed, testvoltagebetween reverse
+motorterminal [T7]and[T12].
+3.Isvoltagegreaterthan10V?
+BK
+BKBKR
+R
+R1422361
+Figure37.
+a.Yes.Replace reversemotor.
+b.No.Replace electrical kit.
+REVERSE MOTORPINIONWILLNOT
+DISENGAGE
+1.Validation Test
+1.Pressdownthereversebutton.2.Didthetrikereversebutthepinionstuckwhenthebutton
+wasreleased?
+a.Yes.GotoStep2.
+b.No.Systemfunctioning properly.
+2.Electrical KitTest
+1.Connect avoltmeter to[T12]and[T7]onthereversemotor.
+2.Pressthereversebuttonwhilewatching thevoltmeter .
+3.Release thereversebuttonwhilewatching thevoltmeter .
+4.Wasbatteryvoltagemomentary seenonthevoltmeter
+whentheswitchwasreleased?
+BK
+BK
+BKR
+R
+R1423216
+Figure38.
+a.Yes.Replace thesolenoid.
+b.No.Replace electrical kit.
+DISASSEMBLE
+NOTE
+Beforedisassembling reversemotor,seeREVERSE MOTOR
+TESTING.
+Remove Electrical Kit
+1.Remove reversemotor.SeeRemove inthissection.
+2.Observe locationofcablestraps.
+3.Discardcablestrapssecuring wiring.
+4.SeeFigure44.Remove contactor Z.
+a.Remove mounting screws(1)whileholdingnuts(6).
+b.Notewireorientation.
+c.Remove terminal screws(5)securing wire#11(4)
+andwire#1(3)fromContactor Z.
+d.Remove Contactor Z(7).
+16/20 M1508
+5.SeeFigure43.Disconnect wiresfromreversing switchto
+solenoid.
+a.Remove wire#8(8)nutfromsolenoid (3).
+b.Remove wire#5(5)nutfromsolenoid.
+6.Disconnect wiresatreversemotor.
+a.Retractrubberbootsfromterminals onreversemotor.
+b.Remove wire#7(7)nutfromreversemotor(10).
+c.Remove wire#12(12)nutfromreversemotor.
+7.Remove wire#2(2)nutfromsolenoid.
+8.Disconnect four-way connector (6).
+9.Remove wire#4fromsolenoid.
+a.Remove heatshrinkfromwire#4(4)screw.
+b.Remove screw.
+10. NOTE
+Lowerscrewsecuring solenoid doesnotneedtobe
+removed unlessremoving solenoid.
+SeeFigure42.Remove reversing switchbracket.
+a.Remove screw(1).
+b.VerifyO-ring(4)behindupperbracket(3)remained
+inplace.
+c.SeeFigure43.Remove bracketscrew(13).
+11.SeeFigure43.Remove timingrelay.
+a.Disconnect four-way connector (6).
+b.Remove timingrelayscrews(14).
+Remove Solenoid
+1.Ifnecessary: Remove contactor Zlowerscrew(4).
+2.Remove solenoid, disengaging plungerfromlever.
+ASSEMBLE
+InstallSolenoid
+1.SeeFigure40.Installplunger(2)withslotonarm(1).
+2.InstallO-ring(4).
+3.SeeFigure39.Placespring(3)inspringgroove(2)on
+plunger(1).
+4.Placesolenoid body(3)inpositionwithspringcentered.5.SeeFigure41.InstallO-ring(1).
+6.Position lowerbracket(2).
+7.Movesolenoid towardinstalled position andinstallscrew
+(4)withlockwasher(3).Tightenfingertight.
+8. NOTE
+VerifyO-ringisinpocketinreversemotorbodyunderupper
+bracket.
+SeeFigure42.Position upperbracket(3)between o-ring
+(4)andreversing switchbracket(5).
+9.Installscrew(1)withlockwasher (2).
+10.Tightenbothscrews.
+Torque:62–80in-lbs(7–9N·m)Reverse motorsolenoid
+screws
+431
+21427389
+Plunger1.
+Springgroove 2.
+Spring3.
+Solenoid body 4.
+Figure39.Solenoid Components
+M1508 17/20
+21
+341427414Arm1.
+Plunger2.
+Springgroove 3.
+O-ring4.
+Figure40.Solenoid Plunger Install
+14
+231426230
+O-ring1.
+Lowerbracket 2.
+Lockwasher 3.
+Screw4.
+Figure41.Contactor ZLowerBracket
+1
+234
+51427788Screw1.
+Lockwasher 2.
+Upperbracket 3.
+O-ring4.
+Reversing switchbracket 5.
+Figure42.Contactor ZUpperBracket
+InstallElectrical Kit
+1.SeeFigure43.Installbracketscrew(13).Tighten.
+Torque:27–35in-lbs(3–4N·m)Reversing switchbracket
+screw
+2.Attachwire#9withgroundscrew(11).Tighten.
+Torque:62–80in-lbs(7–9N·m)Reversing switchground
+screw
+3.Installtimingrelay.
+a.Position timingrelay(9)onreversemotor(10).
+b.Installscrews(14).Tighten.
+Torque:35–53in-lbs(4–6N·m)Reverse motorend
+capscrews
+c.Routewiringbetween reversemotorandsolenoid.
+d.Connect four-way connector (6).
+e.Installwire#2(2)onsmallsolenoid stud.
+f.Installnut.Tighten.
+Torque:13–18in-lbs(1.5–2N·m)Reverse motor
+solenoid wire2nut
+g.Installprotective boot.
+4.Installwire#4(4)onsolenoid.
+a.Installwire#4usingscrew.Tighten.
+Torque:9–13in-lbs(1–1.5N·m)Reverse motor
+solenoid screw
+b.Installnewheatshrinkoverscrewandterminal.
+18/20 M1508
+5.Connect reversemotorwires.
+a.Installreversing switchwire#7(7)tolowerreverse
+motorstud.
+b.Installnut.Tighten.
+Torque:44–53in-lbs(5–6N·m)Reverse motorwire
+#7nut
+c.Installprotective boot.
+d.Installreversing switchwire#12(12)toupperreverse
+motorstud.
+e.Installnut.Tighten.
+Torque:44–53in-lbs(5–6N·m)Reverse motorwire
+#12nut
+f.Installprotective boot.
+6.Installwires#8and#5onsolenoid.
+a.Installwire#8(8)onlowersolenoid post.
+b.Installnut.Tighten.
+Torque:44–53in-lbs(5–6N·m)Reverse motorwire
+#8nut
+c.Installprotective boot.
+d.Installwire#5(5)onuppersolenoid post.
+e.Installnutfingertight.
+7.Installcontactor Z.
+a.Position wire#11atlowerpositiononContactor Z.
+b.Installscrew.
+c.Position wire#1atupperpositiononContactor Z.
+d.Installscrew.
+e.Tightenbothscrews.
+Torque:13–18in-lbs(1.5–2N·m)Contactor Zwire
+screws
+f.Installcover.
+g.Installscrews.
+h.Installnut.Tightenscrews.
+Torque:9–13in-lbs(1–1.5N·m)Contactor Zcover
+screws
+8.Installnewcablestraptosecureharness leadstoeach
+other.
+9.Installnewcablestraptosecureharness leadstoeach
+otherandreversemotor.
+8541
+2
+73
+691211
+1013
+141426204Reversing switch 1.
+Wire#2 2.
+Solenoid3.
+Wire#4 4.
+Wire#5 5.
+Four-way connector 6.
+Wire#7 7.
+Wire#8 8.
+Timingrelay 9.
+Reverse motor 10.
+Ground screw 11.
+Wire#12 12.
+Bracket screw 13.
+Timingrelayscrew(2) 14.
+Figure43.Reverse MotorElectrical KitConnections
+M1508 19/20
+1
+6
+72
+45
+31427793Mounting screw(2) 1.
+Cover2.
+Wire#1 3.
+Wire#11 4.
+Terminal screw(2) 5.
+Nut(2) 6.
+Contactor Z 7.
+Figure44.Contactor Z
+NEWLABOR CODE
+Table7.LaborCode
+Time TimeCode Description Item
+1.2hours 1835Reverse operates butpiniondoesnot
+retract.Replace reverseelectronic control
+assembly ,includes diagnosis.
+Supplemental Procedure Video
+WARNING
+Alwaysreviewtheappropriate serviceprocedure priorto
+performing it.Thisvideoisintended tosupplement, not
+replace, documented service procedures. Attempting
+service procedures without thepropertraining, tools,
+equipment, andmanuals couldresultindeathorinjuryto
+youorothers.Thiscouldalsodamage themotorcycle or
+causethemotorcycle tooperate improperly .(10406a)
+Thisvideoisasupplement oftheprocedure covered inthe
+document. Thisvideocanonlybeviewedthrough Service
+Information Portal(SIP).
+1436457
+Video1.PINIONEXTENDS BUTREVERSE MOTORSTALLS
+ORSPINSSLOWLY
+20/20 M1508

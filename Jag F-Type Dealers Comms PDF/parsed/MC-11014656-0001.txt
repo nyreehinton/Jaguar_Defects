@@ -1,0 +1,213 @@
+SIB 41 01 25
+SERVICE ACTION: LEFT  REAR SIDE P ANEL  WATER CHANNEL
+INSPECTION2025-02-25
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+F74 2 Series Gran Coupe January 9, 2025 – January 15, 2024
+ 
+SITUA TION
+ A crack may have formed in the upper left
+corner of the trunk opening (circled in red),
+where the quarter panel contacts the left
+lower corner of the rear window and trunk
+water channel. 
+ 
+Illustration of the inward-facing metal shows
+the general location of the possible crack,
+though the area to be checked in the
+Procedure is on the “back side”/outward-
+facing surface. 
+ 
+The PVC seam sealant applied to the water
+channel may not suf ficiently seal the channel
+in the presence of the crack, resulting in a
+small water leak into the trunks interior . 
+ 
+ The green dots represent the location of
+spot welds. 
+ 
+CORRECTION
+1. Check the inner surface of the trunk metal/water channel for the presence of a crack or metal tear .
+Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 1/8
+ 
+2. If a crack/tear is observed, pour water into the water channel and observe if water passes through
+the crack/tear .
+ 
+3. If water is observed passing through the crack/tear , rework the trunk corner and weld the
+crack/tear , then perform localized painting.
+ 
+PROCEDURE
+ 1. Remove both panels highlighted in yellow
+following the repair instructions listed in
+ISTA/AIR 51 47 151.
+ 
+  2. Using a borescope camera, insert the
+borescope head between both highlighted
+panels.
+ 
+ 3. Using the borescope camera, inspect the
+area shown in the photo for a crack/tear
+where the panel curves/bends (see photos).
+ 
+If NO crack/tear is seen/found on
+the panel, the vehicle can be
+reassembled, and the campaign can
+be closed
+ 
+If A crack/tear is seen/found on the
+panel, continue to step 4 
+ Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 2/8
+Note: All three photos are showing
+the outer side panel removed for
+better visibility of the area
+ 
+ Note: Red line demonstrates where the
+possible crack/tear would be located,
+on the “outboard facing” surface of the
+metal.
+ 
+  
+ 
+ 4. With the borescope head still held in the
+cavity and pointing at the area in question
+(photos in step 3) , use a plastic squeeze
+bottle filled with water to pour water onto the
+PVC seam on top of the water channel (see
+photo below). 
+Check the borescope display to see
+whether water is entering the
+vehicle through the crack/tear . 
+ 
+Submit a TSARA  info only case
+titled “F74 water channel
+inspection” with photos of the
+crack/tear and a video of water
+entering/not entering  the vehicle
+through the crack/tear for further
+instructions/procedures.
+Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 3/8
+ 
+ 
+ 
+PARTS INFORMA TION
+To determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN / Chassis
+number into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the
+vehicle.  
+Part Number Description Quantity
+83 19 2 158 654 K5 body adhesive 50 mL 1 If needed
+83 30 5 A78 8C6 Cartridge gun, 2-comp. 50 mL 1 If needed
+83 42 2 457 337 Cavity protection spray 400 mL 1 If needed
+83 42 5 A66 E25 BMW Group Seam Sealant (D2) 300 mL 1 If needed
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 4/8
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.  
+CLAIM INFORMA TION
+Reimbursement for this Service Action will be via normal claim entry utilizing the applicable work package
+information below , and the Expanded W ork Package information that applies.  
+Plusposition
+(+)Completion before the first vehicle delivery to a customer (New in-stock/No
+in-service date), or the vehicle is already in the workshop for another
+reason and/or repair , identified by the “(Plusposition)”  reference in the
+descriptions below .
+Main workThe vehicle arrives for this Recall, no other Main work will be
+performed/claimed during this workshop visit, identified by the “(Main
+work)”  reference in the descriptions below
+Only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Repair Code: 0041430200F74 Check water channel on rear side panel and
+rework if necessary
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Work Pkg (WP) Labor Operation Description (Plus work) Labor Allowance
+# 1 00 78 520Check the rear left side panel for
+cracks, using a leakage test and
+adhesive bond (Plusposition)10 FRU
+Or: 
+  
+  
+ 
+# 2 00 78 017Check the rear left side panel for
+cracks, using a leakage test and
+adhesive bond (Main work)12 FRU
+ 
+And: 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required)  
+Expanded WP  ADescription (Associated work) Sublet Allowance
+Sublet Code 4Reimbursement for the inspection repair-related bulk
+supply materials (Do not use the BMW part numbers
+for claim submission)See the sublet
+reimbursement
+calculations below
+Sublet reimbursement calculation for claiming the applicable inspection repair-related bulk supply materials
+(BMW part numbers) is at the dealer net (DN) price for the full or proportional quantities used plus your
+center ’s handling.  
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section.  Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 5/8
+Or: 
+Work Pkg (WP) Labor Operation Description (Main work) Labor Allowance
+# 3 00 78 519Check rear left side panel for
+cracks (Plusposition)6 FRU
+Or: 
+  
+  
+ 
+# 4 00 78 016Check rear left side panel for
+cracks (Main work)7 FRU
+ 
+And: 
+Sublet - W ater Channel Sheet Metal Repair and Paint Refinish ( Third Party CCRC/Approved Auto
+Body Shop)
+Expanded WP  B Description (Associated work) Sublet Allowance
+Sublet Code 3Left rear side panel water channel sheet metal repair
+and paint refinish (Third-party sublet invoice) See the sublet
+reimbursement
+calculations below
+Note:  Aftersales Area Manager (AAM) Field Authorization (F AS) is not required.  
+Invoice the water channel sheet metal repair and paint refinish  work in sublet on the repair order at the
+actual cost charged with no handling or markup. The sublet amount must also include any discounts or
+allowances.  
+The appropriate charge for the necessary paint finish work procedure is determined by comparing the
+charged amount against the corresponding amount that is based on your warranty rates.   
+Prior to performing the repair , calculate your center ’s repair cost and then obtain outside repair estimate(s)
+for price comparison purposes.  
+It is your center ’s responsibility to review the repair cost estimate prior to the repair being
+performed. This will help ensure that the amount requested for the paint finish work is consistent
+with what is normally recognized as customary , fair, and reasonable. Also, it must not exceed the
+scope of the repair work that is described in this bulletin.  
+Claim Repair Comments  
+Only reference the SIB number and the work package (Pkg) number performed in the RO technician
+notes and the claim comments (For example: B41 01 25 WP  1, A), unless otherwise required by
+State law .
+ 
+Additionally , explain/itemize the claimed sublet amount. 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an
+IDS ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 6/8
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an
+IDS ticket to the Parts Department
+ 
+ [AM1]US part number
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 7/8
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 41 01 25_SERVICE ACTION: LEFT REAR SIDE PANEL WATER CHANNEL INSPECTION
+about:blank 8/8

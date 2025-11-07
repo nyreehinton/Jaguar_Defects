@@ -1,0 +1,43 @@
+  
+VOLKSWAGEN DEALER COMMUNICATION  
+Ensure all dealer personnel are aware of this notice so they are able to address customer questions. Contact Warranty if you require additional 
+assistance. Direct press inquiries to Volkswagen Public Relations.  
+Volkswagen Customer Protecti on
+38G3 _DLR_LAUNCH 
+Repair Available – Service Action 38G3 / Transmission Control Module (TCM) Software 
+This notice is for:  
+Date:  
+About this Service 
+Action : All Dealer Personnel 
+February 20, 2025 
+On certain vehicles built during a limited production period, oversensitive diagnostic 
+software could cause the message, “Error: selector lever. You can drive on. Please visit 
+workshop” to be displayed in error. To address this condition, Volkswagen is providing a 
+software update for the gearbox control unit. This software will enhance the function of 
+the mechanical “emergency park lock” system with an electric “emergency park lock” 
+system so that unwarranted error messages do not occur.  
+As a reminder, your vehicle owner’s manual contains important information regarding 
+your vehicle’s warning lights and messages. We encourage you and anyone who drives 
+your vehicle to review the owner’s manual to become familiar with the types of vehicle 
+indicators, warnings and messaging you may see.  
+Repair:  •REPAIR AVAILABLE – February 21, 2025
+•See ELSA and Service References in Elsa2Go for complete repair &
+claiming instructions
+•Check both the daily Campaign Open Inventory report and OMD for affected
+vehicles in inventory. Verify OPEN status in ELSA on the day of repair .
+•Repair  every affected inventory vehicle before delivery to consumers .
+Parts Department : No parts required; software update only 
+Affected Vehicles: Country  Beginning 
+Model Year  Ending 
+Model Year  Vehicle  Vehicle Count  
+USA 2022  2022  GOLF GTI  3,683  
+USA 2022  2022  GOLF R  755 
+CAN  2022  2022  GOLF GTI  1,229  
+CAN  2022  2022  GOLF R  450 
+*Counts reflect overall population ; some vehicles may have already been repaired . Check Campaigns/Actions 
+screen in Elsa on the day of repair  to verify that a VIN qualifies for repair under this action.  Elsa is the only valid 
+campaign inquiry & verification source.  
+Notes:  •Schedule owner repairs immediately
+•Owner mailing – March 2 025
+•Loaner/rental coverage – see campaign circular
+-END OF MESSAGE - 

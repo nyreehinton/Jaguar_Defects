@@ -1,0 +1,42 @@
+ 
+192 12V Battery Message on Instrument Cluster with Possible No Start
+Topic number LI54.10-P-078915
+Version 1
+Function group 54.10 - Battery, power supply, voltage converter
+Date 2/14/25
+Validity 192
+Reason for change
+Complaint
+12V battery message on the Instrument Cluster with possible no start.
+Cause
+Low voltage of the 12V battery
+Remedy
+1. Perform battery test via XENTRY Diagnosis (check the "12V battery" component).
+2. If the test result is "The component "Battery" is not in OK. Replace component "battery"", please create a TIPS ca-
+se labeled "192 12V Battery Replacement"
+3. Include the N73/3 EZS CUL and Initial Quick Test
+4. Please do not carry out any further work on the vehicle (software updates, parts replacement, etc.).
+5. For analysis purposes, do not replace the 12V battery for the time being.
+6.The further procedure for processing the vehicle will be communicated via TIPS.
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Overall vehicle  > Power supply  > Battery/On-board electrical system  > Battery/on-board electrical system display
+message  > Low voltage Charge battery
+20.02.2025   15:00   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+20.02.2025   15:00   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

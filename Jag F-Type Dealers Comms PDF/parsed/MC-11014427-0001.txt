@@ -1,0 +1,12 @@
+   
+SSM 53387   2020-2022 F-Super Duty - 6.7L - Illuminated MIL With DTC U3012
+Some 2020-2022 F-Super Duty vehicles equipped with a 6.7L engine may exhibit an illuminated malfunction
+indicator lamp (MIL) with diagnostic trouble code (DTC) U3012 only stored in the powertrain control module
+(PCM). This may be due to the software in the PCM and/or a concern with the Telematics Control Unit (TCU)
+Module. To correct this condition, verify the battery state of charge (SOC) using a Ford Diagnostic and Repair
+System (FDRS) scan tool by navigating to Toolbox tab > Datalogger > BCM and viewing the BATT_SOC
+parameter identification (PID). If the SOC is less than 70%, refer to Workshop Manual (WSM) Section 414-01
+to diagnose the battery. If the BATT_SOC PID reads 70% or higher, check OASIS and perform any applicable
+TSBs directing to update the PCM software. If no OASIS message is present and/or the PCM is at the latest
+level, replace the TCU with latest level part. Refer to WSM, Section 415-00. For claiming, use causal part
+14G229 and applicable labor operations in Section 10 of the Service Labor Time Standards (SLTS) Manual.

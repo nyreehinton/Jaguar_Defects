@@ -1,0 +1,88 @@
+Technical InformationService
+27/24 ENU 90649
+Software Error in the Auxiliary Alarm System Control Unit Leads to Fault Memory Entry
+“B107314” in the Airbag Control Unit (27/24)
+Model Line: Panamera (971)
+Model Year: As of 2018 up to 2021
+Equipment: • Pre-fitting VTS and Porsche Car Connect (PCC, M-No. 7G9)
+• VTS security package (with PCC) and keypad (M-No. 7I0)
+• Porsche Vehicle Tracking System Plus (PVTS Plus, M-No. 7I2 )
+Concerns: VTS control unit
+Cause: A software error in the control unit for the auxiliary alarm system is causing delays in the
+start-up behavior of the control unit.As a result, there is briefly no voltage signal on the cr ash signal line to the airbag control unit. This subse-
+quently causes the yellow airbag warning light to be displayed in the instrument cluster.
+The following fault memory entry is stored in the fault memory entry of the airbag control unit:• B107314 - Crash signal analogue, short circuit to ground or open circuit (907314)
+Information
+The functionality of the airbag control unit with regard to the triggering of the restraint systems is not
+reduced despite the active warning lamp.
+Action: If there is a customer complaint, re-program the auxiliary alarm system control unit with the latest PIWIS
+Tester software release.
+Information
+The minimum programming requirement is the PIWIS Tester software release: 42.600.034
+Required tools
+Tool: •P90999 - PIWIS Tester 4
+• Battery charger with a current rating of at least 90 A , e.g., 90A battery cha rger .F o rf u r t h e r
+information about the battery chargers to be used, see the corresponding Workshop Manual. 
+Workshop Manual '270689 Charging battery and vehicle electrical system'
+Re-programming control unit for auxiliary alarm system
+1 The basic work procedure for control unit programming is described in the Workshop Manual 
+Workshop Manual '9X00IN Basic instructions and proce dure for control unit programming using the
+PIWIS Tester - section on “Programming”' .
+AfterSalesJan 9, 2025
+Page 1 of 3
+Service9 9064 ENU27/24Technical Information
+Speci ﬁc information on control unit programming in the context of this Technical Infor-
+mation:
+Required PIWIS Tester software release: 42.600.034 (or higher)
+Type of control unit programming: Control unit programming using the ‘Campaign’
+function in the additional menu on the PIWIS
+Tester by entering a programming code.
+Programming code: C2Q4P
+Programming sequence: Read and follow the information and
+instructions on the PIWIS Tester during the
+guided programming sequence.
+During the programming sequence, the control
+unit is re-programmed and then re-codedau-
+tomatically .
+Do not interrupt programming and coding.
+A backup documentation process for the
+re-programmed software releases starts as
+soon as programming and coding is complete.
+Programming time (approx.): 1 minutes
+Software programmed during this campaign: • Software release of control unit for auxiliary
+alarm system: 0374
+• Software part number: 7PP.035.620.GD
+Following control unit programming, the
+software release can be read out from therelevant control unit using the PIWIS Tester in
+the menu ‘Incremented identifications’.
+Procedure in the event of error messages
+appearing during the programming sequence:Workshop Manual '9X00IN Basic instructions
+and procedure for control unit programmingusing the PIWIS Tester - section on “Trou-
+bleshooting”' .
+Procedure in the event of a termination in the
+control unit programming:Repeat control unit programming by re-entering
+the programming code.
+Jan 9, 2025
+Page 2 of 3 AfterSales
+Technical InformationService
+27/24 ENU 90649
+2.1 In the control unit selection (‘Overview menu’) press •F7“ to call up the Additional menu.
+2.2 Select the function “Read all fault memories and delete if necessary” and press •F12“
+(‘Next’) to confirm.
+3 Exit the diagnostic application, switch off the ign ition, disconnect the PIWIS tester from the vehicle.
+4 Switch off and disconnect the battery charger.
+Labor position and PCSS encryption
+Labor position:
+APOS Labor operation I No.
+90642510 Programming auxiliary alarm system control unit
+PCSS encryption:
+Location (FES5) 90640 Additional alarm system control unit
+Damage type (SA4) 4095 for software release not compatible
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Po rsche service training
+courses. They are written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special
+tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche reco mmends in these bulletins may be detrimental to the
+safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety ins tructions, and know-how to do the job properly and
+safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic an dt e s t i n gd e v i c et a k ep r e c e d e n c ea n d ,i nt h ee v e n to fa
+discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.© 2025 Porsche Cars North Ame rica, Inc.
+AfterSalesJan 9, 2025
+Page 3 of 32 Read out and delete all control unit fault memories.

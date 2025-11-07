@@ -1,0 +1,78 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)Equipped with Radio RPO IOK.
+ConditionA customer might bring the vehicle in with radio
+showing a vehicle and an arrow pointing to a wrench.
+ The recover method in Radio Malfunction ma y not work.
+Cause The cause of the condition ma y be software anomalies. 
+Bulletin No.: PIT6209F
+Published date: 02/20/2025
+Preliminary Information
+PIT6209F Update Failed See Dealer to Restore System Screen
+Recovery
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Chevr oletCorvette2024 -
+2025All AllAll All
+Chevr oletSilverado 1500 New (RPO J22,
+VIN Digit 5 = A / D)2022 All AllAll All
+Chevr oletSilverado 15002023 -
+2025All AllAll All
+Chevr oletSilverado HD2024 -
+2025All AllAll All
+Chevr oletSuburban2022 -
+2024All AllAll All
+Chevr oletTahoe2022 -
+2024All AllAll All
+GMCSierra 1500 New (RPO J22, VIN
+Digit 5 = H / U)2022 All AllAll All
+GMC Sierra 15002023 -
+2025All AllAll All
+GMC Sierra HD2024 -
+2025All AllAll All
+GMC Yukon2022 -
+2024All AllAll All
+GMC Yukon XL2022 -
+2024All AllAll All
+GMC Hummer EV P ickup2022 -
+2025All AllAll All
+GMC Hummer EV SUV2024 -
+2025All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+Labor Operation Description Labor Time
+2880007Performing USB Wipe of radio to restore
+function0.5 Hr .
+*This is a unique Labor Operation for Bulletin use only .*NOTE this concern is not caused by a failed Over The Air (OT A) update 
+Please contact T echline at 1-800-828-6860 for VCI assistance. 
+Once the process has started, you will see a screen with a blue progress bar . It should start
+automatically . 
+The displa y ma y go blank and the radio may restart multiple times. 
+Please do not remove the USB stick from the vehicle or turn the vehicle oﬀ until the
+process is complete. 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+Version 7
+Modiﬁed07/24/2024 - Created on.  
+10/17/2024 - Updated to change title and add
+model year . 
+10/18/2024 - Updated to add model year . 
+11/01/2024 - Updated Models.  
+12/02/2024 - Updated Models.  
+01/10/2025 - Updated Correction and Labor
+Operation.  
+02/20/2025 - Updated Correction and added
+picture. 
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,130 @@
+ 
+Fuel level sensor fault code P046100 | P046109 |
+P206600 | P206609 | P13E600 in the FSCM_GEN 4 / 5 / 6
+Topic number LI47.50-P-078804
+Version 2
+Function group 47.50 - Sender, feeler, sensors
+Date 2/21/25
+Validity (N118) FSCM_GEN 4/5/6
+Reason for change Supplement WIS documents
+Reason for block New version is being compiled
+Complaint
+Customer-perceived problem:
+• Fuel gauge reading implausible
+• MIL ON (market-dependent)
+N118/3
+Fault codes in control units FSCM_GEN4/5/6
+• For these fault codes, the tests contained in XENTRY must be carried out
+P046109 / P206609 / P13E600
+• For these fault codes, the connector couplings/wiring harness routing must be checked for damage
+P206600 / P046100
+Cause
+Various
+Remedy
+Carry out XENTRY tests for the listed fault codes in the FSCM (N118) and document the monitor graphics for the pri-
+mary/secondary lever-type sensors.
+For additional information, see attachments
+Attachments
+File Description
+Prim_Sec_Testing Routine_EN.JPG
+21.02.2025   17:27   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 4
+ 
+WIS-References
+Document number Title Note
+AR47.10-P-4001OLC Empty/fill fuel tank Example for model series
+213/257/238
+WS47.00-P-0080B 000 588 04 71 00 Pump All engines (GW, light vans, cars,
+heavy vans, smart) Purpose: Trans-
+fer pump for transferring spark-ignition
+engine fuel and diesel fuel during re-
+pair and servicing work.
+WS47.00-P-0084B 000 588 05 71 00 Pump Catalog of criteria for W 000 588 05
+71 00 Pump, form
+OF47.00-P-0002-01B All types (GW, light vans, cars, heavy
+vans, smart)Catalog of criteria for W 000 588 05
+71 00 Pump, form
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Fuel system  > Fuel tank  > Function  > Different level
+Power generation  > Engine management  > Indicator lamp  > Engine diagnosis  > lit
+Power generation  > Fuel system  > Indicator lamp  > Fuel reserve lamp  > lit
+Power generation  > Fuel system  > Indicator lamp  > Fuel reserve lamp  > Malfunction
+Power generation  > Fuel system  > Fuel tank  > Function  > Empty too quickly
+Control unit/fault code
+Control unit Fault text
+N118 - Control unit 'Fuel pump' (FSCU09) (FSCM_GEN5) P13E600  - The suction jet pump has a malfunction. _
+21.02.2025   17:27   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 4
+ 
+N118 - Control unit 'Fuel pump' (FSCU09) (FSCM_GEN5) P206800  - The component 'Secondary fill level sensor'
+has a short circuit to positive.
+P206700  - The component 'Secondary fill level sensor'
+has a short circuit to ground
+P046300  - The component 'Primary fill level sensor' has a
+short circuit to positive.
+P046200  - The component 'Primary fill level sensor' has a
+short circuit to ground
+N118/3 - Control unit 'Fuel pump' (FSCU10)
+(FSCM_GEN6)P046300  - The component 'Primary fill level sensor' has a
+short circuit to positive.
+P046200  - The component 'Primary fill level sensor' has a
+short circuit to ground
+P206800  - The component 'Secondary fill level sensor'
+has a short circuit to positive.
+P206700  - The component 'Secondary fill level sensor'
+has a short circuit to ground
+P046109  - The component 'Primary fill level sensor' has a
+malfunction. There is a component fault.
+P046100  - The component 'Primary fill level sensor' has a
+malfunction.
+P206609  - The component 'Secondary fill level sensor'
+has a malfunction. There is a component fault.
+P206600  - The component 'Secondary fill level sensor'
+has a malfunction.
+N118 - Control unit 'Fuel pump' (FSCU08) (FSCM_GEN4) P046400  - The component 'Primary fill level sensor' has a
+short circuit to positive.
+P046300  - The component 'Primary fill level sensor' has a
+short circuit to positive.
+P046200  - The component 'Primary fill level sensor' has a
+short circuit to ground
+P206900  - The component 'Secondary fill level sensor'
+has a sporadic malfunction.
+P206800  - The component 'Secondary fill level sensor'
+has a short circuit to positive.
+P206700  - The component 'Secondary fill level sensor'
+has a short circuit to ground
+P046109  - The component 'Primary fill level sensor' has a
+malfunction. There is a component fault.
+P046100  - The component 'Primary fill level sensor' has a
+malfunction.
+21.02.2025   17:27   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 4
+ 
+P206609  - The component 'Secondary fill level sensor'
+has a malfunction. There is a component fault.
+P206600  - The component 'Secondary fill level sensor'
+has a malfunction.
+N118 - Control unit 'Fuel pump' (FSCU09) (FSCM_GEN5) P046109  - The component 'Primary fill level sensor' has a
+malfunction. There is a component fault.
+P046100  - The component 'Primary fill level sensor' has a
+malfunction.
+P206609  - The component 'Secondary fill level sensor'
+has a malfunction. There is a component fault.
+P206600  - The component 'Secondary fill level sensor'
+has a malfunction.
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+21.02.2025   17:27   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  4 / 4

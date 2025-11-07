@@ -1,0 +1,160 @@
+ 
+ 
+Classification: Reference: Date: 
+EC24-011 NTB24-063 Januar y 30, 2025 
+ 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/5 
+ 
+VOLUNTARY EMISSIONS RECALL CAMPAIGN  
+2016-2019 TITAN XD DIESEL;  
+VEHICLE EMISSION CONTROL INFORMATION LABEL 
+ 
+CAMPAIGN ID #: PD127  
+APPLIED VEHICLES: APPLIED ENGINES:  2016-2019 Titan XD (A61) Cummins 5.0L Diesel 
+ 
+Check Service COMM or Dealer  Business Systems (DBS)  
+National Service History to confirm campaign eligibility . 
+    INTRODUCTION  Nissan is c
+onducting this voluntary emission s recall campaign on certain specific model 
+year 2016-2019 Titan XD vehicles with Diesel engi nes to inspect and, if necessary, replace 
+the Vehicle Emission Control Information Label. Th is service will be performed at no charge 
+to the customer for parts or labor.   IDENTIFICATION NUMBER  Nissan has
+ assigned identificat ion number PD127 to this ca mpaign. This number must 
+appear on all communication and documentation of any nature dealing with this campaign. 
+  DEALER RESPONSIBILITY  It is the dealer’s resp
+onsibility to check Serv ice COMM or Dealer Business Systems (DBS) 
+National Service History for the campaign stat us on each vehicle falling within the range of 
+this voluntary emissions recall which for any reason enters the service department. This 
+includes vehicles purchased from private parties  or presented by transient (tourist) owners 
+and vehicles in a dealer’s inventory.  Federal law requires that new vehicles in dealer 
+inventory which are the subject of a safety recall must be corrected prior to sale.  
+Failure to do so can result in civil pena lties by the National Highway Traffic Safety 
+Administration .  While federal law applies only to new vehicles, Nissan strongly 
+encourages dealers to correct any used vehicles in  their inventory before they are retailed. 
+2/5 NTB24-063 
+IMPORTANT 
+ 
+Attention California Dealers (Retailers) 
+ 
+An Emission Recall Campaign Completion (ERCC) label must be filled out by the 
+technician performing the repair, and then  attached to the underside of the vehicle 
+hood. A sample of the label is shown below. 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+California law prohibits owners from renewi ng their California regi stration if emissions 
+related recall work has not been performed.  California dealers are now required to 
+issue a proof of correction certificate to  vehicle owners upon completion of emissions 
+related recall work. Please fill out one of the campaign completion forms for each owner 
+that has this campaign perform ed. Instruct owners to keep this certificate unless they 
+are requested to mail it to the DMV. A sample of the form is shown in Figure 2 below. 
+ 
+   Orange 
+colored 
+ 
+            
+ 
+Figure 2
+ 
+HINT: 
+ These forms (item number CAEMRC 1-20 ) and labels (item number NIS-
+UHL-16) are available from Nissan Publications (1-800-247-5321) at no 
+charge. 
+ When either item (form or label) is or dered, you will automatically receive the 
+other item as well. 
+  Figure 1    
+ 
+Technician: Fill in the following: 
+”Completed Vehicle Emission Control 
+Information Label Inspection ID: PD127”  
+Fill in “DEALER CODE” and “DATE” 
+Put “ARB/EPA” under “CHANGE AUTHORITY” 
+3/5 NTB24-063 SERVICE PROCEDURE 
+  1. Open the hood and inspect for the presenc e of the Cummins Emission Exemption 
+Label shown in Figure 3. 
+ 
+HINT:   The Cummins Emission Exemption Label can be located anywhere within the 
+area shown in Figure 3. 
+ 
+ 
+Is the Cummins Emission Exemption Label shown in Figure 3 present? 
+ 
+YES: Remove the Cummins Emissions Ex emption Label, clean any residual 
+          adhesive from the hood, and then proceed to step 2 on page 4. 
+ 
+NO:   Proceed to step 2 on page 4. 
+ 
+ 
+Figure 3  
+ 
+  
+If equipped, the Cummins 
+Emission Exemption Label will be 
+located somewhere in this area. 
+Example of Cummins Exemption 
+Label and possible location 
+
+4/5 NTB24-063  
+  2. Inspect for the presence of the Vehicle Emission Control Inform ation Label shown in 
+Figure 4. 
+ 
+ Is the Vehicle Emission Cont rol Information Label shown in Figure 4 present? 
+ 
+YES:  The Vehicle Emission Control Inform ation Label is already installed and no 
+          further action is necessary. Close the hood and see the CLAIMS  
+          INFORMATION  on page 5. 
+ 
+NO:   The Vehicle Emission Control Inform ation Label is NOT installed. Continue 
+          to step 3 to install a new label. 
+ 
+ 
+Figure 4  
+      3. Install a Vehicle Emission Control Information Label where shown in Figure 4. 
+ 
+a. Using a suitable cleaner and shop to wel, first clean the area shown in Figure 4. 
+ 
+b. Carefully install the new Vehicl e Emission Control Information Label. 
+ 
+  
+Example of Vehicle Emission Control 
+Information Label 
+
+5/5 NTB24-063  
+  
+PARTS INFORMATION 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+LABEL - EMISSION CONTRO L INFORMATION 14805-***** (1) 1 
+(As needed ) 
+ 
+(1) Use the VIN and EPC for or dering the correct part number. 
+ 
+   CLAIMS INFORMATION 
+ 
+Submit a “CM” line claim using the following claims coding:  
+CAMPAIGN 
+(“CM” ) ID DESCRIPTION OP CODE FRT 
+PD127 Inspect Emissions Labels.  
+Remove Old Label if Present (Step 1), and NO New 
+Label was Required (Step 2). PD1270 0.2 
+Inspect Emissions Labels.  
+Remove Old Label if Present (Step 1), and then Install 
+New Label as Dir ected (Step 2). PD1271 0.2 
+               AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+January 30, 2025 NTB24-063 Orig inal bulletin published 
+   
+ 

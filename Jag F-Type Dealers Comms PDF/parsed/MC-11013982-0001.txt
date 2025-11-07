@@ -1,0 +1,126 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  6/29/2020 
+REVISION DATE:  7-13-2022  
+SERVICE BULLETIN SUBJECT:  Side Window Seal  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SB-20-85 
+ 
+SIDE WINDOW SEAL  RETROFIT  
+NOTICE! It is expected that this process will require 4 hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit adds improved window seals to prevent water intrusion into the bus.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Suction Cups  
+• T-20 Torx Bit  
+• Drill Driver  
+• Masking Tape  
+• Permanent Marker  
+• Calibrated Torque Wrench  
+• Putty Knife  
+• Approved Safety Knife  
+ 
+ 
+Parts Required:  
+• 051506  SEAL, SIDE WINDOWS      170 FT  
+• 017093  SCREW, #10 TORX PH, #8 HD, TEK, 410 SS, BLK OX, 1"  334 EA  
+• 016103  SEALANT, BUTYL, NON -HARDENING                   1 EA  
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure : 
+ 
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. On the interior of the bus, remove the side window trim (031241)  that covers the fasteners 
+securing the side window in place and mark the trim location using tape and a marker.  
+ 
+3. On the interior of the bus and working one window at a time, using a T -20 Torx  Bit and Drill 
+Driver, remove all Torx screws securing the side window.  
+IMPORTANT ! Ensure the exterior window glass and frame are properly supported on the 
+exterior of the vehicle, using suction cups, prior to removing all the Torx screws.  
+ 
+ 
+4. Carefully pla ce the window in a suitable location for installing the new Seal (051506) . 
+ 
+5. Using a Putty Knife, carefully remove the old outer seal from the window frame.  
+ 
+
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+6. Using Shop Towels and Isopropyl Alcohol, remove any leftover seal  residue from the window 
+frame and clean the surfaces of the frame.  
+ 
+7. Using an approved Safety Knife, cut the new Seal (051506) to the correct length to fit the 
+window.  
+ 
+8. Carefully peel the Adh esive Backing off the new Seal (051506) . 
+ 
+9. Starting at the bottom of the window, press the adhesive side of the Seal (051506)  to the 
+window frame. Continue around the window frame  to attach the remaining portion of the Seal 
+to the frame.  
+ 
+10. Using an approved Safety Knife, carefully trim the Seal (051506) so that the two ends meet at 
+the bottom of the window. Try to leave the least amount of gap as possible between the ends 
+of the sea l as shown below.  
+ 
+ 
+  
+
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+11. Using a Putty Knife, prep the window portal for reinstalling the window by removing the Butyl 
+Sealant from the portal as shown in the following photographs.  
+ 
+ 
+ 
+ 
+12. Using Alcohol and Shop Towels, clean the portal.  
+ 
+13. Apply new Butyl Sealant  (016103)  to the Seal (051506) . 
+ 
+14. Carefully place the window with the new Seal (051506)  back into the window portal.  
+ 
+15. With the window properly positioned in the portal, using a T -20 Torx Bit and Drill Driver, install 
+and hand tighten all new Torx Screws  (017093) securing the side window.  
+IMPORTANT ! Ensure the exterior window glass and frame are properly supported on the 
+exterior of the vehicle, using suction cups, while installing all the Torx screws.  
+ 
+  
+
+6 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+16. Following the torque pattern shown bel ow, torque each of the Torx S crews (017093)  to 40 
+Inch Pounds . 
+ 
+ 
+17. Verify window trim position and then reinstall the interior window trim that covers the fasteners.  
+ 
+18. Repeat this procedure for all side windows.  
+ 
+19. When the Seal s (051506)  have  been replaced on all windows, remove the Lockout/Tagout 
+devices and return the bus to service.  

@@ -1,0 +1,201 @@
+GENERAL MOTORS  
+DCS 7143  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 13 , 2025 
+  
+Subject:  N242489790  - Emission Recall  
+ VECI Label Missing Required Information  
+  
+Models:  2025 Chevrolet Silverado 1500  
+ 2025 Chevrolet Silverado 2500 HD/3500 HD  
+ 2025 GMC Sierra 1500  
+ 2025 GMC Sierra 2500 HD/3500 HD  
+   
+  
+General Motors is releasing  Emission Recall N242489790  today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow.    
+The Stock VIN list of vehicles in dealer inventory is attached to this message. 
+Note: this list is only accurate at the time of report creation and all VINs should 
+be validated in IVH prior to repair.  
+ 
+ 
+END OF MESSAGE  
+Emission  Recall  
+N2424 89790  VECI Label Missing Required Information   
+ 
+ Page 1 of 4 
+ 
+Release Date:  February  2025 Revision:  00 
+ 
+Attention:  All involved vehicles in the US and Canada that are in dealer inventory must be held and not delivered 
+to customers, dealer traded, or used for demonstration purposes until the repair contained in this bulletin 
+has been performed on the vehicle.  
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Silverado 1500  
+2025  2025  Chevrolet  Silverado 2500 HD/3500 HD  
+GMC  Sierra 1500  
+GMC  Sierra 2500 HD/3500 HD  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  General Motors has decided to conduct a voluntary emissions recall.  The Vehicle Emissions Control 
+Information (VECI) label may not include all required information.  
+Correction  Dealers are to install a new VECI label.  
+Parts  
+Quantity  Part Name  Part No.  
+1 Vehicle Emission and Control Information (VECI) Label  19354745  
+Note: The label is  VIN specific. Order the label through the EPC and enter the VIN number in the order field. A VIN is 
+needed for label orders. For ordering issues, email gmcert@duramarkusa.com . 
+Canada Dealers:  
+Pre-shipment for Inventory Vehicles:  An initial supply of labels will be pre -shipped to involved Canadian dealers on record. 
+This pre -shipment is scheduled to begin the week of February 10, 2025.  
+Customer Owned Vehicles: Dealers should only order labels for customer -owned vehicles once the customer has 
+attended the dealer and you are aware a label needs to be ordered.  
+To Order labels:  If a label is needed, please contact the Warranty Call Centre at 1 -888-222-5546 to order labels. The 
+labels will be provided free of charge. Dealers will be required to provide a VIN at the time of ordering. Please use the 
+Field Action nu mber N2424 89790  when ordering the label.   Labels will not be provided for VINs which are not involved 
+in this recall.   DO NOT ORDER the label using the part number in the chart .   
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107851  Vehicle Emission and Control Information (VECI) Label 
+Replacement  0.2 ZFAT  N/A 
+Service Procedure  
+Important:  Do NOT place NEW label over existing label.  
+Emission  Recall  
+N242489790 VECI Label Missing Required Information   
+ 
+  Page 2 of 4 
+  
+ 6840549  
+ 6840550  
+1. Remove the Vehicle Emission and Control Information (VECI) Label (A for LZ0 -equipped vehicles, B for L5P/L8T -
+equipped vehicles) and any residue using isopropyl alcohol and dry with clean, lint free cloth. Receiving surface 
+MUST be clean, dry and free of any contaminants.  
+2. Firmly hold the new label and peel protective liner from the back side, being careful not to touch or contaminate the 
+adhesive with dirt or foreign matter.  
+3. Carefully  align new label to the surface. Press firmly and smooth out entire label ensuring corners are fully adhered.  
+4. CALIFORNIA, COLORADO, CONNECTICUT, DELAWARE, MAINE, MARYLAND, MASSACHUSETTS, NEW 
+JERSEY, NEW YORK, OREGON, RHODE ISLAND, VERMONT, WASHINGTON VEHICLES ONLY: Install a Recall 
+Identification Label upon recall completion.   See General Motors Service Policies a nd Procedures Manual, Recall 
+Identification Label, for details.  
+5. CALIFORNIA VEHICLES ONLY: Complete a “Proof of Correction” certificate and provide to the vehicle owner upon 
+recall completion.   For the recall number on the “Proof of Correction” certificate, enter only the six digits in characters 
+4-9 of this recall bulletin number: 248979 . 
+Dealer Responsibility   
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this recall must be held and inspected/repaired per the service procedure of this 
+bulletin before c ustomers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, or any other purpose.  
+
+Emission  Recall  
+N242489790 VECI Label Missing Required Information   
+ 
+  Page 3 of 4 
+  
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Managem ent (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+Dealers are to service all vehicles subject to this recall at no charge to customers, regardless of mileage, age of vehicle, 
+or ownership, from this time forward.  
+Customers who have recently purchased vehicles sold from your vehicle inventory, and for which there is no customer 
+information indicated on the dealer listing, are to be contacted by the dealer.  Arrangements are to be made to make the 
+required correction  according to the instructions contained in this bulletin.  A copy of the customer letter is provided in this 
+bulletin for your use in contacting customers.  Recall follow -up cards should not be used for this purpose, since the 
+customer may not as yet have  received the notification letter.  
+In summary, whenever a vehicle subject to this recall  enters your vehicle inventory you must take the steps necessary to 
+ensure the program correction has been made before selling the vehicle.   In addition, for vehicles entering your facility for 
+service, you are required to ensure the customer is aware of t he open recall  and make every reasonable effort to 
+implement the program correction as set forth in this bulletin prior to releasing the vehicle.  
+Dealer Reports  – For USA & Export  
+For dealers with involved vehicles, a listing has been prepared and will be available through GM Global  Connect Maxis 
+Field Action Reports or sent directly to export dealers.   The Inventory tab of the dealer reports will contain VINs that 
+apply to this recall.   This information is intended to assist dealers with the  PROMPT COMPLETION  of these 
+vehicles.   The Customer In -Service tab will contain customer names and addresses from Motor Vehicle Registration 
+Records.   The use of such motor vehicle registration d ata for any purpose other than follow -up necessary to complete 
+this recall may be a violation of law in several states.   
+Courtesy Transportation  – For USA & Canada  
+Courtesy transportation is available for  customers whose vehicles are involved in a product program and still within the 
+warranty coverage period . See General Motors Service Policies and Procedures Manual for courtesy transportation 
+program details.  
+Customer Notification  
+USA & Canada - General Motors will notify customers of this recall on their vehicle (see copy of sample customer letter 
+included with this bulletin).   
+ 
+In order to ensure full protection under the emission warranty, and the right to participate in future recalls, the customer 
+notification letter recommends that customers have their vehicles serviced as soon as possible.  It also advises that failure  
+to do  so could legally be determined to be lack of proper maintenance.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condi tion.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+  
+
+Emission  Recall  
+N242489790 VECI Label Missing Required Information   
+ 
+  Page 4 of 4 
+  
+         
+This notice applies to your vehicle,  VIN: _____________________________________  
+Dear General Motors Customer:  
+This notice is sent to inform you that General Motors is conducting a voluntary emission recall that includes your 
+vehicle.  
+ 
+Reason For This Recall:  Your vehicle may have a Vehicle Emissions Control Information (VECI) label that may not 
+include all required information . 
+What Will Be Done:  Your GM dealer will install a new VECI label . This service will be performed for you at no charge .  
+Eligibility for this service will not be denied solely due to your vehicle having non -GM parts or repairs performed by 
+outlets other than a GM franchised dealer.  
+How Long Will The Repair Take?  Because of service scheduling requirements, i t is likely that your dealer  will need 
+your vehicle longer than the actual service correction time of approximately 30 minu tes. 
+What You Should Do:  Please contact your GM dealer as soon as possible to arrange a service date.  Instructions for 
+making this correction have been sent to your dealer.  Please ask your dealer if you wish to know how much time will be 
+needed to schedule, process, and repair y our vehicle.  
+If you have any questions or need any assistance, just contact your dealer  or the appropriate Customer Assistance 
+Center.  
+For the hearing or speech impaired, please contact our Customer Assistance Center using the Telecommunication 
+Relay Service by dialing 711 then providing the appropriate Customer Assistance Center number for your vehicle.  
+Emission Law Information:  In order to ensure your full protection under the emission warranty made applicable to 
+your vehicle  by state and federal law, and your right to participate in future recalls, it is recommended that you have 
+your vehicle  serviced as soon as possible.  Failure to do so could legally be determined to be lack of proper 
+maintenance of your vehicle.  Also, your vehicle may fail a state or local emission inspection if this recall is not 
+accomplished.  
+ 
+ 
+IMPORTANT MESSAGE FOR CALIFORNIA RESIDENTS  
+The California Air Resources Board (CARB) requires vehicle emission recalls be completed prior to California 
+registration renewal.  Uncorrected emission recalls will result in the inability to renew your California vehicle registration.  
+At the time of emission recall completion, your California dealer will issue a "Proof of Correction Certificate".  Keep this 
+certificate and, if required, present it to the Department of Motor Vehicles when renewing your California registration as 
+proof of  recall completion.  
+We are sorry to cause you this inconvenience; however, we have taken this action in the interest of your continued 
+satisfaction with our products.  
+  
+ Regina A. Carto   
+ Vice President  
+ Global Product Safety and Systems  
+GM Recall: N2424 89790  

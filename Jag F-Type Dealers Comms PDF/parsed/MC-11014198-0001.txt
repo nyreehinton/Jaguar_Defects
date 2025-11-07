@@ -1,0 +1,369 @@
+L-SB-0003 -24 Rev1  February 1, 2024  
+ 
+Long -Term Vehicle Storage Guidelines  
+Service 
+Category  General   
+ Section    Maintenance  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 10 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  ES250, ES300H, ES350, 
+GX550, IS300, IS350, 
+IS500, LC500, LC500C, 
+LC500H, LS500, LS500H, 
+LX600, LX700H, NX250, 
+NX350, NX350H, NX450H+, 
+RC F, RC300, RC350, 
+RX350, RX350H, RX450H+, 
+RX500H, RZ300E, RZ450E, 
+TX350, TX500H, TX550H+, 
+UX300H   
+ 
+ 
+ 
+ 
+  REVISION NOTICE  
+January 24 , 2025  Rev1:  
+ Applicability  has been  updated  to include  2025 model year LX 700h and RZ 300e vehicles.  
+ The Introduction , Required Tools & Equipment , and Reference and Training Materials  sections 
+have been updated.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 2 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction  
+Long -term or off -site storage requires special care to maintain vehicle condition. The following 
+guidelines should be performed to minimize vehicle component/part degradation due to extended 
+vehicle storage conditions. Long -term storage can affect a veh icle’s systems and components.  
+Any problems that are found should be corrected immediately.  
+ 
+Refer to the table below for a definition of terms used in this bulletin.  
+ 
+Table 1. 
+ 
+TERM  ACRONYM  DEFINITION  
+Conventional  Vehicle  CV A vehicle with  only a gasoline  engine  for propulsion  
+Electrified  Vehicle  EV A vehicle that utilizes a hybrid, plug -in hybrid, or battery electric 
+system for propulsion  
+Hybrid  Electric  Vehicle  HEV A vehicle with both a gasoline engine and a HV Battery  
+Plug-in Hybrid  Electric  Vehicle  PHEV  A vehicle with both a gasoline engine and a HV Battery that can 
+be charged externally  
+Battery Electric Vehicle  BEV A vehicle with only a HV Battery that can be charged externally  
+State  of Charge  SOC  The remaining capacity available in a battery  
+12-Volt 12V Standard  12V battery  used  to power  electrical  systems  
+separate  from high voltage  components  
+High Voltage  HV HV Battery  used  to power  the electrified  vehicle  
+ 
+Electrified vehicles are equipped with two types of  batteries, a  HV battery and  a 12V battery. 
+Conventional vehicles are equipped with only a 12V battery . 
+ 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+DSS-5000 Battery Diagnostic Tool*  DSS-5000P T  1 
+DCA -8000  Battery  Diagnostic Tool*  DCA -8000P T  1 
+*Essential SST.  
+ 
+  NOTE  
+Additional SSTs may be ordered by calling 1-800-368-6787  or by visiting  
+Home – Service Resources – Lexus Special Service Tools (SSTs) . 
+ 
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 3 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Summary Chart for Long -Term Storage  
+Below are items that should be checked periodically and their frequency.  
+ACTION  FREQUENCY  
+12V Battery Maintenance  After 60 days,  
+Then Every 30 days  
+HV Battery Charging (HEV/PHEV Models)  Monthly  
+HV Battery Charging (BEV Models)  Monthly  
+Tire Inflation Pressure  Monthly  
+Parts Rust Inspection  Monthly  
+RapGard™ Protective  Film Removal  90 Days  
+Engine/Hybrid System Starting and Vehicle Movement  Every 6 Weeks  
+Vehicle Movement (BEV/FCEV models)  Monthly   
+A/C Compressor Lubrication (Conventional Vehicles)  Monthly  
+A/C Compressor Lubrication (Electrified Vehicles)  Monthly  
+Disc Brake Rotor Surface Rust Removal  Every 8 Weeks  
+ 
+Attention to the procedures listed in this bulletin will work to ensure each vehicle is in the best 
+possible condition prior to customer delivery.   
+ 
+  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 4 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Reference and Training Materials  
+Listed  below are additional  resource s, which  will help you with vehicle receipt,  inspection,  and 
+storage procedure s.  
+ Service Bulletin L-SB-0022 -24, Prevention  and Repair of Acid Rain Damage . 
+ Service Bulletin L-SB-0024-24, New Vehicle Washing Schedule for Paint  Protection .  
+ Service Bulletin L-SB-0001 -24, Batte ry Inspection and Maintenance  during PDS . 
+ Service Bulletin L-SB-0020 -24, Iron Particle  Rust Contamination  Repair . 
+ Service Bulletin L-SB-0021 -24, Rapgard™ Protective Film  Removal . 
+ Service Bulletin L-SB-0023 -24, Wheel Film  for Brake Rotor Rust Prevention . 
+ 
+ 
+ 
+Parking and Paint Protection Procedure  
+ Storage areas should  be paved, well lit, and secur e. If your off-site storage lot is NOT  paved, 
+spread  gravel to minimi ze mud and dust.  Make  sure vehicles  are driven carefully  when 
+moving them  to or from a long-term lot. This will help minimi ze damage  to the paint  finish 
+from road grit or gravel. 
+ Park vehicles  from right to left AT LEAST  three  feet apart. Leave enough space  front and 
+rear to easily  walk between rows. 
+ Turn OFF ALL elect rical accesso ries, make sure windows and sunroof are  closed,  and 
+check that the  transmission  is in Park (First  or Reverse for manual transmission  vehicles).  
+Do NOT apply  the parking brake. Ensure vehicles with electronic parking brakes D o NOT 
+engage , and the Auto function has been DISABLED ( refer to the Owner ’s Manual for details) . 
+ Make sure the plastic  door edge  protectors  are in place  and fold in the side view mirror  
+(if applica ble). 
+ Anti-rust covers or anti-rust film should  remain  on vehicle  during storage. 
+1. Anti-rust covers (behind  wheel)  should  be removed at PDS. 
+2. Anti-rust film (applied  to wheel)  should  be removed just prior to customer  delivery. 
+ Wash vehicles  frequentl y. For further guidance and detail, refer to L-SB-0024 -24. 
+ 
+  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 5 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+12V Battery  Maintenance   
+ If a vehicle  is put into storage, the SOC of  its 12V battery will gradually  decreas e. To prevent 
+the 12V battery from becoming  discharged du ring storage, proper  maintenance  is necessa ry.  
+ To reduce  batte ry drain during long-term storage, remove the batte ry ground  (–) cable of each 
+vehicle  and reinstall  it just before delivery to the custome r. When the battery ground ( –) cable  
+is reconnected, check  and reset electrical components, such as the clock, radio, etc., and 
+reinitialize ALL applicable systems/functions. Refer to the applicable Repair Manual for 
+complete details:  Repair Manual – General – Introduction – Repair Instruction  – Precaution . 
+ After 60 days, and every 30 days thereafter, inspect the 12V battery with the DSS-5000 or 
+DCA -8000 battery diagnostic tool. If charging is required, use the DCA -8000. Refer to the 
+DSS-5000 Instruction Manu al and/or DCA -8000 Instruction Manual  for complete battery  
+maintenance procedures.  
+ When removing the vehicle from storage, connect the negative ( –) terminal. Refer to the 
+applicable Repair Manual for torque specifications : Repair Manual – General – 
+Maintenance – Battery – Installation . 
+ 
+  NOTE  
+ BEFORE disconnecting the 12V battery, confirm the shift lever is in the “P” position. The shift lever 
+CANNOT be shifted from the “P” position with the 12V battery disconnected.  
+ If the negative ( –) terminal of the 12V battery is reconnected on electrified models, even if the 
+vehicle is powered ON (Ready ON), the hybrid system may NOT start. In this case, depress the 
+brake pedal, open and close any of the doors, and  press the Power button to start the hybrid 
+system (the Ready light is ON). If the hybrid system still does NOT start (the Ready light is OFF), 
+refer to the applicable model and model year Repair Manual.  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 6 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+HV Battery Charging (HEV/PHEV Models)  
+HEV/PHEVs store electricity in the HV battery. When the vehicle is not used for a period of 30 
+days or more, the HV battery may discharge, thus reducing vehicle travel range. To prevent the 
+HV battery from fully discharging it is necessary to maintain the charge level of the HV battery.  
+ 
+Charging the HV Battery  
+1. Park the vehicle in open air or connect the 
+exhaust extraction hose to the exhaust pipe.  
+2. Apply the parking brake.  
+3. With the brake pedal depressed, select the 
+power switch to the “START” mode, and 
+check that the “READY” light in the 
+combination meter illuminates when the 
+hybrid system starts (the “READY” light  
+is ON).  
+4. Turn OFF all lights and accessories.  
+5. Check that the shift lever is in the  
+“P” position.  
+6. Keep the “READY” light ON and charge the 
+HV battery for 30 minutes.   Figure  1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ If the amount  of charging energy is small,  the display may NOT indicate  the energy flow. 
+ Ensure  there  is a sufficient  amount  of fuel for the vehicle to run for 30 minutes.  
+HINT  
+The HV battery can also be charged by driving the vehicle for 30 minutes.  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 7 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+HV Battery Charging (BEV Models)  
+BEVs  store electricity received via an external power source in the HV battery. When the BEV is 
+not used for a period of 30 days or more, the HV battery may discharge, thus reducing vehicle 
+travel range. To prevent the HV battery from fully discharging it is necessary to maintain the 
+charge level of the HV battery.   
+ 
+1. If the warning light is displayed ON within the instrument cluster, charge the HV battery via 
+the AC charging method.  
+ 
+Table 2. 
+Connected  
+Power Source  Charger  
+AC Charging Cable 
+DC Charging  AC Charging  
+Charging Voltage  Avoid using  
+DC charger  
+for supplementary 
+charging during 
+long-term storage, 
+prefer AC charging  AC 220 – 230 V  
+Charging Current  32 A 16 A 8 – 10 A 
+Charging Time Approximately 
+30 Minutes  Approximately 
+60 Minutes  Approximately 
+90 Minutes  
+ 
+ 
+2. After charging has been completed, verify the HV battery  warning light is OFF before  
+storing the vehicle long -term. If the HV battery warning light is still ON after charging,  
+repeat the charging process.  
+ 
+ 
+  NOTE  
+Refer to the Owner's Manual for model -specific information regarding charging the HV battery, 
+charging equipment, and charging method.  See section 1-3 – Charging With the EV System . Avoid 
+using the DC charger for supplementary charging during long -term storage.  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 8 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Tire Inflation Pressure  
+If the vehicle is  parked for long periods without being  moved, a flat spot may develop on each 
+tire surface in contact  with the ground,  even  if the tires are inflated  to specification.  Tire inflation 
+pressure  should  be checked  once  a month.  
+ 
+Tire inflation  pressure  for storage ONLY : 43 psi. 
+ 
+ 
+Parts Rust Inspection  
+If the vehicles  in your storage area are exposed  to a sea breeze and/or  significant  precipitation, 
+corrosion  with rust in some  parts may occu r. If rust is found,  remove it, and  treat it by applying  
+rust inhibitor  to prevent recurrenc e. 
+ 
+RapGard ™ Protective Film Removal  
+RapGard ™ is a protective film designed to protect horizontally painted surfaces from acid rain, 
+environmental fallout, and rail contamination. For additional detail and removal instruction, refer 
+to L-SB-0021 -24, Rapgard™ Protective Film Removal.   
+ 
+ 
+Engine/Hybrid System Starting and Vehicle Movement  
+If the vehicle is stored over an extended period of time, starting and running the engine/hybrid 
+system periodically will ensure smooth running operation.  
+1. If the vehicle is equipped  with a gasoline  engin e, start and operate the engine  at an engine 
+speed of  less than 1,500 rpm for 15 minutes or longe r.  
+2. Raise engine  speed  above 3,000  rpm 10 times  to eliminate  moisture  from the exhaust.  
+ 
+ 
+ 
+ 
+ 
+3. Drive  the vehicle AT LEAST  30 feet to lubricate  the transmission/t ransaxle  and differential(s), 
+and to prevent tire flat-spot damag e. 
+  NOTE  
+Tire pressure may vary due to changes in ambient temperatures and may require adjustment.  
+NOTE  
+Make sure  to allow sufficient  clearance  at the rear of the vehicle to prevent other  vehicles stored 
+behind  from getting  damaged by exhaust  gas. 
+ 
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 9 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Vehicle Movement (BEV/FCEV Models)  
+If the vehicle is stored over an extended period of time  drive  the vehicle AT LEAST  30 feet to 
+lubricate  the transmission/t ransaxle  and differential(s), and  to prevent tire flat-spot damag e. 
+ 
+A/C Compressor Lubrication   
+To minimize the possibility of damage to the A/C compressor while storing a vehicle, perform the 
+following recommended maintenance procedures AT LEAST once a month to lubricate  
+the compressor.  
+ 
+Conventional  Vehicles  
+1. Turn OFF  the A/C and blower switches  before  starting the vehicle. 
+2. Start/Ready -On the vehicle. 
+If the vehicle  is equipped  with a gasoline  engin e, allow the engine  to warm up until 
+engine idle  drops  below 1,000  rpm. 
+3. Turn ON the A/C system (including the rear A/C) using the following settings:  
+A. A/C Switch: ON  
+B. Blower Speed: High  
+C. Engine Speed: Below 1,000 rpm  
+4. Keep the A/C ON with engine idling for AT LEAST one minute (in dual A/C vehicles, leave ON 
+for two minutes).  
+5. Turn OFF the A/C system and cycle the ignition to the  OFF position.  
+ 
+ 
+Electrified  Vehicles  
+1. Turn OFF the A/C and blower switches before starting the Hybrid system.  
+2. Start the Hybrid system.  
+3. Turn ON the A/C system (including the rear A/C) using the following settings:  
+A. A/C Switch: ON  
+B. Blower Speed: High  
+4. Keep A/C ON with above conditions for at least one minute (in Dual A/C vehicles, leave ON  
+for two minutes ). 
+5. Turn OFF A/C system and cycle power switch to OFF position.  
+  
+ L-SB-0003 -24 Rev1  February 1, 2024  Page 10 of 10 
+Long -Term Vehicle Storage Guidelines  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Disc Brake Rotor Surface Rust Removal   
+The b rake rotors  are made  of cast iron and m ay show gradual  buildup  of surface rust du ring 
+long-term storage. AT LEAST once every eight weeks,  drive the  vehicle  and use the brakes 
+normally. This regular  usage will  help prevent severe rust buildup  and the possibility  of unwanted  
+brake vibration  conce rns due to rust. 
+ 
+Figure 2. Slight Rust on Rotor  
+(Easy to Remove by Braking)  
+ Figure 3. Severe Rust on Rotor  
+(Hard to Remove by Braking)  
+ 
+ 
+Drive the vehicle on a level road in a safe area and apply the brakes normally. Repeat the  
+brake application several times. Refer to the table below to determine how many brake 
+applications are required based on speed limits and traffic conditions in your area.  
+ 
+Table 3. 
+ 
+SPEED  COMPLETED STOPS  
+60 – 0 mph  (95 – 0 km/h)  5 
+40 – 0 mph  (65 – 0 km/h)  10 
+30 – 0 mph  (50 – 0 km/h)  20 
+20 – 0 mph  (30 – 0 km/h)  30 
+ 
+ 
+ 
+ 
+NOTE  
+ Electrified  vehicles may require additional braking applications.  
+ If brake  vibration  still occu rs AFTER the  braking cycle, determine  the root cause  of the brake  
+vibration  and repai r.  
+ Brake rotor  resurfacing  may be required  if the rust is severe and  resulted  in excessive rotor 
+thickness  variation.  

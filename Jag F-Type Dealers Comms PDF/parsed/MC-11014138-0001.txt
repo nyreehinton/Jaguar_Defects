@@ -1,0 +1,73 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-019
+Service BulletinDate: January, 2025
+TECHNICAL
+ABS/TCS/Stability/Brake Warning Indicators Displayed on Drivers Information
+Center (DIC) - DTC C0500 or C0501, C0506 or C0507, C050C or C050D, and/or
+C0512 or C0513 Set
+This bulletin replaces PIT5937A. Please discard PIT5937A.
+Brand: Model: Model Year: Build Date: Engine: Transmission:
+from to from to
+ChevroletSilverado 4500HD/
+5500HD/6500HD2019 2024     L5D  
+ 
+Involved Region or Country North America
+ConditionSome customers may comment on one or more of the following displayed on the DIC:
+• ABS/TCS/Traction/Stability
+• Brake warning indicators
+Some technicians may comment on one or more of the following DTCs set in the ABS
+module:
+• C0500 or C0501: Left Front Wheel Speed Sensor (WSS)
+• C0506 or C0507: Right Front Wheel Speed Sensor (WSS)
+• C050C or C050D: Left Rear Wheel Speed Sensor (WSS)
+• C0512 or C0513: Right Rear Wheel Speed Sensor (WSS)
+CausePossible causes of one or more or the following concerns:
+• WSS air gap out of adjustment
+• Loose hub bearings
+• Debris on WSS sensor
+• Damaged reluctor ring
+CorrectionBefore replacing the WSS, please perform the following inspections:
+Note: For proper installation and air gap, ensure the WSS bottoms out on the reluctor
+ring inside of the hub. The air gap will be established by the contact between the reluctor
+ring and the WSS.
+• Are all tires the same size and tread wear.
+• Inspect harness to the WSS sensor for any signs of damage or loose terminal inter-
+face.
+• Inspect the WSS air gap and make sure it is adjusted per the WSS replacement docu-
+ment (large gap may lead to erratic signal, no gap may present as noise).
+− If it appears the WSS air gap is out of adjustment, then remove, clean, reinstall and
+test, see note below.
+• Visually inspect for a buildup of debris between the backing plate and the rotor (mud,
+Ice, dirt, ECT.). Clean as needed.
+• Inspect for a loose wheel bearing and check the torque as called out in SI.
+• Use an oscilloscope and look at the WSS pattern.Subject:
+Page 2 January, 2025 Bulletin No.: 25-NA-019
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION− Look for any spikes that can be caused by a damaged reluctor, that will need to be
+inspected.
+If a determination is made that there are no issues with the tires, wiring, connections,
+bearing, hub, reluctor ring, or WSS air gap then install a new WSS.
+Be sure to drive the vehicle after any repairs to validate the vehicle is repaired.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+2486298* Wheel Speed Sensor Inspection 0.5
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 1
+Modified Released January 31, 2025
+ 

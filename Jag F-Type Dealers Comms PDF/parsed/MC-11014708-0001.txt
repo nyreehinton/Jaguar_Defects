@@ -1,0 +1,103 @@
+Fleet I mprovement  S4408  February  2025  
+ 
+VAH Hood Tilt Switch  Remote Start  
+ 
+Service Category Service  
+ 
+Section  Function Group 364 
+ 
+Technician Skill Level  A        Market  North America  
+   
+Applicability   
+VOLVO  
+Years  Models   
+2018-2025    VAH  
+   
+ 
+Introduction  
+Some 2018 -2025 Volvo VAH model trucks may experience starting issues due to the hood tilt 
+switch. For these trucks, follow the repair instructions below to reposition the switch away from 
+the bracket using washers and replace the mounting hardware with longer screws.  
+ 
+Production Change Information   
+This bulletin applies to vehicles built within the specified production changes below.  
+Brand  Engine  Emission Level  Starting Build Date  Ending Build Date  
+Volvo   D11, D 13  EM-USA 17, EM -USA 21 16-January -2017 1-May -2024 
+ 
+Warranty Information  
+ 
+This repair is covered by an authorized Service Program. Reimbursement is 
+obtained through the normal claim handling process.  
+Claim Type (used only when uploading from the Dealer Bus. Sys.)  B 
+Main Labor Code  Description  Hours  
+3646 -03-03-01 Safety Sensor, hood, replacement  1.0 
+Causal Part  23176247  
+SCC Authorization 
+Code  S4408  
+Expiration Date  February  28, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Fleet Improvement  S4408  February  2025  
+ 
+VAH Hood Tilt Switch Remote Start  
+ 
+Parts Information  
+ 
+Part number  Part name  Quantity 
+994785 Screw  2 
+994847  Washer  4 
+ 
+ 
+Required Tools & Equipment  
+• None  
+Calibration Information  
+• None  
+Repair  Procedure  
+1. Park the vehicle on a level surface with the steering wheel  in the straight -ahead  position . 
+2. Apply the parking brake.  
+3. Please the gear lever  in neutral.  
+4. Install wheel chocks.  
+ 
+5. Disconnect  the cable  negative  terminal . 
+
+Fleet Improvement  S4408  February  2025  
+ 
+VAH Hood Tilt Switch Remote Start  
+ 
+ 
+6. Unlatch and raise the hood.  
+7. Remove and discard the two switch mounting screws.  
+ 
+8. Install the new longer switch mounting screw 994785 . 
+9. Stack two washers 994847  on each screw making sure the washers are between the switch and 
+the bracket.  
+
+Fleet Improvement  S4408  February  2025  
+ 
+VAH Hood Tilt Switch Remote Start  
+ 
+ 
+10. Tighten the screws.  
+Tightening torque  
+M,6 Bolt  6 ±1 Nm (4  ±1 lbf⋅ft) 
+ 
+11. Lower and latch the hood.  
+12. Connect the cable to the negative terminal.  
+ 
+ 
+
+Fleet Improvement  S4408  February  2025  
+ 
+VAH Hood Tilt Switch Remote Start  
+ 
+13. Remove the wheel chocks . 
+ 
+14. Release vehicle back to service .  
+ 
+ 
+ 
+ 

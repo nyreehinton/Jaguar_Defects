@@ -1,0 +1,39 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+EX90 - SiriusXM not activated after PDSRef. No.
+TJ 37233.1.1
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/7/25Status Date
+1/15/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3900
+Function Description
+Media, navigation and communicationPage
+Page 1 of 1Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+If the vehicle’s Satellite Radio (SiriusXM) does not function, and a “SAT Hardware Error” message is 
+displayed in the CSD when selecting SiriusXM, please see the advice under “Service.”
+CSD = Center Stack Display
+CSC   Customer Symptom Codes
+Code Description
+2P Satellite radio/Does not work
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-9999 - 202417-999952
+SERVICE:
+DO NOT REPLACE PARTS FOR THIS ISSUE.
+Please contact Retailer Technical Support (RTS) through a “Support Needed” vehicle report in TIE, 
+as SiriusXM can be reactivated manually by RTS. 
+  
+Warranty claim info:
+No warranty claim is accepted for this TJ.
+VEHICLE REPORT:
+Yes, please submit a “Support Needed” vehicle report.
+ 

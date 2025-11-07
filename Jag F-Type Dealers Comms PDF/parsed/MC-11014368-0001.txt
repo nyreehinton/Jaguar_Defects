@@ -1,0 +1,47 @@
+Technical Service Bulletin (TSB)
+Missing Keyfob With Remote Control
+REFERENCE: TSB:  08-036-25
+GROUP:  08 - ElectricalDate: February 15, 2025 REVISION: –
+VEHICLES
+AFFECTED:2025 (GC) Alfa Romeo Tonale
+This bulletin applies to vehicles built on or before December 31, 2024
+(MDH 1231XX).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●Second key fob is missing.
+CAUSE: Plant sequencing issue
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-017,
+date of issue February 15, 2025. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+REPAIR SUMMARY:
+This bulletin involves ordering a new keyfob and handing the it to the customer or placing it in the vehicle.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+08-80-44-97 Transmitter, Integrated
+Key FOB - Supply
+Missing
+(0 - Introduction)6 - Body and Electrical 0.1 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 7TB32JXWAA -
+MOPAR
+6000634373 -
+EMEAIntegrated Key Fob
+DIAGNOSIS:
+If a customers VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. Order a second keyfob using the vehicle's VIN number.
+NOTE: Keyfob will arrive programed and ready to use.
+2. Deliver key fob to the customer or place in the vehicle.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

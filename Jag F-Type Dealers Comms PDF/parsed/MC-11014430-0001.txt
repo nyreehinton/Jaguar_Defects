@@ -1,0 +1,67 @@
+   
+TECHNICAL SERVICE BULLETIN
+Various Gear Shift Module Concerns25-2045
+17 February
+2025
+This bulletin supersedes 21-2141. Reason for update: update the Service Procedure
+Model:
+Ford
+2021-2024 F-150Built on or before 01-Nov-2024
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit at least one of the following conditions:
+• Clicking sound coming from shifter after it is placed and kept in reverse, neutral or drive position (2024
+only)
+• Shifter will not shift out of park/into P
+• Shifter will not shift out of gear
+• Shifter will not stow/unstow
+• Shifter will move past the P position
+• Loose shifter lever arm at pivot
+• Illuminated powertrain malfunction (wrench) indicator
+• DTCs P0929:77, P0929:00, P0929:07 and/or P0929:9A
+This may be due to a faulty GSM and/or connector C211 pin push out on circuit CCB61 or an open on circuit CCB61,
+between the ABS module and the BCM.
+NOTE: If the gear shifter lever will not shift into P, the transmission will automatically shift into P when the
+Return to Park function is triggered.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+inspect for connector damage and replace the GSM.
+Parts
+Service Part NumberClaim QuantityPackage Order QuantityNumber in PackageDescription
+7210 1 1 1 Gear Shift Module
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2021-2024 F-150 With 10 Or 12 Inch Center Display Screen: Check DTCs Inspect
+Connector C211 (Pass) Replace The GSM (Do Not Use With Any Other Labor
+Operations Outside Of This Article)252045A 0.8 Hrs.
+2022-2024 F-150 Lightning With 15.5 Inch Center Display Screen: Check DTCs
+Inspect Connector C211 (Pass) Replace The GSM (Do Not Use With Any Other Labor252045B 1.0 Hrs.
+Operations Outside Of This Article)
+2021-2024 F-150: Inspect Connector C211 And Open Circuit In CCB61 (Fail) Repair
+As Necessary (Can Be Claimed With Operation A Or B)MT252045Actual Time
+Up To 1.5
+Hrs.
+Repair/Claim Coding
+Causal Part: 7210
+Condition Code:42
+Service Procedure
+1. Inspect connector C211 for pin fitment and/or damaged pin(s) and check for an open on circuit CCB61. Is there
+poor pin fitment or damage to pin 3 and/or an open in circuit CCB61 found?
+(1). Yes - repair the damaged pin(s) and/or wiring per cell 005 of the Wiring Diagram and proceed to Step 2.
+(2). No - proceed to Step 2.
+2. Replace the GSM.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

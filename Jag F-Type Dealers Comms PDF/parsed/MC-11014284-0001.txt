@@ -1,0 +1,16 @@
+1 
+ 
+ 
+ 
+Units:  TriPac 3  
+Description : Due to supply issues the Tri Pac 3 fuel pump  426469 may be out of stock. A 
+temporary solution is to order the older Tri Pac pump kit 401525. Order quantity 
+will be subject to manual review. You must also order connector 425803 and 
+terminal pins 425396.  
+ Please see PB1771  for service numbers and installation procedure.  
+ 
+ Date:  January 31, 2025  
+Subject:  Fuel Pump Option for TriPac 3  
+Location:  e-Tech Library    Service  Bulletin  
+  SB974 
+ 

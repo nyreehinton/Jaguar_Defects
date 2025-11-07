@@ -1,0 +1,106 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 19-NA-257
+Service BulletinDate: January, 2025
+TECHNICAL
+Pickup Box Out of Alignment
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+ChevroletSilverado 1500 (New
+Model)2019 2019
+    All AllSilverado 1500 2020 2021
+Silverado 1500 –
+(LTD, RPO J21, 12th
+VIN Digit = 4 or less)
+2022 2022
+Silverado 1500 –
+(RPO J22, 12th VIN
+Digit = 5 or greater)
+Silverado 1500 2023 2025
+GMCSierra 1500 (New
+Model)2019 2019
+Sierra 1500 2020 2021
+Sierra 1500 -
+(LIMITED RPO J21,
+12th VIN Digit = 4 or
+less)2022 2022
+Sierra 1500 - (RPO
+J22, 12th VIN Digit =
+5 or greater)
+Sierra 1500 2023 2025
+ Subject:
+Page 2 January, 2025 Bulletin No.: 19-NA-257
+Involved Region or CountryNorth America, Middle East, Chile, Paraguay, Uruguay, Thailand, Australia, New Zealand,
+and Israel
+Condition
+5442974
+The pickup box appears to be out of alignment from side to side of the truck. The
+condition is more noticeable from rear of truck, down the side.
+CauseThe cause of the condition may be the pickup box was misaligned from the assembly
+plant.
+CorrectionAdjust the pickup box to within tolerance, following the steps in the Service Procedure
+below.
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+5442975
+Bulletin No.: 19-NA-257 January, 2025 Page 3
+Note: Measure the cab to box distance on both sides of the vehicle.
+1. Using a straight edge on the side of the cab corner at the upper body line, measure the distance to the pickup
+box. The box should be sub-flush with cab and within 2.5 mm (0.10 in) total difference side to side.
+• If the box is sub-flush AND the distances ARE within the 2.5 mm (0.10 in) range side to side, no box alignment
+is necessary.
+• If the box IS NOT sub-flush AND the distances ARE NOT within the 2.5 mm (0.10 in) range side to side,
+continue on to the box alignment procedure.
+5442976
+2. To prevent damage to the painted surfaces, apply tape/protection to the areas where the pickup box, cab and
+rear bumper would meet,
+Page 4 January, 2025 Bulletin No.: 19-NA-257
+4998458
+3. Remove the 4 rear pickup box bolts (1) and clean any sealer that may prevent movement between the bolt and
+frame. Reinstall the bolts and hand turn a couple of turns.
+Bulletin No.: 19-NA-257 January, 2025 Page 5
+4998459
+Note: Long pickup box shown above, has 4 front bolts, short box only has 2.
+4. Remove the front  pickup box bolts (1) and clean any sealer that may prevent movement between the bolt and
+frame. Reinstall the bolts and hand turn a couple of turns.
+5442977
+Note: If box alignment is limited due to locating pins in the bed preventing correct alignment, the front locating pin
+can be removed.
+5. Remove the front bed to frame locator pin, as necessary.
+Page 6 January, 2025 Bulletin No.: 19-NA-257
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION6. Align the pickup box to within specifications. Box should be sub-flush with cab and within 2.5 mm (0.10 in) total
+difference side to side.
+7. Tighten all pickup box bolts. Refer to Fastener Specifications in the Body Repair section in SI, for proper Torque
+specifications
+8. Remove any tape/protection that was applied.
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+1481268* Pickup Box Alignment 0.4 hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 5
+Modified Released November 19, 2019
+Revised December 21, 2020 – Added 2021 Model Year and Added Israel to Export
+Countries
+Revised May 18, 2022 — Added 2022 Model Year, Australia, and New Zealand Regions.
+Revised July 27, 2023 — Added 2023 and 2024 Model Years.
+Revised January 31, 2025 – Added 2025 Model Year.

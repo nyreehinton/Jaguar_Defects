@@ -1,0 +1,128 @@
+Bulletin Number: 06-93-25;  Date: 02/10/25         Page 1 of 4
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 06-93-25
+ DATE: 02/10/25 APPLICABILITY: 2024MY Impreza & Crosstrek
+ SUBJECT: Reprogramming Files for DTCs P0890 & P0700
+INTRODUCTION:
+This bulletin announces availability of reprograming files for the Engine Control Module (ECM) 
+developed to address the following Diagnostic Trouble Codes (DTC):
+• P0890: TCM Power Relay Sense Circuit Low
+• P0700: Transmission Control System (MIL Resquest)
+When shutting the engine off after a short distance drive in ambient temperatures of 32°f (0°C) or 
+below, moisture may develop inside the starter relay and cause the internal contacts to stick or freeze 
+resulting in a no crank / no start condition. The new software cycles the relay contacts periodically 
+to prevent any sticking or freezing.  If this situation is reported by a customer and/or DTC P0890 & 
+P0700 is stored in the ECM fault memory, perform the reprogramming procedure outlined below.
+PRODUCTION CHANGE INFORMATION:
+The reprogramming files have been incorporated into vehicle production as per the table below . 
+Model Starting VIN
+IMPREZA R8891301
+CROSSTREK RH891695 ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 06-93-25;  Date: 02/10/25         Page 2 of 4
+Continued...PFC FILE INFORMATION:
+MY Model Specification File Description Old Part Number New CID
+24IMPREZA2.0L NA CVT 22765AS712.pfc22765AS710
+22765AS711XE1W411f00G
+2.0L NA CVT with AGS 22765AS812.pfc22765AS810 
+22765AS811XE1W411d00G
+2.5L NA CVT with AGS 22765AS673.pfc22765AS670
+22765AS671
+22765AS672XE1X021b00G
+CROSSTREK2.0L NA CVT 22765AS792.pfc22765AS790
+22765AS791XE1W411e00G
+2.0L NA CVT with AGS 22765AS782.pfc22765AS780
+22765AS781XE1W411c00G
+2.5L NA CVT with AGS 22765AS973.pfc22765AS970
+22765AS971
+22765AS972XE1X021a00G
+2.5L NA CVT with AGS 22765AS69C.pfc22765AS69A
+22765AS69BXE1X021Y00G
+2.5L NA CVT with AGS 22765AS68C.pfc22765AS68A
+22765AS68BXE1X021Z00G
+SERVICE PROCEDURE / INFORMATION:
+REMINDER: Customer satisfaction and retention starts with performing quality repairs. 
+• Reprogram the ECM following the normal SSM5-R procedure.
+• Detailed information regarding the SSM5-R reprograming procedures can be found in TSB 
+14-28-21R.
+REMINDER:  Customer satisfaction and retention starts with performing quality repairs.
+Subaru of America, Inc. (SOA) highly recommends utilizing either the Subaru Midtronics DCA-
+8000 Dynamic Diagnostic Charging System or the Subaru Midtronics GR8-1100 Diagnostic Battery 
+Charger to the vehicle and utilizing the Power Supply Mode feature anytime a vehicle control module 
+is being reprogrammed. Once the Midtronics charger is connected to the vehicle, if the battery is fully 
+charged, it takes less than three (3) minutes to boot-up the charger, select the Power Supply Mode, 
+and have the battery voltage stabilized and ready for reprogramming.
+NOTES:
+• For instructions on using the Power Supply Mode, reference the applicable User Manual for 
+the Midtronics DCA-8000 Dynamic Diagnostic Charging System and the Midtronics GR8-
+1100 Diagnostic Battery Charger on STIS
+• Confirm all electrical loads such as lights, audio, HV AC, seat heaters, and rear defroster are all 
+switched OFF before setting up the charger for Power Supply Mode.
+• Select the correct battery type (Enhanced Flooded, Flooded, Gel, AGM or AGM Spiral).
+Bulletin Number: 06-93-25;  Date: 02/10/25         Page 3 of 4
+Continued...• Input the CCA which matches the vehicle’s battery. NOTE: OE and replacement batteries have 
+different CCA ratings. Always confirm the battery’s CCA rating before proceeding.
+• If using a DCA-8000 Dynamic Diagnostic Charging System, set the power supply voltage to 
+13.5 V olts.
+• DO NOT connect the DST-i or DST-010 until the Power Supply mode function has completed 
+its battery test mode and the Charging V oltage has dropped to and shows a steady 13.5 V olts on 
+the display.
+• Once Power Supply Mode reaches a steady 13.5 V olts, connect the DST-i or DST-010 to the 
+OBD connector and proceed with initiating the normal SSM5-R reprogramming process.
+• Amperage will fluctuate based upon the vehicle’s demand for power. NOTE: If the voltage 
+rises beyond 14 V olts while programming is in process, the procedure will abort. This can 
+indicate a need to test or charge the vehicle battery before any further attempt at programming 
+is made.
+• ALWAYS set the power supply voltage to 13.5 V olts when using Power Supply Mode. NEVER 
+turn the ignition switch on when charging at voltages 15 V olts or higher.
+REMINDER: If the DCA-8000 or GR8-1100 indicates the vehicle’s battery must be charged, charge 
+the battery fully before proceeding to reprogram the vehicle while using the Power Supply Mode.
+NOTE: Control module failures resulting from battery discharge during reprogramming are not a 
+matter for warranty. Should any DTCs reset after the reprogramming update is performed, diagnose 
+per the procedure outlined in the applicable Service Manual.
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Federal Emission Extended Defect Warranty period, or covered by and active 
+Subaru Added Security Classic or Gold plan this repair may be submitted using the following claim 
+information:  
+Labor Description Labor Operation # Fail Code Labor Time
+MFI OBDII ECM Reprogramming A450-086 UPG-48 0.4
+IMPORTANT: Always note the original Calibration Identification number (CID) / ROMID the 
+vehicle came in with on the repair order before reprogramming and, make sure to list the NEW CID / 
+ROMID for any newly installed programming (as confirmed from the actual control module AFTER 
+installation). The NEW CID / ROMID MUST also be noted on the repair order as this information is 
+required for entry in the Miscellaneous Detail field during claim submission. These numbers can be 
+read using SSM5-R. 
+Bulletin Number: 06-93-25;  Date: 02/10/25         Page 4 of 4
+NOTE: The pfc file listings provided in this bulletin are the latest available at the time of publishing. 
+Updates are often released thereafter without revision to the original bulletin. For this reason, it is 
+critical to always have the latest version of Select Monitor software installed on your system. You 
+can confirm if a later version is available by entering the CID listed in this bulletin into SSM5-R. If a 
+newer CID is shown as available in SSM5-R, reprogram using that file.
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

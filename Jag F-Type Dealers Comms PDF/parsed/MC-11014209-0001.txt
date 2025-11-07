@@ -1,0 +1,546 @@
+T-SB-0015 -25   January 29, 2025  
+ 
+Replacement ECU Software Configure Process  
+Service 
+Category  General   
+ Section    Outline -General  Market   USA and 
+Mexico  
+  
+  © 2025 Toyota Motor Sales, USA  Page 1 of 26 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  4Runner, 4Runner HV, 
+Camry HV, Crown Signia, 
+Prius PHV   
+2024 - 2025  Grand Highlander, Grand 
+Highlander HV, Highlander, 
+Highlander HV, Land 
+Cruiser, Mirai, Tacoma, 
+Tacoma HV   
+2023 - 2024  Prius Prime   
+2022 - 2025  Tundra, Tundra HV   
+2021 - 2024  Venza HV   
+2023 - 2025  bZ4X, Corolla, Corolla 
+Cross, Corolla Cross HV, 
+Corolla Hatchback, Corolla 
+HV, Crown, GR Corolla, 
+Prius, Sequoia HV   
+ 
+ 
+ 
+ 
+ 
+  SUPERSESSION NOTICE  
+The information  contained  in this bulletin  supersedes  Service Bulletin  No. T-SB-0120 -20. 
+• Applicability has been updated to include 2025 model year  4Runner, 4Runner Hybrid, bZ4X, 
+Camry Hybrid, Corolla, Corolla Cross, Corolla Cross Hybrid, Corolla Hatchback, Corolla Hybrid, 
+Crown, Crown Signia, GR Corolla, Grand Highlander, Grand Highlander Hybrid, Highlander, 
+Highlander Hybrid, Land Cruiser, Mirai, Prius, Prius PHV, Sequoia Hybrid, Tacoma,  
+Tacoma Hybrid, Tundra, and Tundra Hybrid  vehicles.  
+• The Introduction section has been updated.   
+Service Bulletin No. T-SB-0120 -20 is obsolete,  and any printed versions should be discarded.  
+ T-SB-0015 -25   January 29, 2025  Page 2 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Introduction  
+Some  2021 – 2025 model year Toyota vehicles  may require the download and installation of  
+vehicle specific software or configuration software when the Electronic Control Unit  (ECU ) is 
+replaced. GTS+  software has been modified to indicate when configuration software is required. A  
+new Configure  column has been  added to the GTS+  Health Check Results screen to show when 
+configuration software is available for a specific ECU.  
+ 
+Follow the Operation Procedure  in this bulletin to complete the ECU Software Configure Process.  
+Certain ECU replacements require CUW reprogramming (Standard ECU Configuration) while  
+others may only require C -Best Writing (ECU Configuration Value Writing). Please select the  
+appropriate procedure below, depending on the ECU replaced.  
+• Procedure A: Standard ECU Configuration (CUW Reprogramming)  
+• Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  
+ 
+Refer to the applicability chart below for a list of Models and ECUs that will require configuration  
+software when the specified ECU is replaced:  
+Year(s)  Model(s)  ECU(s) Requiring Configuration Software  
+2025  4Runner  ECM / TCM / Absorber Control / EMPS /  
+ANC / Body  
+bZ4X  HV / Inverter / Brake / Airbag / EMPS / 
+Blindspot / Body / Front Side Radar  
+Camry HV  ECM / HV / Inverter / EMPS / Blindspot /  
+Body / Airbag / Front Side Radar  
+Corolla Cross / Corolla Cross HV   HV / Inverter / Airbag / Body  
+Corolla, Corolla HV, GR Corolla, 
+Corolla Hatchback  ECM / HV / Inverter / EMPS / Body / Power 
+Distribution Box / Airbag / 4WD / ANC  
+Crown  ECM / HV / Inverter / Brake / Airbag / Absorber 
+Control / EMPS / ANC / Blindspot /  
+Body / Front Side Radar  
+Crown Signia  ECM / HV / Airbag / ANC / EMPS / Blindspot / 
+Body / Front Side Radar  
+Grand Highlander /  
+Grand Highlander HV  ECM / HV / Inverter / EMPS / ANC / Blindspot / 
+Body / Airbag / Front Side Radar  
+Highlander / Highlander HV  EMPS / Body  
+Land Cruiser  ECM / HV / TCM / Airbag / EMPS / ANC / 
+Body / Front Side Radar  
+Mirai  Front Side Radar / Airbag / Blindspot / Body  
+Prius / Prius PHV  Airbag / Blindspot / Body / Engine / EMPS / 
+Front Side Radar / HV / Inverter  
+ 
+ 
+  
+ T-SB-0015 -25   January 29, 2025  Page 3 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Introduction  (continued)  
+ 
+Year(s)  Model(s)  ECU(s) Requiring Configuration Software  
+2025  Sequoia HV  TCM / Brake / EMPS / ANC / Airbag /  
+Body / HV  
+Tacoma / Tacoma HV  EMPS / ANC / Body  
+Tundra / Tundra HV  HV / TCM / Brake / Airbag / EMPS /  
+ANC / Body  
+2024  bZ4X  Airbag / Body / Brake / HV / MG / EMPS / 
+Blindspot / Front Side Radar  
+Corolla, Corolla HV, GR Corolla, 
+Corolla Hatchback  Airbag / Body / EMPS / Engine / HV / Inverter / 
+Power Distribution Box / Body / 4WD  
+Corolla Cross / Corolla Cross HV  Airbag / Body  
+Crown  Absorber Control / Airbag / ANC / Body /  
+Brake / ECM / EMPS / HV / Inverter /  
+Blindspot / Front Side Radar  
+Prius / Prius Prime  Airbag / Blindspot / Body / Engine / EMPS / 
+Front Side Radar / HV / Inverter  
+Sequoia HV  Airbag / ANC / Body / Brake / ECT / EMPS / 
+Engine / HV / TCM / ANC  
+Tundra / Tundra HV  ANC / Body / Brake / ECT / EMPS / HV /  
+TCM / Airbag  
+Highlander / Highlander HV  Body / EMPS  
+Grand Highlander /  
+Grand Highlander HV  ECM / HV / Inverter / TCM / EMPS / ANC / 
+Blindspot / Body / Airbag / Front Side Radar  
+Land Cruiser  ECM / HV / TCM / Airbag / EMPS / ANC / 
+Body / Front Side Radar  
+Tacoma  / Tacoma HV  EMPS / ANC / Body  
+Mirai  Front Side Radar / Airbag / Blindspot / Body  
+ 
+ 
+ 
+  
+ T-SB-0015 -25   January 29, 2025  Page 4 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Introduction  (continued)  
+ 
+Year(s)  Model(s)  ECU(s) Requiring Configuration Software  
+2023  bZ4X  Airbag / Body / Brake / HV / MG  
+Corolla / Corolla HV / Corolla 
+Hatchback / GR Corolla  Airbag / Body / EMPS / Engine / HV / Inverter / 
+Power Distribution Box  
+Corolla Cross / Corolla Cross HV  Airbag / Body  
+Crown  Absorber Control / Airbag / ANC / Body / 
+Brake / ECM / EMPS / HV  
+Prius  / Prius Prime  Airbag / Blindspot / Body / Engine / EMPS / 
+Front Side Radar / HV / Inverter  
+Sequoia HV  Airbag / ANC / Body / Brake / ECT / EMPS / 
+Engine  
+2022 – 2023  Tundra / Tundra HV  ANC / Body / Brake / ECT / EMPS  
+2021 – 2024 Venza HV  Body / EMPS  
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ECU is a Toyota term used to describe integrated computerized devices responsible for managing the 
+operation of a system or subsystem. In this bulletin , ECU is used as a generic label for the following SAE 
+J1930 standard references:  
+• Powertrain Control Module  (PCM) . 
+• Engine Control Module (ECM) . 
+• Transmission Control Module (TCM) . 
+• Any other Toyota specific control unit . 
+ T-SB-0015 -25   January 29, 2025  Page 5 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Table of Contents  
+• Warranty Information ................................ ................................ ................................ ...............  6 
+• Required Tools & Equipment  ................................ ................................ ................................ .. 6 
+• Operation Procedure  ................................ ................................ ................................ ...............  7 
+• Procedure A: Standard ECU Configuration (CUW Reprogramming)  ................................ .. 7 
+• Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  ..................  15 
+ 
+ 
+  
+ T-SB-0015 -25   January 29, 2025  Page 6 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADV i* 
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+Battery Diagnostic Tool*  DCA -8000P T  1 
+*Essential SST.  
+ 
+ 
+ 
+  NOTE  
+• Only ONE  of the Techstream  units listed above is required.  
+• GTS+ software version 2024.0 4.004.02 or later is required.  
+• Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 (USA) or 01 -55-50103041 (Mexico) or by visiting TIS – Diagnostics – 
+Tools & Equipment – Techstream Order Portal . 
+NOTE  
+Additional SSTs may be ordered by calling 1-800-368-6787 (USA) or 01 -800-504-5330 (Mexico) or by 
+visiting Home – Service Resources – Toyota Special Service Tools (SSTs) . 
+ T-SB-0015 -25   January 29, 2025  Page 7 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  
+1. AFTER ECU replacement , connect GTS+,  select the applicable vehicle and options , 
+and select Next . 
+Figure 1. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 8 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+2. After performing a Health Check, GTS+ will automatically detect the replacement ECU that  
+needs configuration. On the Health Check Results page, select Yes in the Configure column  
+to begin the configuration process.  
+Figure 2. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 9 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+3. If your ECU Configuration requires multiple calibration files, you will be prompted with the  
+screen below. Confirm the calibrations to be downloaded. Then press the Reprogramming  
+Start button to proceed.  
+If your ECU Configuration does not require multiple calibration files, this screen will not be 
+displayed. Continue to step 4.  
+Figure 3. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 10 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+4. GTS+ will identify the necessary calibration file required. Press Next to start the file download  
+and continue to step 5.  
+Figure 4. 
+ 
+ 
+ 
+Figure 5. 
+ 
+ 
+  
+NOTE  
+Selecting output will create a text file listing the required CUW files at the file path below.  
+ T-SB-0015 -25   January 29, 2025  Page 11 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+5. Select OK to proceed to the login screen.  
+Figure 6. 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 12 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+6. Input your TIS password and select LOG IN.  
+Figure 7. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 13 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+7. The required calibration has been downloaded, press Next to begin reprogramming the ECU.  
+Figure 8. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 14 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+8. Refer to Service Bulletin No. T-SB-0107 -20, ECU Flash Reprogramming With Security  
+Signature , and complete the programming as instructed there.  
+Figure 9. 
+ 
+ 
+ 
+ 
+ 
+  
+NOTE  
+On some models, DTCs may be set as a result of  reprogramming. If DTCs are present, clear them, 
+and run the Health Check again. Troubleshoot ANY remaining current, pending, or history codes. 
+Permanent codes will NOT be cleared using GTS+. Permanent codes do NOT illuminate the MIL and 
+do NOT require tro ubleshooting. They will clear during normal driving once the Universal Trip Drive 
+Pattern is performed.  
+ T-SB-0015 -25   January 29, 2025  Page 15 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  
+The following procedure covers Brake and Body ECUs ONLY.  
+1. AFTER ECU replacement, connect GTS+ to the vehicle and select Next.  
+Figure 10. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 16 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+2. After performing a Health Check, GTS+ will automatically detect the replacement ECU that  
+needs configuration. On the Health Check Results page, select Yes in the Configure column  
+to begin the configuration process . 
+Figure 11. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 17 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+3. Perform IG OFF first then IG ON, and press Next to proceed.  
+Figure 12. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 18 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+4. Press Next to continue to Vehicle Configuration Value writing process.  
+Figure 13. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 19 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+5. Press Next to begin Vehicle Configuration Value writing process.  
+Figure 14. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 20 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+6. Once writing is complete, press Next to continue.  
+Figure 15. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 21 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+7. After the Vehicle Configuration Value writing is complete, updated vehicle information  
+will be sent to the server. Press Next to send vehicle information.  
+Figure 16. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 22 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+8. Select OK to proceed to the login screen.  
+Figure 17. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 23 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+9. Input your TIS password and select LOG IN.  
+Figure 18. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 24 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+10. Select Scan again to perform a follow -up Health Check.  
+Figure 19. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 25 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+11. Press Yes to perform a Health Check on ALL ECUs.  
+Figure 20. 
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0015 -25   January 29, 2025  Page 26 of 26 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+12. After performing a Health Check, confirm No is displayed in the Configure column, and DTC  
+and RoB data are cleared for the newly configured ECU.  
+Figure 21. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE  
+On some models, DTCs may be set as a result of  reprogramming. If DTCs are present, clear them, 
+and run the Health Check again. Troubleshoot ANY remaining current, pending, or history codes. 
+Permanent codes will NOT be cleared using GTS+. Permanent codes do NOT illuminate the MIL and 
+do NOT require tro ubleshooting. They will clear during normal driving once the Universal Trip Drive 
+Pattern is performed.  

@@ -1,0 +1,141 @@
+ 
+Service Information  
+ 
+ Page 1 of 5  
+© 2025 Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual 
+property rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without notice.  No part of this 
+document may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these 
+materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.  Public   
+Offboard Diagnostic Information System  Service (ODIS  Service ) Numbe r: VOS-25-18 
+  
+Subject:  Airbag Module Software Configuration. B20130 0- No 
+Band End Programming Occurs  Hotfix Instructions  Date: Feb. 12, 2025 
+ 
+ 
+ 
+ 
+ 
+1.0 – Introduction 
+The hotfix is for  multiple vehicles:  
+• 2018- 2025 BW -Tiguan  
+• 2018- 2023 CA/CM -Atlas  
+• 2015- 2021 AU-Golf 
+• 2022-2025 SD/CG -Golf 
+• 2022- 2025 CL- Taos  
+• 2018- 2025 BU Jetta  
+ 
+If you have the DTC: B201300: No band end programming  occurs,  and you attempt  the test 
+plan and get the error message below. This hotfix will address that.  
+ 
+ 
+ 
+ 
+(continued)  
+Important:  
+We recommend installation of this hotfix on one diagnostic device ONLY. Hotfix must 
+be removed immediately after perform ing the procedure.  
+ 
+Service Information  
+ 
+Page 2 of 5 
+© 2025 Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual 
+property rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without notice.  No part of this 
+document may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these 
+materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.  Public  !! The Hotfix must be removed after performing the diagnostic procedure . !! 
+2.0 – Prerequisite  
+ODIS Service latest Diagnostic Content version must be installed . 
+To confirm the installed diagnostic content version i n ODIS Service, go to:  
+ Info >    Versions >Diagnostic data ; didb_GFS -v.en_US:  xxxxxxxx X.XX.XX 
+ 
+3.0 – Download Hotfix  
+ 
+1. Open a  Web Browser  on the diagnostic device and logon to vwhub.com  
+2. Navigate t o Elsa2Go>Service References>Software/Hardware Updates 
+3. Search for  the SWK Hotfix Zip File 
+4. Click the  SWK  Hotfix Zip File    and save  it to your Windows d esktop. 
+5. Close your browser . 
+6. Browse  to the desktop and double- click the   SWK  Hotfix Zip File  to open it.  
+ 
+7. Right click the file (example only) name and select Copy :  
+ 
+ 
+ 
+  
+(continued) 
+
+ 
+Service Information  
+ 
+Page 3 of 5 
+© 2025  Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual 
+property rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without not ice.  No part of this 
+document may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these 
+materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.  Public  8. Right click a nywhere on the Windows d esktop and select Paste.  This file icon (example)  must appear 
+on the desktop:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.0 – Install Hot fix into ODIS Service  
+1. Open ODIS Service  (“Run as Administrator ”) 
+2. Expand the Data  submenu and click Download  (under Hotfix ): 
+ 
+ 
+3. Click Continue:  
+ 
+(continued)   
+
+ 
+Service Information  
+ 
+Page 4 of 5 
+© 2025  Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual 
+property rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without not ice.  No part of this 
+document may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these 
+materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.  Public  4. The Directory selection window  will appear. Browse to and highlight the Hotfix file (example only) , 
+then click Select Folder : 
+ 
+ 
+ 
+5. Click OK: 
+ 
+6. Perform the diagnostic  procedure.  
+ 
+ 
+ 
+ 
+ 
+ 
+(continued)  
+ 
+Important:   
+The Hotfix must be removed after performing the procedure . Failure to do so will 
+cause other vehicle diagnostics sessions to malfunction.  
+ 
+Service Information  
+ 
+Page 5 of 5 
+© 2025 Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual 
+property rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without notice.  No part of this 
+document may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these 
+materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.  Public  
+5.0 – Uninstall the Hotfix from ODIS Service  
+ 
+1. Select Erase (under Hotfix) , then Continue : 
+ 
+ 
+2. Click OK and close ODIS Service : 
+ 
+ 
+  
+Please contact Diagnostic Tester Software Support by phone at 888 -896-
+1298 or email softwaresupport@vw.com  with any questions or concerns.  

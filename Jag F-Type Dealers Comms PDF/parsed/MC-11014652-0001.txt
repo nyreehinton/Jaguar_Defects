@@ -1,0 +1,27 @@
+SIB 32 02 25
+DELIVER Y STOP: STEERING SHAFT  UNIVERSAL  JOINT2025-02-07
+MODEL
+E-Series Model Description Production Date 
+G60 5 Series Sedan & i5 Sedan September 4, 2024 – December 9, 2024
+G70 7 Series Sedan & i7 Sedan September 17, 2024 – November 15,
+2024
+G90 M5 Sedan November 5, 2024
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  As of February 8, 2025, you can
+see a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (effective February 7, 2025) on certain Model Year 2025 BMW vehicles
+that were produced between September 4, 2024, and December 9, 2024.  
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+The bulletin will be updated when additional information becomes available.  
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:48 AM 32 02 25_DELIVERY STOP: STEERING SHAFT UNIVERSAL JOINT
+about:blank 1/2
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:48 AM 32 02 25_DELIVERY STOP: STEERING SHAFT UNIVERSAL JOINT
+about:blank 2/2

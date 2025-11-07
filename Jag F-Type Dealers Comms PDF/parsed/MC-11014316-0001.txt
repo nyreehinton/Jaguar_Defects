@@ -1,0 +1,33 @@
+Involved Region or
+CountryNorth America, South K orea
+ConditionSome Buick and Chevrolet vehicles equipped with the GF6 6T40
+automatic transmission ma y experience: a surge 55 to 70 mph in
+6th gear concern. 
+Cause Engineering is investigating the concern.
+Version 1
+Modiﬁed  02/14/2025 - Created on.
+Bulletin No.: PIP6046
+Published date: 02/14/2025
+Preliminary Information
+PIP6046 6T40 6TH gear surge 55 to 70 mph
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Envista 2025 All AllAll MNH
+Chevr oletTrax 2025 All AllAll MNH
+ 
+ 
+ 
+ 
+ 
+Correction:
+Test the vehicle to see if the surge is only there in 6th gear by shifting manually to 5th
+gear.
+If the vehicle has the surge concern in only 6th gear , engineering is investigating the
+concern and no repairs should be performed at this time.
+In the meantime please advise customer they may continue to drive the vehicle.
+The PI will be updated or replaced with TSB once a determination has been made.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

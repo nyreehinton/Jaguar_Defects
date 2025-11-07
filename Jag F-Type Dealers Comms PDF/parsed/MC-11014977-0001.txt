@@ -1,0 +1,83 @@
+ 
+ 
+BULLETIN NOTES
+This SA supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-021/24 04/09/24 and 05/06/24
+SA-070/22 11/01/22
+ 
+APPLICABLE MODEL(S)/VINS  
+2020-2024 CX-30  
+2019-2024 Mazda3   
+ 
+DESCRIPTION
+Some customers may complain about intermittent audio no sound from the MAZDA CONNECT infotainment system and/
+or static noise from the speakers. The concern may be reproduced by tapping on the dash pad near the MAZDA 
+CONNECT center display and the following DTC's may be stored.
+U0186:08 Communication error with audio amplifier•
+U2145:08 Communication error with remote tuner (RT)•
+U2145:02 Communication error with remote tuner (RT)•
+Page 1 of
+5
+02/11/2025 10:12 AM tlawrenc
+This may be caused by PIN 6F backing out at the CMU connector 0920-101F.  
+  
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Disconnect the Instrument Panel Harness connector 0920-101F (CMU connector).  
+3. Add a paint mark (A), (or equivalent) to one of the black cables and blue connector as shown.  
+ 
+4. Remove pins 6F and 6H from the MOST output connector 0920-101F.
+Page 2 of
+5
+02/11/2025 10:12 AM tlawrenc
+5. Untwist pins 6F and 6H (straighten) and reinstall them into connector 0920-101F.  
+NOTE:  You may need to remove about 1/2 of the insulation to give more flexibility/slack.
+6. Pull on pins 6F and 6H to confirm they are locked and secured.  
+NOTE:
+If the harness connector cannot be repaired, replace the Instrument Panel Harness.•
+If instrument panel harness replacement is necessary, a photo (of the harness connector deemed unrepairable 
+while on the vehicle) will be required when submitting the warranty claim.  •
+7. Confirm paint mark (A) alignment.  
+  
+8. Clear any DTC's.
+PIN 6F is backed out PIN 6F is untwisted and repaired
+ 
+9. Did the Instrument Panel Harness, connector 0920-101F repair resolve the concern?
+Yes - Repair completed•
+No - Swap the remote tuner with good known vehicle. Is the audio sound recovered?
+Yes - Replace the remote tuner.○
+No - Swap the audio amp with good known vehicle. Is the audio sound recovered?○•
+Page 3 of
+5
+02/11/2025 10:13 AM tlawrenc
+Yes - Replace the audio amp.○
+No - Replace the Instrument Panel Harness○
+ 
+Page 4 of
+5
+02/11/2025 10:13 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+ 
+Repair Instrument Panel Harness  
+Connector 0920-101FReplace Instrument  Panel Harness •
+Replace Remote Tuner•
+Replace Audio Amp•
+Warranty Type A
+Symptom Code 56
+Damage Code 9T
+Part Number Main Cause 5555-22-008A
+Quantity 0
+Operation Number / Labor Hours: YY832XRX / 0.5 HrsSubmit a normal  
+warranty claim
+ 
+Page 5 of
+5
+02/11/2025 10:13 AM tlawrenc

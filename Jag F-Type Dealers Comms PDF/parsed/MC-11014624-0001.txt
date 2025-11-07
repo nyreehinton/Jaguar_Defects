@@ -1,0 +1,59 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on any of the following
+conditions:  ABS MIL, SES MIL, Service Brak e System
+message, Service StabiliT rak, or a change in the brak e
+pedal eﬀort and when checking for DTCs a P0606 and
+P0562 will be set in the BSCM.  
+Cause  Engineering is currently investigating the issue. 
+Bulletin No.: PIT6347
+Published date: 02/25/2025
+Preliminary Information
+PIT6347 ABS SES MIL / Service Brake System / Service StabiliTrak /
+BSCM DTC P0606 P0562
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2022 - 2025 All AllAll All
+Cadillac Escalade ESV 2022 - 2025 All AllAll All
+Chevr oletSuburban 2022 - 2025 All AllAll All
+Chevr oletTahoe 2022 - 2025 All AllAll All
+GMC Yukon 2022 - 2025 All AllAll All
+GMC Yukon XL 2022 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+Engineering is currently investigating the issue, but in the meantime
+follow normal SI diagnostics.  It has been noticed that this condition is more
+prevalent in colder ambient temperate and a lower battery state of charge
+maybe a contributing factor .  If after following SI diagnostics and a root cause
+is not found, then perform the following inspections:
+1.  Test the battery using the GR8/DCBS and replace as necessary .  
+NOTE:  T esting the battery at the ambient temperatures the issue occurs could
+help identify any battery related issues.  
+2.  Inspect the battery cables and battery fuse block connections to mak e sure
+they are clean and tight.
+3.  If applicable, perform  PIT6260  Dead Battery / Excessive Battery Draw Drain
+Parasitic / Low Battery V oltage / Reprogram BCM.   
+4.  Inspect for any type of aftermark et equipment that could draw down the
+battery (dash cameras, cell phone chargers, etc.).  
+Labor Operation Description Labor Time
+* 2486408P0562 additional testing of battery ,
+cable and fuse block connections, and
+draw testing1.0 Hrs
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/25/2025 - Created on.5.  Inspect for any parasitic draws on the battery by performing a Battery
+Electrical Drain/P arasitic Load T est.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

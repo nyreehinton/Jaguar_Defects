@@ -1,0 +1,552 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+CAMPAIGN  25-01-019G 
+FEBRUARY  2025 G80 (RG3)  
+G90 (RS4)  
+ A/C SUCTION AND DISCHARGE HOSE SEAL WASHER 
+REPLACEMENT (SERVICE CAMPAIGN 911G) 
+ 
+ 
+ 
+Description:  Certain G80 ( RG3) and G90 ( RS4) vehicles  equipped with the 2.5T -GDI Theta III or   
+3.5T-GDI Lambda III  engine  may exhibit  reduced air conditioning performance due to chemical damage 
+to the suction and discharge seal washers caused by foreign substances.  This bulletin provides 
+instructions  to replace the A/C suction and discharge  seal washers  to resolve the concern.  
+ 
+ 
+ 
+Applicable Vehicles  (Certain) :  
+• 2024-2025MY G 80 (RG3) produced from 0 5/02/2024 – 12/19/2024 
+• 2024-2025MY G 90 (RS4) produced from 0 5/03/2024 – 12/14/2024 
+ 
+  
+ 
+Retailers  must perform this service campaign on all affected vehicles prior to retail delivery  to a 
+guest  and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ 
+Access the “Vehicle Information” screen via W ebDCS to identify open campaigns.  
+ IMPORTANT  
+
+ 
+TSB #: 25-01-019G Page 2 of 16 
+ 
+Parts  Information:   
+G80 ( RG3) 
+2.5T Seal Washer – 
+Suction  976A1 -H9000   
+ 
+ QTY 1  
+Seal Washer – 
+Discharge  976A2 -H9000   
+ 
+ QTY 1  
+G80 ( RG3) 
+3.5T 
+ 
+G90 ( RS4) 
+3.5T Seal Washer – 
+Suction  976A1 -H9000   
+ 
+ QTY 1  
+Seal Washer – 
+Discharge  976A2 -H9000   
+ 
+ QTY 1  
+O-Ring 97690 -34330  
+Hose – Suction   
+ 
+3 QTY 1  
+97960 -34350  
+Hose – Discharge   
+ 
+ QTY 1  
+ALL Supercool  
+R-1234YF  
+PAG 46 Oil 
+with UV Dye Manufacturer Part Number:  
+27262D  
+ Commercially  
+Available  
+ 
+One 8 oz bottle  
+may treat up to  
+23 vehicles  
+ 
+  
+
+ 
+TSB #: 25-01-019G Page 3 of 16 
+ 
+Required Equipment/Supplies :  
+R-1234YF PAG Oil  
+Injector - Syringe  ROB18465  
+ SHOP SUPPLY  
+ 
+Used to inject PAG oil via the   
+Low-Side R -1234 YF Service  
+Coupler  
+NOTE 1: Additional SSTs ( P/N ROB18465) can be  purchased through Snap -on at: 
+genesisessentialtools.com  or 1-855-763-6630 . 
+NOTE 2: If further assistance is required , contact: Genesistools@snapon.com  or 
+Genesistools@gma.com .  
+ 
+Warranty Information:  
+G80  
+(RG3) 2.5T  50D013R 2 A/C Suction and Discharge Hose 
+Seal Washer Replacement & 
+Recharge A/C Refrigerant with Dye  1.0 
+M/H 
+976A1 -H9000  IB1 ZZ4 G80  
+(RG3) 3.5T  
+50D013R 3 A/C Suction and Discharge Hose 
+Seal Washer Replacement & 
+Recharge A/C Refrigerant with Dye  1.8 
+M/H G90  
+(RS4) 3.5T  
+NOTE  1: Submit claim on Claim Entry Screen  as “Campaign” type.  
+NOTE  2: If a part is found in need of replacement while performing this campaign  and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the 
+work . 
+NOTE  3: This TSB includes Repair validation photos. Op times include VIN, Mileage , and Repair 
+validation photo (s) as outlined in the Digital Documentation Policy.  
+NOTE 4: The incident parts are subject to callback through the normal Warranty Technical Center  
+(WTC) parts return process. Claim is subject to debit if the part is not returned.   
+NOTE 5:  Both OP codes will reimburse $1.00 in sublet for use of PAG 46 Oil with UV Dye.  
+ 
+  
+
+ 
+TSB #: 25-01-019G Page 4 of 16 
+ 
+Service Procedure:   
+ 
+ 
+Table of Contents  
+• A/C Suction & Discharge Hose Seal Washer Replacement —G80–Theta 2.5T -GDI ....................  4 
+• A/C Suction & Discharge Hose Seal Washer Replacement —G80 & G90 –Lambda 3.5T -GDI ..... 8 
+ 
+1. Refer to the shop manual to c onnect  the 
+refrigerant recovery/recycling equipment to the 
+high-pressure service port (A) and low -
+pressure service port (B ) and recover the 
+refrigerant.  
+ 
+Refer to the shop manual:  
+• Heating, Ventilation and Air 
+Conditioning > Air Conditioning System 
+> Refrigerant Recovery  / Recycling  / 
+Charging  / Vacuum  / Leak Test  >  
+o Install the Refrigerant  Recovery  / 
+Recycling  / Charging Equipment  
+o Refrigerant Recovery Operation  
+  
+This TSB includes Repair validation photos. Refer to the latest Warranty Digital Documentation 
+Policy for requirements.  
+DIGITAL DOCUMENTATION  
+Applying the recommended torque to all fasteners is essential to reduce potential issues from 
+occurring after the service procedure.  
+NOTICE  
+ 
+•Refrigerant Type: R-1234 YF  
+•Refrigerant Capacity:   
+•630 ±25 g  or 1.38 ±0.05 lbs  
+   Information  
+  i 
+ 
+Drain or measure the amount of PAG oil 
+in the reservoir prior to recovery to 
+accurately determine how much oil is 
+drained.  
+   Information  
+  i 
+A 
+B 
+ 
+TSB #: 25-01-019G Page 5 of 16 
+ 
+2. Measure the amount of PAG oil drained during 
+recovery and record it so that amount can be 
+injected later during the recharging process . 
+ 
+ 
+3. Record the guest’s radio presets and then 
+disconnect the negative battery ( −) terminal.  
+  
+4. Disconnect the intercooler hose (C) by pulling 
+the sides (1) of the quick connector clamp  (D) 
+then remove the intercooler hose  by pulling  in 
+the direction (2) as shown in the third photo . 
+ 
+  
+ 
+C 
+D 
+C 
+C 
+
+ 
+TSB #: 25-01-019G Page 6 of 16 
+ 
+5. Remove  the fixing bolts and remove the  
+A/C suction hose (E) and discharge hose (F).  
+ 
+Tightening Torque:  
+ 
+ 
+ 
+6. Remove  the suction hose seal washer (G). 
+ 
+ 
+ 
+7. Remove  the discharge hose seal washer (H).  
+ 
+ 
+ 17 lb-ft
+12 N.m
+Keep the washers for the  Digital 
+Documentation photo.  
+   Information  
+  i 
+Keep the washers for the Digital 
+Documentation photo.  
+   Information  
+  i 
+F 
+E 
+G 
+H 
+ 
+TSB #: 25-01-019G Page 7 of 16 
+ 
+8. 
+ 
+ 9. Install the new suction and discharge hose 
+seal washers . 
+ 
+ 
+ 
+10. Re-install  all parts in  the reverse order of the 
+removal process . 
+  
+11. Refer to the shop manual to  vacuum  and 
+recharge  the A/C system : 
+• Heating, Ventilation and Air 
+Conditioning > Air Conditioning System 
+> Refrigerant Recovery  / Recycling  / 
+Charging  / Vacuum  / Leak Test  >  
+o Refrigerant System Vacuum 
+Operation  
+o Refrigerant Charge  
+  
+ 
+Using STUI, take a photo of the  OLD 
+discharge and suction seals removed 
+next to the NEW  discharge and 
+suction seals in the bag  with the last 6 
+digits of the VIN and the date of repair 
+on a piece of paper.  
+ 
+Upload the photo to  STUI.  
+DIGITAL  
+DOCUMENTATION  
+Clean both sides of the mating surface 
+prior to installation to remove any residual 
+debris left by the discharge and suction 
+seal washers.  
+   Information  
+  i 
+ 
+TSB #: 25-01-019G Page 8 of 16 
+ 
+12. Use the R-1234YF  PAG  Oil Syringe Injection 
+tool and add PAG Oil with UV Dye .  
+ 
+Place the measured amount during recovery 
+back into the vehicle; approx. 3~10  mL. 
+ 
+ 
+  
+13. Start the vehicle and verify A/C operation.   
+14. Reprogram the radio with the guest’s presets.   
+15. The service p rocedure is now complete.  
+  
+ 
+ 
+1. Record the guest’s radio presets and then 
+disconnect the negative battery (−) terminal.  
+ 2. Remove LH strut bar (A).  
+3. Disconnect the dual purge connector s (B) and 
+dual purge hose s (C)  on the air cleaner 
+assembly.  
+ 
+•Refrigerant Type: R-1234 YF  
+•Refrigerant Capacity:  
+•630 ±25 g or 1.38 ±0.05 lbs  
+   Information  
+  i 
+A 
+B 
+C 
+ 
+TSB #: 25-01-019G Page 9 of 16 
+ 
+4. Refer to the shop manual to connect the 
+refrigerant recovery/recycling equipment to the 
+high-pressure service port ( D) and low -
+pressure service port ( E) and recover the 
+refrigerant.  
+ 
+ 
+ 
+• Heating, Ventilation and Air 
+Conditioning > Air Conditioning System 
+> Refrigerant Recovery  / Recycling  / 
+Charging  / Vacuum  / Leak Test  >  
+o Install the Refrigerant  Recovery  / 
+Recycling  / Charging Equipment  
+o Refrigerant Recovery Operation  
+ 
+ 
+  
+•Refrigerant Type:  R-1234 YF  
+•G80 ( RG3) 3.5T  
+Refrigerant Capacity:   
+630 ±25 g  or 1.38 ±0.05 lbs  
+•G90 ( RS4) 3.5T  
+Refrigerant Cap acity:  
+700 ±25 g or 1.54 ±0.05 lbs  
+   Information  
+  i 
+ 
+•Be sure to drain or measure the 
+amount of oil in the reservoir prior to 
+recovery to accurately determine how 
+much oil was drained.  
+   Information  
+  i 
+D 
+E 
+ 
+TSB #: 25-01-019G Page 10 of 16 
+ 
+5. Measure the amount of PAG oil drained during 
+recovery and record it so that amount can be 
+injected later during the recharging process.  
+ 
+6. Remove the engine cover s (F) and  
+engine room cover ( G). 
+ 
+  
+  
+ 
+F 
+F 
+ F 
+G 
+
+ 
+TSB #: 25-01-019G Page 11 of 16 
+ 
+7. Disconnect the ECM connector  (H) and place 
+it in the direction of the white arrow  as shown . 
+ 
+ 
+8. Remove the air cleaner assembly ( I). 
+ 
+Tightening Torque:  
+ 
+ 
+ 
+9. 
+ Remove  the two fixing bolts (J) and remove 
+the air duct ( K). 
+ 
+ 
+17 lb-ft
+12 N.m
+H 
+I 
+J 
+K 
+J 
+ 
+TSB #: 25-01-019G Page 12 of 16 
+ 
+10. Remove  the mounting nut  (L) and disconnect  
+the discharge line ( M). 
+ 
+ 
+ 
+Tightening Torque:  
+ 
+  
+11. Remove the suction line mounting nut  (N) and 
+disconnect the suction line.  
+ 
+Tightening Torque:  
+ 
+ 
+ 
+12. Remove  the suction and discharge line  
+O-rings.  
+ 
+ 
+ 
+  17 lb-ft
+12 N.m
+17 lb-ft
+12 N.m
+Do NOT  remove the suction line 
+mounting nut  directly next to the 
+discharge line . 
+NOTICE  
+Do NOT  re-use the green suction and 
+discharge line O-rings. 
+Keep the O -rings for the Digital 
+Documentation  photo.  
+   Information  
+  i 
+L 
+M 
+N 
+
+ 
+TSB #: 25-01-019G Page 13 of 16 
+ 
+13. Disconnect the intercooler hose (O) from the 
+quick connector clamp by pulling the sides (P) 
+and top (Q). Remove the intercooler hose.  
+ 
+ 
+ 
+14. Loosen  the fixing clamp and  remove the  air 
+intake hose ( R). 
+ 
+Tightening Torque:  
+ 
+ 
+ 
+17 lb-ft
+12 N.m
+O 
+Q 
+P 
+P 
+R 
+O 
+ 
+TSB #: 25-01-019G Page 14 of 16 
+ 
+15. Remove  the mounting bolt  (S) then disconnect 
+the discharge hose  (T). 
+ 
+Remove the suction  hose bolt  (U) and suction  
+hose ( V). 
+ 
+Tightening Torque:  
+ 
+ 
+  
+ 
+16. Remove  the suction hose seal washer ( W). 
+ 
+ 
+ 17 lb-ft
+12 N.m
+Keep the washers for the Digital 
+Documentation  photo.  
+   Information  
+  i 
+S 
+U 
+V 
+S 
+T 
+W 
+ 
+TSB #: 25-01-019G Page 15 of 16 
+ 
+17. Remove the discharge hose seal washer ( X). 
+ 
+ 
+ 
+18. 
+ 
+ 
+19. Install the new seal washers onto the suction 
+hose and discharge hose.  
+ 
+Install the new O-rings onto the suction line 
+and discharge line . 
+ 
+ 
+  
+Keep the washers for the Digital 
+Documentation  photo.  
+   Information  
+  i 
+ 
+Using STUI, take a photo of the  OLD 
+discharge and suction seals  and  
+O-rings  removed next to the NEW  
+discharge and suction seals and  
+O-rings in the bag  with the last 6 digits 
+of the VIN and the date of repair on a 
+piece of paper.  
+ 
+Upload the photo to STUI.  
+DIGITAL  
+DOCUMENTATION  
+Clean both sides of the mating surface 
+prior to installation to remove any residual 
+debris left by the discharge and suction 
+seal washers.  
+   Information  
+  i 
+X 
+ 
+TSB #: 25-01-019G Page 16 of 16 
+ 
+20. Reinstall the discharge hose (Y) onto the 
+compressor assembly , then the suction hose 
+(Z). 
+ 
+Tightening Torque:  
+ 
+ 
+21. Refer to the shop manual to vacuum  and 
+recharge the A/C system : 
+• Heating, Ventilation and Air 
+Conditioning > Air Conditioning System 
+> Refrigerant Recovery/Recycling/ 
+Charging/Vacuum/Leak Test  >  
+o Refrigerant System Vacuum 
+Operation  
+o Refrigerant Charge   
+22. Use the R-1234YF  PAG  Oil Syringe Injection 
+tool and add PAG Oil with UV Dye .  
+ 
+Place the measured amount during recovery 
+back into the vehicle; approx. 3~10  mL. 
+ 
+  
+23. Once the recharge process has completed,  
+re-install all removed parts in the reverse 
+order.   
+24. Start the vehicle and verify A/C operation.   
+25. Reprogram the radio with the guest’s presets.   
+26. The service p rocedure is now complete.   
+ 17 lb-ft
+12 N.m
+•Refrigerant Type:  R-1234YF  
+•G80 ( RG3) 3.5T  
+Refrigerant Capacity:   
+630 ±25 g  or 1.38 ±0.05 lbs  
+•G90 ( RS4) 3.5T  
+Refrigerant Cap acity:  
+700 ±25 g or 1.54 ±0.05 lbs  
+   Information  
+  i 
+Y 
+Z 

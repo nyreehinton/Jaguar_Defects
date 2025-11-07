@@ -1,0 +1,32 @@
+Involved Region or
+CountryNorth America
+ConditionCustomers ma y notice a rough idle on initial cold start
+and potential for CEL/SES Light with P050D setting
+intermittently .
+Cause Cold start misﬁre concern more on inclement weather .
+Version 1
+Modiﬁed 02/05/2025 - Created on.
+Bulletin No.: PIP6042
+Published date: 02/5/2025
+Preliminary Information
+PIP6042 Misﬁre, Rough Idle, MIL Cold Start Only DTC P050D
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletEquino x2025 All All1.5 LSD All
+GM Terrain 2025 All All1.5 LSD All
+ 
+ 
+ 
+Correction:  
+Engineering is currently investigating. In the meantime, please advise
+customer they ma y continue to drive the vehicle. The PI will be updated or
+replaced with TSB once a determination has been made.
+Customer Information
+Please communicate to the customer this will not impact the designed
+performance or reliability of the vehicle. Please share this information with the
+customer , including a copy of this message.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

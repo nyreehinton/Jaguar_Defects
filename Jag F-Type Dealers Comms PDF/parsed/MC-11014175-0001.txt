@@ -1,0 +1,151 @@
+L-SB-0051 -24 Rev1  December 5, 2024  
+ 
+Engine Maintenance Required Message with DTC(s) 
+P268111 and/or P268115  
+Service 
+Category  Engine/Hybrid System   
+ Section    Cooling  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 4 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2021  ES250   
+2019 - 2021  ES300H, UX200   
+ 
+ 
+ 
+Introduction  
+Some 2021 ES 250  and 2019  – 2021 ES 300h  and UX 200  model year vehicles equipped with an 
+A25A -FKS, A25A -FXS, or M20A -FKS engine may exhibit a condition in which an “ Engine 
+Maintenance Required” message is displayed in the Multi -Information Display (MID). Additionally, 
+the vehicle will exhibit DTC(s) P268111 (Engine C oolant Bypass Valve Circuit Short to Ground) 
+and/or P268115 (Engine Coolant Bypass Valve Circuit Short to Battery or Open). Follow the 
+Repair Procedure in this bulletin to address this condition.  
+ 
+ 
+ 
+  REVISION NOTICE  
+January  07, 2025 Rev1:  
+ The Parts Information section ha s been updated . 
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0051 -24 Rev1  December 5, 2024  Page 2 of 4 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Information  
+ 
+ 
+ 
+ 
+Parts Information  
+MODEL  PART NUMBER  
+PART NAME  QTY 
+PREVIOUS  NEW  
+UX 200  16671 -F2010  16671 -F2030  Valve, Water  1 
+ES 250  16260 -F0010  16260 -F0300  
+Hose Assy, Water By -Pass, No.1  1 
+ES 300h  16260 -F0021  16260 -F0310  
+All 00272 -SLLC2  Coolant  – Super Long Life  1 
+ 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+  NOTE  
+Refer to Campaign Publication 24LE02  for warranty applicability and claim filing instructions.  
+NOTE  
+Parts are vehicle specific. Do NOT order ALL parts listed in this table.  
+NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ GTS+ Software version 2024.04.004.02  or later is required.  
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipm ent – Techstream Order Portal . 
+ L-SB-0051 -24 Rev1  December 5, 2024  Page 3 of 4 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Repair Procedure  
+1. Confirm the condition  exists.  
+Is the “Engine Maintenance Required” message displayed in the MID ? 
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.   
+ 
+ 
+2. Using GTS+, perform a Health Check and inspect for ANY of the following DTCs : 
+ P268111  – Engine Coolant Bypass Valve Circuit Short to Ground  
+ P268115  – Engine Coolant Bypass Valve Circuit Short to Battery or Open  
+ 
+Does this vehicle contain  ANY of the above listed DTCs?  
+ YES — Continue to step 3.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.   
+ 
+3. Is the vehicle a UX 200 ? 
+ YES — Go to step 5.  
+ NO — Continue to step 4.  
+ 
+4. Is the vehicle an ES 250 or an  ES 300h ? 
+ YES — Go to step 6.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+5. Remove and replace the water valve.  
+A. Remove the water valve.  
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+ 2019 – 2021  UX 200 : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  –  
+Flow Shutting Valve ( for Heater ) – Removal  
+B. Install the NEW water valve.  
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+ 2019 – 2021  UX 200 : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  –  
+Flow Shutting Valve  (for Heater ) – Installation  
+C. Go to step 7.  
+ 
+ L-SB-0051 -24 Rev1  December 5, 2024  Page 4 of 4 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+6. Remove and replace the water bypass valve hose assembly  No. 1 . 
+A. Remove the  water bypass valve hose assembly  No. 1 . 
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+ 2021  ES 250 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+ 2019 – 2021 (06/2018 – 08/2020)  ES 300h : 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Removal  
+ 2021 (08/2020 – 08/2021)  ES 300h : 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Removal  
+B. Install the  NEW water bypass valve hose assembly  No. 1 . 
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+ 2021  ES 250 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+ 2019 – 2021  ES 300h : 
+Engine / Hybrid  System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+C. Continue to step 7.  
+ 
+ 
+7. Using GTS+, clear ANY DTCs and test -drive the vehicle to confirm the condition has  
+been resolved.  
+ 
+ 
+ 
+ 

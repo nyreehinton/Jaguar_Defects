@@ -1,0 +1,111 @@
+Technical Service Bulletin (TSB)
+Flash: Battery Pack Control Module (BPCM) Updates
+REFERENCE: TSB:  08-034-25
+GROUP:  08 - ElectricalDate: February 8, 2025 REVISION: 08-082-24
+VEHICLES
+AFFECTED:2024 (JL) Jeep Wrangler
+This bulletin applies to vehicles built on or before April 01, 2024 (MDH
+0401XX) equipped with the 2.0L I4 DOHC DI Turbo PHEV Engine (Sales
+Code ECX).MARKET APPLICABILITY:
+NA
+**EE**
+SA
+IAP**MEA
+**
+CH
+CUSTOMER
+SYMPTOM:**Customers must experience a Malfunction Indicator Lamp (MIL) illumination. Upon further
+investigation the technician must find one or more of the following Diagnostic Trouble Codes (DTCs)
+have been set:**
+●**P0DAB-00 - Hybrid/EV Cell Balancing Performance.**
+●P0607-00 - ECU Internal Performance.
+●P0AA1 - Hybrid/EV Battery Positive Contactor “A” Stuck Closed.
+●P0AA4 - Hybrid Battery Negative Contactor Circuit Stuck Closed.
+●P0C78 - Hybrid/EV Battery System Precharge Time Too Long.
+●P0CA6 - Hybrid/EV Battery Charging Current High.
+●P0B24 - Hybrid/EV Battery "A" Voltage Unstable.
+●P1C5E - Hybrid/EV Battery State Of Health Failied.
+●P0BBE - Hybrid/EV Battery Pack Voltage Variation.
+CAUSE: BPCM software
+This bulletin supersedes Technical Service Bulletin (TSB) 08-082-24, date of issue March 19, 2024,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+an additional DTC and an updated Customer Symptom statement, adding additional markets, updated
+RSU statement, updated Repair Procedure steps and new LOP.
+**This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU)
+23-322, date of issue November 21, 2023. All applicable RSU VINs have been loaded. To verify this RSU
+service action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service
+Library. All repairs are reimbursable within the provisions of warranty.**
+REPAIR SUMMARY:
+This bulletin involves updating the BPCM with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+**18-19-87-AL Battery Pack Control
+Module (BPCM), Inspect
+(0 - Introduction)6 - Electrical and Body
+Systems0.2 Hrs.
+18-19-87-AM Battery Pack Control
+Module (BPCM), Inspect
+and Reprogram
+(0 - Introduction)6 - Electrical and Body
+Systems0.7 Hrs.**
+Failure Code RF Required Flash
+CC Customer Concern
+The dealer must choose which failure code to use depending on if this is a Rapid Service Update
+(RSU) or Technical Service Bulletin.
+● The “RF” failure code is required for essential module flash/reprogramming and can only be used after
+confirmation that the VIN is included on the RSU.
+● The failure code “RF” (Required Flash) can no longer be used on Technical Service Bulletin flashes. The
+“RF” failure code must be used on an RSU.
+● If the customer’s concern matches the SYMPTOM/CONDITION identified in the Technical Service Bulletin,
+failure code CC is to be used. When utilizing this failure code, the 3C’s must be supplied.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If DTCs or symptom conditions, other
+than the ones listed above are present, record the issues on the repair order and repair as necessary before
+proceeding further with this bulletin.
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits the DTCs, perform the repair.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –Z08 FSAR-TSB-4843 -2-
+**REPAIR PROCEDURE:
+WARNING!
+● Before performing the software reprogramming, it is necessary to make the vehicle safe.
+● When performing repairs that directly involve or imply possible contact with live high voltage
+components/systems, the technician must ensure that the power supply of the high-voltage system
+is disconnected throughout the operation.
+● Only specifically trained technicians qualified to perform repairs on vehicles with high voltage
+systems under current national laws/regulations are authorized to work on the vehicle.
+● Before performing any diagnostic repair work on the vehicle, carefully read and comply with
+the general instructions for working safely on hybrid/electric vehicles and use suitable general
+equipment and Personal Protective Equipment (PPE).
+● The vehicle must not be connected to a high voltage charger when performing software updates.
+NOTE: Install a battery charger to maintain a 12 volt system voltage.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+1. Is the vehicle on the RSU VIN list?
+● YES >>> Proceed to Step 2 .
+● NO >>> Proceed to Step 3 .
+2. Does the BPCM have the latest software already installed?
+● YES >>> This bulletin has been completed, use inspect LOP (18-19-87-AL) to close the active RSU.
+● NO >>> Proceed to Step 3 .
+3. Has the 95B recall instructions been completed on this vehicle?
+● YES>>> Proceed to Step 4 .
+● NO>>> Follow the 95B Recall Instructions and utilize the LOPs contained within the Recall.
+4. Disable HV Battery Contactors using wiTECH - Go to the Misc Functions tab --> Select Disable HV Battery
+Contactors --> then follow the wiTECH prompts.
+5. Use wiTECH to confirm that the contactors are open and waiting five minutes. If the contactors do not
+open turn the ignition on then off. Once successful a note will appear on the wiTECH screen indicating the
+contactors are open.
+6. Reprogram the BPCM with the latest software. If issues arise when flashing a module using the wiTECH
+Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within the Help
+menu.
+7. Enable HV Battery Contactors using wiTECH - Go to the Misc Functions tab --> Select Enable HV Battery
+Contactors For Service--> then follow the wiTECH prompts.
+8. Perform a Drive Cycle Routine using wiTECH - Go to BPCM --> Go to the System Tests tab --> Select
+95B / 96B Drive Cycle --> then follow the wiTECH prompts.
+9. Clear all DTCs that may have been set in any module due to reprogramming. The wiTECH application will
+automatically present all DTCs after the flash and allow them to be cleared.**
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- Z08 FSAR-TSB-4843

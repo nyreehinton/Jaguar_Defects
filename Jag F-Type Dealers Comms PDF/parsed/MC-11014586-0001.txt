@@ -1,0 +1,182 @@
+ 
+ Page 1 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4593 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004593 DS 25-06 
+Diagnostic Sheet  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+ 
+ 
+DATE : FEBRUARY 20, 2025 
+ 
+ 
+This Diagnostic Sheet  serves as a guide and provides additional diagnostic info for possible  
+unwanted alarm trigger/activation anomalies.  This Diagnostic sheet requires a BOL to be opened 
+as a “Support Request”.  
+ 
+MODELS:  M182 Grecale  (All MY)  equipped with OPT LSA (ALARM SYSTEM) . 
+ 
+SECTION:  08.53 - 1 ALARM SYSTEM AND IMMOBILISER  
+ 
+COMPLAINT:  Unwanted alarm system activation  
+ 
+CAUSE:  Under investigation  
+ 
+DTC:  Possible presence of DTC U110D - 00 in ITM  
+ 
+DIAGNOSIS:  Proceed as follows if a customer complains of the fault described in this technical notice:  
+ 
+- Open a BOL as a Support Request  
+- Fill out and attach the checklist on page 2  to the BOL . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Grecale Unwanted Alarm Activation  
+ 
+ 
+ Page 2 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4593 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  CHECKLIST:  
+ 
+ 
+1) Can the concern  be reproduced? ______________  
+2) If so, is the problem always present? ______________  
+3) Under what conditions did the concern  occur to the customer? Specify the conditions and what the 
+customer remembers about it . 
+________________________________________________________________________________  
+________________________________________________________________________________  
+________________________________________________________________________________  
+________________________________________________________________________________  
+________________________________________________________________________________  
+________________________________________________________________________________  
+ 
+4) Is this the first time the customer has had this problem?  
+5) Were the windows, doors, tailgate , and bonnet closed when the complaint occurred? __________  
+6) Make sure that there are no objects in the car that could move and trigger the alarm. Are there such 
+objects in the car? __________  
+7) Check the battery status following MAS004251 and attach the required information.  
+8) Attach the DTC report and vehicle parameters.  
+9) ITM checks:  
+ 
+a. Check the following on connector L164 (ITM) using the wiring diagram:  
+ 
+- Power supply (approx. 12V)  
+- Ground (including visual inspection)  
+- BH-CAN resistance after having disconnected the battery (expected value: approx. 60 Ohm)  
+- Check the integrity of pins and connections .   
+ 
+ 
+ 
+b. Check that the front ceiling light is fitted correctly according to the "FRONT CEILING LIGHT - 
+Removal -Refitting or Replacement" procedure in the workshop manual (procedure no. 
+08.10.001 - 00"). Is the ceiling light mounted correctly? _______________  
+ 
+c. Following the front ceiling light removal -refitting procedure, remove the front ceiling light 
+(document any faults found with photos):  
+ 
+- Check that the ITM is fixed correctly -> Attach a photo to BOL naming it "ITM fixing" (front photo of the 
+fitted module)  
+ 
+- Check that the ITM is fixed with the 3 clips marked in red in the following picture. Is the module fitted 
+correctly? ___________  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- ITM removal  
+ 
+NOTE: The ultrasonic sensors are fragile and must be handled with care. Avoid any direct pressure on 
+
+ 
+ Page 3 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4593 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  the sensor grid with fingers or other tools or contact with other parts during operations . 
+ 
+d. Clear DTC and check that the alarm system is working correctly by following the instructions 
+below:  
+ 
+- Activate the alarm  
+- No objects and/or people inside the vehicle that can cause movement.  
+- Vehicle doors, luggage compartment , and windows closed, except for  the window used for the test.  
+- Movement outside the window, left open for the test, must be restricted to the person performing the 
+test. The person performing the test must be at least 1 m away from the window during the activation 
+cycle.  
+ 
+Did the alarm go off on its own during the test (within about 5 minutes) and did the hazard lights flash 
+when the event occurred? ___________  
+ 
+e. Attach the new DTC report and vehicle parameters . 
+ 
+10) Siren checks:  
+ 
+a. Check the ground (visual inspection), power supply (approx. 12 V), connectors , and wiring 
+(connection integrity) of the siren (connector E001 on wiring diagram). Were any faults found? 
+________ If faults were found, please specify __________________________________________________  
+______________________________________________________________________________________________  
+_______________________________________________________________________________________________  
+ 
+ 
+b. Check the continuity of LIN wiring between the siren and ITM. Is the continuity OK? ________ 
+(record value in Ohm)  
+ 
+ 
+ 
+ 
+ 
+ 
+c. Check for signs of oxidation on the connector pins. Were there signs of oxidation? _______ If so, 
+take photos to be attached to the BOL for documentation purposes  
+d. With the key in OFF, check the siren power supply and supply the value ____________ V  

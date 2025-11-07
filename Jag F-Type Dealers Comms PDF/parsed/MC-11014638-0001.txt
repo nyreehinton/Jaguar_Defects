@@ -1,0 +1,70 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment that the vehicle has a low or
+reduced engine power under acceleration with no driver
+information messages.
+Technician ma y ﬁnd DTC's P057B, P057C and/or P057E set as a
+history code.
+CauseThis issue ma y be caused by an incorrect Brak e Pedal Position
+(BPP) sensor input to the ECM.   
+If the ECM is reading that the brak e pedal is being applied, when
+it is not, can cause this issue to occur .
+Bulletin No.: PIT5994A
+Published date: 02/27/2025
+Preliminary Information
+PIT5994A Diagnostic Tip for Reduced or Low Engine Power on
+Acceleration
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Regal 2012 - 2020 All AllAll All Automatic
+Chevr oletCruze 2012 - 2019 All AllAll All Automatic
+Chevr oletEquino x2012 - 2025 All AllAll All Automatic
+Chevr oletMalibu 2012 - 2025 All AllAll All Automatic
+GMC Terrain 2012 - 2025 All AllAll All Automatic
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+To view the BPP data in the ECM, use the scan tool to build the vehicle as follows:
+Tech 2 (2013 and older models): Powertrain > Select Engine T ype > Engine Control Module
+> Data Displa y > Automatic T ransmission Data  
+GDS2 (2014 and newer models): Module Diagnostics > Engine Control Module > Data
+Displa y > Automatic Transmission Data
+Once the correct data list has been entered, scroll down, and view the parameters listed
+below .
+Version 2
+Modiﬁed03/23/2023 - Created on.  
+02/27/2025 - Updated models and model years.These parameters can help determine what value the ECM has learned for the brak e pedal
+learned released voltage and what the actual BPP voltage is according to the ECM.  
+With the brak e pedal released, the actual "BPP Sensor" voltage should equal, or be very
+close to what the "BPP Sensor Learned Released Position" voltage is.    
+BPP Sensor (%) = 0% to 100% (should read "0%" with brak e pedal released)  
+BPP Sensor (V oltage) = V oltage (typical voltage with pedal released is approximately 1 volt
++/- .3 volt)  
+BPP Sensor Learned Released Position = V oltage (should equal the BPP sensor voltage
+with pedal released)
+When the ECM has learned the BPP sensor learned released position voltage, this voltage
+should not change.
+The ECM will continuously monitor this voltage for a lower-than-expected value.
+If there is a condition with the wiring, a connection issue or internal issue with the BPP
+sensor that would cause the ECM to see a lower value, then the ECM will learn the lower
+value as the new learned released position.
+When the faulted condition is no longer present and the BPP voltage returns to the
+previous learned voltage, the ECM will interrupt this as the brak e is applied. BPP apply (%)
+will be greater than 0.
+If it is suspected that the before mentioned condition exists, turning oﬀ the traction
+control or performing an ECM BPP learn will temporarily correct the reduced engine power
+concern.
+Any condition that can cause a loss of or lower than expected voltage on the 5v reference
+to the BPP sensor or signal return circuit to the ECM such as; short to ground, terminal
+fretting or an intermittent open in the circuits, will need to be addressed. 
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

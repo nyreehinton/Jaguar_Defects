@@ -1,0 +1,36 @@
+1 
+ 
+ 
+ 
+Units : DSR -III Equipped Units  
+Description : DSR -III microprocessor control boards will be replaced by DSR 3.1 
+microprocessor control boards due to obsolete components on the circuit board. 
+Form, fit, and function are the same as DSR -III. DSR 3.1 requires new software 
+(Msk841.xx) and new parameter files  and is not backwards compatible with DSR -
+III. 
+Important:  Msk841.xx has a built -in safety feature to prevent it from being loaded into the 
+wrong platform.  
+Microprocessor Control Board Identification : 
+The microprocessor control board can be identified by the Part Number of the board.  
+Note: For new control boards, the r elays will be white.  
+• 12V = 453003  
+• 24V = 453004  
+ 
+ 
+Date:  February 18, 2025  
+Subject:  Small Truck (VP) New DSR 3.1  
+Location:  e-Tech Library    Service  Bulletin  
+  SB970 
+ 
+2 
+ IMPORTANT: DSR 3.1 Microprocessor Control software Msk841.xx is required for full feature 
+availability.  
+IMPORTANT: Unless otherwise noted, software upgrades made to units with previous software 
+revisions are not covered by a warranty labor allowance. This upgrade is made at the discretion 
+of dealers and with the agreement of the unit owner or operator.  
+Availability:  
+DSR 3.1 Controller Software and Parameter Files are available in e -Tech Library . 
+Updating Software : 
+For additional information on updating software using a computer, refer to Service Procedure 
+A04A  and Service Procedure A46A  of the DSR -III Control System Diagnostic Manual (TK 
+61096).  

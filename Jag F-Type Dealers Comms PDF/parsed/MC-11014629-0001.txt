@@ -1,0 +1,88 @@
+Involved Region or
+CountryNorth America
+Condition Whine noise from the transmission while driving 
+Cause Internal transmission noise 
+Bulletin No.: PIP5958A
+Published date: 02/25/2025
+Preliminary Information
+PIP5958A Information On PICO Recording For CVT Transmissions
+With Noise Concerns
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletEquino x2025 All AllAll MRQ
+Chevr oletMalibu 2019 - 2025 All AllAll MRG
+Chevr oletTrailblazer 2021 - 2025 All AllAll MRG
+Buick Encor e GX 2020 - 2025 All AllAll MRG
+ 
+ 
+ 
+Correction:
+Some customers ma y complain of a noise from the front of the vehicle while driving 
+This noise ma y be described, as a whine, grind possibly a bearing noise 
+If the noise is isolated to the transmission the following steps should be tak en
+First Inspect the pulleys and chains per bulletin 20-NA-120
+If Damage is seen to the pulleys or chain, please replace the transmission per bulletin 20-
+NA-120
+If there is no visible damage to the pulleys or chain the following steps must be tak en prior
+to removal of the transmission 
+Note: Ensure you are using a PicoScope purchased through the GM dealer tool network.
+PicoScopes purchased outside of the GM dealer tool network have diﬀerent software,
+which will corrupt the ﬁle.
+Note: F or additional training and information on PicoScope, visit the Center of Learning
+and search for course PicoScope Noise, V ibration, and Harshness Diagnostics Overview and
+Oscilloscope Diagnostic Kit Description and Operation within SI.
+If you need to download or update the PicoScope, follow the steps below:
+1. Log into GM GlobalConnect.
+2. Click on the "Departments" drop down menu and select "Service.”
+3. Under "Applications" on the service page, select "Special T ools and Software updates.”
+4. You will now be re-directed to www .gmtoolsandequipment.com (do not access this site
+directly as it requires the use of GlobalConnect to allow downloads).
+5. Click the link under "Software Downloads" for the latest PicoScope software version and
+a new page will open.
+6. Click the setup links and follow instructions to update the tool.
+Important: Service agents must comply with all International, F ederal, State, Provincial,
+and/or Local laws applicable to the activities it performs under this Preliminary
+Information, including but not limited to handling, deploying, preparing, classifying,
+packaging, marking, labeling, and shipping dangerous goods. In the event of a conﬂict
+between the procedures set forth in this bulletin and the laws that apply to your
+dealership, you must follow those applicable laws.
+Recording Procedure
+1. Place the PicoScope sensor on the plug located on the left side of the transmission, at
+the base of the unit. This plug is used as a pressure tap for the pulley assembly . The
+sensor cable can be run into the passenger compartment with the hood closed
+2. Open the most current version of GM NVH
+3. After completing the wiza rd, go back into the setup tab under V ibration Signal and
+select Single Channel. Select T A148 Interface in the “Box” dropdown and T A144
+Microphone  for the “Sensor ” Drop down. Select the Location as Engine Compartment.
+Also under the V ehicle Information tab set the correct tire size and the proper ﬁnal
+drive ratio       . For Malibu Final  Drive Ratio is 5.10 and F or the T railblazer and Encore GX
+the ﬁnal Drive Ratio is 5.44
+Note: If using 3 axis, use center channel only and set up as single axis.
+ 
+4. Drive the vehicle to verify the condition. Once the condition is present please
+bookmark the beginning of the noise/vibration and maintain the noise to obtain a
+good recording .
+5. While the reviewed data is still on the screen, click ﬁle save. It should be formatted as
+.pdddata
+Version 1
+Modiﬁed01/16/2024-Created on  
+02/25/2025-Updated models.
+6. The next box allows you to save the vehicle information as well as customer
+information and notes in the Notes box. This could be sensor location, sensor
+direction and even road surface name, etc. Click Ok when you are done adding
+information.
+ 
+7. Create an T AC Case by calling in or using Dealer Case Management
+8. Please attach the recording to the case or e-mail to T ACSNAPSHOT@gm.com in the
+U.S. and T ACSNAPSHOTCANADA@gm.com in Canada and in the subject line Put
+Vibration, your BAC, and last 8 of the VIN.  If there are pictures of the Pulleys and the
+Chain please include these as well, along with the best number by which to contact
+you at.
+9. Once the case has been created, it will be reviewed and you will be contacted with a
+repair direction
+Note: Please allow 24-48 hours following case creation for a response
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

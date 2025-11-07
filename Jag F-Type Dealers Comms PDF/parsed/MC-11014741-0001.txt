@@ -1,0 +1,115 @@
+Work Instruction
+               Date:  February 14, 2025
+Bulletin Name: MISC-WI-010-A
+            Model:  Rear Loader (10, 12),  
+                         Meridian Front Loader (78),  
+                         Zero Radius Side Loader (48)
+    Model Year: 2020-2022
+Units Affected: Units with 5” IFM displayProgramming instructions for 5” IFM 
+display in Refuse Vehicles1 of 8
+SAFETY  NOTICE
+Use appropriate Personal Protective 
+Equipment (PPE) as required by your 
+company .Purpose:
+McNeilus Truck and Manufacturing offers these instructions for programming the 5” IFM display CR1058 
+(McNeilus PN 1641423) for Rear Loader (Standard model 10 and tag axle model 12), Meridian Front Loader 
+(model 78), and Zero Radius Side Loader (model 48).
+Notice:
+• This document should be read and understood in its 
+entirety before performing this procedure.
+• All procedures outlined in the bulletin must be 
+performed by skilled service personnel. Refer to the 
+product service manual for descriptions of maintenance 
+procedures.
+• This document is confidential and limited to exclusive 
+distribution within McNeilus Refuse Service and 
+authorized dealer and service networks.
+Tools and Equipment Required:
+Technician to supply:
+• PN 1695632 programming cable for IFM display
+• USB jump drive (unencrypted and empty of any other files/documents/programs)
+SAFETY  NOTICE
+Perform your company’ s Lockout/T agout 
+procedure. If your company does not have a 
+Lockout/T agout procedure, follow OSHA  
+1910.147 and 1910.146 Confined Space as 
+appropriate.
+2 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.Procedure
+Prepare the USB jump drive:
+1. Plug the empty, unencrypted USB jump drive into your computer (Figure 1).
+Figure 1
+2. Open “File Explorer” (Figure 2).
+Figure 2
+3. Locate your jump drive in the left menu and right click (NOTE that the name of the jump drive will vary).
+4. Select “Format”. See Figure 3.
+Figure 3
+3 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.5. In the format window under the “File system” select “FAT32”.
+6. Click “Start” at the bottom of the window. See Figure 4.
+Figure 4
+7. Click “OK” to acknowledge that formatting will erase any data currently on the drive (Figure 5).
+Figure 5
+8. Watch for the green bar at the bottom of the window to start to fill (Figure 6).
+Figure 6
+4 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.9. When the formatting process has completed, a window will pop up informing you that the process completed 
+successfully (Figure 7).
+Figure 7
+10. Your jump drive is now ready.
+Loading software on to your jump drive
+1. Locate the files on your computer. There will be a total of one to three files depending on the update you have 
+been provided. The file names will vary based on the version of software that you have been provided.
+2. Select all files.
+3. Right click and select “Copy”. See Figure 8.
+Figure 8
+4. Open the new jump drive. Right click and select “Paste” in the window (Figure 9).
+IMPORTANT: The files cannot be in a sub-folder on the drive or the display will not find them.
+Figure 9
+5 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.5. The files will copy over to your new jump drive (Figure 10).
+Figure 10
+6. Right click on the USB drive and select “Eject” before removing it from your computer .
+7. The next step is to load the software into the 5” IFM display.
+Loading Software into a Display
+1. Ensure the battery switch for the truck is on and the ignition key is off.
+2. Locate the USB programming port on the back of the display and remove the plug (Figure 1 1).
+Figure 11
+3. Install the programming cable (PN 1695632) into the USB programming port (Figure 12).
+Figure 12
+6 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.4. Install your jump drive with the preloaded files into the programming cable (Figure 13).
+Figure 13
+5. Press and hold all three buttons on the display at the same time, then turn the key on, but do not start the 
+truck. Continue holding the three buttons until the installation page populates on the display . See Figure 14.
+Figure 14
+6. Press the “OK” button to select “INSTALL FROM FILE”. The screen with the files will populate. See Figure 15.
+Figure 15
+7 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.7. Select the .swu file using the arrow buttons. The file name will be similar to “REL_ecomatdisplay_v0.1.0-12_
+g99f6c2e.swu” and push OK. The name of the file will darken to show you have it selected. See Figure 16.
+NOTE: The name of the file will change depending on the version of file you have been provided and the product 
+you are installing it in.
+Figure 16
+8. Push the right arrow button  on the display button pad to select START on the display screen and then push 
+OK to begin the installation (Figure 17).
+Figure 17
+9. The status screen will come up and show the progress (Figure 18).
+Figure 18
+8 of 8
+This document is confidential and limited to exclusive distribution within McNeilus Refuse service.
+Continuous Improvement:
+The change included in this document is part of the 
+McNeilus Continuous Improvement Process.
+McNeilus ’s quality policy is providing customer satisfaction 
+through innovative products, dedicated service, and a 
+constant focus on continuous improvement.(888) 686-7278
+www.streetsmartparts.com
+10. Once the installation is complete, it will show “SUCCESS” at the top of the screen. The display will 
+automatically restart and enter its normal operation mode. See Figure 19.
+Figure 19
+11. Turn the key off and ensure the display shuts down prior to removing the programming cable from the display 
+or your USB drive from the cable.
+12. Remove the programming cable and reinstall the plug into the USB programming port on the display .
+13. Programming of the 5” IFM display is complete.
+14. Return truck to service.

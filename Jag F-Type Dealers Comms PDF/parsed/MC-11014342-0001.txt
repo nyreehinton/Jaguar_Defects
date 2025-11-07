@@ -1,0 +1,16 @@
+   
+SSM 53377   2024 Nautilus, 2025 Aviator - No Audio/Sound - 24 Channel Audio
+Digital Signal Processing Module (DSP) (Minor Feature Code IDBBN) No
+Communication
+Some 2024 Nautilus and 2025 Aviator vehicles equipped with a 24 channel audio digital signal processing
+module (DSP) (minor feature code IDBBN) may exhibit a no audio/sound condition with no communication with
+DSP. To confirm a vehicle is built with a certain minor feature code, review the build information by double-
+clicking the vehicle identification number (VIN) in the upper left corner in the Professional Technician System
+(PTS). This concern may be due to software in the DSP. To determine if it is a software concern, remove the
+DSP fuse, F40 for Aviator or F138 for Nautilus, and inspect the fuse for an open and make sure the fuse has
+proper blade contact. After one minute, reinstall the good fuse. If the concern is still present or a fuse concern
+is found, continue with normal Workshop Manual diagnostics, Section 415-00 Information and Entertainment
+System > General Information > Diagnosis and Testing. If communication has been re-established with the
+DSP, reprogram the DSP using the latest software level of the Ford Diagnosis and Repair System (FDRS)
+scan tool. For claiming, use causal part 18B849 and applicable labor operations in Section 10 of the Service
+Labor Time Standards (SLTS) Manual.

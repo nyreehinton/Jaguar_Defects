@@ -1,0 +1,76 @@
+Involved Region or
+CountryUS and Canada
+Additional Options
+(RPO)X0B X0C X0D X0E
+ConditionSome customers ma y experience various vehicle conditions
+listed below:
+Condition 1- Hesitation/ shifting sensation on acceleration only .
+Condition 2- MIL on startup with Drive Unit Fluid T emperature
+Sensor Performance DTC.
+Condition 3- F ailure to remote start.
+Condition 4- MIL and possible application of parking brak e.
+Condition 5- One Pedal Driving ma y be switched oﬀ
+automatically .
+CauseThe cause of these conditions ma y be related to software
+anomalies.   
+ 
+Bulletin No.: PIP6041
+Published date: 02/3/2025
+Preliminary Information
+PIP6041 Various Conditions Resolved by Drive Motor Control Module
+Software on Certain Ultium Vehicles
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ EV 2023 - 2024 All AllEV EV
+Chevr oletBlazer EV 2024 - 2024 All AllEV EV
+Chevr oletEquino x EV 2024 - 2024 All AllEV EV
+ 
+ 
+ 
+ 
+Correction: 
+Reprogram the K107/K107A Drive Motor Control Module and the K107B Drive Motor Control
+Module 2 as applicable if not already directed to do so by another publication.
+These modules will program in sequence using SPS if updates are required for both
+modules. 
+Version 1
+Modiﬁed 02/03/2025 - Created on.Labor Operation Description Labor Time
+5086088*PIP6041 Drive Motor Control Module(s) Re-
+Programming w/SPS20.4 Hr .
+*This is a unique Labor Operation for Bulletin use only .If one of the conditions above persists after programming the applicable K107(s) to the
+latest software, follow SI Diagnostic procedures for the DTC or symptom and contact GM
+Technical Assistance (T AC) if further assistance is required. 
+Condition 1
+X0E Equipped vehicles only .
+Customers ma y experience a brief vehicle sag or sensation similar to a conventional
+transmission shifting on acceleration. The sensation can occur at various speeds but ONL Y
+occurs during acceleration not braking or coasting.  
+Condition 2
+X0B, X0C, X0D, and X0E equipped vehicles.
+Customers ma y experience a MIL or "service vehicle soon" telltale when starting the
+vehicle. Diagnostics will indicate the vehicle is setting a P296A DTC in the K107 or the
+K107B due to the diagnostic running too soon.
+Condition 3
+X0B, X0C, X0D, and X0E equipped vehicles.
+Customers ma y ﬁnd that their vehicle fails to remote start using either their FOB or On-
+Star due to a timing concern between the K107/K107B and the K9 BCM. 
+Condition 4
+X0B, X0C, X0D, and X0E equipped vehicles.
+Customers ma y experience a MIL or "service vehicle soon" telltale when starting the
+vehicle. Diagnostics will indicate the vehicle is setting a B2BBC DTC in the K107 and the
+electronic parking brak e ma y be applied automatically while shifting to park.
+Condition 5
+X0B, X0C, X0D, and X0E equipped vehicles.
+Customers ma y ﬁnd that one pedal driving turns oﬀ on its own after a remote vehicle start.
+There will be no warning to the operator that this has occurred and they will need to
+manually re-enable OPD after starting the vehicle. 
+Warranty Information
+For vehicles repaired under the EV coverage, use the following labor operation. Reference
+the Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

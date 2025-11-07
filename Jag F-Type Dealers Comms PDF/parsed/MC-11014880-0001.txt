@@ -1,0 +1,1499 @@
+11.0 DESCRIPTION
+The Bendix™ FLC-25™ camera is a component used in 
+Bendix safety systems, including the Lane Departure 
+Warning (LDW) System by Bendix CVS and the Bendix® 
+Fusion™ Active Safety System. This document covers 
+installation, troubleshooting, and replacement for this 
+camera.
+For more information on other components of the safety 
+systems, visit B2Bendix.com.
+ 
+Bendix safety technologies complement safe driving 
+practices. No commercial vehicle safety technology 
+replaces a skilled, alert driver exercising safe driving 
+techniques and proactive, comprehensive driver 
+training. Responsibility for the safe operation of the 
+vehicle remains with the driver at all times.Bendix™ FLC-25™ Camera
+SD-29-50024
+Figure 2 – Bendix® Fusion™ System Operational ViewDetected Forward 
+Vehicle
+Vehicle Equipped with the  
+Bendix® Fusion™ SystemRadar Beam 
+The DARK GRAY area approximates the 
+zone where the Fusion system is ready to 
+alert – and intervene with the vehicle's brakes 
+– as long as the vehicle is traveling above 
+10 mph (16 kph).The STRIPED area approximates the zone 
+where the Active Cruise with Braking (ACB) 
+feature is ready to alert – and intervene 
+with the vehicle's brakes – when the cruise 
+control is set.NOT TO SCALEWindshield-mounted 
+CameraFront Bumper-
+mounted Radar
+Camera View
+The Bendix camera 
+bracket is attached to 
+the windshield, and the 
+camera snaps into it. 
+Camera Lens
+Camera
+Radar Sensor
+Figure 1 – Bendix FLC-25 Camera
+Camera Bracket
+2GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following guidelines should be observed AT ALL TIMES :
+ ▲ Park the vehicle on a level surface, apply the 
+parking brakes, and always block the wheels.  
+Always wear personal protection equipment.  
+ ▲Stop the engine and remove the ignition key 
+when working under or around the vehicle.  
+When working in the engine compartment, 
+the  engine  should  be  shut  off   and  the  ignition 
+key should be removed. Where circumstances 
+require that the engine be in operation, EXTREME 
+CAUTION  should be used to prevent personal 
+injury resulting from contact with moving, 
+rotating, leaking, heated, or electrically charged 
+components.
+ ▲Do not attempt to install, remove, disassemble, 
+or assemble a component until you have read, 
+and thoroughly understand, the recommended 
+procedures. Use only the proper tools and 
+observe all precautions pertaining to use of those 
+tools.
+ ▲If the work is being performed on the vehicle’s 
+air brake system, or any auxiliary pressurized air 
+systems, make certain to drain the air pressure 
+from all reservoirs before beginning ANY  work 
+on the vehicle.  If the vehicle is equipped with 
+a Bendix® AD-IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD-9si®, 
+AD-HF®, or AD-HFi® air dryer, be sure to drain the 
+purge reservoir.
+ ▲Following the vehicle manufacturer’s 
+recommended procedures, deactivate the 
+electrical system in a manner that safely removes 
+all electrical power from the vehicle.
+ ▲Never exceed manufacturer’s recommended 
+pressures.   ▲Never connect or disconnect a hose or line 
+containing pressure; it may whip and/or cause 
+hazardous airborne dust and dirt particles. Wear 
+eye protection. Slowly open connections with 
+care, and verify that no pressure is present. Never 
+remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement 
+parts, components, and kits. Replacement 
+hardware, tubing, hose, fittings, wiring, etc. 
+must be of equivalent size, type, and strength as 
+original equipment and be designed specifi  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged 
+parts should be replaced rather than repaired.  
+Do not attempt repairs requiring machining or 
+welding unless specifi  cally stated and approved 
+by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make 
+certain all components and systems are restored 
+to their proper operating condition.
+ ▲ For vehicles with Automatic Traction Control 
+(ATC), the ATC function must be disabled (ATC 
+indicator lamp should be ON) prior to performing 
+any vehicle maintenance where one or more 
+wheels on a drive axle are lifted off   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected 
+from the radar sensor whenever any tests USING 
+A DYNAMOMETER are conducted on a vehicle 
+equipped with a Bendix® Wingman® system.
+ ▲ You should consult the vehicle manufacturer's operating and service manuals, and any related literature, 
+in conjunction with the Guidelines above.
+ 
+Improper use and/or maintenance of the Bendix® Fusion™ Active Safety System can result in a collision causing 
+property damage, serious injuries, or death. Be sure to read, understand, and carefully follow the instructions 
+in the applicable Fusion Operator’s Manual on B2Bendix.com.
+ 
+Due to the inherent limitations of image recognition technology, camera-based safety technology — on rare 
+occasions — may not be able to detect or may misinterpret lane markings. At these times, alerts may not 
+occur, or erroneous alerts may occur.
+ IMPORT ANT
+It is the responsibility of the driver to remain vigilant and change driving practices depending on traffic and 
+road conditions.1.1
+3SERVICE DATA SHEET INDEX
+1.0 Description  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 General Safety Guidelines  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.0 Troubleshooting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1 Temporarily Disable the Lane Departure Warning (LDW)  . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Setting Diagnostic Trouble Codes (DTCs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.3 Bendix® ACom® Diagnostic Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.4 Diagnostic Trouble Codes (DTCs)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-22
+2.5 Service Action Codes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23-25
+2.6 Troubleshooting Diagnostic Trouble Codes (DTCs): Power Supply  . . . . . . . . . . . . . . . . 26
+2.7 Communications (J1939 and Private) Test and Troubleshooting Procedures  . . . . . . . . . . . 27
+2.8 Private Communications Network Test Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2.9 Troubleshooting Wiring Harnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2.10 Clearing Diagnostic Trouble Codes (DTCs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.0 Installation and Replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28-31
+3.1 Camera Calibration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.2 Dash Switches/Lamps  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.3 Maintenance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.4 Camera Interchangeability  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Technical Assistance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32How to identify your FLC-25  
+Camera part number:
+Look for the Bendix® 
+brand logo on the 
+camera label. Refer to 
+Section 3.0  for how to 
+remove the camera from  
+the bracket to view  
+the label.
+ IMPORT ANT
+For some Original Equipment Manufacturers (OEMs), the Vehicle Identification Number (VIN) of the vehicle is 
+stored in the FLC-25’s internal memory, and is cross-checked by the FLC-25 using information obtained from 
+other vehicle controller(s). If the VIN stored in the FLC-25 does not match the VIN obtained from the other vehicle 
+controller(s), the FLC-25 will generate a VIN Mismatch DTC .
+42.0 TROUBLESHOOTING
+Read and follow the General Safety Guidelines shown in 
+this document.
+ IMPORT ANT
+All vehicle DTCs related to the engine, transmission, 
+instrument cluster, engine cruise control, and Bendix® 
+Antilock Braking System (ABS), Automatic Traction 
+Control (ATC), or Electronic Stability Program (ESP®) 
+systems must first be resolved, with no DTCs present 
+during the vehicle operation while in cruise control, 
+before trying to resolve camera DTCs.
+ 
+If a problem with the FLC-25 camera is detected, 
+reduced performance may occur, up to and including 
+loss of Automated Emergency Braking (AEB). The 
+vehicle should be serviced as soon as possible to 
+restore full functionality.
+2.1  TEMPORARILY DISABLE THE LANE 
+DEPARTURE WARNING (LDW)
+To avoid erroneous LDW warnings in areas such as 
+construction zones – where the non-standard or overlapping 
+road markings present might cause false alerts – the Fusion 
+Active Safety System has an enable/disable switch. The 
+Bendix switch design or a similar Original Equipment 
+Manufacturer (OEM) switch may be used. See Figure 3 .
+For vehicles that have the LDW switch hard-wired to the 
+SafetyDirect® by Rand McNally® Web Portal Processor, 
+and a functioning On Board Computer (OBC)/Telematics 
+system: The enable/disable switch used by the LDW 
+system also functions – when depressed for six (6) seconds 
+– to activate a manual request to transmit the last five 
+seconds and next five seconds of buffered video data.
+Figure 3 – Example of an LDW Enable/Disable Switch2.2  SETTING DIAGNOSTIC 
+TROUBLE CODES (DTC s)
+If, during operation, the Fusion system detects a problem 
+with the FLC-25 camera, a DTC will be set and – depending 
+on the OEM – the driver will be alerted on the dash display 
+with an icon or similar method. In these cases, some 
+features of the Fusion system will not be available. 
+For example, if – for an extended period of time – the 
+system detects that the camera is blocked by dirt, snow, 
+ice, etc., a DTC will typically be set. 
+2.3  BENDIX® ACOM® DIAGNOSTIC 
+SOFTWARE
+Bendix ACom  Diagnostic Software is a PC-based 
+software program available to purchase online at  
+B2Bendix.com. This software provides the technician with 
+access to all the available ECU diagnostic information and 
+configuration capability. For Fusion system diagnostics, use 
+the current version of Bendix ACom Diagnostic Software. 
+ IMPORT ANT
+Bendix®-brand Electronic Control Units (ECUs) are 
+not designed to store data for purposes of accident 
+reconstruction and Bendix® ACom® Diagnostic Software 
+is not intended to retrieve data for purposes of accident 
+reconstruction. Bendix makes no representations as to 
+the accuracy of data or video retrieved and interpreted 
+from ECUs for purposes of accident reconstruction. 
+Bendix does not offer accident reconstruction services 
+or interpretation of stored data. Bendix ECUs are not 
+protected from fire, loss of power, impact damage, 
+or other conditions that may be sustained in a crash 
+situation and may cause data to be unavailable or 
+irretrievable.
+52.4  DIAGNOSTIC TROUBLE CODES (DTCS)
+Use a J1939 detection software to find the DTC(s) and use Table 1 to find the service action code to use. The service 
+actions to take may then be found in Table 1 .
+DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+514 512 2J1939 signal: Electronic Engine Control 1 (EEC1) 
+Driver's Demand Engine Percent Torque invalidD
+525 512 13J1939 signal: Electronic Engine Control 1 (EEC1) 
+Driver's Demand Engine Percent Torque not 
+availableD
+531 512 19J1939 signal: Electronic Engine Control 1 (EEC1) 
+Driver's Demand Engine Percent Torque errorD
+58094 516608 14 Internal software error A
+61678 520192 14 Fusion CAN communication error G
+65518 524032 14 J1939 CAN BUS error D
+66050 513 2J1939 signal: Electronic Engine Control 1 (EEC1) 
+Actual Engine Percent Torque invalidD
+66061 513 13J1939 signal: Electronic Engine Control 1 (EEC1) 
+Actual Engine Percent Torque not availableD
+66067 513 19J1939 signal: Electronic Engine Control 1 (EEC1) 
+Actual Engine Percent Torque errorD
+127214 520193 14 Fusion CAN communication error G
+131054 524033 14 Internal software error H
+131586 514 2J1939 signal: Electronic Engine Control 3 (EEC3) 
+Nominal Friction Percent Torque invalidD
+131593 514 9J1939 message: Electronic Engine Control 3 (EEC3) 
+message missingD
+131597 514 13J1939 signal: Electronic Engine Control 3 (EEC3) 
+Nominal Friction Percent Torque not availableD
+131603 514 19J1939 signal: Electronic Engine Control 3 (EEC3) 
+Nominal Friction Percent Torque errorD
+192750 520194 14 J1939 communication error D
+258286 520195 14 Fusion CAN communication error D
+262126 524035 14 VIN Check Failed J
+323822 520196 14 Fusion CAN communication error D
+327662 524036 14 Internal software error D
+389358 520197 14 Configuration mismatch between camera and radar D
+393198 524037 14 Internal software error A
+454894 520198 14 Internal hardware error A
+458734 524038 14 Internal software error A
+Table 1 – Diagnostic Trouble Codes (DTCs)
+6DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+460546 1799 2J1939 signal: Adaptive Cruise Control (ACC2) 
+Requested ACC Distance Mode invalidD
+460557 1799 13J1939 signal: Adaptive Cruise Control (ACC2) 
+Requested ACC Distance Mode not availableD
+460563 1799 19J1939 signal: Adaptive Cruise Control (ACC2) 
+Requested Distance Mode errorD
+520430 520199 14 Internal hardware error A
+524270 524039 14 Internal software error A
+524802 520 2J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Retarder Percent Torque invalidD
+524813 520 13J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Retarder Percent Torque not availableD
+524819 520 19J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Retarder Percent Torque errorD
+585966 520200 14 ECU Misalignment - Complete Service Alignment D
+590338 521 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Brake Pedal Position invalidD
+590349 521 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Brake Pedal Position not availableD
+590355 521 19J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Brake Pedal Position errorD
+651502 520201 14 ECU not yet aligned - Complete Service Alignment H
+655874 522 2J1939 signal: Electronic Transmission Control 1 
+(ETC1) Percent Clutch Slip invalidD
+655885 522 13J1939 signal: Electronic Transmission Control 1 
+(ETC1) Percent Clutch Slip not availableD
+655891 522 19J1939 signal: Electronic Transmission Control 1 
+(ETC1) Percent Clutch Slip errorD
+717038 520202 14 Camera lens blockage F
+721410 523 2J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Current Gear invalidD
+721421 523 13J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Current Gear not availableD
+721427 523 19J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Current Gear errorD
+782574 520203 14 Internal software error A
+786946 524 2J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Selected Gear invalidD
+786953 524 9J1939 message: Electronic Transmission Control 2 
+(ETC2) message missingD
+786957 524 13J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Selected Gear not availableD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+7DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+786963 524 19J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Selected Gear errorD
+848110 520204 14 Internal software error A
+913646 520205 14 Internal hardware error A
+918018 526 2J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Actual Gear Ratio invalidD
+918029 526 13J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Actual Gear Ratio not availableD
+918035 526 19J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Actual Gear Ratio errorD
+979182 520206 14 Internal hardware error A
+984834 1807 2J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Steering Wheel Angle invalidD
+984841 1807 9J1939 message: Vehicle Dynamic Stability Control 2 
+(VDC2) message missingD
+984845 1807 13J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Steering Wheel Angle not availableD
+984851 1807 19J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Steering Wheel Angle errorD
+1044718 520207 14 Internal hardware error A
+1050370 1808 2J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Yaw Rate invalidD
+1050381 1808 13J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Yaw Rate not availableD
+1050387 1808 19J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Yaw Rate errorD
+1106157 516112 13J1939 signal: Forward Lane Image Command (FLIC) 
+Proprietary LDW Speaker not availableD
+1106161 516112 17J1939 signal: Forward Lane Image Command (FLIC) 
+Proprietary LDW Speaker not fully operationalD
+1106163 516112 19J1939 signal: Forward Lane Image Command (FLIC) 
+Proprietary LDW Speaker errorD
+1110254 520208 14 Internal hardware error A
+1115906 1809 2J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Lateral Acceleration invalidD
+1115917 1809 13J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Lateral Acceleration not availableD
+1115923 1809 19J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Lateral Acceleration errorD
+1175790 520209 14 Internal hardware error A
+1181442 1810 2J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Longitudinal Acceleration invalidD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+8DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+1181453 1810 13J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Longitudinal Acceleration not availableD
+1181459 1810 19J1939 signal: Vehicle Dynamic Stability Control 2 
+(VDC2) Longitudinal Acceleration errorD
+1241326 520210 14 Low Battery Voltage B
+1306862 520211 14 High Battery Voltage C
+1372398 520212 14 Internal software error A
+1443586 1814 2J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) VDC Fully Operational invalidD
+1443593 1814 9J1939 message: Vehicle Dynamic Stability Control 1 
+(VDC1) message missingD
+1443597 1814 13J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) VDC Fully Operational not availableD
+1443601 1814 17J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) VDC not fully operationalD
+1503470 520214 14 Internal software error A
+1517058 9751 2J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Keeping Assist Command invalidD
+1517069 9751 13J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Keeping Assist Command not availableD
+1565422 516631 14 Forward looking radar detection error D
+1574658 1816 2J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) ROP Engine Control Active invalidD
+1574669 1816 13J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) ROP Engine Control Active not availableD
+1582594 9752 2J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Centering Assist Command invalidD
+1582605 9752 13J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Centering Assist Command not availableD
+1634542 520216 14 Internal hardware error A
+1640194 1817 2J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) YC Engine Control Active invalidD
+1640205 1817 13J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) YC Engine Control Active not availableD
+1705730 1818 2J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) ROP Brake Control Active invalidD
+1705741 1818 13J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) ROP Brake Control Active not availableD
+1765614 520218 14 Internal software error A
+1771266 1819 2J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) YC Brake Control Active invalidD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+9DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+1771277 1819 13J1939 signal: Vehicle Dynamic Stability Control 1 
+(VDC1) YC Brake Control Active not availableD
+1831150 520219 14 Camera temperature too low D
+1902338 1821 2J1939 signal: Door Control 1 (DC1) Position of Doors 
+invalidD
+1902345 1821 9J1939 message: Door Control 1 (DC1) message 
+missingD
+1902349 1821 13J1939 signal: Door Control 1 (DC1) Position of Doors 
+not availableD
+1902355 1821 19J1939 signal: Door Control 1 (DC1) Position of Doors 
+errorD
+1962222 520221 14 Internal hardware error A
+2093294 520223 14 Internal hardware error A
+2097666 544 2J1939 signal: Engine Configuration 1 (EC1) Engine 
+Reference Torque invalidD
+2097673 544 9J1939 message: Engine Configuration 1 (EC1) 
+message missingD
+2097677 544 13J1939 signal: Engine Configuration 1 (EC1) Engine 
+Reference Torque not availableD
+2097683 544 19J1939 signal: Engine Configuration 1 (EC1) Engine 
+Reference Torque errorD
+2158830 520224 14 Internal software error J
+2224366 520225 14 Internal software error A
+2289902 520226 14 Internal software error A
+2355438 520227 14 Internal hardware error A
+2420974 520228 14 Internal hardware error A
+2486510 520229 14 Internal hardware error A
+2748654 520233 14 Internal software error J
+2814190 520234 14 Forward looking radar detection error D
+2820354 2347 2J1939 signal: Lighting Command (LCMD) High 
+Beam Head Light Command invalidD
+2820361 2347 9J1939 message: Lighting Command (LCMD) 
+message missingD
+2820365 2347 13J1939 signal: Lighting Command (LCMD) High 
+Beam Head Light Command not availableD
+2879726 520235 14 Internal software error J
+2884098 556 2J1939 signal: Retarder Configuration (RC) Retarder 
+Reference Torque invalidD
+2884105 556 9J1939 message: Retarder Configuration (RC) 
+message missingD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+10DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+2884109 556 13J1939 signal: Retarder Configuration (RC) Retarder 
+Reference Torque not availableD
+2884115 556 19J1939 signal: Retarder Configuration (RC) Retarder 
+Reference Torque errorD
+2945262 520236 14 Vehicle parameters not valid J
+3010798 520237 14 ECU not yet aligned - Complete Service Alignment D
+3076334 520238 14 Internal hardware error A
+3080717 559 13J1939 signal: Electronic Engine Control 2 (EEC2) 
+Accelerator Pedal Kickdown Switch not availableD
+3080723 559 19J1939 signal: Electronic Engine Control 2 (EEC2) 
+Accelerator Pedal Kickdown Switch errorD
+3083010 2863 2J1939 signal: Operator Wiper and Washer Controls 
+(OWW) Front Operator Wiper Switch invalidD
+3083017 2863 9J1939 message: Operator Wiper and Washer 
+Controls (OWW) message missingD
+3083021 2863 13J1939 signal: Operator Wiper and Washer Controls 
+(OWW) Front Operator Wiper Switch not availableD
+3083027 2863 19J1939 signal: Operator Wiper and Washer Controls 
+(OWW) Front Operator Wiper Switch errorD
+3141870 520239 14 Internal hardware error A
+3146253 560 13J1939 signal: Electronic Transmission Control 
+1 (ETC1) Transmission Output Shaft Speed not 
+availableD
+3146259 560 19J1939 signal: Electronic Transmission Control 1 
+(ETC1) Transmission Driveline Engaged errorD
+3207406 520240 14 Internal hardware error A
+3211778 561 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ASR Engine Control Active invalidD
+3211789 561 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ASR Engine Control Active not availableD
+3216898 5681 2J1939 signal: Automated Emergency Braking 
+System (AEBS2) Driver Activation Demand invalidD
+3216905 5681 9J1939 message: Automated Emergency Braking 
+System (AEBS2) message missingD
+3216908 5681 12J1939 signal: Automated Emergency Braking 
+System (AEBS2) Checksum errorD
+3216909 5681 13J1939 signal: Automated Emergency Braking 
+System (AEBS2) Driver Activation Demand not 
+availableD
+3221506 10289 2J1939 signal: Cruise Control/Vehicle Speed Setup 
+(CCSS) Cruise Control System Low Set Limit Speed 
+invalidD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+11DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+3221517 10289 13J1939 signal: Cruise Control/Vehicle Speed Setup 
+(CCSS) Cruise Control System Low Set Limit Speed 
+not availableD
+3221523 10289 19J1939 signal: Cruise Control/Vehicle Speed Setup 
+(CCSS) Cruise Control System Low Set Limit Speed 
+errorD
+3272942 520241 14 Internal software error A
+3277314 562 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ASR Brake Control Active invalidD
+3277325 562 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ASR Brake Control Active not availableD
+3338478 520242 14 Internal hardware error A
+3342850 563 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ABS Active invalidD
+3342861 563 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ABS Active not availableD
+3404014 520243 14 Forward looking radar detection error D
+3469550 520244 14 Vehicle parameters not valid J
+3535086 520245 14 Internal software error J
+3549186 10294 2J1939 signal: Cruise Control/Vehicle Speed Setup 
+(CCSS) Powertrain Adaptive Cruise Control Type 
+invalidD
+3549197 10294 13J1939 signal: Cruise Control/Vehicle Speed Setup 
+(CCSS) Powertrain Adaptive Cruise Control Type not 
+availableD
+3551746 12854 2J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Available invalidD
+3551757 12854 13J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Available not availableD
+3551763 12854 19J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Available errorD
+3617282 12855 2J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Status invalidD
+3617289 12855 9J1939 message: Active Steering System Controls 1 
+(ASSC1) message missingD
+3617293 12855 13J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Status not availableD
+3617299 12855 19J1939 signal: Active Steering System Controls 1 
+(ASSC1) Hands Off Detection Status errorD
+3666158 520247 14 Internal software error A
+3731694 520248 14 Internal software error A
+Table 1 – Diagnostic Trouble Codes (DTCs)
+12DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+3805197 4154 13J1939 signal: Electronic Engine Control 1 (EEC1) 
+Actual Engine - Percent Torque Fractional not 
+availableD
+3862766 520250 14 Internal software error A
+3869453 2875 13J1939 signal: Operators External Light Controls 
+(OEL) Hazard Signal Switch not availableD
+3869459 2875 19J1939 signal: Operators External Light Controls 
+(OEL) Hazard Light Switch errorD
+3928302 520251 14 Internal software error A
+3934978 2876 2J1939 signal: Operators External Light Controls 
+(OEL) Turn Signal Switch invalidD
+3934985 2876 9J1939 message: Operators External Light Controls 
+(OEL) message missingD
+3934989 2876 13J1939 signal: Operators External Light Controls 
+(OEL) Turn Signal Switch not availableD
+3934995 2876 19J1939 signal: Operators External Light Controls 
+(OEL) Turn Signal Switch errorD
+3993838 520252 14 Internal software error A
+4059374 520253 14 Internal software error A
+4063753 574 9J1939 message: Electronic Transmission Control 1 
+(ETC1) message missingD
+4063757 574 13J1939 signal: Electronic Transmission Control 2 
+(ETC2) Transmission Actual Gear Ratio not availableD
+4063763 574 19J1939 signal: Electronic Transmission Control 1 
+(ETC1) Transmission Shift In Process errorD
+4124910 520254 14 Internal software error A
+4190446 520255 14 Internal software error A
+4255982 520256 14 Internal software error A
+4587529 70 9J1939 message: Cruise Control/Vehicle Speed 1 
+(CCVS1) message missingD
+4587533 70 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Parking Brake Switch not availableD
+4587539 70 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Parking Brake Switch errorD
+4719113 584 9J1939 message: Vehicle Position 1 (VP1) message 
+missingD
+5440013 595 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Active not availableD
+5440019 595 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Active errorD
+5505549 596 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Enable Switch not availableD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+13DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+5505553 596 17J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) disabled and activeD
+5505555 596 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Enable Switch errorD
+5571085 597 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Brake Switch not availableD
+5571091 597 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Brake Switch errorD
+5636098 86 2J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Set Speed invalidD
+5636109 86 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Set Speed not availableD
+5636115 86 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Set Speed errorD
+5636621 598 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Clutch Switch not availableD
+5636627 598 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Clutch Switch errorD
+5702157 599 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Set Switch not availableD
+5702163 599 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Set Switch errorD
+5767177 88 9J1939 message: Cruise Control/Vehicle Speed 
+Setup (CCSS) message missingD
+5767693 600 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Coast Switch not availableD
+5767699 600 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Coast Switch errorD
+5772041 4952 9J1939 message: Beltlock and Airbag Deactivation 
+Switch Information (BDS) message missingD
+5772045 4952 13J1939 signal: Beltlock and Airbag Deactivation 
+Switch Information (BDS) Driver Belt Lock State not 
+availableD
+5772051 4952 19J1939 signal: Beltlock and Airbag Deactivation 
+Switch Information (BDS) Driver Belt Lock State 
+errorD
+5833229 601 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Resume Switch not 
+availableD
+5833235 601 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Resume Switch errorD
+5898765 602 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Accel Switch not availableD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+14DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+5898771 602 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Accel Switch errorD
+5963778 91 2J1939 signal: Electronic Engine Control 2 (EEC2) 
+Accelerator Pedal Position invalidD
+5963785 91 9J1939 message: Electronic Engine Control 2 (EEC2) 
+message missingD
+5963789 91 13J1939 signal: Electronic Engine Control 2 (EEC2) 
+Accelerator Pedal Position not availableD
+5963795 91 19J1939 signal: Electronic Engine Control 2 (EEC2) 
+Accelerator Pedal Position errorD
+6353134 520288 14 Internal software error A
+6358025 1121 9J1939 message: Electronic Brake Controller 1 
+(EBC1) message missingD
+6358029 1121 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+EBS Brake Switch not availableD
+6358035 1121 19J1939 signal: Electronic Brake Controller 1 (EBC1) 
+EBS Brake Switch errorD
+6358541 1633 13J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Pause Switch not availableD
+6358547 1633 19J1939 signal: Cruise Control/Vehicle Speed 1 
+(CCVS1) Cruise Control Pause Switch errorD
+6418670 520289 14 Internal software error A
+6484206 520290 14 Internal software error A
+6549742 520291 14 Internal software error A
+6621961 2917 9J1939 message: Electronic Brake Controller 5 
+(EBC5) message missingD
+6621965 2917 13J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR System State not availableD
+6621967 2917 15J1939 signal: Electronic Brake Control (EBC5) 
+External Brake Request (XBR) State invalidD
+6621968 2917 16J1939 signal: Electronic Brake Control (EBC5) 
+External Brake Request (XBR) State no demand 
+acceptedD
+6753026 2919 2J1939 signal: Electronic Brake Controller 5 (EBC5) 
+Foundation Brake Use invalidD
+6753037 2919 13J1939 signal: Electronic Brake Controller 5 (EBC5) 
+Foundation Brake Use not availableD
+6836738 21096 2J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering Actual Mode invalidD
+6836745 21096 9J1939 message: Active Steering System Controls 2 
+(ASSC2) message missingD
+6836749 21096 13J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering Actual Mode not availableD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+15DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+6836755 21096 19J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering Actual Mode errorD
+6884098 2921 2J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Acceleration Limit invalidD
+6884109 2921 13J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Acceleration Limit not availableD
+6884115 2921 19J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Acceleration Limit errorD
+6902274 21097 2J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering System Status invalidD
+6902285 21097 13J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering System Status not availableD
+6902291 21097 19J1939 signal: Active Steering System Controls 2 
+(ASSC2) Active Steering System Status errorD
+7229954 21102 2J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Position invalidD
+7229965 21102 13J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Position not availableD
+7229971 21102 19J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Position errorD
+7295490 21103 2J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Torque invalidD
+7295501 21103 13J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Torque not availableD
+7295507 21103 19J1939 signal: Active Steering System Controls 2 
+(ASSC2) Steering Wheel Torque errorD
+7344898 4976 2J1939 signal: Slope Sensor Information 2 (SSI2) 
+Pitch Angle (Extended Range) invalidD
+7344905 4976 9J1939 message: Slope Sensor Information 2 (SSI2) 
+message missingD
+7344909 4976 13J1939 signal: Slope Sensor Information 2 (SSI2) 
+Pitch Angle (Extended Range) not availableD
+7344915 4976 19J1939 signal: Slope Sensor Information 2 (SSI2) 
+Pitch Angle (Extended Range) errorD
+7401698 520304 2 J1939 signal: (EPSO1) Steering Angle invalid D
+7401705 520304 9 J1939 message: (EPSO1) message missing D
+7401709 520304 13 J1939 signal: (EPSO1) Steering Angle not available D
+7401715 520304 19 J1939 signal: (EPSO1) Steering Angle error D
+7467234 520305 2 J1939 signal: (EPSO1) System State invalid D
+7467245 520305 13 J1939 signal: (EPSO1) System State not available D
+7467251 520305 19 J1939 signal: (EPSO1) System State error D
+7532770 520306 2 J1939 signal: (EPSO1) Steering Angle Speed invalid D
+Table 1 – Diagnostic Trouble Codes (DTCs)
+16DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+7532781 520306 13J1939 signal: (EPSO1) Steering Angle Speed not 
+availableD
+7532787 520306 19 J1939 signal: (EPSO1) Steering Angle Speed error D
+7729378 520309 2 J1939 signal: (EPSO2) Driver Torque invalid D
+7729385 520309 9 J1939 message: (EPSO2) message missing D
+7729389 520309 13 J1939 signal: (EPSO2) Driver Torque not available D
+7729395 520309 19 J1939 signal: (EPSO2) Driver Torque error D
+7794914 520310 2 J1939 signal: (EPSO2) External Control Mode invalid D
+7794925 520310 13J1939 signal: (EPSO2) External Control Mode not 
+availableD
+7794931 520310 19 J1939 signal: (EPSO2) External Control Mode error D
+8581353 520322 9J1939 message: Proprietary Crossing Guard 
+(PropBCGC) message missingD
+8581357 520322 13J1939 signal: Proprietary Crossing Guard 
+(PropBCGC) Crossing Gate Command not availableD
+8581363 520322 19J1939 signal: Proprietary Crossing Guard 
+(PropBCGC) Crossing Gate Command errorD
+8651522 900 2J1939 signal: Electronic Transmission Control 1 
+(ETC1) Retarder Torque Mode invalidD
+8651529 900 9J1939 message: Engine Retarder Control 1 (ERC1) 
+message missingD
+8651533 900 13J1939 signal: Electronic Transmission Control 1 
+(ETC1) Retarder Torque Mode not availableD
+8913666 904 2J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Front Axle Speed invalidD
+8913673 904 9J1939 message: Electronic Brake Controller 2 
+(EBC2) message missingD
+8913677 904 13J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Front Axle Speed not availableD
+8913683 904 19J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Front Axle Speed errorD
+8979202 905 2J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Left Wheel invalidD
+8979213 905 13J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Left Wheel not availableD
+8979219 905 19J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Left Wheel errorD
+9044738 906 2J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Right Wheel invalidD
+9044749 906 13J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Right Wheel not availableD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+17DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+9044755 906 19J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Front Axle Right Wheel errorD
+9110274 907 2J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Left Wheel invalidD
+9110285 907 13J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Left Wheel not availableD
+9110291 907 19J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Left Wheel errorD
+9175810 908 2J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Right Wheel invalidD
+9175821 908 13J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Right Wheel not 
+availableD
+9175827 908 19J1939 signal: Electronic Brake Controller 2 (EBC2) 
+Relative Speed Rear Axle 1 Right Wheel errorD
+9765634 917 2J1939 signal: High Resolution Vehicle Distance 
+(VDHR) Total Vehicle Distance invalidD
+9765641 917 9J1939 message: High Resolution Vehicle Distance 
+(VDHR) message missingD
+9765645 917 13J1939 signal: High Resolution Vehicle Distance 
+(VDHR) Total Vehicle Distance not availableD
+9765651 917 19J1939 signal: High Resolution Vehicle Distance 
+(VDHR) Total Vehicle Distance errorD
+10416366 520350 14 Internal hardware error A
+10425090 5023 2J1939 signal: Adaptive Cruise Control (ACC2) ACC 
+Usage Demand invalidD
+10425097 5023 9J1939 message: Adaptive Cruise Control (ACC2) 
+message missingD
+10425101 5023 13J1939 signal: Adaptive Cruise Control (ACC2) ACC 
+Usage Demand not availableD
+10481902 520351 14 Internal hardware error A
+10500866 15264 2J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Brake Hold Mode invalidD
+10500877 15264 13J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Brake Hold Mode not availableD
+10500883 15264 19J1939 signal: Electronic Brake Controller 5 (EBC5) 
+XBR Brake Hold Mode errorD
+10547438 520352 14 Internal hardware error A
+10612974 520353 14 Internal hardware error A
+11010050 168 2J1939 signal: Vehicle Electrical Power 1 (VEP1) 
+Battery Potential / Power Input invalidD
+11010057 168 9J1939 message: Vehicle Electrical Power 1 (VEP1) 
+message missingD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+18DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+11010061 168 13J1939 signal: Vehicle Electrical Power 1 (VEP1) 
+Battery Potential / Power Input not availableD
+11010067 168 19J1939 signal: Vehicle Electrical Power 1 (VEP1) 
+Battery Potential / Power Input errorD
+11016450 6568 2J1939 signal: Electronic Transmission Control 12 
+(ETC12) Transmission Directional Output Shaft 
+Speed invalidD
+11016461 6568 13J1939 signal: Electronic Transmission Control 12 
+(ETC12) Transmission Directional Output Shaft 
+Speed not availableD
+11016467 6568 19J1939 signal: Electronic Transmission Control 12 
+(ETC12) Transmission Directional Output Shaft 
+Speed errorD
+11076105 681 9J1939 message: Transmission Control 1 (TC1) 
+message missingD
+11076109 681 13J1939 signal: Transmission Control 1 (TC1) 
+Combined Reverse Gear not availableD
+11076115 681 19J1939 signal: Transmission Control 1 (TC1) 
+Combined Reverse Gear errorD
+11141645 682 13J1939 signal: Transmission Control 1 (TC1) 
+Combined Neutral Gear not availableD
+11141651 682 19J1939 signal: Transmission Control 1 (TC1) 
+Combined Neutral Gear errorD
+11732482 1715 2J1939 signal: Engine Retarder Control 1 (ERC1) 
+Drivers Demand Retarder Percent Torque invalidD
+11732493 1715 13J1939 signal: Engine Retarder Control 1 (ERC1) 
+Drivers Demand Retarder Percent Torque not 
+availableD
+11732499 1715 19J1939 signal: Engine Retarder Control 1 (ERC1) 
+Drivers Demand Retarder Percent Torque errorD
+11863554 1717 2J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Maximum Available Retarder Percent Torque 
+invalidD
+11863565 1717 13J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Maximum Available Retarder Percent Torque 
+not availableD
+11863571 1717 19J1939 signal: Engine Retarder Control 1 (ERC1) 
+Actual Maximum Available Retarder Percent Torque 
+errorD
+11999497 6583 9J1939 message: Electronic Transmission Control 12 
+(ETC12) message missingD
+12451842 190 2J1939 signal: Electronic Engine Control 1 (EEC1) 
+Engine Speed invalidD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+19DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+12451849 190 9J1939 message: Electronic Engine Control 1 (EEC1) 
+message missingD
+12451853 190 13J1939 signal: Electronic Engine Control 1 (EEC1) 
+Engine Speed not availableD
+12451859 190 19J1939 signal: Electronic Engine Control 1 (EEC1) 
+Engine Speed errorD
+12517378 191 2J1939 signal: Electronic Transmission Control 1 
+(ETC1) Transmission Output Shaft Speed invalidD
+12517389 191 13J1939 signal: Electronic Transmission Control 12 
+(ETC12) Transmission Directional Output Shaft 
+Speed not availableD
+12517395 191 19J1939 signal: Electronic Transmission Control 1 
+(ETC1) Transmission Output Shaft Speed errorD
+12517901 703 13J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Driver Door Status not availableD
+12517907 703 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Driver Door Status errorD
+12518146 959 2 J1939 signal: Time/Date (TD) Seconds invalid D
+12518157 959 13 J1939 signal: Time/Date (TD) Seconds not available D
+12518163 959 19 J1939 signal: Time/Date (TD) Seconds error D
+12583437 704 13J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Seat Belt Status not availableD
+12583443 704 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Seat Belt Status errorD
+12583682 960 2 J1939 signal: Time/Date (TD) Minutes invalid D
+12583693 960 13 J1939 signal: Time/Date (TD) Minutes not available D
+12583699 960 19 J1939 signal: Time/Date (TD) Minutes error D
+12648969 705 9J1939 message: Auxiliary Input/Output Status 
+(AUXIO1) message missingD
+12648979 705 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer Connected errorD
+12649218 961 2 J1939 signal: Time/Date (TD) Hours invalid D
+12649229 961 13 J1939 signal: Time/Date (TD) Hours not available D
+12649235 961 19 J1939 signal: Time/Date (TD) Hours error D
+12714509 706 13J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer ABS Detection not availableD
+12714515 706 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer ABS Detection errorD
+12714754 962 2 J1939 signal: Time/Date (TD) Day invalid D
+12714765 962 13 J1939 signal: Time/Date (TD) Day not available D
+12714771 962 19 J1939 signal: Time/Date (TD) Day error D
+Table 1 – Diagnostic Trouble Codes (DTCs)
+20DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+12780045 707 13J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer ABS Operation not availableD
+12780049 707 17J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer ABS not fully operationalD
+12780051 707 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Trailer ABS Operation errorD
+12780290 963 2 J1939 signal: Time/Date (TD) Month invalid D
+12780301 963 13 J1939 signal: Time/Date (TD) Month not available D
+12780307 963 19 J1939 signal: Time/Date (TD) Month error D
+12845826 964 2 J1939 signal: Time/Date (TD) Year invalid D
+12845833 964 9 J1939 message: Time/Date (TD) message missing D
+12845837 964 13 J1939 signal: Time/Date (TD) Year not available D
+12845843 964 19 J1939 signal: Time/Date (TD) Year error D
+13174018 1481 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Source Address of Controlling Device for Brake 
+Control invalidD
+13174029 1481 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Source Address of Controlling Device for Brake 
+Control not availableD
+13174035 1481 19J1939 signal: Electronic Brake Controller 1 (EBC1) 
+Source Address of Controlling Device for Brake 
+Control errorD
+13565965 207 13J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Passenger Door Status not availableD
+13565971 207 19J1939 signal: Auxiliary Input/Output Status (AUXIO1) 
+Passenger Door Status errorD
+14017006 516565 14 Internal hardware error A
+14082542 516566 14 Internal hardware error A
+14148073 516567 9J1939 message: Proprietary Vulnerable Object 
+(PropVulObj) message missingD
+14148077 516567 13J1939 signal: Proprietary Vulnerable Object 
+(PropVulObj) Pedestrian Abort Flag not availableD
+14148083 516567 19J1939 signal: Proprietary Vulnerable Object 
+(PropVulObj) Pedestrian Abort Flag errorD
+14353410 1243 2J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ABS Fully Operational invalidD
+14353421 1243 13J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ABS Fully Operational not availableD
+14353425 1243 17J1939 signal: Electronic Brake Controller 1 (EBC1) 
+ABS not fully operationalD
+14410217 516571 9J1939 signal: Proprietary Configuration 55 
+(PropConfig55) Version invalidD
+Table 1 – Diagnostic Trouble Codes (DTCs)
+21DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+14475753 516572 9J1939 message: Proprietary Configuration 55 
+(PropConfig55) message missingD
+14541289 516573 9J1939 signal: Proprietary Configuration 55 
+(PropConfig55) Configuration invalidD
+14606825 516574 9 HBA Switch Signal PropB 41 Timeout D
+14672354 516575 2 HBA Switch Signal PropB 41 Invalid D
+14681602 1760 2J1939 signal: Combination Vehicle Weight (CVW) 
+Gross Combination Vehicle Weight invalidD
+14681609 1760 9J1939 signal: Combination Vehicle Weight (CVW) 
+message missingD
+14681613 1760 13J1939 signal: Combination Vehicle Weight (CVW) 
+Gross Combination Vehicle Weight not availableD
+14681619 1760 19J1939 signal: Combination Vehicle Weight (CVW) 
+Gross Combination Vehicle Weight errorD
+14737890 516576 2 LCA Switch Signal PropB 41 Invalid D
+15065577 516581 9J1939 message: Proprietary ADAS Segment 
+message (PropADASSeg) message missingD
+15078665 5606 9J1939 message: Cruise Control/Vehicle Speed 3 
+(CCVS3) message missingD
+15078669 5606 13J1939 signal: Cruise Control/Vehicle Speed 3 
+(CCVS3) ACC Readiness State not availableD
+15078675 5606 19J1939 signal: Cruise Control/Vehicle Speed 3 
+(CCVS3) ACC Readiness State errorD
+15131113 516582 9J1939 message: Proprietary ADAS Metadata 
+message (PropADASMet) message missingD
+15196649 516583 9J1939 message: Proprietary ADAS Section Info 
+message (PropADASSect) message missingD
+15469826 3564 2J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Departure Warning Enable Command invalidD
+15469833 3564 9J1939 message: Forward Lane Image Command 
+(FLIC) message missingD
+15469837 3564 13J1939 signal: Forward Lane Image Command (FLIC) 
+Lane Departure Warning Enable Command not 
+availableD
+15532041 237 9J1939 message: Vehicle Identification (VI) message 
+missingD
+16252910 524279 14J1939 signal: FLIC Current Region or VP1 
+Coordinates invalidD
+16318446 524280 14 LKA steering reaction error D
+16376302 516601 14 ECU not yet aligned - Complete Service Alignment H
+16383982 524281 14J1939 Signal: Error In Electronic Brake Control 
+(EBC5) Brake Temperature WarningD
+16441838 516602 14 Vehicle parameters not valid J
+Table 1 – Diagnostic Trouble Codes (DTCs)
+22DTCSPN 
+(J1939)FMI 
+(J1939)DTC NAMEGO TO SERVICE 
+ACTION CODE 
+LISTED IN  
+TABLE 2
+16449518 524282 14 Highway Departure Braking (HDB) Braking Overuse M
+16507374 516603 14 Vehicle parameters not valid J
+16515054 524283 14Automated Emergency Braking System (AEBS) 
+Braking OveruseM
+16572910 516604 14 Camera lens blockage F
+16580590 524284 14Pedestrian Automated Emergency Braking System 
+(PAEBS) Braking OveruseM
+16638446 516605 14 Camera lens blockage F
+16646126 524285 14 Internal software error M
+16703982 516606 14 Camera lens blockage F
+16711662 524286 14 Internal software error A
+16712201 767 9J1939 message: Electronic Transmission Control 5 
+(ETC5) message missingD
+16712205 767 13J1939 signal: Electronic Transmission Control 5 
+(ETC5) Transmission Reverse Direction Switch not 
+availableD
+16712211 767 19J1939 signal: Electronic Transmission Control 5 
+(ETC5) Transmission Reverse Direction Switch errorD
+16715266 3839 2J1939 signal: Electronic Brake Controller 5 (EBC5) 
+Brake Temperature Warning invalidD
+16715277 3839 13J1939 signal: Electronic Brake Controller 5 (EBC5) 
+Brake Temperature Warning not availableD
+16769518 516607 14 Camera lens blockage F
+16777198 524287 14 Internal hardware error A
+Table 1 – Diagnostic Trouble Codes (DTCs)
+232.5 SERVICE ACTION CODES
+Refer to Table 2  for the recommended service actions for the DTC found. 
+ IMPORT ANT
+The only service action code that recommends potentially replacing the camera is A. No other service action code 
+suggests replacing the camera. DO NOT REPLACE THE CAMERA IN ANY INSTANCE IT IS NOT RECOMMENDED. 
+Unauthorized repairs will void the warranty.
+Service 
+Action 
+CodeRecommended Service
+AThis DTC is a failure of the FLC-25 camera. Prior to replacing the FLC-25 camera, perform the 
+following: 
+• Clear the Fusion system DTCs. 
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+• Add the FLC-25 camera to a compatible vehicle and test to determine if the DTC persists. 
+ » NOTE:  A DTC associated with a mismatched VIN may occur; this is not indicative of a problem 
+with the camera.
+• If the original hardware DTC returns, replace the FLC-25 camera.
+BThis DTC is not a failure of the FLC-25 camera. DO NOT REPLACE THE FLC-25 CAMERA.  
+Possible causes: 
+• The battery voltage is too low. 
+Perform the following: 
+• Measure the ignition voltage under load. 
+• Ensure that the ignition voltage is greater than 9 VDC (Volts DC). 
+• Check the vehicle battery and associated components. Inspect for damaged wiring, damaged or 
+corroded connectors, and loose connections. 
+• Check the condition of the fuse.
+CThis DTC is not a failure of the FLC-25 camera. DO NOT REPLACE THE FLC-25 CAMERA.  
+Possible causes: 
+• The battery voltage is too high. 
+Perform the following: 
+• Measure the ignition voltage. 
+• Ensure that ignition voltage is not greater than 16 VDC.
+• Check the vehicle battery and associated components.
+• Inspect for damaged wiring, damaged or corroded connectors, and loose connections.
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+24Service 
+Action 
+CodeRecommended Service
+DThis DTC is not a failure of the FLC-25 camera. DO NOT REPLACE THE FLC-25 CAMERA.  
+Possible causes: 
+• The system receives an implausible signal from an external ECU. 
+Perform the following: 
+• Check the other ECUs for additional DTCs and resolve, then see if the camera DTC persists.
+• Clear the Fusion system DTCs.
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+• If the DTC persists, continue to the next step. 
+• Check the source of the signal to identify why the signal has an error. 
+• Check the source of the signal for faults using the manufacturer’s diagnostic procedures.
+FThis DTC is not an indicator of a malfunctioning camera. DO NOT REPLACE THE CAMERA.  
+Possible Causes:
+• These DTCs may arise from infrequent conditions that could occur normally.
+Perform the following:
+• Check the windshield for lens obstruction. Clean dirt, packed snow, or ice from the windshield, if 
+present. 
+• Confirm that the correct length of windshield wiper is installed on the vehicle.
+• Verify the correct mounting bracket is installed. Do not alter the angle of the bracket.
+• Clear the camera’s DTCs.
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+GThis DTC is not an indicator of a malfunctioning camera. DO NOT REPLACE THE CAMERA.
+Possible Causes:
+• The camera is indicating that there is a problem with parameterization or an error has occurred.
+Perform the following:
+• Check for proper ABS functionality and repair if necessary.
+• Clear ABS DTCs.
+• Determine if the camera was mounted properly on the windshield per OEM specifications.
+• Verify the correct mounting bracket is installed. Do not alter the angle of the bracket.
+• After addressing the possible causes clear the camera’s DTCs.
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+25Service 
+Action 
+CodeRecommended Service
+HThis DTC is not an indicator of a malfunctioning camera. DO NOT REPLACE THE CAMERA.
+Possible causes:
+• Camera NOT CALIBRATED.
+Perform the following:
+• Go to Section 3.1  and follow the actions directed in the procedure to calibrate the camera.
+• Clear the system DTCs.
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+JThis DTC is not an indicator of a malfunctioning camera. DO NOT REPLACE THE CAMERA.  
+Possible Causes:
+The system using the camera has either the incorrect/outdated software version, incorrect parameters, 
+or wasn’t updated properly during a firmware upgrade.
+Perform the following:
+• Check that the camera is connected to the original vehicle and calibrated (ensure there are no 
+calibration faults present). 
+• Contact the OEM for the build sheet to confirm the correct parameters and software are loaded. 
+• Confirm correct parameters, software, and part numbers are loaded for your VIN. 
+• Clear the camera’s DTCs.
+ » Cycle the ignition power, or use the ACom Diagnostic Software to clear DTCs after troubleshooting 
+– and correcting – any problem with the system.
+MThis DTC is not an indicator of a malfunctioning camera. DO NOT REPLACE THE CAMERA.
+Possible Causes:
+• These are function specific error codes, and generated when the system notices abnormal operation 
+of the function. 
+Perform the following:
+• Cycle ignition power, and resolve faults that may exist on other components.
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+262.6  TROUBLESHOOTING 
+DIAGNOSTIC TROUBLE CODES 
+(DTCS): POWER SUPPLY
+IGNITION VOLTAGE TOO LOW
+1. Measure the ignition voltage under load. 
+2. Ensure that the ignition voltage is greater than 9 VDC. 
+3. Check the vehicle battery and associated components. 
+Inspect for damaged wiring, damaged or corroded 
+connectors, and loose connections. 
+4. Check the condition of the fuse.
+IGNITION VOLTAGE TOO HIGH
+1. Measure the ignition voltage. 
+2. Ensure that ignition voltage is not greater than 16 VDC.
+3. Check the vehicle battery and associated components.
+4. Inspect for damaged wiring, damaged or corroded 
+connectors, and loose connections.
+CONNECTOR PIN-OUT AND 
+POWER REQUIREMENTS
+The camera has two (2) connectors. See Figure 4.  
+Pin # DescriptionNominal 
+VoltageNominal 
+Current
+1 Not Used
+2Private 
+Communications Low5 V
+3 J1939 Low 5 V
+4Ground GND (-)  
+Optional0 V 540 mA
+5 Not Used
+6 Not Used
+7 Module Power 14 V 540 mA
+8Private 
+Communications High5 V
+9 J1939 High 5 V
+10 Ground GND (-) 0 V 540 mA
+11 Not Used
+12 Not Used
+Table 3 – Harness Connector PinsFigure 4 – Camera and Harness Connector ViewsHRS HIROSE ELECTRONIC (GT25RM-12DP-2.2H)  
+Mates with a Hirose number: GT25-12DS-HU/R(50) that uses 
+female pins TE number: 1318774 or TE number: 1717106
+POWER SUPPLY TESTS
+1.  Take all measurements at the camera’s harness 
+connector.
+2.  Place a load (e.g. 1157 stop lamp) across the supply 
+voltage and ground connection. Measure the voltage 
+with the load. The supply voltage on pin 7 to ground 
+should measure between 10 to 16 VDC.
+3.  Check for damaged wiring, damaged or corroded 
+connectors, and loose connections.
+4.  Check the condition of the vehicle battery and 
+associated components. Ensure the connection to 
+ground is secure and tight.
+5.  Using the procedures described by the vehicle 
+manufacturer, check the alternator output for excessive 
+noise.
+272.7  COMMUNICATIONS (J1939 
+AND PRIVATE) TEST AND 
+TROUBLESHOOTING PROCEDURES
+The Bendix FLC-25 camera requires private network 
+messages to and from the Fusion system. The camera will 
+set a DTC if these messages are not present, or if there is 
+a problem with the private communications system. Refer 
+to SD-29-50022, Bendix® Fusion™ FLR-25™ Radar Sensor, 
+on B2Bendix.com for full troubleshooting information.
+NOTE:  Confirm there are no DTCs on other components. 
+If there are active DTCs, they should be addressed prior to 
+performing additional troubleshooting procedures.  
+1. Take all measurements at the harness connector unless 
+otherwise indicated.
+ 
+Do not insert any probe into the pin on the mating 
+connector of the camera that is greater than the width 
+of a terminal. Damaged connector pins will require the 
+replacement of the harness.
+2.  Check for damaged or reversed private communications 
+wiring.
+  If the private communications HIGH, or private 
+communications LOW, wiring circuits are damaged, such 
+as shorting together, the entire private communications 
+link will be lost. The problem may be intermittent, 
+enabling the private communications link to operate 
+normally sometimes. In this event, multiple DTCs may 
+be logged in the camera and radar.
+  If the private communications HIGH, and private 
+communications LOW, wiring circuits are reversed, 
+communication over the entire private communications 
+link will be lost. Devices that use the affected network 
+will not be able to transmit or receive messages on that 
+network.
+3.  Check for corroded or damaged wiring connector 
+problems such as opens or shorts to voltage or ground.
+4.  If the connector terminals are corroded, this may be an 
+indication of water intrusion into the wiring system and 
+possibly the camera. Replacement of the entire harness 
+is recommended. If the terminals of the camera are 
+corroded, replacement of the camera is recommended.
+5.  Check for other private communications devices 
+which may be inhibiting communication. The service 
+technician should consult the procedures for private 
+communications troubleshooting. The device’s power 
+should be removed and measurements made at the 
+ECU pins for shorts to ground and power pins and 
+resistance between the private communications HIGH 
+or private communications LOW input circuits.6.  Unplug the camera harness. With the ignition switch 
+off, measure the resistance (ohms) using a multimeter. 
+•  Private Communications: Measure the resistance 
+between harness pins 2 and 8. The reading should 
+be approximately 120 ohms. If it is not, the vehicle 
+wiring should be investigated.
+•  J1939: Measure the resistance between harness 
+pins 3 and 9. The reading should be 0 ohms. If it 
+is not, the vehicle wiring should be investigated.
+2.8  PRIVATE COMMUNICATIONS 
+NETWORK TEST PROCEDURE 
+The Bendix FLC-25 camera requires private network 
+messages to and from the Fusion system. The camera will 
+set a DTC if these messages are not present, or if there is 
+a problem with the private communications system . 
+Refer to SD-29-50022, Bendix® Fusion™ FLR-25™ 
+Radar Sensor, on B2Bendix.com for full troubleshooting 
+information.
+2.9  TROUBLESHOOTING 
+WIRING HARNESSES
+All wire harness connectors must be properly seated to 
+maintain electrical connectivity. Push the mating connectors 
+until they click. When replacing an FLC-25 camera, check 
+that the wire harness connectors are free of damage, 
+including corrosion, before plugging into a new camera. 
+Check for corroded or damaged wiring connector problems 
+such as opens or shorts to voltage or ground.
+If the connector terminals are corroded, this may be an 
+indication of water intrusion into the wiring system and 
+possibly into the camera (presumably from a cracked 
+windshield). Replacement of the entire harness is 
+recommended. If the terminals of the camera are corroded, 
+replacement of the camera is recommended.
+2.10  CLEARING DIAGNOSTIC 
+TROUBLE CODES (DTCS)
+Cycle the ignition power, or use the ACom Diagnostic 
+Software to clear DTCs after troubleshooting – and 
+correcting – any problem with the system.
+283.0 INSTALLATION AND REPLACEMENT 
+Refer to OEM documentation for mounting specifications. 
+ 
+Whenever re-installing or replacing a camera – 
+for example, after a windshield is replaced – the 
+recommended position for the vehicle must be used. 
+Failure to install the camera in the correct position can 
+result in system DTCs being set, system performance 
+degradation, and/or a collision causing property 
+damage, serious injuries, or death.
+Contact the OEM for specific location coordinates of 
+the windshield where the camera should be installed.
+BRACKET INSTALLATION
+The bracket should be installed by the windshield supplier 
+or per the OEM-recommended installer. CAMERA INSTALLATION
+In instances where a third-party bracket and/or cover 
+is used, follow the applicable OEM instructions. If a 
+Bendix bracket and/or cover is used, refer to the following 
+procedures. 
+NOTE: A Bendix bracket and cover can be identified by 
+a Knorr-Bremse® logo on the component. See Figure 5. 
+Figure 5 – Bendix Bracket and Cover PN Location
+1. Hold the camera in a lens-up orientation. Referring to 
+Figure 6 , insert the tabs (A) into the slots (B).
+Figure 6 – Camera Installation
+292. Rotate the camera counterclockwise (when viewed 
+from the left [driver] side) until the tabs (C) contact 
+the clips (D). 
+3. Push the camera down so that the clips (D) are 
+displaced by the tabs (C), therefore seating the camera. 
+The clips will audibly click when the tabs reach the 
+correct position and the clips spring into a locked 
+position, retaining the camera. See Figure 7.  
+Figure 7 – Camera Aligned
+4. In some cases, the clips will not “click” into position. 
+Verify that the clips are in the locked position as shown 
+in Figure 8.  Sometimes it is necessary to pry the clips 
+into the final locked position. In most cases, this can 
+be done using finger pressure. In some cases, needle-
+nose pliers or small screw drivers may be needed.  
+Figure 8 – Clips in Locked Position
+NOTE:  Due to proximity to the headliner, it may be 
+necessary to use an inspection mirror to verify the clips 
+are locked.
+COVER INSTALLATION
+See Figure 9. 
+1. Line up the large “ears” on the bracket with the slots 
+in the cover. 
+2. Align the cylindrical tabs A and A with slots B and B 
+in the cover.
+3. Gently push the cover onto the bracket. The front 
+surface of the cover will be flush with the back surface 
+of the bracket when the tabs are properly aligned and 
+seated. 
+4. Pull the cover down locking it in position. There will be 
+an audible click when the cover fully seats.
+Figure 9 – Cover Installation
+30BRACKET REMOVAL
+The bracket should be removed per OEM recommendations. 
+COVER AND CAMERA REMOVAL 
+The camera is most easily removed from the holder if it is 
+removed from the bracket assembly. This will depend upon 
+the proximity of the headliner. In most cases, there will not 
+be sufficient clearance to access the clips that retain the 
+camera in the holder. 
+1. Begin by removing the cover from the camera. This is 
+the reverse of installation. Push the cover up. Once the 
+cover is moved upward, it can be pulled back, and off 
+the bracket assembly. Take note of the holder position.
+2. Remove the electrical connectors with attached wiring 
+from the camera. The connectors have locking features 
+that require squeezing them to facilitate removal. 
+3.  See Figure 10. Use a screwdriver to pry the locking 
+beam (A) away from the hub (B) on the right side of 
+the bracket. 
+Figure 10 – Camera Removal
+4. Once the hub (B) is released from the beam (A), the 
+right side of the holder with the camera can be pulled 
+back from the bracket assembly. This will allow the 
+entire holder and camera to be removed from the 
+bracket assembly.
+5. Once on the bench, the clips can be released from the 
+tabs on the camera body. Push on the clips as indicated 
+by the arrows in Figure 11. 
+Figure 11 – Camera Removal
+6. Once the clips are released, the camera can be rotated 
+up and out of the clips. This may require the use of 
+screwdrivers to pry the camera from the clips. 
+ 
+Do NOT pry between the bottom of the camera and the 
+holder with tools. It is easily broken.
+7. Check the holder for damage. If there is no damage, 
+return the holder to the bracket. Note that the hubs on 
+the holder fit into slots on the bracket and then can be 
+slid into place. Start with the hub on the right (curb) 
+side of the bracket. Once it is seated, push the other 
+side home, engaging the teeth on the holder with the 
+threads on the worm shaft. 
+318. It may be necessary to adjust the holder position back 
+to its initial position as previously noted ( Step 1 ).
+Figure 12 – Worm Shaft Adjustment
+3.1 CAMERA CALIBRATION 
+Calibration is done as part of initial drive for service 
+cameras. It may take up to 20 minutes of driving above  
+25 mph (40 kph) on well-marked roads in clear weather for 
+the camera to be ready and fully calibrated. The camera 
+should not be returned for any calibration faults found in 
+this time period. If a calibration fault appears while driving, 
+check the camera for looseness or misalignment and 
+continue driving to clear the fault. 
+3.2 DASH SWITCH/LAMPS
+Each OEM has their own method for displaying the system 
+status to the driver, and there will typically will be a switch 
+on the dash to allow the driver to temporarily disable the 
+system. Refer to the OEM Operator’s Manual  for system 
+indicator lamp(s) used for the FLC-25 camera, and whether 
+there is a bulb-check illumination at vehicle power-up. 
+Additionally, the system self-monitors and will set a DTC 
+that will typically alert the driver using a similar icon on 
+the dash display or by a status lamp. Refer to Section 2.0: 
+Troubleshooting  for more information.
+3.3 MAINTENANCE
+In normal use, the FLC-25 camera needs only a clean, 
+properly maintained windshield to ensure a clear view of 
+the road ahead. Protect the camera lens whenever the 
+inside of the windshield is cleaned. 
+3.4 CAMERA INTERCHANGEABILITY 
+When replacing cameras only, use replacements with the 
+same part number (or a direct superseding replacement 
+number supplied by Bendix). After replacing the camera, 
+run the engine for two (2) minutes and verify no faults are 
+present. Once confirmed no faults are shown with the 
+engine running, drive the vehicle for 5-20 miles (8-32 km) 
+or until the camera calibration fault is no longer indicated.
+ 
+Cameras of different vehicle models and model 
+years must not be interchanged. The use of an 
+incorrect camera can lead to DTCs being set, and 
+performance degradation – including unnecessary 
+system interventions and the potential for situations 
+where interventions do not occur when they would 
+normally.
+Cameras are designed specifically for a particular 
+vehicle and model. DTCs caused by relocating cameras 
+to an incorrect vehicle may result in the vehicle system 
+using the camera to be partially or fully unavailable.
+32TECHNICAL ASSISTANCE
+For additional assistance, the Bendix Tech Team can be 
+reached by email at techteam@bendix.com or by phone 
+at 1-800-AIR-BRAKE (1-800-247-2725), option 2. Bendix 
+Tech Team representatives are available Monday through 
+Thursday, 8:00 a.m. – 6:00 p.m., and Friday, 8:00 a.m. – 
+5:00 p.m. ET.
+SD-29-50024 Rev 000 ©  2/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr-Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST 
+SAFETYDIRECT  is a trademark of RAND MCNALLY .  
+The trademarks are the property of their respective companies. 
+Unless otherwise indicated, the trademarks used in this document, including Bendix, are United States trademarks  
+owned by, or licensed to, Bendix Commercial Vehicle Systems LLC.

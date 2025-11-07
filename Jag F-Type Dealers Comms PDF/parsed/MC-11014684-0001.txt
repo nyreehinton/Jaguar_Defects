@@ -1,0 +1,62 @@
+ 
+M254 Oil pressure warning - P052400
+P052497 The oil pressure is too low
+Topic number LI18.10-P-078867
+Version 1
+Function group 18.10 - Oil pump
+Date 2/28/25
+Validity Passenger car with engine M254
+Reason for change
+Complaint
+Red oil pressure warning in instrument cluster
+One of the below fault codes is stored in powertrain control unit N127:
+P052497 The oil pressure is too low. The system function is restricted.
+P052400 The oil pressure is too low
+Cause
+Various
+Remedy
+If low oil level warning present diagnose cause of this first.
+-Check engine oil level and correct if necessary. Refer to vehicle specific instructions AP18.00-P-1848U
+-Check for external engine oil leaks
+-Measure engine oil pressure via graphical representation in MRG actual values. In one measurement capture the
+pressure at idle, 1000, 2000, and 3000 rpm. Hold each range for approx. 5 seconds.
+-Save results as CSV file
+-Create TIPS case and submit to the powertrain team, including
+• Oil pressure test results CSV file
+• Initial quick test
+• Any additional test results or observations
+• Any previous diagnosis or repairs performed
+WIS-References
+Document number Title Note
+28.02.2025   21:56   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+AP18.00-P-1848U Overview - Check engine oil level
+AR18.00-P-1250MRV Check oil pressure 206, 254, 236
+AR18.00-P-1250MRX Check oil pressure 167
+AR18.00-P-1250WEE Check oil pressure 214
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Engine lubrication/oil cooling  > Function  > Oil pressure too low
+Power generation  > Engine lubrication/oil cooling  > Indicator lamp  > Engine oil pressure indicator lamp  > lit
+Power generation  > Engine lubrication/oil cooling  > Display message  > Oil sensor message
+Control unit/fault code
+Control unit Fault text
+N127 - Control unit "Drivetrain" (PTCU) (CPC3) P052497  - The oil pressure is too low. The system func-
+tion is restricted.
+P052400  - The oil pressure is too low. _
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+28.02.2025   21:56   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

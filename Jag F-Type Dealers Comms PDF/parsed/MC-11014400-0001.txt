@@ -1,0 +1,49 @@
+ 
+2024 & 2025 167 with M256.8 Engine Harsh 5to4 shift
+Topic number LI27.60-P-078599
+Version 4
+Function group 27.60 - Gearshift, control
+Date 2/18/25
+Validity MY24 & MY25 167 with 256.8 engine (GLE450, GLS
+450, GLE53 )
+Reason for change Clarify Procedure
+Complaint
+Harsh 5-4 shift felt while braking, may be mistaken for a harsh brake engagement
+Cause
+In certain driving scenarios the transmission adaption is recorded at a higher value skewing the learning and leading
+to harsh engagement of clutches that is felt as a harsh 5-4
+Remedy
+SW is now available for the Transmission that adjusts the learning to keep adaption values within a proper range
+Please still run through the IPR process for all steps to be available this allows us to gather information without need
+for TIPS case
+1.) Clear all faults
+2.) After perform the reset of learned values deceleration mode in VGS Special Procedures Tab
+3.) Then please perform 3-5 standstill adaptions in a row
+*** THE ADAPTIONS MUST BE RESET AND SHIFTING CORRECTED BEFORE CONTINUING** *
+4.) Please Install the new transmission SW via Xentry
+5.) Confirm all operations are normal and perform final QC
+If issues arise during the process, please open a TIPS case
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+20.02.2025   15:00   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power transmission  > Automatic transmission  > Function  > Engaging process
+Power transmission  > Automatic transmission  > Function  > Shifts
+Power transmission  > Automatic transmission  > Function  > Shifting is rough
+Power transmission  > Automatic transmission  > Function  > Poor shift quality
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+20.02.2025   15:00   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

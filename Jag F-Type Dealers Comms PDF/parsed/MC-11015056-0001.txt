@@ -1,0 +1,45 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-040
+Service BulletinDate: February, 2025
+INFORMATION
+Second Row Executive Seat Does Not Move with C-Pillar Button or Virtual
+Switches
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Cadillac Escalade IQ 2025 2025        
+Involved Region or Country United States and Canada
+Additional Options (RPOs) Equipped with RPO ABV or AL4
+ConditionSome technicians during the Pre-delivery Inspection (PDI) may notice the second row
+executive seat does not move when pressing the C-pillar switch or using the A26 or A34
+heater and air conditioning control assembly.Subject:
+Page 2 February, 2025 Bulletin No.: 25-NA-040
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONCauseThe causes of the condition may be the blue strap that comes from the factory hasn’t
+been removed. Failure to remove the strap before using the seat controls can result no
+seat movement due to the strap inadvertently pulling one of the emergency release
+tethers which can cause the micro-switch to open which prevents seat movement.
+6850623
+CorrectionRemove the blue strap and re-try the power seat controls. If no movement, push the seat
+back rearward until it locks into place and re-try the power seat controls.
+Note: The C-Pillar mounted seat switches will time out (power down) after 2 minutes if
+any of the doors are left open, including the etrunk and lift gate. To re-energize the C-
+Pillar seat switches, press any key fob button or open/close any door.
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Version 1
+Modified Released February 21, 2025
+Keywords: 2nd, second, row, seat, seatback, executive, ABV, AL4, stuck, move, inop, emergency, release, tether,
+strap, switch, switches

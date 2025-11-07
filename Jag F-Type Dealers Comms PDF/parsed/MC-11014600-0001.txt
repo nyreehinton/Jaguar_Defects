@@ -1,0 +1,295 @@
+ 
+ Page 1 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004489 MCL  25-02 
+Circular Letter  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+ 
+ 
+DATE : FEBRUARY 20  2025 
+ 
+ 
+ 
+The Parts&Service  mission  is aimed  at ensuring  a unique  experience  for the Customer.  A few important  
+guidelines  to technical  management  of the new  Maserati  GT2 Stradale  are set out in this letter . 
+The Maserati GT2 Stradale is a hymn to the most extraordinary and exclusive sportiness, the result of a 
+technical and stylistic partnership between the Maserati GT2, a masterpiece of performance created for the 
+brand's return to GT competitions, and the Ma serati MC20, an iconic Trident car with an unmistakable style.  
+The Maserati GT2 Stradale combines the purest performance, typical of a racing car, with the intrinsic qualities 
+of the MC20. The new super sports car thus evokes racing style and performance, while guaranteeing an 
+ideal feeling and comfort in all conditio ns of use, without sacrificing the best on -road driving experience, 
+typical of the Maserati offer.  
+With a top speed of over 320 km/h, maximum power increased to 640 hp (10 hp more than the MC20), a 
+weight reduced by 60 kg and acceleration from 0 to 100 km/h in just 2.8 seconds, the Maserati GT2 Stradale 
+promises unparalleled sensations and superior perf ormance, also thanks to its sophisticated aerodynamics 
+and the captivating design inherited from its racing sister. Behind the wheel, the sensation will be that of 
+driving one of the most incredible track cars, with the opportunity to make the most of it o n the roads from all 
+over the world.  
+ 
+We remind you that your ABMs are at your disposal for questions or support. We ask for your complete 
+cooperation to ensure compliance with the instructions given here . 
+Thank you for your attention . 
+ 
+ 
+TECHNICAL SERVICE OPERATIONS  
+ 
+Vehicle collection  
+ 
+The specificities that have an impact on maintenance of the vehicles in stock are reported as usual in the 
+dedicated circular letter which undergoes periodic updates (MAS004488 and its subsequent revisions).  
+ 
+ 
+ 
+Introduction to Maserati GT2 Stradale  
+ 
+ Page 2 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  Pre-Delivery Inspection checklist  
+To support you in delivering the new Maserati GT2 Stradale, we have updated the PDI Checklist, adding new 
+controls to test new features and to ensure that the car is ready to be driven by the Customer with maximum 
+satisfaction. The checklists are attached to this communication. The checklist will guide you through the 
+various stages of vehicle inspection and preparation. Each checklist includes a set of actions and procedures 
+to be carried out on each car during the Pre -Delivery Inspection (PDI) phase. At t he end of each car 
+preparation, we ask you to keep a copy of the checklist, signed by the operator who has performed the 
+checks, to support process traceability that could be helpful to improve the quality of the service offered, 
+where necessary. Maserati could also request a copy of the same during the PDI or the contractual warranty 
+period for product improvement or for warranty claims assessment purpose.  
+ 
+PDI to carry out with MDEvo  
+The warranty starts date and “Customer Mode” setting to be performed during PDI are described in Circular 
+Letter MAS003368 (and corresponding updates).  
+ 
+ 
+Best practices in the workshop for GT2S service  
+The following chapter includes a list of best practices and technical notes for Maserati GT2 Stradale service; 
+vehicle’s features require precautions which may otherwise not be noticed or highlighted while it is undergoing 
+normal operations in the workshop . 
+For more details and further information please refer to the technical documentation on ModisCS+.  
+ 
+ 
+Lifting the vehicle  
+ 
+Position of lifting points is highlighted in the picture below:  
+ 
+ 
+ 
+The front lifting point is not represented by a physical component on the vehicle floor: the side position of the 
+area is marked by a reverse triangle on the body side:  
+ 
+ 
+Rear lifting pad  Front lifting area  
+ 
+ Page 3 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+The picture below shows the position of the lifter arm: place the pads with care in order to prevent interference 
+between the aerodynamic winglets and the pad.  
+ 
+ 
+ 
+Please notice that when the vehicle is lifted on a 2 columns lifter, doors cannot be opened:  
+ 
+ 
+ 
+If any service operation requires doors to be left open, please consider as an option the lifting of the vehicle 
+with doors already opened. The operation can be performed by:  
+• Opening the door  
+• Moving the vehicle rearward in lifting position  
+• Placing lifter arms  
+• Lifting the vehicle  
+ 
+Adding, the ground clearance of the vehicle lifting point is about 100mm; it’s recommended to remove all 
+possible loads from the vehicle in order to increase vehicle ground height.  
+Be careful to the shape of lifting arms to avoid damaging the vehicle.  
+ 
+ 
+ 
+In the presence of uneven surfaces and/or ramps, be careful to not damage the lower parts of the vehicle:  
+ 
+ 
+ 
+
+ 
+ Page 4 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   With lifter not active  With lifter active  
+Std. A*  Std. C**  Std. A  Std. C  
+Ramp angle (A)  7,3° 6,5° 10,5°  9,8° 
+Escape angle (B)  14,2°  13,6°  13,2°  12,6°  
+ 
+*Std. A corresponds to the vehicle in running order with a full tank of fuel  
+**Std. C corresponds to the configuration of Std. A with 2 persons and 20Kg more inside the vehicle  
+ 
+ 
+Wheels with single, center -locking lug nut  
+The new Maserati GT2 Stradale is equipped by special wheels; each rim is fixed by a single nut.  
+ 
+ 
+ 
+The removal/refitting of the wheels, therefore, must be carried out according to not standard procedures and 
+in compliance with certain precautions. Please note that the single nut is characterized by very high tightening 
+torques (tight at 850 Nm/630 ft·lb ; while during the removal phase, torque can be more than 1500Nm/1106 ft·lb) 
+which require suitable equipment (special socket, high -capacity torque wrench and torque multiplier with 
+ground reaction).  
+At each removal/refitting operation, carefully check the integrity of the wheel fastening components; before 
+screwing everything back together, clean and lubricate the single nut and the hub with specific products, as 
+prescribed in the dedicated procedure.   
+Warning: the single nut has a limited number of tightenings: always replace the nut after 5 (five) tightening 
+cycles.  For this reason, it is essential to keep track of the nut removal/reattachment operations using the specific 
+document supplied with the vehicle: “ Single nut Service booklet ”; in the booklet, firstly, fill in the fields relating 
+to the identification data of vehicle and fill in the table with the information requested each time the wheel is 
+removed/reattached:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the complete procedure on wheel serviceability and further details, please refer to the technical 
+documentation on ModisCS+.  
+ 
+
+ 
+ Page 5 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+Rear wing  
+The rear wing installed on the GT2 Stradale offers three different adjustments to increase or decrease the 
+aerodynamic load:  
+• LD = Low Downforce: only position allowed for road use  
+• MD = Mid Downforce: position allowed exclusively for use on the racing track  
+• HD = High Downforce: position allowed exclusively for use on the racing track  
+  
+ 
+ 
+ 
+The rear wing can be adjusted manually proceeding as follows:  
+• Undo the screws on both pylons using a 5mm Allen key.  
+• Move the rear wing to the position required, taking care to align the holes with the corresponding 
+position.  
+• Tighten the screws at 18Nm / 13,3 ft·lb torque on both pylons.  
+ 
+For further information, please consult the relevant technical documentation.  
+ 
+ 
+ 
+12V battery jump start  
+If needed, 12V battery remote poles are located in the front trunk; open the hood and remove the cover (if 
+present):  
+ 
+               
+ 
+For more information, please consult the owner’s manual.  
+ 
+ 
+Track maintenance  
+Before using the GT2 Stradale on track, a dedicated maintenance and checks are recommended to keep the 
+vehicle in the best condition and have the best performance.  Please consult the technical documentation for 
+all the details (owner’s manual, ModisCS+ on section 00.28, …).  
+ 
+ 
+Activation of the technical team  
+On the occasion of the imminent launch of the new GT2 Stradale, we inform you that the inter -functional 
+
+ 
+ Page 6 of 6 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4489  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  Technical Team has been set up consisting of personnel belonging to the Product Support, Engineering, Quality, 
+Spare Parts, Customer Care and ABM departments.  The technical team will continue from the beginning of 
+sales until the quality objective set for the model is achieved, at which point the end of the technical team will 
+be officially announced.  
+During this period, and before carrying out any service intervention related to an alleged product quality 
+problem, any anomaly must be reported to Technical Support by opening a Blue on Line report in accordance 
+with the Policy in force. Therefore, if no diagnostic support or authorization to proceed u nder warranty is 
+required, it will be necessary to send at least a report as "Factory Information".  
+If opening a report such as "Request for Help" or "Request for authorization under warranty” is not necessary, 
+you can request a refund equal to 0.2 hours of labor for entering the report as "Information to the factory" by 
+entering the warranty claim of th e operation code 0.20.001.A - Information to the Factory 0 -3 MIS (0.2 h).  
+To define the anomaly clearly and allow the Team to intervene quickly and effectively, the information 
+requested in the Blue On Line report (Parameters, Errors, Videos, Images, etc.) must be as complete as possible. 
+Product Support will coordinate the Team  interventions and, in case an on -site diagnosis is needed, they may 
+decide to send a team of specialized technicians to the site. To allow monitoring of the correct repair progress 
+of the vehicle, the utmost care is required in managing the status of the Service Entry so that it reflects the actual 
+repair progress.  With a view to product improvement, and to allow Maserati to improve the diagnostic 
+effectiveness, you will also need to analyze promptly the defective replaced components.  For this purpose, the 
+rules for the management of network returns (MAS003957 and its revision) and if required the Fast Line urgent 
+return process (MAS003955 and its revision) must be applied.  
+ 
+Technical documents, electronic diagnosis and Special 
+Tools  
+ 
+Contents visibility  
+About a month before the new models arrive at dealers, will be visible on ModiCS+ the technical documents 
+with the contents also relating to the Maserati GT2 Stradale for the sections:  
+• Parts catalogue  
+• Labour Time  
+• Workshop Manual  
+• Wiring Diagrams  
+• Help Diagnosis  
+ 
+ 
+Special tools  
+Maserati has created a set of special tools to ensure the highest levels of quality in driving assistance and safety. 
+Such mandatory tools are supplied automatically and are also present on ModisCS+ Special Tools Catalogue. 
+We also remind you that this catalog lists all the special tools already in use that are c ompatible and necessary 
+for the service of the vehicles; therefore, it is important to check this section to ensure the availability of the tools 
+in the workshop.  
+ 
+The new tools created for the GT2 Stradale are listed below in the table:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In conclusion, we remind you that how to use each tool will be detailed in the relative procedure in 
+ModisCS+.  
+ 
+ 
+ 
+ 
+ 
+ Part Number  Description  
+900100026  Locking tool for drive shaft nut  
+675230291  Socket for wheel single -nut 

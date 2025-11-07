@@ -1,0 +1,134 @@
+Bulletin Number: 07-189-21R;  Revised: 02/17/25         Page 1 of 4
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 07-189-21R 
+ DATE: 02/15/21
+ REVISED: 02/17/25APPLICABILITY: 2020-24MY Legacy and Outback 
+  2019-24MY Ascent
+ SUBJECT: Door Window Regulator- Erratic Operation
+INTRODUCTION:
+This bulletin announces availability of new door window regulator assemblies and door glass run 
+channel seals in response to limited concerns of erratic operation of the anti-entrapment feature 
+and/or the door glass either not closing or closing very slowly. The change was made to control the 
+upper mount of the regulator which allows the glass to ride in the center of the sash frame and not 
+rotate on the frame causing a binding condition. In addition, the production process of the door glass 
+run channel seal has been improved to provide added rigidity to the seal allowing to more steadily 
+maintain its shape. If erratic window operation is reported by a customer, refer to the parts and repair 
+procedure information outlined in this bulletin.
+PART INFORMATION:
+REMINDER:  Always order the most up-to-date replacement parts based on the specific VIN being 
+repaired.
+Outback and Legacy ONLY
+Description Part Number Production Date
+REGULATOR & MOTOR ASSEMBLY RF 61041AN00AN/AREGULATOR & MOTOR ASSEMBLY LF 61041AN01A
+RUN CHANNEL-FRONT DOOR, RIGHT 63527AN00A
+02/23/2024 and afterRUN CHANNEL-FRONT DOOR, LEFT 63527AN01A
+RUN CHANNEL-REAR DOOR, RIGHT 63527AN04A
+RUN CHANNEL-REAR DOOR, LEFT 63527AN05A
+RUN CHANNEL-REAR DOOR, RIGHT 63527AN14A
+RUN CHANNEL-REAR DOOR, LEFT 63527AN15A
+Ascent ONLY
+Description Part Number Production Date
+RUN CHANNEL-FRONT DOOR, RIGHT 63527XC00B
+02/23/2024 and afterRUN CHANNEL-FRONT DOOR, LEFT 63527XC01B
+RUN CHANNEL-REAR DOOR, RIGHT 63527XC02D
+RUN CHANNEL-REAR DOOR, LEFT 63527XC03DATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2021 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 07-189-21R;  Revised: 02/17/25         Page 2 of 4
+Continued...IMPORTANT: There has been no change in part number for the door glass run channel seals. The 
+NEW parts can be identified by the six digit production date code located on the part identification 
+label. The date code is listed in MM/DD/YY format. See the example below. 
+The 1st and 2nd digits of 6-digit code show production month. (The example below “1 1” means 
+November.)
+The 3rd and 4th digits of 6-digit code show production day. (The example below “02” means the 2nd 
+of the month.)
+The 5th and 6th digits of 6-digit code shows production year. (The example below “18” means 2018.)
+ 
+If the production date is on 02/23/24 (February 23, 2024) or later , the part is incorporated with the 
+process improvements.
+SERVICE PROCEDURE / INFORMATION:
+Refer to the table below to confirm the applicable service procedure.
+Model Page Number
+LEGACY AND OUTBACK Page # 2
+ASCENT Page # 4
+LEGACY & OUTBACK
+NOTE: The regulator and motor have been incorporated into vehicle production as per starting VIN 
+M3002014 for Legacy and M3100848 for Outback.
+This Service Procedure involves pre-inspection of the regulator assembly and the replacement 
+corresponding glass run channel and their replacement when determined necessary.
+STEP 1:  Remove the affected  window regulator assembly from the door following the procedure in 
+the applicable STIS Service Manual.  REMINDER : Use all precautions when working with these 
+highly visible interior trim panels to protect them from damage.
+Bulletin Number: 07-189-21R;  Revised: 02/17/25         Page 3 of 4
+STEP 2:  Measure the regulator upper roller frame to confirm the regulator was correctly assembled. 
+If the measured distance between the outside of the rail guide (see dashed line below) and the outer 
+side of the mounting nut is not within 24.5 to 25.5mm, the regulator will require replacement. A 
+30mm wide ruler is recommended.
+IMPORTANT NOTE: ALWAYS  confirm there is no gap between ruler and the frame. 
+STEP 3:  When inspection determines window regulator replacement is required, the door glass 
+run channel seal will also require replacement. See the example photo below of the door glass run 
+channel seal.
+The service procedures for window regulator assembly and door glass run channel replacement 
+remain unchanged.  Always refer to STIS and review the full requirements of the repair being 
+performed.  The Service Manual procedures contain information critical to performing an effective 
+repair the first time, every time.  This includes but is not limited to important SAFETY precautions, 
+proper inspection criteria, necessary special tools, required processes and related one-time-use parts 
+needed for a complete and lasting repair.  
+Continued...
+Bulletin Number: 07-189-21R;  Revised: 02/17/25         Page 4 of 4
+ASCENT
+STEP 1: Replace the affected door glass run channel seal.  No window regulator inspection/
+replacement is required. 
+The service procedures for door glass run channel replacement remain unchanged. Always refer to 
+STIS and review the full requirements of the repair being performed. The Service Manual procedures 
+contain information critical to performing an effective repair the first time, every time. This includes 
+but is not limited to important SAFETY precautions, proper inspection criteria, necessary special 
+tools, required processes and related one-time-use parts needed for a complete and lasting repair.
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited Warranty period or covered by an active Subaru 
+Added Security Classic or Gold plan, this repair may be submitted using the following claim 
+information
+Labor DescriptionLabor 
+Operation #Labor 
+Time Fail Code 
+ONE POWER WINDOW MOTOR & REGULATOR 
+ASSY R&R*B850-286 1.1
+SBW-21ADDITIONAL POWER WINDOW MOTOR & 
+REGULATOR ASSY R&RC850-275 0.4
+*Includes power window testing and diagnosis, run channel R&R and pre inspection of new window 
+regulator when needed.
+For vehicles within the Basic New Car Limited Warranty period this repair may be submitted using 
+the following claim information:
+Labor DescriptionLabor 
+Operation #Labor 
+Time Repair Code 
+DOOR GLASS RUN CHANNEL WEATHER STRIP R&R B914-286 0.8h
+WBA-29 
+EACH ADDITONAL DOOR GLASS RUN CHANNEL WEATHER STRIP R&R C914-586 0.4
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

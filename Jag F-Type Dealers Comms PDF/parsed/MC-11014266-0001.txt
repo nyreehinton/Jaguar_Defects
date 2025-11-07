@@ -1,0 +1,67 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:   S2323000004  Rev. A 
+ 
+ 
+Release Date:   February 2025  
+ 
+ 
+Symptom/Vehicle Issue : Defogger Is Not Working. Terminal Detached From The 
+Glass.  
+ 
+ 
+Customer Complaint/T echnician Observation:  Rear backlight is not defrosting.  The 
+rear window glass left or right side defrost solder terminal is detached from the defrost 
+grid. 
+ 
+ 
+Discussion : The connector for the rear defogger is a 1 time use design. If it comes 
+loose  or is taken off for any reason , it must be replaced.  
+ 
+Repair Procedure:  
+ 
+ Materials:  
+ Soldering iron  
+ Rosin core s older filler wire  
+ 68499001AA  Pigtail replacement wire/ connector   
+ Wire stripping / snipping tool  
+ Heat shrink tube 50 mm x 3/16” diameter  
+ Heat gun 
+ 
+1. Strip both wires approximately 25 mm from ends. Do not twist strands after stripping.  
+2. Slip shrink tube  on to wires.  
+3. Align and evenly interweave the strands of both wires.  
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+4. Carefully twist the intertwined portion of the two wires . 
+5. Position the soldering iron onto the center of the splicing area.  
+    Feed solder directly into the stranded wire adjacent to the  contact point of the 
+soldering iron.  
+6. Apply heat generously to evenly distribute the solder along the length of the splicing 
+area. Allow to cool before moving wire and slipping shrink tube over wire.  
+7. Slide shrink tube evenly centered over splice and  apply heat to shrink in place.  
+8. Push the connector into the Electonic Backlight (EBL) glass . 
+ 

@@ -1,0 +1,21 @@
+24PRINTED COPIES ARE UNCONTROLLEDSOTA UPDATES
+NGI PIVI
+Affected Models2016 – 2022 Discovery, Discovery 
+Sport, Evoque, Velar, Range Rover Sport, 
+Range Rover, E-Pace, F-Pace, I-Pace, XE, XF, F -
+type, XJ with NGI20-22MY Defender, 21-22M Y Discovery Sport, 
+Discovery, Evoque, Velar, F-PACE, E-PACE, I-
+PACE, XF with PIVI
+Software version 21B- NGI IP31 (3.0.0)
+Total Complete 10,591 64,445
+SOTA Campaign Launch Date 15 -November 2021 8-November 2021
+Notes21B Resolves the voice guidance concerns 
+when using Apple CarPlay. 
+*Additionall enhancementss aree listedd inn thee Releasee notess 
+availablee onn TOPIxIP31 Includes numerous bug fixes, and also
+activates wireless CarPlay and Android Auto 
+functionality to all PIVI vehicles.
+*Releasee notess availablee onn TOPIx
+*Customerr emaill hass beenn sentt advisingg off neww 
+features
+*Retailerr bulletinn NASS 21.11.0088 releasedd onn GRPNGI 21A, PIVI 30.2

@@ -1,0 +1,255 @@
+ 
+Vermeer and the Vermeer logo are trademarks of Vermeer Manufacturing Company in the 
+U.S and/or other countries. © 2025 Vermeer MV Solutions, Inc. All Rights Reserved. Page 1 of 61  
+ SERVICE BULLETIN  
+ 
+ 
+  
+ 
+ Vermeer MV Solutions, Inc.      
+ 
+Trenchless  
+Okahumpka, Florida 34762 USA  
+ 
+     
+FIELD CAMPAIGN SERVICE BULLETIN #: SMV2025-006                        DATE: 2025 February 25 
+CAMPAIGN TYPE:  Mandatory – Product Safety DEALER INSTALLATION ONLY  
+CAMPAIGN CATEGORY: Kit and Bulletin 
+  
+MACHINE/ 
+ATTACHMENT 
+MODEL(S): SERIAL NUMBERS:  
+Included Excluded Kit Version 
+CSGT See attached listing on 
+pages 5-7 of this Bulletin 
+for specific VIN and 
+serial/unit numbers.  
+None VMV01 CSSK See attached listing on 
+page 7 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+CVGT See attached listing on 
+pages 8-14 of this Bulletin 
+for specific VIN and 
+serial/unit numbers. 
+CVSGT See attached listing on 
+pages 15-24 of this 
+Bulletin for specific VIN 
+and serial/unit numbers. 
+HTV873PTO See attached listing on 
+page 25 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+JTV873PTO See attached listing on 
+page 25 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+LPMINI See attached listing on 
+page 25 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+ 
+SMV2025-006 2025 February 25 Page 2 of 61  
+ 
+ LPMINIXDT See attached listing on 
+page 25 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+LPSDSK See attached listing on 
+page 25 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+LPSDT See attached listing on 
+pages 26-41 of this 
+Bulletin for specific VIN 
+and serial/unit numbers. 
+LPSGT See attached listing on 
+pages 42-44 of this 
+Bulletin for specific VIN 
+and serial/unit numbers. 
+LPXDT See attached listing on 
+pages 45-57 of this 
+Bulletin for specific VIN 
+and serial/unit numbers. 
+MINICOMBO See attached listing on 
+page 58 of this Bulletin for 
+specific VIN and serial/unit 
+numbers. 
+ 
+Subject:   
+ 
+ 
+  Debris Tank Door 
+Retention Clip Replacement Kit (VMV000097)
+ 
+Background: DEBRIS TANK DOOR MAY FALL UNEXPECTEDLY 
+Debris tank door lift cylinder retention clip can become displaced during 
+operation and the tank door may fall.   
+DEATH OR SERIOUS INJURY POSSIBLE 
+If the debris tank door were to lower unexpectedly while cleaning the debris tank 
+or underside of debris door, the operator or crew member could be crushed. 
+Death or serious injury is possible.  
+ 
+Solution: IMMEDIATE MACHINE MODIFICATIONS REQUIRED 
+VMV00097 has been created to provide the necessary parts and instructions to update the retention clip. The kit must be installed as soon as possible.  
+ Vermeer Corporation is administering this product safety alert on behalf of Vermeer MV Solutions, Inc. 
+ PRODUCT 
+SAFETY 
+ALERT 
+FIRST NOTICE  
+
+ 
+SMV2025-006 2025 February 25 Page 3 of 61  
+ 
+  DEALER PARTICIPATION 
+REVIEW REPORT, ORDER KITS, CONTACT CUSTOMERS 
+1. Reports will be emailed  during the week of February 25, 2025, to 
+dealerships shown in our records which have units in their territory affected 
+by this alert. Please review the report for accuracy, including owner and/or address changes. 
+  If the information contained in the report is not  correct, please notify the 
+product safety department on or before March 10, 2025, at: 
+ Telephone: 641-621-7060  Fax:  641-621-8562  Email:  productsafety@vermeer.com  
+ 
+2. Dealership orders kits  by entering the order into EzParts. Each dealership 
+should determine the quantity of kits to order initially depending upon the number of units that may be available for immediate upgrade. Do not order 
+more kits than needed for immediate installation.  
+3. Contact your affected customer(s)
+ to schedule a mutually acceptable time 
+to upgrade their machine(s). Note : Letters will be sent to the customer(s) on 
+or about February 25, 2025. Also refer to Owner Notification section below. 
+ 
+ If you have any questions concerning the installation of VMV000097, please contact Vermeer MV Solutions service department at 888-822-8766 (Florida). 
+ 
+  
+ 
+SMV2025-006 2025 February 25 Page 4 of 61  
+ 
+  REIMBURSEMENT  
+Upon completion of each kit installation, a campaign warranty claim must be 
+submitted to the warranty department for reimbursement of the cost of parts and 
+labor to install the kit. Labor hours to install: 0.30 hours.   Travel will be paid up to $200 ($1 per mile with a $200 ax round trip) with copy of work order attached for retailed machines not in dealer inventory. If dealer repairs more than one machine at same location on one trip, travel will only be 
+paid on one of the model/VINs. 
+ Note : Future notices to dealers and owners are dependent upon the receipt of 
+warranty claims.  
+ 
+ OWNER NOTIFICATION  
+Sample letter : Included at the end of this bulletin is a sample letter which will be 
+sent by Vermeer Corporation on behalf of Vermeer MV Solutions directly to the owners on or about March 11, 2025 , via USPS certified/registered mail. Owner 
+notice translations will be provided in the following languages: 
+ 
+ French  Spanish  
+ 
+All translated owner notices will also include owner notification in English.   
+ This owner notification/letter instructs the owner to contact their local 
+dealership to arrange for a time to have the kit installed. After receiving VMV000097 from Vermeer MV Solutions, you must contact your affected 
+customer(s) immediately  and schedule a mutually acceptable time to upgrade 
+their machine(s). 
+ 
+We regret any inconvenience that these corrective measures may cause you. The required work is for the safety of the Machine Operator and crew member when cleaning out the debris tank and door when the door is fully opened.    
+VERMEER MV SOLUTIONS, INC. 
+ 
+Attachment: 
+VMV000097 Kit Instructions 
+  
+Completion schedule: 
+ Product Safety Alert: Install immediately 
+ 90 days from MM/DD/YYYY 
+ 180 days from MM/DD/YYYY 
+ 1 year from MM/DD/YYYY 
+ Only units within standard limited 
+warranty period  
+ N/A Reimbursement: 
+  Product Safety Alert 
+ All units listed above 
+    Parts    Labor paid (Labor code: SB25) 
+ Only units within standard limited warranty 
+period 
+  No reimbursement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMV2025-006 2025 February 25 Page 5 of 61  
+ 
+ Internal reference: 
+TREAD Act Code 
+(Choose one or 
+more applicable 
+codes)   -- Not applicable  12 Exterior lighting 
+ 02 Suspension  16 Structure 
+ 03 Service brake system, hydraulic  17 Latch 
+ 04 Service brake system, ai r  19 Tires 
+ 05 Parking brake  20 Wheels 
+ 11 Electrical  21 Trailer hitch 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SMV2025-006 2025 February 25 Page 61 of 61  
+ 
+ If you no longer own this unit, please notify the product safety department at: 
+ Toll-free: 800-829-0051, option 1 
+ Telephone: 641-621-7060  Email:  productsafety@vermeer.com 
+If possible, please provide the name and address of the new owner. 
+ We regret any inconvenience that these corrective me asures may cause you. The required work is for the 
+safety of the Machine Operator and crew member when cleaning out the debris tank and door when the 
+door is fully opened.    
+Regards, 
+Vermeer MV Solutions, Inc.
+  

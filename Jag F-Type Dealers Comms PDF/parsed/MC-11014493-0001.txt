@@ -1,0 +1,75 @@
+ 
+Service BulletinAlexander Dennis 
+Dennis Way, Guildford, 
+Surrey, GU1 1AF. After Market Support Line: 
+0845 358 9988 (U.K.) +44 (0) 1483 571271 
+ 
+ 
+  
+ 
+  
+Service Manual Heading: Transmission 
+Models Affected:  Title: No: 
+Enviro 500 Hub Bearing Maintenance 
+D64.1 Portal Axle 842-2  
+Date: Aug 2013 
+ 
+Page: 1 of 2  
+ 
+Background 
+In a small number of instanc es the drive axle hub beari ng has been found to lose 
+axial preload. This bulleti n has been re-issued to advise customers of a change to 
+the previously published maintenance interval.  
+Scope of Bulletin 
+This bulletin describes the recommended maintenance regime for D64.1 axles 
+fitted with the unitized hub bearing.  
+Maintenance Interval 
+At the first vehicle service (1000 miles – 1600 km), or 6 months in service, 
+whichever is the earlier.  If the vehicle annual operat ing mileage is less than 30,000miles (48,000km) then 
+the following wheel hub maintenance is to be done once every year.  If the vehicle annual operat ing mileage is greater th an 30,000miles (48,000km) 
+then the following wheel hub maintenance is to be carried out every 30,000miles 
+(48,000km) or once every 6 m onths, whichever is earlier. 
+ In addition to the above frequency, it is recommended to perform the wheel hub 
+maintenance when the brakes or any other wheel end com ponent is serviced. 
+ 
+Important Note: 
+Before carrying out any work on the axle  ensure that all procedures used are in 
+accordance with the relevant Service M anual and Health & Safety Instructions. 
+ 
+Maintenance Procedure 1. Firstly ensure that the tightening tor que of the spindle nut is to the correct 
+tightening torque specification 
+ 
+Hub Nut Tightening Torque Sp ecification:  900 – 1000 Nm 
+ 
+(continued overleaf) 
+ 
+Last Bus Bulletin Issued:  864 
+ 
+Service Manual Heading: Transmission 
+Models Affected:  Title: No: 
+Enviro 500 Hub Bearing Maintenance 
+D64.1 Portal Axle 842-2  
+Date: Aug 2013 
+ 
+Page: 2 of 2  
+ 
+Maintenance Procedure (continued)  
+2. Using a dial indicator gauge measure the mounted hub bearing end play figure. 
+The tolerance specifications are as follows: 
+ 
+Hub Bearing End Play Tolerance Specification 
+ 
+For a new bearing in a new hub the maximu m tolerance for end play is 0.075mm 
+ 
+ 
+For a new bearing in a used hub the maxi mum tolerance for end play is 0.105mm 
+ 
+ For a used bearing in a used hub the maximu m tolerance for end play is 0.200mm 
+ 
+ 
+3. If mounted hub bearing en dplay figure is found to be above the tolerance 
+specification the beari ng should be replaced. 
+ 
+      
+ 
+ 

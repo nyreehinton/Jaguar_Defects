@@ -1,0 +1,144 @@
+2025-02-20
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+This Service Information Bulletin (Revision 2) replaces SI B61 30 23 dated December 2023.
+ 
+What’ s New :
+Correction- Removal of customer agreement Note
+Claim Information- Mobility of fering and updates for additional work if necessary
+MODEL
+E-Series Model Description Production Date 
+G70 7 Series Sedan November 10, 2022 – March 28, 2023
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR, AWP,
+Campaign Summary , or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible. You can see a list of af fected vehicles in
+the Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (ef fective November 21, 2023) on certain Model Year 2023 - 2024
+BMW vehicles that were produced between November 10, 2022, and March 28, 2023.
+ 
+In the event of a voltage drop, comfort functions of the interaction bar may fail and not respond.  
+ 
+CAUSE
+ Software error in the BMW Interaction Bar . 
+ 
+This can lead to a failure of the air vent
+functions on the passenger side of the bar
+(circled).
+ 
+ 
+CORRECTION
+Replace the BMW Interaction Bar before vehicle delivery .
+ 
+PROCEDURE
+Replace the BMW Interaction bar following repair instructions, Removing, and installing the touch control
+box for the instrument panel 61 31 147 | REP-REP-P-6131 147-G70 - V .4.
+ 
+Note: The Affected V ehicles that are repaired DO NOT have to be programmed.
+ 
+PARTS  INFORMA TION
+Only use and invoice the applicable part number listed below .
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:00 AM 61 30 23_DELIVERY STOP: INTERACTION BAR
+about:blank 1/4
+ 
+YOCV Campaign Codes:
+BASIC = 3104706667
+BAMI (Option 3CD) = 3104706668
+ 
+Please refer to the weekly Parts Matrix and FlowCode for the most up-to-date ordering information.
+ 
+Part Number Description Quantity
+61 31 5 B34 0B3 Touch control box, instrument panel (BASIC) 1
+Or:   
+61 31 5 B48 ED8 Touch control box, instrument panel (BASIC) 1
+ 
+Or, if the vehicle is equipped with the optional automatic doors (SA  3CD)
+ 
+Part Number Description Quantity
+61 31 5 B34 0B4 Touch control box, instrument panel (BAMI) 1
+Or   
+61 31 5 B48 ED9 Touch control box, instrument panel (BAMI) 1
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed according to the IST A repair
+instructions/ETK, must be selected from the Electronic Parts Catalog, or other approved BMW resources,
+according to the respective vehicle type. Invoiced these items separately under the special Repair Code
+listed in this bulletin.
+ 
+CLAIM INFORMA TION
+Reimbursement for this Action will be via normal claim entry utilizing the applicable work package
+information below , and when required, the part number above that applies.
+ 
+Repair  Code: 0061220800G70 Replacing BMW Interaction Bar (automatic air
+conditioning control panel)
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer or the vehicle is already in the workshop.
+ 
+Work PkgLabor
+OperationDescription (Plus work) Labor Allowance
+# 1 00 75 702 Replacing the BMW Interaction Bar As applicable
+And:    
+If necessary 00 75 854 Additional work/addressing bar 4 FRU
+ 
+Or:
+ 
+The vehicle arrives at your center and this Action shows open (No other Main work will be performed
+or claimed during this workshop visit).
+ 
+Work Pkg Labor Operation Description (Main work) Labor Allowance
+# 3 00 75 171 Replacing the BMW Interaction Bar As applicable
+And:    
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:00 AM 61 30 23_DELIVERY STOP: INTERACTION BAR
+about:blank 2/4
+If necessary 00 75 854 Additional work/addressing bar 4 FRU
+ 
+Note: The Affected V ehicles that are repaired (WP  #1 and WP  #3) DO NOT  have to be programmed. 
+ 
+Additionally , work packages (WP) # 2 and # 4 no longer apply .
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission and reimbursement.   Also, only
+one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the RO technician notes and the claim
+comments (For example: B61 30 23 WP  1), unless otherwise required by State law .
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  C lick on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Action’ s repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement, claim this item
+under the Defect Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16 for additional information.  
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the W arranty
+Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:00 AM 61 30 23_DELIVERY STOP: INTERACTION BAR
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:00 AM 61 30 23_DELIVERY STOP: INTERACTION BAR
+about:blank 4/4

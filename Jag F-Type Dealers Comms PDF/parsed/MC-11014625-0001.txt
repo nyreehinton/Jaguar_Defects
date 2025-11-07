@@ -1,0 +1,41 @@
+Involved Region or
+CountryNorth America 
+Additional Options
+(RPO)UGN or UKL
+ConditionSupercruise Inoperative and Forward Collision Unavailable
+Message with the following DTC P attern.
+U3000 SYM 44 set as a current code and  U3000 SYM 54 set as a
+history code.
+CauseThe forward camera in windshield being block ed by snow , ice, or
+fog over multiple k ey cycles.
+Version 2
+Modiﬁed01/23/2025 - Created on.  
+02/25/2025- Updated Correction.
+Bulletin No.: PIT6325A
+Published date: 02/25/2025
+Preliminary Information
+PIT6325A Forward Collision Unavailable Message and Supercruise
+inoperative With DTC U3000 SYM 44 or 54
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade IQ 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:  
+Update the B174W Forward Camera Module Software and perform the GDS relearn
+following DOC ID 5344001
+Warranty Information
+ For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+2810835 Front V iew Camera Reprogramming with SPS 0.3 Hr.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

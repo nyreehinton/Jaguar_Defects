@@ -1,0 +1,72 @@
+Technical InformationService
+78/24 ENU WRG99
+WRG9 - Re-Code the Instrument Cluster (Workshop Campaign)
+Important: CRITICAL WARNING -This campaign includes steps where control unit(s) in the vehicle will be
+programmed with the PIWIS Tester. The vehicle voltage must be maintained between 13.5 volts and 14.5
+volts during this programming. Failure to maintain this voltage could result in damaged control unit(s).Damage caused by inadequate voltage during programming is not a warrantable defect. The technician
+must verify the actual vehicle voltage in the PIWIS Tester before starting the campaign and also document
+the actual voltage on the repair order.
+Model Year: As of 2017 up to 2024
+Model Line: 718 (982)
+Equipment: Bi-Xenon darkened main headlights, inc luding the Porsche Dynamic Light System (PDLS) ( M. no. XEW )
+Concerns: Instrument cluster control unit
+Cause: Due to faulty coding, there exists the possibility that the headlights cannot be switchedbetween right and left-hand traf ﬁc on the affected vehicles.
+When crossing the border into a country with traffic on the other side of the road, the lack of changeoveroption for the headlights can cause glare for the oncoming traffic.
+Action: Re-program the instrument cluster control unit with the latest PIWIS Tester software release.
+Minimum requirement: Release 42.700.025
+AffectedVehicles:Only vehicles assigned to the campaign (see also PCSS Vehicle Information).
+Required tools
+Tools: • P90999 - PIWIS Tester 4
+• Battery charger with a current rating of at least 90 A and a current and voltage-controlled
+charge map for lithium starter batteries, e.g. V A S5 9 0 8b a t t e r yc h a r g e r9 0 A
+Re-coding instrument cluster
+Work Procedure: 1 Re-code instrument cluster control unit .
+The basic procedure to be followed for coding the control unit is described in the Workshop Manual:
+Workshop Manual 'Basic instructions and procedure for control unit programming using the PIWIS
+Tester'
+AfterSalesJan 14, 2025
+Page 1 of 3
+Service9 WRG9 ENU78/24Technical Information
+For speci ﬁc information on control unit programming during this campaign, see the table
+below.
+Speci ﬁc information on control unit coding as part of this campaign
+Required PIWIS Tester software release: 42.700.025 (or higher)
+Type of control unit coding: Control unit coding using the ‘Automatic coding’
+function for the control unit:
+‘Instrument cluster’ control unit –
+‘Coding/programming’ menu – ‘Automatic
+coding’ function.
+The programming sequence takes
+(approx.):5 minutes
+Coding sequence: Read and follow the information and instructions
+on the PIWIS Tester during the guided coding
+sequence.
+Do not interrupt the coding process.
+When coding is complete, the message “Coding has
+been completed successfully” is displayed, and a
+tick appears in the “Status” box.
+Procedure if control unit coding is not
+successful:Repeat control unit coding.
+2 Enter campaign in the Warranty and Maintenance logbook.
+Warranty processing
+Information
+The specified labor time was determined specifically for carrying out this campaign and includes all
+necessary preliminary and subsequent rework.
+The labor time may differ from the working times published in the Labor Times in the PCSS.
+Scope 1: Re-coding instrument cluster control unit
+Jan 14, 2025
+Page 2 of 3 AfterSalesLabor time:
+Re-coding instrument cluster control unit
+Includes: Connecting and disconnecting battery charger
+Connecting and disconnecting PIWIS TesterLabor time: 31 TU
+Damage number WRG9 066 000 1
+Technical InformationService
+78/24 ENU WRG99
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Po rsche service training
+courses. They are written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special
+tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche reco mmends in these bulletins may be detrimental to the
+safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety ins tructions, and know-how to do the job properly and
+safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic an dt e s t i n gd e v i c et a k ep r e c e d e n c ea n d ,i nt h ee v e n to fa
+discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.© 2025 Porsche Cars North Ame rica, Inc.
+AfterSalesJan 14, 2025
+Page 3 of 3

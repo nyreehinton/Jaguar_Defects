@@ -1,0 +1,25 @@
+1 
+ 
+ 
+ 
+Units : TriPac 3 with 5.0.7 Software  
+Description : The default setting for Switch to Monitor is “YES.”  If the customer wants to 
+change the setting for Switch to Monitor to " NO", the process needs to be 
+completed using the HMI, not WinTrac.  
+ 
+There is a software bug in the WinTrac service tool that is being fixed and will be 
+resolved in the next WinTrac update. Until the n, Switch to Monitor can only be 
+updated using the HMI . 
+Important:  WinTrac® 6.12.0.21 is the current version.  
+Procedure:  
+To update the Switch to Monitor setting using the HMI:  
+ Navigate  to Advanced Menu > System Settings > Programmable Features > Switch to Monitor , 
+and select YES or NO.  
+Note : Default password to access the Advanced Menu is the last four digits of the unit serial 
+number.  
+ 
+Date:  January 27, 2025  
+Subject:  TriPac 3 Switch to Monitor Mode  
+Location:  e-Tech Library    Service  Bulletin  
+  SB967-1 
+ 

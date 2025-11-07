@@ -1,0 +1,414 @@
+  
+ 
+            
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ 
+ 
+ISSUE  DATE:  12/17/2019 
+SERVICE BULLETIN SUBJECT:  Catalyst 35 Power Steering Noise Reduction  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Catalyst Buses  
+COMPLETE BY:  Next Service Opportunity  
+SERVICE BULLETIN  #: SC-19-161 
+ 
+POWER STEERING NOISE REDUCTION RETROFIT  
+NOTICE! It is expected that this process will require 4  hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit upgrades the power steering system to reduce the operational noise  level of the system . 
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Wheel Lifts   4 EA  
+• Jack Stands   4 EA  
+• Transmission Jack  
+• Catch Pan    
+• Ratchet  
+• 13mm Socket  
+• 15mm Socket  
+• 16mm  Socket  
+• 9/16- Inch Socket  
+• 13mm Combination Wrench  
+• 15mm Combination Wrench  
+• 17mm Combination Wrench  
+• 1-Inch Combination Wrench  
+• 1-1/2 Inch Combination Wrench  
+• 7/8-Inch Combination Wrench  
+• 7/8-Inch Crow’s Foot Socket  
+• 1-Inch Crow’s Foot Socket  
+• 1-1/2 Inch Crow’s Foot Socket  
+• Flat Blade Screwdriver  
+• Hose Clamp Pliers  
+• Side Cutting Pliers  
+• Calibrated Torque Wrench  
+• Orange Torque Stripe Paint  
+• Funnel  
+ 
+Parts Required:  
+ 
+• 044166  TANK, POWERSTEERING    1 EA  
+• 044870  FITTING, MALE, 90°, 1/2 JIC, SAE #8, LONG 1 EA  
+• 044871  FITTING, HYDRAULIC, 90 DEGREE   1 EA  
+• 045994  FLEX LINE, POWER STEERING    1 EA  
+• 045995  BRACKET, POWER STEERING    1 EA  
+• 051490  HOSE, PUSH LOK, 1"     2 FT 
+• 051491  FITTING, PUSH LOK, 1"     2 EA 
+• 045993  FLEX LINE, POWER STEERING    1 EA  
+• 020891  WASHER, DIN 9021, SST, M8    2 EA  
+• 012138  WIRE  TIE, HEAVY DUTY .5WIDE 9.1" BLACK 2 EA  
+• Dexron VI Automatic Transmission Fluid (Obtain Locally)  3 GL  
+• Loctite 567 (Obtain Localy)  
+ 
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+ 
+Procedure  
+ 
+1. Perform the Proterra approved Lockout/Tagout procedure for safety. Refer to the Proterra 
+Catalyst LOTO Safety Guide if you are unsure of the proper procedure.  
+ 
+2. Using Wheel Lifts raise the bus. Use four Jack Stands to support the bus after it is lifted.  
+  
+  
+3. Using a 13mm Ratchet/Socket and a 13mm Combination Wrench, remove the front bumper.  
+  
+4. Place a Catch Pan underneath the power steering reservoir drain plug.  
+ 
+5. Some fittings in this procedure are National Pipe Thread (NPT) fittings. All NPT fittings require Loctite 567 on the tape red threads. Failure to apply Loctite 567 will cause leaks.  
+ 
+Safely Raise 
+and Secure 
+the Bus  
+Apply Loctite 567 to Tapered Threads  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+6. Using a 17mm  Combination Wrench, remove the power steering reservoir drain plug and allow 
+the Power Steering Fluid to drain into the Catch Pan.  
+  
+ 
+7. Using 1-Inch and 7/8- Inch Combination Wrenches, disconnect the hoses that connect the 
+Power Steering Pump to the reservoir.  
+  
+8. Using a 15mm Ratchet/Socket, remove the two bolts that attach the reservoir to the vertical 
+surface of the bus body.  
+  
+ 
+Remove Drain Plug  
+Remove Bolts  Remove Hoses  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+9. Using Hose Clamp Pliers, squeeze the Clamp on the fill neck so that it can be removed. Using 
+a 13mm Ratchet/Socket, remove the two bolts that attach the reservoir to the horizontal surface of the bus body. Remove the reservoir.  
+  
+ 
+10. Using a Flat Blade Screwdriver, remove the four screws that retain the motor junction box cover. Remove the cover.  
+ 
+11. Take photos or make notes to showing the proper wiring connection to the motor. Disconnect the motor wires and pull them out of the strain relief.  
+ 
+12. Using 1 -Inch and 7/8- Inch Combination Wrenches, disconnect the hoses that connect the 
+Power Steering Pump to the power steering  gear.  
+ 
+  
+Squeeze Clamp  
+ 
+Remove Bolts  
+Remove Reservoir  
+Remove Screws and Cover  
+Strain Relief  
+Disconnect Hoses from 90 Degree Fittings  
+6 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+13. Using Side Cutting Pliers, cut the wire ties that secure the hoses to the bus body and discard 
+them.  
+  
+ 
+14. Support the Power Steering Pump/Motor assembly using a Transmission Jack or other approved lifting device.  Using a 16mm Ratchet/Socket, remove the four bolts (circled in red 
+below) that secure the assembly to the bus body.  
+ 
+ 
+15. Lower the assembly from the bus and place it on a workbench.  
+ 
+ 
+16. Using a 9/16- Inch Ratchet/Socket remove the four nuts from the bottom of the assembly to 
+release the motor and isolators from the frame.  
+  
+ 
+Cut and Remove Wire Ties  
+Remove Isolator Nuts  
+7 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+17. Remove the motor assembly from the frame.  
+ 
+ 
+18. Using 1 -Inch and 7/8- Inch Combination Wrenches, remove the two hoses shown in the 
+following illu stration. The other end of these hoses were connected to the steering gear.  
+  
+19. Using a 1 -1/2-Inch Combination Wrench, remove the 90 Degree inlet and inlet pipe fitting from 
+the pump.  
+ 
+20. Using  a 7/8- Inch Combination Wrench, remove the remaining fittings and pressure relief valve 
+from the pump. Leave only the 90 Degree fitting.  
+  
+ 
+Remove Hoses  
+Remove Fitting and Inlet Pipe  
+Do Not Remove this Fitting  
+8 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+21. Using a 15mm Combination Wrench, remove the two bolts that secure the pump to the 
+housing. Do not remove the pump from the motor shaft.  
+  
+22. Rotate the pump counterclockwise to the position shown in the following illustration. Using a 
+15mm Combination wrench, secure the pump to the housing with the bolts that were removed 
+earlier.  
+  
+23. Using a Calibrated Torque Wrench with a 15mm Socket, torque the bolts to 40 -foot pounds. 
+Mark the bolts with Orange Torque Stripe Paint.  
+ 
+  
+Remove Bolts  
+40 Foot Pounds  
+Ports Oriented Horizontally  
+40 Foot Pounds  
+ 
+9 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+24. Using a 7/8- Inch Combination Wrench, install the components shown in the following 
+illustration on the 90 Degree Fitting as shown. These parts were removed previously and are 
+being reused. Using a Calibrated Torque Wrench with a 7/8- Inch Crows Foot Socket,  torque 
+the Elbow to 42 -foot pounds.  
+  
+25. Using a 7/8- Inch Combination Wrench, install the 90 Degree Fitting (016606) and the Straight 
+Fitting (016538) as shown. Using a Calibrated Torque Wrench with a 7/8- Inch Crows Foot 
+Socket, torque these fittings to 42 -foot pounds.  
+ 
+ 
+ 
+26. Using a 7/8- Inch Combination Wrench, install the 90 Degree Fitting (044870) as shown in the 
+following illustration. Using a Calibrated Torque Wrench with a 7/8- Inch Crows Foot Socket, 
+torque the fitting to 4 2-foot pounds.  
+ 
+ 
+016538  
+016606  
+044870  42 Foot Pounds  
+10 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+27. Using a 1 -1/2-Inch Combination Wrench, install the 90 Degree Fitting (044871) onto the pump 
+as shown. Using a Calibrated Torque Wrench with a 1- 1/2 Inch Crows Foot Socket, torque the 
+fitting to 112 -foot pounds.  
+ 
+  
+28. Using a 7/8- Inch Combination Wrench, install the Flexible Hoses (045994) and (045993) as 
+shown. Using a Calibrated Torque Wrench with a 7/8- Inch Crows Foot Socket, torque the 
+hose end fittings to 40 -foot pounds.  
+  
+29. Using a 7/8- Inch Combination Wrench, install the Hard Line (016536) that was removed 
+previously as shown in the following illustration.  Using a Calibrated Torque Wrench with a 7/8-
+Inch Crows Foot Socket, torque the fitting to 40 -foot pounds.  
+  
+044871  
+045994  
+045993  
+40 Foot Pounds (Both Fittings)  
+016536  
+11 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+30. Place the modified Pump/Motor Assembly inside the new Power Steering Bracket (045995). 
+Using a 9/16- Inch Ratchet/Socket, replace the nuts that secure the motor to the bracket.  
+  
+ 
+31. Apply a small amount of Automatic Transmission Fluid to the inside of one end of the 1- inch 
+Hose (051490) and to the hose barb of Push Lock Fitting (051491) to lubricate them. Press on one of the Push Lock Fittings into the lubricated end of the hose. The fitting must be inserted into the hose until it is flush with the yellow ring as shown in the second illustration below. Do not install the second Push Lock Fitting at this time. These fittings are permanent and cannot be removed.  
+ 
+  
+32. Using a 1 -1/2-Inch Combination Wrench, attach the Hose (0051490) and Fitting (051491) 
+assembled in the previous step to the new Tank ( 044166)  as shown. Using a Calibrated 
+Torque Wrench with a 1- 1/2 Inch Crows Foot Socket, torque the fitting to 112 -foot pounds.  
+ 
+ 
+Replace Isolator Nuts  
+Lubricate Hose and Barb  
+Hose Flush with Yellow Ring  
+12 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+33. Using a 1 -Inch Combination Wrench, install the new Hose (025623) as shown. Using a 
+Calibrated Torque Wrench with a 1- Inch Crows Foot Socket, torque the fitting to 54 -foot 
+pounds.  
+ 
+  
+ 
+34. Using a 1 -Inch Combination Wrench, remove the level sensor from the old tank and install it on 
+the new Tank ( 044166 ). 
+  
+ 
+35. Move the new Tank Assembly to the bus. Thread the hoses through the opening in the bus. 
+Place the Hose Clamp on the Filler Neck hose that is protruding through the bus body. Carefully attach this hose with the Hose Clamp to the Filler Neck.  
+Note: It may be necessary to access the filler hose from inside the Driver Workplace if the 
+hose cannot be connected from outside the bus.  
+  
+ 
+025623  
+Level Sensor  
+Hose Clamp  
+13 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+36. Using a 13mm Ratchet/Socket, install the two lower tank bolts that were removed earlier. 
+Using a 15mm Ratchet/Socket, install the two upper tank bolts that were removed earlier along with two new Flat Washers ( 020891) . 
+  
+ 
+37. Using a Calibrated Torque with a 15mm Socket, torque the upper bolts to 15 -foot pounds. 
+Using orange Torque Stripe Pain, mark the torqued fasteners.  
+ 
+38. Using a Calibrated Torque with a 13mm Socket, torque the lower bolts to 37 -foot pounds. 
+Using orange Torque Stripe Pain, mark the torqued fasteners.  
+ 
+39. Connect the Tank Level Sensor to the bus harness.  
+ 
+40. Lift the Power Steering Pump/Motor assembly using a Transmission Jack or other approved lifting device. Using a 16mm Ratchet/Socket, secure the assembly to the b us body using the 
+bolts that were removed earlier. Using a Calibrated Torque Wrench with a 16mm Socket, 
+torque the bolts to 74 -foot pounds. Mark the bolts with Orange Torque Stripe Paint.  
+ 
+ 
+  
+Washers  
+15mm Wrench  
+13mm  Wrench  
+14 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+41. Using a 7/8- Inch Combination Wrench and a 1- Inch Combination Wrench, connect the smaller 
+Hose (025623) to the fitting as shown in the following illustration.  
+  
+ 
+42. Using a Calibrated Torque Wrench with a 7/8 -Inch Crows Foot Socket and a 1- Inch 
+Combination Wrench, torque the fitting to 40 -foot pounds.  
+ 
+43. Carefully measure the length of 1- Inch Hose (051490) required to connect the Hose to the 
+pump using a Push- on Fitting (051491). The Hose should be cut long enough to allow it to be 
+seated flush with the yellow ring on the fitting, but  not so long as to cause kinking. Using a 
+Tubing Cutter, cut the Hose.  
+  
+  
+Connect Hose (025623)  
+Cut Hose  
+15 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+44. Apply a small amount of Automatic Transmission Fluid to the inside of the free end of the 1 -
+Inch Hose (051490) and to the barb on the Push Lock Fitting (051491) to lubricate them. Pross 
+on the Fitting into the lubricated end of the Hose. The fitting must be inserted into the hose until it is flush with the yellow ring as shown in the second illustration below. These Fittings are permanent and cannot be removed without destroying the Hose.  
+ 
+  
+ 
+45. Using a 1 -3/8 Inch Combination Wrench and a 1- 1/2 Inch Combination Wrench, connect the 
+Hose (051490) and Fitting (051491) to the pump as shown in the following illustration.  
+ 
+ 
+46. Using a 1 -1/2 Inch Combination Wrench and a Calibrated Torque Wrench with a 1- 1/2 Inch 
+Crows Foot Socket, torque the fitting to 112 -foot pounds.  
+ 
+47. Using a 7/8- Inch Combination Wrench, connect the pump hoses to the steering actuator as 
+shown in the following illustr ation. Using a Calibrated Torque Wrench with a 7/8- Inch Crows 
+Foot Socket, torque the fitting to 40 -foot pounds.  
+Note: The bus body is removed for clarity.  
+ 
+Lubricate Hose and Barb  
+Hose Flush with Yellow Ring  
+16 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+ 
+48. Using two Wire Ties (012138), secure the pump hoses to the bus body as shown.  
+  
+49. Reconnect the motor wiring according to the diagram that was created earlier. Using a Flat 
+Blade Screwdriver, replace the motor junction box cover and the four screws that secure it to the motor.  
+ 
+ 
+50. Using a Funnel, fill the Tank with 3 Gallons of Dexron VI  Automatic Transmission Fluid.  
+ 
+51. Leave the Fill Cap off the Tank.  
+ 
+52. Locate and remove Circuit Breaker CB -423 from the ECAB panel to disable the automatic ride 
+height system.  
+ 
+53. Remove the Wheel Lifts from the front of the bus.  
+ 
+54. Remove the Lockout/Tagout devices.  
+ 
+55. Enter the bus and power it on.  
+ 
+56. Turn the Steering Wheel back to its right and left limits several times to remove the air from the system.  
+ 
+57. Check the Power Steering Fluid level and add additional fluid if needed.  
+ 
+58. Replace the Filler Cap.  
+ 
+59. Lower the bus . 
+ 
+60. Reinstall Circuit Breaker CB -423 in the ECAB panel to disable the automatic ride height 
+system.  
+ 
+61. Return the bus to service.  
+Wire Ties  

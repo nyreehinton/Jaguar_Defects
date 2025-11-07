@@ -1,0 +1,92 @@
+2025-02-20
+This Service Information Bulletin (Revision 2) replaces SI B51 10 22 dated December 2023.
+ 
+What’ s New :
+Correction, Procedure: AI (revision index) number changed
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+i20 iX Sports Activity V ehicle From SOP  (Start of production Nov . 2021) until
+05/22/2022
+ 
+SITUA TION
+Groaning noise in the front parcel shelf of the luggage compartment area. The noise is mostly head when
+the vehicle interior is cold.
+ 
+CAUSE
+The play of the retaining springs on the left and right of the front parcel shelf, is too large.
+ 
+CORRECTION
+Replace the front parcel shelf with part number 51 47 6 926 674, AI (revision index) 06 or higher .
+ 
+PROCEDURE
+1. Verify the customer ’s complaint.
+2. If the noise is reproducible with the front parcel shelf installed, then the shelf will need to be
+replaced with part number 51 47 6 926 674.
+ 
+ The AI (revision index) of the new part must
+be 06 or higher (circled).
+ 
+ 
+3. Once the new front parcel shelf is installed, verify repair .
+ 
+PARTS INFORMA TION
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:03 AM 51 10 22_GROANING NOISE IN THE LUGGAGE COMPARTMENT AREA
+about:blank 1/3
+To determine the part number that applies to the specific vehicle being repaired, enter the VIN/chassis
+number into either ETK or AIR. This will consider the specific equipment and/or options that are fitted to the
+vehicle.
+ 
+Part Number Description Quantity
+51 47 6 926 674 Parcel shelf, front 1
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+Repair Code: 5147073700Cubby covers/storage compartments in luggage
+compartment Loose
+ 
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Labor Operation Description Labor Allowance
+51 47 148Removing and installing/replacing rear parcel shelf
+(Main)As applicable  
+Or:   
+51 47 684 Removing and installing/replacing rear parcel shelf (Plus) As applicable
+And, as necessary:   
+51 00 001* Localizing body complaint(s) (See below) Work time (WT)
+Or   
+00 58 500* Diagnosis W orktime Flat Rate (See below) 2 FRU
+ 
+If you are using a Main labor code for another repair , use the Plus code labor operation 51 47 684 instead of 51 47
+148.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (the last seven (7) characters of the VIN, select the applicable
+Model if two or more vehicle choices show), or enter the full VIN (17 characters), click on the “Search” button. Next,
+click on the “Flat Rate Units” button and enter the flat rate labor operation code in the field to the right, click “Search”
+to display the Flat Rate Unit Group detail choices.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work
+time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise required by
+State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topics of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:03 AM 51 10 22_GROANING NOISE IN THE LUGGAGE COMPARTMENT AREA
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:03 AM 51 10 22_GROANING NOISE IN THE LUGGAGE COMPARTMENT AREA
+about:blank 3/3

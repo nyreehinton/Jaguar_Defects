@@ -1,0 +1,275 @@
+GENERAL MOTORS  
+DCS 7152  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 24 , 2025 
+  
+Subject:  N232429740  - Emission Recall  
+ Incorrect Odometer Mileage  
+  
+Models:  2019 -2023 Chevrolet Silverado M edium Duty 
+   
+  
+General Motors is releasing  Emission Recall N232429740  today .    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+The Stock VIN list of vehicles in dealer inventory is attached to this message. 
+Note: this list is only accurate at the time of report creation and all VINs should 
+be validated in IVH prior to repair.   
+ 
+ 
+END OF MESSAGE  
+Emission  Recall  
+N232429740  Incorrect Odometer Mileage   
+ 
+ Page 1 of 6 
+ 
+Release Date:  February  2025 Revision:  00  
+Attention:  ONLY Chevrolet Medium Duty dealers can complete this recall repair.  
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Silverado Medium Duty  2019  2023  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  On certain vehicles listed above, with specific Malfunction Indicator Light ( MIL) -on faults, the miles 
+travelled calculation switches from the Transmission Output Speed Sensor (TOSS) to the Wheel Speed 
+Sensor (WSS) and the mileage recorded by the On Board Diagnostic  (OBD) System is accumulated at 
+one-fourth actual due to an incorrectly calibrated parameter used in the calculation.  
+Correction  Dealers will reprogram the engine control module.  
+Parts  
+No parts are required for this repair.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107541 * Verified Module Software or Calibration Level: Module Is 
+Programmed with Same Level Software or Calibration  0.2 ZFAT  N/A 
+9107542 * Engine Control Module Reprogramming with SPS  0.3 
+Important : * To avoid warranty transaction rejections, carefully read and follow the instructions below:  
+ 6125814  
+• The Warranty Claim Code from the programming event must be accurately entered in the “Warranty Claim Code” 
+field of the transaction.  
+• When more than one Warranty Claim Code is generated for a programming event, it is required to document all 
+Warranty Claim Codes in the “Correction” field on the job card.   Dealers must also enter one of the codes in the 
+“Warranty Claim Code ” field of the transaction, ot herwise the transaction will reject.   It is best practice to enter the 
+FINAL code provided by SPS2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Emission  Recall  
+N232429740 Incorrect Odometer Mileage   
+ 
+  Page 2 of 6 
+  
+Warranty Claim Code Information Retrieval  
+6125774  
+If the Warranty Claim Code was not recorded on the Job Card, the code can be retrieved in the SPS2 system as 
+follows:  
+1. Open TLC on the computer used to program the vehicle.  
+2. Select and start SPS2.  
+3. Select Settings  (1). 
+4. Select the Warranty Claim Code tab  (2). 
+The VIN, Warranty Claim Code and Date/Time will be listed on a roster of recent programming ev ents.   If the code is 
+retrievable, dealers should resubmit the transaction making sure to include the code in the SPS Warranty Claim Code 
+field.  
+Service Procedure  
+Note:  Carefully read and follow the instructions below.  
+• Ensure the programming tool is equipped with the latest software and is securely connected to the data link 
+connector. If there is an interruption during programming, programming failure or control module damage may 
+occur.  
+• Stable battery voltage is critic al during programming. Any fluctuation, spiking, over voltage or loss of voltage will 
+interrupt programming. Install a GM Authorized Programming Support Tool to maintain system voltage.   Refer to 
+www.gmdesolutions.com  for further information.    If not available, connect a fully charged 12 V jumper or booster 
+pack disconnected from the AC voltage supply. DO NOT connect a battery charger.  
+• Follow the on -screen prom pts regarding ignition power mode, but ensure that anything that drains excessive power 
+(exterior lights, HVAC blower motor, etc) is off.  
+• Clear DTCs after programming is complete. Clearing powertrain DTCs will set the Inspection/Maintenance (I/M) 
+system st atus indicators to NO.  
+Important:  The service technician always needs to verify that the VIN displayed in the TLC left side drop down menu 
+and the top center window match the VIN plate of the vehicle to be programmed prior to using Service Programming 
+System 2 (SPS2) for programming or reprogramming a module.  
+• For the TLC application, service technicians need to always ensure that the power mode (ignition) is “ON” before 
+reading the VIN from the vehicle’s VIN master module and that they do not select a VIN t hat is already in the TLC 
+application memory from a previous vehicle.  
+• If the VIN that shows up in the TLC top center window after correctly reading the VIN from the vehicle does not 
+match the VIN plate of the vehicle, manually type in the VIN characters fr om the vehicle VIN plate into the TLC top 
+
+Emission  Recall  
+N232429740 Incorrect Odometer Mileage   
+ 
+  Page 3 of 6 
+  
+center window and use these for programming or reprogramming the subject module with the correct vehicle VIN 
+and software and/or calibrations.  
+Caution:   Be sure the VIN selected in the drop down menu (1) is the sam e as the vehicle connected (2) before 
+beginning programming.   
+5743643  
+Important:  If the vehicle VIN DOES NOT match, the message below will be shown.  
+ 5877000  
+5644477  
+Important: Techline Connect screens shown above.  
+Important:  If the same calibration/software warning is noted on the TLC Summary screen, select OK and follow screen 
+instructions. After a successful programming event, the WCC is located in the Service Programming System dialogue 
+box of the SPS Summary screen. No fu rther action is required. Refer to the Warranty section of the bulletin.  
+1. Reprogram the Engine  Control Module. Refer to Engine  Control Module: Programming and Setup in SI.  
+ 
+ 
+
+Emission  Recall  
+N232429740 Incorrect Odometer Mileage   
+ 
+  Page 4 of 6 
+  
+5644478  
+Note:  The screensho t above is an example of module programming and may not be indicative of the specific module 
+that is being programmed. Module selection and VIN information have been blacked out.  
+Important:  To avoid warranty transaction rejections, you MUST record the warranty claim code provided on the 
+Warranty Claim Code (WCC) screen shown above on the job card. Refer to callout 1 above for the location of the WCC 
+on the screen.  
+2. Record SPS Warranty Claim C ode on job card for warranty transaction submission . 
+3.   CALIFORNIA, COLORADO, CONNECTICUT, DELAWARE, MAINE, MARYLAND, MASSACHUSETTS, NEW 
+JERSEY, NEW YORK, OREGON, RHODE ISLAND, VERMONT, WASHINGTON VEHICLES ONLY: Install a 
+Recall Identification Label upon  recall completion.   See General Motors Service Policies and Procedures Manual, 
+Recall Identification Label, for details.  
+4.  CALIFORNIA VEHICLES ONLY: Complete a “Proof of Correction” certificate and provide to the vehicle owner upon 
+recall completion.   For the recall number on the “Proof of Correction” certificate, enter only the six digits in characters 
+4-9 of this recall bulletin number: 242974 . 
+Dealer Responsibility   
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this recall must be held and inspected/repaired per the service procedure of this 
+bulletin before c ustomers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, or any other purpose.  
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers ’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Management (GWM) system, the vehicle can  be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+Dealers are to service all vehicles subject to this recall at no charge to customers, regardless of mileage, age of vehicle, 
+or ownersh ip, from this time forward.  
+Customers who have recently purchased vehicles sold from your vehicle inventory, and for which there is no customer 
+information indicated on the dealer listing, are to be contacted by the dealer.  Arrangements are to be made to make the 
+required correction according to the instructions contained in this bulletin.  A copy of the customer letter is provided in t his 
+bulletin for your use in contacting customers.  Recall follow -up cards should not be used for this purpose, since the 
+customer may not as yet have received the notification letter.  
+In summary, whenever a vehicle subject to this recall  enters your vehicle inventory you must take the steps necessary to 
+ensure the program correction has been made before selling the vehicle.   In addition, for vehicles entering your facility for 
+service, you are required to ensure the customer is aware of the open recall  and make every reasonable effort to 
+implement the program correction as set forth in this bulletin prior to releasing the veh icle. 
+***THE FOLLOWING 2 PARAGRAPHS ARE NOT FOR CANADA OR EXPORT***  
+When a California emissions recall is completed by a GM dealer, the dealer must provide the vehicle owner a “Proof of 
+Correction Certificate” which the owner may need to present to the California Department of Motor Vehicles (DMV) when 
+renewing their vehic le registration.  Without this correction certificate, the owner may be unable to renew their vehicle 
+registration.  
+
+Emission  Recall  
+N232429740 Incorrect Odometer Mileage   
+ 
+  Page 5 of 6 
+  
+Additional Certificates can be obtained, at no charge, from the 1Store application in Global  Connect.  Request GM Item 
+Number 1825 when orde ring. 
+Dealer Reports  – For USA & Export  
+For dealers with involved vehicles, a listing has been prepared and will be available through GM Global  Connect Maxis 
+Field Action Reports or sent directly to export dealers.   The Inventory tab of the dealer reports will contain VINs that 
+apply to this recall.   This information is intended to assist dealers with the  PROMPT COMPLETION  of these 
+vehicles.   The Customer In -Service tab will contain customer names and addresses from Motor Vehicle Registration 
+Records.   The use of such motor vehicle registration data for any purpose other than follow -up necessary to complete 
+this recall may be a violation of law in several states.   
+Customer Notification  
+General Motors will notify customers of this recall on their vehicle (see copy of sample customer letter included with this 
+bulletin).   
+ 
+In order to ensure full protection under the emission warranty, and the right to participate in future recalls, the cu stomer 
+notification letter recommends that customers have their vehicles serviced as soon as possible.  It also advises that failure  
+to do so could legally be determined to be lack of proper maintenance. The vehicle may fail a state or local emission 
+inspe ction test if the recall work is not completed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, an d know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condition.  See your dealer for informa tion on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+  
+
+Emission  Recall  
+N232429740 Incorrect Odometer Mileage   
+ 
+  Page 6 of 6 
+  
+         
+This notice applies to your vehicle,  VIN: _____________________________________  
+Dear General Motors Customer:  
+This notice is sent to inform you that General Motors is conducting a voluntary emission recall that includes your 
+vehicle.  
+Reason For This Recall:  With specific M alfunction Indicator Light  (MIL) -on faults, the miles travelled calculation 
+switches from the Transmission Output Speed Sensor (TOSS) to the Wheel Speed Sensor (WSS) and the mileage 
+recorded by the On Board Diagnostic (OBD) System is accumulated at one -fourth actual due to an incorrectl y calibrated 
+parameter used in the calculation.   
+What Will Be Done:  Your GM dealer will reprogram the engine control module.  This service will be performed for you 
+at no charge .  Eligibility for this service will not be denied solely due to your vehicle  having non -GM parts or repairs 
+performed by outlets other than a GM franchised dealer . 
+How Long Will The Repair Take?  Because of service scheduling requirements, i t is likely that your dealer  will need 
+your vehicle longer than the actual service correction time of approximately 30 minutes.  
+What You Should Do:  Please contact your GM dealer as soon as possible to arrange a service date .  Instructions for 
+making this correction have been sent to your dealer.  Please ask your dealer if you wish to know how much time will be 
+needed to schedule, process, and repair your vehicle.  
+When scheduling your appointment, confirm with the dealer that they service Medium Duty T rucks.   
+If you have any questions or need any assistance, just contact your dealer  or the appropriate Customer Assistance 
+Center .  
+For the hearing or speech impaired, please contact our Customer Assistance Center using the Telecommunication 
+Relay Service by dialing 711 then providing the appropriate Customer Assistance Center number for your vehicle.  
+Emission Law Information:  In order to ensure your full protection under the emission warranty made applicable to 
+your vehicle  by state and federal law, and your right to participate in future recalls, it is recommended that you have 
+your vehicle  serviced as soon as possible.  Failure to do so could legally be determined to be lack of proper 
+maintenance of your vehicle.  Also, your vehicle may fail a state  or local emission inspection if this recall is not 
+accomplished.  
+ 
+ 
+IMPORTANT MESSAGE FOR CALIFORNIA RESIDENTS  
+The California Air Resources Board (CARB) requires vehicle emission recalls be completed prior to California 
+registration renewal.  Uncorrected e mission recalls will result in the inability to renew your California vehicle registration.  
+At the time of emission recall completion, your California dealer will issue a "Proof of Correction Certificate".  Keep this 
+certificate and, if required, present it to the Department of Motor Vehicles when renewing your California registration as 
+proof of recall completion.  
+We are sorry to cause you this inconvenience; however, we have taken this action in the interest of your continued 
+satisfaction with ou r products.  
+  
+ Regina A. Carto   
+ Vice President  
+ Global Product Safety and Systems  
+GM Recall: N232429740  

@@ -1,0 +1,105 @@
+SIB 51 04 25
+SERVICE ACTION: REPLACE THE LA TCH THAT SECURES THE
+TRUNK/T AILGA TE2025-02-07
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+G45 X3 Sports Activity V ehicle
+June 20, 2024 – October 15, 2024G60 5 Series Sedan
+G70 7 Series Sedan
+G90 M5 Sedan 
+U10 X2 Sports Activity Coupe
+U11 X1 Sports Activity V ehicle
+ 
+SITUA TION
+ Due to changes in the opening mechanism of
+the trunk/tailgate latch, it is possible that the
+trunk/tailgate may not completely lock after
+closing it.
+ 
+CORRECTION
+Replace the trunk/tailgate latch.
+ 
+PROCEDURE
+Replace the latch that secures the trunk/tailgate following the repair instructions listed in IST A/AIR 51 24
+100.
+ 
+PARTS INFORMA TION
+Use and invoice the part number below .
+ 
+Note: If the trunk’ s latch cannot be replaced due to lack of parts availability , the customer must be
+informed of the pending reworking measure upon vehicle delivery . An appointment must be made
+with the customer for the reworking.
+ 
+Part Number Description Quantity
+51 24 5 B53 9E4 Tailgate lock 1
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+Copyright ©2025 BMW of North America, Inc.
+2/10/25, 5:49 AM 51 04 25_SERVICE ACTION: REPLACE THE LATCH THAT SECURES THE TRUNK/TAILGATE
+about:blank 1/3
+ 
+CLAIM INFORMA TION
+Reimbursement for this Service Action will be via normal claim entry utilizing the applicable work package
+information below , and the part number listed above.
+ 
+Repair
+Code:0051 170600 ---
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair .
+ 
+Work PkgLabor
+OperationDescription (Plusposition)Labor
+Allowance
+# 1 00 78 508 Renew tailgate lock As applicable
+ 
+Or:
+ 
+The vehicle arrives at your center and this Service Action shows open (No other Main work will be
+performed or claimed during this workshop visit).
+ 
+Work PkgLabor
+OperationDescription (Main work)Labor
+Allowance
+# 2 00 78 008 Renew tailgate lock As applicable
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission and reimbursement.  Also, only
+one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and in the claim
+comments (For example: B51 04 25 WP  1), unless otherwise required by State law .
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:49 AM 51 04 25_SERVICE ACTION: REPLACE THE LATCH THAT SECURES THE TRUNK/TAILGATE
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:49 AM 51 04 25_SERVICE ACTION: REPLACE THE LATCH THAT SECURES THE TRUNK/TAILGATE
+about:blank 3/3

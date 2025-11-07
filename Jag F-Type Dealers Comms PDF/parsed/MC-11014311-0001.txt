@@ -1,0 +1,47 @@
+Labor Operation: Description Labor Time:
+* 4089248Fuel Rail Connector Cycling And Road
+Testing1.2 Hrs.   
+*This is a unique Labor Operation for Bulletin use only .
+Version 2
+Modiﬁed11/12/2024 - Created on.  
+02/14/2025- Updated Models.
+Bulletin No.: PIP6023A
+Published date: 02/14/2025
+Preliminary Information
+PIP6023A Possible Malfunction Indicator Lamp On With One Or More
+Of The Following DTCs P02EE P02EF P02F0 P02F1 P10A3 P10A4
+P10A5 P10A6 P10A7 P10A8 P10A9 P10AA P2B00 P2B01 P2B02
+P2B03 P2B08 P2B09 P2B0A P2B0B P2B95 P2B96 P0300 P050D
+P30D4
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletColorado 2023 - 2025 All All2.7 L3B/ L2R All
+Chevr oletSilverado 1500 2023 - 2025 All All2.7 L3B All
+GMC Canyon 2023 - 2025 All All2.7 L3B/L2R All
+GMC Sierra 1500 2023 - 2025 All All2.7 L3B All
+Involved Region or
+Country:North America 
+Condition:Malfunction indicator lamp on with one or more of the following
+DTC's P02EE  P02EF P02F0 P02F1 P10A3 P10A4 P10A5 P10A6 P10A7
+P10A8 P10A9 P10AA P2B00  P2B01 P2B02  P2B03 P2B08 P2B09 P2B0A
+P2B0B P2B95 P2B96 P0300 P050D P30D4.
+Cause: Potential poor connection.
+Correction
+If you encounter a vehicle with the above concern, perform the following steps:
+1. Unplug the fuel rail connector , wait for 60 seconds, and reconnect.
+2. Drive the vehicle around for at least 10 miles, trying to repeat the driving conditions
+that the customer said resulted in the check engine light. Check for DTCs. If there are
+no codes, return the vehicle to the customer .
+3. If there are DTCs, reference the diagnostic procedure for the DTC that is currently
+set.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

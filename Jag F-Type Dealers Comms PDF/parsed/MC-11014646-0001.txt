@@ -1,0 +1,55 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on a Service Brak es Now
+message being displa yed on the radio, shown below . 
+There will be no other symptoms with the vehicle and
+the brak e system will be fully functional with no issues. 
+There will be no related DTCs.
+Cause False message being displa yed. 
+Bulletin No.: PIT6349
+Published date: 02/28/2025
+Preliminary Information
+PIT6349 Service Brakes Now Message Displayed on Radio With NO
+Other Symptoms
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Chevr oletEquino x 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Labor Operation Description Labor Time
+2486418*False Service Brak es Now Message
+displa yed on radio with no other
+symptoms. Engineering investigating
+and advise customer to drive vehicle
+as brak es are fully functional with no
+issues.0.2 Hrs
+ 
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/27/2025 - Created on.
+Correction:  
+If the only concern is the above message being displa yed, then this is a false
+message and engineering is currently investigating.  Please advise the
+customer they ma y continue to drive the vehicle as this is a false message and
+will clear with an ignition cycle.  
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

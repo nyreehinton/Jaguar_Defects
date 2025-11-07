@@ -1,0 +1,24 @@
+SIB 51 05 25
+DELIVER Y STOP: DOOR P ANEL2025-02-07
+MODEL
+E-Series Model Description Production Date 
+G45 X3 Sports Activity V ehicle January 22, 2025 – January 23, 2025
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  As of February 8, 2025, you can
+see a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (effective February 7, 2025) on a small number of Model Year 2025
+BMW vehicles that were produced between January 22, 2025, and January 23, 2025.  
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+The bulletin will be updated when additional information becomes available.  
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:48 AM 51 05 25_DELIVERY STOP: DOOR PANEL
+about:blank 1/2
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:48 AM 51 05 25_DELIVERY STOP: DOOR PANEL
+about:blank 2/2

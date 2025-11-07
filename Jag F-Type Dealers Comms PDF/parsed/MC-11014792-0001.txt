@@ -1,0 +1,136 @@
+ 
+ 
+BULLETIN NOTES
+This bulletin supersedes the previously issued bulletin(s) listed below. The changes are noted in Red.
+Previous TSBs: Date(s) Issued:
+03-001/24 08/05/24, 04/03/24 and 02/06/24
+03-001/23 12/20/23
+SA-075/23 11/13/23
+ 
+APPLICABLE MODEL(S)/VINS  
+2024 CX-90 with VINS lower than JM3KK******139377 (produced before September 30, 2023)   
+ 
+DESCRIPTION
+Some vehicles may experience differential oil leaking from the oil seal (RH side) at the front differential. This is caused by 
+an inappropriate assembly process of the front differential to the oil pan (vehicle side). To eliminate this concern the front 
+differential assembly process has been changed.  
+Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Drain the front differential oil [FRONT DIFFERENTIAL OIL REPLACEMENT (AWD)].  
+3. Remove the front differential [FRONT DIFFERENTIAL REMOVAL/INSTALLATION (AWD)].  
+NOTE:  Lower the engine component 2.0 in (50 mm), then remove the intermediate shaft bolt (lower) [INTERMEDIATE 
+SHAFT REMOVAL/ INSTALLATION].  
+4. Replace the LH side front oil seal (side gear).
+a. Remove the front oil seal (side gear) from the front differential carrier using a flathead screwdriver.
+NOTE: To prevent damaging the inside of the front differential casing, wrap a cloth on the end of the screwdriver.
+Page 1 of
+5
+02/11/2025 10:16 AM tlawrenc
+ 
+NOTE: SST 49T034201A  
+ 
+b. Install the new front oil seal (side gear) using the SST and a hammer
+NOTE :
+Apply front differential oil to the lip of the new front oil seals (side gear).•
+Make sure to install the front oil seals (side gear) straight.•
+ 
+ 
+5. Replace the RH (oil pan side) front oil seal (side gear).
+a. Remove the front oil seal (side gear) from the front differential carrier using a flathead screwdriver.
+NOTE : To prevent damaging the inside of the front differential casing, wrap a cloth on the end of the screwdriver.
+ 
+NOTE: SST 49T034201A  
+ 
+b. Install the new front oil seal (side gear) using the SST and a hammer.
+NOTE:
+Install the front oil seals (side gear) straight.•
+DO NOT insert the seal until it stops moving. There is a risk of oil leakage due to surface pressure 
+decrease.•
+If the SST is not available, the seal can be installed manually by hand. Make sure the seal is installed 
+straight in the bore.•
+ 
+ 
+Page 2 of
+5
+02/11/2025 10:16 AM tlawrenc
+6. Clean any oil residue from oil pan to differential matting surface (blue section).  
+ 
+NOTE: If there is dirt or residue of liquid gasket around below hatched area, the differential may leak oil.  
+ 
+ 
+7. Apply a small amount of grease to the engine oil pan surface with the front differential.  
+NOTE:
+Any one of the three options of grease listed below can be used (or an equivalent).•
+This procedure is to prevent deformation of the differential oil seal lip during installation.•
+ 
+ 
+ 
+ 
+ 
+ 
+[How to apply grease to engine oil pan]  
+(1) Put small amount of grease on your finger.  
+(2) Apply a thin layer of grease all around.
+  Brand Name
+Kluber Lubrication CENTOPLEX 2
+Wurth BRAKE CYLINDER PASTE
+Granville GRANVILLE RED RUBBER GREASE
+Page 3 of
+5
+02/11/2025 10:16 AM tlawrenc
+8. Install the front differential to the oil pan as horizontally as possible.  
+Cross section of oil pan and differential  
+(1) Oil pan  
+(2) Oil seal  
+(3) Differential
+ 
+9. Install all the parts in reverse order. Refer to [FRONT DIFFERENTIAL REMOVAL/INSTALLATION (AWD)] and 
+[FRONT DRIVE SHAFT REMOVAL/INSTALLATION (AWD)].  
+10. Verify the repair.   
+ 
+PARTS INFORMATION
+Parts Number Description Qty. Notes
+TAA1-27-397A Seal, Oil 1 [R]
+TAA1-27-238A Seal, Oil 1 [R]
+G003-25-421 Clip 1 [R]
+D651-33-042A Nut 2 [R]
+9956-41-800 Washer 2 [R]
+T060-26-169A Pin, Snap 2 [R]
+B455-32-099B Bolt, Shaft 1 [R]
+[R]: Replacement parts
+Page 4 of
+5
+02/11/2025 10:16 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s Powertrain Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 76
+Damage Code 9H
+Part Number Main Cause TAA1-27-397A
+Quantity 1
+XXWJTARX / 7.5 Hrs. (PHEV with FCTA)  
+XXWJTBRX / 7.4 Hrs. (PHEV without FCTA)  
+XXWJTARX / 7.4 Hrs (H3T MHEV with FCTA)  
+XXWJTBRX / 7.2 Hrs. (H3T MHEV without FCTA)
+Operation Number / Labor Hours:  
+FCTA: Front Cross Traffic Alert Front wheel alignment check and adjust.  
+A0109LAX / 1.3 Hrs. (Wired type 4-wheel alignment 
+tester)  
+A0109LAX / 0.9 Hrs. (Wireless type 4-wheel alignment 
+tester)
+NOTE:
+Claim other parts as related parts.•
+When the “wheel alignment check & adjustment” is performed at external repair shop, claim the actual invoice 
+amount with the sublet code “C1”.•
+Warranty policy requires a copy of all sublet invoices be attached to the submitted claim.•
+ 
+Page 5 of
+5
+02/11/2025 10:16 AM tlawrenc

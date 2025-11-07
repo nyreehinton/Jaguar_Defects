@@ -1,0 +1,90 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number : S1819000004  Rev. Q 
+ 
+Release Date:  February  2025 
+ 
+Symptom/ Vehicle Issue:   Shimmy Felt In Front End   
+ 
+Discussion : If the customer complains of a shimmy in the steering wheel after hitting 
+an irregularity in the road surface such as an exp ansion joint, pothole, bump et c. 
+Follow the steps below. Read the entire document before performing a repair.  
+ 
+Repair Checks:  
+1. Ensure correct tire pressures (very common to be low going from warm into cold 
+weather) . Inspect tires for wear or damage. Replace as needed . 
+2. Inspect the part number of the current installed damper.  
+Does the damper number match the latest replacement part from the Star Parts 
+catalog?  
+ Yes>>> If the current damper matches the latest Mopar service replacement 
+part, do not replace. First, purge the damper on car using the Steering Cycling 
+instructions below.  Then proceed to step 4.  
+ No>>> Replace damper with latest revision part. Refer to Star Parts Catalog for 
+latest part information. Perform 5 “bicycle pump” purge cycle procedure before 
+installation  (Fig 1) . Refer to Diagnostic Videos section in Service Library and or Service 
+Info Group 19 steering damper installation.  
+NOTE>> Orientation instructions must be followed with bump down.  
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+3. Once new damper is installed perform the 25 lock to lock procedure and drive 
+vehicle performing as many turns as possible  
+NOTE>>> Always use new fasteners with the new damper to ensure correct install 
+orientation of the damper with base cup towards the wheel and facing down.  
+4. Evaluate on highway for SUSTAINED shimmy . 
+5. If SUSTAINED shimmy still exists perform 25 lock to lock procedure again to further 
+purge air out of damper.  
+Additional items to check that can help:  
+1. Alignment - Total Toe as far "IN" or "POSITIVE" as possible but remaining within 
+specifications (Total Toe about 0.35° and individual 0.17°) . 
+2. Road force t ire balance (ensure no highfliers and that front tires are balanced and as 
+low as possible) . 
+Steering Cycling  damper purge procedure : 
+  
+1. Start with tires straight ahead and engine on  
+2. Turn steering wheel to the right until it hits the stop (turning rate – appx 180°/sec)  
+3. Turn the steering wheel to the left until it hits the steering stop (same rate)  
+4. Return steering wheel to straight ahead position  
+5. This constitutes 1 -cycle, repeat for a total of 25 cycles  
+6. Test drive vehicle to confirm shimmy is no longer present  
+7. If shimmy is still present but improved, repeat steering cycling procedure  
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Fig 1.  
+“Bicycle pump” purge process when replacing a damper.  
+ 

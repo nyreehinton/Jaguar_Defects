@@ -1,0 +1,146 @@
+Special  Tools  and Equipment  Information  TSTR2501 c USA Only  
+Porsche  Tester  IV Online  Update  43.100. 035 
+AfterSales  Jan 22, 2025 
+Page 1 of 5  
+  
+Vehicle Type:  
+ 
+Subject:  All 
+ 
+Porsche  Tester  IV Online  Update 43.100.03 5 
+ 
+ 
+Information:   Important!  
+This  software  is only  intended for use on Porsche  Tester  IV. 
+ 
+ Note!  
+Regarding handling  of the proprietary  Porsche  Tester  IV software,  we refer  to Article  6 - “Transfer  for use and assigned 
+of rights  of use”  - of the Porsche  PT4G  Purchase  and License  Agreement,  in particular  the ban on duplicating  the soft- 
+ware or making it available to third parties.  
+ 
+ Caution! 
+Download must not be  interrupted!  
+ 
+ Important!  
+During the entire  update  process,  the Porsche  Tester  IV must  not be disconnected  from  the power  supply! 
+Installation of the software update via Online Update  
+
+Special  Tools  and Equipment  Information  TSTR2501 c USA Only  
+Porsche  Tester  IV Online  Update  43.100. 035 
+AfterSales  Jan 22, 2025 
+Page 2 of 5  
+  
+Porsche  Tester  IV Online  Update  
+Porsche  Tester IV  
+Designation:  
+Part Number:  
+Tool  Number:  
+Use:  
+Price:  Porsche  Tester  IV Online  Update  43.100.0 35               
+N/A 
+N/A 
+ 
+Update  of Porsche  Tester  IV 
+ 
+Free  of charge,  included  in the annual  usage  fee for Porsche  
+Tester  licenses.  
+
+Special  Tools  and Equipment  Information  TSTR2501 c USA Only  
+Porsche  Tester  IV Online  Update  43.100. 035 
+AfterSales  Jan 22, 2025 
+Page 3 of 5  
+  
+Work  
+Procedure:  Installation  of the software  update via Online  Update  
+ 
+ Important!  
+The download  process  must  be started  by user  once  an online  connection  is available.  
+Select  “Update”  in the  “Tools”  menu to view the current update availability  status. If  an update is shown, select  “Start 
+Download”. Installation of the releases must be started manually after the download has completed by pressing the 
+“Start installation”  button. Prerequisite:  PPN Porsche  Tester  License  registration  must  have  been  carried  out success - 
+fully.  
+1. Connect  Porsche  Tester  IV to an external  power  supply  and start it. 
+2. Start installation  using menu item  “Tools  - Update”  then select  “Start Installation”  on the Porsche  Tester  4 
+user  interface.  
+3. After  successful  installation,  Porsche  Tester  IV will need  to restart.  
+4. After  the restart the update  has now  been  completed.  
+ 
+ 
+
+Special  Tools  and Equipment  Information  TSTR2501 c USA Only  
+Porsche  Tester  IV Online  Update  43.100. 035 
+AfterSales  Jan 22, 2025 
+Page 4 of 5  
+  
+Porsche  Tester  IV Update  Release  History  
+ 
+Release  Date  
+42.950.055 & .056  10/18/2024  
+42.950.060 10/22/2024  
+43.000.000  10/28/2024  
+43.000.005 10/29/2024  
+43.000.010, .011 & .015 11/5/2024  
+43.000.016  11/6/2024  
+43.000.017  11/8/2024  
+43.000.020 & .021 11/11/2024  
+43.000.030 11/18/2024  
+43.000.032  11/19/2024  
+43.000.040 & .042  11/25/2024  
+43.000.050  12/3/2024  
+43.000.055, 43.100 & 43.100.005  12/10/2024  
+43.100.010 & .011 12/16/2024  
+43.100.015 & .016 12/18/2024  
+43.100.020 & .021  1/13/2025  
+43.100.030 & .031  1/21/2025  
+43.100.035  1/22/2025  
+ 
+Further  information:  
+• PT4G  testers  can only  be updated from  the current  software  level.  
+• PT4G  testers  cannot  be backdated  or targeted  for a specific  older  software  level.  
+• If a software  restore  is to be performed,  the tester  will install the most  current  software  release available.  
+• When a new  update  is installed,  only  the objects  that  have  been  added/changed are installed  to save  time 
+during the update process.  
+ 
+Online  update,  Fazit,  PPN  access  and  VAL  data  transfer:  
+The “Online Update”, “Fazit Access”, “PPN Access” and “VAL Data Return” functions can only be run if the network 
+settings and any proxy settings that are used were set correctly and if a valid PT4G device certificate was created 
+successfully  for the Porsche  Tester  4 being  used for access.  The user  must  have  PPN  access  and must  be allocated  to 
+the device certificate.  
+AfterSales  Jan 22, 2025 
+Page 5 of 5 Special  Tools  and Equipment  Information  TSTR2501 c USA Only  
+Porsche  Tester  IV Online  Update  43.100.0 35  
+  
+General 
+Information:   
+Ordering process:  
+Tools  identified  with  a prefix  of VAS,  VAG  and T: 
+Place orders via porsche.snapon.com.  
+ 
+Tools  with  a prefix  of 000 721,  918 721,  PNA or P: 
+Place orders via POLARIS (PPL).  
+ 
+Diagnostic  Equipment:  
+Open  a PRMS  ticket.  Technical  Support  >> Tester  Support  
+ 
+ 
+Special  Tool  Support:  
+For questions  related  to VAS,  VAG,  and “T” tools:  
+Contact SBS customer  care at 1 -855 -895 -2013 or  PorscheTEP@SnapOn.com.  
+For Polaris numbers 000.721,  918.721, PNA  and “P” tools:  
+Open  a PRMS  ticket.  Technical  Support  >> Special  Tools  
+Diagnostic  Equipment:  
+Open  a PRMS  ticket.  Technical  Support  >> Tester  Support  
+ 
+ 
+Workshop  Equipment  Classification  
+Servicing and maintenance 
+Replacement  of units  and assemblies 
+Disassembly of units and assemblies 
+Rental  
+  Body & Paint  
+High -voltage  
+ 
+   
+ 
+   
+© 202 5 Porsche Cars North America, Inc.  

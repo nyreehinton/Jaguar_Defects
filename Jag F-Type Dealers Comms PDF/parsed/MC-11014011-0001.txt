@@ -1,0 +1,62 @@
+SERVICEBULLETIN
+2025-01-28 M1611
+M1611(REVA):MILWAUKEE-EIGHT TRANSMISSION SHIFTDRUMUPDATE
+Reason forRevision
+RefertoTable1.
+Table1.Document History
+Revision (Rev)Description Rev Date
+(PartNo.33900172) isobsolete.A 2025-01-28Updated: Purpose forServiceBulletin *
+Initialrelease - 2023-10-23
+Purpose forService Bulletin
+Thisbulletin informs dealers that(PartNo.33900172) is
+obsolete. Dealers mustpurchase theupdated bearing door
+wheninstalling thenewshiftdrumon2017-2024
+Milwaukee-Eight vehicles.
+VehiclesAffected
+2017-2024: CVO,Police,TouringandTrikemodels (this
+excludes 2023-2024 Center-Cooled vehicles).
+2018-2024: Softailmodels.
+Markets Affected
+Allmarkets affected.
+PartNumbers
+RefertoTable2.
+Table2.PartNumbers
+NewPartNo. ItemDescription OldPartNo.
+33900265 Shiftdrum 33900172
+35256-08C Bearingdoor 35256-08B
+35250-06C Bearingdoor 35250-06B
+35260-06C Bearingdoor 35260-06B
+35000105B Bearingdoor 35000105A
+Table3.ShiftDrumtoBearing DoorFitment PartNumbers
+NewBearing DoorFitment
+PartNo.ShiftDrum
+PartNo.
+35256-08C, 35250-06C, 35260-
+06C,35000105B33900172, 33900265Required DealerAction
+Table4.
+ResolutionAction
+Required
+Non-Actionable:
+Thisisforinformational purposes onlyoratech-
+nicaltip.NO
+YES
+Whenrebuilding aMilwaukee-Eight transmission builtbefore
+October 4,2023:
+•OrderthenewShiftDrum(PartNo.33900265) andthe
+applicable bearingdoor.SeeNewPartNo.inTable2.
+Whenrebuilding aMilwaukee-Eight transmission builtafter
+October 4,2023:
+•Orderthenewshiftdrum(PartNo.33900265)
+NOTE
+Thenewshiftdrumwiththe“D”shaftonlyfitsbearingdoors
+withthebuilt-inclearance pocket.ItWILLNOTFITolder
+bearingdoorpartnumbers. RefertoTable2.
+Boththeoldandnewshiftdrumpartnumbers, willfitthenew
+bearingdoorpartnumbers. RefertoTable3.
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE

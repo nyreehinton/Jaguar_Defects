@@ -1,0 +1,69 @@
+Involved Region or
+CountryNorth America, Canada and Mexico
+Additional Options
+(RPO)IOK, IVD or IVE with UE1/UES
+ConditionSome customers ma y state when a destination is sent to the
+Google built in Maps from the mobile MyBrand App while the
+vehicle is oﬀ, the destination will not show up or ma y show up
+days later after a non-quick start/long radio start up. 
+Cause This ma y be due to a software anomaly .
+Bulletin No.: PIT6334
+Published date: 02/13/2025
+Preliminary Information
+PIT6334 Route not loading into built in Google Maps when sent from
+mobile MyBrand App
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2024 - 2025 All AllAll All
+Buick Envision 2024 - 2025 All AllAll All
+Cadillac Escalade 2023 - 2024 All AllAll All
+Cadillac Escalade ESV 2023 - 2024 All AllAll All
+Cadillac Lyriq 2024 - 2025 All AllAll All
+Cadillac XT4 2024 - 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletColorado 2023 - 2025 All AllAll All
+Chevr oletCorvette 2024 - 2025 All AllAll All
+Chevr oletEquino x 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2024 All AllAll All
+Chevr oletSilverado 1500 2023 - 2025 All AllAll
+Chevr oletSilverado 2500 2024 - 2025 All AllAll All
+Chevr oletSilverado 3500 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2023 - 2024 All AllAll All
+Chevr oletTahoe 2024 - 2025 All AllAll All
+Chevr oletTraverse 2024 - 2025 All AllLK0 All
+GMC Acadia 2024 - 2025 All AllLK0 All
+GMC Canyon 2023 - 2025 All AllAll All
+GMC Hummer EV 2023 - 2025 All AllAll All
+GMC Sierra 1500 2023 - 2025 All AllAll All
+GMC Sierra 2500 2024 - 2025 All AllAll All
+GMC Sierra 3500 2024 - 2025 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+GMC Yukon 2023 - 2025 All AllAll All
+GMC Yukon XL 2023 - 2025 All AllAll All
+ 
+ 
+Version 1
+Modiﬁed  02/13/2025 - Created On. 
+ 
+Correction:
+Engineering is cur rently investigating 
+The PI will be updated or r eplaced with TSB once a deter mination has been made
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor
+OperationDescriptionLabor
+Time
+*3486428Verify route does not load to built in Google Maps on radio when being
+requested by mobile MyBrand app0.2 Hr .
+  * unique labor operation for bulletin use only .  
+Customer Information
+Please communicate to the customer that we apologize for this inconvenience and that General Motors is
+working on a solution for this concern.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

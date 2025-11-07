@@ -1,0 +1,83 @@
+   
+TECHNICAL SERVICE BULLETIN
+2.7L EcoBoost - Turbocharger Wastegate Rattle25-2008
+10 February
+2025
+Model:
+Ford
+2024 F-150Engine: 2.7L EcoBoost
+Built on or before 04-Oct-2024
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit a condition where the turbocharger
+wastegate will make a rattling noise. This may be due to a missing wave spring between the wastegate actuator lever
+arm and the turbine housing on both the left and right turbochargers.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+install a wave spring on both the left and right turbochargers.
+Parts
+Service Part
+NumberClaim
+QuantityPackage Order
+QuantityNumber in
+PackageDescription
+RL3Z-9G488-D 1 1 3 Turbocharger Wastegate Actuator
+Spring Kit
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Emissions Warranty/Service
+Part Warranty (SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior
+approvals are not altered by a TSB. NVLW/Emissions Warranty/SPW/SPNV/ESP coverage limits are determined by
+the identified causal part and verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2024 F-150 2.7L: Inspect For Wave Spring (Pass) Reassemble Vehicle (Do Not Use With
+Any Other Labor Operations)252008A 1.0
+Hrs.
+2024 F-150 2.7L: Inspect For Wave Spring (Fail) Install A Wave Spring On One
+Turbocharger (Do Not Use With Any Other Labor Operations)252008B 1.2
+Hrs.
+2024 F-150 2.7L: Inspect For Wave Spring (Fail) Install A Wave Spring On Both
+Turbochargers (Do Not Use With Any Other Labor Operations)252008C 1.4
+Hrs.
+Repair/Claim Coding
+Causal Part: 6K682
+Condition Code:39
+Service Procedure
+1. Remove both front wheels. Refer to WSM, Section 204-04A > Wheels and Tires > Removal and Installation >
+Wheel and Tires.
+2. Remove both front inner splash shields. Refer to WSM, Section 501-02 Front End Body Panels > Removal and
+Installation > Fender Splash Shield.
+3. Is a wave spring installed between the wastegate actuator lever arm and the turbine housing on both the left and
+right turbochargers? (Figure 1)
+Figure 1
+(1). Yes - this article does not apply. Refer to WSM, Section 303-04 for normal diagnostics.
+(2). No - proceed to Step 4 to install a wave spring on both the left and/or right turbochargers.
+4. Manually manipulate the wastegate to the open position on the right turbocharger.
+NOTE: This will create additional space to allow for wave spring installation.
+5. If necessary using a small wire brush, clean the gap between the actuator turbine housing lever arm and the
+turbine housing and make sure it is free of debris.
+6. Install one wave spring per turbocharger by inserting one coil end under the concave/curved side of the lever arm
+on the right turbocharger. (Figures 2-3)
+Figure 2
+Figure 3
+NOTE: Use caution when installing the spring to not bend/kink the spring. If bent or kinked when installing,
+remove and discard and use a new spring from the kit.
+7. Keeping the wave spring centered over the wastegate lever arm shaft, rotate and guide the wave spring on the
+wastegate lever arm shaft until all coils of the wave spring are under the lever arm. If the spring becomes difficult to
+rotate on, open or close the actuator as needed. A small flathead screwdriver may be needed to push the last part
+of the coil under the lever arm. (Figures 2-3)
+8. Repeat Steps 4-7 to install a wave spring on the left turbocharger.
+9. Install both front inner splash shields. Refer to WSM, Section 501-02 Front End Body Panels > Removal and
+Installation > Fender Splash Shield.
+10. Install both front wheels. Refer to WSM, Section 204-04A > Wheels and Tires > Removal and Installation > Wheel
+and Tires.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

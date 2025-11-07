@@ -1,0 +1,78 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:   S2523000011  
+ 
+ 
+Release Date:   February  2025  
+ 
+ 
+Symptom/Vehicle Issue : Exterior Mirror Blind Spot LED Indicator Inoperative  Or W ill 
+Not Tur n Off . Diagnostic Trouble Code  (DTC) B285F -11 And Or  B285F -15 Set.  
+ 
+ 
+Customer Complaint/T echnician Observation:  The customer may find that either 
+the left or right blind spot indicators remain on or off. Technician may find  DTC’s  in the 
+drive r / passenger door modules  DDM PDM : 
+ 
+B285F -11-BLIND SPOT WARNING LIGHT CONTROL -CIRCUIT SHORT TO 
+GROUND – Indicat or always OFF  
+ 
+B285F -15-BLIND SPOT WARNING LIGHT CONTROL -CIRCUIT SHORT TO 
+BATTERY OR OPEN – Indicator Always ON   
+ 
+ 
+Discussion : When a vehicle is not present in the blind spot zone and a blind spot 
+system fault exists, the LED indicators in the mirrors will illuminate. Having only one  
+blind spot indicator illuminated with no objects in the blind spot zone is a telltale sign 
+that the mirror not illuminating has a fault.  
+ 
+Using WiT ECH , command the blind spot Indicators on in the DDM  / PDM. Tilt the 
+mirror in order to gain access to the LED indicator wiring harness. Wiggle test the 
+wiring near the LED indicator connector. Watch the corresponding LED indicator. If the 
+light turns on and off as the wiring is moved, that mirror most  likely has a spread 
+terminal.  
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+Repair:  
+ 
+1. Inspect the mirr or blind spot indicator connector for being fully  connect ed. Use the 
+push push pull method to verify the connector is fully seated. Then perform the 
+verificat ion test.  
+ 
+2. If the concern is isolated when performing the wiggle test. The mirror glass should 
+be replaced. The replacement mirror will have a new wiring harness for the LED 
+indicator  and will eliminate the loose terminal fitment concern.  Then perform the 
+verification test.  
+ 
+Verification:  After replacing the mirror glass or the mirror assembly clear the DTC’s. 
+Using WiTech, again turn on the Blind Spot indicators. Wiggle test the wiring to confirm 
+a loose connection is no longer present.  
+ 
+ 
+Blind Spot Indicator C onnector Location  

@@ -1,0 +1,171 @@
+Bulletin No.: PIP5175F
+Published date: 02/3/2025
+Preliminary Information
+PIP5175F Slip Or Shudder During A Launch In First Second Third Or
+Fourth Gears Delayed Engagement Into Drive Clunk Or Bump During
+The 1-2 Shift
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Cadillac Escalade2013 -
+2020All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletAvalanche 2013 All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCaprice PPV2013 -
+2017All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCheyenne/Silverado2013 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCheyenne/Silverado 2wd
+LTD (RPO J21, VIN Digit 5 =
+W)2019 -
+2022All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCheyenne/Silverado 2WD
+New (RPO J22, VIN Digit 5 =
+A)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCheyenne/Silverado 4WD
+LTD (RPO J21, VIN Digit 5 =
+Y2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletCheyenne/Silverado 4WD
+New (RPO J22, VIN Digit 5 =
+D)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletColorado2014 -
+2022All AllAllMYB 6L50 Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletSS2014 -
+2017All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletSuburban2013 -
+2020All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Chevr oletTahoe2013 -
+2020All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMC Canyon2015 -
+2022All AllAllMYB 6L50 Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMC Sierra2013 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMCSierra 2WD Limited RPO J21,
+VIN Digit 5 = 8)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+GMCSierra 2WD New (RPO J22,
+VIN Digit 5 = H)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMCSierra 4WD Limited (RPO
+J21, VIN Digit 5 = 9)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMCSierra 4WD New (RPO J22,
+VIN Digit 5 = U)2019 -
+2021All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+GMC Yukon Models2013 -
+2020All AllAll6L80 MY C Automatic
+Transmission Built in the
+Silao Me xico Plant 2
+Note: Please refer to SI document 2610129. The following information only applies to
+transmissions with a source code (item number 7 in document 2610129) of (2).
+Supersession Statement:  
+This PI was superseded to add the MYB 6L60 and model years & include Julain Date
+picture. Please discard PIP5175E.
+Condition / Concern
+Customers ma y comment on a dela yed engagement into drive, shudder at a launch, or
+the transmission is slipping when shifting into 1st, 2nd, 3rd or 4th gears.
+The customer ma y also comment that they feel a bump or hear a clunk noise during a 1-2
+shift.
+These concerns ma y only be present when the transmission is at operating temperature.
+Recommendations / Instructions
+These concerns ma y be due to loose stator support to pump cover bolts causing a leak at
+the stator support to pump cover gask et. 
+If the root cause cannot be found following normal SI diagnostics, remove the transmission
+ﬂuid pan and the transmission control assemblies.  
+Referring to the picture below and wearing proper eye protection apply compressed air to
+the 1-2-3-4 clutch apply passage and inspect for air leaking out of the compensator feed
+passage in the pump cover . 
+If no leakage is found out of the compensator feed passage listen for excessive air leakage
+inside the transmission.  
+Callout 1  
+Component Name: Applying compressed air to the 1234 clutch passage.  
+Callout 2  
+Component Name: Compensator feed passage.  
+You ma y also notice ﬂuid leaking or see a misaligned gask et by looking up through the
+case opening between the pump stator support and the 1234/35R clutch housing during
+this test as shown below . 
+Callout 2  
+Component Name: Gap between the pump cover and the 1234/35R clutch housing.  
+If excessive air leakage is found inspect the transmission ﬂuid pump for loose stator
+support to pump cover bolts or a misaligned stator support to pump cover gask et.  
+Note: The bolts should never be check ed for being loose by using a hand tool. The bolts
+are supposed to be torqued at the factory and never loosened. The recommended
+procedure to check for loose bolts is to use your ﬁngers or just a sock et and your ﬁngers
+and attempt to rotate the bolts in a counter clockwise direction. If the bolts are loose for
+any reason the pump cover must be replaced.  
+Refer to the picture below . 
+Callout 1  
+Component Name: Misaligned Gask et 
+Callout 2  
+Component Name: Stator Support Bolts  
+If any of the bolts are loose or the gask et is misaligned or leaking, the transmission pump
+cover must be replaced and the 1234 clutch plates should be inspected for  being
+distressed and repaired as needed.  
+Note: The transmission adapts must be reset if the pump cover is replaced to address this
+concern.  
+This PI will update to a bulletin in the futur e
+Parts Information
+Part Number  Description QTY
+24248573 COVER KIT,A/TRNS FL UID PUMP 1
+24224147 PLATE ASM-1-2-3-4 CL U 6
+24258080 PLATE,1-2-3-4 CLU(STEEL) 5
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation.
+Reference the Applicable W arranties section of Investigate V ehicle History (IVH) for
+coverage information.
+Labor Operation  Description  Labor Time
+8465050 (Use if no
+concerns are found withOil Pump Replacement Use Published Labor Operation
+Time
+the stator support bolts or
+cover).
+8466410 (Use if the stator
+support bolts are loose or
+the gask et is misaligned)1-2-3-4 Clutch Plate
+ReplacementUse Published Labor Operation
+Time
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

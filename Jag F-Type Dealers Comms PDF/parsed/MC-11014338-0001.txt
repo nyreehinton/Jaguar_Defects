@@ -1,0 +1,12 @@
+   
+SSM 53373   2020-2025 Aviator - Auto Air Refresh Equipped (Minor Feature
+Code G1DAG) - Buzzing/Clicking/Humming/Ticking Sound From OHC And/Or
+P24AE DTC In The HVAC Module - Lower Level Service Part
+Some 2020-2025 Aviator vehicles equipped with auto air refresh option (minor feature code G1DAG) may
+exhibit a buzzing/clicking/humming/ticking sound from the overhead console (OHC) and/or diagnostic trouble
+code (DTC) P24AE in the heating ventilation and air conditioning (HVAC) module. To confirm if a vehicle is built
+with a certain minor feature code, review the build information by double-clicking the vehicle identification
+number (VIN) in the upper left corner in the Professional Technician System (PTS). If diagnostics lead to the in-
+vehicle air quality particulate sensor as the causal part, a new lower level part is available. It is not necessary
+to replace the OHC assembly if only the sensor is suspect. Use part number L1MZ-19F666-A to resolve the
+concern.

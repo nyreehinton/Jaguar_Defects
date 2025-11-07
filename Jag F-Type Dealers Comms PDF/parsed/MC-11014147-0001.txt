@@ -1,0 +1,59 @@
+Polestar   Service and Parts Business
+ T echnical Journal
+TITLE:
+Low Tire Pressure warning and DTC BCM-C007768
+REF NO:
+TJ 36243.2.0ISSUING DEPARTMENT:
+T echnical ServiceCAR MARKET:
+United States and Canada
+PARTNER:
+3 US 7515 PolestarISSUE DATE:
+2024-12-05STATUS DATE:
+2025-01-10
+FUNC GROUP:
+3674FUNC DESC:
+Tire pressure monitoring  
+control systemPage 1 of 2
+Produced and printed in the USA and available as an electronic document.
+© Polestar 2025Rows beginning with * are modified        
+Note! If using a printed copy of this T echnical Journal, first check for the latest online version.
+DESCRIPTION:
+*Service and VST OP NO updated
+If there is a warning message in the DIM about Low tire pressure together with DTC BCM-C007768, 
+please follow advice under Service.
+CSC   Customer Symptom Codes
+Code Description
+21 Warning lights and chimes/Tire pressure monitoring, Low tire pressure warning
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault T ype
+BCM2 C007768 Permanent
+BCM2 C007768 Intermittent
+Vehicle T ype
+T ype EngEng 
+DescSales Body Gear Steer Model Y ear Plant Chassis rangeStruc Week 
+Range
+534 2021-2099 0000001-9999999 202007-209952
+Page 2 of 2 2025-01-10
+T echnical Journal 36243.2.0SERVICE:
+Please check the tire pressures, if these are OK calibrate the iTPMS system.
+*A software solution is introduced from version 3.3.16, perform a software upgrade according to TJ 
+35361.
+*After the basic checks, initiate TPMS Store Pressure using the following method:
+*Start the engine and with vehicle standing still initiate calibration of Tire Monitoring system according 
+to Owners Manual.
+*The car should then be driven between 50-100 km/h (31-62 mph) for 20 minutes and then the tire 
+pressure should be stored as the preferred tire pressure.
+  
+Warranty claim info:
+T o get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP number 
+stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software control module downloading
+LABOR TIME:
+Labor time subject to change without notice.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report Polestar” and sub concern area “Support not needed Polestar”, use 
+function group 3674.

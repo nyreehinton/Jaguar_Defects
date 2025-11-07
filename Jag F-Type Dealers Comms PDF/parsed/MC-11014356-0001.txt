@@ -1,0 +1,840 @@
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+ 
+ 
+Warning:  
+Comply with the vehicle preparation measures for maintenance and repair procedures. Refer to the official 
+Workshop Manual, “General instructions about the vehicle”.  
+If in any doubt regarding this procedure, please contact your B UGATTI  regional after sales manager with questions 
+regarding the procedure.  
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  1 
+ 
+Service Cam paign  
+1. APPLICABILITY  
+ 
+BUGATTI Chiron  Super Sport  & Centodieci  
+ 
+2. VIN RANGE  
+ 
+• List at the end of the document.  
+• Contact your BUGATTI regional service manager.  
+ 
+3. MARKET REGION  
+ 
+☒ All 
+☐ North America  ☐ Middle East  ☐ Europe  ☐ Japan  
+ 
+ 
+4. BULLETIN OBJECT  
+ 
+The four oil pipes associated with the turbocharger s are to be replaced  on 1600 H P engine.  
+ 
+5. DESCRIPTION  
+ 
+After internal verification , the turbocharger oil pipe s are reco mmended  to be replaced in order to 
+increase durability.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oil pipes to be replaced  
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+2 
+ Service Campaign  
+6. REQUIRED SPECIAL PARTS  
+ 
+Designation  Comments  Quantity  Reference  
+Oil Pipe Sub Assembly  Oil Pipe Turbocharger  1 07E 145 141 L  
+Oil Pipe Sub Assembly  Oil Pipe Turbocharger  1 07E 145 140 L  
+Seal  Seal  turbocharger  4 07E 145 113 
+Oil Valve  Oil Valve  turbocharger  4 07E 133 528A  
+Screw   Turbo charger s crew   8 N 910  488 04 
+ Nut Monocoque  10 WHT 001 458  
+Screw  Engine mounting screws  4 WHT 002 027  
+Screw  Rear frame screws  8 WHT 002 018  
+Screw  Upper cross member  4 WHT 007 577  
+Nut Upper cross member  2 WHT 001 457A  
+Screw  Lower cross member  10 WHT 007 579  
+Screw  Engine mounting  4 WHT 002 028  
+Nut Catalytic converter  8 N 102  090 07 
+Seal  Catalytic converter  2 5B4  251 235 
+Seal  Catalytic converter  4 07E 253 232B  
+Nut Catalytic converter  16 WHT  000 107 
+ 
+ 
+7. REQUIRED TOOLS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Designation  Quantity  Reference  
+WORKSHOP CRANE  1 - 
+ENGINE TABLE  1 VAS 6131  
+ENGINE HOLDER  1 BVK 098 100  
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+3 
+ Service Campaign  
+8. PROCEDURE  
+ 
+ 
+ 
+ 
+ 
+ 
+8.1. PREPARATION  (CHASSIS DESASSEMBLY)  
+ 
+• Side panels L + R must be removed (Workshop manual – Body – Exterior).  
+• Rear Bumper must be removed (Workshop manual – Body – Exterior)  
+• Chassis must be split ( Workshop manual  - Installing and removing the direct -shift 
+gearbox DSG) . 
+• Powertrain  + Rear chassis frame  must be carefully installed on VAS 6131  equipped with 
+BVK 098 100 . 
+• Powertrain  must be carefully a ttached  to the VAS 6131 using  ratchet  strap . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.2. REAR FRAME D ISASSEMBLY  
+ 
+• Electrical connection must be disconnected from the E -boxes L + R . 
+• Complete Rear frame subassembly must be carefully removed . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Comply with the instructions in the chapter “General instructions” → page 27 . 
+- Following the workshop manual instruction for every operation  
+- Cleanliness must be ensured all along the procedure.  
+ 
+Ratche t strap  
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+4 
+ Service Campaign  
+8.3. REAR LEFT CROSS MEMBER D ISASSEMBLY  
+ 
+• Remove the rear  left brake  caliper s + brake disc.  
+• Remove the rear left wheel shaft.  
+• Disconnect the subcomponents  from the engin e (Engine oil pipes,  wires…)  
+• Remove Carbon air intake pipes . 
+• Carefully attach the rear left cross member usin g workshop crane.  
+• Remove the fastening  screw s and nut of the upper cross membe r. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the fastening  screws  of the lower cross member.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the fastening  screw s from the mounting element . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Each operation must  be performed individually . 
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+5 
+ Service Campaign  
+• Remove the rear left cross member  with its subcomponents.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.4. TURBO OIL PIPES REPLACEMENT LEFT  SIDE  
+ 
+ 
+ 
+ 
+ 
+• Catalytic converter must be removed  (Quad 1/Quad 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Heatshield behind the catalytic converter must be removed  (Q1/Q2 & Q3/Q4 ). 
+• Fastening  screw s of the turbo charger oil pipes must be removed  (M10) . 
+• Remove the Banjo screw s on the turbocharger s (Q1 & Q2) . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Banjo screw  Cleanliness must be ensured all along the procedure to avoid foreign object s to enter the engine oil 
+system.  
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+6 
+ Service Campaign  
+• Connection nut (M17) of the oil pipes must be unfastened . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the turbo oil pipes.  
+• Remove the screws of the fixing  element and remov e it from the turbochargers (Q1 & Q2)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Carefully clean the  residual oil or foreign objects  around the area.  
+• Carefully install the new valve check (Q uad 1 & Q uad 2). 
+• Carefully install the new turbocharger oil pipes  (07E145140 L) and seals  (07E145113) . 
+• Screw the fastening screw s of the oil pipes (M10)  
+• Install the new fastening screw s (N 910 488 04 x4 ). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connection nut  
+Fixing screws  Fixing element  
+Fixing screws  
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+7 
+ Service Campaign  
+• Screw the connection nut.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Tighten the turbocharger oil pipes to the appropriate torque . 
+ 
+ 
+Designation  Part number  Quantity  Torque  
+Fixing screw (M10  x 20 ) N 101 705 12  2 40 Nm + -4 Nm 
+Fixing screw  N 910 488 04  4 20 Nm + 90°  
+Connection nut  07E145140 L  1 35 - 3 Nm 
+ 
+ 
+8.5. REAR LEFT CROSS MEMBER REASSEMBLY  
+ 
+• Re-assembly of the Rear left cross member must be performed in the reverse sequence of 
+removal (See Chapter 8.3). 
+ 
+8.6. REAR RIGHT CROSS MEMBER DISASSEMBLY  
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the rear right brake calipers + brake disc.  
+• Remove the rear right wheel shaft.  
+• Disconnect the subcomponents from the engine (Gearbox oil pipes, wires…)  
+• Remove Carbon air intake pipes.  
+• Carefully attached the rear right cross member using workshop crane.  
+ 
+ 
+ 
+ 
+ 
+ 
+Connection nut  
+   
+Each operation must be performed individually.  
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+8 
+ Service Campaign  
+• Remove the fastening screws and nut of the upper cross member.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the fastening screws of the lower cross member.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the fastening screws from the mounting element . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the rear right cross member with its subcomponents.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+9 
+ Service Campaign  
+8.7. TURBO OIL PIPES REPLACEMENT RIGHT SIDE  
+ 
+• Fastening  screws of the turbocharger oil pipes must be removed (M10).  
+• Remove the Banjo screws on the turbochargers (Q uad 3 & Quad 4 ). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Connection nut (M17) of the oil pipes must be un fastened . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove the turbo oil pipes.  
+• Remove the screws of the fastening  element and remove it from the turbochargers (Q uad 3  
+& Quad 4 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Banjo screw  
+Connection nut  
+Fixing screws  
+Fixing element  
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+10 
+ Service Campaign  
+• Carefully clean the residual oil or foreign  objects around the area.  
+• Carefully install the new valve check (Quad 3 & Quad 4).  
+• Carefully install the new turbocharger oil pipes (07E145140 L) and seals (07E145113).  
+• Screw the fastening  screws of the oil pipes (M10)  
+• Install the new fastening screws (N 910 488 04 x4).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Screw the connection nut.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Tighten the turbocharger oil pipes to the appropriate torque.  
+ 
+Designation  Part number  Quantity  Torque  
+Fixing screw (M10 x 20)  N 101 705 12  2 40 Nm + -4 Nm  
+Fixing screw  N 910 488 04  4 20 Nm + 90°  
+Connection nut  07E 145 141 L 1 35 + - 3 Nm  
+ 
+8.8. REAR LEFT CROSS MEMBER REASSEMBLY  
+ 
+• Re-assembly of the Rear left cross member must be performed in the reverse sequence of 
+removal (See Chapter 8.6). 
+ 
+ 
+ 
+ 
+ 
+ 
+Connection nut  
+Fixing screws  
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+11 
+ Service Campaign  
+8.9. CHASSIS REASSEMBLY  
+ 
+• Powertrain + Rear chassis frame must be removed from the VAS  6131  and reinstalled 
+as defined in the Workshop manual  (Workshop manual - Installing and removing the 
+direct -shift gearbox DSG).  
+ 
+• Perform the r eassembly of the  vehicle in the reverse  sequence as removal (Workshop 
+manual - Installing and removing the direct -shift gearbox DSG).   
+ 
+8.10. CHASSIS SET UP  
+ 
+• Perform chassis Set up as defined in the Workshop manual (Workshop manual – 
+Chassis).  
+ 
+9. ANNEXE (TABLE TIGHTENING TORQUE)  
+ 
+Designation  Comments  Quantity  Part number  Tightening Torqu e 
+Nut Monocoque  10 WHT 001 458  70 +/- 3.5 Nm  
+Screw  Engine mounting screws  4 WHT 002 027  35 +/ - 2 Nm  
+Screw  Rear frame screws  8 WHT 002 018  70 +/ - 3.5 Nm  
+Screw  Upper cross member  4 WHT 007 577  28 +/ - 1.5 Nm  
+Nut Upper cross member  2 WHT 001 457A  30 +/ - 1.5 Nm  
+Screw  Lower cross member  10 WHT 007 579  58 +/ - 3 Nm  
+Screw  Engine mounting  4 WHT 002 028  80 Nm 
+Nut Catalytic converter  8 N 102  090 07 40 +/ - 4 Nm  
+Nut Catalytic converter  16 WHT000107  40 Nm  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+12 
+ Service Campaign  
+10. VIN LIST  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAR EU ME ASIA
+S6.001 S6.002 S7.031 S7.013
+S6.004 S6.003 S7.010 S7.041
+S7.002 S6.005 S7.014 S7.083
+S7.003 S7.012 S7.015 S7.086
+S7.004 S7.011 S7.030 S7.092
+S7.006 S7.016 S7.025 S7.105
+S7.007 S7.001 S7.026 S7.113
+S7.032 S7.017 S7.033 S7.091
+S7.008 S7.018 S7.024
+S7.009 S7.019 S7.038
+S7.005 S7.020 CD7.010
+S7.034 S7.021 S7.050
+S7.035 S7.023 S7.052
+S7.037 S7.027 S7.049
+S7.042 S7.022 S7.068
+CD7.009 CD7.003 S7.069
+CD7.008 S7.036 S7.080
+S7.044 CD7.001 S7.093
+S7.045 S7.039 S7.106
+S7.046 CD7.002 S7.096
+S7.047 CD7.004 S7.099
+S7.048 S7.028 S7.108
+S7.053 CD7.005
+S7.051 CD7.006
+S7.058 S7.029
+S7.060 CD7.007
+S7.088 S7.040
+S7.059 S7.043
+S7.061 S7.054
+S7.062 S7.057
+S7.063 S7.084
+S7.067 S7.064
+S7.110 S7.066
+S7.071 S7.065
+S7.072 S7.073
+S7.078 S7.074
+S7.085 S7.076
+S7.081 S7.056
+S7.087 S7.077
+S7.082 S7.089
+S7.097 S7.075
+S7.101 S7.094
+S7.098 S7.095
+S7.090 S7.103
+S7.102 S7.079
+S7.109 S7.104
+S7.055 S7.070
+S7.107 S7.112
+S7.111 S7.100
+S7.500S
+h
+o
+r
+t
+ 
+V
+I
+NRegion
+ 
+ 
+ 
+BUGCS037_Tu rboc harger _oil_pipes_rep lacement _V2 
+ 
+BUGATTI AUTOMOBILES S.A.S.  
+1 CHÂTEAU SAINT -JEAN, DORLISHEIM • 67120 MOLSHEIM • FRANCE  
+BUGATTI.COM  
+ 
+ 
+ REGISTERED SEAT: MOLSHEIM, FRANCE. SHARE CAPITAL: 22.000.000 €  
+SIRET NO.: 433 873 437 00019. COMMERCIAL REGISTER: SAVERNE, FRANCE  
+PRESIDENT: CHRISTOPHE PIOCHON, EXECUTIVE DIRECTOR: HENDRIK MALINOWSKI  
+13 
+ Service Campaign  
+ 
+WARRANTY INFORMATION  
+ 
+OPERATION  REPAIR CODE  TIME  
+TURBO OIL PIPES REPLACEMENT  BUGCS037  65 Hrs 
+ 
+BUGATTI  Bulletins  are intended for use by experienced and trained technicians. If you lack the skills, tools, 
+equipment and a suitable workshop for any procedure described in this document, we suggest you leave such 
+repairs to an Authorized Bugatti Partner. See your BUGATT I Partner for advice on whether your vehicle may 
+benefit from the information contained within this document.  
+The information contained in this Bulletin is accurate at the date of publication. However, BUGATTI Automobiles 
+S.A.S. regularly updates technical information. Please check with your Bugatti Partner that the Bulletin you 
+intend to use contains the latest a vailable information.  
+ 
+© BUGATTI Automobiles S.A.S. All Rights Reserved  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIELD TECHNICAL INFORMATION VERSIONS HISTORY  
+VERSION  MODIFICATION  AUTHOR  DATE  
+V1.0  Creation  L.SANDT  17.12 .2024  
+V2.0  VIN list amended (Region informat ion added)  L.SANDT  10.02.2024  
+    

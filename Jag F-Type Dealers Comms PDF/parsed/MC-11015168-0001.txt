@@ -1,0 +1,50 @@
+WARRANTY ENHANCEMENT PROGRAM (WEP)
+ID No. AB1Q0
+Ref. No. QA-250219- N1
+Release Date 2-24-2025
+OVERVIEWCONVENTIONAL COOLANT LEVEL SENSOR –AB1Q0
+1 AB1Q0Due to an internal malfunction of the Coolant level sensor, the MIL may 
+be illuminated or the “Low coolant level” warning light may be illuminated intermittently with a “Low coolant” message on the instrument cluster regardless of the amount of coolant.
+SUBJECT VEHICLES
+Certain 22MY – 23MY Conventional Trucks equipped with a Cummins 
+B6.7 engine
+WARRANTY TERMS
+USE ONLY IF ABOVE CONDITIONS ARE PRESENT
+oWarranty  Enhancement  Program : Ten (10) years  and  185, 000 miles  
+from  the delivery  date  to the initial  end  purchaser,  or one  (1) year  and  
+unlimited  mileage from  March  1, 2025,  whichever  is longer,  will be 
+covered  by this  program .
+oFor any  other  failure  modes,  standard  warranty  conditions  will be 
+applied.  
+ 
+2PARTS BEFORE YOU BEGIN
+oRead  and  understand  all instructions and  procedures  before  you  
+begin  the work .
+oRead  and  follow  all WARNINGS  and  NOTICES  set forth  in this  
+publication . These  alerts  help  to avoid  damage to components,  
+serious personal  injury, or both .
+oPark  the vehicle on a flat,  level and  solid  surface .
+oPlace  the gear  shift  lever  in "Neutral" or "Park" .
+oApply  the parking  brake  firmly  and  confirm  parking  brake  activation .
+oTurn  off the engine  and  remove  the key from  the ignition  switch .
+oAlways  wear  safety  glasses  or goggles  to protect  your  eyes .
+oPlace  wheel chocks  in front  of and  behind  all wheels  to prevent  the 
+vehicle from  moving .
+AB1Q0Vehicle Model Year Part Number Part Description Quant. Req.
+2022- 2023 87469E0040 Coolant Level Sensor 1CONVENTIONAL COOLANT LEVEL SENSOR –AB1Q0
+REPAIR PROCEDURE
+oPlease refer  to the Hino  Service  Manual  for replacement  
+instructions . 
+ 
+3CLAIM APPLICATION
+Reimbursable  in accordance  with  the terms  and  policies  of the Hino  
+limited  warranties .
+COOLANT LEVEL  SENSOR REP LACEMENT :
+a)Claim  Type : EP
+b)Campaign No:  AB1Q0
+c)Warranty  code : 13221
+d)Original  failed  part : 9999999999
+e)Trouble  code : 98 
+f)Operation  code : 13250AOT  
+g)Labor  charge : 0.8 Hr. 
+AB1Q0CONVENTIONAL COOLANT LEVEL SENSOR– AB1Q0

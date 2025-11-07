@@ -1,0 +1,77 @@
+Volvo Chassis - VN (4) - Crank No Start
+or Engine Dying Issues
+ 
+Published 20 February 2025
+ 
+Valid For
+Volvo Chassis - VN(4)
+Models built until 17 January 2025
+ 
+ 
+This CBR solution addresses crank no start and engine dying issues in some VN(4) models
+caused by an incorrect fuel line configuration.
+ 
+ 
+1.0 Overview
+ 
+This CBR solution addresses crank no start and engine dying issues
+caused by an incorrect fuel line configuration in some VN(4) models. In
+these instances, the truck may run out of fuel and lose prime while the fuel
+level gauge still displays 1/4 tank of fuel available.
+ 
+This issue arises when the right-hand fuel tank supply and return fuel lines
+are improperly connected to the fuel tank. The suction and return lines may
+be mispositioned at the tank or frame pass-through. This problem may
+include a corresponding P008A00 fault code.
+ 
+ 
+2.0 Procedure
+ 
+ 
+ Preview Solution CBR-2431-2
+;Live UI2/28/25, 10:23 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 1/4
+ 
+2.1 Verify the Correct Fuel Line Configuration
+ 
+ 
+• Verify the correct fuel line routing using the following methods and the above image:
+    » The top-most tank passthrough must be routed to the front-most frame
+passthrough
+    » The bottom-most tank passthrough must be routed to the rear-most frame
+passthrough
+ 
+ 
+ 
+NOTE:  As pictured below , the Supply and Return lines are fitted with color coded caps and
+fittings. These color codings may be used to aid in verifying the correct routing.
+ 
+;Live UI2/28/25, 10:23 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 2/4
+      
+  
+ 
+ 
+ 
+2.2 Correct the Fuel Line Configuration
+    • If the fuel lines are determined to be mispositioned, reconfigure them to their
+correct
+    positions (as outlined above);Live UI2/28/25, 10:23 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 3/4
+2.3 T est the V ehicle
+    • After correcting the fuel line configuration, verify that the engine starts properly
+and
+    operates without interruptions
+ 
+ 
+ 
+ 
+Related links and attachments
+No links or attachments availableShare
+to others that might find it helpful
+Feedback
+Give feedback
+to help improve the content of this
+article
+;Live UI2/28/25, 10:23 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 4/4

@@ -1,0 +1,106 @@
+ 
+Brake noise on AMG vehicles
+Topic number LI42.10-P-063502
+Version 9
+Function group 42.10 - Service brake
+Date 2/3/25
+Validity All AMG model designations with steel or ceramic brakes
+(code B07)
+Reason for change Adding instructions for "2. specific axle work".
+Complaint
+Noises/ squealing from the service brake in various driving situations and ambient conditions.
+WIS-References
+Document number Title Note
+SI 00.00-P-0086A Guidelines for queries relating to tech-
+nical complaintsGuidelines for queries relating to tech-
+nical complaints
+Cause
+Frictional vibrations
+Remedy
+AMG brake systems are designed for high loads. This can result in noises under certain operating conditions and dri-
+ving styles. Please refer to the Operator's Manual for further information such as care and maintenance instructions
+(washing vehicle directly after heavy use and using approved cleaning agents).
+These are dependent on speed, brake pressure or ambient conditions such as temperature and air humidity.
+1. Beginning Diagnostics:
+a) Check whether, apart from this document, an additional document exists for the model series in question, and if so,
+work through it and then continue with1b.
+b) Check whether the complaint can be reproduced and at which axle or side the noises occur (ideally together with
+the customer while driving).
+c) Check the affected system for component wear, mechanical damage or localized overheating damage.
+1. Replace damaged components as necessary and re-assess noise concern.
+d) Secure vehicle on a lift.
+1. Start the engine and depress the brake pedal 3-4 times.
+2. Check each wheel to see if they turn freely by hand.
+3. If a wheel is not turning freely by hand, this needs to be addressed prior to re-assessing the noise concern.
+e) Assess condition of brake rotors and pads per WIS and visually (i.e. long periods of stagnation, etc...).
+2. Specific Axle Work:
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 4
+ 
+NOTE:  If brake pad has a metal backing plate, there is no need to affix the adhesive film.
+a) If the noises are coming from the front axle => Affix linings with adhesive film (see attachments for front axle). If
+backing plate is installed on pads, move to step 3.
+1. Remove brake linings of front axle.
+2. Clean all contact points on brake lining and brake caliper/carrier.
+3. Clean bonding surface (where pistons contact back of brake pad). Apply adhesive film to the backplate of the
+piston-side brake lining. For 6 piston calipers, only in the area of the center piston. For other piston caliper confi-
+gurations less than 6, apply where the piston(s) makes contact with the back of the pad.
+4. Chamfer edges (round off sharp leading edges) on brake pads. See picture "Chamfered Pads".
+5. After installing the brake linings, actuate the brake for 30 seconds.
+b) If the noises are coming from the rear axle => Affix linings with adhesive film and grease the lining as per the speci-
+fication (see attachments for rear axle).
+1. Remove brake pads of rear axle.
+2. Cleaning all contact points on brake lining and brake caliper/carrier.
+3. Grease contact points (red areas) between brake lining and guide of brake caliper with heat-resistant lubricating
+paste.
+4. Clean bonding surface (where pistons contact back of brake pad). Apply adhesive film to the backplate of the
+piston-side brake lining.
+5. Chamfer edges (round off sharp leading edges) on brake pads. See picture "Chamfered Pads".
+IMPORTANT:  Be absolutely certain to not allow paste between friction surfaces of the pad and disc!
+3. Brake Bedding Process:
+a) Before trip, the mileage incurred must be clarified with the customer (approx. 30 miles).
+b) Select a suitable route so speeds of approximately 65 MPH can be achieved.
+c) Brake the vehicle 15 times with a brake pressure of approx. 30 bar (have the passenger read it out using XENTRY)
+from 62 MPH to 30 MPH (no emergency stops and no braking in the ESP control range). Maintain a cooling distance
+of approx. 1 mile between brake applications.
+d) Finally drive approx. 3 miles to allow the system to cool.
+e) Reassess noise.
+Attachments
+File Description
+6 Piston Adhesive Location.png
+ 6 Piston Adhesive Location
+Rear Pad Grease Area.png Rear Pad Grease Area
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 4
+ 
+Chamfered Pads.png
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 4
+ 
+Chassis/suspension  > Brake system  > Service brake  > Noises  > General
+Chassis/suspension  > Brake system  > Service brake  > Noises  > Squeals
+Chassis/suspension  > Brake system  > Service brake  > Noises  > Whirring/howling
+Chassis/suspension  > Brake system  > Service brake  > Noises  > Makes noise
+Parts
+Part number ES1 ES2 Designation Quantity Note EPC
+3M F9469PC Alternate Adhesive Transfer
+Tape1 Sourced Locally X
+A001 989 87 51 Heat-resistant lubricating paste <1 X
+A 190 423 32 00 Adhesive Transfer Tape 1 Modify to fit. May use alternate. X
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  4 / 4

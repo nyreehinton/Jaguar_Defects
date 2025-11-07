@@ -1,0 +1,213 @@
+Service Campaign S4343  February  2025  
+ 
+Aftertreatment Hydrocarbon Injector ( AHI) Module Fuel Pressure 
+Sensor   
+ 
+Service Category Service  
+ 
+Section Function Group 233 
+ 
+Technician Skill Level  A        Market North America  
+Applicability   
+VOLVO  
+      Years  Models   
+  2024, 2025  VN(4), VN, VHD,  VAH   
+   
+Introduction    
+Volvo Trucks has determined that a select group of trucks were built with an AHI Module 
+fuel pressure sensor which does not meet our specifications. A sensor that falls outside 
+of specifications may  result in diagno stic trouble codes  (DTCs ) and improper operation  of 
+the aftertreatment system. Please follow the instruction in th is document to install an 
+updated AHI fuel pressure sensor.  
+ 
+Production Change Information  
+This bulletin applies to vehicles built within the specified production changes below.  
+Brand  Engine  Emission Level  Starting Build Date  Ending Build Date  
+Volvo  D13, D11 EM-USA21,  EM-USA24  8-December -2023 19-September-2024 
+ 
+Warranty Information  
+This repair is covered by an authorized Service Program. Reimbursement is 
+obtained through the normal claim handling process.  
+Claim Type (used only when uploading from the Dealer 
+Bus. Sys.)  B 
+Main Labor Code  Description  Hours  
+2339 -03-02-05 Fuel Pressure Sensor Replacement  Time will vary  by 
+VIN. Refer to Impact 
+for SRT amount.  
+Causal Part   22899626  
+SCC Authorization 
+Code  S4343 
+Expiration Date  February  28, 202 6 
+ 
+ 
+ 
+Service Campaign S4343 February  2025  
+ 
+Aftertreatment Hydrocarbon Injector (AHI) Module Fuel Pressure Sensor  
+ 
+Parts Information   
+ 
+ Repair Procedure  
+1. Park the vehicle on level surface.  
+2. Apply parking brake.  
+3. Place the transmission in park or neutral.  
+4. Turn off ignition.  
+5. Install wheel chocks.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part Numbers  Part Names  Quantity  
+22899626  Pressure Sensor   1 
+
+Service Campaign S4343 February  2025  
+ 
+Aftertreatment Hydrocarbon Injector (AHI) Module Fuel Pressure Sensor  
+ 
+6. Decommission the low voltage system.  
+•  For all models EXCEPT for VN(4) model truck s only the  cable  from the negative 
+term inal needs to be disconnected .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• For VN(4) model trucks please follow Impact operation 3100 -09-01-06 Low 
+voltage system decommissioning.  
+7. Unlatch and raise the hood.  
+8. Disconnect the fuel pressure sensor connector.  
+9. Move aside the harness.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Service Campaign S4343 February  2025  
+ 
+Aftertreatment Hydrocarbon Injector (AHI) Module Fuel Pressure Sensor  
+ 
+10. Clean the area around the sensor to prevent debris from entering the system.  
+11. Remove the sensor.  
+12. Remove the O -ring.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13. Install the new sensor.  
+14. Torque the sen sor.  
+Tightening torque  
+AHI (Aftertreatment Hydrocarbon Injector) pressure sensor  25 ±3 Nm 
+(18 ±2 lbf⋅ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Service Campaign S4343 February  2025  
+ 
+Aftertreatment Hydrocarbon Injector (AHI) Module Fuel Pressure Sensor  
+ 
+15. Connect  the connector.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16. Commission the low voltage system.  
+•  For all models EXCEPT for VN(4) trucks, connect the cable to the negative 
+termina l.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• For VN(4) model trucks please follow Impact operation 3100 -09-01-05 Low 
+voltage system commissioning.  
+17. Start engine.  
+18. Check for leakage.  
+19. Stop engine.  
+20. Lower and latch hood.  
+
+Service Campaign S4343 February  2025  
+ 
+Aftertreatment Hydrocarbon Injector (AHI) Module Fuel Pressure Sensor  
+ 
+21. Connect to the la test version of PTT.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. Clear any DTCs related to  this repair . 
+23. Disconnect from PTT.  
+24. Remove wheel Chocks.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25. Release truck.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

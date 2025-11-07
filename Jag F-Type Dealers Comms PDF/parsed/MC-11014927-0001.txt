@@ -1,0 +1,265 @@
+  Copyright 2025 Ford Motor Company  
+ 
+Service Engineering Operations        Ford Motor Company  
+Customer Service Division         PO Box 1904  
+          Dearborn, Michigan 48121  
+ 
+February 12 , 2025  
+TO: All U.S. Ford and Lincoln Dealers  
+SUBJECT:  Customer Satisfaction Program 23P22  – Supplement #1  
+Certain 2024 Model Year Ranger with Ford Licensed Accessory Bed Cap Added 
+Load Box Reinforcement Bracket Kit Installation  
+REF:  
+ Customer Satisfaction Program 23P22  
+Dated February 7, 2024  
+New!  REASON FOR THIS SUPPLEMENT  
+• Affected Vehicles:  The build date range has been updated. 
+• Owner Refunds: Owner refunds are no longer approved for this program . 
+• Labor Allowances Parts Ordering Information: A labor operation for inspection and Parts 
+ordering information have  been added.  
+• Technical instructions: An inspection step and photos have been included.  
+PROGRAM TERMS   
+This program will be in effect through July 31, 2025, for vehicles within the new bumper -to-bumper 
+warranty coverage period. 
+New!  AFFECTED VEHICLES  
+Vehicle Model Year  Assembly Plant Build Dates 
+Ranger  2024 Michigan January 4, 2024 through September 19 , 2024 
+Affected vehicles are identified in OASIS and FSA VIN Lists.  
+Note : Vehicles built after September 19 , 2024 , no longer require the load box reinforcement brackets 
+to be installed. 
+REASON FOR THIS PROGRAM  
+For customers who have purchased a Ford Licensed Accessory Bed Cap (VR1WZ-99501A42-
+AA/AB/AC/AD/AE/AF/AG/AJ/W/C) through their Ford dealership, Ford recommends the installation of a load box reinforcement bracket kit to improve the structural performance of the bed when used in 
+extreme off-road conditions. This program covers the installation of ONLY the load box reinforcement bracket kit. 
+New!  SERVICE ACTION 
+Before delivering any new in-stock vehicles equipped with a Ford Licensed Accessory Bed Cap (VR1WZ-99501A42-AA/AB/AC/AD/AE/AF/AG/AJ/W/C), or installing the Ford bed cap on sold vehicles 
+involved in this program, where the customer has purchased a Ford Licensed Accessory Bed Cap (VR1WZ-99501A42-AA/AB/AC/AD/AE/AF/AG/AJ/W/C), dealers are to inspect for the updated load 
+box reinforcements and if not present, install the load box reinforcement bracket kit.  This service must 
+be performed on all applicable vehicles at no charge to the vehicle owner.  
+OWNER NOTIFICATION MAILING SCHEDULE  
+Owner letters will not be mailed for this program. 
+  Copyright 2025 Ford Motor Company  New!  ATTACHMENTS   
+• Administrative Information 
+• Labor Allowances and Parts Ordering Information 
+• Technical In structions  
+QUESTIONS & ASSISTANCE  
+For questions and assistance, contact the Special Service Support Center  (SSSC) via the SSSC Web 
+Contact Site. The SSSC Web Contact Site can be accessed through the Professional Technician 
+System  (PTS) website  using the SSSC link  listed at the bottom of the OASIS VIN report screen or 
+listed under the SSSC tab. 
+  
+Customer Service Division 
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 1 of 3 
+Customer Satisfaction Program 23P22 – Supplement #1 
+MOBILE SERVICE REPAIR ASSESSMENT LEVEL  
+• All repairs in this program have the following assessment level.: 
+  - Not a Mobile Service Repair  
+OASIS ACTIVAT I ON  
+OASIS will be activated on February 12 , 2025.  
+FSA VIN LIST S ACTIVAT ION  
+FSA VIN List s will be a vailable through https://web.fsavinlists.dealerconnection.com  on Febr uary 12 , 
+2025.   
+SOLD VEHICLES  
+• Correct affected vehicles identified in OASIS and that have purchased the Ford Licensed 
+Accessory Bed Cap, which are brought to your dealership within the applicable bumper -to-
+bumper warranty coverage period.  
+• Dealers are to prioritize repairs of customer vehicles over repairs of new and used vehicle 
+inventory.  
+STOCK VEHICLES  
+• Correct all affected units in your new vehicle inventory  that are equipped with a Ford Licensed 
+Accessory Bed Cap before delivery.  
+BRANDED / SALVAGED TITLE VEHICLES  
+Branded / salvaged title vehicles  are eligible for this service action. 
+New!  OWNER REFUNDS  
+Refunds no longer apply  for this program. The load box reinforcement kit is ordered separately from 
+the bed cap and should be claimed following standard FSA claiming.  
+RENTAL VEHICLES  
+Rental vehicles  are not a pproved for this program. 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 2 of 3 
+Customer Satisfaction Program 23P22 – Supplement #1 
+REPAIR PHOTO SUBMISSION  
+Ford has requested photo evidence of repair completion for this FSA. For claim reimbursement please 
+submit photos that clearly show the vehicle VIN, load box reinforcement bracket kit installed, and Ford 
+Licensed Accessory Bed Cap installed. 
+• Photos can be attached using the Mobile PTS “Report a Vehicle Concern”. You can 
+access Mobile PTS using your mobile device at: 
+https://m.fordtechservice.dealerconnection.com/ . 
+Note:  If you have never used the Web-Based report a vehicle concern- you will need to 
+create your User Profile before accessing “Report a Vehicle Concern” on Mobile PTS. 
+Instructions on how to create a user profile and submit photos can be found in EFC08860. 
+Note:  Ensure that your “User Profile” is added/updated to include your STARS ID. This 
+can be done by accessing your User Profile directly at: 
+https://www.gcr.dealerconnection.com/asp/DealerProfile.asp ;  
+• After completing the report entry form you can upload a maximum of 5 attachments at once.  
+o If submitting more than one attachment (photo), the files must be saved to the mobile device you’re using, before submitting the report.  
+o If submitting one attachment (photo), you can capture the photo during the report submission when asked to add the attachment. 
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 3 of 3 
+Customer Satisfaction Program 23P22 – Supplement #1 
+ADDITIONAL REPAIR (LABOR TIME AND/OR PARTS)  
+Additional repairs identified as necessary to complete the FSA should be managed as follows:  
+• For vehicles within new vehicle bumper -to-bumper warranty coverage, no SSSC approval is 
+required, although related damage must be on a separate repair line with the “Related 
+Damage” radio button checked.  
+o Ford vehicles – 3 years or 36,000 miles  
+• For vehicles outside new vehicle bumper -to-bumper warranty coverage, submit an Approval 
+Request to the SSSC Web Contact Site before completing the repair.  
+New!  CLAIMS PREPARATION AND SUBMISSION  
+• Technician Competency Requirement:  The STST Competency 10 certification requirement 
+in the U.S. market only will be enforced starting with repair orders opened on or after August 31, 2024. FSA repairs will reject, and the claim will not be paid if the repairing technician is not 
+certified in STST Competency 10 FSA. See EFC15332 for more details.  
+• Claim Entry : Enter claims using Dealer Management System (DMS) or One Warranty 
+Solution (OWS) online.  
+o When entering claims : 
+ Claim type 31: Field Service Action.  
+ Sub Code: 23P22 
+ Customer Concern Code (CCC): B19 – Other body panel trouble  
+ Condition Code (CC): 42 – Does not operate properly  
+ Causal Part Number: 2600038, Quantity 0  
+o For additional claims preparation and submission information, refer to the Recall and 
+Customer Satisfaction Program (CSP) Repairs in the OWS User Guide. 
+• Related Damage/Additional labor and/or parts: Must be claimed as Related Damage on a separate repair line from the FSA with the same claim type and subcode as described in Claim 
+Entry above. 
+IMPORTANT:  Click the Related Damage Indicator radio button.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 1 of 2 
+Customer Satisfaction Program 23P22 – Supplement #1 
+New!  LABOR ALLOWANCES  
+Description Labor Operation Labor Time  
+Inspect for updated load box bracing - Bracing present  23P22A 0.3 Hours  
+Inspect for updated load box bracing - Bracing NOT present 
+-Install load box reinforcement bracket kit. 23P22B 1.6 Hours  
+Time allowed to submit photos.  23P22Z Z 0.2 Hours  
+New!  PARTS REQUIREMENTS / ORDERING INFORMATION  
+Ford Licensed Accessory Bedcaps that are ordered after September 12, 2024, will no longer come 
+with the load box reinforcement bracket kit. The bracket kit will need to be ordered separately.   
+Service Part Number  Claim 
+Quantity  Package Order 
+Quantity  Number in Package Description 
+VN1WZ -2627726-A 1 1 1 Load Box Reinforcement Br acket Kit 
+– Ranger  
+VN1WZ -2627726-B 1 1 1 Load Box Reinforcement Br acket Kit 
+– Ranger  Raptor 
+Order your parts requirements through normal order processing channels. To guarantee the shortest 
+delivery time, an emergency order for parts must be placed.  
+New!  DEALER PRICE   
+For the latest prices, refer to DOES II. 
+New!  EXCESS STOCK RETURN  
+The excess  stock returned for credit must have been purchased from Ford Customer Service Division 
+by Policy Procedure Bulletin 4000.  
+New!  REPLACED FSA PARTS INSPECTION AND SIGN OFF  
+Effective March 1st, 2021 , all parts replaced as part of an FSA repair with a repair order open date of 
+March 1st, 2021, or later must be inspected and signed off on the repair order by a member of your 
+dealer  fixed operations management team or an employee of the task has been delegated to. If the 
+task is to be delegated to a non-management employee, the employee needs to be someone other than the technician who completed the repair and needs to understand the importance of completing 
+this task consistently and  accurately.  
+ 
+   
+ 
+     
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 2 of 2 
+Customer Satisfaction Program 23P22 – Supplement #1 
+New!  REPLACED FSA PARTS INSPECTION AND SIGN OFF  (continued) 
+• All parts replaced as part of an FSA repair should be returned to the parts department 
+following the Warranty Parts Retention and Return Policies.  
+• Inspect the replaced parts to verify the FSA repair was completed. 
+• If the FSA repair is found to be complete, the designated employee signs the repair order line 
+or parts return stamp area (electronic or hand signed) for the FSA repair indicating the parts were inspected and validated to have been replaced.  
+• After the parts have been inspected, they should be handled based on the guidance in the parts status report in the Online Warranty System (Hold, Return, CORE, Scrap, etc.). Please 
+visit FMCDEALER > PARTS & SERVICE > WARRANTY ADMINISTRATION & WARRANTY 
+PARTS RETURN for the latest Immediate Scrap List
+ information.  
+• This process is subject to review during warranty audits for FSA repairs with a repair order open date of March 1
+st, 2021, or later. Any eligible FSA claims requiring parts replacement 
+found not to have been inspected and signed off during a warranty audit will be subject to chargeback and consideration for enrollment into the Dealer Incomplete Recall Repair Process.  
+Note : Other approvals (electronic or handwritten) for add-on repair lines, dealer -owned vehicle 
+repairs, and repeat repairs do not qualify as FSA parts inspection approvals. The post-repair  FSA 
+parts inspection process (electronic or handwritten) is independent of other warranty approval 
+requirements. The approval by the designated employee implies that the FSA parts were found to be replaced and must be able to be identified on the Repair Order. If multiple FSAs require approval on a 
+single Repair Order, each applicable occurrence will require individual post -repair  approval by the 
+designated employee. 
+TECHNICAL INSTRUCTIONS 
+PAGE 1 OF 2
+ CUSTOMER SATISFACTION PROGRAM 23P22-S1
+CPR  ©  2025 FORD MOTOR COMPANY
+DEARBORN, MICHIGAN 48121
+02/2025
+CERTAIN 2024 MODEL YEAR RANGER WITH FORD LICENSED ACCESSORY 
+BED CAP ADDED — LOAD BOX REINFORCEMENT BRACKET KIT 
+INSTALLATION
+SERVICE PROCEDURE
+IMPORTANT! The Service Technician Specialty Training (STST) Competency 10 certification   
+             requirement in the U.S. market only will be enforced starting with repair orders
+              opened on or after August 31, 2024. Field Service Action (FSA) repairs will reject
+            and the claim will not be paid if the repairing technician is not certified in STST
+            Competency 10 FSA. See Electronic Field Communication (EFC)15936 for more   
+            details.
+1. Position the vehicle on a hoist. Follow the Workshop Manual (WSM) procedures in Section 100-02.
+2. Locate the load box reinforcement bracket installation area on both side of the vehicle. See Figure 1.
+ 
+NOTE: Right hand (RH) side shown, Left hand (LH) side similar.
+PLACE COPY HEREPLACE COPY HERE
+PLACE COPY HERESTUD FOR
+MISSING NUT
+STUD FOR
+MISSING NUTSTUD FOR
+MISSING NUT23679B
+LOAD BOX
+REINFORCEMENT BRACKET
+FIGURE 1
+TECHNICAL INSTRUCTIONS 
+PAGE 2 OF 2
+ CUSTOMER SATISFACTION PROGRAM 23P22-S1
+CPR  ©  2025 FORD MOTOR COMPANY
+DEARBORN, MICHIGAN 48121
+02/2025
+4.  Install the RH and LH load box reinforcement brackets following the instructions included in the kit.
+5.  Submit pictures of the vehicle VIN, updated load box reinforcement brackets installed, and bed cap         
+     installed using the Mobile PTS "Report a Vehicle Concern"
+     https://m.fordtechservice.dealerconnection.com/ .
+IMPORTANT NOTE: For damage or missing parts issues regarding the Ford Authorized Accessory  
+            Bed Cap or load box reinforcement bracket kit, please refer to the contact
+            information listed in the installation instructions included with the kits.
+IMPORTANT NOTE: Federal law prohibits selling motor vehicle parts or components that are   
+                       under safety, compliance, or emissions recall. Unless a part is requested to  
+           be returned to Ford, all parts replaced under this FSA must be scrapped in   
+                                  accordance with all applicable local, state and federal environmental 
+            protection and hazardous material regulations. Refer to the Parts Retention, 
+           Return, & Scrapping section of the FSA dealer bulletin for further information.3. Inspect to see if the updated load box reinforcement bracket is present on both sides. See Figure 2.
+ - Is the updated load box reinforcement bracket present?
+   YES - Passes inspection. This completes the FSA
+    NO - Does not pass inspection. Proceed to Step 4.
+NOTE: The main difference between the two brackets is the presence of holes on the corners of the   
+   bend. The updated brace has no holes and a smooth transition of the bend. 
+NOTE: Right hand (RH) side shown, Left hand (LH) side similar.
+PLACE COPY HEREPLACE COPY HERE
+PLACE COPY HERESTUD FOR
+MISSING NUT
+STUD FOR
+MISSING NUTSTUD FOR
+MISSING NUT23679ALOAD BOX
+REINFORCEMENT
+BRACKETLOAD BOX
+REINFORCEMENT
+BRACKETDOES NOT PASS PASS
+FIGURE 2

@@ -1,0 +1,42 @@
+AfterSalesJan 21, 2025
+Page 1 of 2E3.II Cayenne PHEV: DME P242100 - Fuel Tank Isolation Valve for Tank Ventilation
+System - Stuck Open
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne As of 2024 9YA
+AV1
+9YABN1
+9YACT1
+9YBAV1
+9YBBN1
+9YBCT1N /A N /A
+Revision History
+Revision Release Date Changes
+0 January 21. 2025 Original document
+Condition
+Customer complains of the check engine light on. Workshop scanned vehicle and found DME fault P242100 - Fuel 
+Tank, Isolation valve for tank ventilation system stuck open.
+NOTE: This document is separate from ATI Group 2 2412 for E3.I (MY19-23) Cayenne PHEV.
+Technical Background
+A weak DMTL pump in combination with an insufficiently sealed Fuel Tank Isolation Valve (FTIV/fuel tank pressure 
+regulator) may cause the aforementioned fault code.
+Service Information
+Please replace both  the DMTL and the FTIV (pressure regulator) with the newest available parts.
+Advanced Technical Information 2Bulletin #: 2501
+Part ID: 2026
+AfterSalesJan 21, 2025
+Page 2 of 2Warranty
+F or documentation and warranty invoicing, enter the working position and PCSS encryption specified
+b elow in the warranty claim:  
+PCSS encryption:
+Search Items 
+C ayenne, Fuel Tank, Ventilation, Isolation Valve, 9YA, Low Pressure, Pressure too Low, Not Airtight, Pressure regulatorAPOS Labor operation I No.
+20261900 Fuel tank pressure regulator remove and 
+reinstall
+Advanced Technical Information 2Bulletin #: 2501
+Part ID: 2026
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.
+A18961
+©2025 Porsche Cars North America, Inc.Location (FES5) 20260 Fuel tank pressure regulator
+Damage type (SA4) 5000 Leaks

@@ -1,0 +1,147 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-264
+Service BulletinDate: February, 2025
+INFORMATION
+Diagnostic Tips for 10L60/80/90 Transmission Noise
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+CadillacCT4
+2020 2025
+     M6F, ML1, ML2,
+ML4, MHO, MHS,
+MHT, MHU, MHW,
+MHX, MQA, MQB,
+MQC,CT5
+Escalade Models
+ChevroletCamaro 2020 2025
+Silverado 1500 2020 2021
+Silverado 1500 - LTD
+(RPO J21, VIN Digit
+5 = W/Y)
+2022 2022
+Silverado 1500 -
+New (RPO J22, VIN
+Digit 5 = A/D)
+Silverado 1500 2023 2025
+Suburban
+2020 2025
+Tahoe
+GMCSierra 1500 2020 2021
+Sierra 1500 - Limited
+(RPO J21, VIN Digit
+5 = 8/9)
+2022 2022
+Sierra 1500 - New
+(RPO J22, VIN Digit
+5 = H/U)
+Sierra 1500 2023 2025
+Yukon Models 2020 2025
+Involved Region or CountryUnited States, Canada, Middle East, Israel, Palestine, Australia/New Zealand, China
+GMPI
+Condition Some customers may comment on whine noises from the automatic transmission.
+Information To aid in transmission diagnosing, refer to the noise examples below.Subject:
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Potential Noises Found in Park
+Engine Off/Park- Transmission Auxiliary Pump Prime
+• 10LXX Transmissions equipped with auto start/stop contain an electronic G5 transmission fluid pump. Purpose
+is to maintain transmission fluid pressure during auto start/stop events.
+Page 2 February, 2025 Bulletin No.: 24-NA-264
+• When ambient background level is low (i.e., garage), customers may hear the auxiliary pump cycling for
+20 seconds as they approach the vehicle (Cadillac) or unlock the vehicle. This operation is normal.
+• 25°C (77°F) Transmission Temperature
+• 90°C (194°F) Transmission Temperature
+ 
+Park-Transmission Oil Pump Aeration/Cavitation
+Aeration is the introduction of air into the transmission fluid (pump inlet).
+Erratic whining sound due to uneven distribution of air.
+Cavitation occurs when cavities are formed due to a drop in fluid pressure (outlet).
+Rattling, whirling/roaring or grinding sounds are all possible.
+• 75°C (167°F) Pump Aeration Cavitation 900 RPM Steady State
+• 75°C (167°F) Pump Aeration Cavitation 650-1500 RPM Sweep
+ 
+Common Causes:
+• Low fluid level
+• Plugged/mis installed filter
+6769556
+• Torn/damaged filter O-ring
+• Transmission running max line pressure due to DTCs
+ 
+Park Transmission Oil Pump Gear Mesh Whine
+ 
+Unlike previous generation HD transmissions (6 speed), the 10 speed Allison model transmission utilizes a (3) spur
+gear design (driven off of the torque converter) to drive the transmission oil pump.
+Due to the 3 helical gear design, some transmissions may exhibit a whine noise while in park or driving and may get
+louder as engine speed or transmission temp increases.
+Bulletin No.: 24-NA-264 February, 2025 Page 3
+Isolating the whine to the oil pump gears can often be done by replicating the complaint in park and sweeping engine
+speed slowly from base idle to 2500 RPM.
+If whine can be reproduced in park, replacement of the transmission front support and/or transmission oil pump often
+corrects the whine complaint.
+Note: 4 Cylinder CSS engines (LSY/L3B) have the possibility of generating their own set of whine noises from
+balance shafts/timing drives that may make isolating whine more difficult.
+ 
+Park- Return to Park Blowoff Valve Chirp
+ 
+ 
+Possibly described as a faint, non-rhythmic chirping sound coming from underneath the vehicle in Park only and with
+engine speed ~ 1000 RPM (ETRS Only).
+A Chirp noise is caused by the Return-to-Park (RTP) blow-off valve becoming unseated due to line pressure spikes.
+Line pressure spikes occur because of clutch command cycling that takes place in park.
+Condition is considered normal if noise occurs just off idle speed ~1000 RPM in Park Only.
+ 
+Start Up/Garage Shift Clunk
+Described as an infrequent audible thud that delayed 400–700ms after either a key start or garage shift event.
+Severity of thud depends on the load that's placed on the driveline.
+Previous root cause work determined noise is related to the C2 clutch application at high line pressure causing the
+rotating components in park to stop too quickly.
+C2 clutch calibration has been modified to assure the C2 knockdown area is pressurized in park and neutral when
+C2 is being applied.
+6769524
+ 
+• Key Start
+• Garage Shift
+ 
+Page 4 February, 2025 Bulletin No.: 24-NA-264
+Common Complaints in Drive
+Reaction Gearset Whine (Gearset One)
+ 
+ 
+With variation in gear tooth finish and positional control, some customers may experience whine from the reaction
+planetary gearset during light to moderate driving conditions.
+Most common conditions to hear whine from the reaction gearset is in 4th and 5th gear (20-35 MPH) (32-56 KPH).
+Reaction gearset is active in gears 3-6 and 8-10 so depending on severity it may be possible to hear in gears other
+than 4/5.
+Frequency of whine will change as transmission shifts gears due to component rotation speeds being changed.
+Utilizing manual tap to shift through gears is a good way to verify what gears whine in present in.
+Note: Whine from the reaction gearset should not be present in 7th gear due to the 1:1 ratio and gears being locked.
+If whine is present in 7th gear, issue likely lives with some other component.
+ 
+Underbody Gear Rattle (7th Gear Only)
+6769588
+While rare, rattle during light acceleration (10–15% throttle) in 7th gear only may be observed.
+ 
+Size of the idler gear inner diameter can affect the interference fit of the pressed in bearing reducing the overall
+axial/radial clearance of the bearing balls.
+The gear free lock will increase or decrease depending on that interference fit:
+- High interference fit can create gear rattle
+- Low interference fit does not produce rattle
+Increasing line pressure can reduce rattle by overcoming the drag torque.
+Note: The feature to change line pressure using Techline Connect is not active, otherwise that would be a means to
+verify.
+ 
+Bulletin No.: 24-NA-264 February, 2025 Page 5
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 2
+ModifiedReleased November 26, 2024
+Revised February 13, 2025 - Added China to Involved Region or Country section.

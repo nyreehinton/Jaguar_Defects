@@ -1,0 +1,61 @@
+Involved Region or
+CountryNorth America
+ConditionBoth front heated and ventilated seats inoperative.  
+On further inspection it ma y be found that fuse F19RA is
+open.  
+If the fuse is replaced it ma y be oka y for a while or it
+may immediately go open again.
+CauseCircuit 639 shorted to ground on the driver or passenger
+seat back frame.
+Bulletin No.: PIT5855J
+Published date: 02/5/2025
+Preliminary Information
+PIT5855J Heated and Ventilated Seats Inoperative
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac XT5 2021 - 2025 All AllAll All
+Cadillac XT6 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:   
+Remove the front passenger seat back cover . 
+Inspect the harness in the seat back for chaﬃng.  
+The most lik ely areas are shown in the photos below , but there could be contact with the
+harness causing damage anywhere in the seat back.   
+If no damage is found to the circuits in the passenger seat back, inspect the driver's seat
+back in the same areas.
+ 
+ 
+The harness ma y need to be moved to see the area that is damaged.
+ 
+ 
+If no damage is found in this area, also inspect the harness along the side of
+the seat frame as shown in the two photos below .
+ 
+
+Version 10
+Modiﬁed09/23/2021 - Created on.  
+11/03/2021- Added XT5 and additional pictures  
+01/04/2022- Added direction to also inspect the
+driver's seat back in the same areas  
+01/10/2022- Added information to inspect all areas
+of seat back along with speciﬁc areas shown and
+correct fuse nomenclature.  
+02/22/2022- Added model year 2022 with
+breakpoint.  
+08/04/2022- Updated breakpoint to 9/19/2022.  
+10/26/2022-Updated model year to match updated
+breakpoint  
+05/12/2023-Removed breakpoint.  
+08/14/2024 - Added model year 2024.  
+02/05/2025- Added model year 2025
+ 
+Repair the damaged circuits following the correct procedure in SI for wire and
+connector repair . 
+ 
+Version History
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

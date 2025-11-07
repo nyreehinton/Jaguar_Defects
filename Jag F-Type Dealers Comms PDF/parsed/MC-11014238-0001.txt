@@ -1,0 +1,183 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-244
+Service BulletinDate: January, 2025
+WARRANTY ADMINISTRATION
+Warranty Administration – GM Accessories – Dealer-Installed, Repaired or
+Replaced During Warranty Coverage Period
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Buick
+GM Passenger Cars
+and Light Duty Trucks2026 and Prior — — — —Cadillac
+Chevrolet
+GMC
+Involved Region or Country United States, CanadaSubject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: Refer to Labor Time Guide (LTG)  for a complete list of applicable “Installation” and “Repair” labor
+operations. In some cases, it will be necessary to use the closest-to labor operation.To review accessory “Instal-
+lation” and “Repair” labor operations, select the following categories from the LTG main menu: General Information >
+Dealer Installed GM Accessory Installation/Repairs.
+Note: Accessory part numbers beginning with 19, example: 19xxxxxx, Refer to Associated/IBP section.
+Accessory Part Number See Instructions
+Accesso
+ry part
+numbersOn IVH vehicle
+build as Dealer
+Installed optionSee LPO section
+In IVH added
+options or not on
+build at allSee ACO section
+Accesso
+ry part
+numbers
+(begin
+with
+“19”)These are
+Associated
+Accessories
+which are sold
+over-the-counter
+and not part of
+the vehicle build.
+They will not
+appear in IVH.See Associated
+Accessories/IBP section
+Limited Production Option (LPO)
+LPOs are accessories that are factory invoiced options ordered at the time the vehicle order is completed.
+Under the guidelines for GM Parts Warranties, GM LPO Accessories permanently installed on a GM vehicle PRIOR
+to new vehicle delivery will be covered under the provisions of the Bumper-to-Bumper New Vehicle Limited Warranty
+(Canada Base Warranty).
+Page 2 January, 2025 Bulletin No.: 22-NA-244
+Labor Code 0590032 should be used to claim the time for dealer installation of LPOs. Eligible labor time for LPO
+installation can be found in the Labor Time Guide (LTG) under: General Information > Pre-Delivery Inspection > PDI
+– Dealer Installed – Factory Invoiced Options. Labor for installation of an LPO accessory must be claimed using this
+labor operation, not under the regular warranty repair labor operation.
+Select LPO accessories that require a calibration update as part of the installation must be submitted using a unique
+labor operation. The LTG as well as the installation instructions in SI will direct users to the correct labor operation in
+these cases.
+ 
+Basic LPO Installation Process:
+1. Check vehicle build in IVH for all “Dealer Installed” RPO/LPOs.
+2. Locating the correct accessory installation instructions:
+⇒Most GM Accessories come with a single-page sheet that includes the Instruction ID Part Number, which is
+searchable in the Service Information Accessories Manual.
+3. Always reference instruction sheets in SI for each new accessory installation, as instruction sheets may be
+updated with new information.
+Note: Some I-sheets include diagnostics
+4. Confirm all “Dealer Installed” accessories in vehicle build list are installed correctly on vehicle according to
+instructions in SI.
+5.IMPORTANT : If called for in the SI instructions, confirm all required calibration updates are installed. Record
+any applicable warranty claim codes generated during calibration events.
+5.1. Before performing programming via SPS, technicians must  contact the Techline Customer Support
+Center (TCSC) at 1-800-828-6860 English or 1-800-503-3222 French to have the appropriate Accessory
+calibration applied to the VIN.
+5.2. If programming is attempted BEFORE contacting TCSC, SPS will not deliver the correct accessory
+calibration to the vehicle. The user may also receive a message advising that they are attempting to
+program with the “same calibration” – a warning that the vehicle has not received the required accessory
+calibration.
+5.3. For additional details, refer to Service Bulletin # 22-NA-053: New Labor Operations for Limited Production
+Option (LPO) Calibrated Accessories.
+Accessory Catalog Offerings (ACO or over-the-counter)
+For all GM ACO accessories installed by a dealer or Accessories Distributor Installer (ADI), a ZSET transaction
+should be submitted in Global Warranty Management (GWM) using the appropriate “installation” labor operation
+found in the Labor Time Guide under General Information > Dealer Installed GM Accessory Installation . “Installation”
+labor operations are zero-dollar transactions (no labor, parts or net allowed) but will add the accessory to the vehicle
+build record in Investigate Vehicle History (IVH). This information will help dealers determine the warranty coverage
+of the accessory.
+Warranty repairs within the Bumper-to-Bumper New Vehicle Limited Warranty (Canada Base Warranty) coverage
+period are to be submitted as a ZREG Transaction Type using the applicable regular warranty repair labor operation.
+Warranty repairs after the Bumper-to-Bumper New Vehicle Limited Warranty (Canada Base Warranty) expires, but
+within the 12 months/unlimited miles (unlimited km) coverage from the time of installation, are to be submitted as a
+ZPTI Transaction Type using the applicable regular warranty repair labor operation.
+Accessories that require calibration updates as part of the installation may have the cost of the calibration covered in
+the price of the ACO accessory. In these cases, the instruction sheets found in SI will have a special labor code
+mentioned just for covering the cost of the calibration update.
+Basic ACO Installation Process:
+1. Confirm in the GM Electronic Parts Catalog (EPC)  and marketing information that the ACO accessory is
+compatible with the vehicle.
+2. Always reference instruction sheets in SI for each new accessory installation, as instruction sheets may be
+updated with new information.
+3. Confirm accessories are installed correctly on vehicle according to instructions in SI.
+Bulletin No.: 22-NA-244 January, 2025 Page 3
+4.IMPORTANT : If called for in the SI instructions, confirm all required calibration updates are installed. Record
+any applicable warranty claim codes generated during calibration events.
+4.1. Before performing calibration updates via SPS, technicians must  contact the Techline Customer Support
+Center (TCSC) at 1-800-828-6860 English or 1-800-503-3222 French to have the appropriate Accessory
+calibration applied to the VIN.
+4.2. If programming is attempted BEFORE contacting TCSC, SPS will not deliver the correct accessory
+calibration to the vehicle. The user may also receive a message advising that they are attempting to
+program with the “same calibration” – a warning that the vehicle has not received the required accessory
+calibration.
+Associated Accessories (IBP Accessories)
+Associated Accessories offered through our Integrated Business Partners (IBP) are covered by the individual
+accessory manufacturer. For warranty terms, contact information, and installation videos, please refer to the
+GM Accessories HQ in the GlobalConnect App Center . Associated Accessory warranty cards may also be
+available through your local Accessory Distributor Installer (ADI).
+Some Associated Accessories Supplying Manufacturers are:
+• Kicker Audio Systems
+• EchoMaster
+• AKG Harman
+• Borla
+• Curt
+• RealTruck (Roll-N-Lock, UnderCover, Bak, Retrax, Extang, Truxedo, Etc.)
+• Rugged Liner
+• Thule
+Note: For Technical Support, Dealers will need to contact the Supplier of the specific Associated Accessory. The
+supplier will support any installation or warranty concerns not GM Technical Assistance Center (TAC). Supplier
+Contact information is available through the GlobalConnect GM Accessory HQ app, your local Accessory Distributor
+Installer (ADI), and is also attached to the parts information within the GM Electronic Parts Catalog (EPC).
+Basic IBP Installation Process:
+1. Confirm in the EPC and marketing information that the IBP accessory is compatible with the vehicle.
+2. Confirm accessories are installed correctly on the vehicle according to instruction sheets found in the box.
+Examples of Associated Accessories that may not have Installation Information in Service Information / Accessory
+Installation Manual:
+• Sliding Bed Trays
+• Non-GM Tonneau Covers
+• Light Bars
+• Trailering or Dash Cameras
+• Speaker or Subwoofer Kits
+• Trailer or 5th Wheel Hitches
+• Trailer Brake Controllers
+Note: The GM Technical Assistance Center (TAC) is unable to assist with questions regarding these installation or
+repair of Associated Accessories. Dealers/technicians must contact the individual accessory manufacturer. 
+Submitting for IBP Associated Accessories Labor in Global Warranty Management
+Dealership labor for performing warranty repair or replacement of an Associated Accessory as directed by the
+accessory manufacturer may be claimed through GWM. Refer to Article 1.3.4 in the Parts and Accessories Policies
+and Procedures Manual for complete details. In Canada, please refer to the GM Parts Policies and Procedures
+Manual, section 7.3.3 General Motors (Dealer) Accessories Warranty. Submit labor using the following procedure:
+Page 4 January, 2025 Bulletin No.: 22-NA-244
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION1. Document the complaint, cause, and repair (correction) of the Associated Accessory on a repair order. Include
+the Associated Accessories Manufacturer name and service part name or GM part number, if instructed by the
+Associated Accessory manufacturer to replace the complete assembly.
+2. Submit a ZREG Transaction Type  in Global Warranty Management (GWM) for reimbursement of labor involved
+using the appropriate labor operation shown below. If your actual labor time falls within this range:
+• Up to 0.3 hr — Labor Op 0602608
+• 0.4 Up to 0.6 hr — Labor Op 0602708
+• 0.7 Up to 1.0 hr — Labor Op 0602808
+• 1.1 Up to 1.5 hr — Labor Op 0602908
+3. Submit the actual amount of labor in the Base Labor field.
+4. Submit up to $25.00 in the Net/Admin Allowance field to cover processing and handling of the replacement part
+with the Associated Accessories Manufacturer or the Accessory Dealer Installer (ADI).
+5. Enter the GM part number being repaired in the "Reference Number" field of the GWM transaction.
+6. Parts are prohibited and must NOT  be claimed on the transaction. Replacement of defective Associated Acces-
+sories are the responsibility of the specific accessory manufacturer.
+Version 5
+Modified Released December 07, 2022 – Corporate Service Bulletin Number 11-00-89-002E has
+now become Global format Service Bulletin 22-NA-244. This update adds the 2023
+Model Year and helps identify LPO, ACO, and IBP processes.
+Revised May 22, 2023 – Added the 2024 Model Year.
+Revised May 03, 2024 – Added the 2025 Model Year.
+Revised October 04, 2024 – Reformatted bulletin and updated information.
+Revised January 30, 2025 – Added the 2026 Model Year.
+Additional SI Keywords: Kicker, Curt, Echomaster, fold-a-cover, hitch, roll-n-lock

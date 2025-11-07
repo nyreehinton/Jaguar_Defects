@@ -1,0 +1,65 @@
+Involved
+Region or
+CountryNorth America
+Condition A customer ma y comment a Service High V oltage Message, Unable to
+Charge Message, or MIL is displa yed on the Dash. Due to P2980
+Cause1) A potential software anomaly ma y be present.
+ 
+Bulletin No.: PIP5994B
+Published date: 02/7/2025
+Preliminary Information
+PIP5994B MIL is Displayed on the Dashboard - P2980 set Current
+and or History
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Brightdr op600 eLCV 2024 - 2025 All AllAll All
+Brightdr opZevo 400 2024 All AllAll All
+Cadillac LYRIQ2023 A WD only and -
+2024All AllAll All
+Chevr olet Blazer EV 2024 All AllAll All
+Chevr olet Equino x EV 2024 All AllAll All
+Chevr olet Silverado EV RST 2024 All AllAll All
+GMCHUMMER EV
+Pickup2024 - 2025 All AllAll All
+GMC HUMMER EV SUV 2024 - 2025 All AllAll All
+GMC Sierra Denali EV 2024 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+1. With the vehicle in Service mode, use GDS2, verify if the vehicle has the following
+DTC; P2980 set as current or history .
+2. Verify if DTCs P0AA6, P0DAA , P302F , U2BFF or U359E are set as current or history .
+If any of the DTCs other than P2980 are present refer to: Diagnostic T rouble
+Code (DTC) List - V ehicle and follow published SI procedures.  
+3. For P2980 Program the K16 BECM with the latest calibrations from SPS2. Once the
+calibrations have been updated, and or validated to be current proceed to step four .  
+Labor Operation Description Labor Time
+2887878    P2980 Diagnosis & Repair   0.6 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 3
+Modiﬁed09/10/2024 - Created on.  
+09/20/2024 - Updated Model Y ears.  
+02/07/2025 - Updated Correction4. To verify vehicle is repaired two short drive cycles are required.  Drive the vehicle
+above 20 MPH for at least 5 seconds then stop vehicle and shift to park, repeat this
+step one more time.
+5. Once drive cycle is completed use GDS2 to verify code P2980 has not returned.  If
+code has returned see diagnostic tips below     
+Diagnostic Aid: 
+ communicate to the customer that contaminants (example: snow , ice, or
+moisture) in the charge port can also cause this DTC to set.. 
+If still setting current follow published diagnostic procedures in Service
+Information.
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

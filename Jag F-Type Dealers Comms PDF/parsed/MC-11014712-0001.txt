@@ -1,0 +1,102 @@
+ 
+Service Campaign  S4373  February  2025
+ 
+  
+ 
+Sleeper Cab Missing Spot Welds       
+ 
+Service Category Service Department   
+ 
+Section Function Group 810 
+ 
+Technician Skill Level  B      Market North America  
+   
+Applicability   
+Mack  
+Model Years  Models   
+ 2025    AN, PI   
+   
+Introduction  
+Mack Trucks has determined that certain Mack sleeper cab assemblies were possibly 
+manufactured with an insufficient number of welds across the rear flange of the upper 
+header. The reduced number of welds could lower the  designed cab integrity . Follow the 
+instructions below to inspect the header, drill, and add 30 M6 bolts with nuts if 
+necessary.  
+ 
+Production Change Information  
+This bulletin applies to vehicles built within the specified production changes below.  
+Brand  Engine  Emission Level  Starting Build Date  Ending Build Date  
+Mack  11L, 13L  EM-US21, EM -
+EU5, EM -EC01  07-May -2024 22-October -2024 
+ 
+Warranty Information  
+ 
+This repair is covered by an authorized Service Program.  
+Reimbursement is obtained through the normal claim handling process.  
+Claim Type (used only when uploading from the Dealer Bus. 
+Sys.)  B 
+Main Labor Code  Description  Hours  
+8554 -03-02-02 Headliner Replacement  3.2 
+1720-16-09-01 Campaign, Gen eral 0.1 x 10 1.0 
+Causal Part   82736455  
+SCC Authorization 
+Code  S4373 
+Expiration Date  February  28, 2026 
+ 
+Service Campa ign S4373 February  2025  
+ 
+Sleeper Cab Missing Spot Welds   
+ 
+Parts Information  
+ 
+Repair Procedure  
+1. Park the vehicle on  a level surface .  
+2. Apply parking brake .  
+3. Place the transmission in park or neut ral. 
+4. Turn off the ignition.  
+5. Install wheel chocks.   
+ 
+6. Disconnect the cable from the negative terminal.  
+ 
+7. Care fully r emove the headliner  and associated components  to gain access to the spot welds  
+at the front of the cab . 
+ 
+Part Numbers  Part Names  Quantity  
+984727  Bolt M6x25  30 
+990949  Nut M6  30 
+ 
+Service Campa ign S4373 February  2025  
+ 
+Sleeper Cab Missing Spot Welds   
+ 
+8. Locate the front header  flange  in between the A -pillars  and inspect for missing spot welds  
+along the pinch point at the top (see the location in the red boxes in the images  below) . 
+  
+ 
+
+ 
+Service Campa ign S4373 February  2025  
+ 
+Sleeper Cab Missing Spot Welds   
+ 
+9. Drill 30 equally spaced holes along the pinch point of the front header  using a 15/64’s drill 
+bit. Use the image s below as  a reference for where to drill IF THERE IS NO SPOT WELD  in 
+the locations marked by 109. 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4373 February  2025  
+ 
+Sleeper Cab Missing Spot Welds   
+ 
+10. Install M6 bolt through the front and torque tighten the nut on the back.  
+Torque Specification  
+10 ± 1.5 Nm ( 7 ± 1 ft -lbs) 
+11. Carefully r einstall the headliner and associated  components  once all bolts have been 
+installed.  
+12. Connect cable to negative terminal.  
+ 
+13. Return truck to service.  
+ 

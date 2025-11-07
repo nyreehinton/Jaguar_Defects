@@ -1,0 +1,127 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 01-08-42-001Q
+Service BulletinDate: January, 2025
+INFORMATION
+Exterior Lamp Condensation and Water Leak Information and Replacement
+Guidelines
+2025 and Prior GM Passenger Cars and Trucks (including Medium Duty
+Trucks)
+(Excluding LCF Medium Duty Trucks)
+Involved Region or Country: North America, Europe, Uzbekistan, Russia,
+Middle East, Iraq, Israel, Palestine, Argentina, Brazil, Bolivia, Chile,
+Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela, Japan, Cadillac
+Korea (South Korea), GM Korea Company, China, Taiwan, Thailand,
+Singapore, Philippines, Australia/New Zealand, Egypt, Other Africa, South
+Africa
+This bulletin has been revised to add the 2025 Model Year. Please discard Corporate
+Bulletin Number 01-08-42-001P.Subject:
+Models:
+Attention:
+Dealers in the U.S. and Canada Only:  Please follow Service Bulletin # 18-NA-306  and the pre-authorization
+process prior to warranty replacement of front headlamps in 2021 and newer model year vehicles.
+ 
+The following information is being provided to better define the causes of condensation in exterior lamps and
+includes guidelines for determining the difference between a lamp with a normal atmospheric condition (conden-
+sation) and a lamp with a water leak. If the lamp is determined to have condensation and not a leak, this should be
+explained to the customer and their lamp should not be replaced in warranty.
+Some exterior lamps, such as cornering, turn signal, backup, headlamps, side marker, fog lamps, or tail lamps may
+exhibit a fine mist or white fog (condensation) on the inside of the lamp lens. This may be normal during certain
+weather conditions or following a carwash.
+Condensation occurs when the lens surface, through atmospheric changes, reaches the “dew point.” When this
+takes place, the moisture in the air within the lamp assembly condenses, creating a fine mist or white fog on the
+inside surface of the lamp lens.
+Most exterior lamps on General Motors vehicles use a vented design. They are designed to remove any accumu-
+lated moisture vapor by expelling it through a vent system. The vent system always operates; however, it is most
+effective when the lamps are ON and when the vehicle is in motion. Depending on the size, shape, and location of
+the lamp on the vehicle, and the atmospheric conditions occurring, the amount of time required to clear the lamp
+may vary from 2 to 6 hours. Customers with short commutes will experience a longer time to clear the lamp. If a
+customer states that the moisture in their lamp “comes and goes”, this is likely condensation and not a leak and the
+lamp should not be replaced.
+Page 2 January, 2025 Bulletin No.: 01-08-42-001Q
+Condensation Examples (Do Not Replace Lamp Assembly Under Warranty)
+3789054
+3789057
+Bulletin No.: 01-08-42-001Q January, 2025 Page 3
+6267308
+Page 4 January, 2025 Bulletin No.: 01-08-42-001Q
+6267309
+A Fine Mist or White Fog on the Inside Surface of the Lamp Lens Occurring After a Period of High Humidity
+Important: Moisture is most noticeable during the Spring and Fall of each year, due to high humidity and the large
+fluctuation in temperature between day and night.
+Note: Any of the conditions listed below would indicate NOT to service / replace the lens or lamp assembly.
+• May be located primarily in the lens corners or edges
+• The condition should clear of moisture when the vehicle is parked in a dry environment, or when the vehicle is
+driven with the lights ON. Place the vehicle in a dry environment and turn on the lights for 60 minutes. Do not
+replace the lamp if the condition has significantly improved after 60 minutes.
+• A comparison of the equivalent lamp on the opposing side of the vehicle indicates a SIMILAR performance.
+(Condensation can occur in one or both lamps. Leaks are more likely to occur on one side at a time.)
+Note:  A different performance of lamps on opposite sides of a vehicle DOES NOT always indicate that one lamp is
+bad, and the other is normal. For example, on a cold day when the sun is hitting only one side of the vehicle, the
+normal condition of one side showing clear and the other showing fogging/moisture, could be misinterpreted as a
+bad lamp. The customer may comment that, or you may need to inquire if, the moisture “comes and goes.” Moisture
+“coming and going” is considered a normal condition.
+If the above conditions are noted, the customer should be advised that replacement of a lamp assembly may not
+correct this condition as it is likely a function of weather / other conditions outside the vehicle. The lamp assembly
+should not be replaced under warranty for this reason.
+Bulletin No.: 01-08-42-001Q January, 2025 Page 5
+Water Leak Examples
+3803382
+3789062
+Page 6 January, 2025 Bulletin No.: 01-08-42-001Q
+3789063
+Numerous & Various Size Drops of Water Collecting on the Inside Surface of the Lamp Lens
+Note: Any of the conditions listed below would indicate the need to service the lens or lamp assembly.
+• An accumulation of water in the bottom of the lamp assembly.
+• A condition that WON'T clear when the vehicle is parked in a dry environment, or when the vehicle is driven with
+the lights ON.
+• A comparison of the equivalent lamp on the opposing side of the vehicle indicates a different performance.
+Note: A different performance of lamps on opposite sides of a vehicle DOES NOT always indicate that one lamp is
+bad, and the other is normal. For example, on a cold day when the sun is hitting only one side of the vehicle, the
+normal condition of one side showing clear and the other showing fogging/moisture, could be misinterpreted as a
+bad lamp. The customer may comment that, or you may need to inquire if, the moisture “comes and goes.” Moisture
+“coming and going” is considered a normal condition.
+Bulletin No.: 01-08-42-001Q January, 2025 Page 7
+Internal Coating Issues Examples
+5864718
+Page 8 January, 2025 Bulletin No.: 01-08-42-001Q
+5864713
+Permanent Staining on the Inside Surface of the Lamp Lens
+• Some General Motors lamps have a coating on the inside of the lens to reduce condensation. Occasionally,
+there will be an issue where this coating is no longer clear, but instead is always visible.
+Important: This failure mode is internal to the lamp lens, if you can feel an issue when running your finger
+along the outer lens of the headlamp, it is not an issue with the internal coating streaking.
+Note: Any of the conditions listed below would indicate the need to service the lens or lamp assembly.
+• The customer reports they have a PERMANENT stain on the INSIDE of the lens. The stain never goes away,
+even when the condensation / water inside the lamp is cleared.
+If a lamp is found to be exhibiting a leak, review the most recent version of Service Bulletin 02-08-42-001 for
+information regarding impact damage and modification inspection.
+Non-GM Headlamp, Tail Lamp and Fog Lamp Assemblies
+Many companies outside of General Motors are manufacturing lamp assemblies that look very similar to original
+equipment. They target high volume programs. These lamps are most often presented by customers as holding
+moisture or for inoperative functions due to corroded electrical connections. It appears these non OE lamps get
+installed on vehicles as part of a collision repair. Most likely the customer has no idea they are not original
+equipment, as the initial appearance is generally good. Obviously, these parts are not covered by warranty. Some of
+the common company names seen on these lamps are Eagle Eyes, Srumto, and Depo.
+Bulletin No.: 01-08-42-001Q January, 2025 Page 9
+2650251
+This fog lamp was returned for retaining moisture. As you can see it is marked with the Depo brand (it is also called
+out on the front lens).
+The most reliable way to identify a non OE part is to compare it to the replacement service part or a like vehicle.
+Many do have the application called out on the part with the letters GM being present but would not typically use a
+GM trademark. They often use substandard wiring, sockets, vent patches and unsealed connectors.
+Example of GM Trademark
+Note: The graphics below are examples of GM Trademarks that appear on GM lamp assemblies. Current assem-
+blies contain a GM trademark in multiple locations including on a label affixed to the assembly and in the approval
+marking.
+3803767
+Page 10 January, 2025 Bulletin No.: 01-08-42-001Q
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION
+6340827
+6340829

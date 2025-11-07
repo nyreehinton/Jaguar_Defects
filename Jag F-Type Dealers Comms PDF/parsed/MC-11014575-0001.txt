@@ -1,0 +1,109 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 16-NA-003
+Service BulletinDate: February, 2025
+TECHNICAL
+Chirp, Squeak Noise from Rear of Vehicle
+This bulletin also applies to any of the models that may be Export
+vehicles.
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission:
+from to from to
+CadillacATS-V Series
+2016 2019
+— — All AllCTS-V Series
+ChevroletCamaro 2016 2024
+Corvette 2014 2025
+Additional Option (RPOs)Chevrolet – Equipped with LT4 Engine, LGX Engine / NPP Exhaust, LT1 Engine / N10
+Exhaust or LT1 Engine / NPP Exhaust, LT2 and LT6 engine with NPP Exhaust
+Cadillac – Equipped with LF4 or LT4 Engine
+ConditionSome customers may comment on hearing a squeak or chirp noise coming from the rear
+of the vehicle. The noise may be reported as being intermittent.
+CauseThe noise may be caused by the opening/closing of the exhaust valves during normal
+performance.Subject:
+Attention:
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Note: There is a normal, audible noise associated with the opening/closing of the exhaust valves. The squeak/chirp
+noise noting the condition is an additional, more shrill noise, and may be intermittent, influenced by temperature and
+humidity.
+Confirm that the front or rear/tail pipe valves are the cause of the condition by activating the flow control function of
+the exhaust system.
+1. Raise and support the vehicle. Refer to Lifting and Jacking the Vehicle  in SI.
+2. Use GDS to verify the exhaust flow control valves open and close when commanding the Exhaust Flow Control
+Valve On and Off with a scan tool.
+3. For Camaro and Corvette models, the engine sound management setting must be set to “Auto” to enable the
+scan tool to operate the valves.
+Note: The noise may only occur during valve opening OR closing of a valve, not always both.
+4. Command the flow control functioning numerous times and listen for any squeak/chirp noise, over and above
+the normal activation noise.
+5. If the squeak/chirp noise is evident, continue ahead to the lubrication Service Procedure below.
+Page 2 February, 2025 Bulletin No.: 16-NA-003
+Service Procedure
+4340714
+Important: Regardless the noisy valve location, lubricate ALL exhaust valves on the system.
+Generously lubricate the forward, and rear if equipped, exhaust valves following the steps below:
+1. Fully raise the vehicle.
+4340724
+2. Position a drop cloth below the valve being lubricated.
+Bulletin No.: 16-NA-003 February, 2025 Page 3
+4340727
+3. Apply DRY SLIDE Multi-Purpose Dry Lubricant, P/N 1052948 (in Canada, use 89021511), into the valve by
+inserting the nozzle into the slot on the valve. Liberally apply a generous amount of the lubricant.
+4340730
+4. Move the drop cloth to and repeat application at both, or all four valve locations, depending on the exhaust
+system.
+5. With all valves lubricated, command the flow control functioning numerous times on all valves, to work the
+lubricant into the valve.
+6. During the flow control functioning, also verify the squeak/chirp noise has been eliminated.
+Page 4 February, 2025 Bulletin No.: 16-NA-003
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONParts Information
+Description Part Number Qty
+*LUBRICANT, DRI-SLIDE,
+4 OZ AEROSOL VOC
+COMPLIANT
+LUBRICANT, DRI-SLIDE,
+149 G (Canada)01052948
+P/N
+89021511
+(Canada)1
+*Export Regions must obtain this product locally or from
+any source found available. There may be additional
+manufacturers of such products/materials. General Motors
+does not endorse, indicate any preference for, or assume
+any responsibility for the products or material from this firm
+or for any such items that may be available from other
+sources.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor
+OperationDescription Labor Time
+4081088*Apply Lubricant to Exhaust
+Valves0.4 hr
+*This is a unique Labor Operation for bulletin use only.
+Version 8
+Modified Released on January 08, 2016
+Revised January 22, 2016 – Added Corvette breakpoint, updated Additional Option
+RPOS, updated step #2 and added step #3 to Correction.
+Revised May 05, 2016 – Updated Additional Option RPOs.
+Revised March 07, 2023 – Removed the Attention statement, updated Model Years,
+removed Breakpoints, added Involved Region or Country section to table, removed
+Export Regions, and Added Important statement under Correction.
+Revised April 18, 2023 – Added an Attention statement and a statement in Parts
+Information regarding Export vehicles.
+Revised February 15, 2024 – Added up to the 2024 Model Year for Chevrolet Corvette
+and Camaro and changed the warranty coverage statement.
+Revised October 08, 2024 – Added the 2025 Model Year to Corvette.
+Revised February 19, 2025 – Added LT2 and LT6 engine RPOs both with NPP Exhaust
+to Additional Options (RPOs) section.

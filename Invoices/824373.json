@@ -1,0 +1,98 @@
+{
+    "Invoice #": "824373",
+    "Repair Order #": "824373",
+    "Invoice Date": "2024-10-14",
+    "Customer Name": "NYREE HINTON",
+    "Customer Address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "Customer Phone": "732-979-6264",
+    "Customer Email": null,
+    "Vehicle Year": "2020",
+    "Vehicle Make": "JAGUAR",
+    "Vehicle Model": "F-TYPE",
+    "Vehicle VIN": "SAJDD1GX4LCK67497",
+    "Vehicle License Plate": null,
+    "Vehicle Tag #": "T4591",
+    "Mileage In": "23278",
+    "Mileage Out": "23282",
+    "Service Advisor Name": "Danny Sanchez",
+    "Service Advisor Phone": "(310) 274-5133",
+    "Technician Name": "KESROUANI,ROY",
+    "Technician ID": "3238",
+    "Line Items": [{
+            "Line": "A",
+            "Description": "CLIENT STATES THAT THE DRIVERS SIDE DOOR ELECTRONICS DO NOT OPERATE CHECK AND ADVISE",
+            "Opcode": "86 ELECTRICAL",
+            "Labor Description": "LEFT ENGINE JUNCTION BOX TO REAR JUNCTION BOX CIRCUIT SHORT CIRCUIT TO GROUND ATTEMPTED TO CONNECT WITH VEHCILE. NO CONNECTION WAS POSSIBLE. GAINED ACCESS TO ENGINE JUNCTION BOX LEFT AND FOUND FUSE FL01 IN GOOD CONDITION. GAINED ACCESS TO REAR JUNCTION BOX AND FOUND FUSE RF 08 BLOWN. OBTAINED RVC NUMBER: TW550R39 AND REPLACED FUSE RF 08 IN REAR JUNCTION BOX. TOPIX CONNECTION TO VEHICLE IS NOW ESTABLISHED AND DRIVER DOOR BUTTONS FOR WINDOW OPERATIONS AND DOOR LOCK FEATURES ARE NOW WORKING NORMALLY. DROVE 2 MILES, FUSE RF08 BLEW AGAIN AND DRIVER DOOR ELECTRONICS STOPPED WORKING. REMOVED DRIVER DOOR TRIM PANEL. REMOVED DRIVER FOOT WELL LOWER TRIM PANEL. REMOVED REAR LEFT LUGGAGE COMPARTMENT TRIM PANEL. (START OF DIAG TIME) USING ELECTRICAL WIRING DIAGRAMS CHECKED CIRCUIT FROM DRIVER DOOR MODULE TO REAR JUNCTION BOX CONNECTOR TO FROM CAPWO2BD-14 TO CABR02D-1 FOUND 0.2 OHMS. CHECKED CIRCUIT FROM DIAGNOSTIC CONNECTOR TO LEFT ENGINE JUNCTION BOX FROM C2DB04B-16 TO C1BB01A-16 FOUND 0:2 OHMS. CHECKED CIRCUIT FORM LEFT ENGINE JUNCTION BOX TO REAR JUNCTION BOX FROM C1BB01A-15 TO C4BR02D-1 FOUND 1.8 OHMS TO 3 OHMS VARIABLE. READING. DETERMINED HIGH RESISTANCE. CHECKED HARNESS AND FOUND CIRCUIT FROM CONNECTOR C13H-13 TO LEFT ENGINE JUNCTION BOX AT C1BB01A-15 SHORTED TO GROUND WHERE DRIVER RESTS. HIS/HER LEFT FOOT UNDERNEATH THE CARPET. OBTAINED RVC NUMBER: TAKITXQOX. PERFORMED HARNESS REPAIR FROM C13H-13 TO C1BB01A-15. REFITTED DRIVER DOOR TRIM PANEL;. REFITTED LEFT SIDE LUGGAGE COMPARTMENT TRIM PANEL. REFITTED DRIVER FOOT WELL LOWER PANEL. CLEARED ALL CODES. DIVER DOOR ELECTRONICS ARE NOW WORKING CORRECTLY.",
+            "Parts": 0.0,
+            "Labor": 0.0,
+            "Other": 0.0,
+            "Total": 0.0
+        },
+        {
+            "Line": "B",
+            "Description": "CLIENT STATES LOW BATTERY WARNING LIGHT COMES ON THE CLUSTER CHECK AND ADVISE",
+            "Opcode": "86 ELECTRICAL",
+            "Items": [{
+                    "Part Number": "T2H33020",
+                    "Description": "BATTERY",
+                    "Quantity": 1,
+                    "Unit Price": 0.0,
+                    "Total Price": 0.0
+                },
+                {
+                    "Part Number": "BAT",
+                    "Description": "California Battery Fee",
+                    "Quantity": 1,
+                    "Unit Price": 0.0,
+                    "Total Price": 0.0
+                }
+            ],
+            "Labor Description": "START UP BATTERY FAILURE. CHECKED CODES AND PRINTED FOUND CODE U3003-16 STORED IN GSM. USING TOPIX CLOUD, STARTED NEW FAULT WORKFLOW AND FOUND BCM AND GWM SOFTWARE UP TO DATE. PERFORMED IN VEHICLE BATTERY TEST. RECHARGED: BATTERY AND PERFORMED ANOTHER IN VEHICLE BATTERY TEST. BATTERY FAILED. PERFORMED OUT OF VEHICLE BATTERY TEST. BATTERY FAILED. OBTAINED RVC NUMBER;. RC0F5PLK AND REPLACED START UP BATTERY. REST BATTERY MONITORING SYSTEM. \"LOW BATTERY: MESSAGE IS NO LONGER DISPLAYED IN INSTRUMENT CLUSTER.\"",
+            "Parts": 0.0,
+            "Labor": 0.0,
+            "Other": 0.0,
+            "Total": 0.0
+        },
+        {
+            "Line": "C",
+            "Description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+            "Opcode": "TP",
+            "Labor Description": "TIRE PSI VALUES. LEFT 37PSI FRONT RIGHT 37PSI REAR LEFT 37PSI REAR RIGHT 37PSI",
+            "Parts": 0.0,
+            "Labor": 0.0,
+            "Other": 0.0,
+            "Total": 0.0
+        },
+        {
+            "Line": "D",
+            "Description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION.",
+            "Opcode": "99PJ",
+            "Labor Description": "MPI AVAILABLE IN MYMKARMA",
+            "Parts": 0.0,
+            "Labor": 0.0,
+            "Other": 0.0,
+            "Total": 0.0
+        },
+        {
+            "Line": "E",
+            "Description": "CLIENT REQUEST EST ON A NEW SIMS CARD.",
+            "Opcode": "01 VEHICLE INSPECTION",
+            "Labor Description": "ESTIMATE PROVIDED ESTIMATE ON A NEW SIM CARD. PART IS CURRENTLY OUT OF STOCK.",
+            "Parts": 0.0,
+            "Labor": 0.0,
+            "Other": 0.0,
+            "Total": 0.0
+        }
+    ],
+    "Parts Subtotal": 0.0,
+    "Labor Subtotal": 0.0,
+    "Other Subtotal": 0.0,
+    "Sales Tax": 0.0,
+    "Total Amount Due": 0.0,
+    "Amount Paid": 0.0,
+    "Payment Date": null,
+    "Payment Type": null,
+    "Card Type": null,
+    "Last 4 Digits of Card": null,
+    "Approval Code": null
+}

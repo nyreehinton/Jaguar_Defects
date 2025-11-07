@@ -1,0 +1,38 @@
+Reference SSM76252
+Models New Range Rover / L460
+New Range Rover Sport / L461
+Title Deployable Side Steps - Noisy
+Category Accessories
+Last modified 28-Jan-2025 00:00:00
+Symptom General Accessories
+Content Model / Model Year / Derivative
+Range Rover / 22MY onwards / Vehicles with deployable side steps
+Range Rover Sport / 23MY onwards / Vehicles with deployable side steps
+ 
+Situation:
+JLR Engineering investigations have identified reports of noise from the deployable side steps even after
+completion of the relevant TOPIx Cloud Workflows.
+Cause:
+The cause is under investigation. Sound files provided in support of this SSM will assist the ongoing Engineering
+investigations.
+ 
+Action:
+Refer to the service request below.
+Service Request:
+Complete the relevant TOPIx Cloud Workflows which are available through 'Fault and Breakdown' by entering
+the following symptoms:
+Body > Accessory > Deployable Side Steps
+Body > Accessory > Deployable Side Steps - Noise During Operation
+Body > Accessory > Deployable Side Steps - Erratic/Intermittent Operation
+Body > Accessory > Deployable Side Steps - Inoperative / Incorrect Operation
+If there is still an abnormal noise from the deployable side steps after completing the relevant TOPIx Cloud
+Workflows, continue below:
+To assist Engineering with determining the root cause of certain noises, follow the below actions:
+1. Raise an Electronic Product Quality Report (EPQR), which must include the below information:
+- Reference to SVO_070 
+- Reference to P394718
+- Sound recording file(s) in .wav format to capture the abnormal noise from the deployable side steps
+- Supporting notes, videos, photographs and observations
+2. Update the EPQR to detail all completed actions.
+(Ref 000394718 / 3580)
+anBhdHRlcnM7MjA yNS0wMS0yOVQxNT ozMzowMC45NTRaOzE2NS4yMjUuOS45ODs=

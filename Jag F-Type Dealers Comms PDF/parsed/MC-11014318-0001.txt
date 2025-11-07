@@ -1,0 +1,58 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO) UKL - Super Cruise 
+ConditionCustomers ma y notice a Super Cruise Unavailable, or Adaptive
+Cruise Unavailable message on the DIC.
+This could happen immediately upon startup or within 30
+minutes of the drive cycle .
+This issue ma y recover after an ignition cycle or it ma y not. 
+Technician ma y ﬁnd the following DTC's setting in the Image
+Processing Module, see chart below .
+Cause Software
+Bulletin No.: PIT6186E
+Published date: 02/14/2025
+Preliminary Information
+PIT6186E Super Cruise Unavailable Message
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade IQ 2025 All AllAll All
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+GMC Sierra Denali EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+GMC Yukon Models 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+Dealers are ask ed to verify the customers concern.
+If any of these DTCs in the table below set in History , do not replace the controller . 
+Version 6
+Modiﬁed06/12/2024 - Created on.  
+09/23/2024- Updated to change wording in Condition and
+Correction  
+10/10/2024- Update Models.  
+10/25/2024-  Updated models and remove DTCs B0126.82
+and B1DD0.57.  
+12/16/2024- Updated Models.  
+02/14/25-Update correction to advise tech to follow SI
+diagnostics and remove labor operation.Refer to  SuperCruise Malfunction for further diagnostic information to further root cause
+customer ’s issue.
+DOC ID 6763330 (satitle in GSA)
+DTC #
+U1624 SYM 00      Lost Communication with T elematic Control Module on Ethernet B
+U023B SYM 00      Lost Communication with Image Processing Module - Processor 2
+U053C SYM 00      Invalid Data Received from Image Processing Module 1 - Processor 2
+If none of these DTC's are setting, follow normal SI Diagnostics. 
+This PI will be converted to a bulletin when a resolution is available. 
+Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

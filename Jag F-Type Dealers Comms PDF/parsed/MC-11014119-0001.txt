@@ -1,0 +1,61 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Intermittent DTC CEM B124713 and CEM B124813Ref. No.
+TJ 36944.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/8/25Status Date
+1/24/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3552
+Function Description
+Side indicator lampPage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+If customer complains of intermittent DIM message stating “left turn signal malfunction” in 
+combination with DTC CEM B124713 or CEM B124813 set, please follow advice under “Service” .
+CEM = Central Electrical Module
+DIM = Driver Information Module
+CSC   Customer Symptom Codes
+Code Description
+CJ Warning lights and chimes/Bulb failure indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+CEM B124713 Intermittent
+CEM B124813 Intermittent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+224 2024-2025 - 202317-202447
+225 2024-2025 - 202317-202447
+227 2024-2025 - 202317-202447
+235 2024-2025 - 202317-202447
+236 2024-2025 - 202317-202447
+238 2024-2025 - 202317-202447
+246 2024-2025 - 202317-202447
+256 2024-2025 - 202317-202447
+Page 2 of 2 2025-01-24
+Technical Journal 36944.2.0SERVICE:
+Please start by following this journal prior to any replacements:
+• If the left rear turn indicator is not working, continue the fault tracing and repair according to our 
+VIDA instructions.
+• If the left rear turn indicator is working, through visual inspection and DTC stated above is set, 
+do not replace any parts.
+*A software solution is introduced from version 3.3.16, perform a software upgrade according to TJ 
+31543.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software control module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+3552.

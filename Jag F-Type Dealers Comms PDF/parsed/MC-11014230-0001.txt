@@ -1,0 +1,280 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 21-NA-043
+Service BulletinDate: January, 2025
+INFORMATION
+Properly Maintaining Vehicles in Dealer Inventory
+Brand: Model: Model Year: VIN: Engine/
+Propulsion:Transmission:
+from to from to
+BrightDrop
+Passenger
+Cars and
+Light/Medium
+Duty Trucks2011 2026 — — All AllBuick
+Cadillac
+Chevrolet
+GMC
+Involved Region or Country North AmericaSubject:
+Dealer Inventories
+Important: Dealers are responsible for the storage and proper care of new vehicles held in dealer inventory or
+customer vehicles in for Warranty or Recall repairs until they are delivered or returned to the customer. Extra care
+and attention to detail should be taken to make sure vehicles that have spent longer times in dealer inventory are
+properly delivered to the customer with no product issues (such as stall/no start issues due to improper battery
+maintenance or vehicle vibration due to tire flat spotting). Damage or deterioration, resulting from improper storage,
+is not to be covered by the New Vehicle Limited Warranty. For more information, refer to the New Vehicle Storage
+section of the Service Policies and Procedures Manual.
+Table of Contents
+The following is a list of topics included in this bulletin:
+•Battery Maintenance
+•Underhood Inspection (ICE Vehicles)
+•Tire Flat-Spotting
+•Brakes
+•Tire Pressure Monitoring System (TPMS)
+•Protective Shipping Materials
+•Checking/Cleaning Windshield Wipers/Window Glass
+•Fuel/Lubricants/Oil Life Monitor
+•Diesel Engine Special Care
+•Storage Lot Practices/Vehicle Washing
+•Field Action Bulletin and Pre-Delivery Inspection Completion
+Battery Maintenance
+12 Volt System
+Leaving vehicles in Transport Mode while in inventory will extend the time between charge events. Refer to Power
+Mode Description and Operation/Transport Mode (If Equipped)  in SI for information on turning this feature off and on.
+Page 2 January, 2025 Bulletin No.: 21-NA-043
+Important: Starting model year 2023, Korean built vehicles can be left with Transport mode ON and will not inhibit
+our ability to receive data from these vehicles.
+U.S. Dealers
+U.S. dealers are to refer to the Battery Maintenance Report to identify vehicles in dealer inventory that require
+attention. The Report, located in the Dealer Maxis application on the GlobalConnect App Center, will conveniently
+identify the specific vehicles in your dealer inventory that require a “Battery Charge” due to a low state of charge.
+• It is recommended that dealers monitor the report only once per week.
+• Vehicles on the report that require a Battery Charge should be charged using the “Diagnostic Charge” on the
+GR8 or the “Diagnostic – Trolley” process with the Diagnostic Charge Battery Station (DCBS). For vehicles with
+two batteries, each battery must be electrically isolated and charged individually, which will result in two
+printouts.
+Note: Vehicles with Stop/Start Auxiliary batteries must be charged separately from the main battery during the
+period of dealer inventory storage. The Auxiliary battery is not connected in a manner that will allow both batteries to
+be charged at the same time and must be charged individually, which will result in two printouts.
+• The report will also identify vehicles that need to be started and moved as they remained dormant for an
+extended period and are no longer transmitting battery state of health information to GM via Remote Vehicle
+Diagnostics. These vehicles should be started and moved too so that GM can provide proper recommendations
+to you on battery maintenance.
+• After taking action on any particular vehicle noted on the Battery Maintenance Report, it may take up to 5 days
+for the vehicle to be removed from the Report.
+Canadian Dealers
+Maintain battery charge on vehicles in dealer inventory per the following:
+1. At vehicle delivery to the dealership (PDI), check condition and charge the battery using the GR-8 Tool
+(EL-50313) or EL-52800 Diagnostic Charge Battery Station (DCBS) in the PDI mode . This step allows the
+battery to be charged back up (topped off) at PDI (for 20 minutes or less) to make up for any loss of charge that
+occurred during the vehicle transit time from assembly plant to the dealer. Allowing PDI Mode  to enter TOP OFF
+Mode  automatically or manually selecting TOP OFF Mode  at the screen prompt at the end of PDI Mode  will
+allow a complete charge of the battery and aid in preventing dead batteries in dealer inventory.
+Note: Utilizing TOP OFF Mode  after PDI Mode  will allow for a complete battery charge during inventory storage and
+to improve customer satisfaction after vehicle delivery.
+2. Every 30 days in dealer inventory, check condition and charge the battery using the GR-8 Tool (EL-50313) or
+the EL-52800 Diagnostic Charge Battery Station (DCBS) in the PDI mode . This step will allow the battery state
+of charge to be maintained, which maximize over all battery life. Vehicle batteries that are in dealer inventory for
+extended amounts of time without being maintained/charged will see a significant overall reduction in the
+battery's service life.
+3. At point of sale (just prior to delivering the vehicle to the customer), check condition and charge the battery
+using the GR-8 Tool (EL-50313) or the EL-52800 Diagnostic Charge Battery Station (DCBS) in the PDI mode .
+This step will ensure that the battery is fully charged for the best customer satisfaction possible.
+4. On vehicles with two Batteries, each battery must be electrically isolated and charged individually, which will
+result in two printouts.
+Note: Vehicles with Stop/Start Auxiliary batteries must be charged separately from the main battery during the
+period of dealer inventory storage. The Auxiliary battery is not connected in a manner that will allow both batteries to
+be charged at the same time and must be charged individually, which will result in two printouts.
+12 Volt Battery Replacement on Vehicles in Dealer Inventory (U.S. and Canadian Dealers)
+For dealers who follow proper battery maintenance guidelines, defective batteries that fail to properly charge are
+covered under the New Vehicle Warranty. Replacement must be supported by a “Replace Battery” decision from the
+GR8 or DCBS, and a copy of the test result printout must be retained with the job card. Refer to Service Bulletin #
+20-NA-132 for further details and claim submission requirements.
+High Voltage Batteries
+For Electric Vehicles (EVs), the High Voltage (HV) battery provides maintenance of electric vehicle’s 12V battery as
+long as the HV battery is above 15% state of charge. Dealerships should ensure the HV battery system is kept
+above this level to maintain support of the 12V battery.
+Bulletin No.: 21-NA-043 January, 2025 Page 3
+The High Voltage batteries should be fully charged to the factory pre-set charge level prior to completing the PDI.
+Underhood Inspection (ICE Vehicles)
+Inspect vehicles that have been sitting (especially for an extended period of time) for evidence of animal
+nesting. Open the hood and check for/remove any organic debris (such as, dried grass, leaves, etc.)
+• Locations - include top of engine, between valve cover and intake manifold, catalytic converters, and exhaust
+manifold (any potential hot surface area).
+• If this type of material contacts any hot exhaust/other components, melting or burning could result.
+Tire Flat-Spotting
+All tires, no matter the manufacturer, are susceptible to flat spotting if the vehicle sits on the dealership lot prior to
+customer delivery and is not moved or driven for an extended period of time. Flat spots on the tires can cause
+vibration concerns.
+Vibration issues for flat spotting can develop between 30-45 days (depending on the tire design, parking surface and
+weather conditions) and usually will be gone after allowing the tires to heat up after a few minutes of driving at
+highway speeds on smooth surface roads.
+Vibration issues that develop from allowing the vehicle to sit without being moved/driven for between 45-90 days
+usually will be gone after allowing the tires to heat up after 10 minutes of driving at highway speeds on smooth
+surface roads.
+Vibration issues that develop from allowing the vehicle to sit without being moved/driven for more than 90 days may
+become permanent and would require tire replacement to repair (which would not be considered a warrantable
+item).
+To attempt to minimize this concern, the following is recommended:
+- Tires should be inflated to 300 kPa (44 psi) for longer term storage in inventory. While higher tire pressures
+during storage has not been proven to eliminate this concern, underinflation has been shown to contribute to its
+severity, so higher pressure is preferred to lower pressure.
+Tip: Tires on average lose 7 kPa (1 psi) every 30 days. Additionally there is a 7 kPa (1 psi) loss in pressure for
+each 6°C (10°F) drop in air temperature. Example: A tire with 300 kPa (44 psi) at 16°C (60°F) would have 240 
+kPa (35 psi) after 6 months in inventory at −1°C (30°F) air temperature.
+- Vehicles should be moved every 30 days. If vehicles are allowed to sit more than 30 days at a time, more
+noticeable or objectionable tire vibrations may be noted. Vibration issues that develop from allowing the vehicle
+to sit without being moved/driven for more than 90 days may become permanent and would require tire
+replacement to repair (which would not be considered a warrantable item).
+Tip: U.S. dealers can monitor the Battery Maintenance Report located in the Dealer Maxis application on the Global-
+Connect App Center to identify vehicles that have been sitting for greater than 30 days without an ignition cycle. The
+report will conveniently list the specific vehicles in your dealer inventory that should be started and moved.
+At the time of delivery, vehicle tire pressures MUST be reset to the values as outlined on the Tire Pressure
+Placard in order to provide the customer with the proper ride and handling characteristics designed into the vehicle.
+Important: If any tire vibration is noted during the PDI process before measuring tires on equipment such as the
+RFE 13 Road Force® Elite Balancer, the vehicle MUST be driven a minimum of 24 km (15 mi) to ensure removal of
+any flat spotting (The tendency to "flat spot" is less likely as the tire accumulates mileage).
+Brakes
+Extended outside storage with no vehicle movement may increase the opportunity for brake noise and/or pulsation
+issues. Vehicle braking systems tend to be self-cleaning while vehicles are in use, preventing any build-up of
+corrosion on the brake rotor surfaces. Therefore, vehicles in dealer inventory should be moved and brakes applied
+several times every 30 days to prevent issues.
+Tip: U.S. dealers can monitor the Battery Maintenance Report located in the Dealer Maxis application on the Global-
+Connect App Center to easily identify vehicles that have been sitting for greater than 30 days that should be started
+and moved to eliminate rust build up.
+Page 4 January, 2025 Bulletin No.: 21-NA-043
+Tire Pressure Monitoring System (TPMS)
+The TPMS is learned at the assembly plant and should not need to be re-learned at customer delivery unless wheels
+are replaced or rotated. Vehicles that have been in dealer inventory for extended amounts of time may have a TPMS
+light on indicating proper tire pressure (air inflation) is required. Properly adjusting all tire air pressures to the recom-
+mended levels and driving the vehicle will turn the light off (refer to the Tire and Loading Information label on the
+driver side door) - DO NOT re-learn the TPMS. Follow appropriate sections of SI in the event diagnosis of TPM Light
+or “Service Tire Pressure Monitoring System” DIC Message is required at PDI or point of sale.
+Protective Shipping Materials
+Many GM vehicles come with protective coverings, foam blocks and other preventative measures applied before
+vehicle shipping to aid in vehicles being delivered in the best possible condition.
+The exterior protection foam block door and bumper protectors should be left in place up to the time of the customer
+delivery except for vehicles on prominent display such as the showroom floor. These protective devices help to
+minimize lot damage, reduce dealer expense and increase customer satisfaction.
+General Motors has communized the use of door edge protection in order to reduce the chance of chips/scratches
+on the doors of new vehicles. The protectors come in the form of a black foam block that adheres to the painted door
+panel by a sheet of white, two-sided tape. This foam block is designed to protect not only the painted body panel, but
+also any body cladding or moldings on the vehicle. The location of the door protection varies, depending on the
+contours of the door or body cladding. The purpose of this protection is not only to protect the vehicle during trans-
+portation from the plant to the dealer, but also while the vehicle is either stored or displayed at the dealership. GM
+recommends the door edge protection stay on the doors up until delivery to the customer. By leaving this
+protection in place, the possibility of door chips, scratches or dents is virtually eliminated.
+Checking/Cleaning Windshield Wipers/Window Glass
+Wiper Blades
+Vehicle windshield wipers are exposed to weathering elements as soon as a vehicle is produced. During extended
+outdoor storage the wiper blades may not function as well due to the following factors:
+• Dirt/debris/dried soap stuck on the blade surface
+• Oxidation of the rubber blade
+• The rubber blade may take a “permanent set” from non-use.
+If necessary, the wiper blades can be cleaned with a lint free cloth or paper towel soaked with windshield washer
+fluid (GM Optikleen recommended) or a mild detergent. You should see significant amounts of dirt being removed on
+the cloth. Be sure to wash the windshield thoroughly when you clean the blades. Bugs, road grime, sap and a
+buildup of car wash/wax treatments may additionally cause wiper streaking.
+Important: Avoid getting windshield washer fluid on your hands. Wear rubber gloves or avoid direct contact with
+washer fluid. NEVER use gasoline, kerosene, or petroleum based products to clean wiper blades.
+Tip: DO NOT operate the wipers if the vehicle is extremely dirty with gritty or sandy materials, or twigs/sticks in the
+cowl area. This type of debris dragged by the force of the wipers while dry may cause glass scratching.
+Window Glass
+The interior surfaces of the window glass may appear hazy (due to surface deposits) after a vehicle has sat in a
+“closed-up” condition for an extended period of time. It is suggested that window washing during the PDI process be
+performed with plain water. Washing by this method increases the amount of time that the windows will stay clean,
+as cleaners generally leave a film that accelerates the deposition of new dirt.
+ONLY if satisfactory results cannot be obtained (streaking), please use GM Vehicle Care Glass Cleaner (or equiv-
+alent) to clean heavier deposits.
+Fuel/Lubricants/Oil-Life Monitor
+Caution: Do not allow vehicles to run out of fuel during idle conditions. Allowing a vehicle to run out of fuel while
+idling may cause damage to the fuel pump.
+Bulletin No.: 21-NA-043 January, 2025 Page 5
+Gasoline Fuel
+As vehicles age while in inventory the potential for fueling issues increases. Gasoline powered  vehicles should not
+encounter any fuel related issues while being stored for up to one year. Vehicles should have fresh fuel added as
+needed or if in stock for over one year.
+Lubricants and Oil Life Monitor
+As vehicles are kept in stock for longer periods of time, questions may be raised not only by the new car prep
+personnel, but also by customers. Here are some suggestions as to proper business practices.
+The Oil Life Monitor  in new GM vehicles will count down as vehicles are started, moved and run for the purpose of
+battery charging. If vehicles remain in stock for longer periods, what guidelines should you follow to answer
+questions about the oil life monitor?
+- When the vehicle was assembled the oil life monitor begins counting down the useful life of the oil. If the Oil Life
+percentage indicates below 90% of the oil life left before vehicle delivery and the vehicle is older than 7 months,
+it is advised that the oil be changed before delivery to the customer (An alternative would be to offer the
+customer a discount coupon good for a reduced cost oil change, to compensate for used up oil-life before
+delivery).
+Important: The Oil-Life Monitor should not be reset at the time of delivery unless the vehicle oil has been changed.
+- If the Oil Life Monitor indicates above 90% or the vehicle build date is within 6 months or newer, the vehicle may
+be delivered without additional action. There is always some period of time that a vehicle is in dealer stock
+before it is delivered, and that small drop in oil life is expected.
+Important: If a vehicle remains in stock for 1 year or greater, you should change the vehicle engine oil.
+Diesel Engine Special Care
+Periodic Operation
+Diesel powered vehicles should not be left stationary for more than 45 days. When the storage duration approaches
+45 days, the vehicle should at least be started and idled until the engine reaches operating temperature. Ideally, the
+vehicle should be driven for at least 1.6 km (1 mi) and then idled to operating temperature to prevent turbocharger
+malfunction.
+Fuel
+Diesel powered vehicles should not have additional fuel added to the tank unless required.  The assembly
+plant fuels vehicles with a special blend of ultra low sulfur diesel extending its stability over marketplace diesel fuel.
+Fuel readily available in the consumer market may have high levels of Biodiesel and likewise shorter storage
+potential. If re-fueling is required, add only in 15 L (4 gallon) increments using winter blend fuels where appropriate.
+Diesel Exhaust Fluid
+Diesel Exhaust Fluid must be added (if not factory filled) at the time of Vehicle Pre-Delivery Inspection up to
+9.46 liters (2.5 gallons). Make certain the GM provided nozzle, including internal vent tube, is used to ensure
+proper feedback from the fill limit valve. DO NOT OVERFILL THE TANK.  When the fluid first begins to overflow out
+of the fill neck, the tank is full.
+Battery State of Charge
+Wherever possible, diesel-powered vehicles should have the batteries maintained with a battery charger as opposed
+to running the vehicle for 30 minutes to conserve the factory fueling.
+Storage Lot Practices/Vehicle Washing
+While all damage and every situation cannot be accounted for, simple thoughtfulness and care should be your guide.
+There are many opportunities for damage to the finish of vehicles. Please review the following good discussion
+starters with porters and technicians:
+• Simple winter season conditions can be a good source of damage for northern dealers. Sharp snow shovels
+and ice scrapers can damage vehicles. Consider the use of plastic shovels (non-metal edged) for use in and
+around vehicle storage lots and make sure snow removal tools are in good condition. Instruct dealership
+personnel to be aware of potential damage when removing ice buildup from the vehicles.
+• Keep bushes and shrubs trimmed back around vehicle storage lots. Sometimes, when space is at a premium,
+every inch of a lot is utilized. Do not park vehicles near landscaping that, during a thunderstorm or winter storm,
+may droop or move sufficiently to contact vehicles, causing finish damage.
+Page 6 January, 2025 Bulletin No.: 21-NA-043
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION• Regularly maintain your dealership car wash. Worn components or improperly working mechanisms and valves
+may damage or cause dulling of vehicle finishes. If your dealership hand washes and polishes vehicles for
+delivery, reconfirm that personnel are dressed in proper clothing devoid of belt buckles, metal buttons/snaps,
+wallet chains, etc.
+• Vehicles on the front lot, visible by customers, should be kept clean and washed regularly for the sake of a nice
+dealership appearance. Vehicles in off-site storage, or secured areas should be kept clean preferably by
+touchless methods. Constant washing may create fine scratches or swirls in the paint on dark colored vehicles.
+Lightly power washing with soap will remove any harmful accumulations of dirt, bird droppings, acidic leaves,
+etc. without the risk of causing scratches.
+Important: Some vehicles come from the factory with a matte paint finish. Matte finishes require special care while
+washing to avoid damage to the paint. Refer to Bulletin# 23-NA-016 for additional information.
+Field Action Bulletin and Pre-Delivery Inspection Completion
+To ensure vehicles are delivered to customers with no product issues, review and complete any open field actions
+using Investigate Vehicle History (IVH) and complete the pre-delivery inspection (PDI) BEFORE the vehicle is
+delivered to the customer.
+Version 7
+ModifiedReleased February 25, 2021 – Corporate Service Bulletin Number 09-00-89-002R has
+now become Global format Service Bulletin #21-NA-043. This update revises U.S.
+policies regarding Battery Maintenance and Tire Flat Spotting.
+Revised July 20, 2021 – Added the 2022 Model Year, removed obsolete Bulletin #
+reference and added Bolt EV/EUV reference in Exception statement under 12 Volt
+System.
+Revised May 16, 2022 – Added the 2023 Model Year and updated information under
+Dealer Inventories, U.S. Dealers under Battery Maintenance and High Voltage Batteries
+sections.
+Revised March 20, 2023 – Added the 2024 Model Year and updated applicable
+information throughout the bulletin.
+Revised April 30, 2024 – Added the 2025 Model Year.
+Revised November 04, 2024 – Added BrightDrop models and Underhood Inspection (ICE
+Vehicles) section.
+Revised January 31, 2025 – Added the 2026 Model Year.

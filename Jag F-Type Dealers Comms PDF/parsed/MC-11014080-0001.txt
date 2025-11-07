@@ -1,0 +1,287 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-102
+Service BulletinDate: January, 2025
+TECHNICAL
+Drivability Concerns, Hesitation, Transmission Shifting Rough/Harsh,
+Malfunction Indicator Lamp (MIL) Illuminated - Multiple DTCs Set
+Brand: Model: Model Year: Breakpoint Date: Engine: Transmissi
+on:from to from to
+Cadillac Escalade 2023 2024
+   LM2
+ ChevroletSilverado 1500 -
+New (RPO J22, VIN
+Digit 5 = A/D)2022 2022 LM2
+Silverado 1500
+20232025 LZ0
+Suburban2024 LM2
+2025 LZ0
+Tahoe2024 LM2
+2025 LZ0
+GMCSierra 1500 - New
+(RPO J22, VIN Digit
+5 = H/U)2022 2022 LM2
+Sierra 1500
+20232025 LZ0
+Yukon Models2024 LM2
+2025 LZ0
+ 
+Involved Region or CountryNorth America, Europe, Kazakhstan, Uzbekistan, Russia, Middle East, Iraq, Israel,
+Palestine, Argentina (Mercosur), Brazil (Mercosur), Bolivia (West), Chile (West),
+Colombia (West), Ecuador (West), Paraguay (West), Peru (West), Uruguay (West),
+Venezuela (West), Other Central America, Japan, Cadillac Korea (South Korea), GM
+Korea Company, China - SGM, Taiwan , Thailand (ASEAN), Singapore, Philippines,
+Australia/New Zealand, Caribbean, Egypt, Other Africa, South Africa
+ConditionSome customers may comment on one or more of the following conditions:
+1. Drivability concerns (engine performance)
+2. Hesitation
+3. Transmission shifting rough/harsh
+4. MIL illuminated
+Some technicians may find one or more of the following DTCs set:
+Note: Additional DTCs may have been set. It was found that these were the most com-
+mon.
+• P1005
+• P31C3
+• P0700
+• U0073
+• U0074
+• P25A2Subject:
+Page 2 January, 2025 Bulletin No.: 23-NA-102
+• U1600
+• U0633
+• U0623
+• U02A9
+• U0285
+• U0284
+• P10C6
+• P2269
+• U0074
+• U0131
+• U029D
+• U029E
+• U059F
+• U18A2
+CauseThis condition may be caused by one or more of the following:
+• CAC pump electrical connector
+• Active grill shutter electrical connector
+• Engine wiring harness contacting the alternator bracket
+• Loose ground at the front of the engine
+CorrectionRepair the wiring using SI procedures. Refer to Wire to Wire Repair  or Ground Repair in
+SI.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+Note: Using Woven Polyester Electrical Tape (PET), tape all the contact points of the wiring harness ensuring
+that the tape is applied in a double layer extending along the harness past the splice sleeves. Verify all straps are
+secured and retainers are installed.
+Bulletin No.: 23-NA-102 January, 2025 Page 3
+Information
+Area of Concern at the CAC Pump Electrical Connector
+6219342
+An open cavity or an unsealed pump connector allowing water into the (M10) charge air cooler pump electrical
+connector might be the root cause of the communication failure.
+- Check the CAC Pump connector sealing and look for any corrosion at the pump due to water leakage.
+DTCs that may be common with water intrusion the electrical connector:
+Note: U02A9 might be set with or without U1345 (LIN BUS1 Failure).
+• P0700 Transmission Control Module Requested Malfunction Indicator Lamp Illumination
+• P25A2 Brake System Control Module Requested Malfunction Indicator Lamp Illumination
+• U0284 Lost Communication with Active Grille Air Shutter Actuator 1
+• U0285 Lost Communication with Active Grille Air Shutter Actuator 2
+• U02A9 Lost Communication with Charge Air Cooler Coolant Pump
+• U0623 Lost Communication with Heater Coolant Pump
+• U0633 Lost Communication with Engine Cooling Fan 2
+• U1345 Engine Control Module LIN Bus 1
+• U1600 Lost Communication with Transmission Control Module on Engine Control Module LIN Bus 1
+ 
+Area of Concern Active Grille Air Shutter Actuator In-line Connector
+The following DTCs may be caused by the engine wiring harness to active grille air shutter actuator in-line connector
+(X618 on the pickup and X604A 0n the SUV). Please check circuit 4621 which may be:
+• Not properly connected
+Page 4 January, 2025 Bulletin No.: 23-NA-102
+• Not properly held by the rear clip
+• Grounded on the radiator
+6219339
+The graphic above shows how the proper connection must be.
+- Check the active grille air shutter actuator in-line connector for not being properly connected or grounded to the
+radiator.
+DTCs may be caused by the active grill air shutter wiring pinched at the radiator support.
+6219340
+The graphic above depicts where a pinching condition may be located.
+- Check the active grill air shutter wiring route to identify possible damaged points in the wiring.
+DTCs that may be common with the wiring harness contacting the radiator or an improper connection:
+• P0700 Transmission Control Module Requested Malfunction Indicator Lamp Illumination
+• P25A2 Brake System Control Module Requested Malfunction Indicator Lamp Illumination
+• U0284 Lost Communication with Active Grille Air Shutter Actuator 1
+Bulletin No.: 23-NA-102 January, 2025 Page 5
+• U0285 Lost Communication with Active Grille Air Shutter Actuator 2
+• U02A9 Lost Communication with Charge Air Cooler Coolant Pump
+• U0623 Lost Communication with Heater Coolant Pump
+• U0632 Lost Communication with Cooling Fan Motor
+• U0633 Lost Communication with Engine Cooling Fan 2
+• U1345 Engine Control Module LIN Bus 1
+• U1600 Lost Communication with Transmission Control Module on Engine Control Module LIN Bus 1
+ 
+LM2 Area of Concern at Alternator Bracket
+6357536
+- Arrows indicate location of retainer pins that were not properly installed.
+- Blue circle indicates where a chafe in the wiring has occurred. The mis-installed bracket allowed the harness to
+lay on the alternator.
+Page 6 January, 2025 Bulletin No.: 23-NA-102
+6357529
+LM2 – Wiring Harness Contact at Alternator Bracket.
+- The engine wire harness was chafed by a bracket next to the back of the alternator.
+U0073 CAN BUS 2 off or U0074 CAN BUS 3 off
+Bulletin No.: 23-NA-102 January, 2025 Page 7
+6357546
+LM2 – TCCM Wiring Harness Contact at A/C Line and Bracket near Alternator.
+ 
+LZ0 Area of Concern at Alternator Bracket
+6367093
+Page 8 January, 2025 Bulletin No.: 23-NA-102
+6367095
+6357562
+LZ0 – The Wiring Harness Contacted the Alternator Bracket do to Routing of the Harness.
+Note: During the repair. It was noted that a 5/8 ths diameter hose was used to prevent a reoccurring chafe condition.
+ 
+Bulletin No.: 23-NA-102 January, 2025 Page 9
+6357567
+This is CAN 3 wire harness. Can 4 is also in this bundle only blue and yellow twisted with white.
+LZ0 – Wiring Harness Contacting the A/C Line and Alternator Bracket.
+ 
+For both the LM2 and the LZ0, the DTCs that may be common with the wiring harness contacting the A/C
+line and alternator bracket:
+• P0700 Transmission Control Module Requested Malfunction Indicator Lamp Illumination
+• P10C6 Engine Diagnostic Status Signals Message Counter Incorrect
+• P1789 Current Transmission Range Unknown
+• U0073 Control Module Communication CAN Bus 2 Off
+• U0074 Control Module Communication CAN Bus 3 Off
+• U0076 Control Module Communication Powertrain Sensor CAN Bus Off
+• U010E Lost Communication with Reductant Control Module
+• U0140 Lost Communication with Body Control Module
+• U0198 Lost Communication with Telematic Control Module
+• U029E Lost Communication with Nitrogen Oxides Sensor 2
+• U0402 Invalid Data Received from Transmission Control Module
+• U0403 Invalid Data Received from Transfer Case Control Module
+• U0404 Invalid Data Received from Gear Shift Control Module
+• U040F Invalid Data Received from Reductant Control Module
+• U0418 Invalid Data Received from Brake System Control Module 1
+• U0422 Invalid Data Received from Body Control Module
+Page 10 January, 2025 Bulletin No.: 23-NA-102
+• U1009 Reductant Control Module CAN Bus 3 Off
+• U1345 Engine Control Module LIN Bus 1
+• U1600 Lost Communication with Transmission Control Module on Engine Control Module LIN Bus 1
+• U1609 Lost Communication with Serial Data Gateway Module on CAN Bus 3
+• U1610 Lost Communication with Brake System Control Module 1 on CAN Bus 2
+• U1643 Lost Communication with Transmission Control Module on CAN Bus 2
+• U18D2 Lost Communication with Gear Shift Control Module on Powertrain Sensor CAN Bus
+• U18D3 Lost Communication with Gear Shift Control Module on CAN Bus 3
+• U2204 Serial Data Gateway Module Lost Communication with Reductant Control Module
+• U220F Serial Data Gateway Module Lost Communication with Transmission Control Module
+• U2212 Reductant Control Module Lost Communication with Engine Control Module
+• U2405 Gear Shift Control Module Lost Communication with Engine Control Module on CAN Bus 2
+• U2419 Serial Data Gateway Module Lost Communication with Brake System Control Module 1 on CAN Bus 2
+• U241C Serial Data Gateway Module Lost Communication with Engine Control Module on CAN Bus 2
+• U241D Serial Data Gateway Module Lost Communication with Engine Control Module on CAN Bus 3
+ 
+Bulletin No.: 23-NA-102 January, 2025 Page 11
+Loose Ground
+6400093
+Note: Refer to SI for ground locations in relation to the vehicle.
+Inspect ground connections G176A (1) and G177B (2) may exist. Please check for any:
+• Loosen condition
+• Damaged or dirty threads
+DTCs that may be common with a loose ground:
+• P00EB Intake Air Temperature Sensor 3 Circuit High
+• P0108 Manifold Absolute Pressure Sensor Circuit High
+• P045A Exhaust Gas Recirculation Valve 2 Control Circuit
+• P0494 Cooling Fan Speed Too Low — Left Side
+• P0615 Starter Relay Control Circuit
+• P0617 Starter Relay Control Circuit High Voltage
+• P0628 Fuel Pump Control Circuit Low
+Page 12 January, 2025 Bulletin No.: 23-NA-102
+• P0700 Transmission Control Module Requested Malfunction Indicator Lamp Illumination
+• P1098 Engine Coolant Control Valve Position Sensor Minimum Stop Performance — Internal Component Fault
+• P129F Fuel Pump Power Control Module Fuel Pump Speed Signal Incorrect
+• P12A6 Fuel Pump Power Control Module Enable Circuit Performance
+• P189C Transmission Range Command Message Performance
+• P2053 Reductant Injector 2 Control Circuit
+• P305D DC/DC Converter Crank Input Signal Circuit High Voltage
+• P3187 Fuel Pump Pressure Performance - Low Pressure
+• P31C3 Stop/Start System Performance
+• U0284 Lost Communication with Active Grille Air Shutter Actuator 1
+• U0285 Lost Communication with Active Grille Air Shutter Actuator 2
+• U02A9 Lost Communication with Charge Air Cooler Coolant Pump
+• U0585 Invalid Data Received from Active Grille Air Shutter Actuator 1
+• U0586 Invalid Data Received from Active Grille Air Shutter Actuator 2
+• U0623 Lost Communication with Heater Coolant Pump
+• U0632 Lost Communication with Cooling Fan Motor
+• U0633 Lost Communication with Engine Cooling Fan 2
+• U0650 Lost Communication with Exhaust Pressure Regulator Valve Position Sensor
+• U1345 Engine Control Module LIN Bus 1
+• U1346 Engine Control Module LIN Bus 2
+• U1347 Engine Control Module LIN Bus 3
+• U137E Invalid Data Received from Auxiliary Coolant Pump
+• U1600 Lost Communication with Transmission Control Module on Engine Control Module LIN Bus 1
+ 
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+N/ASPLICE,WIRE
+(SALMON)19300089 As Required
+N/AWoven Poly-
+ester (PET) Elec-
+trical Tape**1985620
+(USA)*
+1
+894.1230
+(Canada)*
+*There is enough material to service multiple vehicles.
+Store the remaining material for future use.
+**For USA, contact Wurth though website www.wur-
+thusa.com, by e-mail at www.customer.service@wur-
+thusa.com, or by calling 1-800-987-8487.
+For Canada, contact Wurth though their website at
+www.wurth.ca/, by e-mail at info@wurth.ca, by calling
+1-800-263-5002 or your local Wurth rep.
+ 
+Bulletin No.: 23-NA-102 January, 2025 Page 13
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+5486388* Repair Wire Chafe on LM2 and LZ0 T1 LD SUV and LDPU 1.0 hr
+Add Additional Wire Repair (As Required) 0.2 hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 8
+ModifiedReleased June 12, 2023
+Revised June 29, 2023 - Add Breakpoint Date of June 1, 2023.
+Revised July 19, 2023 - Added the Additional Keywords section.
+Revised August 01, 2023 — Added DTC’s and Loose Ground Section and Added 2024
+Model Year for Silverado 1500 and Sierra 1500.
+Revised August 17, 2023 – Update the Information in the Cause and Correction section,
+Update Graphic in CAC Electrical Connector section, and Added Additional DTCs.
+Revised September 08, 2023 - Changed DTC P1098 Definition.
+Revised June 28, 2024 - Added U0100, U0101, U0102, and U0121 to Additional
+Keywords section.
+Revised January 28, 2025 - Added 2025 Model Year.
+Additional Keywords:  P0658, P0659, P2812, P2814, P2815, P281B, P281D, P281E, P0960, P0962-P0964,
+P0966-P0968, P0970, P0971, P2670, P2671, P2718, P2720, P2721, P2727, P2729, P2730, P2736, P2738, P2739,
+P2824, P2826, P2827, P0716, P0717, P07BF, P07C0, P1783, P17CE, P0721-P0723, P077C, P077D, P172A,
+P172B, P0707, P0708, P2802, P2803, P2805, P0711, P0712, P0713, P176B-P176D, P178F, P17D3, P17C5,
+P17C6, P17CC, P17CD, P17D6, P17F5, P17F6, P17F7, P17FA, P17FB, P17FC, P18A2, P18A3, P18A4, P27EB,
+P27ED, P27EE, P2796, P2797, P2798, P2799, U1611, P0477, P0404, U0100, U0101, U0102, U0121
+ 

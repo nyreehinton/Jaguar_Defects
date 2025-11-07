@@ -1,0 +1,361 @@
+1KIT COMPONENTS
+See Figure 1. The following components are in the Bendix® 
+GSAT® (Global Scalable Air Treatment) core module kits 
+for Volvo® trucks: 
+Item No. Component Quantity
+1Core Module 2X EPB for 
+Attached Air Dryer Variant1
+2 Seal 1
+Bendix Kit Part Number: K202682K57
+Volvo Kit Part Number: 24865982
+Item No. Component Quantity
+3Core Module 2X EPB for 
+Detached Air Dryer Variant1
+Bendix Volvo Kit Part Number: K273506SC
+Item No. Component Quantity
+4Core Module 2X EPB CFL for 
+Detached Air Dryer Variant1
+Bendix Volvo Kit Part Number: K273509SC
+Item No. Component Quantity
+5Core Module 1X EPB for 
+Attached Air Dryer Variant1
+6 Seal 1
+Bendix Kit Part Number: K202680K57
+Volvo Kit Part Number: 24865981
+Item No. Component Quantity
+7Core Module 1X EPB for 
+Detached Air Dryer Variant1
+Bendix Volvo Kit Part Number: K273511SCBendix® GSAT® (Global Scalable Air Treatment) Core Module Replacement Kits  
+for Volvo® Trucks  
+GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND
+FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following 
+guidelines should be observed AT ALL TIMES :
+ ▲Park the vehicle on a level surface, apply the parking 
+brakes and always block the wheels.  Always wear personal 
+protection equipment.  
+ ▲Stop the engine and remove the ignition key when working 
+under or around the vehicle.  When working in the engine 
+compartment, the engine should be shut oﬀ   and the ignition 
+key should be removed. Where circumstances require that 
+the engine be in operation, EXTREME CAUTION  should be 
+used to prevent personal injury resulting from contact with 
+moving, rotating, leaking, heated or electrically-charged 
+components.  
+ ▲Do not attempt to install, remove, disassemble or 
+assemble a component until you have read, and thoroughly 
+understand, the recommended procedures.  Use only the 
+proper tools and observe all precautions pertaining to use 
+of those tools.
+ ▲If the work is being performed on the vehicle’s air brake 
+system, or any auxiliary pressurized air systems, make 
+certain to drain the air pressure from all reservoirs before 
+beginning ANY  work on the vehicle.  If the vehicle is 
+equipped with a Bendix® AD-IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD-9si®, AD-HF®, 
+or AD-HFi® air dryer, be sure to drain the purge reservoir.
+ ▲ Following the vehicle manufacturer’s recommended 
+procedures, deactivate the electrical system in a manner 
+that safely removes all electrical power from the vehicle .
+ ▲Never exceed manufacturer’s recommended pressures.  
+ ▲Never connect or disconnect a hose or line containing 
+pressure; it may whip and/or cause hazardous airborne 
+dust and dirt particles. Wear eye protection. Slowly open 
+connections with care, and verify that no pressure is 
+present. Never remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement parts, 
+components and kits. Replacement hardware, tubing, hose, 
+fi  ttings, wiring, etc. must be of equivalent size, type and 
+strength as original equipment and be designed specifi  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged parts should 
+be replaced rather than repaired.  Do not attempt repairs 
+requiring machining or welding unless specifi  cally stated 
+and approved by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make certain all 
+components and systems are restored to their proper 
+operating condition.
+ ▲ For vehicles with Automatic Traction Control (ATC), the ATC 
+function must be disabled (ATC indicator lamp should be 
+ON) prior to performing any vehicle maintenance where 
+one or more wheels on a drive axle are lifted oﬀ   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected from the 
+radar sensor whenever any tests USING A DYNAMOMETER 
+are conducted on a vehicle equipped with a Bendix® 
+Wingman® system.
+ ▲You should consult the vehicle manufacturer's operating 
+and service manuals, and any related literature, in 
+conjunction with the Guidelines above.
+2DESCRIPTION
+ IMPORT ANT
+Do not install the core module included in this kit if it 
+does not match the one being removed.
+These kits are used to replace the Bendix® GSAT® (Global 
+Scalable Air Treatment) core module. These are not retrofit 
+kits. These kits cannot  be installed on vehicles that do 
+not have an existing GSAT system. As shown in Figure 1 , 
+there are several variants of the GSAT air dryer. Be sure to 
+verify the core module included in this kit is identical 
+to the core module you are replacing.  Ensure both core 
+modules have the same port and mounting configurations 
+in the same locations.
+ 
+When replacing the core module assembly, it is mandatory 
+that the air dryer cartridge and carbon filter be replaced. 
+For replacement kit part numbers and instructions, refer 
+to S-1693, Bendix® GSAT® (Global Scalable Air Treatment) 
+Air Dryer Cartridge and Carbon Filter Kits for Volvo® 
+Trucks, on B2Bendix.com.
+NOTE: When replacing the air dryer cartridge, the cartridge 
+lifetime wear and wetness content will need to be reset. Use 
+Bendix® ACom® Diagnostic Software, or a Volvo® diagnostic 
+tool, to initiate the cartridge reset routines.
+VEHICLE PREPARATION
+1.  Park the vehicle on a level surface and chock the wheels. 
+2. Turn the ignition switch OFF. 
+3. Drain all reservoirs to 0 psi (0 kpa).
+4. Clean the exterior of the air dryer body to remove any 
+dirt and debris. 
+ 
+Always depressurize all air dryers and air reservoirs on 
+the vehicle to 0 psi (0 kpa) before servicing the air dryer. 
+Failure to drain the air pressure from all air dryers and 
+air reservoirs may result in injury or death.
+Figure 1 – Core Module Kits
+
+3DISASSEMBLY
+Core Module (Attached Variant)
+NOTE:  Identify and mark all connections on the core module 
+for ease of installation.
+1.  Disconnect all air line connections from the core module 
+and air dryer.
+2. Disconnect the electrical connector from the core module.
+3. Remove and retain the five (5) M12 mounting bolts that 
+secure the air dryer and attached core module to the 
+vehicle. 
+4. To remove the air dryer from the core module, first remove 
+the air dryer cartridge to access the mounting bolts from 
+the air dryer to the core module. 
+5. Using an appropriate filter wrench, loosen the old air 
+dryer cartridge and remove it from the air dryer housing 
+by turning in a counter-clockwise direction. Be careful 
+not to allow dirt or other contaminants to fall into the air 
+dryer housing.
+NOTE:  If using a filter wrench, place the filter wrench on 
+areas A or B  as shown in Figure 2 to avoid damage to 
+the cartridge. If a filter wrench is used in the middle of the 
+cartridge, damage may occur.
+Figure 2 – Desiccant Cartridge Filter Wrench Placement
+6. Once accessible, remove the carbon filter from the air 
+dryer body and discard.
+7. Using a T-30 Torx® drive, remove the four (4) M6 mounting 
+bolts that secure the air dryer to the core module and 
+set them aside for reuse. Air Connection 
+Port IDFunction/
+ConnectionPort Size 
+ISO 4039-2Maximum 
+Torque
+11 INEnergy Inlet 
+CompressorM22x1.544 ft-lb  
+(60 N•m)
+12 INEnergy Inlet 
+External Air FillM22x1.544 ft-lb  
+(60 N•m)
+2.1 DELEnergy Outlet to 
+Detached Core 
+ModuleM22x1.544 ft-lb  
+(60 N•m)
+4.5 CONControl Line to 
+Detached Core 
+ModuleM12x1.522 ft-lb  
+(30 N•m)
+3 EXH Exhaust n/a n/a
+13Supply from 
+Detached Dryer*M22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+14Supply from 
+Secondary Dryer 
+(CFL)M22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+21Energy Outlet 
+Service Brake 
+Front AxleM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+22Energy Outlet 
+Service Brake Rear 
+AxleM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+23Energy Outlet 
+Clutch and 
+Gearbox SwitchingM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+25Energy Outlet 
+SuspensionM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+26Tractor Spring 
+BrakesM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+28.1Tractor Spring 
+BrakesM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+28.2Tractor Spring 
+BrakesM22x1.525 + 5 ft-lb  
+(40 + 8 N•m)
+29.3 Trailer Supply M22x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+4.3Port for External 
+Release EPB 
+TractorM16x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+4.4Port for External 
+Release EPB 
+TrailerM16x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+4.6Control Line 
+Detached Air DryerM16x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+4.7Control Line to 
+Secondary Dryer 
+(CFL)M16x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+4/29Compressor 
+Control LineM16x1.518 + 3 ft-lb  
+(25 + 5 N•m)
+*Can be used as a tire filler
+Table 1 – Air Connections
+4ASSEMBLY
+Core Module (Attached Variant)
+1. Before mounting the air dryer to the core module, install 
+the seal (included in kit) into the seal groove of the air 
+dryer mounting surface. Ensure the orientation tabs are 
+located in the correct slots, and fully seat the seal into 
+the groove.
+Seal
+Figure 4 – Seal Installation
+2. Align the air dryer mounting alignment holes with the 
+alignment pins on the core module. Take care not to 
+damage the exposed heater connection pins.
+3. Seat the air dryer to the core module. The heater pins 
+of the core module will engage with the air dyer heater 
+so long as the alignment pin features are used.
+4. Secure the air dryer to the core module with the four (4) 
+M6 screws set aside during disassembly.
+5. Using a T-30 Torx® drive, torque the air dryer to 
+the control module mounting screws to 71 in-lbs  
+(8 N•m) in a cross pattern.
+6. Install the new air dryer cartridge and carbon filter per the 
+installation instruction S-1693, Bendix® GSAT® (Global 
+Scalable Air Treatment) Air Dryer Cartridge and Carbon 
+Filter Kits for Volvo® Trucks, which is shipped with the 
+replacement kit and can be found on B2Bendix.com.
+Figure 5 – Carbon Filter Installation
+Figure 3 – M6 Mounting Bolts
+M6 Mounting 
+BoltsM6 Mounting 
+Bolts
+8. The air dryer can now be removed by pulling it away from 
+the core module, taking care to not damage the alignment 
+pins and the heater connection. Discard the existing seal 
+(a new seal is provided in this kit). See Figure 4.
+9. Clean both mounting surfaces on the air dryer (between 
+the air dryer and the cartridge and between the air dryer 
+and the core module) with a clean cloth as the air dryer 
+will be reused. 
+Core Module (Detached Variant)
+NOTE:  Identify and mark all connections on the core module 
+for ease of installation.
+1.  Disconnect all air line connections from the core module.
+2. Disconnect the electrical connector from the core module. 
+3. Remove and retain the three (3) M12 mounting bolts 
+that secure the core module to the vehicle. 
+4. Remove the core module.  
+57. Spin the air dryer cartridge onto the air dryer housing in 
+a clockwise direction until the seal makes contact with 
+the air dryer housing. Using an appropriate filter wrench 
+– if necessary – tighten the air dryer cartridge by ½ turn.
+NOTE:  Place the filter wrench only on areas A or B as shown 
+in Figure 2 to avoid damage to the cartridge.
+8. Secure the core module to the vehicle using the five (5) 
+original M12 mounting bolts that were removed during 
+disassembly. Torque to 55 ft-lbs (75 N•m).
+9. Connect all air line connections to the new core module 
+as marked during the disassembly process. 
+10. Reattach the electrical harness to the core module 
+connector interface; lock it into place with the integrated 
+tab. 
+11. Before placing the vehicle back into service, perform the 
+Required Programming and Operational Test.
+Core Module (Detached Variant)
+1. Secure the core module to the vehicle using the three 
+(3) M12 mounting bolts that were removed during 
+disassembly. Torque to 55 ft-lbs (75 N•m).
+2. Connect all air line connections to the new core module 
+as marked during the disassembly process.
+3. Reattach the electrical harness to the core module 
+connector interface; lock it into place with the integrated 
+tab.
+4. Before placing the vehicle back into service, perform the 
+Required Programming  and Operational Test.
+REQUIRED PROGRAMMING
+Before placing the vehicle in service, the Bendix® GSAT 
+(Global Scalable Air Treatment) system for Volvo® must be 
+programmed to the OE configuration to properly function.
+1. Use the Volvo diagnostic tool to update the configuration 
+software per the Vehicle Identification Number (VIN).
+2. When replacing the air dryer cartridge, the cartridge 
+lifetime wear and wetness content will need to be reset. 
+Use Bendix® ACom® Diagnostic Software, or a Volvo® 
+diagnostic tool, to initiate the cartridge reset routines.OPERATIONAL TEST
+Before placing the vehicle in service, perform the following 
+tests.
+1. Close all of the reservoir drain cocks.
+2. With the engine at 1800 rpm, build up system pressure 
+to system cut-out while observing that both the front axle 
+(secondary) and rear axle (primary) service reservoir 
+dash gauges rise equally in pressure from 0 psi (0 kpa) 
+to system cut-out. If either gauge fails to display this 
+condition, stop testing and check the installation. Note 
+that the GSAT system regenerates/purges with an audible 
+escape of air when system cut-out pressure is reached.
+NOTE: The service reservoir pressures will drop during 
+regeneration/purge.
+3. Fan down the service brakes to reduce system air 
+pressure to system cut-in. Note that the system – once 
+again – builds to full system pressure and is followed 
+by a regeneration/purge event at the GSAT air dryer 
+primary exhaust.
+4. To verify proper park brake function, use the Hand Control 
+Unit (HCU) to release and apply the tractor park brakes 
+several times. The HCU and/or dash cluster should 
+illuminate, indicating a proper park state.
+5. It is recommended that the following items be tested for 
+leakage to ensure the GSAT will not cycle excessively:
+a.  Air brake system ( Refer to the Bendix® Air Brake 
+Handbook, BW5057,  on B2Bendix.com) 
+b.  Compressor unloader mechanism per manufacturer's 
+recommendation
+c. GSAT core module
+d.  Drain cock and safety valve in first (supply) reservoir 
+(if equipped)
+e.  All air connections leading to and from the first 
+(supply) reservoir (if equipped)
+TECHNICAL ASSISTANCE
+For additional assistance, the Bendix Tech Team can 
+be reached by email at techteam@bendix.com or by 
+phone at 1-800-AIR-BRAKE (1-800-247-2725), option 2. 
+Representatives are available Monday through Thursday, 
+8:00 a.m. – 6:00 p.m., and Friday, 8:00 a.m. – 5:00 p.m. ET.
+6S-1695 Rev 001 © 1/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr-Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST 

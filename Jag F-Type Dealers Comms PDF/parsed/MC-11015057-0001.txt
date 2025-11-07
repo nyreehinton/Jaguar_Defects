@@ -1,0 +1,10 @@
+Part Number:
+Part Description:
+Issue
+Description:9100419 02/24/2025 MY 19-21 VF
+GPOP  - Issue Review System
+CSPM44A4A$
+TRANS WITH TORQUE CONVER T
+Transmission failures "after" 44A/61A  has been completed are not recall related. Service
+transmission part numbers should be ordered R8210327AG (MY14-19) or R8453637AB
+(MY19-21)

@@ -1,0 +1,305 @@
+ 
+TECHNICAL INSTRUCTIONS  
+ 
+FOR  
+ 
+SPECIAL SERVICE CAMPAIGN 24LC04 
+ 
+REPROGRAMMING FOR ENGINE  ELECTRONIC CONTROL  UNIT  
+ 
+ 
+CERTAIN  2022, 2023  and 2024 LX600  VEHICLES  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The repair quality of covered vehicles is extremely important to  Lexus . All dealership technicians 
+performing this repair are required to successfully complete the most current version of the E -
+Learning course “Safety Recall and Service Campaign Essentials”. To ensure that all vehicles have the 
+repair performed correctly; technicians performing this repair are required to currently hold at least 
+one of the following certification levels:  
+ 
+• LIC206 A - Electrical Repair 1 
+ 
+It is the dealership’s responsibility to select technicians with the above certification level or greater to 
+perform this  repair.   Carefully review  your resources, the technician skill level, and ability before 
+assigning technicians to this repair.   It is important to consider technician days off and vacation 
+schedules to ensure there are properly trained technicians available to perform this repair at all times.  
+  
+ 1  
+ 
+I. OPERATION FLOW CHART  
+ 
+The flow chart is for reference only. DO NOT  use it in place of the full technical  instructions. Follow ALL 
+steps as outlined in the full technical instructions to confirm the campaign is completed correctly.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+ 2 II. IDENTIFICATION OF AFFECTED VEHICLES  
+ 
+1. CHECK VEHICLE FOR CAMPAIGN ELIGIBILITY  
+a) Compare the vehicles VIN to the VIN listed on the Repair Order to ensure they match.  
+b) Check the TIS Vehicle Inquiry System to confirm the VIN is involved in this Campaign, and that it has not 
+already been completed.  
+ 
+HINT : 
+TMNA warranty will not reimburse dealers for repairs completed on vehicles that are not affected or 
+were previously completed, even by another dealer.  
+ 
+ 
+III. PREPARATION  
+ 
+A. TOOLS & EQUIPMENT  
+• L-SB-0001-18 Rev. 2   
+• DCA -8000 Battery Diagnostic Station   
+• Techstream ADVi / Techstream 2.0 / Techstream Lite  
+ 
+ 
+BACKGROUND  
+ 
+  
+ 
+  
+IV. SAFETY PRECAUTIONS  
+   
+ CRITICAL INFORMATION  - READ THOROUGHLY  
+ 
+An ECU could be damaged if an error occurs in the communication while reprogramming the ECU. Confirm all work is 
+performed as described in these instructions.  
+
+ 3  
+ 1. STABILIZE THE POWER TO THE PERSONAL COMPUTER SIDE  
+a) Be sure to connect the personal computer to an external AC 
+power supply.  
+ 
+NOTICE : 
+The ECU could be damaged if the battery voltage of the personal 
+computer drops while reprogramming.  
+ 
+ b) Turn off the screen saver and power saving mode of the personal 
+computer so that the power to the hard disk is kept supplied.  
+ 
+NOTICE : 
+If the screen saver or power saving mode launches while 
+reprogramming, the communication may be disconnected, 
+resulting in the damage of the ECU.  
+ 
+ c) DO NOT  block the ventilation opening for the cooling fan of the 
+personal computer.  
+ 
+NOTICE : 
+If the ventilation opening for the cooling fan is blocked with a 
+sheet cover or the like, the personal computer may be heated excessively, causing the operation of the personal computer to stop.  
+Due to the stop of the operation, the communication for reprogramming signals could be stopped, resulting in the damage 
+of the ECU.  
+ 
+ 
+V. ENGINE  SYSTEM  CALIBRATION ID VERIFICATION  
+ 
+ 1. CHECK FOR DTC ’S 
+a) Using a GTS+, click the “ Health Check ” button on the Main Menu.  
+HINT : 
+This Campaign covers only the software update to the Engine  
+System , as detailed in these instructions. It does not cover the 
+diagnosis or replacement of any other systems on the vehicle.  
+ 
+2. CHECK CURRENT CALIBRATION  
+a) Locate the “Update” column of the “Calibration Information”  for the Engine system  on the "Health Check 
+Result" screen.  
+b) Determine the status of an available update; indicated by a YES or NO.  
+HINT: 
+If the CIDs indicate ‘Yes’, proceed with the update procedure.  
+ 
+
+ 4  
+ 
+ 
+ 
+ 
+  
+◄ CRITICAL MESSAGE ►  
+It is critical that L-SB-0001-18 Rev. 2  in addition to the Technical Instructions for this SSC] are followed. This TSB 
+outlines all steps necessary to prevent reprogramming failure. Toyota will not provide reimbursement coverage for reprogramming failures if this TSB is not followed.  If you have a reprogramming failure that requires ENGINE  CONTROL 
+COMPUTER  replacement and the Technical Instructions and TSB were followed correctly, please create a case with the 
+Technical Assistance Hotline documenting all information related to the failure. If sufficient reporting is received related 
+to re-flash failure, ther e will be consideration for reimbursement.  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+Is there an update available for 
+the Engine System ? 
+Campaign complete. Return the vehicle to the customer. Proceed to section VII . Vehicle 
+preparation on page 4. Yes No 
+ 5 VI. VEHICLE PREP ARATION  
+ 
+1. VEHICLE PREP ARATION  
+a) Confirm the following conditions : 
+• Vehicle in the IG position  (READY 
+OFF ). 
+• Transaxle  in Park.  
+• Parking brake engaged.   • Turn off all electrical accessories (i.e. climate control, 
+audio system, etc.)  
+• Headlight switch in the DRL OFF position.  (w/ DRL 
+OFF position)  
+• Windshield wiper switch in the OFF position.  
+ 
+ 
+ b) When the vehicle has no “ OFF position” in the light control 
+switch:  
+1) Turn the IG ON.  
+2) Set the light control switch to the AUTO position and make sure 
+that the exterior lights are turned on.  
+3) Light up the automatic light control sensor with work light to 
+keep the exterior lights turned off.   
+ 
+2. CONNECT THE 12 V BATTERY TO A POWER SUPPLY  
+a) Connect the DCA -8000 or other type of a power supply (not a battery charger) to the 12 V battery.  
+b) Tap the Reflash icon from the Main Menu screen of the DCA -8000.  
+  
+ A power supply MUST be used during reprogramming. ECU damage will occur if the battery 
+voltage is not properly maintained during this re -flash procedure.  
+ 
+NOT ICE: 
+A power supply must be connected directly to the 12 V battery terminals and NOT the remote jump 
+posts under the hood (if equipped).  
+ 
+3. VERIFY GTS+  SETUP  
+a) Verify that the GTS+ meets the following conditions:  
+• The latest version of software is loaded.  
+• The GTS+  battery is fully charged. If not, connect the GTS+  to a 120 V source.  
+• The DLC III cable is in good condition.  
+ 
+ The GTS+’s  battery voltage must also be maintained during the re- flash procedure. If necessary, 
+plug the GTS+  into a 120 V outlet during this procedure.  
+ 
+NOTICE: 
+If the GTS+ communication wit h the vehicle fails during the re- flash procedure, the Engine  Control  
+Computer  will be damaged.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+ 6 VII. UPDATE CALIBRATION  
+ 
+1. CONFIRM THE CALIBRATION ID  
+a) Confirm the current calibration ID in the Engine  System.  
+ 
+ 
+The calibration IDs to re -flash in this campaign are as shown in the table below.  
+ 
+Engine  Control  Computer  Calibrations  
+System  Current Calibration ID  New Calibration ID  
+Engine  896636A 13000  
+896636A 13300 896636A 13100  
+896636A 13200  
+896636A L7000  896636A L7200 896636A L7100  
+ 
+NOTICE:  
+If the Engine  Control  Computer  has the New CIDs, no update is necessary.  
+ 
+2. REFLASH THE  ENGINE CONTROL COMPUTER  
+a) Click “Yes” on the “Health Check Results ” screen or follow the links on the table above the begin the 
+reflash process.  
+NOT ICE: 
+Reflash failure should be extremely rare and can be avoided by following all instructions and 
+reprogramming best practices.  
+ 
+  
+
+ 7 VIII. COMPLETE REPAIR  
+ 
+1. DISCONNECT THE DCA -8000  
+ 
+ 2. PERFORM VERIFICATION HEALTH CHECK  
+a) Using a GTS+, click the “Health Check” button on the Main 
+Menu.  
+b) Clear DTC’s that may have set during the re- flash procedure.  
+c) Re-run the Health Check to confirm that no DTC’s reappear.  
+ THIS VERIFICATION HEALTH CHECK IS 
+NECESSARY to update the results and CIDs 
+to the National database.  
+ 
+ 
+3. CONFIRM CID UPDATE  
+a) On the Stored Data tab, confirm the following for the Engine System : 
+• The Calibration number has the “ New CID” number.  
+• The Update column says “No” . 
+ 
+ 
+ Confirm the CIDs has been updated successfully to the NEW  CIDs by someone other than the 
+individual who performed the repair.  Refer to p age 5. 
+ 
+ 4. PRINT CUSTORMER HEALTH CHECK REPORT  
+a) From the Stored Data tab, select the Customer Health Check 
+Report button (TIS will launch when button is pressed).  
+b) Log in to TIS.  
+c) Input Vehicle Mileage and Repair Order number.  
+d) Check the “Performed” campaign button for the applicable 
+campaigns . 
+e) Select the Report button.  
+  
+
+ 8  
+f) Confirm Customer Health Check Report information is correct.  
+g) Print Customer Health Check Report from TIS.  
+h) Sign and provide to the customer.  
+ 
+◄ VERIFY REPAIR QUALITY ►  
+ 
+- Confirm the reflash completes successfully. 
+- Confirm there are no DTCs after the Calibration update.  
+- If you have any questions regarding this update, please contact your area representative.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

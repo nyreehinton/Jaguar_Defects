@@ -1,0 +1,73 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-074
+Service BulletinDate: January, 2025
+INFORMATION
+Information on Gasoline Engine Replacement Guidelines after Connecting Rod
+or Crankshaft Main Bearing Damage – Replace Oil Cooler, Oil Cooler Lines, Oil
+Tank and Turbocharger
+Brand: Model: Model Year: VIN: Engine: Transmission
+:from to from to
+AllGM Passenger Cars
+and Trucks2000 2025 — —Gasoline Engines
+Only—
+Involved Region or CountryNorth America, Europe, Uzbekistan, Middle East, Iraq, Israel, Palestine, Argentina, Brazil,
+Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela, Japan, Cadillac
+Korea (South Korea), GM Korea Company, China, Taiwan, Thailand, Singapore,
+Philippines, Australia/New Zealand, Egypt, Other Africa, South Africa
+InformationThe purpose of this bulletin is to inform service personnel that any time an engine
+assembly is replaced due to a connecting rod or crankshaft main bearing failure, it is
+necessary to also replace the oil cooler, oil cooler lines, oil tank and turbocharger if
+equipped .
+Important: On some vehicles, the oil cooler is part of the radiator assembly. If the oil
+cooler on the vehicle is part of the radiator, it must be replaced along with the other re-
+quired components.
+If an engine experiences an engine failure due to a damaged rod or main bearing the
+debris from the bearing is sent directly through the oil galleries and components that
+are in the lubrication circuit.
+These oil passages and components are very difficult to ensure they are completely
+clean. If one of the failed components that carries oil is not clean and installed on a new
+engine there is the possibility that the debris could transfer to the new engine causing
+damage.
+Oil cooler, oil cooler line, oil tank and turbocharger replacement is required due to the
+complex oil gallery passages, making thorough and complete component cleaning
+difficult and guarantee you completely removed all the debris. Reinstallation of an oil
+cooler and/or cooler line that was removed from an engine with a bearing failure debris
+may result in the transfer of any remaining debris into the new Genuine GM Part service
+engine. This could cause damage or potential failure of the new Genuine GM Part service
+engine long block.
+Below are pictures of connecting rod or crankshaft main bearing failures that would
+warrant an engine replacement along with the oil cooler, oil cooler lines, oil tank and
+turbocharger if equipped.
+Note: Some service engines come with the oil cooler and/or oil cooler line(s) already
+attached to the new service engine. In this case, replacement of those components is not
+necessary.
+Note: Not every engine that has bearing damage requires an oil cooler, oil cooler line, oil
+tank replacement or even the engine to be replaced. Please refer to Service Bulletin #
+18-NA-073: Repair Guidelines for Engine Component Wear for additional information.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Below are examples of connecting rod or crankshaft main bearing damage that would require an engine assembly
+replacement along with the oil cooler, oil cooler lines, oil tank and turbocharger if equipped.
+Page 2 January, 2025 Bulletin No.: 22-NA-074
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION
+6020407
+6020408
+Version 5
+ModifiedReleased March 31, 2022
+Revised November 09, 2022 – Added 2023 Model Year.
+Revised May 19, 2023 – Added Turbocharger replacement information to the Information
+section and added the Important statement.
+Revised February 22, 2024 – Added 2024 Model Year and Important statement to
+Information section.
+Revised January 30, 2025 – Added 2025 Model Year.
+ 

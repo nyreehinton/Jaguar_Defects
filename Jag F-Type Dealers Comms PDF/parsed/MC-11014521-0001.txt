@@ -1,0 +1,397 @@
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+GASGAS TECHNICAL BULLETIN GTB-2502-USA 
+ 
+RECALL: THIS MODIFICATION HAS TOP PRIORITY AND MUST BE    
+PERFORMED IMMEDIATELY TO ENSURE CUSTOMER SAFETY  
+ 
+FRONT BRAKE CALIPER CHECK AND REPLACEMENT IF NECESSARY 
+ 
+FEBRUARY 11, 2025 
+ 
+AFFECTED MODELS: 
+2024 ES 350, ES 500 
+2025 ES 350, ES 500 
+ 
+RESTRICTIONS: AFFECTED MODELS ARE LINKED BY VIN IN DEALER.NET 
+ 
+ 
+BASIC INFORMATION:  
+GASGAS North America has determined that a defect which relates to motor vehicle safety exists with 
+certain 2024 and 2025 GASGAS motorcycles equipped with BRAKTEC front brake calipers. 
+ 
+Irregularities were found in the casting structure of one of our brake supplier's subcontractors. In the worst 
+case, this can lead to the front brake caliper cracking in the area around the upper guide pin.  See Figures 
+1 and 2. 
+                                   
+                           Figure 1:                                                Figure 2:                                                                          
+ 
+If the front brake caliper cracks at the upper guide pin it may reduce the braking systems effectiveness.  
+For this reason, the manufacturer of the brake caliper casting must be checked on affected vehicles and 
+replaced if necessary. 
+
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+The differentiation between the suppliers of the cast raw parts of affected vehicles can be seen directly on 
+the brake caliper, see Figures 3 and 4.  
+ 
+PROCEDURE FOR REPAIR: 
+ 
+Check and replace front brake caliper if necessary: 
+ 
+1. On affected vehicles, check which cast raw part manufacturer the brake caliper installed on the 
+vehicle is from and therefore whether it is affected by the replacement (see Figures 3 and 4). 
+- If the brake caliper is not affected by the replacement (Fig. 3 / supplier 1), continue with point 9. 
+ Use campaign code 00 when creating the warranty claim. 
+- If the brake caliper needs to be replaced (Fig. 4 / supplier 2), continue with point 2.  
+ Use campaign code 01 when creating the warranty claim. 
+ 
+Important note:  
+This distinction only applies to vehicles linked to the recall!  
+Vehicles produced later may also have these "centering holes” that are circled below in red but are 
+not affected by the recall or replacement! You must check the VIN in the Dealer.net vehicle history 
+first to determine if the vehicle is linked to this TI bulletin. 
+ 
+                 
+        Figure 3:                                                                       Figure 4:  
+        Front Brake caliper from OK sub-supplier 1             Front Brake caliper from non-OK sub-supplier 2 
+        Calipers that look like this do not need replaced.    If the caliper looks like this and is also linked by 
+                                                                                               VIN in Dealer.net it must be replaced.         
+ 
+ 
+ 
+
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+2. Remove the front brake caliper from the vehicle and disconnect the brake line. 
+3. Remove the brake pads, brake caliper bracket, bolts and split pins from the "old" brake caliper and     
+install them in the "new" brake caliper. 
+4. Refit the brake hose to the brake caliper, see table 1 for torque. 
+5. Refit the brake caliper to the vehicle, see table 1 for torque. 
+6. Bleed the brake system. 
+7. Carry out a short test drive to ensure that the brake system is functioning properly. 
+8. Make the old part unusable (e.g., sawing in) and document it accordingly in the warranty claim with 
+a photo and keep it in accordance with the retention period. 
+9. Create a warranty claim with photo documentation of the "old" brake caliper in GasGas Dealer.net. 
+ 
+ Avoid contact between brake fluid and painted parts. Brake fluid attacks paint!   
+ Small amounts of brake fluid may leak out, therefore protect surrounding surfaces with proper 
+protective covering to prevent damage. 
+ Immediately wash off brake fluid residues or stains with water. 
+ 
+We shall not provide a description of general workshop methods. Likewise, safety rules that apply in a 
+workshop are not specified here. It is assumed that the repair work will be performed by a fully trained 
+mechanic who has completed training or has a corresponding qualification. In the event of uncertainty, the 
+most recent repair manual must be consulted.  
+ 
+In the interest of clarity, some components may be shown disassembled or may not be shown at all. It is 
+not always necessary to disassemble the component to perform the activity in question. Please follow the 
+instructions in the text. 
+ 
+Table 1 - Screw connections and torques 
+Component Screw Torque Comment 
+SK collar screw M8x30 
+ISA40 SS 25 Nm Loctite® 243 ™ 
+Banjo bolt M10 30 Nm  
+ 
+GASGAS North America is notifying all registered owners of affected motorcycles by mail. A copy of the 
+customer letter is included in this bulletin. The customer should take the letter along with the affected 
+motorcycle to an authorized GASGAS motorcycles dealer to have the front brake caliper checked and 
+replaced if necessary. 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+Dealers must check the front brake caliper on affected motorcycles in their inventory prior to any customer 
+delivery and replace it if necessary. 
+ 
+Any of the affected motorcycles received directly from GASGAS North America require the front brake 
+caliper check and replacement if necessary procedure performed prior to customer delivery. Affected 
+motorcycles acquired through dealer transfers or trades must be remedied and checked in GASGAS 
+Dealer.net to ensure and document that the repair has been performed.   
+ 
+Motorcycles that are affected must not be sold until the front brake caliper check and replacement 
+if necessary procedure is performed as described in this bulletin.   
+ 
+It is a violation of GASGAS North America policy for an authorized GASGAS motorcycles dealer to deliver 
+any affected units to customers before the procedure in this bulletin has been performed. 
+ 
+GASGAS North America must report to the federal government on a regular basis how many motorcycles 
+have been inspected and repaired during this campaign. Be sure to submit your warranty request for 
+reimbursement on every unit repaired to ensure accurate compliance numbers. 
+ 
+VEHICLE LOCK INFORMATION: 
+Unsold motorcycles that are linked to this recall are locked in the vehicle history.  The vehicle lock prevents 
+the motorcycle from being retailed to a customer before the recall is performed.  In order to unlock the 
+vehicle you must perform the recall and then submit a TI claim.  After the TI claim is submitted it will be 
+possible to unlock and retail the motorcycle. 
+ 
+PARTS ORDERING: 
+Please order the following for each affected motorcycle: 
+ 
+1 QTY. A59013015044 - Front brake caliper for TI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+WARRANTY INPUT INFORMATION: 
+This Technical Bulletin only affects certain VIN numbers! Please check the VIN by performing a 
+Motorcycle History search in GASGAS Dealer.net to determine if it’s affected. If the motorcycle is 
+affected, you will see a link to the bulletin and its repair status in the history results. GASGAS North 
+America will not warranty motorcycles whose VIN numbers are not linked as this bulletin does not 
+apply to them. It is the responsibility of the dealer to determine if the motorcycle requires this update 
+by checking the vehicle history and understanding the instructions provided by this bulletin. 
+ 
+Please note that when entering a warranty claim on an affected model, you must perform a history search, 
+expand the Technical Information  window, click the red arrow on the right side of the corresponding 
+bulletin message.  
+ 
+You can now choose the TI Number from the list. The TI number for this procedure is according to the 
+repairs performed and listed in the warranty claim input information; click Continue with selected action 
+code. The Warranty Claim is automatically entered for you, including parts & labor. You must enter 
+additional information in the required fields marked with an asterisk “*” before submitting the claim to 
+GASGAS. The flat rate time for this repair is based on the action performed and provided in minutes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Warranty type:  
+TI warranty  
+Assembly group:  
+13 – Brake system 
+Damage code:  
+900 – Failure identification by manufacturer 
+Part causing failure:  
+A54013020000 - Bleed screw cpl. 
+Action code, parts, working time:  
+Front brake caliper check: 
+Campaign code 00: 13_2471096_00 
+Working time:               10 minutes 
+Parts:                             None 
+Check and replace front brake caliper: 
+Campaign code 01: 13_2471096_01 
+Labor time:               30 minutes 
+Parts:                             1 piece #A59013015044 - Front brake caliper for TI 
+                                      1 piece #GA06 - Brake fluid 
+Are stock items affected:  
+YES - all stock brake calipers #A54013015000, #A54113015000 and #A59013015000 must also be 
+checked as described in step 1 above and if affected by the replacement must be returned to the spare 
+parts warehouse via RMA. 
+Guaranteed cost reimbursement under implied warranty:  
+24 months  from the delivery date of the vehicle or 24 months  after publication of the TI.  
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+IMPORTANT SAFETY RECALL NOTICE  
+NHTSA Recall No. xxxxxxx 
+ 
+This notice applies to your motorcycle, VIN: «Vin»                  2/xx/2025 
+«PdiFirstName» «PdiLastName»  
+«PdiAddress1»  
+«PdiCity», «PdiProvince» «PdiPostalCode»  
+ 
+RE: Affected models:  
+2024 ES 350, ES 500 
+2025 ES 350, ES 500  
+ 
+Dear GASGAS customer,  
+ 
+This notice is sent to you in accordance with the requirements of the National Traffic and Motor Vehicle Safety Act.  
+GASGAS North America has determined that a defect which relates to motor vehicle safety exists with certain 2024 and 
+2025 GASGAS motorcycles equipped with BRAKTEC front brake calipers. 
+ 
+Irregularities were found in the casting structure of one of our brake supplier's subcontractors. In the worst case, this can 
+lead to the front brake caliper cracking in the area around the upper guide pin on affected front brake calipers. 
+ 
+If the front brake caliper cracks at the upper guide pin it may reduce the braking systems effectiveness. For this reason, 
+the supplier of the brake caliper casting must be checked on affected vehicles and replaced if necessary. 
+ 
+To remedy this defect, it is necessary to have the front brake caliper inspected by an authorized GASGAS motorcycles 
+dealer to verify which supplier produced the front brake caliper that is mounted on your motorcycle to determine if it is 
+defective or not defective.   
+ 
+ If during the inspection your front brake caliper is determined to not be defective then the front brake caliper does 
+not need to be replaced. 
+ 
+ If during the inspection your front brake caliper is determined to be defective then the front brake caliper needs 
+to be replaced.   
+ 
+Please contact your authorized GASGAS motorcycles dealer (log onto www.gasgas.com  for a complete dealer listing) as 
+soon as possible to arrange having the front brake caliper inspected and replaced if necessary.  It is suggested that you 
+call your local authorized GASGAS motorcycles dealer to make an appointment to have the recall repair performed. The 
+procedure will take approximately 30 minutes.  However, it may be necessary to leave your motorcycle with the dealer for 
+a longer period of time depending on their work schedule and if they need to order replacement parts. Please present a 
+copy of this letter along with your motorcycle to your local authorized GASGAS motorcycles dealer. There will be no charge 
+for this service. 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT NOTICE 
+The user acknowledges that all components of this technical information are GASGAS‘s and/or third parties’ copyright protected property. Alteration, 
+assignment, distribution and reproduction are forbidden.  
+LIMITATION OF LIABILITY 
+The information included in or available through this technical information may include inaccuracies or errors. In no event shall GASGAS and/or its suppliers be 
+liable for any damages whatsoever, arising out of or in connection with the use of this technical information.  Please always refer to the GASGAS owners and repair 
+manuals for proper instructions or contact the GASGAS Dealer Services Department. ©2025 GASGAS North America – All rights reserved 
+GASGAS NORTH AMERICA 
+30125 KTM Way | Murrieta, CA 92563 
+1119 Milan Ave. | Amherst, OH 44001 
+8701 Samuel-Hatt |Chambly, QC J3L 6V4 
+www.gasgas.com  
+ 
+ 
+ 
+ 
+ 
+If you have any questions related to the content of this letter, please contact GASGAS North America Customer Relations 
+at (888) 985-6090 for assistance. Furthermore, if you believe that GASGAS has failed to remedy this defect without charge 
+or is unable to do so within a reasonable time, you may submit a complaint to the Administrator, National Highway Traffic 
+Safety Administration, 1200 New Jersey Avenue, S.E., Washington, DC 20590 or call 1-888-327-4236 (TTY: 1-800-424-
+9153); or go to http://www.safercar.gov   
+ 
+If you have sold, traded or no longer own this motorcycle, it is important for the safety of the current owner that you inform 
+GASGAS North America of current ownership or unknown ownership status by returning the second page of this letter in 
+the enclosed self-addressed prepaid postage envelope.   
+ 
+If you are a vehicle lessor, Federal Regulations require you to forward this notice to your lessee within ten days. 
+ 
+If you have already paid for a repair related to this concern before the date of this letter, you may be eligible for 
+reimbursement.  Please contact GASGAS motorcycles Customer Relations at the number above for more information. 
+ 
+We apologize for any inconvenience and want to assure you that our commitment together with all GASGAS motorcycles 
+dealers is to provide you with the highest level of service, support and customer satisfaction.  
+ 
+Best Regards,  
+Dealer Services Department  
+GASGAS North America 
+ 
+ 
+ 

@@ -1,0 +1,101 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-018
+Service BulletinDate: January, 2025
+INFORMATION
+Radio Software Update W23E-178.1.2-M174-SQBR6-93.4
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Cadillac Escalade IQ 2025 2025        
+Involved Region or Country North America, Mexico, Middle East, Israel, Palestine, S. Korea, Egypt
+Additional Options (RPOs) Equipped with Infotainment RPO IVE
+ConditionSome customers may comment on software related issues. Continuous improvement
+software updates are being released with improvements made in several areas.
+Cause The cause of the condition may be software anomalies.
+CorrectionA new radio software update, version is W23E-178.1.2-M174-SQBR6-93.4, was released
+to service for vehicles equipped with Infotainment system RPO IVD and IVE being
+brought into the service department. In addition to providing general robustness and
+stability enhancements, this update includes all enhancements from previous software
+version releases. Along with the vehicles mentioned above; fleet customers may need
+the dealer to reprogram the radio with the new software package.
+For programming instructions please refer to 24-NA-143 .
+Note: If you are performing this update as part of N242490440 please use the labor op
+from that campaign. If the campaign is closed for the VIN you are programming, please
+refer to 24-NA-132 .
+Caution: to avoid potential programming errors, ensure both programming events (Pro-
+gramming and USB File Transfer) are performed.Subject:
+Important: Improvements will vary by model, build configuration, system, and sales region. Not all vehicles have all
+features.
+Most notable improvements contained in this release may include:
+Apps:
+• User can access Ambient Lighting app in a vehicle that doesn't support it
+Audio:
+• No audio
+• No chimes
+• Static
+Bluetooth:
+• Connection loss
+• Connectivity
+• Max volume
+• No audio
+• Not functioning
+• SMS message not on UI
+• Static
+Page 2 January, 2025 Bulletin No.: 25-NA-018
+Camera:
+• Black screen
+• Camera video feed and icons overlap
+• Frozen
+• Slow
+Cluster:
+• Falsely set codes: B197F.00,U0485.00 & U1962.00 in BCM
+• Frequent dimming
+• Trip odometer not resetting
+• Parts of cluster may be unresponsive
+• Wrong graphics/information
+Display:
+• Black box
+• Black screen
+• Customers see blank screen after door open/close during approach animation
+• Customer will see the wallpaper and other components in Vtrack/Vseries theme
+but app tray/status bar will be shown in the base (flow) theme
+• Half screen black
+• Home button inoperable
+• HVAC bar missing
+• View change is slow when shifting from Park to Reverse
+Front Command Center Display:
+• Black screen
+• Camera app not launching
+• Keyboard does not dismiss
+• Keyboard unavailable
+MFC:
+• Not functioning
+Non—streaming Apps:
+• Wireless charging buttons inoperable
+• OnStar
+• Call not displayed
+• No audio
+Stability:
+• Popup message – Pedestrian Collision alert did not appear
+Steering Wheel Controls:
+• Steering wheel dial scrolls in the opposite direction
+Export only:
+• Customer would not be able to complete SetUpWizard in EU under certain circumstances
+Bulletin No.: 25-NA-018 January, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONService Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Version 1
+Modified Released January 30, 2025

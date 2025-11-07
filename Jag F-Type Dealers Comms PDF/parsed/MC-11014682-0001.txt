@@ -1,0 +1,534 @@
+ 
+Page 1 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com  Authored Date  25/02/2025  
+Doc No.  IATSB002998v 4 
+Title  Sunroof Waterdrain – Water Ingress  
+Affected Vehicle(s)  Grenadier  PF00001  -  
+This Technical Service Bulletin (TSB) should only apply to vehicles that demonstrate the described issue 
+below.  
+ 
+Reason for this document  
+Issue:  An issue has been identified on a small percentage of the affected vehicles where water marks 
+appear on the roofliner around the A -Pillar area and water accumulation in  the footwell . 
+Cause:  Water Accumulation around the drain pipe within the sunroof aperture or panel . 
+Action:  Follow the procedure below.  
+ 
+Workshop Procedure  
+ 
+Sunroof Waterdrain – Repair/Replace  
+Operation : SRO  Repair Time : 
+Sunroof Waterdrain  pipe  Replace 
+and Bearing Install  XTSBSWREPBI  2.5 Hours  
+Sunroof Waterdrain  pipe  
+Adjustment and bearing install  XTSBSWADBI2  2.5 Hours  
+Sunroo f Waterdrain pipe bearing 
+install only.  XTSBSWBI001  0.3 Hours  
+ 
+Parts  
+Part Number  Description  Qty 
+GRA -8H01 -044960  Sunroof Waterdrain  1 
+GRA -8H01 -051550  Sunroof Waterdrain Bearing  1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- The procedure contains illustrations showing certain components removed to provide 
+extra clarity.   
+- This procedure contains some variati on in the illustrations depending on the vehicle 
+specification, but the essential information is always correct.  
+ 
+Page 2 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+Procedure – Check part number of the waterdrain pipe.  
+Check  
+1. 
+Open the Sunroof.  
+Refer to: Sunroof Panel (Open and Close)  TOPIC_0000004665  
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Release the sunroof catch.  
+• Remove the Sunroof  
+ 
+ 
+ 
+ 
+ 
+ 
+Cautions  
+- Take care when removing the component . Damage can occur to the vehicle 
+and component if appropriate care has not been taken.  
+
+ 
+Page 3 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Check the part number of the installed sunroof waterdrain pipe.  
+• If the part number shown IS EI-0000027513  proceed to  Procedure - Installing new bearing to the 
+1-Piece sunroof waterdrain pipe  
+• If the part number shown IS NOT  EI-0000027513 proceed to Procedure - Installing new 1 -Piece 
+Sunroof waterdrain pipe/Adjustment to the Waterdrain pipe.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 4 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+Procedure – Installing new 1 -Piece Sunroof waterdrain pipe /Adjustment to the Waterdrain 
+pipe . 
+Removal  
+1. 
+Remove the Front Roofliner . 
+Refer to: Roofliner  Front (with Sunroof) (E -Call and Diff -Lock) (Remove for Access and Install) TOPIC_0000004716  
+ 
+ 
+2. 
+Remove the Demister Vent.  
+Refer to: Demister Vent Left (Remove for Access and Install) TOPIC _0000001485  
+Demister Vent Right (Remove for Access and Install) TOPIC_0000 001504  
+ 
+ 
+3. 
+Remove the Lower A -Pillar Trim.  
+Refer to:  A-Pillar Trim Lower Left (Remove for Access and Install) TOPIC_ 0000000520  
+A-Pillar Trim Lower Right (Remove for Access and Install) TOPIC_ 0000003686  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+4.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Remove  the integrated sunroof waterdrain  pipe at both ends.  
+• Proceed to step 6.  
+ 
+ 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remove and discard the Sunroof waterdrain pipe.  
+Note:  
+- If the vehicle has already been fitted  with the previous 3-piece  design, procced to 
+step 5.  
+- The image used in this step is of the top waterdrain point, lower end is similar  
+ 
+
+ 
+Page 6 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+Installation  
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Install the Sunroof waterdrain pipe.  
+• Install the Sunroof waterdrain pipe behind the A -Pillar handle brackets.  
+ 
+Parts: GRA -8H01044960 – Sunroof Waterdrain. Quantity: 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+Only install a new waterdrain pipe if  the waterdrain  pipe already installed is not the 1 -
+piece design.  
+ 
+ 
+Page 7 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the Sunroof waterdrain pipe for deformation.  
+ 
+• If deformation is found, remove and install the Sunroof waterdrain pipe.  
+• If deformation is not found proceed to step 8.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 8 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Install  the sunroof  waterdrain pipe bearing into the sunroof waterdrain pipe.  
+Parts: GRA-8H01 -051550  Sunroof Waterdrain  Bearing. Quantity: 1  
+ 
+ 
+4. 
+Install  the Lower A -Pillar Trim.  
+Refer to:  A-Pillar Trim Lower Left (Remove for Access and Install) TOPIC_0000000520  
+A-Pillar Trim Lower Right (Remove for Access and Install) TOPIC_0000003686  
+ 
+ 
+ 
+5.  
+Install  the Demister Vent.  
+Refer to: Demister Vent Left (Remove for Access and Install) TOPIC_0000001485  
+Demister Vent Right (Remove for Access and Install) TOPIC_0000001504  
+ 
+Cautions  
+- Check the position of the sun roof waterdrain pipe is correct.  
+- Check the tightness of the sealing once the bearing has been installed.  
+ 
+Page 9 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+6. 
+Install  the Front Roofliner.  
+Refer to: Roofliner  Front (with Sunroof) (E -Call and Diff -Lock) (Remove for Access and Install) TOPIC_0000004716  
+ 
+ 
+7. 
+Install the sunroof.  
+ 
+ 
+8. 
+Close the Sunroof.  
+Refer to: Sunroof Panel (Open and Close) TOPIC_0000004665  
+ 
+ 
+9. 
+Release the vehicle.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 10 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+Procedure – Installing new  bearing to the 1 -Piece sunroof waterdrain pipe  
+Install  
+ 
+1. 
+Remove the Upper  A-Pillar Trim.  
+Refer to:  A-Pillar Trim Upper  Left (Remove for Access and Install) TOPIC_ 000000 2743  
+A-Pillar Trim Upper  Right (Remove for Access and Install) TOPIC_000000 2714  
+ 
+ 
+2. 
+Remove the Lower A -Pillar Trim.  
+Refer to:  A-Pillar Trim Lower Left (Remove for Access and Install) TOPIC_0000000520  
+A-Pillar Trim Lower Right (Remove for Access and Install) TOPIC_0000003686  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the Sunroof waterdrain pipe for deformation.  
+ 
+• If deformation is found, follow Procedure  - Installing new 1 -Piece Sunroof waterdrain pipe / 
+Adjustment to the Waterdrain pipe   
+• If deformation is not found proceed to step 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+If the pipe is deformed, DO NOT replace the waterdrain pipe. Re-install the pipe into 
+the correct position.  
+ 
+ 
+Page 12 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Install the sunroof waterdrain pipe bearing into the sunroof waterdrain pipe.  
+Parts: GRA -8H01 -051550 Sunroof Waterdrain Bearing. Quantity: 1  
+ 
+ 
+5. 
+Install the Upper  A-Pillar Trim.  
+Refer to:  A-Pillar Trim Upper  Left (Remove for Access and Install) TOPIC_ 0000002743  
+A-Pillar Trim Upper Right (Remove for Access and Install) TOPIC_0000002714  
+ 
+ 
+6. 
+Install  the Lower A -Pillar Trim.  
+Refer to:  A-Pillar Trim Lower Left (Remove for Access and Install) TOPIC_0000000520  
+A-Pillar Trim Lower Right (Remove for Access and Install) TOPIC_0000003686  
+ 
+ 
+Cautions  
+- Check the position of the sunroof waterdrain pipe is correct.  
+- Check the tightness of the sealing once the bearing has been installed.  
+ 
+Page 13 
+ Technical Service Bulletin  IATSB002 998v 3 
+INEOS Automotive  Ltd, 15 -19 Britten Street, Chelsea, London,  SW3 3TY, UK  
+INEOS Automotive Limited is registered in England and Wales (company number 11201576). Registered office address Hawkslease, Chapel 
+Lane, Lyndhurst, Hampshire, SO43 7FG, UK.  
+Ineosgrenadier.com   
+7. 
+Install the sunroof.  
+ 
+ 
+8. 
+Close the Sunroof.  
+Refer to: Sunroof Panel (Open and Close) TOPIC_0000004665  
+ 
+ 
+9. 
+Release the vehicle.  
+ 
+ 
+ 
+Change History  
+Reference No.  Date  Description  
+IATSB002998  26/02/2024  First Release  
+IATSB002998v2  13/01/2025  Second Release  
+IATSB002998v3  11/02/2025  Third Release  
+IATSB0 02998v4  25/02/2025  Forth Release  
+  

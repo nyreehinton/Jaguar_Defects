@@ -1,0 +1,8 @@
+   
+SSM 53374   2025 Explorer/Aviator - Special Service Tool (SST) For GWM
+Replacement
+Some 2025 Explorer/Aviator vehicles may exhibit a concern where it would require gateway module (GWM)
+replacement. The SST 419-001 socket called out in Workshop Manual (WSM) is currently not available to
+dealers. The tool is available through the loaner program through the Rotunda Technician Tool Program
+(RTTP). Contact the RTTP by calling the phone number on the Professional Technician System (PTS) website,
+under the Rotunda tab. For dealers in the United States, select Option #3, for Canada, select Option #5.

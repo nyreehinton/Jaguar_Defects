@@ -1,0 +1,81 @@
+Less Info
+Countries:CANADA, MEXICO, UNITED
+STATESDocument
+ID:IK0800678
+Availability: ISIS, FleetISIS, NotSIR Revision: 1
+Major System: Electrical Created: 2/4/2025
+Current
+Language:EnglishLast
+Modified:2/13/2025
+Other
+Languages:NONE Author:Sean
+McGannon
+Viewed: 89
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 3
+ 0
+Title: MV 04GBL Intellipark Won't Release With Door Open
+Applies To: MVs with feature 04GBL Intellipark non-towing units.
+ 
+CHANGE LOG  
+ 
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/07/2025 - Initial Article Release
+02/13/2025 - Added Country Codes
+ 
+ 
+DESCRIPTION
+ 
+This document informs dealers and customers of a known issue on non-towing MVs equipped with feature 04GBL  BRAKE,
+PARKING {Bendix Intellipark} Electronic Park Brake, for Truck or Bus Applications. If the operator of the vehicle attempts to
+release the parking brake with any door open it will not release. Currently , other Intellipark feature codes and other models of
+vehicles will display a warning in the instrument cluster screen that the parking brake will not release due to the door being open
+(Figure 1).  On MVs with 04GBL, this message currently does not display .  If the operator of the vehicle complains that the
+parking brake will not release verify all doors are closed, the service brake is applied, and the ignition key is on.  A future
+software release will add this functionality to MVs with 04GBL.
+ 
+ 
+Figure 1: W arning Message in Cluster
+ 
+SYMPT OM(s)
+Customer Observations or Concerns:
+ 
+Parking Brake will not release.
+Hide Details Feedback Information
+Viewed: 88
+Helpful: 3
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc. 
+ 
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+ 
+Not Applicable.
+ 
+ 
+SERVICE P ARTS INFORMA TION
+ 
+Not Applicable.
+ 
+ 
+ADDITIONAL  DIAGNOSTIC STEP(s)
+The door switch signals can be monitored in DLB if they are believed to be malfunctioning and causing this complaint.  Signal
+Door_Switch should be 0 with all doors closed.  Door_Position_Signal will be 2 with all doors closed.
+ 
+ 
+ 
+WARRANTY  INFORMA TION
+ 
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes. 
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 

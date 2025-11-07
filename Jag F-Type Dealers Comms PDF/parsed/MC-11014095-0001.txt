@@ -1,0 +1,35 @@
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Center 
+Online does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear 
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the appropriate 
+course of action.  
+ 
+Chrysler Group LLC           Contact the STAR Center for assistance if no solution is found   Version 5/23/13   
+Case Number : S250800000 8 
+ 
+Release Date:  February  2025 
+ 
+Symptom/Vehicle Issue:  Battery Drained, Ignition Off Draw, Cluster Display and Door Lock 
+Indicator  Lamps Stay Illuminated  
+ 
+Customer Complaint/ Technician Observ ation: The Customer complains the vehicles 
+battery is dead and will not start the vehicle. The owner and technician may have observed the 
+cluster staying awake after leaving the vehicle, keeping the BUS active.  
+ 
+Repair Procedure:  Use the wiT ECH  to access the Body control Module (BCM) configuration 
+folder. View the( Lock  indicator Timeout), the seconds displayed should be 90 seconds. If the 
+seconds displayed is higher , the vehicle will require the service tool procedure to restore the vehicle 
+configuration. Once the vehicle restoration has completed the reading should be reviewed and 
+displaying 90 seconds confirming the update has changed the setting.   
+ For vehicles that have a battery drain complaint, and the (Lock  indicator Timeout ) is displaying 
+90 seconds further diagnosis for the suspect IOD battery drain condition s will be required.  
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+     
+      

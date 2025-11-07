@@ -1,0 +1,234 @@
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 1 of 10
+ NUMBER: 16-103-16R
+ DATE: 12/14/16
+ REVISED: 02/18/25
+ 
+ APPLICABILITY: 2010-19MY Legacy and Outback 
+ 2014-19MY Forester 
+ 2012-19MY Impreza 
+ 2013-19MY Crosstrek (Exc. 19MY PHEV) 
+ 2015-19MY WRX 
+ 2019-20MY Ascent  
+          SUBJECT: Transmission Fluid Seepage  
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.SUBARU OF AMERICA, INC. IS 
+ISO 14001 COMPLIANT
+ISO 14001 is the international standard 
+for excellence in Environmental 
+Management Systems. Please recycle 
+or dispose of automotive products in a 
+manner that is friendly to our environment 
+and in accordance with all local, state 
+and federal laws and regulations.Continued...INTRODUCTION:
+This bulletin has been developed in response to a small number of customer concerns regarding 
+fluid seepage found coming from the CVT assembly.  Investigation has identified likely sources of 
+the seepage to be the sealant used on the CVT’s oil pump chain cover and the input shaft oil seal.  
+The repair involves chain cover removal, a thorough cleaning and inspection of the sealing surfaces 
+followed by re-sealing the cover and replacement of the input shaft oil seal with the new , redesigned 
+type. 
+PRODUCTION CHANGE INFORMATION:
+The available starting VINS for incorporation of the new input shaft oil 
+seal are supplied to the right.  This bulletin will be revised with the VINs 
+for the remaining applicable models as they become available.
+PART INFORMATION:
+Description Part Number
+ THREE BOND 1215 SOA868V9600
+RING SEAL 31377AA510
+RING SEAL 806916060
+RING SEAL 31377AA550
+OIL SEAL 806747030
+SERVICE PROCEDURE / INFORMATION:
+As a first step, during inspection of the customer’s concern, confirm the fluid found to be seeping is 
+CVT fluid (CVTF) and not engine oil.  The photos below are examples of where CVTF seepage may 
+be evident.Model Starting VIN
+Legacy L3002280
+Outback L3100230
+Ascent L3407153
+SERVICE BULLETINATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2016 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 2 of 10
+    
+         
+• Once the inspection has confirmed the seepage is CVTF, remove the CVT assembly  
+following the procedure outlined in the applicable Service Manual. The Service Manual uses 
+a black star ( ) in the component breakdown illustrations to indicate one-time use parts.
+• CAREFULLY remove the torque converter from the CVT and inspect the area of the oil 
+pump chain cover as indicated in the photo below for any accumulation of CVTF and road 
+dirt which may also have collected in the area.
+NOTE:  A small amount of fresh CVT fluid may appear near the 6:00 position of the seal area during 
+removal of the torque converter (GREEN circle).
+ 
+       
+          
+Seepage 
+Point
+Fluid “Flows”  
+to Low Point
+Seepage Out to 
+Converter Case
+Continued...
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 3 of 10
+Oil Pump Chain Cover Re-Sealing (TR690) & (TR580):
+• Remove the 7- (TR690) or 10- (TR580) 12mm hex bolts securing the oil pump chain cover .
+TR690
+ TR580 
+• Using a prying tool, CAREFULLY pry (GREEN arrows IN THE ORDER SHOWN for 
+TR690 model) the cover loose from the housing.  Pry ONLY on the specific areas or “tabs” 
+of the pump cover indicated by the BLUE arrows.  When the cover starts to come loose, con -
+tinue to pry ONLY on the tabs and not the machined sealing surface of the cover. 
+Prying Tool
+TR580
+Prying ToolTR6901
+2
+3
+Continued...
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 4 of 10
+TR690 ONLY
+Check the mating surface of the converter case cover for CVT fluid seepage. 
+• If CVT fluid is found leaking in this area, remove and re-seal the converter case cover. Refer 
+to the “ Converter Case Cover Re-Sealing” section of this bulletin. If NO CVT fluid is 
+found leaking in this area, continue with the procedures for re-sealing the oil pump chain 
+cover.
+Converter Case Cover Re-Sealing (TR690 ONLY):
+• Remove the 5 – 12mm hex bolts securing the converter case in a crossing pattern. 
+• Using a prying tool, CAREFULLY pry the cover loose. Pry ONLY on the specific areas or 
+“tabs” of the converter case cover. Once the cover is loose, continue to pry only on the tabs 
+and not the machined sealing surfaces.
+Continued...
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 5 of 10
+• Remove and replace the two one-time use o-rings (806916060). 
+806916060
+• IMPORTANT: Always confirm the front reduction drive gear shim stays with the converter 
+case cover when removing and prior to re-installation.
+• CAREFULLY remove all residual sealant completely from the cover and mating surface of 
+the housing. DO NOT use any abrasive or gasket removal / cleaning discs. Use the adhesive 
+side of a piece of duct tape (or equivalent) to pick up any loose pieces of sealant material 
+which may be found in the cavity around the stator support. DO NOT use compressed air.
+• Inspect both of the machined sealing surfaces closely for irregularities. If necessary , replace 
+the cover following the applicable Service Manual Procedures. The Service Manual uses a 
+black star ( ) in the component breakdown illustrations to indicate one-time use parts.
+• Remove and replace the one-time use o-ring (31377AA550). 
+Continued...
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 6 of 10
+• CAREFULLY apply the new sealant bead to the converter case cover along the edge of the 
+chamfer as shown 
+NOTE: As shown above, a properly applied, small bead of sealant will fill in the chamfered portion 
+after the cover is installed. Do not use an excessive amount of sealant.
+• Install the converter case case cover. Install the 5 – 12mm hex bolts and torque to 24Nm 
+(17.7 ft.lbs) in a crossing pattern.
+Oil Pump Chain Cover Re-Sealing (TR690) & (TR580) Continued:
+• CAREFULLY remove all residual sealant completely 
+from the cover and mating surface of the housing.  DO 
+NOT  use any abrasive or gasket removal / cleaning 
+discs.  Use the adhesive side of a piece of duct tape 
+(or equivalent) to pick up any loose pieces of sealant 
+material which may be found in the cavity around the 
+stator support.  DO NOT  use compressed air.
+
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 7 of 10
+• Take note of how the sealant on the removed cover forms an additional “seal” when it  
+becomes displaced into the chamfer around the inside edge of the case’ s machined surface  
+at assembly.
+ 
+• Inspect both of the machined sealing surfaces closely for irregularities.  If necessary , replace 
+the cover following the applicable Service Manual procedures. The Service Manual uses a 
+black star ( ) in the component breakdown illustrations to indicate one-time use parts.
+• NOTE:  Should the cover need to be replaced, always confirm the new part has the new-style 
+input shaft seal with the additional side lip as described below before installation.
+• IMPORTANT:  Before reassembly, always replace the ONE TIME USE plastic sealing ring 
+on the center support and thoroughly lubricate it with CVT fluid.
+  
+• The re-designed input shaft oil seal has a new side lip added 
+to supplement the existing main seal lip. The purpose of the 
+additional side lip is to direct the flow of dust and water around the 
+seal and away from the sealing surfaces.
+• Apply CVT fluid to the main seal lip only before installation.
+• When installing this new seal, it is STRONGLY recommended 
+to use the proper installer tool **OPTIONAL Special Tool 
+927890000 as shown in the illustration below.  Otherwise, If the 
+seal were to be installed too deep into the bore of the chain cover 
+(beyond flush with the chain cover edge as shown below), the oil 
+passage may become restricted or blocked.
+
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 8 of 10
+Oil Seal is installed flush 
+with edge of chain cover 
+and oil passage is clear.
+• Once both surfaces and the area surrounding the cover are completely clean, dry and the new 
+input seal is properly installed, CAREFULLY apply the new sealant bead to the cover along 
+the edge of the chamfer as shown below.
+   
+   
+        
+DO NOT apply sealer 
+around the arrowed hole.
+TR690
+DO NOT apply sealer 
+around the arrowed hole.
+TR580
+NOTE:  As shown above, a properly applied, small bead of sealant will fill in the chamfered portion 
+after the cover is installed.  Do not use an excessive amount of sealant. 
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 9 of 10
+• On the TR690, there are 2 different length bolts for the pump cover.  Make sure the proper 
+length bolts ( A and B) are in their respective holes as shown below.  Torque to  
+24 Nm (17.7 ft. lbs) in a crossing pattern.
+               
+        
+                    
+• For the TR580 (all 10 cover bolts are the same length), apply the sealer, (EXCEPT for the 
+arrowed hole), reinstall the cover and torque the bolts to 21 Nm (15.5 ft. lbs.) in a crossing 
+pattern. 
+• CAREFULLY reinstall the torque converter and the CVT assembly in reverse order of 
+removal following the service procedure in the applicable Service Manual. The Service 
+Manual uses a black star ( ) in the component breakdown illustrations to indicate one-time 
+use parts.
+• Road test to confirm the repair and proper vehicle operation.
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited or Powertrain Limited Warranty period or covered by 
+an active Subaru Added Security Powertrain, Classic or Gold plan, this repair may be submitted using 
+the following claim information:  
+Labor DescriptionLabor  
+Operation #ApplicabilityLabor 
+Time Fail  
+Code 
+CVT R&R and RESEAL of  
+OIL PUMP CHAIN COVER
+Includes: CVT assembly R&R, chain 
+cover R&R, cleaning, center support 
+seal ring, input shaft oil seal 
+replacement and resealB303-1352010-19MY Legacy / Outback 2.5 and 3.6L 4.2
+MTZ-342014-19MY Forester 2.5L 3.9
+2014-18MY Forester 2.0L DIT 4.5
+2012-16MY Impreza 3.9
+2017-19MY Impreza 5.2
+2013-17MY Crosstrek 3.9
+2018-19MY Crosstrek 5.2
+2019MY Ascent 4.1
+2015-19MY WRX 4.0
+CHAIN COVER REPLACE  
+(ONLY if determined necessary after 
+cleaning and inspection)C303-136 All 0.1
+Case Cover Reseal or Replace C303-1372014-18MY Forester 2.0L DIT
+0.22019-20MY Ascent
+15-19MY Legacy / Outback 3.6L
+2015-19MY WRX
+Bulletin Number: 16-103-16R;  Revised 02/18/25          Page 10 of 10
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

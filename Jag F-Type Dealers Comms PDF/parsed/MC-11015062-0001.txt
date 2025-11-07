@@ -1,0 +1,171 @@
+Less Info
+Countries:AUSTRALIA, BAHAMAS, BOLIVIA, BRAZIL,
+BELIZE, CANADA, CHILE, COLOMBIA,
+COSTA RICA, DOMINICAN REPUBLIC,
+ECUADOR, EL SALVADOR, GUATEMALA,
+GUYANA, HAITI, HONDURAS, JAMAICA,
+MEXICO, ARUBA, NEW ZEALAND,
+NICARAGUA, PANAMA, PERU, PUERTO
+RICO, TRINIDAD AND TOBAGO, UNITED
+STATES, URUGUAY, VENEZUELA, CuraçaoDocument
+ID:IK2600272
+Availability: Revision:0
+Major
+System:PROGRAMMING SUPPORT Created:1/31/2025
+Current
+Language:EnglishLast
+Modified:2/5/2025
+Other
+Languages:NONE Author:Matthew
+Carrigan
+Viewed: 74
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 1
+ 0
+Title: Vehicle Programming Information Associated With 2-Box Engines (2002-2006 i6, v6, & v8)
+Applies To: 2-Box Engines (2002-2006 i6, v6, & v8)
+ 
+CHANGE LOG  
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/05/2025 - Initial Article Release
+ 
+ 
+DESCRIPTION
+ 
+This document aims to enable technicians to:
+1. Proficiently identify 2-box engine control systems.
+2. Comprehend the programming intricacies related to such systems.
+3. Autonomously execute programming tasks without necessitating interaction with technical.
+ 
+Timeline:
+ Software/Hardware Integrations:
+ 
+ServiceMaxx 1708:  Supported. Used for diagnostics & parameter changes.
+DLC Fleet Tool: IK2600074  For changing Idle Shutdown Timer time & mode, service interval, and engine warning
+protection system. This only works with legacy communication cables.
+NavKal:  Supported.
+HeRo:  Supported.
+DLB:  Supported.
+360 W rite Up:  Supported.
+The programming station  works with this engine type.
+Naming Convention:
+ 
+“Diamond Logic Controller” (DLC) is a term used to describe International’ s brand-new (as of 1994) electronic engine
+control system. This third version of International’ s electronic engine controls was referred to as DLC 2 or DLC II. The “2”
+stands for “2-Box” – indicating that this version of the engine electronic control system has 2 modules.
+The previous two engine electronic control systems International produced were referred to as DLC 3 and DLC 1 – both
+indicating the number of modules used to control the engine at that time. Each of these first three generations of electronic
+engines had its own diagnostic software package: DLC 3, DLC 1, and DLC 2. These were also referred to as Master
+Diagnostics 3, Master Diagnostics 1, and Master Diagnostics 2 (MD3, MD1, MD2).
+How 2 Box Modules W ork:
+ 
+ECM:  Engine Control Module. The ECM holds both the calibration and the parameters. 2-Box ECM’ s are dealer
+programmable. Both the calibration and parameters can be changed/programmed.
+IDM:  Injector Driver Module. The IDM only holds a calibration. There are no programmable parameters in the IDM. The
+IDM can be programmed through NavKal. The ECM must be present on the data link in order to program the IDM.
+Functional info:  This engine type only uses both an ECM and an IDM that both connect to the public 1708 data link. Both
+modules need to be present on the same data link (either vehicle or programming station) in order to program either
+module.
+ 
+Connecting T o A 2 Box Engine:
+  
+When ServiceMaxx 1708 connects to a 2-box engine, you should see data similar to the screenshot above.
+ 
+Engine Type: DLCII I6 (2004-2006), DLCII V6 (2005-2006), DLCII V8 (2002-2006)
+ Reference Number: Will show 16 digits (1st 8 digits are ECM cal / 2nd 8 digits are IDM cal)
+Engine Family Rating Code: (EFRC) should show a 4 digit number
+Vehicle Identification Number: Will show the full 17 digit VIN
+Engine Serial Number: Will shows the full 14 digit ESN
+ Transmission TypeShould correctly reflect the installed transmission (unless the vehicle has
+an Eaton automated manual transmission – then it is normal for
+ServiceMaxx 1708 to show an Allison transmission)
+Rated Horsepower Should correctly show the rated horsepower
+Total Miles Should show correct total vehicle distance
+ Total Fuel Used Should show correct total fuel used
+Total Engine Hours Should show correct total engine hours
+ 
+When connecting with ServiceMaxx 1708 or NavKal, if you have to manually select the engine type,
+you will select one of the options from the screenshot below .
+ 
+  Source Addresses:
+Even though this engine has 2 modules, it only broadcasts a single source address of 128.
+The ECM broadcasts the source address. The IDM does not broadcast a source address.
+The source address is broadcast on the 1708 data link.
+This source address can be seen in the snif fer in either ServiceMaxx 1708 or NavKal.
+If you are using a Nexiq Communication cable, you can check in the Nexiq Device Tester to see source address 128
+shows up.
+ 2 Box Module Parts Information:
+ 
+DLC2 I6:  Look up ECM/IDM part numbers by VIN.
+DLC2 V6 (VT275):  Look up ECM/IDM part numbers by VIN.
+DLC2 V8 (VT365):  Look up ECM/IDM part numbers by VIN. This engine type had two dif ferent generations of ECM.
+These ECMs are physically dif ferent and are not interchangeable (you can physically install the wrong ECM, but it will not
+be programmable) .
+1.1 ECMs (used from 2002-2003) are connected to the IDM with tubular aluminum spacers between the ECM and
+IDM. 1.1 ECMs were only used on vt365.
+2.2 ECMs (used from 2003-on) had cast aluminum wings molded into the body of the ECM. 2.2 ECM’ s bolt directly
+to the IDM without the need for a tubular spacer . See the picture below for the visual dif ferences between 1.1 vs. 2.2
+ECMs.  
+ 
+If you need engine identification information, please see IK2600242 .
+2 Box Horsepower Quotes:
+ 
+Horsepower increases are supported for this engine type. Follow the process outlined in IK2600069  to submit a case file
+for a horsepower quote. If the engine you’re considering is already rated at the highest possible rating, then no increases
+are available. There are 4 dif ferent ratings that are highest in their class. See the chart below for those highest ratings.
+There is no need to submit a case requesting a horsepower increase for an engine that is already at one of these ratings –
+as there are no increases available.
+ 
+Interantional does not support changes from standard torque ratings to high torque ratings (and vice versa). So, if you
+have a DT466 with 12NPR (standard), it is not possible to increase to a higher rating. If you submit a case file with this
+type of request, it will receive the response that there are no increases available.
+ 
+We have had reports of a discrepancy between the dealer-facing 2-box horsepower ratings data that is available in the
+CT400 (sales data book) vs. the data that International uses to evaluate horsepower quotes – specifically that some
+horsepower ratings in the CT400 show a dif ferent torque range (standard torque vs. high torque) than what we provide in
+a case file horsepower quote. Below is the full list of 2-box i6 ratings, their HP/TQ ratings, and their torque ranges
+(standard vs. high torque). International will use the information below when developing the horsepower quote.
+ 
+2 Box Engine Swaps:
+ 
+See IK2600047  for information about engine swaps. Programming changes may be needed in order to accommodate an
+engine swap. There are some instances where International CANNOT  support and engine swap. If you have any doubts
+about whether your engine swap will be supported by International, please start a case file with the V ehicle Programming
+group and we will let you know if International will support the swap. It is advisable to do this BEFORE swapping the
+engine.
+Common Programming Issues W ith 2 Box Systems:
+ 
+1. ECM Loses Parameters:
+      a. Symptoms:
+            i. 141, 142, & 621 faults
+            ii. Miles/Hours/Fuel default to “0”
+            iii. VIN/ESN are lost
+            iv . EFRC is lost (defaults to “FFFF”)
+            v . Transmission type defaults to “Manual”
+            vi. Engine power decreases
+                       vii. Screenshot below
+                           
+  
+      b. Possible Cause – Battery disconnect
+            i. Fix – Program as a blank module with NavKal. To prevent lost parameters due to a battery disconnect, wait at
+Hide Details Feedback Information
+Viewed: 73
+Helpful: 1
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc.lest 60 seconds after key of f before activating the battery disconnect.
+      c. Possible Cause – Bad ECM
+            i. Fix – program as a blank module with NavKal. If the ECM loses its parameters again, replace the ECM. See
+IK2600185  for more details.
+2. NavKal Error 1 17 Module Type:… 623…:
+ 
+      a. This error can be caused by communication from other modules interfering with NavKal’ s communication on the
+data link.
+            i. Fix – either pull transmission/ABS fuses, or use programming station. See TL2900048  for info about the
+programming station.
+3. NavKal Error 8:  indicates NavKal expected to see a module on the data link, but couldn’t detect it.
+      a. Fix - IK2600252  provides troubleshooting steps and direction
+ 

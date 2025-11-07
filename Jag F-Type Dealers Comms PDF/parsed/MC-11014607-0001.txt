@@ -1,0 +1,126 @@
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+IMPORTANT SERVICE CAMPAIGN LAUNCH  
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please note that all customer inquiries should be directed to the Customer Assistance Center at 1 -800-FOR-
+MERCEDES  (1-800-367-6372) . 
+ 
+Sincerely,  
+Gregory Gunther  
+Senior  Manager, Vehicle Compliance & Analysis  
+  TO: Mercedes -Benz Dealer Principals, General Managers, 
+Sales Managers, Service Managers, Parts Managers  FROM:  Gregory Gunther, Senior  Manager, Vehicle 
+Compliance and Analysis, Engineering Services  
+RE:   Service Campaign Launch Notification  
+Replace  B-Pillar Ident ification Label  
+MY2 4-25 AMG GLB 35 (247  platform ) DATE:  November 8, 2024  
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ Service Campaign Launch  Notification  November 8, 2024  
+Campaign No. :  Campaign Desc. :      Replace  B-Pillar Iden tification Label   
+2024100008  24P4092249  
+This is to notify you of the Service Campaign Launch to replace the ident ification label on the B -Pillar on 271 Model Year (“MY”) 
+2024-2025 GLB (247 platform ) vehicles.  The vehicles will be visible and flagged in VMI as “OPEN” on November 8, 2024 . 
+Background  
+Issue  Mercedes -Benz AG, the manufacturer of Mercedes -Benz vehicles, has determined 
+that on certain MY 2024-2025  AMG  GLB 35 (247 platform ) vehicles, the B -pillar 
+ident ification label might not contain the vehicle’s correct rear gross axle weight 
+rating .  
+What We’re Doing  An authorized Mercedes -Benz dealer will replace  the ident ification label on the B -
+Pillar . 
+Parts  The remedy  is available and can be performed as necessary.  
+Vehicles Affected  
+Vehicle Model Year(s)  2024 -2025  
+Vehicle Model  GLB 
+Vehicle Populations  
+Total Campaign  Population  271 
+Next Steps/Notes  
+Customer Notification Timeline  Customer letters will not be mailed.   
+AOMS/SOMS  AOMs – This campaign may generate questions from your dealers.  
+While we regret any inconvenience this may cause, MBUSA is determined to maintain a high level of vehicle quality and custome r 
+satisfaction. Please refer all customer inquiries to the Customer Assistance Center at 1 -800-FOR-MERCEDES.  
+Campaign No.  2024100008 , November 2024 
+Revision A, February 6, 2025 
+TO: ALL MERCEDES -BENZ CENTERS  
+SUBJECT:  Model AMG GLB 35 (247 platform)  
+Model Year  2024 – 2025  
+    Replace B-Pillar Identification Label 
+Mercedes -Benz AG, the manufacturer of Mercedes -Benz vehicles, has determined  that on certain  
+MY 2024 -2025 AMG GLB 35 (247 platform) vehicles, the B -pillar  identification label might not  contain the 
+vehicle’s correct rear gross axle weight  rating.  An authorized Mercedes -Benz dealer will replace the 
+identification label on the B -Pillar.  
+Prior to performing this Campaign:  
+•VMI must  be checked before performing campaigns to verify that the campaign is required on a
+specific vehicle. Always check for any other open campaigns and  perform accordingly.
+•Please review the entire Campaign bulletin and follow the repair procedure  exactly as described.
+Approximately 271 vehicles are include d. 
+Order No. P-SC-2024 100008 
+Service Campaign 
+Bulletin
+Service Campaign Bulletin
+Service Campaign Bulletin
+ Service Campaign Bulletin
+Service Campaign Bulletin
+ Service Campaign Bulletin
+
+2 
+ 
+P-SC-2024100008   Replace B -Pillar  Identification Label  
+Model: 247  
+ 
+Modifi cation note :  Part number of identification plate for USA adjusted . 
+ 
+Work Procedure  
+ 
+1. Replace identification plate  (Figure 1)  on driver's side B -pillar.  
+ Lightly heat identification plate with a commercially available heat gun.  
+  Refer to WS54.00 -P-0125B  (000 588 15 84 00 Heat gun) . 
+ Carefully remove identification plate with a suitable aid.  
+  Utilize long wedge (W115 589 03 59 00) or a comparable non -marring  plastic  wedge.  
+ Clean bonding surface  with alcohol based cleaner  to remove residual adhesive . 
+ 
+ Figure 1 – B-Pillar Identification Plate  
+ 
+ 
+ 
+Primary Parts Information  
+ 
+Qty. Part Name  Part Number  
+As required (1 ) Identification plate for USA*  A 000 817 47 04 
+* Follow the normal ordering process for VIN specific part.  
+___________________________________________________ _______________________________________________  
+ 
+Note:  The following allowable labor operation should be used when submitting a warranty claim for this repair : 
+ 
+Warranty Information  
+ 
+Damage 
+Code  Operation 
+Number  Description  Labor Time 
+(hrs.)  
+40 922 49 12-2155  Replace  information label /  identification plate on driver’s side B -pillar  0.1 
+ 
+Note: Always check Xentry Operation Time  (XOT)  for the current OP -Code times. Labor times are subject to change and 
+updates may not be reflected in this document.  

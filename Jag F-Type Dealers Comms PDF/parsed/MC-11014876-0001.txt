@@ -1,0 +1,3592 @@
+1
+Bendix® TABS‑8™ Advanced Single‑Channel Trailer Antilock  
+Braking System (ABS) Module
+1. INTRODUCTION
+The Bendix® TABS‑8™ Advanced Module is an integrated 
+single‑channel (2S/1M) trailer service brake module 
+controller for air‑braked, heavy‑duty semi‑trailers that 
+features the Bendix® Antilock Braking System (ABS) and 
+the Bendix® Trailer Roll Stability Program (TRSP®).
+Installed on semi‑trailers, the TABS‑8 Advanced Module 
+acts as a relay valve during normal braking, but during ABS 
+events, it will intervene to help maintain vehicle stability and 
+minimize stopping distance by preventing wheel lock‑up. 
+The TRSP monitors the trailer’s motion and reduces the 
+risk of rollovers by automatically applying the brakes when 
+a risk of rollover is detected.
+SD‑13‑47680
+Figure 1 – Bendix® TABS‑8™ Advanced Single ‑Channel ABS Module Plus View of Connector3/4‑in. NPT 
+Supply Port 
+with Integral 
+FilterThrough‑holes for Frame
+(Chassis) MountingElectronic Control 
+Unit (ECU) 
+(Sealed)
+ECU 
+Connector 
+Cover
+(Removable)
+Four (4) 3/8‑in. NPT Delivery Ports
+(to Brake Chambers)3/8‑in. NPT 
+Control Port with 
+Integral Filter
+Integrated 
+Modulator
+Relay ValveTo Remove 
+Cover, Slide 
+Lock Tab7‑Pin Connector
+Wheel Speed 
+Sensor (WSS)
+Connectors 
+(S‑D and S‑C)
+Electronic 
+Control Unit 
+(ECU) Part 
+Number Label 3/8‑in. NPT Load Port
+(Air Suspension)
+The TABS‑8 Advanced Module features:
+• A modular design with an integrated Electronic 
+Control Unit (ECU); pressure sensors; a lateral 
+acceleration sensor; and Modulator Relay Valve 
+(MRV) – eliminating external pigtail harnesses for 
+these components 
+• An operating voltage range of 8 ‑ 32 volts
+• Optional mounting to the service reservoir or to the 
+chassis, without additional brackets 
+• An electronic odometer with trip counters and service 
+interval options
+• A scratch‑pad feature with up to 1,008 bytes of 
+freely definable read/write text space available for 
+customer use
+• An extended data‑logging feature, including a 
+resettable drive recorder2‑Pin 
+Sensor 
+Connectors 
+(S‑F and 
+S‑E) for 
+Auxiliary 
+Features
+The Bendix® TABS-8™ Advanced Single-Channel ABS Module ports 
+contain parallel ribs as shown. These ribs identify the module as a 
+genuine Bendix® product. If the TABS-8 Advanced Module being 
+serviced does not contain these ribs, it is not a genuine Bendix product. 
+
+2• A variety of electrical inputs and a single output  
+(I/Os) allow the customer to program auxiliary 
+functions such as automatic Lift‑Axle Control (LAC), 
+Integrated Speed Switch (ISS), and Auxiliary Design 
+Language (ADL) for customized auxiliary functions
+• A wide range of diagnostic tools for flexible 
+troubleshooting such as blink codes; SAE J2497 
+(PLC); SAE J1939 (CAN) diagnostics; the Bendix® 
+Trailer Remote Diagnostic Unit (TRDU); and the 
+Bendix® Trailer Information Module (TIM)
+• Support for SAE J2497 Power Line Carrier (PLC) 
+communication to the towing vehicle and diagnostics• Support for SAE J1939 (CAN) communication for 
+diagnostics and external devices
+• A pressure‑equalizing valve in the sealed Electronic 
+Control Unit (ECU) housing to give improved 
+protection from water, etc.
+• Serviceable nylon filters to help prevent foreign 
+material from entering the control port, load sensor 
+port, and supply port
+• Locking dust cover to provide electrical connector 
+and cable protection
+3/4" NPT Supply
+Port 1
+Four (4) 3/8‑in. NPT 
+Delivery Ports 21
+(to brake chambers)3/8‑in. NPT Control 
+Port with Integral Filter3/8‑in. NPT Load Port 42
+for Air Suspension
+(Plugged for ABS only configurations)
+Figure 2 – Ports UsedTab distinguishes a 
+Bendix® TABS‑8™ 
+cover from a Bendix® 
+TABS‑6™ cover
+32. GENERAL SAFETY GUIDELINES
+Section TABLE OF CONTENTS ............ PAGE
+1. Introduction  ........................... 1‑2
+2. General Safety Guidelines .................. 3
+3. Antilock Braking System (ABS) Operation ...... 4
+4. Bendix® Trailer Roll Stability Program (TRSP®)
+ Operation ............................... 4
+5. Components  .......................... 5‑6
+6. Mounting  ............................... 7
+7. Pigtail Wiring Harnesses  . . . . . . . . . . . . . . . . . . . 7
+8. ABS Indicator Lamp ....................... 8
+9. Bendix® WS‑24™ Wheel Speed Sensors (WSS)  .8
+10. SAE J2497 (PLC) Diagnostic Link  ........... 9
+11. SAE J1939 (CAN) Diagnostic Link  ........... 9
+12. Auxiliary I/O ............................. 9
+13. Bendix® ABS Flex™ Program ............... 10
+14. Customer Scratch Pad .................... 10
+15. Power‑Up Sequence  . . . . . . . . . . . . . . . . . . . . . 10
+16. Odometer Function  ...................... 10
+17. Non‑Standard Tire Size ................... 11
+18. Diagnostic Trouble Code (DTC) Detection  .... 11
+19. Partial ABS Shutdown  . . . . . . . . . . . . . . . . . . . . 11
+20. Blink Code Diagnostics  ................ 11‑12
+21. Auxiliary Features  ....................... 12
+22.  Diagnostic Trouble Codes (DTC) ......... 13‑19
+23.  Troubleshooting Section  ............... 20‑42GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND
+FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following 
+guidelines should be observed AT ALL TIMES :
+ ▲Park the vehicle on a level surface, apply the parking 
+brakes and always block the wheels.  Always wear personal 
+protection equipment.  
+ ▲Stop the engine and remove the ignition key when working 
+under or around the vehicle.  When working in the engine 
+compartment, the engine should be shut off   and the ignition 
+key should be removed. Where circumstances require that 
+the engine be in operation, EXTREME CAUTION  should be 
+used to prevent personal injury resulting from contact with 
+moving, rotating, leaking, heated or electrically‑charged 
+components.  
+ ▲Do not attempt to install, remove, disassemble or 
+assemble a component until you have read, and thoroughly 
+understand, the recommended procedures.  Use only the 
+proper tools and observe all precautions pertaining to use 
+of those tools.
+ ▲If the work is being performed on the vehicle’s air brake 
+system, or any auxiliary pressurized air systems, make 
+certain to drain the air pressure from all reservoirs before 
+beginning ANY  work on the vehicle.  If the vehicle is 
+equipped with a Bendix® AD‑IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD‑9si®, AD‑HF®, 
+or AD‑HFi® air dryer, be sure to drain the purge reservoir.
+ ▲ Following the vehicle manufacturer’s recommended 
+procedures, deactivate the electrical system in a manner 
+that safely removes all electrical power from the vehicle .
+ ▲Never exceed manufacturer’s recommended pressures.  
+ ▲Never connect or disconnect a hose or line containing 
+pressure; it may whip and/or cause hazardous airborne 
+dust and dirt particles. Wear eye protection. Slowly open 
+connections with care, and verify that no pressure is 
+present. Never remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement parts, 
+components and kits. Replacement hardware, tubing, hose, 
+fi  ttings, wiring, etc. must be of equivalent size, type and 
+strength as original equipment and be designed specifi  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged parts should 
+be replaced rather than repaired.  Do not attempt repairs 
+requiring machining or welding unless specifi  cally stated 
+and approved by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make certain all 
+components and systems are restored to their proper 
+operating condition.
+ ▲ For vehicles with Automatic Traction Control (ATC), the ATC 
+function must be disabled (ATC indicator lamp should be 
+ON) prior to performing any vehicle maintenance where 
+one or more wheels on a drive axle are lifted off   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected from the 
+radar sensor whenever any tests USING A DYNAMOMETER 
+are conducted on a vehicle equipped with a Bendix® 
+Wingman® system.
+ ▲You should consult the vehicle manufacturer's operating 
+and service manuals, and any related literature, in 
+conjunction with the Guidelines above. 
+Disconnect the electrical connectors from the Antilock 
+Braking System (ABS)/Bendix® Trailer Roll Stability 
+Program (TRSP®) controller before welding on the 
+trailer.
+ 
+Dielectric grease should be applied to electrical 
+connectors to help protect against moisture intrusion.
+ 
+Bendix®‑brand Electronic Control Units (ECUs) are 
+not designed to store data for purposes of accident 
+reconstruction, and Bendix® ACom® Diagnostic 
+Software is not intended to retrieve data for purposes 
+of accident reconstruction. Bendix makes no 
+representations as to the accuracy of data or video 
+retrieved and interpreted from ECUs for purposes 
+of accident reconstruction. Bendix does not offer 
+accident reconstruction services or interpretation of 
+stored data. Bendix ECUs are not protected from fire, 
+loss of power, impact damage, or other conditions that 
+may be sustained in a crash situation and may cause 
+data to be unavailable or irretrievable.
+43.  ANTILOCK BRAKING SYSTEM 
+(ABS) OPERATION
+The Bendix® TABS‑8™ Advanced Module uses Wheel 
+Speed Sensors (WSS), a Modulator Relay Valve (MRV), 
+and an Electronic Control Unit (ECU) to optimize the 
+contact between the tires and the road surface during 
+a braking event where excessive wheel slip – or wheel  
+lock‑up – is detected.
+When a situation is detected where the system needs to 
+intervene, the ECU will activate the MRV to apply controlled 
+brake pressure at the wheel ends.
+The TABS‑8 Advanced Module ECU is able to modulate 
+the brake pressure with greater speed and accuracy than 
+a driver.
+Normal Braking
+During normal braking, the TABS‑8 Advanced Module 
+functions as a standard relay valve. If the ECU does not 
+detect excessive wheel slip, it will not activate the Antilock 
+Braking System (ABS), and the vehicle will stop with normal 
+braking.
+Axle Control
+Axle control uses the MRV to control the wheels at both 
+ends of a given axle (or multiple axles in cases where the 
+MRV is controlling several axles).
+In the case of braking surfaces with poor overall traction 
+(i.e. roads that are worn, slippery, or are made of loose 
+gravel) – or braking surfaces with areas of poor traction 
+(i.e. asphalt roads with patches of ice) – axle‑control ABS 
+interventions will maintain the wheel that is not slipping at 
+just under the speed that will lock the wheel. The system 
+permits the other wheel (that is experiencing slippage) 
+temporary periods of wheel‑lock during the intervention.
+ 
+Axle control (select high) should not be used on fifth-
+wheel dollies or steerable axles. In these cases, it 
+could cause a yaw moment during braking that results 
+in unwanted steering of the axle. Use a dolly control 
+(select low) configuration.
+When intervening on regular‑traction surfaces, a 
+system configured for axle control performs similar to a  
+side‑control, two‑modulator system.Steerable Axles
+For applications that have both fixed and steerable axles, 
+such as drawbar trailers (full‑pull trailers), a 4S/2M axle 
+configuration should be used. These configurations have 
+the ability to minimize yaw on steerable axles. 
+ABS Fail‑Safe
+The TABS‑8 Advanced Module is designed to react in a 
+fail‑safe manner in the event of a system Diagnostic Trouble 
+Code (DTC). For example, if the ECU detects that a sensor 
+is not responding, an ABS system DTC will be set. The 
+TABS‑8 Advanced Module will illuminate the trailer ABS 
+indicator lamp and revert to a fail‑safe mode where some, or 
+all, advanced ABS functions (including the Bendix® Trailer 
+Roll Stability Program ‑ TRSP®) may not function. Even in 
+cases where the ABS system is completely disabled, the 
+standard pneumatic brake function of the vehicle will still 
+be available, but without the benefits of ABS. The TRSP 
+feature is also disabled with an active ABS system DTC. 
+If the indicator lamp is illuminated, always have the ABS 
+system serviced at the earliest opportunity. 
+ 
+For all NPT fittings, use of a thread sealant is 
+required. For NPTF fittings, the use of a thread 
+sealant is recommended. This can be a pre‑applied 
+or a hand‑applied sealant product (with PTFE). 
+When using a hand‑applied sealant, use caution 
+so as not to over‑apply. Always follow the fitting 
+manufacturer’s pre‑applied or hand‑applied thread 
+sealant recommendations. Use of PTFE tape is not 
+approved and will void the Bendix ABS/TRSP valve 
+warranty.  
+54. BENDIX® TRAILER ROLL STABILITY 
+PROGRAM (TRSP®) OPERATION
+ 
+During a Bendix® Trailer Roll Stability Program 
+(TRSP®) system intervention, the vehicle automatically 
+decelerates. The Bendix® TABS‑8™ Advanced Module 
+can slow the vehicle with or without the driver applying 
+the brake pedal, and even when the driver applies the 
+throttle. 
+ IMPORTANT
+If the TABS‑8 Advanced Module faults for any reason, 
+the brakes will not be applied.
+ 
+Even with TRSP system‑equipped vehicles, the driver 
+remains responsible for ensuring vehicle stability 
+during operation. The TRSP system only functions 
+within the limits of physics. The system can help 
+mitigate potential vehicle stability incidents, but 
+cannot prevent them in all cases. Other factors – such 
+as driving too fast for the road, traffic or weather 
+conditions, over‑steering, an excessively high vehicle 
+Center of Gravity (CG), poor road conditions, or 
+insufficient vehicle maintenance – can cause vehicle 
+instability that is beyond the capability of any stability 
+system to mitigate.
+ 
+The TRSP system should only be used on specific 
+vehicle platforms that have been validated and 
+approved by Bendix engineering.
+ 
+The TRSP system is approved for use on A‑Double and 
+B‑Train combinations. Use on A‑Triple combinations 
+must be approved by engineering.The TRSP system reduces the risk of rollovers during 
+driving by automatic application of the service brakes when 
+the system detects potential rollover conditions. This is 
+accomplished with monitoring sensors both at the trailer 
+wheel ends and within the TABS‑8 Advanced Module. The 
+TRSP system reacts by applying the trailer service brakes 
+and slowing the vehicle combination.
+The Bendix TRSP system uses the following sensors:
+• Lateral Acceleration: A lateral accelerometer is 
+located within the TABS‑8 Advanced Module. This 
+sensor detects the lateral motion (or “roll”) of the 
+vehicle as it moves. The TABS‑8 Advanced Module 
+may be mounted either in line with – or at right angles 
+to – the main trailer chassis to function correctly.   
+NOTE:  Part numbers labeled R002  and forward can only 
+be mounted in 0° and 180° from the vehicle driving direction 
+to function correctly. Refer to  Table 7 and  Troubleshooting 
+Section G for full details on acceptable installation 
+locations.  NOTE : Do not attempt to change the location of 
+the TABS‑8 Advanced Module without contacting Bendix 
+for engineering approval.
+ 
+It is the responsibility of the end‑user to ensure the 
+TABS‑8 Advanced Module has been installed correctly 
+and tested as per the Bendix recommended installation 
+guidelines and system drawings. Incorrect installation 
+of the TABS‑8 Advanced Module can result in impaired 
+ABS and TRSP system functions, which could lead 
+to loss‑of‑control of the vehicle, potential collisions, 
+property damage, serious injuries, or death. 
+• Vehicle Speed:  The TRSP system obtains 
+information about the vehicle speed and rate of 
+acceleration/deceleration from the Wheel Speed 
+Sensors (WSS).
+• Axle/Bogie Load: The trailer’s axle load information 
+is obtained by the use of an integrated pressure 
+sensor port (P42) of the TABS‑8 Advanced Module, 
+where a direct reading of the suspension air spring 
+pressure is taken. Trailer axle load information is 
+configured during the installation test based off of 
+information provided by the trailer/axle manufacturer.
+TRSP Intervention with Driver Actions
+It is possible the driver will also apply the brakes before 
+or during a TRSP intervention by the TABS‑8 Advanced 
+Module. In all cases, the Electronic Control Unit (ECU) 
+monitors the driver’s brake application and compares that 
+to the amount of braking the TRSP program has calculated 
+needs to be applied. The pressure delivered to the brakes 
+will always be the higher of the two (2) pressures.
+6External Components:
+• Wheel Speed Sensors (WSS):  See Figure 3 .  
+Located at selected hubs, WSS detect the rotation 
+of individual wheels and send an electrical signal to 
+the ECU proportional to the rotational velocity. The 
+primary WSS connectors, S‑C and S‑D, are used 
+for detecting wheel speeds. The TABS‑8 Advanced 
+Module has two (2) additional DIN connectors, S‑E 
+and S‑F, which can be used as tri‑state auxiliary 
+inputs. These sensors do not have wheel speed 
+sensing capabilities.
+ 
+Use of cable ties/tie wraps to attach Wheel Speed 
+Sensor (WSS) leads to rubber hoses/jounce lines is not 
+approved. The hose may expand during braking due to 
+air pressure and the cable tie may not, so the conductor 
+material/insulation of the speed sensor extensions 
+may be damaged. Bendix instead recommends only 
+open‑ended clips be used to hold sensor leads to 
+jounce lines.
+Sensor 
+Clamping
+Sleeve
+Acceptable 
+Logo‑stamped
+Sleeves
+90° Speed 
+Sensors
+Straight Speed 
+Sensors
+Figure 3 – Bendix® WS‑24™ Wheel Speed Sensor NOTE: Do not use 
+previous WSS
+Clamping Sleeves 
+that have “BW” in a 
+Diamond
+• Trailer Antilock Braking System (ABS) Indicator 
+Lamp: See Figure 4 . Controlled by the Electronic 
+Control Unit (ECU) to show the ABS status, the 
+trailer ABS indicator lamp illuminates when a 
+Diagnostic Trouble Code (DTC) is active. If there 
+are no ABS DTCs present when ignition power is 
+applied to the ECU, the lamp will illuminate as a 
+bulb check lasting typically two (2) seconds and up 
+to six (6) seconds at most.5. COMPONENTS
+Installation of the Bendix® TABS‑8™ Advanced Module use 
+the following components:
+Internal Components:
+• Electronic Control Unit (ECU): The ECU monitors 
+the Wheel Speed Sensor (WSS) signals, lateral 
+accelerometer sensor signal, and various pressure 
+sensors (listed below) to determine when the 
+Antilock Braking System (ABS) and/or the Bendix® 
+Trailer Roll Stability Program (TRSP® ) intervention 
+is required. When needed, the ECU actuates the 
+internal pressure modulator valve to optimize the 
+brake pressure. The ECU monitors the system to 
+detect and warn the driver of any malfunctions. 
+Diagnostic Trouble Codes (DTCs) are stored in the 
+ECU and can be reviewed to diagnose the TABS‑8 
+Advanced Module system.
+• Lateral Accelerometer Sensor: The lateral 
+accelerometer sensor recognizes the lateral 
+movement of the trailer and sends an electrical 
+signal directly proportional to the trailer’s lateral 
+acceleration to the ECU.
+• Internal Load Sensor: For air suspension systems, 
+the Load Sensor Port (P42) must be plumbed to a 
+fixed-axle air ride bellows. NOTE : The sensor must 
+not be plumbed to a lift axle bellows since they are 
+not charged when the axle is not being used. The 
+function of this sensor is to monitor the pressure 
+and send an electrical signal directly proportional to 
+the trailer’s axle load to the ECU.
+• Brake Demand Pressure Sensor: This internal 
+sensor (P4) monitors the trailer service brake 
+pressure being applied by the driver and sends an 
+electrical signal directly proportional to the driver’s 
+brake demand to the ECU.
+• Brake Delivery Pressure Sensor:  This internal 
+sensor (P21) monitors the trailer service brake 
+pressure that is being delivered to the wheel ends 
+through, or by, the TABS‑8 Advanced Module 
+system and sends an electrical signal directly 
+proportional to the delivered trailer service brake 
+pressure to the ECU.
+• Modulator Relay Valve (MRV): An MRV is 
+integrated into the TABS‑8 Advanced Module and 
+is controlled electrically by the ECU to decrease, 
+hold, or allow the fully applied brake pressure into 
+the brake chamber to control the braking torque at 
+the wheels.
+• MRV Crack Pressure: The TABS‑8 ABS MRVs 
+are supplied with a nominal crack pressure of  
+4.5 ± 0.5 psi. 
+7Figure 4 – Trailer ‑Mounted ABS Indicator Lamp
+• 5‑pin Power Harness: See Figure 5. A power 
+harness is required. Variations that include auxiliary 
+sub‑harnesses are available as needed. 
+• Lift‑Axle Sensing: If a trailer is equipped with a 
+lift axle, then lift‑axle sensing must be used, unless 
+configured for automatic lift-axle control (Refer to 
+the Lift-Axle Control section below) . A pressure 
+threshold switch must be installed in the lift bag for 
+the lift axle and connected to the ECU. The ECU 
+can then monitor the position of the lift axle and will 
+compensate correctly for the load transfer to the 
+other axle(s) when the lift axle is raised.
+• Lift‑Axle Control: The Bendix® TABS‑8™ Advanced 
+Module can be configured to automatically raise 
+(and lower) lift axle(s) when a pre-configured load 
+is sensed.
+6. MOUNTING CONFIGURATIONS
+• Tank (Nipple) Mount:  The TABS‑8 Advanced 
+Module can be tank‑mounted using a schedule 
+80 (heavy‑gauge steel) 3/4‑in. NPT nipple directly 
+between the trailer supply tank and the module’s 
+supply port. A tank with a reinforced port must be 
+used.• Frame (Chassis) Mount: The TABS‑8 Advanced 
+Module provides through‑holes for frame mounting 
+directly to the trailer frame rail or cross‑member. It is 
+recommended to use two (2) grade 53/8‑in. 16 bolts, 
+typical length of 5 in., torqued to 180 ‑ 220 in‑lbs 
+(20 ‑ 25 N•m). 
+7. PIGTAIL WIRING HARNESSES
+See Figure 5.  Pigtail wiring harnesses are available to 
+connect the TABS‑8 Advanced Module with the ABS and 
+other trailer system components. Pigtail harnesses are 
+weather‑sealed at the connector interface and are clearly 
+labeled for proper installation. Because of the over‑molded 
+design of the TABS‑8 Advanced Module wiring harnesses, 
+Bendix recommends the complete harness be replaced if 
+damage or corrosion occurs.
+See Figure 1. The TABS‑8 Advanced Module includes two 
+(2) primary Wheel Speed Sensor (WSS) inputs and two (2) 
+additional auxiliary inputs. The harnesses used for them 
+are separate from the main pigtail harness.
+ECU Connectors
+See Figure 5. TABS‑8 Advanced Module ECU connectors 
+use a 7‑pin TE Connectivity™ HDCS connector for brake 
+light power, constant power, the trailer‑mounted ABS 
+indicator lamp, ground, and – depending on the harness 
+version – it may include the AUX 1 I/O. Note that some 
+parts may be pre-configured with auxiliary features on the 
+AUX 1 I/O and S‑E/S‑F inputs that may require additional 
+harnessing as shown in Figure 5.
+16 15 
+PART NO. 
+L 
+K 
+J 
+H 
+G 
+F 
+E 
+D 
+C 
+B 
+A 
+16 15 14 
+-
+,.,,, ___ �-�--�-, .. , ' I -(. ---·< '\\ I·' --\ '\ \ , I I \ . ) ! \ -, .- . I 
+''- -· 1/ "··-,,· 
+14 13 
+� -.
+"ii '•·--w---- --·-
+13 12 I I 10 9 8 7 6 5 
+12 I I 10 9 8 7 6 5 4 3 2 
+REVISION HISTORY 
+ZONE REV DESCRIPTION ENGINEER DATE CHANGE NO.
+A- I 000 
+.J<'...' .-,.::: ' 
+I 00 \I 
+·, ·�:�_ /7; 
+TREATMENT 
+MATERIAL 
+Thii dro1ing/ipeciri<olio1 1st1 Spe<ial t•aracltri1tic 17m�ol1 deri1td i1 1003035. 
+� � �T•is do<u■tnt contoins proprietor! ond confidt1liOI informotio• and such
+i1for■olion mor not bt diHlond o 0Her1 ror on! p,rpou or ntd i1 ony
+•aJ •ilho1t 1r1lten consent rrom Bendir Conatrcia Vehicle Syste■s LLC. 
+UNLESS OTHERWISE SPECIFIED MASTER MODEL a..= DIM ARE IN MILLIMETERS>-=--= _______ K_2_1_56_1_3_, TOL ON ANGLE ±0 REF VOLUME 
+I PL ± 2 PL ± TITLE
+INTERPRET DIM AND TOL PER REF WEIGHT
+THIRD ANGLE PROJECTION CASTING
+FORGING CADBendix Corrmerciol Vehicle Systems LLC 
+Elyria, Ohio 44035 
+HARNESS 
+DWG NO REV
+Z260933000 t.P�A'T�TE�R�N�--------< AO P,o/E 
+t-,S-,C_
+A_
+LE�----+
+D-,0-NO""T,--,S-,C-AL""'E,--r-Sc-H-cE-c-E-c-T-,-1-0�F,-,----l
+4 3 2 L 
+K 
+J 
+H 
+G 
+F 
+E 
+D 
+"' 
+z 
+A Figure 5 – Examples of Wiring HarnessesTo Pressure Switch To S‑E or S‑F (S‑E is 
+default for LPWE)Wheel Speed Sensor 
+(WSS) Extension 
+Harness7‑Pin ECU Connector5‑pin Power and Indicator
+Lamp (POWER/WL)AUX 1 I/O ‑ TIS
+5‑pin Power and Indicator
+Lamp (POWER/WL) 7‑Pin ECU Connector
+K215623K216785
+K216783Various lengths and part numbers available
+8Power/ABS Indicator Lamp Connector
+The Bendix® TABS‑8™ Advanced Module pigtail uses a 
+TTMA RP  7‑99 5‑pin Packard® Weather Pack connector 
+for brake light power, constant power, ground, and the 
+trailer‑mounted Antilock Braking System (ABS) indicator 
+lamp. See Figure 5.  
+Auxiliary I/O Connector
+NOTE: Some parts may be pre-configured with auxiliary 
+features on the AUX 1 I/O and S‑E and S‑F inputs that may 
+require additional harnessing. 
+The two (2) additional Wheel Speed Sensors (WSS) on the 
+TABS-8 Advanced Module have the option to be configured 
+as tri‑state inputs. WSS S‑E and S‑F can also be used for 
+the TABS‑8 Advanced Module temperature‑monitoring 
+feature on a two‑axle trailer. 
+NOTE: For further information about this feature, refer to 
+TCH-20-001 on B2Bendix.com.
+SAE J1939 (CAN) Connector
+The TABS‑8 Advanced Module pigtail harnesses provide a 
+CAN connection for various Electronic Control Unit (ECU) 
+communications. Typical uses include J1939 diagnostics 
+and connection to the Bendix® Trailer Information Module 
+(TIM).
+Power and Ground
+Trailer electrical power is supplied to the TABS‑8 Advanced 
+Module from the ignition and brake light circuits. Refer to 
+Tables 1 and 2 for output values and pin locations.Function Mode Value
+Operating Range 8.0 to 32.0 VDC
+ECU Active 150 mA @ 12 VDC
+ABS Active 2.0 A @ 12 VDC
+Circuit7‑Pin
+Trailer
+Conn.5‑Pin
+ABS
+Conn.7‑Pin
+ECU
+Conn.
+Ignition Power Line 
+Carrier (PLC)  
+(Blue Wire) 7 B 2
+Brake Light Power
+(Red Wire)4 A 1
+Ground
+(White Wire)1 E 3
+Indicator Lamp
+(White/Green Wire)N/A D 4
+AUX I/O 1  
+(See Figure 5)N/A N/A 5
+CAN H  
+(Pin not populated by default)N/A N/A 6
+CAN L  
+(Pin not populated by default)N/A N/A 7Table 1 – Values for Outputs
+Table 2 – Main Power Harness and Connector Pins
+9 
+Correct WSS installation is necessary for optimal ABS 
+operation.
+Sensors should not be installed on a lift axle.
+1. For increased corrosion protection, Bendix 
+recommends that a high‑temperature‑rated silicone 
+or lithium‑based grease be applied to the interior 
+of the mounting block, the sensor, and to a new 
+clamping sleeve.
+2.  See Figure 3 . Install the new clamping sleeve fully into 
+the block, with the retaining tabs toward the inside of 
+the vehicle. Note that WS‑24 WSS must use the correct 
+clamping sleeve to avoid problems associated with 
+reduced retention force, such as sensor movement, 
+and resulting ABS DTCs. 
+3. Gently push (DO NOT STRIKE) the sensor into 
+the mounting block hole until it bottoms out on the 
+face of the tone ring. Secure the cable lead wire to 
+the knuckle/axle housing 3‑6 in. (8‑15 cm) from the 
+sensor.
+4. Apply a small amount of dielectric non‑conductive 
+grease to both the sensor and the harness 
+connectors.
+5. Engage the connectors and push them together until 
+the lock tab snaps into place. It is permissible to use 
+an extra wire retainer (Bendix Part Number 300122, 
+or equivalent), if available, to hold the connectors 
+together.
+The friction fit allows the WSS to slide back and forth under 
+force, but to retain its position when the force is removed. 
+When the WSS is inserted all the way into the mounting 
+block and the wheel is installed on the axle, the hub exciter 
+contacts the sensor, which pushes the sensor back. Also, 
+normal bearing play will “bump” the sensor away from 
+the tone ring. The combination of these two actions will 
+establish a running clearance, or air gap, between the 
+sensor and the tone ring.
+ 
+Wheel bearing maintenance is an important part of 
+keeping the WSS in the correct position. Excessive 
+wheel end play can result in DTCs in cases where the 
+sensor is pushed too far away from the tone ring for a 
+good signal to be produced. Maintain wheel bearings 
+per the manufacturer’s recommendations.8. ANTILOCK BRAKING SYSTEM 
+(ABS) INDICATOR LAMP
+Trailer‑Mounted Lamp
+The Bendix® TABS‑8™ Advanced Module controls an 
+Antilock Braking System (ABS) indicator lamp to show 
+the trailer ABS status. With power supplied by the towing 
+vehicle – if there is an active Diagnostic Trouble Code 
+(DTC), or during the bulb test at startup – the module 
+illuminates the ABS indicator lamp by providing a 12.0 VDC 
+signal. (The other side of the lamp is grounded.) The ABS 
+indicator lamp output uses Pin 4 of the 7‑pin connector on 
+the Module.
+Dash‑Mounted Lamp (PLC Controlled)
+TABS‑8 Advanced Modules use SAE J2497 standards 
+to support PLC communication. The status of the 
+trailer ABS is transmitted over the ignition power 
+wire (the blue wire of the J560 connector) – Pin 2  
+of the 7‑pin Module connector.
+If there is an active DTC, during the bulb check at startup, 
+the TABS‑8 Advanced Module will transmit a signal over 
+the power line to the towing vehicle’s Electronic Control 
+Unit (ECU), thus illuminating the trailer ABS indicator lamp 
+mounted on the dash.
+9. BENDIX® WS‑24™ WHEEL 
+SPEED SENSOR (WSS)
+See Figure 3. Wheel speed data is provided to the TABS‑8 
+Advanced Module by the Bendix® WS‑24™ Wheel Speed 
+Sensor (WSS). Typically, the WS‑24 WSS is installed in 
+a mounting block that is welded to the axle housing. The 
+WSS are protected by a stainless steel sheath. They are 
+designed to be used with stainless steel clamping sleeves, 
+sometimes referred to as a “retainer bushing,” “friction 
+sleeve,” or “clip.” The clamping sleeve provides a friction 
+fit between the mounting block bore and the WSS.
+Vehicles have an exciter ring (often referred to as “tone 
+ring”) as part of the wheel assembly. (From here on, this will 
+be referred to as a “tone ring” throughout this document.)  
+The default setting expects a 100‑tooth tone ring to be 
+used. ( See Section 17  for more information.) As the wheel 
+turns, the teeth of the tone ring pass the WSS, generating 
+an Alternating Current (AC) signal which is delivered to the 
+TABS‑8 Advanced Module ECU. The signal varies in voltage 
+and frequency as the wheel speed changes.
+See Figure 18 for an electrical system schematic showing 
+the WSS connector pin locations.
+10Antilock Braking System (ABS) Wiring on Towing 
+Trailers
+For use on towing trailers, to minimize voltage‑drop, the 
+rear‑mounted SAE J560 connector MUST BE  connected 
+directly to the front ‑mounted SAE J560 connector by a 
+parallel wiring harness to the trailer wiring harness. 
+Any auxiliary power circuit (non‑braking and running gear) 
+shall be powered via the trailer Antilock Braking System 
+(ABS). The trailer ABS shall provide power management 
+to ensure the braking functions are given priority. If the 
+power requirement for the auxiliary power circuit exceeds 
+the maximum current allowed for an AUX I/O, an external 
+relay or electronic relay, which is to be controlled by the 
+trailer ABS, is acceptable for use. In this case, it is the 
+trailer manufacturers’ responsibility to ensure this circuit 
+is suitably designed and rated for the application and 
+the switch-off time is fast enough to ensure the braking 
+power supply is protected. This should be proven by 
+practical tests ( Contact your local Bendix representative ). 
+10. SAE J2497 POWER LINE CARRIER 
+(PLC) DIAGNOSTIC LINK
+See Figures 6 and 7. All newer towed vehicles transmit 
+a signal over the power line to the towing vehicle ABS 
+Electronic Control Unit (ECU). The signal, using a heavy 
+vehicle industry standard known as Power Line Carrier 
+(PLC/J2497), is broadcast by the trailer ABS ECU over the 
+blue wire (ignition power line) of the SAE J560 connector 
+and controls an in‑cab trailer ABS indicator lamp. The Bendix® TABS‑8™ Advanced Module provides a data 
+link for PLC communication following the SAE J2497 
+standard. Bendix® ACom® Diagnostic Software and the 
+Bendix® Trailer Remote Diagnostic Unit (TRDU) both 
+support PLC communication with the TABS‑8 Advanced 
+Module. PLC communication is applicable for 12‑ volt 
+vehicle applications only. The PLC communication is 
+disabled for voltages greater than 18 volts.
+Identifying and Measuring the PLC Signal
+The TABS‑8 Advanced Module will continuously broadcast 
+PLC messages that indicate trailer ABS status. At power‑
+up, or during a trailer ABS DTC condition, the TABS‑8 
+Advanced Module will signal the tractor ABS unit to 
+illuminate the dash‑mounted trailer ABS indicator lamp.
+Diagnostic tools are available that detect the presence 
+of a PLC signal and perform further system diagnostics 
+directly, using the power line. For more information on these 
+diagnostic tools, contact your local Bendix representative or 
+refer to your local authorized Bendix dealer or distributor. 
+An oscilloscope can also be used to verify the presence 
+and strength of a PLC signal on the power line. The PLC 
+signal is an amplitude‑ and frequency‑modulated signal. 
+Depending on the load on the power line, the amplitude 
+of the PLC signal can range from 2.5 mV p‑p to 7.0 V p‑p.
+Suggested oscilloscope settings are Alternating Current 
+(AC) coupling, 1 volt/div, 100 µsec/div. The signal should 
+be measured on Pin 7 of the J560 connector at the nose 
+of the trailer.
+11. SAE J1939 (CAN) DIAGNOSTIC LINK
+The TABS‑8 Advanced Module provides a data link for 
+transmitting CAN information following the SAE J1939 
+standard. ACom Diagnostic Software and the Bendix® 
+Trailer Information Module (TIM) both support CAN 
+communication with the TABS‑8 Advanced Module. 
+Ignition power must be provided to the TABS‑8 Advanced 
+Module for the diagnostic link to be active. NOTE : Suitable 
+harnessing will be required for this function.
+Figure 6 – Power Line without PLC Signal
+Figure 7 – Power Line with PLC Signal
+1115. POWER ‑UP SEQUENCE
+At power‑up, the TABS‑8 Advanced Module performs 
+a series of self checks that can assist a technician in 
+determining the ABS system status and configuration.
+Trailer ABS Indicator Lamp
+See Figure 8 . At power‑up, with no active Diagnostic 
+Trouble Codes (DTC), the trailer ABS indicator lamp will 
+illuminate for approximately two (2) to six (6) seconds as 
+a bulb check and then turn off. If any active DTCS related 
+to ABS or Bendix® Trailer Roll Stability Program (TRSP®) 
+are present, the trailer ABS indicator lamp will remain 
+illuminated. For non‑ABS or TRSP‑related DTCs at power‑
+up, such as auxiliary functions, the trailer ABS indicator 
+lamp will turn on for approximately six‑and‑a‑half (6.5) 
+seconds as an extended bulb check and then turn off. If a 
+PLC‑ready towing vehicle and trailer are powered at the 
+same time, the TABS‑8 Advanced Module will also trigger a 
+bulb check on the dash‑mounted trailer ABS indicator lamp.
+Modulator Chuff Test at Power-Up
+At power‑up, the TABS‑8 Advanced Module activates a 
+modulator chuff test. This electrical and pneumatic ABS 
+modulator test can help the technician identify problems 
+with modulator installations and/or wiring.  With brake 
+pressure applied, a properly installed modulator will cause 
+two (2) rapid audible chuffs of air pressure. NOTE: The 
+TABS‑8 Advanced Module will not perform a modulator 
+chuff test with an active ABS DTC.
+* Some vehicle manufacturers may illuminate the trailer ABS 
+indicator lamp at power‑up regardless of whether a PLC 
+signal is detected from the trailer or not. Consult the vehicle 
+manufacturer’s documentation for more details.Power
+Application
+Dash‑mounted Trailer 
+ABS Indicator Lamp  
+(PLC Detected)*
+Dash‑mounted Trailer 
+ABS Indicator Lamp
+(PLC Not Detected)Trailer‑mounted ABS
+Indicator LampABS System
+Status Indicators
+ON
+OFF1.0
+ON
+OFF3.04.05.0 2.0
+ON
+OFF6.0 (sec.)12. AUXILIARY I/O
+Refer to Table 3. The Bendix® TABS‑8™ Advanced Module 
+provides for up to three (3) auxiliary input/output (I/O) 
+functions. 
+NameECU* 
+PinAuxiliary 
+FunctionsAuxiliary Type
+AUX1 5High‑Side Driver Output
+Digital Input Input
+SEWSS** 
+SETri‑State Input Input
+SFWSS 
+SFTri‑State Input Input
+Refer to Table 4. Bendix® ACom® Diagnostic Software 
+supports the configuration of the TABS -8 Advanced Module 
+AUX I/Os. Some parts may be pre-configured with auxiliary 
+features.
+Name Auxiliary FunctionsAuxiliary 
+Type
+AUX1 Tire Inflation System Sensing Input
+SELow‑Pressure Warning 
+EmergencyInput
+SF Pad Wear‑Sensing Input
+13. BENDIX® ANTILOCK BRAKING 
+SYSTEM (ABS) FLEX™ PROGRAM
+The Bendix® Antilock Braking System (ABS) Flex™ program 
+uses Auxiliary Design Language (ADL) to allow customized 
+auxiliary functions to be carried out by the TABS‑8 
+Advanced Module. Programs developed in the ABS Flex 
+program may be downloaded at the production line or in 
+the field to control non-braking functions of the trailer.
+For example, the ABS Flex program can potentially 
+communicate the status of tire inflation and/or temperature, 
+reefer temperature, load presence, lift axle position, 
+proximity/reverse alarm, and vehicle weight.
+The ABS Flex program monitors the AUX I/Os and/or the 
+SAE J1939 (CAN) and SAE J2497 Power Line Carrier 
+(PLC) data links. Contact your local Bendix representative 
+to discuss an ABS Flex program for your vehicle(s).
+14. CUSTOMER SCRATCH PAD
+The TABS‑8 Advanced Module has a customer scratch pad 
+feature which allows the customer, or end‑user, to store up 
+to 1,008 bytes of information. This information can then be 
+read using the ACom Diagnostic Software.Table 3 – Auxiliary I/Os  
+  *Electronic Control Unit (ECU)  
+**Wheel Speed Sensor (WSS)
+Table 4 – Pre-Configured Auxiliary Features
+Figure 8 – Trailer Antilock Braking System (ABS) 
+Lamp Power ‑Up Sequence
+1216. ODOMETER FUNCTION
+Odometer
+The Bendix® TABS‑8™ Advanced Module includes an 
+odometer function to provide a means of storing the 
+accumulated mileage of the vehicle. The mileage is 
+computed by using information received from the vehicle 
+Wheel Speed Sensors (WSS).
+This feature is accurate to within 0.62 miles per power‑up 
+and will typically store mileage up to 1,000,000 miles. The 
+mileage can be displayed using PC diagnostics, a Bendix® 
+Trailer Information Module (TIM), Bendix® Trailer Remote 
+Diagnostic Unit (TRDU), or through blink codes.
+Whenever the TABS‑8 Advanced Module is towed using 
+a pre‑ 1997 tractor (with no constant power supplied to 
+the trailer), no information about mileage will be stored 
+during that time, and the mileage can be considered out 
+of calibration.
+Trip Counter
+The TABS‑8 Advanced Module provides a counter to record 
+the trip mileage. The feature can be accessed using PC 
+diagnostics or the TIM.
+Service Interval
+The TABS‑8 Advanced Module provides a feature that can 
+be used to indicate a service interval for the trailer. The 
+service interval can be accessed using PC diagnostics or 
+the TIM. If configured, the TABS-8 Advanced Module can 
+flash the indicator lamp when the vehicle is at a standstill 
+to indicate when the service interval has been exceeded.
+17. NON ‑STANDARD TIRE SIZE
+The TABS‑8 Advanced Module allows for tire rolling radius 
+and tone ring tooth count parameters to be set for the 
+axle being sensed using the Bendix® ACom® Diagnostic 
+Software. These adjustments may be necessary for the 
+module to accurately calculate the vehicle velocity and 
+odometer mileage. Wheels of the same axle must have, 
+and be set to the same, rolling radius and tone ring tooth 
+count. Refer to the manufacturer’s tire specification for 
+correct values.
+The tone ring size is defaulted to 100 teeth, and the tire‑
+rolling radius is defaulted to 511 revolutions per mile. Refer 
+to Table 5  for parameter adjustments. Tone Ring 
+SizeTire‑Rolling Radius 
+– Allowable Range  
+(in revolutions per mile)
+60 teeth 712 to 1005
+80 teeth 512 to 801
+90 teeth 456 to 711
+100 teeth 410 to 640
+120 teeth 356 to 502
+18. DIAGNOSTIC TROUBLE 
+CODE (DTC) DETECTION
+The TABS‑8 Advanced Module contains self‑testing 
+diagnostic circuitry that monitors the Antilock Braking 
+System (ABS) components and wiring. When the TABS‑8 
+Advanced Module senses an erroneous system condition, 
+it activates the external trailer‑mounted ABS indicator lamp, 
+disables all or part of the affected ABS and/or Bendix® 
+Trailer Roll Stability Program (TRSP® ) functions, and it 
+stores the Diagnostic Trouble Code (DTC) in memory, so 
+that the information is retained even when the power is 
+removed. The TABS‑8 Advanced Module also uses Power 
+Line Carrier (PLC) communications to send the system 
+status to the towing vehicle.
+For some DTCs, the TABS‑8 Advanced Module will 
+automatically reset (“self‑heal”) the active DTC when the 
+error is corrected. However, repeated occurrences of a 
+given DTC can cause the code to “latch” – that is, be 
+retained as active – even if the condition is only intermittent. 
+Once the code is latched, a manual reset will be necessary. 
+Technicians can use these latched codes to assist them 
+in troubleshooting intermittent errors. After the problem is 
+repaired, the DTC can be reset using blink code diagnostics 
+or with a diagnostic tool.
+19. PARTIAL ABS SHUTDOWN
+Depending on the DTC detected, the ABS Electronic 
+Control Unit (ECU) will partially or completely disable the 
+ABS and/or TRSP functionality. In cases where the ABS is 
+completely disabled, the vehicle reverts to normal braking 
+(without ABS or TRSP interventions). Always repair ABS 
+DTCs at the earliest opportunity.
+ECU DTCs
+All ABS functions are completely disabled. The system 
+reverts to normal braking.Table 5 – Tone Ring Size to Tire ‑Rolling Radius
+13Voltage DTCs
+The operating voltage range is 8.0 to 32.0 VDC. If the 
+voltage is detected as being out of range, the Antilock 
+Braking System (ABS) and Bendix® Trailer Roll Stability 
+Program (TRSP®) system braking features will be disabled, 
+and the system will revert to normal braking. When the 
+correct voltage level is restored, full ABS and TRSP is 
+typically available again.
+20. BLINK CODE DIAGNOSTICS
+The Bendix® TABS‑8™ Advanced Module provides 
+diagnostic functions through blink code diagnostics. This 
+means that the technician – even without diagnostic tools – 
+can read a series of ABS indicator lamp blinks to diagnose 
+the DTCs being generated.
+With no towing vehicle attached, the technician may enter 
+the blink code diagnostics mode by providing constant 
+power to the ignition circuit and then select the desired 
+mode by toggling the brake light power input the specific 
+number of times shown in Table 6.
+With a parked towing vehicle attached, apply ignition power, 
+and after the power‑up sequence is complete, enter the 
+diagnostics mode by depressing and releasing the brake 
+pedal the specific number of times shown in Table 6  for 
+the desired mode.
+Cycles of the Brake Light Power Input 
+Required to Enter Desired Mode
+Mode Cycles
+Active DTC Retrieval 3
+Inactive DTC Retrieval (DTC History) 4
+Clear Active DTCs 5
+Odometer Mileage Display 7
+Depending on the blink code mode activated, the TABS‑8 
+Advanced Module will blink the trailer‑mounted ABS 
+indicator lamp to display active DTCs, inactive DTCs, and 
+odometer mileage. Blink code diagnostics can also be used 
+to clear active DTCs.
+Wait until after the modulator chuff test before activating 
+the brake light power. Alternatively, wait five (5) seconds.
+NOTE: If certain DTCs are set, typically where modulator 
+DTCs have occurred, the chuff test may not run.Following a single display of all available messages, the 
+ABS indicator lamp will remain on for five (5) seconds 
+and then return to normal operating mode. Blink code 
+diagnostics can only be activated following a power‑up, 
+where wheel speeds have not been detected. If the vehicle 
+moves during the blink code diagnostics mode, the TABS‑8 
+Advanced Module will cancel the blink code diagnostics 
+and return to normal operating mode.
+Blink code diagnostics must be activated within the first 15 
+seconds of ignition power being applied.
+If brake light power is continuously applied for more than 
+five (5) seconds, blink code diagnostics will be disabled 
+until the next time the ignition power is cycled.
+Display Active DTCs
+To display active DTCs, apply ignition power and depress 
+and release the brake pedal three (3) times within 
+15 seconds (allowing one [1] second between each 
+application). Following this activation, there will be a five 
+(5) second delay followed by a blink code display sequence 
+of all active DTCs. 
+Display Inactive DTCs
+To display inactive DTCs – those that are not currently 
+set, but have occurred and are stored in the Electronic 
+Control Unit’s (ECU’s) memory – apply ignition power and 
+depress and release the brake pedal four (4) times within 
+15 seconds. Following this activation, there will be a five 
+(5) second delay followed by a blink code display sequence 
+of all inactive DTCs stored. 
+Reset Active DTCs
+To reset active DTCs, apply ignition power and depress and 
+release the brake pedal five (5) times within 15 seconds. 
+Following activation, there will be a five (5) second delay 
+followed by:
+a. If no DTCs remain, a blink code message of 1‑1, 
+(System Fully Operational - No DTCs Detected ) and 
+the ABS indicator lamp will cease to be illuminated; or
+b. If there are remaining active DTCs, a sequence of 
+blink codes will display all of the remaining active 
+DTCs, and the ABS indicator lamp will stay on.
+Resetting active DTCs with blink code diagnostics does 
+not clear information from the DTC history. Both blink code 
+diagnostics and diagnostic tools can retrieve inactive DTCs, 
+but only diagnostic tools can clear this information.Table 6 – Blink Code Information
+14Display Odometer Mileage
+To display the trailer odometer mileage, apply ignition 
+power and depress and release the brake pedal seven (7) 
+times within 15 seconds. Following activation, there will be 
+a five (5) second delay followed by a blink code display of 
+the odometer information (x1000).
+Example:  152,431 miles will be displayed as 152 (x1000) or 
+one (1) blink (pause); five (5) blinks (pause); two (2) blinks.
+Zeros (0s) will be displayed by the Antilock Braking System 
+(ABS) indicator lamp strobing twice.
+Odometer mileage cannot be altered with blink code 
+diagnostics. Complete odometer information can be 
+retrieved using a diagnostic tool.
+21. AUXILIARY FEATURES
+Rear Axle Suspension Dump
+Some spread‑axle trailers are equipped with a rear‑axle 
+suspension air bag dump feature to assist with cornering 
+at low speeds. The Bendix® TABS‑8™ Advanced Module 
+may be configured to use this feature. When this feature 
+is used below a pre‑determined threshold vehicle speed, 
+the Electronic Control Unit (ECU) will partially exhaust the 
+rear-axle air suspension bags, and then reinflate them 
+when the vehicle speed rises above the threshold. For 
+more information about this feature, contact your local 
+Bendix representative. 
+Lift‑Axle Control (Automatic)
+The TABS‑8 Advanced Module can be configured to 
+automatically raise a lift axle when the load on the trailer 
+drops below a configured level. Changes to the trailer to 
+allow for this feature to include the use of the auxiliary 
+outputs to operate a Lift Axle Control (LAC) valve. NOTE : 
+Suitable harnessing will be required.
+Low‑Pressure Warning Emergency (LPWE)
+The TABS-8 Advanced Module can be configured for Low-
+Pressure Warning Emergency (LPWE). By monitoring 
+the status of an external pressure switch installed in the 
+emergency line or delivery line of the spring brake valve, 
+the TABS‑8 Advanced Module will alert the driver of a low‑
+pressure condition by illuminating the trailer ABS warning 
+lamp. When the vehicle is moving and the pressure in the 
+emergency line is below approximately 65 psi, which is the 
+minimum pressure to release the spring brakes, the ABS 
+warning light will illuminate. The speed threshold at which 
+the alert activates is configurable. The fault will clear once 
+the pressure in the emergency line is above approximately 
+65 psi. See Figures 18 and 22  for system schematics.NOTE:  Your trailer may be equipped with a Bendix Power 
+Line Carrier (PLC) relay, which has the ability to indicate 
+when there is a low‑pressure condition on the emergency 
+line, using information received from the TABS‑8 Advanced 
+Module.
+Tire Inflation System (TIS) Sensing
+The TABS‑8 Advanced Module is capable of monitoring 
+the state of the Tire Inflation System (TIS) flow switch and 
+it can be configured to automatically broadcast the status 
+of this switch over the PLC. Additionally, it is possible to 
+configure a TIS warning lamp that the ECU will control 
+based on the state of the TIS. See Figures 18 and 22 for 
+system schematics.
+NOTE:  Your trailer may be equipped with a Bendix PLC 
+relay, which has the ability to indicate when the TIS is active, 
+using information received from the TABS‑8 Advanced. For 
+TIS troubleshooting, refer to Section L. 
+Pad Wear‑Sensing
+The TABS‑8 Advanced Module is capable of monitoring the 
+state of the Bendix disc brake pad wear sensors installed 
+on the air disc brakes, and it will activate a Diagnostic 
+Trouble Code (DTC) whenever it detects that at least one 
+(1) of the pads has reached the wear limit. The TABS‑8 
+Advanced Module can broadcast this DTC over the PLC. 
+See Figures 18 and 22  for system schematics.
+NOTE: Your trailer may be equipped with a Bendix PLC 
+relay, which has the ability to indicate when the pad wear‑
+sensing DTC is active,using information received from the 
+TABS‑8 Advanced Module.
+1522. DIAGNOSTIC TROUBLE CODES (DTC s)
+Blink Codes
+DTC DescriptionInternal 
+Code (HEX)Possible Causes / Repair InformationJ1587 
+(SID/FMI)1st 
+Digit2nd 
+Digit
+1 1 No DTC ‑• Bendix® TABS‑8™ Advanced system fully operational – no DTCs 
+detected000/00
+Wheel Speed Sensors (WSS); “S‑C” & “S‑D”
+2 1Large Air Gap:
+Sensor “S‑C”0x002400
+Dynamic WSS DTC ‑ large air gap between sensor and tone ring.
+Go to Section E, Dynamic WSS DTC, on page 35.001/00
+3 1Large Air Gap:
+Sensor “S‑D”0x002500 002/00
+2 2Shorted or open wire: 
+Sensor “S‑C”0x000D00  
+0x001200 Static WSS DTC ‑ shorted or open sensor wire.
+Go to Section E, Static WSS DTC, on page 35.001/03
+001/04
+3 2Shorted or open wire: 
+Sensor “S‑D”0x000C00  
+0x001300002/03
+002/04
+2 3Dynamic Issue: 
+Sensor “S‑C”0x001800 
+0x001E00 
+0x003000 Dynamic WSS DTC ‑ incorrect wheel speed signal detected while 
+vehicle is in motion.
+Go to Section E, Dynamic WSS DTC, on page 35. 001/08
+001/01
+001/02
+3 3Dynamic Issue: 
+Sensor “S‑D”0x001900 
+0x001F00 
+0x003100002/08
+002/01
+002/02
+2 4Tire Diameter Out of 
+Range: Sensor “S‑C” 0x003600 • Verify correct tire size and proper tire inflation.
+• Verify correct number of tone ring teeth.
+•  Verify the  TABS‑8 Advanced Electronic Control Unit (ECU) has 
+been programmed with the proper tire size and tone ring settings.001/13
+3 4Tire Diameter Out of 
+Range: Sensor “S‑D” 002/130x003700
+Trailer Power
+6 1 Over‑voltage 0x011F00Power Supply DTC ‑ trailer power above 32 volts.
+Go to Section D on page 34.251/03
+6 2 Low‑voltage0x012000  
+0x012100Power Supply DTC ‑ trailer power below 8 volts.
+Go to Section D on page 34.251/04
+6 3Excessive power line 
+resistance0x012200  
+0x012300Power Supply DTC ‑ possible corroded or shorted trailer power 
+circuit. Go to Section D on page 34.251/13
+Pressure Sensors (Internal): “P4,” “P42,” and “P21”
+7 1Internal Pressure Sensor 
+Reading Incorrect:
+Control Port “P4”0x00EE00• Verify the trailer’s control (service) pressure is < 130 psi.
+•  If the diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.077/12
+7 2Internal Pressure Sensor 
+Reading Incorrect:
+Load Port “P42”0x00F000• See the suspension manufacturer’s specifications for load versus 
+pressure. Verify the trailer’s air suspension pressure is <130 psi 
+and is within the allowable range for the specific suspension/
+airbag combination. (Below 50% of airbag pressure at the 
+unladen weight, or above 50% of airbag pressure at GVWR for 
+axles.)
+•  If the diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.069/12 IMPORTANT
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix® ACom® Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs). 
+3. Continue with repair information for each scenario.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+16DIAGNOSTIC TROUBLE CODES (DTC s) (CONTINUED)
+Blink Codes
+DTC DescriptionInternal 
+Code (HEX)Possible Causes / Repair InformationJ1587 
+(SID/FMI)1st 
+Digit2nd 
+Digit
+7 3Internal Pressure Sensor 
+Reading Incorrect:
+Delivery Port “P21”0x00F200•  Perform a pressure component test using the Bendix® ACom® 
+Diagnostic Software.
+•  Verify the trailer’s control (service) and brake delivery pressures 
+are comparable and < 130 psi. Control and delivery pressures 
+should be within 3.3 psi of each other.
+•  If the diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.059/12
+Lateral Acceleration Sensor (Internal or External)
+8 1Internal Lateral 
+Acceleration Sensor ‑ 
+Mounting Error0x014D00• Before troubleshooting, verify the trailer has been parked on level 
+ground.
+•  Verify the Bendix® TABS‑8™ Advanced Electronic Control Unit 
+(ECU) has been programmed with the proper ECU orientation, 
+tire size, and tone ring settings.
+•  Verify the TABS‑8 Advanced Module has been mounted as per 
+the installation guidelines ( See Troubleshooting Section G, page 
+35):
+• The configured ECU orientation matches the actual 
+ECU orientation. 
+• Verify the Wheel Speed Sensors (WSS) are installed 
+correctly (left/right). See Figure 17 .
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.099/14
+8 2Internal Lateral 
+Acceleration Sensor ‑ 
+Signal Out Of Range0x014E00
+0x01B800•  Before troubleshooting, verify the trailer has been parked on level 
+ground.
+•  Verify the TABS‑8 Advanced Module has been mounted as per 
+the installation guidelines.
+•  Perform a lateral acceleration sensor (installation angle) 
+component test using the Bendix® ACom® Diagnostic Software:
+•  Verify the installation angle of the TABS‑8 Advanced 
+Module is within ±5°. See Figure 14. 
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.099/14
+8 3Internal Lateral 
+Acceleration Sensor ‑ 
+Offset Error0x019C00•  Before troubleshooting, verify that the trailer has been parked on 
+level ground.
+•  Verify that the TABS‑8 Advanced Module has been mounted as 
+per the Installation Guidelines.
+•  Perform a lateral acceleration Sensor (installation angle) 
+component test using the ACom Diagnostic Software.
+• Verify the installation angle of the TABS‑8 Advanced 
+Module is within ±5°. See Figure 14. 
+• If the roll angle is out of tolerance, clear the diagnostic 
+code and test drive the vehicle.
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.099/02
+8 4Internal Lateral 
+Acceleration Sensor ‑ 
+Sensor Signal Not Found0x015000•  Verify the TABS‑8 Advanced Module has been mounted as per 
+the installation guidelines:
+ ‑  TABS‑8 Advanced Module mounted either in 0°, 90°, 180°, 
+or 270° orientation.099/14
+Trailer System Braking IMPORTANT
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix® ACom® Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs). 
+3. Continue with repair information for each scenario.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+17DIAGNOSTIC TROUBLE CODES (DTC s) (CONTINUED)
+Blink Codes
+DTC DescriptionInternal 
+Code (HEX)Possible Causes / Repair InformationJ1587 
+(SID/FMI)1st 
+Digit2nd 
+Digit
+9 1Extended Brake 
+Application Detected0x012D00•  Verify there is no residual pressure in the trailer’s control (service) 
+line.
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the Bendix® TABS‑8™ Advanced 
+Module.057/07
+9 2 Excessive Antilock 
+Braking System (ABS) 
+Activity Detected0x018E00Dynamic Wheel Speed Sensor (WSS) DTC ‑ possible incorrect 
+wheel speed signal while vehicle in motion resulted in long ABS 
+event.
+Go to Section E on page 35.057/07
+9 3Excessive Bendix® Trailer 
+Roll Stability Program 
+(TRSP® ) Activity Detected0x015100• Clear diagnostic codes.
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.057/07
+TABS‑8™ Advanced Module
+10 1TABS‑8 Advanced 
+Internal ErrorUse a 
+Diagnostic 
+Tool to verify 
+specific 
+Internal Code 
+(HEX) • Check for damaged or corroded connectors.
+• Check for damaged wiring.
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.254/12
+10 2TABS‑8 Advanced 
+Configuration ErrorUse a 
+Diagnostic 
+Tool to verify 
+specific 
+Internal Code 
+(HEX)•  Verify the Electronic Control Unit (ECU) parameters and actual 
+system installation is compatible using the Bendix® ACom® 
+Diagnostic Software.
+• Re‑program the ECU as necessary.
+•  If necessary, contact your local Bendix representative to obtain 
+the correct configuration data.254/13
+10 3TABS‑8 Advanced 
+EEPROM Error0x018A00
+0x018F00•  Verify the ECU parameters and actual system installation is 
+compatible using the ACom Diagnostic Software.
+•  Re‑program the ECU as necessary.
+•  If necessary, contact your local Bendix representative to obtain 
+the correct configuration data.254/13
+10 4TABS‑8 Advanced Not 
+Configured0x019900•  Reprogram the ECU to be compatible to the actual system 
+configuration using the Bendix ACom Diagnostic Software.
+•  If necessary, contact your local Bendix representative to obtain 
+the correct configuration data.254/13
+10 5TABS‑8 Advanced EOL 
+Test Not Completed0x019A00•  Perform the installation test using the ACom Diagnostic Software 
+or Bendix® Trailer Information Module (TIM).254/14
+Auxiliary Design Language (ADL) and Auxiliary I/Os IMPORTANT
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix® ACom® Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs).  
+3. Continue with repair information for each scenario.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+18DIAGNOSTIC TROUBLE CODES (DTC s) (CONTINUED)
+Blink Codes
+DTC DescriptionInternal 
+Code (HEX)Possible Causes / Repair InformationJ1587 
+(SID/FMI)1st 
+Digit2nd 
+Digit
+11 1Bendix® TABS‑8™ 
+Advanced Auxiliary I/O 
+Error: 
+AUX I/O #7 (Trailer ABS 
+Indicator Lamp)0x01AF00•  Check for corroded/damaged wiring or connectors between the 
+Electronic Control Unit (ECU) and the Antilock Braking System 
+(ABS) indicator lamp.
+•  Check pin X1‑4 of the ECU ‘Power’ connector for the following:
+• Pin not pushed back
+•  Correctly wired to the ABS indicator lamp  
+(pin X1‑4 – supply)
+• Shorted to ground, Vbat, or other ECU pins 
+•  Verify the ABS indicator lamp is properly grounded and not  
+burnt out. 
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.152/12
+11 2TABS‑8 Advanced 
+Auxiliary I/O Error: AUX 
+I/O #1 0x006300•  Check for corroded/damaged wiring or connectors between the 
+ECU and the auxiliary device.
+•  Check pins X1‑5 and X1‑3 of the ECU ‘Power’ connector for the 
+following:
+• Pins not pushed back
+• Correctly wired to the auxiliary device (pin X1‑5 to 
+supply, pin X1‑3 to ground)
+• Shorted to ground, Vbat, or other ECU pins 
+•  Verify the auxiliary device is properly functioning and rated for 
+maximum load of ≤ 2 amps. 
+•  If diagnostic code persists, contact your local Bendix 
+representative before replacing the TABS‑8 Advanced Module.152/12
+11 9TABS‑8 Advanced 
+Auxiliary Program Error: 
+ADL 0x017E00
+0x017F00•  Verify the AUX I/O ECU pin‑outs match the ADL parameters using 
+the Bendix® ACom® Diagnostic Software.
+•  If necessary, contact your local Bendix representative to 
+troubleshoot the Auxiliary Design Language (ADL) program.152/12
+11 11 WL Information: ADL 0x013300
+0x017C00
+0x017D00•  Verify that the ADL parameters are correct using the ACom 
+Diagnostic Software.
+•  If necessary, contact your local Bendix representative to 
+troubleshoot the ADL program.152/14
+Miscellaneous IMPORTANT
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix® ACom® Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs). 
+3. Continue with repair information for each scenario.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+19DIAGNOSTIC TROUBLE CODES (DTC s) (CONTINUED)
+Blink Codes
+DTC DescriptionInternal 
+Code (HEX)Possible Causes / Repair InformationJ1587 
+(SID/FMI)1st 
+Digit2nd 
+Digit
+12 1Service Distance or  
+Date Exceeded0x019500
+0x019700•   Perform the scheduled trailer maintenance and/or reset the 
+service distance or date using the Bendix® ACom® Diagnostic 
+Software.153/00
+12 2 Trailer Load Out of Range 0x012800•  If the trailer is equipped with a raise/lower valve, verify it is in the 
+drive position. 
+•  Contact your trailer manufacturer to confirm the specific 
+suspension air pressure parameters.
+•  Verify the Electronic Control Unit (ECU) parameters for the empty 
+and fully loaded trailer conditions are correct using the ACom 
+Diagnostic Software. Contact your trailer manufacturer for ECU 
+parameters. 
+•  If necessary, contact your local Bendix representative to 
+troubleshoot the trailer’s loading condition.069/13
+12 3 Brake Pads Worn 0x017B00•  Manually check the condition of the pads on each brake to 
+determine if any require replacement.
+•  If no pads require replacement, check the wear sensors and 
+entire pad wear sensing harnessing for damage or open circuits.070/01
+12 3Low Pressure Warning 
+Emergency (LPWE) 
+(Parking Brake Circuit)0x01CD00•   Check if the trailer’s service reservoir pressure is < 65 psi. 
+•   If the trailer’s service reservoir pressure is > 65 psi, cycle the 
+ignition power off and on. 
+•  If the DTC persists, contact your local Bendix representative 
+before replacing the TABS Module. 254/1
+12 5Stop Lamp Power Supply 
+Mode Active in Standstill0x018700The ECU is currently being powered by stop lamp power only.
+• Check for damaged or corroded connectors for ignition power 
+issues on both the truck and trailer.
+• Check the wiring at J560 on the Antilock Braking System (ABS) 
+5‑pin connector pigtail for both the truck and trailer.      
+• Clear the DTCs if no issues were found or after the repair was 
+made.
+• If the DTC persists, contact your local Bendix representative 
+before replacing the TABS module.254/11 
+12 5Stop Lamp Power  
+Supply Mode Active  
+While Moving0x01A400The ECU is currently being powered by stop lamp power only.
+• Check for damaged or corroded connectors for ignition power 
+issues on both the truck and trailer.
+• Check the wiring at J560 on the Antilock Braking System (ABS) 
+5‑pin connector pigtail for both the truck and trailer.        
+• Clear the DTCs if no issues were found or after the repair was 
+made.
+• If the DTC persists, contact your local Bendix representative 
+before replacing the TABS module.254/11 
+12 8Bendix® Trailer 
+Information Module (TIM) 
+Missing0x01AA00 •  TIM and/or harness damaged or not present. 254/11 IMPORTANT
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix® ACom® Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs). 
+3. Continue with repair information for each scenario.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+2023. TROUBLESHOOTING
+Using Handheld or PC‑based Diagnostics
+Troubleshooting and Diagnostic Trouble Code (DTC)
+clearing, as well as beginning a reconfiguration, may also 
+be carried out using handheld or PC‑based diagnostic 
+tools such as the Bendix® Trailer Remote Diagnostic Unit 
+(TRDU), Bendix® ACom® Diagnostic Software, or the 
+Bendix® Trailer Information Module (TIM).
+Bendix Antilock Braking System (ABS)  
+Diagnostic Tools
+ACom Diagnostic Software is an RP‑1210‑compliant 
+PC‑based diagnostic software program that provides the 
+highest level of diagnostic support for the Bendix® TABS‑8™ 
+Advanced Module. With ACom Diagnostic Software, 
+maintenance personnel can:
+• Obtain DTC information (both active and inactive)
+• Retrieve event history
+• Clear inactive DTCs and event history
+• Verify Electronic Control Unit (ECU) configuration
+• Perform system and component tests
+• Read/write customer information in the scratch pad
+• Save and print information
+• Receive troubleshooting assistance
+When diagnosing the TABS‑8 Advanced Module using a 
+PC and ACom Diagnostic Software, the computer’s USB 
+port can be connected to the vehicle’s diagnostic connector 
+through an RP‑1210‑compliant communication device.
+For more information on the ACom Diagnostic Software 
+or RP‑1210‑compliant tools, contact Bendix at 1 ‑800‑AIR‑
+BRAKE (1‑800‑247‑2725) and follow the prompts for ACom 
+technical support. TRDU Tool
+See Figure 9. The TRDU tool (Bendix kit part number 
+K101595) provides the technician with a visual indication 
+of Antilock Braking System (ABS) component DTC 
+information. The TRDU tool is specifically designed for use 
+with Bendix® Trailer ABS.
+ IMPORT ANT
+Bendix makes no claims for its operation and/or 
+usability with other brands of trailer ABS.
+Figure 9 – TRDU Tool
+LED lights 
+illuminate 
+Diagnostic 
+Trouble Codes
+(10 LEDs)
+Features of the Bendix TRDU Tool
+See Figure 10. The TRDU tool attaches to a 7‑pin‑to‑7‑pin 
+adapter and then into the J560 connector of the towing 
+vehicle.
+KIT K101595
+Adapter
+(802165)To Towing
+Vehicle
+J560 
+Connector
+To Trailer
+Connector
+Figure 10 – TRDU Tool and Adapter  
+The TRDU tool communicates across PLC and allows the 
+technician to:
+• Troubleshoot ABS system component problems 
+using DTC reporting via LEDs.
+• Reset DTCs on ABS ECUs by holding a magnet 
+over the reset of the TRDU tool for less than six (6) 
+seconds.
+NOTE: The TRDU tool does not cover all possible 
+DTCs. ACom Diagnostic Software should be used 
+as the primary diagnostic tool. 
+21How the Bendix® Trailer Remote Diagnostic Unit 
+(TRDU) Tool Operates
+When the Bendix® Trailer Remote Diagnostic Unit (TRDU) 
+tool is plugged into the adapter – and the adapter/TRDU 
+tool is installed between the trailer connector and the 
+J560 connector of the towing vehicle that has the ignition 
+on – all the LEDs will illuminate, and the green LED will 
+flash four (4) times to indicate communications have been 
+established.
+If the Antilock Braking System (ABS) Electronic Control Unit 
+(ECU) has no active Diagnostic Trouble Codes (DTCs), 
+only the green LED will remain illuminated.
+NOTE: The TRDU tool does not cover all possible DTCs. 
+Bendix® ACom® Diagnostic Software should be used as 
+the primary diagnostic tool. 
+If the ABS ECU has at least one (1) active DTC, the TRDU 
+tool displays the first DTC by illuminating the red LEDs, 
+indicating the malfunctioning ABS component and its 
+location on the vehicle. See Figures 11 and 12.
+Figure 11 – The Bendix® TRDU Tool Display 
+Figure 12 – DTCs Using the TRDU ToolLED DTCs
+VLT ‑ Power
+ECU ‑ ABS Controller
+SEN ‑ Wheel Speed
+ Sensor (WSS)
+MOD1 ‑ Modulator 1
+MOD2 ‑ Modulator 2MOD3 ‑ Modulator 3
+LFT ‑ Left
+RHT ‑ Right
+ADD ‑ Additional
+ODO ‑ Odometer
+Example: If the DTC is 
+"Right Additional Sensor," 
+the TRDU tool will display 
+one green and three (3) red 
+LEDs LEDs
+Green
+VLT
+Blue
+ODO
+All 
+others 
+are 
+Red
+If there are multiple DTCs on the ABS system, the TRDU 
+tool will display one (1) DTC first, then once that DTC has 
+been repaired and cleared, the next code will be displayed. 
+The TRDU tool repeatedly blinks out the mileage stored 
+once communications have been established. By counting 
+the sequence of blinks and/or strobes on the blue LED, the 
+odometer reading is given.
+• VLT (Flashing indicates either an over‑ or under‑
+voltage condition)To pinpoint the root cause and to ensure the system DTC is 
+properly corrected the first time, additional troubleshooting 
+may be necessary.
+NOTE : When a TRDU tool is connected to a system with a 
+Bendix® TABS‑8™ Advanced Module, and has established 
+communications, the ECU will use the ABS indicator lamp 
+to blink codes for all active DTCs.
+TRDU Tool Reset Function
+The magnetic reset switch is located by the letter "B" in the 
+Bendix logo on the top of the TRDU tool. When a magnet 
+(with minimum of 30 gauss) is held over the switch for less 
+than six (6) seconds the "clear DTCs" command is sent. (If a 
+magnet is not available, you may use a spare Wheel Speed 
+Sensor [WSS], since its internal magnet will be sufficient.)
+Additionally, it is recommended at the end of any inspection, 
+the technician switches off and restores the power to the 
+ABS ECU, then re‑checks the ABS indicator lamp and 
+TRDU tool to see if they indicate any remaining DTCs.
+Bendix® Trailer Information Module (TIM)
+The TIM is a display device that combines the functionality 
+of system diagnostics with the ability to display and store 
+other trailer‑related information of value to an operator, 
+driver, or workshop. Maximum benefit is obtained from the 
+Module functionality when it is mounted on the trailer so it is 
+able to record events that occur during driving. Alternatively, 
+it may also be used as a workshop tool to access diagnostic 
+information or to check the configuration, or to run an 
+installation test. In both cases, the Module is connected to 
+the J1939 5V TI (CAN) connection of the auxiliary connector 
+which supplies the necessary information. Reference 
+BW2867, Bendix® Trailer Information Module (TIM) G2 User 
+Guide, on B2Bendix.com for more information. 
+NOTE:  The TIM requires a harness with a 5V CAN. 
+Figure 13 – Trailer Information Module (TIM)
+22ADDITIONAL SUPPORT
+Visit B2Bendix.com for downloads of literature and the Bendix® 
+ACom® Diagnostic Software.
+BENDIX TECH TEAM
+For technical support, contact the Bendix Tech Team 
+by email at techteam@bendix.com or by phone at  
+1‑800‑AIR‑BRAKE  (1‑800‑247‑2725), Monday through 
+Thursday, 8:00 a.m. to 6:00 p.m. and Friday, 8:00 a.m. 
+to 5:00 p.m. ET. To better serve you, please record the 
+following information before contacting the Bendix Tech 
+Team:
+• Bendix product model number, part number, and 
+configuration
+• Vehicle make and model
+• Vehicle configuration (number of axles, tire size, etc.)
+• System performance symptoms: When do they 
+occur?
+• What Diagnostic Trouble Codes (DTCs) have been 
+identified using LEDs, blink codes, or diagnostic tools
+• What troubleshooting/measurements have been 
+performed
+• Copy of the ACom Diagnostic Report
+SERVICING THE BENDIX® TABS‑8™ 
+ADVANCED MODULE
+ 
+Special considerations need to be taken to ensure the 
+Bendix® TABS‑8™ Advanced Module has been properly 
+installed on the trailer. These include:
+• Location and orientation of the Module
+• Correct plumbing of the Module
+• Correct location of the Wheel Speed Sensors (WSS)
+• Configuration of the Electronic Control Unit (ECU) for 
+Antilock Braking System (ABS) and Bendix® Trailer 
+Roll Stability Program (TRSP®) system parameters
+• Installation test to verify proper installation of the 
+ABS/TRSP system 
+It is the responsibility of the end‑user to ensure the 
+TABS‑8 Advanced Module has been installed correctly 
+and tested as per the Bendix recommended installation 
+guidelines and system drawings. Incorrect installation 
+of the TABS‑8 Advanced Module can result in impaired 
+ABS and TRSP system functions, which could lead 
+to loss‑of‑control of the vehicle, potential collisions, 
+property damage, serious injuries, or death. 
+Prior to servicing the TABS‑8 Advanced Module, always 
+perform the following steps:
+1. Follow all industry safe maintenance practices 
+including those within this document.
+2. When possible, before removing the module, use the 
+ACom Diagnostic Software to save the configuration 
+to the desktop. After the TABS‑8 Advanced Module 
+has been replaced, the technician can restore the 
+previous configuration settings.
+3. Turn the power off.
+4. Drain the air pressure from all reservoirs.
+5. Remove as much contamination as possible prior to 
+disconnecting electrical connections and air hoses.
+6. Note the TABS‑8 Advanced Module's mounting 
+position on the vehicle.
+REMOVING THE TABS‑8 ADVANCED 
+MODULE
+1. Open the end cover by sliding the locking tab to the 
+left. If the module is to be reinstalled, retain the cover.
+2. Disconnect the 7‑pin Electronic Control Unit (ECU) 
+connector, any additional harnesses or shorting caps 
+used on the auxiliary sensors, and the 2‑pin WSS 
+connectors. Ensure the old connectors are marked 
+appropriately for reinstallation.
+3. Mark for reinstallation and then remove all air hoses 
+connected to the TABS‑8 Advanced Module.
+4. Remove the TABS‑8 Advanced Module from the 
+vehicle by removing the mounting fasteners or by 
+rotating the entire assembly counterclockwise from 
+the tank mount.
+23SERVICING THE CONTROL PORT FILTER
+ 
+The Bendix® TABS‑8™ Advanced Module has an inline 
+filter in the control port and the supply port ( See Figure 
+2). These filters should be inspected and cleaned (if 
+any contamination is found), every four (4) months, 
+34,000 miles, or 1,200 operating hours. For severe 
+applications, this inspection interval may be reduced. If 
+the filter is found to be damaged, install a replacement. 
+The filter should also be inspected as part of any 
+troubleshooting where the service brakes are slow to 
+apply and other possible causes have been ruled out.
+INSTALLATION OF THE TABS‑8 
+ADVANCED MODULE
+ 
+All service replacement parts for the TABS‑8 Advanced 
+Module are configured specifically by part number. 
+As mentioned in the Servicing the Bendix TABS‑8 
+Advanced Module section , ideally, before removing the 
+module, use the Bendix® ACom® Diagnostic Software to 
+save the configuration to the desktop. The technician 
+can use the ACom Diagnostic Software to restore the 
+previous configuration settings.
+Always ensure the correct service replacement 
+Electronic Control Unit (ECU) is being installed for 
+the original TABS‑8 Advanced Module. To verify 
+proper installation, perform the installation test using 
+the ACom Diagnostic Software or the Bendix® Trailer 
+Information Module (TIM).
+Inspect the original mounting hardware. If replacement 
+hardware is needed, use grade 53/8‑in. 18 bolts, nuts, and 
+lock washers for the frame‑mount unit, or a schedule 80 
+(heavy‑gauge steel) ¾‑in. nipple for the tank‑mount unit. 
+Inspect the location selected for installation and clean as 
+necessary.
+NOTE: Inspect all components, including the replacement 
+TABS‑8 Advanced Module, for any external damage, 
+such as cracked valve ports, electronic housings, etc. 
+Any components found to be damaged should not be 
+installed on the vehicle and must be replaced.1. The TABS‑8 Advanced Module must be installed 
+with the following considerations  (See Figures 14 
+through 16):
+• With the exhaust port facing downward and 
+unobstructed with significant free space below  
+(> 1 in. [2.5 cm])
+• Within ± 100 in. (2.5 m) of the center of the axle(s) 
+for proper balanced brake application
+• Within ± 2 in. (5 cm) from the center line of the 
+trailer (default) 
+ NOTE : If the module needs to be mounted greater 
+than the 2 in. (5 cm) from the centerline, the ECU 
+will need to be configured for the module offset 
+using ACom Diagnostic Software. Refer to Table 
+7. The TABS‑8 Advanced Module is not available 
+in 90° and 270°.
+OrientationOffset
+Road (Left) Curb (Right)
+0° + ‑
+180° ‑ +
+Table 7 – Module Offset Sign
+• Yaw angle should be ± 10° as measured from the 
+center line of the trailer
+• Pitch angle should be ± 10° as measured from a 
+flat horizontal plane
+• Roll angle should be within ± five degrees (± 5°) 
+as measured from a flat horizontal plane
+• Tank‑mount Modules:  Install the nipple fitting into 
+the modulator valve supply port. Rotate the entire 
+assembly into the tank port until secure. Over‑
+torquing of the tank nipple could cause damage 
+to the valve body.
+• Frame‑ mount Modules:  Torque the mounting nuts 
+to 180‑220 in‑lbs.
+2. Reconnect all air hoses and plugs to the Module. 
+Depending on the installation, additional plugs may 
+be necessary. Thread sealant products that contain 
+Teflon may be used, however thread sealant tape 
+is not recommended as there is a potential for tape 
+material entering the valve and affecting the valve’s 
+operation. Ensure no thread sealant enters the valve. 
+All air hoses and fittings should be checked for leaks 
+prior to returning the vehicle to service. Ensure the 
+load sensor port P42 is connected to the suspension 
+system at a location as far away from the height‑
+control valve as possible, preferably directly to a 
+fixed-axle air bag.
+243. Reconnect the Electronic Control Unit (ECU) power, 
+auxiliary (if present) and Wheel Speed Sensor (WSS) 
+electrical connectors to the ECU. Apply a small 
+amount of non‑conductive electrical grease to each 
+connector pin before reconnecting.
+  NOTE : The WSS must follow the orientation of the 
+module as shown in Figure 17 for fixed-axle trailers.
+•  It is necessary to fix the WSS to the orientation 
+of the lateral acceleration sensor for plausibility 
+checks between the sensors.
+•  Care should be taken to ensure the WSS location 
+matches the ECU orientation in Figure 17 . If this 
+is not the case, a DTC will be generated and the 
+Bendix ABS indicator lamp will be illuminated. 
+•  Refer to the large label inside the connector cover 
+for wheel speed designation, “S‑C” or “S‑D.” See 
+Figure 1.
+4. Leakage and operational tests must be performed 
+before returning the vehicle to service.
+5° 5° Vertical 
+orientation (roll 
+angle) must 
+be within five 
+degrees (5°) of 
+vertical
+Figure 14 – Installation on Trailer (Vertical)
+10° 10°
+Driving
+Direction Longitudinal 
+orientation
+(pitch angle)
+must be within 
+10° of vertical
+Figure 15 – Installation on Trailer (Longitudinal)10°
+10°± 40" (1 m) from mid-point between the axles
+± 2" (5 cm)
+from center
+of trailer100 in. (2.5 m) from midpoint between the axles
+2 in. (5 cm) 
+from center  
+of trailer
+The TABS‑8 Advanced Module must be located no more 
+than 100 in. (2.5 m) from the midpoint between the axles, 
+and within 2 in. (5 cm) from the center line of the trailer 
+(unless configured for an offset).
+Figure 16 – Installation on Trailer (Center Line)
+LEAKAGE AND OPERATIONAL TESTS
+ 
+For all NPT fittings, the use of a thread sealant is 
+required. For NPTF fittings, the use of a thread 
+sealant is recommended. This can be a pre‑applied 
+or a hand‑applied sealant product (with PTFE). 
+When using a hand‑applied sealant, use caution 
+so as not to over apply. Always follow the fitting 
+manufacturer’s pre‑applied or hand‑applied thread 
+sealant recommendations. Use of PTFE tape is not 
+approved and will void the ABS/ Bendix® Trailer Roll 
+Stability Program (TRSP®) valve warranty.
+1. Before performing the leakage tests, block the 
+wheels.
+2. Fully charge the air brake system and verify proper 
+brake adjustment.
+3. Make several trailer brake applications and check 
+for prompt application and release at each wheel.
+4. Perform the leak‑down test procedure: 
+•  Set up the pressure circuits to apply emergency 
+(red) line and service pressures with a regulator 
+and a pressure gauge on each line. 
+•  Apply 110 ‑ 120 psi to the trailer emergency (red) 
+circuit to release the parking brake. 
+• Apply the service brakes at 90 ‑ 95 psi. 
+•  Identify and record the pressure from the gauge 
+on the emergency (red) line and the service line. 
+25Figure 17 – Wheel Speed Sensor (WSS) Installation
+NOTE: Part numbers labeled R002 and forward can only be mounted in 0° or 180°.0° Orientation 
+(Top View)90° Orientation 
+(Top View)180° Orientation 
+(Top View)270° Orientation 
+(Top View)
+Left ‑ “Road Side”Vehicle Driving Direction
+Right ‑ “Curb Side” Sensor
+“S‑D”Sensor
+“S‑C”Sensor
+“S‑C”Sensor
+“S‑D”
+Sensor
+“S‑C”Sensor
+“S‑D”Sensor
+“S‑D”Sensor
+“S‑C”
+•  Cut off the pressure to the emergency (red) 
+line before the pressure gauge and monitor the 
+pressure. If the pressure drops less than three 
+(3) psi in one (1) minute, the emergency (red) line 
+test passes. If the pressure drops more  than three 
+(3) psi in one (1) minute, identify and correct the 
+source of the leak on the emergency (red) line. 
+• If the emergency (red) line test passes, repeat the 
+test for the service line. If the pressure drops less 
+than two (2) psi in one (1) minute, the test passes. 
+If the pressure drops more  than two (2) psi in one 
+(1) minute, identify and correct the source of the 
+leak on the service line. 
+• A soap and water solution can be used to identify 
+sources of leaks on the fittings and valves. 
+• If available, a Lite‑Check® machine can be used 
+to perform the leak‑down test.
+5. Apply power and monitor the power‑up sequence 
+to verify proper system operation. See Section 15.6. Calibrate and set the odometer parameters, if 
+necessary, using a diagnostic tool. See Section 16.
+7. Perform an installation test using a diagnostic tool. 
+Minimum tests that are required to verify the proper 
+installation of the Bendix® Antilock Braking System 
+(ABS)/Bendix® Trailer Roll Stability Program (TRSP®) 
+system are:
+•   Electronic Control Unit (ECU) Information: 
+This test provides the user with specific ECU 
+information. It is required that no Diagnostic Trouble 
+Codes (DTCs) (other than “installation test not 
+completed”) are present and that the ECU has 
+been configured.
+•   Wheel End Sequence Test:  During this test, 
+checks are carried out that verify the correlation 
+of the wheel installed with a Wheel Speed Sensor 
+(WSS) and the pressure modulator that controls 
+the pressure to the associated brake.
+•   Lateral Acceleration Test:  The installation angle 
+information is retrieved from the ECU and compared 
+to the predefined limits (± 5°). This test verifies the 
+unit is installed as close to horizontal as possible.
+TABS
+ADV
+TABS
+ADV
+TABS
+ADV
+TABS
+ADV
+26•   Pressure Sensor Test: During this test, checks 
+are carried out that verify that the proper response 
+is received from the pressure sensors during a 
+brake application.
+•   Axle Load Sensing Test (Air Ride): The test 
+has the user verify the expected measurement 
+of the load pressure sensor, Port 42, for air ride 
+suspensions. The program provides the reading 
+of the sensor.
+•   Customer Scratch Pad: The tester is requested to 
+input data into the fields displayed on the screen. 
+This data will be stored in the Electronic Control 
+Unit (ECU) and also can be stored to a file on the 
+computer or printed out for reference.
+8. Where a safe location (i.e. restricted access area or 
+test track) is available, it is possible to road test the 
+Bendix® Antilock Braking System (ABS) function by 
+making an abrupt stop from a vehicle speed of about 
+20 mph (32 kph) to check for proper function. The 
+wheels should not enter a prolonged lock condition 
+and the ABS function should be audible. It is the 
+responsibility of the technician to perform this test 
+in a safe location.
+ABS WIRING
+ 
+Disconnect the electrical connectors from the ABS/
+Bendix® Trailer Roll Stability Program (TRSP®) 
+controller before welding on the trailer.
+ 
+Dielectric grease should be applied to electrical 
+connectors to help protect against moisture intrusion.
+All connector leads of the Bendix® TABS‑8™ Advanced 
+Module pigtail harness are weather‑sealed at the connector 
+interface and are clearly labeled for proper installation.
+Bendix provides over‑molded versions of the TABS‑8 
+Advanced Module wiring harness and Bendix recommends 
+the complete harness be replaced if corrosion or damage 
+occurs.When troubleshooting ABS wiring, some general rules 
+should be followed where applicable.
+1. Check all wiring and connectors to ensure they 
+are secure and free from visible damage (i.e. cuts, 
+abrasions, etc.).
+2. Check for evidence of wire chafing due to poor 
+routing or poor securing of wires.
+3. Check connectors for proper insertion and locking.
+4. Verify the connector pins are properly greased with 
+a non‑conductive electrical grease compound.
+5. Connector terminals must not show signs of 
+corrosion or exposure to the environment.
+6. Never pierce wire insulation when checking for 
+continuity.
+7. Do not deform individual pins or sockets during 
+probing with a volt/ohm meter.
+8. It is strongly recommended that all wiring harnesses 
+and sensor leads are properly secured at least every 
+18 in. (46 cm).
+9. Apply a moderate amount of non‑conductive 
+electrical grease to each connector pin before 
+reconnecting.
+27MISCELLANEOUS MAINTENANCE 
+ 
+GLAD HAND MAINTENANCE
+• NEVER POUR ANY LIQUIDS (alcohol, 
+anti‑freeze, additives, etc.) into the 
+glad hands. Liquids may cause the 
+o‑rings and seals to swell, which may 
+result in lubrication loss and leave 
+harmful residues.
+• Prevent nesting insects and contaminants from 
+entering and blocking the air hoses. Check that 
+screens are present and clean.
+• Drain the trailer air tanks a minimum of every six 
+(6) months.
+• Liquids/contaminants can cause TRAILER AIR 
+BRAKE FAILURE  and/or the INABILITY TO 
+RELEASE  the trailer parking brakes.
+  
+BENDIX® ANTILOCK BRAKING SYSTEM (ABS) 
+SYSTEM POWER ‑UP CHECK 
+At power‑up the trailer ABS indicator lamp should 
+briefly illuminate “ON” as a bulb check.
+If the indicator lamp does not illuminate at power‑up, 
+the ABS system may not be powered, or the bulb may 
+need to be replaced. Service the trailer ABS system.
+• If the lamp remains “ON” after power-up there 
+may be active Diagnostic Trouble Codes (DTC). 
+Service the trailer ABS system. (To ensure full 
+ABS/Bendix® Trailer Roll Stability Program 
+(TRSP®) functionality, service as soon as 
+possible.)
+• Other Important Practices:
+• Follow all standard industry safety practices.
+• Sealant for ABS fittings: Use pre‑ or hand‑
+applied; Never PTFE tape (voids Bendix ABS 
+warranty).
+• Use open‑ended clips (never cable ties) to hold 
+sensor leads to jounce lines.
+• Drain the trailer air tanks a minimum of every 
+six (6) months. 
+• Disconnect the electrical connectors from the 
+ABS controller when welding on the trailer.
+28Figure 18 – Bendix® TABS‑8™ Advanced Module Electrical Schematic ‑ 2S/1MTROUBLESHOOTING: ELECTRICAL SCHEMATICS
+1
+7
+41
+7
+4T
+A
+B
+S
+‑
+8
+A
+D
+V
+A
+N
+C
+E
+D
+S
+C
+E
+C
+UGROUNDBRAKE LAMP VOLTAGE
+ABS INDICATOR LAMP (AUX I/O 7)
+AUX I/O 1
+ SAE J1939 (H)
+ SAE J1939 (L)763
+521
+4
+21217‑WAY SAE J560
+CONNECTOR
+TRAILER ‑MOUNTED
+ABS INDICATOR 
+LAMPIGNITION VOLTAGE
+2
+1 1221 11
+22Pad Wear 
+(PW)
+HarnessSENSOR “S‑F” (+)
+SENSOR “S‑F” (‑)21 11
+221
+2SENSOR
+“S‑D”SENSOR “S‑D” (+)
+SENSOR “ S‑D” (‑)
+S‑D S‑C S‑F S‑E  X1 “POWER ”A
+B
+E
+D DEBA
+2‑PIN AMP/TYCO 
+CONNECTOR 282104C CNOT USED NOT USED
+SENSOR “S‑E” (+) 
+SENSOR “S‑E” (‑)Low Pressure Warning 
+Emergency
+(LPWE)
+Pressure Threshold Switch
+11
+221
+2SENSOR “S‑C” (+)
+SENSOR “S‑C” (‑)5‑PIN PACKARD 
+CONNE CTOR2‑1
+2‑2PLC Relay
+(Optional)
+RING
+CONNE CTOR
+Tire Inflation System
+(TIS)21
+2‑PIN DELPHI 
+CONNECTOR 120654022‑PIN DIN
+1
+2 21
+SENSOR
+“S‑C”ABSABS(Optional WSS 
+extension)
+29
+Figure 20 – Bendix® TABS‑8™ Advanced Module ‑ 2S/1M Axle Control (0 ‑Degree) with Front Lift‑Axle, ABS 
+Electrical and Air System2S/1M - AXLE CONTROL - Front Lift-Axle
+0-Degree Mounting Orientation
+A Brake Lamp Power
+B Ignition Power
+C NC
+D Indicator Lamp
+E GroundIgnition 
+Power
+Trailer Chassis Harness
+TABS-8
+Advanced 
+ModuleSR-5 Trailer 
+Spring Brake 
+ValveTrailer ABS Pigtail Harness
+ABS Indicator Lamp5-Pin ABS 
+Connector
+Supply LineControl LineRight - “Curb-Side”
+Semi-Trailer Tandem Axle Trailer
+Left - “Road-Side”7-Pin SAE J560 
+Connector
+Brake Lamp 
+PowerGround“S-D”
+“S-C”WS-24 WSS
+WS-24 WSSAir BellowFigure 19 – Bendix® TABS‑8™ Advanced Module ‑ 2S/1M Axle Control (0 Degree) Antilock Braking System 
+(ABS) Electrical and Air SystemTROUBLESHOOTING: SYSTEM SCHEMATICS
+2S/1M - AXLE CONTROL - Fixed Axles
+0-Degree Mounting Orientation
+A Brake Lamp Power
+B Ignition Power
+C NC
+D Indicator Lamp
+E Ground
+Trailer Chassis Harness
+Bendix® 
+SR-5™ Trailer 
+Spring Brake 
+ValveTrailer ABS Pigtail Harness
+ABS Indicator Lamp5-Pin ABS 
+Connector
+Supply LineControl LineRight - “Curb-Side”
+Semi-Trailer Tandem Axle 
+Trailer
+Left - “Road-Side”Brake Lamp 
+PowerGround“S-D”
+“S-C”Bendix® WS-24™ Wheel Speed Sensor 
+(WSS)
+WS-24 WSS7-Pin SAE J560 
+Connector
+Load Sensor 
+(where used)Bendix® 
+TABS-8™ 
+Advanced 
+Module
+30
+Figure 21 – Bendix® TABS‑8™ Advanced Module ‑ 2S/1M Axle Control (0 Degree) with Rear Lift‑Axle, Antilock 
+Braking System (ABS) Electrical and Air System2S/1M - AXLE CONTROL - Rear Lift-Axle
+0 Degree Mounting Orientation
+A Brake Lamp Power
+B Ignition Power
+C NC
+D Indicator Lamp
+E GroundIgnition 
+Power
+Trailer Chassis Harness
+Bendix®
+TABS-8™
+Advanced 
+Module Bendix® 
+SR-5™ Trailer 
+Spring Brake 
+ValveTrailer ABS Pigtail Harness
+ABS Indicator Lamp5-Pin ABS 
+Connector
+Supply LineControl LineRight - “Curb-Side”
+Semi-Trailer Tandem Axle Trailer
+Left - “Road-Side”7-Pin SAE J560 
+Connector
+Brake Lamp 
+PowerGround“S-D”
+“S-C”Bendix® WS-24™ Wheel Speed Sensor 
+(WSS) 
+WS-24 WSSAir BellowTROUBLESHOOTING: SYSTEM SCHEMATICS
+Figure 22 – Bendix® TABS ‑8™ Advanced Module ‑ 2S/1M Axle Control (0 Degree) ABS Electrical and Air 
+System with Tire Inflation System Sensing, Pad Wear Sensing, and Low Pressure Warning EmergencyLeft - “Road-Side ”Right - “Curb-Side ”
+7-PIN SAE J560 
+CONNECTOR
+ABS LightTire Inflation 
+System
+“S-C”“S-D”
+“AUX 1”“S-F”
+“S-E”PLC Relay
+NOTE: Components are not shown to scaleSupply lineTABSAir
+BellowWheel Speed Sensor WS-24
+Wheel Speed Sensor WS-24ABSABS
+Single Axle Trailer
+ABSSingle Axle Trailer
+ABSIgnition
+Power
+Brake Light 
+PowerGround
+Ignition
+Power
+Brake Light 
+PowerGround
+A  Brake Light Power  
+B  Ignition Power  
+C  NC
+D  Warning Lamp
+E  GroundC
+E
+BAD C
+E
+BAD A  Brake Light Power  
+B  Ignition Power  
+C  NC
+D  Warning Lamp
+E  GroundC
+E
+BAD5-PIN ABS 
+CONNECTOR
+Trailer
+Chassis HarnessTrailer
+ABS Power Harness
+7-PIN SAE J560 
+CONNECTOR 5-PIN ABS 
+CONNECTORControl line
+Note: Either 
+location is valid11
+22
+334455 66
+775588
+882S/1M - AXLE CONTROL - Fixed Axle  
+0 Degree Mounting Orientation
+Supply Line
+31Section A: (Power‑Up Sequence) Trailer‑Mounted ABS Indicator Lamp ................................... Page 31
+Section B: (Power‑Up Sequence) Dash‑Mounted ABS Indicator Lamp .................................... Page 32
+Section C: Troubleshooting the Trailer‑Mounted ABS Indicator Lamp Circuitry  ........................... Page 33
+Section D: Troubleshooting the Power Supply ....................................................... Page 34
+Section E: Troubleshooting the Bendix® WS‑24™ WSS  ................................................ Page 35
+Section F: Troubleshooting the Load Sensor (Out‑of‑Range Condition) .................................. Page 36
+Section G: Troubleshooting the ECU and WSS  ...................................................... Page 37
+Section H: Troubleshooting an Automatic Lift Axle that Remains Lowered  ............................ Page 38‑42
+Section J: Troubleshooting an Automatic Lift Axle that Remains Raised .............................. Page 43‑45
+Section K: Troubleshooting the Tire Inflation System .............................................. Page 46‑50
+Section L: Troubleshooting the Low Pressure Warning Emergency (LPWE) Feature  .................... Page 51‑55
+Section M: Troubleshooting the Pad Wear Sensing Feature ......................................... Page 56‑60Diagnostic Trouble Code (DTC) information can be 
+retrieved from the Bendix® TABS‑8™ Advanced Module 
+by using blink code diagnostics or a diagnostic tool. The 
+following troubleshooting flowcharts will help the technician 
+isolate the cause and confirm whether the problem resides 
+in the component, wiring, or connectors.
+Troubleshooting should always begin by observing the 
+dash‑ or trailer‑mounted Bendix® Antilock Braking System 
+(ABS) indicator lamp during the TABS‑8 Advanced 
+Module's power‑up sequence. If it is necessary to take electrical measurements, always begin by taking voltage 
+and resistance measurements at the 7‑pin Electronic 
+Control Unit (ECU) pigtail harness connector.
+Once the source of the problem is found, isolate the area 
+needing repair by repeating the measurements at all 
+connections in the affected circuit towards the modulator, 
+Wheel Speed Sensor (WSS), etc.
+No voltage or resistance measurements are to be made on 
+the ECU electrical header connector pins of the Module.
+SECTION A: POWER ‑UP SEQUENCE ‑ TRAILER ‑MOUNTED
+ABS INDICATOR LAMP
+Observe the ABS indicator lamp 
+at power‑upApply ignition or brake light power 
+Troubleshoot the trailer‑mounted 
+ABS indicator lamp circuitry. 
+Go to Section C.
+Troubleshoot 
+the trailer‑
+mounted ABS 
+indicator lamp 
+circuitry. Go to 
+Section C.
+The module is functioning normally. 
+No service to the ABS unit is needed.(A1) 
+Does 
+the trailer‑
+mounted ABS indicator 
+lamp immediately illuminate 
+when power is applied to 
+the trailer?
+(A3)
+Does the 
+trailer‑mounted ABS 
+indicator lamp stay on for 6.5 
+seconds and then turn 
+off?NO
+NOYES
+YESTROUBLESHOOTING: FLOWCHARTS
+(A2)
+Does the 
+trailer‑mounted ABS 
+indicator lamp stay on for 2.5 
+seconds and then turn 
+off?NO
+Perform the installation test.YES
+32Verify that a PLC trailer is 
+connected to the tractor via the 
+7‑pin connector. Turn the ignition 
+on and observe the dash‑mounted 
+trailer ABS indicator lamp.
+Trailer ABS indicator lamp does 
+not illuminate.
+NOTE: Only towing vehicles built 
+after March 1, 2001 are required 
+to have a trailer ABS indicator 
+lamp. The trailer ABS indicator 
+lamp, located on the vehicle dash, 
+is only activated by a Power Line 
+Carrier (PLC) signal from a trailer 
+or diagnostic tool. The towing trailer 
+must be equipped with an ABS unit 
+with PLC.
+Verify that a PLC signal is present 
+on the trailer ignition power 
+lines. (Refer to Section 10, PLC 
+Communications.)
+If a PLC signal is present and the 
+trailer ABS lamp does not illuminate 
+at ignition, troubleshoot the dash‑
+mounted trailer lamp circuit on the 
+tractor.
+The dash‑mounted trailer ABS 
+indicator lamp stays “ON.” This is 
+an indication the trailer ABS unit 
+has a Diagnostic Trouble Code 
+(DTC).
+If the dash‑mounted trailer ABS 
+indicator lamp remains “ON” with 
+no trailer connected, troubleshoot 
+the dash‑mounted trailer lamp 
+circuit on the tractor.
+If the trailer ABS lamp remains 
+“ON” with a trailer connected, 
+rerun the power‑up sequence for 
+the trailer‑mounted ABS indicator 
+lamp. Go to Section A.(B1)
+Does the 
+dash‑mounted 
+ABS indicator lamp 
+illuminate within two (2) seconds of 
+ignition power being applied to 
+the vehicle?NO
+YESSECTION B: (POWER ‑UP SEQUENCE)
+DASH ‑MOUNTED ANTILOCK BRAKING SYSTEM (ABS) INDICATOR LAMP
+The module is 
+functioning normally. 
+No service to the ABS 
+unit is needed.(B3)
+Does 
+the trailer‑
+mounted ABS 
+indicator lamp stay 
+on for 6.5 seconds 
+and then turn 
+off?NO
+YES(B2)
+Does the 
+trailer‑mounted 
+ABS indicator lamp stay 
+on for 2.5 seconds 
+and then turn 
+off?NO
+Perform the 
+installation test.YES
+33SECTION C: TROUBLESHOOTING THE TRAILER ‑MOUNTED
+ANTILOCK BRAKING SYSTEM (ABS) INDICATOR LAMP CIRCUITRY
+ACTION: If the trailer‑mounted ABS indicator 
+lamp did not illuminate during the power‑up 
+sequence:ACTION: If t he trailer‑mounted ABS indicator 
+lamp remains on after the standard power‑up time 
+interval of approximately 2.5 seconds.
+Troubleshoot the power supply to the  
+ABS Module. Go to Section D.  Continue if the power  
+and ground wiring are OK.
+Turn off the power to the Module. Inspect the 
+condition of the ABS indicator lamp, connector and 
+ground. Using a volt/ohm meter, verify continuity from 
+the trailer chassis ground (pin 3) to the  
+ground pin of the indicator lamp.
+If repairs are made, rerun the power‑up sequence.  
+Go to Section A.
+Continue if the indicator lamp and  
+ground wire check out OK.
+With power off to the ABS Module, disconnect 
+the 7‑pin Electronic Control Unit (ECU) connector. 
+Verify continuity from the ABS indicator lamp pin 
+(pin 4) of the ECU connector to the ABS indicator lamp 
+connector. If repairs are made, rerun the power‑up 
+sequence. Go to Section A. If the condition persists, 
+contact the Bendix Tech Team.With power off to the ABS Module, disconnect 
+the 7‑pin ECU connector. Apply power to the trailer. If 
+the ABS lamp illuminates, there is a voltage short on 
+the lamp circuit. Troubleshoot, repair, and retest.
+Use a volt meter to check if there is a short to the 
+voltage on the warning lamp circuit between the ABS 
+indicator lamp pin (pin 4) and the lamp. 
+If repairs are made, rerun the power‑up sequence. 
+Go to Section A. If the condition persists,  
+replace the ABS Module.Determine if a Module Diagnostic Trouble Code 
+(DTC) exists using any of the following methods:
+• Blink code diagnostics, Section 20
+• PC diagnostics, Section 23
+• Trailer Remote Diagnostic Unit, Section 23
+• Bendix® Trailer Information Module, Section 23
+If DTC(s) exist and repairs are made, rerun the 
+power‑up sequence. Go to Section A.
+If no DTCs are found, the ABS Module appears to be 
+functioning normally, but the ABS lamp remains “ON,” 
+continue to the next step. Switch on the ignition and recheck if the 
+trailer ABS indicator lamp does a power on 
+check. Go to Troubleshooting Section B.
+Connect a SAE J560 cable. Verify that 
+the ABS warning lamp turns on and off 
+during ignition power‑up. 
+Troubleshoot the main trailer power 
+harness for miswiring, open circuits, and/or 
+short circuits.
+Add constant power (blue wire) to the center pin 
+of the SAE J560 connector.YES
+YESYESNO
+NO(C1)
+Is the tractor 
+ignition or battery box (if not using 
+tractor as power source) switched on?
+(C2)
+Is SAE J560 
+cable (green, spiral) connected from 
+tractor/battery box to trailer?
+(C3)
+Check the 
+tractor for constant power 
+(blue wire). Does the trailer ECU perform 
+an ABS indicator lamp power‑on test when the 
+brake is applied while the trailer is 
+stationary?NO
+Looking into the Bendix® TABS‑8™ 
+Advanced Module 7‑pin Connector 
+Pigtail Harness. Pin 3 is the ground pin. 
+Pin 4 is the ABS indicator lamp pin.
+34
+SECTION D: TROUBLESHOOTING THE POWER SUPPLY
+Turn off the power to the module 
+and disconnect the 7‑pin Electronic 
+Control Unit (ECU) connector.
+Check for high resistance 
+(corrosion, wire/connector damage 
+or improper termination) of the 
+power lines, resulting in a high 
+voltage drop across the lines.
+Measure the voltage under load by 
+placing a load such as a type 1157 
+brake light bulb between the ignition 
+power pin and ground pin of the 
+ECU connector, while the lamp is in 
+place.
+With ignition power to the trailer, 
+measure the voltage between the 
+Ignition Power (pin 2) and Ground 
+(pin 3) of the ECU connector.
+Apply the service brakes. Repeat 
+the voltage measurement with 
+brake lamp power to the trailer, 
+between the brake lamp power 
+(pin 1) and the Ground (pin 3) of the 
+ECU connector.
+Verify the voltage drop 
+measurements are no less than 1.0 
+VDC from the vehicle voltage at 
+both the ignition and brake power 
+inputs.
+With a volt/ohm meter, check 
+the power and ground wiring. Look 
+for corroded or damaged wires or 
+connectors.
+If repairs are made, rerun the 
+power‑up sequence. Go to 
+Section  A.
+If proper loaded and unloaded 
+voltage is measured at the ECU 
+connector, and no corrosion or 
+damage is found on the wiring, 
+connectors, or ECU, replace the 
+module.Look for corroded or damaged wire or 
+connectors. Check the power supply. 
+If repairs are made, rerun the power‑up 
+sequence. Go to Section A.With 
+ignition 
+power to the 
+trailer, measure the 
+voltage between the ignition 
+power pin (pin 2) and the ground 
+pin (pin 3) of the ECU connector.
+Apply the service brakes. Repeat the voltage 
+measurement between the brake lamp power pin (pin 1) 
+and the ground pin (pin 3) of the ECU connector.
+Are the measured ignition and brake lamp 
+power voltages equal to the vehicle 
+(supply) voltage with 1 volt 
+tolerance)? 
+NOYES
+Measure the loaded 
+voltage across a type 
+1157 brake light bulb.
+Looking into the Bendix® TABS‑8™ 
+Advanced Module Wire Harness, ECU 
+Connector Measure:
+ Pin 2 (ignition power) to Pin 3 (ground) 
+and Pin 1 (brake light power) to  
+Pin 3 (ground). 
+35SECTION E: TROUBLESHOOTING THE
+BENDIX® WS‑24™ WHEEL SPEED SENSORS (WSS)
+Turn off the power to the Module and disconnect the Wheel Speed Sensor (WSS) connector.
+Refer to Section G, Troubleshooting the Electronic Control Unit (ECU) and Wheel Speed Sensors (WSS).  
+For additional troubleshooting steps, see Service Data Sheet SD-13-4860. Bendix® WS-24™ Antilock WSS.
+ 
+If dynamic WSS Diagnostic Trouble Codes (DTCs) are 
+present:
+Rotate the affected wheel and verify a minimum of 0.25 VAC 
+sensor output at 0.5 RPS across the WSS pins. A properly 
+positioned sensor can output more than 2.0 VAC at 1 RPS.
+Verify/inspect the following:
+• Speed sensors properly contact the tone ring
+• The condition and retention force of the sensor sleeve
+• Proper sensor lead condition, routing and clamping sleeve
+• Condition of tone ring mounting and teeth
+• Proper number of tone ring teeth per sensed wheel
+• Proper adjustment of wheel bearings
+• Condition of foundation brakes
+• Check for corroded/damaged wiring or connectors between 
+the Electronic Control Unit (ECU) and the WSS
+Make repairs as needed (replace wiring and/or Antilock 
+Braking System (ABS) components).
+Reset active DTCs by using any of the following methods:
+• Blink Code Diagnostics,  Section 20
+• PC diagnostics, Section 23
+• Bendix® Trailer Remote Diagnostic Unit (TRDU) and 
+magnet, Section 23
+• Bendix® Trailer Information Module (TIM), Section 23
+(If you do not reset manually, typically these will reset automatically 
+after a power cycle and the vehicle has been driven for a period 
+of time.)
+Finally, rerun the power‑up sequence. Go to Section A. 
+If Static WSS DTCs are present:
+Using a volt/ohm meter to measure the 
+connector pins of the sensor with a DTC, 
+verify 950‑1950 ohms across the sensor 
+connector pins.
+Verify/inspect the following:
+• No continuity from sensor connector 
+pins to ground
+• Vbat not measured at either sensor 
+connector pins
+• Verify there is no continuity between 
+the sensor leads and other sensors
+• Sensor/ECU wiring and connectors 
+are not damaged or corroded
+• Proper sensor wire routing and 
+clamping
+Make repairs as needed (replace wiring 
+and/or ABS components).
+Reset active DTCs by using any of the 
+following methods:
+• Blink Code Diagnostics, Section 20
+• PC diagnostics,  Section 23
+• TRDU and magnet, Section 23
+• TIM, Section 23
+Then check for Dynamic WSS DTCs  
+(see left column)
+Finally, rerun the power‑up sequence.  
+Go to Section A.
+Note: Both Static 
+and Dynamic 
+WSS DTCs may 
+be present:
+Looking into the Bendix® TABS‑8™ Advanced 
+Module Wire HarnessesS‑E AUX 
+SensorS‑F AUX 
+SensorS‑C 
+Sensor
+(See 
+Figure 17)S‑D 
+Sensor
+(See 
+Figure 17)
+
+36SECTION F: TROUBLESHOOTING THE
+LOAD SENSOR (OUT ‑OF‑RANGE CONDITION)
+NOTE : The indicator lamp for this condition is illuminated only after the vehicle moves.
+Turn off the power to the module.
+ 
+For air suspension system trailers:
+Verify/inspect the following:
+1. Check that the reservoir(s) in the system has air pressure.
+2. Tee an air gauge into port P42 and physically check that there is air pressure at the port.
+3.  Check that the load port P42 is connected to the primary suspension air bags at a location  as far from the 
+height control valve as possible . Verify that the air hose is not kinked.
+4.  Switch the power to the module on. Using the Bendix® ACom® Diagnostic Software, open the PRESSURE 
+screen and select START. Read the pressure shown for the load port (P42). If the pressure value is not as 
+expected, close the PRESSURE window and open the CONTROLLER CONFIGURATION window. Then, 
+select the  LOAD AND SENSOR CONFIGURATION  tab and view the  LOAD SENSING  panel. Verify that the 
+current SENSING TYPE  is shown as INTERNAL . If not, change the selection to INTERNAL . 
+5.  Check that the suspension height control valve is functioning correctly.
+6.  Check for air leakage in the suspension system.
+•  Using the ACom Diagnostic Software, open the BENDIX® TRAILER ROLL STABILITY PROGRAM 
+(TRSP® ) SENSOR screen and select START . Find the load (in‑lbs) that the sensor is registering, and 
+verify that the actual trailer load is consistent with the value found.
+•  Note the values shown on the screen for the current load and pressure. Verify that the values shown on the 
+screen for the empty and laden weight and pressures are correct. See the NOTE  below.
+•  Using the ACom Diagnostic Software, where the value does not appear to be correct, select MODIFY , and 
+enter the correct value(s) on the configuration screen. 
+NOTE : Use a scale to obtain the actual empty trailer weight and use a pressure gauge to obtain actual empty 
+trailer suspension air bag pressure. Where possible, obtain the load/pressure curve from the suspension 
+manufacturer for the specific suspension/air bag combination to find the expected values for this vehicle. Then, 
+rerun the power‑up sequence. Go to Section A.
+371. Check that the Electronic Control Unit (ECU) is installed correctly (expected orientation to vehicle).
+Each Bendix® TABS‑8™ Advanced ECU comes preconfigured for a certain orientation (0/90/180/270 degrees from 
+the vehicle driving direction). NOTE:  Part numbers labeled R002  and forward can only be mounted in 0° and 180° 
+from the vehicle driving direction; use the Figure below  to verify the correct WSS installation for said orientations. Use 
+Bendix® ACom® Diagnostic Software to view the current configured orientation of the TABS-8 Advanced ECU on the 
+controller configuration screen. Then use the Figure below to verify the TABS‑8 Advanced ECU is installed per the 
+configured orientation. If it is determined that the ECU is not installed per the configured orientation, verify that the 
+configured orientation is correct for the part number of the ECU. This will require contacting a Bendix representative 
+at 1-800-AIR-BRAKE (1-800-247-2725). If the configured orientation matches the orientation for the specific ECU part 
+number, reinstall the ECU to match the configured orientation. After reinstalling the ECU for the correct orientation, 
+perform an installation test using ACom Diagnostic Software or a Bendix® Trailer Information Module (TIM).
+If the configured orientation of the ECU does not match the orientation for the specific part number, it is possible 
+that the configured orientation was manually configured using ACom Diagnostic Software at a previous date. If 
+possible, change the configured orientation back to the correct orientation for the given part number. This may require 
+assistance from a Bendix representative at 1-800-AIR-BRAKE (1-800-247-2725). After reconfiguring the orientation 
+of the ECU, reinstall per the new orientation if required. Perform an installation test. 
+2. Check if the WSS S‑C input and S‑D input are swapped.
+Since this Diagnostic Trouble Code (DTC) is caused by the ECU comparing the difference in wheel speed readings 
+between left and right WSS to cross‑check with the on‑board lateral accelerometer’s data, if the sensors are reversed, 
+a DTC can be triggered. The correct installation location of WSS S-C input and S-D input are specific to the ECU’s 
+orientation. Each TABS-8 Advanced ECU comes preconfigured for a certain orientation. Use ACom Diagnostic 
+Software to view the orientation on the controller configuration screen. Then use the Figure below  to verify the correct 
+installation of WSS for this orientation. Use ACom Diagnostic Software to run the TABS‑8 Advanced installation test 
+to verify if the installation of Wheel Speed Sensors (WSS) S‑C input and S‑D input is correct.SECTION G: TROUBLESHOOTING THE ELECTRONIC CONTROL 
+UNIT (ECU) AND WHEEL SPEED SENSOR (WSS) 
+NOTE : The indicator lamp for this condition is illuminated only after the vehicle moves.
+Turn off the power to the Module.
+0° Orientation 
+(Top View)90° Orientation 
+(Top View)180° Orientation 
+(Top View)270° Orientation 
+(Top View)
+Left - “Road Side ”Vehicle Driving Direction
+Right - “Curb Side”Sensor
+“S-D”Sensor
+“S-C”Sensor
+“S-C”Sensor
+“S-D”
+Sensor
+“S-C”Sensor
+“S-D”Sensor
+“S-D”Sensor
+“S-C”
+TABS
+ADV
+TABS
+ADV
+TABS
+ADV
+TABS
+ADV
+38SECTION H: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS LOWERED
+(H3) 
+Is 
+power applied 
+to the system? The 
+Electronic Control Unit (ECU) 
+is required to have power for the 
+Lift‑Axle Control (LAC) feature to work. Does 
+the trailer Antilock Braking System (ABS) 
+indicator lamp on the side of the 
+trailer turn on and off during 
+ignition power‑up?See Section C: TROUBLESHOOTING THE 
+TRAILER-MOUNTED ABS INDICATOR LAMP 
+CIRCUITRY  and begin troubleshooting again.The axle should remain in 
+lowered state. There is no issue. 
+End troubleshooting.Ensure the blue line (ignition 
+power) is connected at the J560 
+nose box. Brake light power is 
+insufficient for an automatic lift axle. 
+ 
+Ensure the trailer wheels are 
+chocked since the following test will 
+release the trailer spring brakes. 
+TEST : Charge the trailer tank(s) by 
+pushing in the red button on the dash. 
+If axle still does not lift, continue to 
+Section (H5) - next page.(H2) 
+Is the trailer 
+loaded such that the 
+axle should be up?(H1) 
+Does the 
+axle only raise when 
+the driver’s foot is on the 
+brake?
+YESNO
+NONOYES
+Go to (H5) - next pageYES
+YESNO
+(H4) 
+The 
+lift‑axle 
+mechanism uses air 
+pressure to lift the axle. If there 
+is inadequate air in the system, the axle 
+will not lift. Are the trailer air 
+tanks fully charged?
+39SECTION H: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS LOWERED  (CONTINUED)
+(H5) 
+Is the 
+trailer equipped with 
+a park brake override 
+system? 
+Ensure the trailer wheels are 
+chocked since the following test 
+will release the trailer spring 
+brakes. 
+TEST : Release the trailer park/spring 
+brakes by pushing in the red button. 
+ACTION:
+• If the axle lifts, END TEST.
+• If the axle still does not lift, 
+continue to section H5.2
+Connect the glad hands. 
+ACTION:
+• If the axle lifts, END TEST.
+• If axle still does not lift, continue to 
+section (H5.3).
+Install a normally 
+closed pressure switch 
+and connect the harness 
+from the Electronic Control 
+Unit (ECU) to the pressure 
+switch. Contact your Bendix 
+representative for the correct 
+part numbers to use for the 
+pressure switch and harness.Troubleshoot the supply circuit.  
+When verified, continue to section 
+(H5.4).YESContinued from previous page
+Go to (H5.5) - next pageYES
+YES
+YES
+YESNONO
+NO
+NO
+NO(H 5.1) 
+Is the trailer 
+parked? (Red button on 
+tractor dash is pulled 
+out.)
+(H 5.2) 
+Are the 
+service and emergency air 
+connections via glad hands 
+complete?
+(H5.3) 
+Is there 
+pressure on the supply side 
+of the spring brake valve?
+Go to (H6)(H5.4) 
+Is there a 
+pressure switch installed on 
+the supply side of the spring 
+brake valve?
+40SECTION H: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS LOWERED  (CONTINUED)
+NONOChange to a normally closed 
+pressure switch. Contact your Bendix 
+representative for the correct part 
+number.
+Replace the switch.
+ACTION:
+• If the axle lifts, END TEST.
+• If the axle still does not lift, 
+continue to section (H5.6).
+Using ACom Diagnostic 
+Software, configure the appropriate 
+axle as a lift‑axle.
+ACTION:
+• If the axle lifts, END TEST.
+• If the axle still does not lift, 
+continue to section (H5.7).
+Configure the 
+appropriate output for 
+Lift‑Axle Control.
+NOTE : For one lift‑axle 
+or lift‑axle group 
+(lift‑axles controlled as a 
+group), use LAC1. (H5.5) 
+Is the pressure 
+switch a normally closed 
+switch?
+(H5.6) 
+Test the 
+pressure switch 
+with Bendix® ACom® 
+Diagnostic Software using 
+the component test for the input 
+configured for Lift Lower. 
+Using the software, check the configuration 
+screen to see if the Electronic Control Unit 
+(ECU) is configured for a lift-axle. 
+Is the ECU configured for a 
+lift‑axle?
+(H5.7) 
+Is the 
+appropriate auxiliary 
+I/O configured as an output 
+and for function name LAC1  
+(Lift‑Axle Control)?
+NOTE: The AUX I/O that is configured, must 
+match the auxiliary pin and wiring on the 
+harness that is connected to the 
+lift‑axle solenoid.YES
+YES
+YESNO
+Go to (H6) - next pageContinued from (H5.4), previous page
+41SECTION H: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS LOWERED  (CONTINUED)
+NOYES
+YES
+YESInstall the correct lift‑axle harness, 
+making sure to connect to the lift‑axle 
+solenoid, ECU and, park brake override 
+pressure switch (if present).
+Install the auxiliary pigtail and  
+plug in the lift‑axle harness.
+•  Check to see if the auxiliary connector is 
+present.
+•  Check to see that the lift axle harness is 
+plugged into the auxiliary connector.
+•  Check to see if the lift axle harness is 
+plugged into the lift axle solenoid.
+•  Use ACom Diagnostic Software to activate 
+the AUX I/O associated with the Lift Axle 
+Control (LAC).
+1. Does the lift axle lift?
+2.  If lift axle does not lift, disconnect the 
+auxiliary lift axle harness from the solenoid 
+and measure the output voltage.
+3.  If no voltage is found, disconnect the lift 
+axle harness from the auxiliary pigtail and 
+measure the voltage on the appropriate 
+pins for the lift axle.
+4.  Verify the 7‑pin connector and individual 
+pins on the lift axle harness are properly 
+seated. If no voltage is found, contact the 
+Bendix Tech Team. H6 Troubleshooting
+NO
+NO
+Go to (H9) - next pageWiring and plumbing are correct - 
+troubleshoot the configuration. 
+Go to (H9) - next page(H8) 
+To this 
+point wiring and 
+configuration appear to 
+be correct. Use Bendix® ACom® 
+Diagnostic Software’s component test 
+(miscellaneous tab) to activate the AUX 
+I/O associated with the Lift‑Axle 
+Control (LAC). Does the 
+lift‑axle lift?(H7) 
+Is the 
+correct ECU 
+auxiliary pigtail being used? 
+Contact your Bendix representative 
+for the correct part number for the 
+auxiliary pigtail.(H6) 
+The 
+Electronic Control 
+Unit (ECU) should be 
+connected to the lift‑axle solenoid via a 
+lift‑axle harness and an auxiliary pigtail harness. 
+Is the correct lift‑axle harness present and connected 
+to both the lift‑axle solenoid and the ECU auxiliary 
+pigtail? Contact your Bendix representative 
+for the correct part number for the 
+lift axle harness.
+42SECTION H: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS LOWERED  (CONTINUED)
+Continued from previous page
+NOTest the harness for continuity. 
+Contact your Bendix representative 
+for the correct drawing (pin out) 
+for the lift‑axle and auxiliary pigtail 
+harness. If the problem persists, 
+contact the Bendix Tech Team. 
+The vehicle must be moving to 
+lift the axle. Either drive the vehicle 
+about 5 mph (8 kph) to see if the axle 
+lifts, or set this parameter to YES and 
+see if the axle lifts.
+Configure the parameters to the correct values.
+Contact your Bendix representative to assist in 
+further troubleshooting. 
+(H11) Use the ACom Diagnostic Software to record the following information:
+On the Bendix® Trailer Roll Stability Program (TRSP®) sensor screen – current Axle Load  
+ _______ (lbs)
+On the pressure screen – Load Port (Air Bag) P42 pressure________(psi)
+On the configuration screen – AUX I/O tab, Auxiliary function parameter panel:
+Weight where axle is lowered  _______ (lbs)
+Weight where axle is lifted _______ (lbs)
+(H12) 
+Do the 
+values above match the 
+configuration and specifications 
+of the trailer? NOYES
+NOYES
+YES(H9) 
+Disconnect 
+the lift‑axle harness from the 
+solenoid and attach a test light to the harness. 
+Use the component test again to activate 
+output. Does the light come 
+on?
+(H10) 
+Troubleshoot 
+the Lift Axle Control 
+(LAC)using Bendix® ACom® Diagnostic 
+Software. On the configuration window I/O tab, 
+inspect the auxiliary function parameters 
+for LAC1. Is the ENABLE LIFT 
+AXLE AT STANDSTILL 
+PARAMETER  set 
+to NO?
+43(J3) 
+Is the trailer 
+loaded such that the axle should be in 
+the lifted position?NOMove the connection from the lift axle 
+suspension air bag to the air bag on the fixed axle.
+There is no issue. The axle is expected to be 
+lifted in this situation.(J2) 
+Is the 
+Load Port (air 
+bag) P42 on the Electronic 
+Control Unit (ECU) valve, connected to a 
+suspension air bag on the lift axle?YES
+YES
+NOYESSECTION J: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS RAISED
+Connect the load port P42 to the suspension air 
+bag on a fixed-axle at a location as far away from 
+the height‑control valve as possible, preferably, 
+directly to the air bag.(J1) 
+Is the air bag 
+port P42 connected to the air 
+suspension?NOPart One: Air Bag Checks
+Go to (J4) - next page
+44(J6) 
+Verify the 
+ECU has an auxiliary input 
+configured for a LIFT LOWER function.
+Is it configured?Continue to Section J8.
+Configure the appropriate auxiliary input for the 
+LIFT LOWER function.(J4) 
+Is the 
+technician expecting the axle 
+to be lowered because the trailer 
+is parked?NO
+YES
+YES
+YESNO
+NO
+Go to (J8) - next pageSECTION J: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS RAISED  (CONTINUED)
+Part Two: Other Checks
+Install a normally closed pressure switch and 
+connect the harness from the ECU to the pressure 
+switch. Contact your Bendix representative for the 
+correct part numbers to use for the pressure switch 
+and harness.
+(J7) 
+Is the 
+configured auxiliary input 
+the correct input based on the wiring of the 
+auxiliary pigtail harness and lift axle 
+harness?NO Configure the correct auxiliary input for the 
+harness being used.
+YES(J5) 
+Is the 
+trailer equipped with a 
+park circuit pressure switch in the 
+supply/emergency/red line that is connected 
+electrically to the Electronic Control 
+Unit (ECU) using a 
+harness?
+45 
+(J10) Use Bendix® ACom® Diagnostic Software to record the following information:
+On the Bendix® Trailer Roll Stability Program (TRSP®) sensor screen  – Current Axle Load _______ (lbs)
+On the Pressures screen – Load Port (Air Bag) P42 pressure________(psi)
+On the configuration screen – AUX I/O tab, Auxiliary function parameters panel:
+Weight where axle is lowered _______ (lbs) Weight where axle is lifted  _______ (lbs)SECTION J: TROUBLESHOOTING AN AUTOMATIC LIFT‑AXLE
+THAT REMAINS RAISED  (CONTINUED)
+(J8) 
+Is there 
+a separate control 
+mechanism on the trailer that will 
+override the Electronic Control Unit’s (ECU) 
+Lift Axle Control (LAC) and for the axle up? 
+(Overrides can either be an electrical 
+switch or a mechanical push‑
+pull button.)Continued from previous page
+NONO
+The ECU is causing the lift axle to be raised. Use ACom Diagnostic Software to look at the current loading 
+conditions as interpreted by the ECU to verify that the axle should be in the lowered position. If it is determined it 
+should be in the lowered position, contact Bendix Support.Inspect to see if it is in a state that is 
+overriding the automatic lift axle system. 
+Change its state, if necessary, and continue 
+to section (J9).YES
+(J9)
+ 
+Exercise caution when doing this step  
+as the axle may drop as a result.
+Check that the ECU is activating the lift valve. This can be done either by 
+disconnecting the harness that connects to the lift axle solenoid, 
+or by using the Bendix® ACom® Diagnostic Software 
+component test to activate/deactivate the output 
+that is configured for LAC.
+ Does the axle lower?
+YESThe ECU is 
+not causing the 
+lift axle to be 
+raised. Inspect 
+and repair the 
+plumbing of 
+the lift axle 
+valve and 
+circuitry.
+Configure the parameters to the correct values.
+Contact your Bendix representative to assist in 
+further troubleshooting.(H12) 
+Do the 
+values above match the 
+configuration and specifications 
+of the trailer? NO
+YES
+46Go into the ACom AUXIO configuration. 
+Change the AUX I/O 1 to INPUT, select 
+iTIS, and select NO for inverted mode. 
+Click WRITE and verify the status in the 
+PLC message. If the status is still incorrect, 
+contact the Bendix Tech Team.(K1)
+Is the tire 
+pressure supply switch 
+status (PID 42) available on the monitor 
+window?SECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) ‑ 
+SCENARIO 1: TIS IS ACTIVE BUT PLC MESSAGE STATUS IS INACTIVE
+Figure 23 – Tire Inflation System (TIS) Diagram 
+NOThe following troubleshooting steps are designed to identify issues with the messaging and performance of the Bendix® 
+TABS‑8™ Electronic Control Unit (ECU). Additional functionality for the PLC relay unit should also be considered and 
+confirmed as part of these troubleshooting steps. 
+Using Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window for the tire pressure supply 
+switch status (PID 42). 
+(K2)
+Is the 
+2‑pin amp connector 
+of the TABS‑8 power auxiliary 
+harness connected to the TIS harness 
+(point 2 in Figure 23 )?YES
+YESComplete
+Verify the connectors are fully seated. 
+Check for corrosion or damaged wires in 
+the harness.NO
+Go to (K3) - next page
+Tire Inflation System (TIS) 
+Flow Switch
+Tire Inflation System Harness
+2-PIN AMP/TE CONNECTIVITY™  
+CONNECTOR 282104TABS-8 Power Auxiliary Harness 
+K216785IGNITION VOLTAGE
+GROUNDBREAK LAMP VOLTAGE
+GROUND
+ABS INDICATOR LAMP (AUX 1/O 7)
+AUX I/O 1
+SAE J1939 (H)
+SAE J1939 (L)
+47(K4)
+Measure 
+the continuity across the 
+terminals on the flow switch inside the TIS 
+box ( point 1 in Figure 23 ). Is there 
+continuity?
+(K5) 
+Measure the 
+continuity across the pins 
+of the TIS harness ( point 2 in Figure 23 ). 
+Is there continuity when the TIS is 
+active?
+(K6) 
+Measure the 
+continuity across pins 3 and 5 
+of the TABS‑8 harness (point 3 
+in diagram). Is there 
+continuity?SECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) (CONTINUED) ‑ 
+SCENARIO 1: TIS IS ACTIVE BUT PLC MESSAGE STATUS IS INACTIVE
+Troubleshoot the TABS‑8 
+harness for damage and replace if 
+necessary. NOYES
+YES(K3)
+Using 
+the Bendix® ACom® 
+Diagnostic Software, go to the 
+AUX tab and check under auxiliary function 
+parameters. Is the TIS INVERTED 
+MODE option set to NO? Change the option to NO, write 
+the configuration change, and verify 
+if the status of the PLC message is 
+correct.NO
+YES
+The flow switch does not 
+appear to be working. Contact the 
+TIS manufacturer for  
+troubleshooting steps.NO
+Troubleshoot the TIS harness 
+for damage.NO
+YES
+Power cycle the ECU.
+Go to (K7) - next pageContinued from previous page
+48(K7) 
+Is the status on the 
+PLC message incorrect after 
+power cycle?
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the AUX I/O 1 from INPUT to N/A and click WRITE.
+• Change the AUX I/O 1 back to INPUT and select iTIS in the Function Name.
+• Click WRITE and verify the status in the PLC message. If the status is still 
+incorrect, contact the Bendix Tech team.Complete.NO
+YES
+Go into the ACom AUXIO configuration. 
+Change the AUX I/O 1 to INPUT, select 
+iTIS, and select NO for inverted mode. 
+Click WRITE and verify the status in the 
+PLC message. If the status is still incorrect, 
+contact the Bendix Tech Team.(K8)
+Is the tire 
+pressure supply switch 
+status (PID 42) available on the monitor 
+window?NOUsing Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window for the tire pressure supply 
+switch status (PID 42). 
+(K9)
+Using 
+ACom Diagnostic 
+Software, go to the AUX tab 
+and check under auxiliary function 
+parameters. Is the TIS INVERTED 
+MODE option set to NO? YES
+NO
+YES
+Go to (K10) - next pageChange the option to NO, write 
+the configuration change, and verify 
+if the status of the PLC message is 
+correct.Continued from previous pageSECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) (CONTINUED) ‑ 
+SCENARIO 1: TIS IS ACTIVE BUT PLC MESSAGE STATUS IS INACTIVE
+SECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) ‑ 
+SCENARIO 2: TIS IS INACTIVE BUT PLC MESSAGE STATUS IS ACTIVE
+49Continued from (K9) previous page
+(K10)
+Measure the 
+continuity across the terminals 
+on the flow switch inside the TIS box 
+(point 1 in Figure 23 ). Is 
+there continuity?
+Power cycle the ECU.
+(K11) 
+Is the status on the 
+PLC message incorrect after 
+power cycle?The flow switch on the 
+TIS is closed. Contact the TIS 
+manufacturer to troubleshoot the 
+TIS switch.YES
+NO
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the AUX I/O 1 from INPUT to N/A and click WRITE.
+• Change the AUX I/O 1 back to INPUT and select iTIS in the Function Name.
+• Click WRITE and verify the status in the PLC message. If the status is still 
+incorrect, contact the Bendix Tech team.
+ 
+If using a normally closed pressure switch, reverse the logic of the steps above.Complete.NO
+YESSECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) (CONTINUED) ‑ 
+SCENARIO 2: TIS IS INACTIVE BUT PLC MESSAGE STATUS IS ACTIVE
+50NOUsing Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window for available messages.
+YES
+Power cycle the Electronic 
+Control Unit (ECU). YES(K13)
+Is the power 
+light on and is the data 
+light blinking on the diagnostic 
+adapter?NOVerify the 
+ignition power 
+to the trailer 
+and diagnostic 
+connection.
+(K14)
+Using 
+the Bendix® ACom® 
+Diagnostic Software, go to the 
+AUX tab. Is it configured as INPUT FOR 
+iTIS (on the AUX I/O that the 
+harness is connected 
+to)?NO Under TYPE, select INPUT. Under 
+FUNCTION, select iTIS. Click WRITE and 
+verify the PLC status is broadcasting.
+(K15) 
+Is the status on 
+the PLC message incorrect after 
+power cycle?
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the AUX I/O 1 from INPUT to N/A and click WRITE.
+• Change the AUX I/O 1 back to INPUT and select iTIS in the Function Name.
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.Complete.NO
+YES(K12)
+Do any 
+messages from the 
+trailer appear (i.e. MID 10 or 
+MID 11)?SECTION K: TROUBLESHOOTING THE TIRE INFLATION SYSTEM (TIS) 
+(CONTINUED) ‑ SCENARIO 3: PLC MESSAGE IS NOT BROADCASTING
+51Go into the ACom AUXIO configuration. 
+Change the SE to INPUT and select iLPWE 
+in the FUNCTION NAME. Ensure INPUT 
+INVERTED MODE is set to NO and the ABS 
+warning lamp is checked. Click WRITE and 
+verify the status in the PLC message.(L1) 
+Is the PID 
+70 park brake switch status 
+available on the monitor window?SECTION L: TROUBLESHOOTING LOW PRESSURE WARNING EMERGENCY (LPWE) 
+FEATURE ‑ SCENARIO 1: LOW PRESSURE CONDITION PRESENT (BELOW 65 PSI WITH 
+NORMALLY OPEN PRESSURE SWITCH), BUT PLC MESSAGE STATUS IS INACTIVE
+Figure 24 – Low Pressure Warning Emergency (LPWE) Diagram 
+NOThe following troubleshooting steps are designed to identify issues with the messaging and performance of the Bendix® 
+TABS‑8™ Electronic Control Unit (ECU). Additional functionality for the PLC relay unit should also be considered and 
+confirmed as part of these troubleshooting steps. 
+Using Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window switches tab for the parking 
+brake switch status (PID 70).
+(L2) 
+Using 
+the Bendix ACom 
+Diagnostic Software, go to 
+the AUX tab and check under auxiliary 
+function parameters. Is the LPWE 
+INVERTED MODE option 
+set to NO? YES
+NO Change the option to NO, write the 
+configuration change, and verify the status 
+of the PLC message is correct.
+YES
+(L3) 
+Unplug the 
+pressure switch of the LPWE 
+harness and measure the continuity across the 
+terminals of the switch ( point 1 in Figure 24 ). Is 
+there continuity?
+NO
+Go to (L4) - next pageYESThe threshold switch 
+does not appear to be 
+working. Replace the 
+threshold switch.
+
+52(L4) 
+Measure the 
+continuity across the pins of the 
+LPWE harness ( point 3 in Figure 24 ). 
+Is there continuity?
+NO
+(L5) 
+Is the status 
+on the PLC message incorrect 
+after the power cycle?Power cycle the 
+Electronic Control Unit 
+(ECU).Continued from previous page
+Plug the pressure switch back into 
+the Low Pressure Warning Emergency 
+(LPWE) harness.
+Troubleshoot the LPWE 
+harness for damage. NOTE:  Verify 
+the part number of the LPWE and 
+check the harness for damage.YES
+Complete.NO
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the SE from INPUT to N/A and click WRITE.
+• Change the SE back to INPUT and select iLPWE in the Function Name. Ensure INPUT 
+INVERTED MODE is set to NO, and the ABS warning lamp is checked.
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.
+If using a normally closed pressure switch, reverse the logic of the steps above.YESSECTION L: TROUBLESHOOTING LOW PRESSURE WARNING 
+EMERGENCY (LPWE) FEATURE (CONTINUED) ‑  SCENARIO 1: LOW 
+PRESSURE CONDITION PRESENT (BELOW 65 PSI WITH NORMALLY OPEN 
+PRESSURE SWITCH), BUT PLC MESSAGE STATUS IS INACTIVE
+53Go into the ACom AUXIO configuration. 
+Change the SE to INPUT and select iLPWE 
+in the FUNCTION NAME. Ensure INPUT 
+INVERTED MODE is set to NO and the ABS 
+warning lamp is checked. Click WRITE and 
+verify the status in the PLC message.(L6) 
+Is the PID 
+70 park brake switch status 
+available on the monitor window?NOUsing Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window switches tab for the parking 
+brake switch status (PID 70).
+(L7)
+Using 
+the Bendix ACom 
+Diagnostic Software, go to 
+the AUX tab and check under auxiliary 
+function parameters. Is the LPWE 
+INVERTED MODE option 
+set to NO? YES
+NO Change the option to NO, write the 
+configuration change, and verify the status 
+of the PLC message is correct.
+YES
+(L8)
+Unplug the 
+pressure switch of the LPWE 
+harness and measure the continuity across the 
+terminals of the switch ( point 1 in Figure 24 ). Is 
+there continuity?
+NO
+Go to (L9) - next pageYESThe threshold switch 
+does not appear to be 
+working. Replace the 
+threshold switch.
+Plug the pressure switch back into 
+the LPWE harness.SECTION L: TROUBLESHOOTING LOW PRESSURE WARNING EMERGENCY (LPWE) 
+FEATURE ‑ SCENARIO 2: LOW PRESSURE CONDITION NOT PRESENT (ABOVE 65 PSI 
+WITH NORMALLY OPEN PRESSURE SWITCH), BUT PLC MESSAGE STATUS IS ACTIVE
+54(L9)
+Measure 
+the continuity across the 
+pins of the Low Pressure Warning 
+Emergency (LPWE) harness ( point 3 in 
+Figure 24 ). Is there continuity?
+YES
+(L10)
+Is the status 
+on the PLC message incorrect 
+after the power cycle?Power cycle the 
+Electronic Control Unit 
+(ECU).Continued from previous page
+Troubleshoot the LPWE 
+harness for damage.NO
+Complete.NO
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the SE from INPUT to N/A and click WRITE.
+• Change the SE back to INPUT and select iLPWE in the Function Name. Ensure 
+INPUT INVERTED MODE is set to NO, and the ABS warning lamp is checked.
+• Click WRITE and verify the status in the PLC message. If the status is still 
+incorrect, contact the Bendix Tech team.
+If using a normally closed pressure switch, reverse the logic of the steps above.YESSECTION L: TROUBLESHOOTING LOW PRESSURE WARNING EMERGENCY 
+(LPWE) FEATURE (CONTINUED) ‑ SCENARIO 2: LOW PRESSURE 
+CONDITION NOT PRESENT (ABOVE 65 PSI WITH NORMALLY OPEN 
+PRESSURE SWITCH), BUT PLC MESSAGE STATUS IS ACTIVE
+55Using Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window for available messages.
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the SE from INPUT to N/A and click WRITE.
+• Change the SE back to INPUT and select iLPWE in the Function Name. Ensure INPUT 
+INVERTED MODE is set to NO, and the ABS warning lamp is checked.
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.
+If using a normally closed pressure switch, reverse the logic of the steps above.NO
+YES
+Power cycle the Electronic 
+Control Unit (ECU). YES(L12)
+Is the 
+power light on and 
+is the data light blinking on 
+the diagnostic adapter?NOVerify the 
+ignition power 
+to the trailer 
+and diagnostic 
+connection.
+(L13)
+Using ACom, go 
+to the AUX I/O tab. Is it configured 
+as INPUT FOR iLPWE?NOGo into the ACom AUXIO configuration. 
+Change the SE to INPUT and select iLPWE 
+in the FUNCTION NAME. Ensure INPUT 
+INVERTED MODE is set to NO and the ABS 
+warning lamp is checked. Click WRITE and 
+verify the status in the PLC message.
+(L14) 
+Is the PLC 
+message now present after the 
+power cycle?Complete.YES
+NO(L11)
+Do any 
+messages from the 
+trailer appear (i.e. MID 10 or 
+MID 11)?SECTION L: TROUBLESHOOTING LOW PRESSURE WARNING EMERGENCY 
+(LPWE) FEATURE ‑ SCENARIO 3: PLC MESSAGE IS NOT BROADCASTING
+56Go into the ACom AUXIO configuration. 
+Change the SF to INPUT and select PW in 
+the FUNCTION NAME. Click WRITE and 
+verify the status in the PLC message.(M1) 
+Does the 
+SID 70 BRAKE PADS 
+WORN message show up in the status 
+window?SECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING FEATURE ‑ SCENARIO 1:  
+BRAKE PAD WORN, BUT DIAGNOSTIC TROUBLE CODE (DTC) IS INACTIVE
+Figure 25 – Pad Wear (PW) Sensing Feature Diagram 
+NOThe following troubleshooting steps are designed to identify issues with the messaging and performance of the Bendix® 
+TABS‑8™ Electronic Control Unit (ECU). Additional functionality for the PLC relay unit should also be considered and 
+confirmed as part of these troubleshooting steps. 
+Using Bendix® ACom® Diagnostic 
+Software, look at the data monitor 
+window for any active DTC messages.
+YES
+Disconnect the PW 
+harness from the ECU.
+NO
+Power cycle the ECU.Troubleshoot the 
+PW harness for a 
+short circuit.YES
+Go to (M3) - next page
+(M2) 
+Measure the 
+continuity across the pins 
+of the PW harness ( point 3 in Figure 25 ). 
+Is there continuity?
+57(M3) 
+Is the status 
+on the PLC message incorrect 
+after the power cycle?Continued from previous page
+Complete.NO
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the SF input configured for Pad Wear (PW) from INPUT to N/A. Click WRITE. 
+• Change the SF back to INPUT and select PW in the Function Name. 
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.YES
+No PW condition is currently 
+active Troubleshoot the PLC relay.NOUsing ACom, look at the status 
+window for any active DTC messages.
+Go to (M5) - next page(M4) 
+Does the 
+SID 70 BRAKE PADS 
+WORN message show up in the status 
+window?
+YESSECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING 
+FEATURE (CONTINUED) ‑ SCENARIO 1: BRAKE PAD WORN, 
+BUT DIAGNOSTIC TROUBLE CODE (DTC) IS INACTIVE
+SECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING FEATURE ‑ SCENARIO 2:  
+BRAKE PAD NOT WORN, BUT DIAGNOSTIC TROUBLE CODE (DTC) IS ACTIVE
+58(M5)
+Using 
+Bendix® ACom® 
+Diagnostic Software, verify the PW 
+configuration. Is the PW configured on the SF 
+input that the PW harness is 
+connected to?Continued from previous page
+Correctly configure 
+the Pad Wear (PW) 
+input on SF.NO
+Disconnect the PW harness from the 
+Electronic Control Unit (ECU).YES
+NOTroubleshoot the 
+PW harness for an 
+open circuit.
+Power cycle 
+the ECU.YES
+(M7) 
+Is the status 
+on the PLC message incorrect 
+after the power cycle?Complete.NO
+• Go into The Bendix® ACom® Diagnostic Software AUXIO configuration.
+• Set the SF input configured for PW from INPUT to N/A. Click WRITE. 
+• Change the SF back to INPUT and select PW in the Function Name. 
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.YESSECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING 
+FEATURE (CONTINUED) ‑ SCENARIO 2: BRAKE PAD NOT WORN, 
+BUT DIAGNOSTIC TROUBLE CODE (DTC) IS ACTIVE
+(M6) 
+Measure 
+the continuity across 
+the pins of the PW harness ( point 
+3 in Figure 25 ). Is there continuity?
+59Using Bendix® ACom® Diagnostic 
+Software, look at the status window for 
+any active Diagnostic Trouble Code 
+(DTC) messages.
+(M8)
+Do any 
+messages from the 
+trailer appear (i.e. MID 10 or 
+MID 11)?NO
+YES
+Power cycle the Electronic 
+Control Unit (ECU). YES(M9)
+Is the 
+power light on and 
+is the data light blinking on 
+the diagnostic adapter?NOVerify the 
+ignition power 
+to the trailer 
+and diagnostic 
+connection.
+NOUnder TYPE, select INPUT. 
+Under FUNCTION, select PW. 
+Click WRITE and verify the 
+PLC status is broadcasting.
+(M11) 
+Is the PLC message  
+incorrect after the power cycle?Complete.NO
+NO
+• Go into the ACom AUXIO configuration.
+• Set the AUX I/O input configured for PW from INPUT to N/A. Click WRITE. 
+• Change the AUX I/O back to INPUT and select PW in the Function Name. 
+• Click WRITE and verify the status in the PLC message. If the status is still incorrect, 
+contact the Bendix Tech team.(M10)
+Using ACom, go 
+to the AUX I/O tab and verify the 
+correct input is configured for Pad Wear (PW). Is 
+the input configured correctly?SECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING FEATURE ‑ SCENARIO 3:  
+PLC MESSAGE IS NOT BROADCASTING
+60Isolate/disconnect the axle harness that is 
+furthest away from the TABS. Short the pins on the 
+connector of the harnessing that is still connected to 
+the Electronic Control Unit (ECU).
+Power 
+cycle the 
+ECU. Did the PW DTC 
+become inactive OR did the PLC 
+relay lamp turn off?
+NOThe PW condition has been isolated to the 
+axle harness that has just been disconnected. 
+Troubleshoot the axle harness, extensions, 
+shorting cap (if applicable), and PW sensors 
+on this axle.YES
+Power cycle the ECU 
+and confirm the DTC and/or 
+PLC relay lamp is off.Isolate the next axle harness that is 
+furthest away from the TABS. Short the 
+pins on the connector of the harness 
+that is still connected to the ECU.SECTION M: TROUBLESHOOTING PAD WEAR (PW) SENSING FEATURE ‑ SCENARIO 4:  
+IDENTIFYING THE SOURCE OF A PW DIAGNOSTIC TROUBLE CODE (DTC)
+61
+Electronic Control Unit (ECU) Part Number Label
+See Figure 26. The external part number label is located 
+above the control port of the Bendix® TABS‑8™ Advanced 
+Module. If this label is not readable for any reason, the part 
+number can be read from the Electronic Control Unit (ECU) 
+using Bendix® ACom® Diagnostic Software. 
+Software Revision Level
+The number of the initial software loaded on the ECU is 
+also indicated. The current software revision number can 
+be read using ACom Diagnostic Software. 
+Document Revision Level
+For additional information on Bendix products and to ensure 
+you have the latest version of the Service Data Sheet, visit 
+B2Bendix.com.Figure 26 – Label Information
+• Bendix® TABS-6™ Standard and Premium Trailer 
+Antilock Braking System (ABS) Module, SD-13-4767.
+• Bendix® Single-Channel TABS-6™ Advanced Module, 
+SD-13-47671.
+• Bendix® TABS-6™ Advanced Multi-Channel Trailer ABS 
+Module, SD-13-47672A.
+• Bendix® TABS-8™ Advanced Single-Channel Trailer 
+ABS Module, SD-13-47680.
+• Bendix® WS-24™ AntiLock Wheel Speed Sensor 
+(WSS), SD-13-4650.Component ID
+Final 8 Digits 
+Show Initial 
+Software 
+Loaded
+BENDIX PART 
+NUMBERSerial Number 
+(including the Date of 
+Manufacture Code)
+PART NUMBER PART DESCRIPTION
+300122N Cable Retainer Clip
+802165 Trailer Remote Diagnostic Unit (TRDU) 7 ‑pin Adapter 
+K101595 Trailer Remote Diagnostic Unit (TRDU) Kit with 7 ‑pin Adapter
+K139901 Bendix® TABS ‑6™ Brake Pad Wear Axle Harness
+K142194 Pressure Switch ‑ Normally Open
+K148792 Wiring Harness Shorting Cap Assembly
+K192258 In‑pad Wear Sensing Wiring Harness ‑ Supply Line
+K215624 Bendix® TABS ‑8™ Advanced Pigtail ‑ Power Only
+K216784 Bendix® TABS ‑8™ Advanced Pigtail ‑ Low Pressure Warning Emergency (LPWE)
+K216787 Bendix® TABS ‑8™ Advanced Pigtail - Tire Inflation System (TIS)Part Number Reference Table
+62SD‑13‑47680 Rev 002 © 2/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr‑Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST Unless otherwise indicated, the trademarks used in this document – including Bendix – are United States trademarks 
+owned by, or licensed to, Bendix Commercial Vehicle Systems LLC.

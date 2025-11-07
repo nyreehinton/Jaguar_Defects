@@ -1,0 +1,136 @@
+ 
+ 
+BULLETIN NOTES
+This bulletin supersedes the previously issued bulletin(s) listed below. The changes are noted in Red text.
+Previous TSBs: Date(s) Issued:
+01-009/20 07/08/20
+ 
+APPLICABLE MODEL(S)/VINS  
+2019-2020 Mazda3 2.5L (Japan built)  vehicles equipped with cylinder deactivation with VINs lower than JM1 BP**** ** 
+176337 (Produced before Mar. 27, 2020)  
+2019-2020 Mazda3 2.5L (Mexico built) vehicles equipped with cylinder deactivation with VINs lower than 3MZ BP**** ** 
+136157 (Produced before Feb. 10, 2020)  
+2020 CX-30 2.5L (Mexico built) vehicles equipped with cylinder deactivation with VINs lower than 3MV DM**** ** 124335 
+(Produced before Feb. 10, 2020)  
+ 
+NOTE: Vehicles with cylinder deaction have a "M" as the 8th digit in the VIN for the 2.5L with cylinder deactivation.  
+ 
+   
+ 
+DESCRIPTION
+Some customers may complain about a very low frequency noise and/or vibration felt at the steering wheel, the floor and/
+or the seats when driving at 1500-1650 rpm in any gear position. This may be caused by normal vehicle behavior while 
+the cylinder deactivation is active (two cylinders drive). The state of the cylinder deactivation can be monitored in the 
+center display to help verify if this is the issue.  
+ 
+WARNING:  DO NOT keep your eyes focused solely on the display while test driving. For your safety, keep your eyes on 
+the road ahead.  
+To correct this concern, the radiator mount brackets and the control software of the PCM have been modified to reduce 
+the resonance of the radiator.  
+ 
+NOTE: The combination of the modified radiator mount brackets and older PCM calibration may result in worse vibration.  
+ 
+Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+Page 1 of
+5
+02/11/2025 10:14 AM tlawrenc
+REPAIR PROCEDURE
+1. Verify customer concern. The state of the cylinder deactivation can be monitored in the center display to help verify if 
+this is the issue.  
+WARNING:  DO NOT keep your eyes focused solely on the display while test driving. For your safety, keep your eyes on 
+the road ahead.  
+ 
+2. Replace the radiator mount brackets with modified ones.  
+ 
+Bolt tightening torque: 71-88 in-lb (82-101 kgf-cm, 8-10 Nm)  
+ 
+3. Mazda3 Only:  Verify the VIN of the vehicle.
+If the vehicle is within the VIN range below, go to step 4.•
+If the vehicle is outside the VIN range below, PCM reprogramming is not necessary. Go to step 8.•
+2019-2020 Mazda3:  
+Japan Built
+VIN Range Production Date Range
+JM1BP****** 100001-163204 Sep. 25, 2018 - Jan. 10, 2020
+ 
+Mexico Built
+3MZBP****** 100001-131963 Jan. 15, 2019 - Jan. 10, 2020
+ 
+NOTE:  2020 CX-30 does not need to be reprogrammed.  
+ 
+4. Reprogram the PCM using the Mazda Diagnostic And Repair Software (MDARS). Refer to MDARS ECU 
+Page 2 of
+5
+02/11/2025 10:14 AM tlawrenc
+Reprogramming Procedure.  
+NOTE:
+If the current calibration file name on the ECU FILENAME screen is the same as shown in Calibration Information 
+or with a later suffix, reprogramming is not necessary.•
+After reprogramming, pending DTC P2610:00 [PCM] will be stored without the Check Engine Light ON. Start the 
+engine and clear the DTC.•
+After reprogramming, if DTC U2120:00 and/or U2500:82 are stored and the i-ACTIVSENSE warning light (amber) 
+turns ON, refer to SA-043/20.•
+5. Clear the DTC, turn the ignition off, and get out of the vehicle.  
+6. Close and lock the door.  
+7. Wait for at least ten minutes.  
+8. Verify the repair by starting the engine and making sure that all warning lights are off.  
+NOTE:  If any DTC should remain after performing a DTC erase, diagnose the DTC according to the instructions on 
+MGSS.   
+ 
+CALIBRATION
+2019-2020 Mazda3  
+US spec. (Japan built)
+Transmission Drive File Name Notes
+PX58-188K2-K Mitsubishi
+M/T 2WD
+PX59-188K2-K Denso
+PX05-188K2-L Mitsubishi
+2WD
+PX06-188K2-L Denso
+PX07-188K2-N MitsubishiA/T
+4WD
+PX08-188K2-N Denso
+  
+US spec. (Mexico built)
+Transmission Drive File Name Notes
+PX13-188K2-F Mitsubishi
+2WD
+PX14-188K2-F Denso
+PX15-188K2-F MitsubishiA/T
+4WD
+PX16-188K2-F Denso
+ 
+ 
+PARTS INFORMATION
+Parts Number Description Qty.
+Page 3 of
+5
+02/11/2025 10:14 AM tlawrenc
+PEY1-15-241 Bracket (R), Radiator 1
+PEY1-15-251 Bracket (L), Radiator 1
+Page 4 of
+5
+02/11/2025 10:14 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 83
+Damage Code 99
+Part Number Main Cause PEY1-15-241
+Quantity 1
+Operation Number / Labor Hours:Mazda3:  
+XXS3CARX / 0.3 Hrs. (without PCM reprogramming)  
+XXS3CBRX / 0.4 Hrs. (with PCM reprogramming)  
+ 
+CX-30:  
+XXS3CARX / 0.3 Hrs.
+NOTE:  Claim PEY1-15-251 as related parts.
+ 
+Page 5 of
+5
+02/11/2025 10:14 AM tlawrenc

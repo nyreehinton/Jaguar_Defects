@@ -1,0 +1,176 @@
+Technical Service Bulletin (TSB)
+Flash: Battery Pack Control Module (BPCM) Updates
+REFERENCE: TSB: 08-025-25 REV. A
+GROUP: 08 - ElectricalDate: February 15, 2025 REVISION: 08-025-25
+VEHICLES
+AFFECTED:2025 (LB) Dodge Charger
+This bulletin applies to vehicles built on or before January 15, 2025
+(MDH 0115XX) equipped with 400V G2500 FR/RR Elec Drive Motors
+(Sales Code ELD).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:**Customers may experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle may
+exhibit/set the following Diagnostic Trouble Code (DTC):
+●P0CA6-00 - Hybrid/EV Battery Charging Current High.
+●P167B-00 - Controlled System Shutdown.**
+Customers may also comment on one or more of the following:
+●Wrench icon is illuminated on the Instrument Panel Cluster (IPC).
+●Vehicle will not enter Drive Ready Mode.
+●Battery range incorrect.
+This bulletin also includes the following software enhancements:
+●**Bootloader update to prevent battery disconnect unit damage.
+●Improvements in detecting pre-existing battery disconnect unit damage.
+●Charging related enhancements that may lead to DTC P0CA6 falsely setting.**
+●Improved battery State of Charge (SoC) accuracy in off-nominal conditions.
+CAUSE: BPCM software update
+This bulletin supersedes Technical Service Bulletin (TSB) 08-266-24, date of issue January 28, 2025,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+updated Customer Symptom statement, DTC, software enhancements, LOPs and additional Repair
+Procedure steps.
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-013,
+date of issue January 28, 2025. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+NOTE: The RSU portion of this service bulletin covers U.S. and Canada only.
+REPAIR SUMMARY:
+This bulletin involves reprogramming the BPCM, MCP A, MCP B and the EVCU with the latest available
+software and then, if needed, performing a Wheel End Disconnect Position Learn routine.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+**18-19-17-AX Inspect BPCM, MCPA,
+MCPB, and EVCU
+Module Software Levels
+(0 - Introduction)6 - Electrical and Body
+Systems0.2 Hrs.
+18-19-17-AY Inspect and Reprogram
+BPCM, MCPA, MCPB,
+and EVCU Module
+Software
+(0 - Introduction)6 - Electrical and Body
+Systems1.1 Hrs.**
+Failure Code RF Required Flash
+CC Customer Concern
+The dealer must choose which failure code to use depending on if this is a Rapid Service Update
+(RSU) or Technical Service Bulletin.
+● The “RF” failure code is required for essential module flash/reprogramming and can only be used after
+confirmation that the VIN is included on the RSU.
+● The failure code “RF” (Required Flash) can no longer be used on Technical Service Bulletin flashes. The
+“RF” failure code must be used on an RSU.
+● If the customer’s concern matches the SYMPTOM/CONDITION identified in the Technical Service Bulletin,
+failure code CC is to be used. When utilizing this failure code, the 3C’s must be supplied.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If DTCs or symptom conditions, other
+than the ones listed above are present, record the issues on the repair order and repair as necessary before
+proceeding further with this bulletin.
+If a customers VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –J08 FSAR-TSB-5022 -2-
+REPAIR PROCEDURE:
+WARNING!
+● Before performing the software reprogramming, it is necessary to make the vehicle safe.
+● When performing repairs that directly involve or imply possible contact with live high voltage
+components/systems, the technician must ensure that the power supply of the high-voltage system
+is disconnected throughout the operation.
+● Only specifically trained technicians qualified to perform repairs on vehicles with high voltage
+systems under current national laws/regulations are authorized to work on the vehicle.
+● Before performing any diagnostic repair work on the vehicle, carefully read and comply with
+the general instructions for working safely on hybrid/electric vehicles and use suitable general
+equipment and Personal Protective Equipment (PPE).
+● The vehicle must not be connected to a high voltage charger when performing software updates.
+NOTE: ● Install a 12 volt battery charger to ensure sufficient battery voltage which can also support
+50-60 amps during the flash process.
+● The remote battery posts (jump posts) under the hood may be used to connect a 12 volt
+battery charger to eliminate the need to remove the battery.
+● If this flash process is interrupted/aborted, the flash should be restarted.
+CAUTION!
+● **To lower the risk of failure modes prior to the flash update, do not open trunk, frunk or passenger
+door without first opening the driver door before performing this Repair Procedure. This process
+will not need to be performed after the flash update has been completed.
+● Minimize on-site vehicle movements and ignition cycles where possible before performing this
+Repair Procedure.**
+● If the vehicle has recently been driven, on a test drive for example, the vehicle needs to sit and cool
+down for one hour before performing this update. Failure to allow the vehicle to cool down may
+result in substantial consequential damage to occur. Pulling the vehicle into the bay does not justify
+the one hour cool down.
+1. Is the vehicle on the RSU VIN list?
+● YES >>> Proceed to Step 2 .
+● NO >>> Proceed to Step 3 .
+2. Does the BPCM, MCP A, MCP B and the EVCU have the latest software already installed?
+● YES >>> This bulletin has been completed, use inspect LOP **(18-19-17-AX)** to close the active RSU.
+● NO >>> Proceed to Step 3 .
+3. **Remove the front storage bin. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info> 23 - Body / Exterior / Bin, Storage / Removal.
+NOTE: The cooling fan must be disconnected to prevent it from powering on, which may interrupt/
+abort the flash process.-3- J08 FSAR-TSB-5022
+4. Disconnect the cooling fan wire harness connector Fig 1 **.
+Fig. 1
+Cooling Fan Assembly
+1 - Wire Harness To Disconnect/Connect
+5. Reprogram the BPCM to the latest available software.
+6. Clear DTCs.
+7. Are any of the following DTCs now active or pending in the BPCM?
+● P1614-00 - ECU Reset/Recovery Occurred.
+● P2D3A-00 - Forced Hybrid/EV System Shutdown.
+● U029A-00 - Lost Communication With Hybrid Battery Pack Sensor Module.
+● YES >>> Proceed to Step 8 .
+● NO >>> Proceed to Step 10 .
+8. If P1614  or P2D3A  are set, use the wiTECH and navigate to the BPCM "Misc Functions" and then select
+"BPCM Soft Reset". If U029A  is set, a six-minute sleep cycle will be needed to allow the code to go sleep.
+After doing the sleep cycle, turn the ignition ON, reconnect the micropod, clear the DTCs and then perform
+the "BPCM Soft Reset".
+NOTE: ● For the six-minute sleep cycle to be successful, the micropod must be disconnected
+and the ignition must be set to OFF prior to starting the sleep cycle. Additionally, all
+accessories, lights and electrical units must be turned off, and hood, trunk and all doors
+must be closed with no one inside the vehicle. During this sleep cycle, the vehicle may
+present IPC warnings, chimes and other DTCs.
+● If U00C6 or P1CDA are Active or Pending in the BPCM, no service action is required for
+these DTCs and there is no impact to the customer. Proceed to Step 9 .
+NOTE: ● If P0F00, P0F01, P0F02, P0F03, P0F04, P0F05, P0F06, P0F07, P0F08, P0F09, P0F0A,
+P0F0B or P0F0C are present in the BPCM proceed to Step 9 .
+● If a 12V reset is performed on the vehicle (12V replacement or disconnect), DTCs from
+the previous two bullets may appear. If this happens, no service action is required for
+these DTCs and there is no impact to the customer. Proceed to Step 9 .
+9. Clear DTCs.
+10. Reprogram the MCP A with the latest available software.
+11. Reprogram the MCP B with the latest available software.
+12. Reprogram the EVCU with the latest available software.J08 FSAR-TSB-5022 -4-
+13. Can the ignition be turned off?
+● YES >>> Proceed to Step 15 .
+● NO >>> Proceed to Stewp 14 .
+14. Disconnect the 12 volt battery charger and the 12 volt battery for 15 seconds.
+15. Clear DTCs.
+16. Is DTC P167B-00 - Controlled System Shutdown now active in the BPCM?
+● YES >>> Proceed to Step 17 .
+● NO >>> Proceed to Step 19 .
+17. Using wiTECH, perform a "Impact Event Fault Reset" routine. This routine is located in the ’Misc Functions’
+menu for the BPCM.
+18. Allow the vehicle to go to sleep. This will take approximately six minutes then proceed to Step 19 .
+NOTE: For the six-minute sleep cycle to be successful, the micropod must be disconnected
+and the ignition must be set to OFF prior to starting the sleep cycle. Additionally, all
+accessories, lights and electrical units must be turned off, and hood, trunk and all doors
+must be closed with no one inside the vehicle. During this sleep cycle, the vehicle may
+present IPC warnings, chimes and other DTCs.
+19. Is the vehicle equipped with Wheel End Disconnect (Sales Code DH4)?
+● YES >>> Proceed to Step 20 .
+● NO >>> Proceed to Step 21 .
+20. Using wiTECH, perform a "Wheel End Disconnect Position Learn" routine. This routine is located in
+the ’Misc Functions’ menu for the EVCU.
+NOTE: If the Wheel End Disconnect Position Learn routine is not successful, roll the vehicle
+slightly forward so that the wheel end disconnect actuators can align on the spline before
+attempting to perform the routine again.
+21. Clear any DTCs that may have been set in any modules due to reprogramming. The wiTECH application
+will automatically present all DTCs after the flash and allow them to be cleared.
+22. **Connect the cooling fan wire harness connector Fig 1 .
+23. Install the front storage bin. Refer to the detailed service procedures available in DealerCONNECT/
+ServiceLibrary under: Service Info> 23 - Body / Exterior / Bin, Storage / Installation.**
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-5- J08 FSAR-TSB-5022

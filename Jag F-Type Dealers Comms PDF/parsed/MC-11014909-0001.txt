@@ -1,0 +1,838 @@
+TECHNICAL INSTRUCTIONS 
+PAGE 1 OF 1
+CUSTOMER SATISFACTION PROGRAM 24B59
+CPR  ©  2025 FORD MOTOR COMPANY
+DEARBORN, MICHIGAN 48121
+02/2025
+CERTAIN 2023-2024 MODEL YEAR F-250-600, TRANSIT, EXPEDITION AND 
+NAVIGATOR VEHICLES — TRANSMISSION REPLACEMENT
+IMPORTANT! The Service Technician Specialty Training (STST) Competency 10 certification
+            requirement in the U.S. market only will be enforced starting with repair orders
+            opened on or after August 31, 2024. Field Service Action (FSA) repairs will reject
+           and the claim will not be paid if the repairing technician is not certified in STST
+            Competency 10 FSA. See Electronic Field Communication (EFC)15936 for more
+          details.
+NOTE: If you do not have the special service tools referenced in the Workshop Manual to perform the   
+  Field Service Action repair, please contact 1-800-ROTUNDA and choose option 3 to place an   
+  order.
+SERVICE PROCEDURE
+1. Remove the transmission. Follow Workshop Manual (WSM) procedures in Section 307-01.
+2. Carryout the transmission fluid cooler backflushing and cleaning. Follow WSM procedures in 
+     Section 307-02.
+3. Install the new transmission. Follow WSM procedures in Section 307-01.
+IMPORTANT NOTE: Federal law prohibits selling motor vehicle parts or components that are   
+            under safety, compliance, or emissions recall. Unless a part is requested
+            to be returned to Ford, all parts replaced under this FSA must be scrapped
+            in accordance with all applicable local, state and federal environmental   
+            protection and hazardous material regulations. Refer to the Parts Retention,   
+            Return, & Scrapping section of the FSA dealer bulletin for further information.
+  Copyright 2025 Ford Motor Company  
+ 
+Service Engineering Operations        Ford Motor Company  
+Customer Service Division         PO Box 1904  
+          Dearborn, Michigan 48121  
+ 
+February 18, 2025 
+TO: All U.S. Ford and Lincoln Dealers  
+SUBJECT:  Customer Satisfaction Program 24B59  
+Certain 2023 Model Year F-150 Super Duty, Expedition, Navigator , and Transit 
+Vehicles  
+Transmission  Replacement  
+PROGRAM TERMS  
+This program will be in effect through February 28, 2026 or a maximum of 60,000 miles, whichever 
+occurs first.  
+AFFECTED VEHICLES  
+Vehicle Model Year  Assembly Plant Build Date Range 
+Super Duty  2023 Kentucky Truck  May 2, 2023 through October 5, 2023 
+Expedition  2023 Kentucky Truck  May 8, 2023 through July 24, 2023  
+Navigator  2023 Kentucky Truck  May 1, 2023 
+Transit  2023 Kansas City  February  28, 2023 through September  25, 2023 
+U.S. population of affected vehicles: 9. Affected vehicles are identified in OASIS and FSA VIN Lists. 
+REASON FOR THIS PROGRAM  
+On the affected vehicles, a front select-fit shim is missing within the transmission. Over time, the 
+transmission shift quality performance may degrade and transmission shifts may become rough and jerky. If the issue progresses without repair, a powertrain wrench light may illuminate in the cluster. 
+SERVICE ACTION  
+Dealers are to replace the t ransmission. This service must be performed on all affected vehicles at no 
+charge to the vehicle owner. 
+To assist vehicle owners to have this repair completed when parts are available, dealers should:  
+• Arrange to pick up the owner’s vehicle and drive it to the dealership for repairs (rentals are authorized – see Rental Vehicles) . 
+o Re-deliver the owner’s vehicle after repairs have been completed.  
+  Copyright 2025 Ford Motor Company  • Pick-Up & Delivery, towing, and alternative transportation should be made available for all 
+customers. Refer to the Rental and Claiming sections for further details.  
+ESSENTIAL SPECIAL SERVICE TOOLS  
+If you do not have the special tools needed, please contact 1 -800 ROTUNDA and choose option 3 to 
+place an order to purchase. 
+OWNER NOTIFICATION MAILING SCHEDULE  
+Owner letters are expected to be mailed the week of February  24, 2025 or sooner. Dealers should 
+repair any affected vehicles that arrive at their dealerships, whether  or not the customer has received 
+a letter.  
+ATTACHMENTS  
+• Administrative Information 
+• Labor Allowances and Parts Ordering Information 
+• Technical In structions  
+• Mobile Service Repair Assessment  
+• Vehicle Pick -Up & Delivery Record 
+• Owner Notification Letters  
+QUESTIONS & ASSISTANCE  
+For questions and assistance, contact the Special Service Support Center (SSSC) via the SSSC Web 
+Contact Site. The SSSC Web Contact Site can be accessed through the Professional Technician System (PTS) website using the SSSC link listed at the bottom of the OASIS VIN report screen or listed under the SSSC tab. 
+  
+Customer Service Division 
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 1 of 5 
+Customer Satisfaction Program 24B59 
+MOBILE SERVICE REPAIR ASSESSMENT LEVEL  
+• All repairs in this program have the following assessment level: 
+ - Not a Mobile Service Repai r 
+OASIS ACTIVAT I ON  
+OASIS will be activated on February  18, 2025.  
+FSA VIN LIST S ACTIVAT ION  
+FSA VIN List s will be a vailable through https://web.fsavinlists.dealerconnection.com  on February  18, 
+2025.  Owner names and addresses will be available by March 3, 2025. 
+NOTE:  Yo ur FSA VIN L ists may contain owner names and addresses obtained from motor vehicle 
+registration records. The use of such motor vehicle registration data for any purpose other than in 
+connection with this program  is a violation of law in several states, provinces, and countries. 
+Accordingly, you must limit the use of this listing to the follow -up necessary to complete this service 
+action.  
+SOLD VEHICLES  
+• Owners of affected vehicles will be directed to dealers for repairs.  
+• Immediately contact any of your affected customers  whose vehicles are not on your VIN list  
+but are identified in OASIS. Give the customer a copy of the Owner Notification Letter (when 
+available) and schedule a service date. 
+• Correct other affected vehicles identified in OASIS which are brought to your dealership. 
+• Dealer s are to prioritize repairs of customer vehicles over repairs of new and used vehicle 
+inventory.  
+STOCK VEHICLES  
+• Correct all affected units in your new vehicle inventory before delivery.  
+• Use OASIS to identify any affected vehicles in your used vehicle inventory. 
+BRANDED / SALVAGED TITLE VEHICLES  
+Affected branded / salvaged title vehicles  are eligible for this service action . 
+OWNER REFUNDS   
+Refunds are not approved for this program.  
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 2 of 5 
+ 
+Customer Satisfaction Program 24B59 
+ 
+RENTAL VEHICLES   
+Dealers are pre-approved for up to 2 days for a rental vehicle. Follow Customer Loyalty Program 
+(CLP) guidelines for dollar amounts. Rentals will only be reimbursed for the day(s) the vehicle is at the 
+dealership for part replacement. Prior approval for more than 2 rental day(s) is required from the 
+Centralized Loaner Support Team. Contact the Centralized Loaner Support Team via the CRC Dealer 
+Portal for  consideration and approval if appropriate. 
+The CRC Dealer Portal Job Aid can be referenced at: 
+fmcdealer.dealerconnection.com/content/dam/fmcdealer/documents/parts_service/cust_sat/GCCT/Pa
+ges/FSALoanerProgram.pdf  
+ 
+TOWING  
+If towing is required, dealers are authorized to claim up to a maximum value of $250 to provide towing 
+services for this program. 
+FORD PICK -UP & DELI VERY 
+• Dealers participating in the Remote Experience Program: 
+o Refer to EFC16075, Announcing the 2025 Remote Experience Program for  additional 
+details.  
+• Dealers NOT participating in the 2025 Remote Experience Program: 
+o Dealers may claim one- half labor hour per repair for vehicle Pick-Up & Delivery 
+services.  
+o Dealers must retain a Vehicle Pick -Up & Delivery Record with the repair order 
+documentation. 
+LINCOLN PICK-UP & DELIVERY 
+• Owners of Lincoln vehicles within a 4 year / 50,000-mile warranty have the option of requesting Pick -Up & Delivery service, from their dealership. For details, reference EFC15921, 
+2025 Lincoln Pick -Up & Delivery Program Announcement. 
+• For Lincoln vehicles outside of 4 years / 50,000 -mile warranty, refer to refer to EFC16075, 
+Announcing the 2025 Remote Experience Program . 
+• Dealers NOT participating in the 2025 Remote Experience Program : 
+o For Lincoln vehicles outside of 4 years / 50,000 -mile warranty, see labor claiming table 
+below. 
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 3 of 5 
+Customer Satisfaction Program 24B59 
+ALTERNATIVE TRANSPORTATION 
+If a customer is unable or does not wish to rent a vehicle but still requires transportation, the rental 
+reimbursement allowance can be used for alternative transportation. Alternative transportation is approved for $100 per day for both Ford and Lincoln customers. The dollar -per-day  allowance can be 
+cumulative across multiple rides per day ( e.g., ride to work $20 and ride home $24). 
+• Alternative transportation reimbursement can be claimed for both short-term and long-term 
+scenarios.  
+• Any amount over  the cost-per-day  limits will be the customer’s responsibility.  
+• The customer will need to pay upfront and provide proof of payment to the dealer.  
+• Dealers will then need to submit for reimbursement following the Rental Vehicle Reimbursement Process and then refund the customer. 
+Examples of alternative transportation: 
+• Taxi 
+• Public Transportation - Subway, Train, or Bus  
+• Rideshare alternatives (Uber, Lyft, etc.)  
+ADDITIONAL REPAIR (LABOR TIME AND/OR PARTS)  
+Additional repairs identified as necessary to complete the FSA should be managed as follows:  
+• For related damage and access time requirements, refer to the Warranty and Policy Manual / 
+Section 6 – Ford & Lincoln Program Policies / General Information & Special Circumstances 
+for FSAs / Related Damage.  
+• For vehicles within new vehicle bumper -to-bumper warranty coverage, no SSSC approval is 
+required, although related damage must be on a separate repair line with the “Related Damage” radio button checked.  
+o Ford vehicles – 3 years or 36,000 miles  
+o Lincoln vehicles – 4 years or 50,000 miles  
+• For vehicles outside new vehicle bumper -to-bumper warranty coverage, submit an Approval 
+Request to the SSSC Web Contact Site before completing the repair.  
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 4 of 5 
+Customer Satisfaction Program 24B59 
+CLAIMS PREPARATION AND SUBMISSION  
+• Technician Competency Requirement:  The STST Competency 10 certification requirement 
+in the U.S. market only will be enforced starting with repair orders opened on or after August 
+31, 2024. FSA repairs will reject and the claim will not be paid if the repairing technician is not 
+certified in STST Competency 10 FSA. See EFC15936 for more details.  
+• Claim Entry : Enter claims using Dealer Management System (DMS) or One Warranty 
+Solution (OWS) online.  
+o When entering claims:  
+ Claim type 31: Field Service Action  
+ Sub Code: 24B59 
+ Customer Concern Code (CCC): P83 
+ Condition Code (CC): 39  
+ Causal Part Number: 7000, Quantity 0 
+o For additional claims preparation and submission information, refer to the Recall and Customer Satisfaction Program (CSP) Repairs in the OWS User Guide. 
+• Related Damage/Additional labor and/or parts: Must be claimed as Related Damage on a separate repair line from the FSA with the same claim type and subcode as described in Claim 
+Entry above. 
+IMPORTANT:  Click the Related Damage Indicator radio button.  
+• Rentals: For rental vehicle claiming, follow Customer Loyalty Program (CLP) guidelines for 
+dollar amounts. Enter the total amount of the rental expense under the Miscellaneous Expense 
+code RENTAL. 
+• Lincoln Pick-Up & Delivery: Claims for Lincoln Pick -Up & Delivery should be submitted on a 
+separate line from the FSA. Refer to EFC15921, 2025 Lincoln Pick -Up & Delivery Program 
+Announcement for details. 
+o For Lincoln vehicles outside of 4 years / 50,000 -mile warranty, refer to refer to EFC16075, 
+Announcing the 2025 Remote Experience Program . 
+o Dealers NOT participating in the 2025 Remote Experience Program  
+ For Lincoln vehicles outside of 4 years / 50,000 -mile warranty, see labor 
+claiming table below. 
+• Ford Pick-Up & Delivery:  
+o Dealers participating in the Remote Experience Program : 
+ Refer to EFC16075, Announcing the 2025 Remote Experience Program for additional details.  
+o Dealers NOT participating in the 2025 Remote Experience Program : 
+ Dealers may claim one- half labor hour per repair for vehicle Pick-Up & Delivery 
+services.  
+ Dealers must retain a Vehicle Pick -Up & Delivery Record with the repair order 
+documentation. 
+  
+  Copyright 202 5 Ford Motor Company  Administrative Information 
+Page 5 of 5 
+Customer Satisfaction Program 24B59 
+• Additional parts not listed in the parts section: Additional parts such as fasteners  and 
+fluids  may be submitted on the same repair line on which the FSA is claimed. Additional parts 
+totaling more than $ 450.00 requires prior approval from the SSSC.  
+• Parts Handling Allowance:  A parts handling allowance is being provided, unless otherwise 
+notified by the Company or as provided by state law, in addition to the dealer cost of the 
+transmission.  To claim the allowance, enter $330 .00 as HANDLG in the Misc. Expense area of 
+the claim form.  
+• Provision for Additional Parts Not Listed in the Parts Section Plus Locally Obtained 
+Supplies: Includes fasteners, fluids, thread locker, multi -purpose grease , etc. Submit on the 
+same line as the repair.  
+o Program Code: 24B59 
+o Misc. Expense: OTHER  
+o Misc. Expense: Claim up to $4 50.00 
+• Provision for Towing: Dealers are authorized to claim up to a maximum value of $250 to 
+provide towing services for completing this program. Submit on the same line as the repair.  
+o Program Code: 24B59 
+o Misc. Expense: TOW  
+o Misc. Expense: Claim up to $250.00  
+  
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 1 of 3 
+Customer Satisfaction Program 24B59 
+LABOR ALLOWANCES  
+Description Labor Operation Labor Time  
+Super Duty; 6.8L 10R100 4X4- Replace transmission and 
+flush cooler  MT24B59B M-time up to 
+6.9 Hours  
+Super Duty; 6.8L 10R100 4X2 – Replace transmission and 
+flush cooler  MT24B59C  M-time up to 
+5.9 Hours  
+Expedition 3.5L GTDI  4x4 - Replace transmission and flush 
+cooler  MT24B59D  M-time up to 
+8.0 Hours  
+Navigator; 3.5L GTDI  4x4 - Replace transmission and flush  
+cooler  MT24B59F M-time up to 
+8.3 Hours  
+Transit; 3.5L RWD - Replace transmission and flush  cooler  MT24B59G M-time up to 
+7.1 Hours  
+Transit; 3.5L AWD - Replace transmission and flush cooler  MT24B59H M-time up to 
+9.7 Hours  
+Transit , Without Lane Departure Warning - Additional Time 
+to Check and Correct Front Toe MT24B59I M-time up to 
+1.0 Hour  
+Transit With Lane Departure Warning: Additional Time to 
+Check and Correct Front Toe and Align LDW Camera 
+System  MT24B59J M-time up to 
+1.4 Hours  
+Transit With Running Boards - Additional Time to Remove 
+and Install Running Boards  MT24B59K M-time up to 
+0.3 Hours  
+Lincoln Vehicle Pick -Up & Delivery Allowance: Only 
+vehicles outside of Lincoln Pick-Up & Delivery  contract 
+coverage of 4 years/50,000 miles for dealers NOT 
+participating in the 2025 Remote Experience Program  
+NOTE:  This allowance is for dealer -performed vehicle Pick-
+Up & Delivery  for dealership repairs only. Can only be 
+claimed once, regardless of outstanding FSAs repaired. 24B59LL 0.5 Hours  
+Ford Vehicle Pic k-Up & Delivery Allowance:  
+This allowance is only for non-eligible 2025 Remote 
+Experience Program Dealers. 
+NOTE:  This allowance is for dealer -performed vehicle Pick -
+Up & Delivery for dealership repairs only. Can only be 
+claimed once, regardless of outstanding FSAs repaired. 24B59PP  0.5 Hours  
+ 
+ 
+ 
+    
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 2 of 3 
+Customer Satisfaction Program 24B59 
+Order the parts below through normal order processing channels:  
+ 
+Service Part 
+Number  Claim Quantity  Package 
+Order 
+Quantity  Number 
+in Package Description 
+PC3Z -7000-P 1 1 1 Transmission - Super Duty  
+NL1Z -7000 -B 1 1 1 Transmission – Expedition/Navigator  
+LK4Z-7000-C 1 1 1 Transmission – Transit  
+LK4Z -7000 -HA 1 1 1 Transmission - Transit  
+To guarantee the shortest delivery time, an emergency order for parts must be placed. 
+NOTE:  For additional required miscellaneous parts such as fasteners, fluids, gaskets, etc., enter the 
+vehicle identification number (VIN)  in Professional Technician System (PTS), refer to the correct 
+Workshop Manual (WSM) Section 307-01 for service procedures  and parts catalog for transmission 
+replacement. 
+DEALER PRICE   
+For the latest prices, refer to DOES II. 
+HANDLING ALLOWANCE  
+An allowance of $ 330.00 per repair is being provided unless otherwise notified by the Company or as 
+provided by state law, in addition to the dealer cost of the transmission. 
+PARTS RETENTION, RETURN, & SCRAPPING  
+Follow the provisions of the Warranty and Policy Manual, Section 1 - WARRANTY PARTS 
+RETENTION AND RETURN POLICIES. If a replaced part receives a scrap disposition, the part must be scrapped by  all applicable local, state, and federal environmental protection and hazardous 
+material regulations. Federal law prohibits selling motor vehicle parts or components that are under safety, compliance, or emissions recall.  
+EXCESS STOCK RETURN  
+The excess  stock returned for credit must have been purchased from Ford Customer Service Division 
+by Policy Procedure Bulletin 4000.  
+REPLACED FSA PARTS INSPECTION AND SIGN OFF  
+Effective March 1st, 2021,  all parts replaced as part of an FSA repair with a repair order open date of 
+March 1st, 2021, or later must be inspected and signed off on the repair order by a member of your 
+dealer’s  fixed operations management team or an employee the task has been delegated to. If the 
+task is to be delegated to a non-management employee, the employee needs to be someone other than the technician who completed the repair and needs to understand the importance of completing this task consistently and accurately.  
+• All parts replaced as part of an FSA repair should be returned to the parts department following the Warranty Parts Retention and Return Policies.  
+• Inspect the replaced parts to verify the FSA repair was completed. 
+ 
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 3 of 3 
+Customer Satisfaction Program 24B59 
+• If the FSA repair is found to be complete, the designated employee signs the repair order line 
+or parts return stamp area (electronic or hand signed) for the FSA repair indicating the parts were inspected and validated to have been replaced. 
+• After the parts have been inspected, they should be handled based on the guidance in the parts status report in the Online Warranty System (Hold, Return, CORE, Scrap, etc.). Please 
+visit FMCDEALER > PARTS & SERVICE > WARRANTY ADMINISTRATION & WARRANTY 
+PARTS RETURN for the latest Immediate Scrap List
+ information.  
+• This process is subject to review during warranty audits for FSA repairs with a repair order open date of March 1
+st, 2021, or later. Any eligible FSA claims requiring parts replacement 
+found not to have been inspected and signed off during a warranty audit will be subject to chargeback and consideration for enrollment into the Dealer Incomplete Recall Repair Process.  
+Note : Other approvals (electronic or handwritten) for add-on repair lines, dealer -owned vehicle 
+repairs, and repeat repairs do not qualify as FSA parts inspection approvals. The post-repair  FSA 
+parts inspection process (electronic or handwritten) is independent of other warranty approval 
+requirements. The approval by the designated employee implies that the FSA parts were found to be replaced and must be able to be identified on the Repair Order. If multiple FSAs require approval on a 
+single Repair Order, each applicable occurrence will require individual post -repair  approval by the 
+designated employee. 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B59 
+ Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345 
+ 12345678901234567  El compromiso de Ford Motor Company no es solo fabricar productos confiables y de alta calidad, 
+sino que también lograr la plena satisfacción del cliente. Para demostrar este compromiso, estamos  
+proporcionando un programa de satisfacción del cliente sin cargo para su vehículo.  
+ 
+¿Por qué recibe este 
+aviso? En su vehículo, es posible que falte una cuña de ajuste selectivo delantera 
+en la transmisión.  
+  
+¿Cuál es el efecto?  Con el tiempo, la falta de una cuña de ajuste selectivo delantero puede 
+provocar una degradación de la calidad del cambio de la transmisión. Los 
+cambios de transmisión pueden volverse ásperos y bruscos. Si el problema 
+continúa sin reparación, es posible que se encienda una luz de llave del tren 
+motriz en el tablero.  
+  
+¿Qué medidas 
+adoptarán Ford y su concesionario? Las piezas para reparar su vehículo ya se encuentran disponibles.  
+Confirme la disponibilidad de piezas con el concesionario al programar una 
+cita. P ara satisfacer a nuestros clientes, Ford Motor Company ha autorizado 
+a su concesionario a reemplazar la transmisión sin costo alguno, conforme a 
+los términos de este programa.  
+Este Programa de satisfacción del cliente tendrá vigencia hasta el 28 de febrero de 2026 o 60,000 millas, lo que se cumpla primero. La cobertura se transfiere automáticamente a los siguientes propietarios.  
+  
+¿Cuánto tiempo 
+tomará?  El tiempo necesario para esta reparación es menos de un día y medio. Sin 
+embargo, debido a los requisitos de planificación de servicio, es posible que 
+su concesionario tarde un poco más.  
+  
+ Copyright 2025 Ford Motor Company  ¿Qué debe hacer?  
+ Llame a su concesionario lo antes posible para que programe una cita de 
+servicio para realizar el Programa de satisfacción del cliente 24B59. 
+Si aún no tiene un concesionario para realizar el servicio, puede acceder a 
+ford.com/support  para conocer las direcciones de los concesionarios, ver 
+mapas y obtener las instrucciones para llegar.  
+Ford Motor Company le recomienda realizar esta acción de servicio en su vehículo. El propietario del vehículo es responsable de realizar los arreglos para llevar a cabo el trabajo. 
+NOTA: Puede recibir información sobre las campañas y los programas de 
+satisfacción del cliente a través de la aplicación FordPass. La aplicación se puede descargar a través de App Store o Google Play. Adicionalmente, 
+existen otras funciones como reserva de estacionamientos en determinados 
+lugares, además de control de ciertas funciones en el vehículo (bloqueo o 
+desbloqueo de puertas, arranque remoto) si así está equipado para permitir 
+el control.  
+  
+Servicio de retiro y 
+entrega El servicio complementario de retiro y entrega de vehículos también podría 
+estar disponible previa solicitud a través de los concesionarios que 
+participan. Su concesionario retirará el vehículo y lo regresará con la 
+reparación realizada.  
+  
+¿Necesita un vehículo 
+de alquiler? Su concesionario está autorizado a ofrecerle un vehículo de alquiler para su 
+transporte personal sin costo (excepto el combustible, el seguro y los impuestos) mientras su vehículo se encuentre en reparación. Comuníquese con su concesionario para conocer las pautas y limitaciones. 
+  
+¿Qué pasa si ya no es 
+el propietario del vehículo? Si ya no es el propietario del vehículo y tiene la dirección del propietario 
+actual, le solicitamos que le reenvíe esta carta.  
+Este aviso lo recibió porque en nuestros archivos, basados principalmente en datos de registro y propiedad de los EE. UU., aparece como el 
+propietario actual.  
+  
+¿Podemos hacer algo 
+más por usted? 
+ 
+ 
+ 
+    
+ 
+    Si tiene problemas para reparar su vehículo de inmediato y sin costo alguno, 
+comuníquese con el gerente de servicio de su concesionario para solicitar 
+ayuda.  
+PROPIETARIOS MINORISTAS: Si tiene dudas o preguntas, comuníquese 
+con nuestro Centro de Relación con Clientes (CRC) Ford al 1-866-436-
+7332 y uno de nuestros representantes con gusto lo atenderá. El CRC está 
+abierto de lunes a viernes de 8:30 a. m. a 7:00 p. m. (hora del este). Si es 
+usuario de TTY/TDD, comuníquese con el CRC al número que se 
+menciona, mediante el servicio de retransmisión de telecomunicaciones, 
+para esto, marque el 711. 
+Si desea comunicarse con nosotros a través de Internet, nuestra dirección es ford.com/support
+. 
+ Copyright 2025 Ford Motor Company  ¿Podemos hacer algo 
+más por usted? 
+(continuación) PROPIETARIOS DE FLOTAS : Si tiene dudas o preguntas, comuníquese 
+con nuestro Centro de contacto de Ford Pro al 1-800-34-FLEET , elija la 
+opción n.°  1 y uno de nuestros representantes con gusto lo atenderá. Si 
+desea comunicarse con nosotros a través de Internet, nuestra dirección es 
+fleet.ford.com . 
+Los representantes atienden de lunes a viernes, de 7:00 a.m. a 11:00 p.m. y 
+sábado de 7:00 a.m. a 5:00 p.m. (hora del este).  
+PROPIETARIOS DE CASAS RODANTES:  Si tiene dudas o preguntas, 
+comuníquese con nuestro Centro de Asistencia a Clientes de Casas Rodantes sin cargo al 1-866-906-9811. Los representantes se encuentran disponibles las 24 horas del día.  
+Gracias por su atención en este asunto sumamente importante. 
+División de Servicio al Cliente 
+ 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February 2025 
+Customer Satisfaction Program 24B59 
+ 
+Mr. John Sample 
+123 Main Street 
+Anywhere, USA 12345  
+ 
+12345678901234567 
+ At Ford Motor Company, we are committed not only to building high-quality , dependable products but 
+also to building a community of happy, satisfied customers. To demonstrate that commitment, we are 
+providing a no-charge Customer Satisfaction Program for your vehicle.  
+ 
+Why are you receiving 
+this notice? On your vehicle, it may be possible a front select -fit shim is missing within 
+the transmission.  
+  
+What is the effect ? Over time, a missing front select -shift shim may lead to degradation of 
+transmission shift quality. Transmission shifts may become rough and jerky. 
+If the issue progresses without repair, a powertrain wrench light may illuminate in the cluster.  
+  
+What will Ford and 
+your dealer do? Parts  are now available to repair your vehicle . Please confirm parts 
+availability with your dealer when scheduling an appointment. I n the interest 
+of customer satisfaction, Ford Motor Company has authorized your dealer to replace your transmission free of charge under the terms of this program. 
+This Customer Satisfaction Program will be in effect until February 28, 2026 
+or 60,000 miles, whichever occurs first. Coverage is automatically 
+transferred to subsequent owners. 
+  
+How long will it take?   The time needed for this repair is less than one and one-half days. However, 
+due to service scheduling requirements, your dealer may need your vehicle 
+for a longer period of time.  
+  
+What should you do?  
+ 
+ 
+ 
+   Please call your dealer without delay to schedule a service appointment for 
+Customer Satisfaction Program 24B59.  
+If you do not already have a servicing dealer, you can access 
+ford.com/support for dealer addresses, maps, and driving instructions.  
+Ford Motor Company wants you to have this service action completed on your vehicle. The vehicle owner is responsible for making arrangements to 
+have the work completed. 
+ Copyright 202 5 Ford Motor Company  What should you do?  
+(continued)  NOTE - You can receive information about Recalls and Customer 
+Satisfaction Programs through our FordPass App. The app can be 
+downloaded through the App Store or Google Play. In addition,  there are 
+other features such as reserving parking in certain locations and controlling 
+certain functions on your vehicle (lock or unlock doors, remote start) if it is 
+equipped to allow control. 
+  
+Pick-Up and Delivery  Complimentary vehicle Pick -Up & Delivery service may also be available 
+upon request through participating dealers. Your dealer will pick up your 
+vehicle and return it with the repair completed. 
+  
+Do you need a rental 
+vehicle? Your dealer is authorized to provide a rental vehicle for your personal 
+transportation at no charge (except for fuel, insurance, and tax) while your 
+vehicle is at the dealership for repairs. Please see your dealer for guidelines 
+and limitations. 
+  
+What if you no longer 
+own this vehicle? If you no longer own this vehicle and have an address for the current owner, 
+please forward this letter to the new owner. 
+You received this notice because our records, which are based primarily on 
+state registration and title data, indicate that you are the current owner. 
+  
+Can we assist you 
+further?  
+ If you have difficulties getting your vehicle repaired promptly and without 
+charge, please contact your dealership’s Service Manager for assistance.  
+RETAIL OWNERS :  If you have questions or concerns, please contact our 
+Ford Customer Relationship Center (CRC) at 1-866-436-7332 and one of 
+our representatives will be happy to assist you.  The CRC is open on weekdays from 8:30 AM – 7:00 PM  (Eastern Time).  TTY/TDD users, please 
+contact the CRC at the number listed using the Telecommunication Relay Service by dialing 711.  
+If you wish to contact us through the internet, our address is 
+ford.com/support.  
+FLEET OWNERS: If you have questions or concerns, please contact our 
+Ford Pro Contact  Center at 1-800-34-FLEET , choose Option #1 , and one 
+of our representatives will be happy to assist you. If you wish to contact us through the Internet, our address is fleet.f ord.com . 
+Representatives are available Monday through Friday: 7:00 AM  – 11:00 PM  
+and Saturday 7:00 AM  – 5:00 PM  (Eastern Time). 
+MOTORHOME OWNERS : If you have questions or concerns, please 
+contact our Motorhome Customer Assistance Center toll- free at 
+1-866-906-9811. Representatives are available 24 hours a day . 
+Thank you for your attention to this important matter. 
+Customer Service Division 
+ 
+ Copyright 2025 Lincoln – Una marca de Ford Motor Company   
+Lincoln  
+PO Box 1904  
+Dearborn, Michigan 48121  
+ Febrero 2025 
+Programa de satisfacción del cliente 24B59 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345 
+ 
+12345678901234567 
+ 
+En Lincoln, nuestro compromiso no es solo fabricar productos confiables y de alta calidad, sino también lograr la plena satisfacción del cliente. Para demostrar este compromiso, le ofrecemos el Programa de satisfacción del cliente sin costo alguno para su vehículo.  
+ 
+¿Por qué recibe este 
+aviso? En su vehículo, es posible que falte una cuña de ajuste selectivo delantera 
+en la transmisión.  
+  
+¿Cuál es el efecto?  Con el tiempo, la falta de una cuña de ajuste selectivo delantero puede 
+provocar una degradación de la calidad del cambio de la transmisión. Los cambios de transmisión pueden volverse ásperos y bruscos. Si el problema 
+continúa sin reparación, es posible que se encienda una luz de llave del tren 
+motriz en el tablero.  
+  
+¿Qué harán Lincoln y 
+su minorista?  
+ 
+ 
+ Las piezas para reparar su vehículo ya se encuentran disponibles.  
+Confirme la disponibilidad de piezas con el minorista al programar una cita. 
+Para satisfacer a nuestros clientes, Lincoln ha autorizado a su minorista a 
+reemplazar la transmisión sin costo alguno, conforme a los términos de este 
+programa.  
+Este Programa de satisfacción del cliente tendrá vigencia hasta el 28 de febrero de 2026 o 60,000 millas, lo que se cumpla primero. La cobertura se transfiere automáticamente a los siguientes propietarios.  
+  
+¿Cuánto tiempo 
+tomará?  El tiempo necesario para esta reparación es menos de un día y medio . Sin 
+embargo, debido a los requisitos de planificación de servicio, es posible que su minorista tarde un poco más. 
+  
+
+ Copyright 2025 Lincoln – Una marca de Ford Motor Company  ¿Qué debe hacer?  
+ Llame a su minorista lo antes posible para que programe una cita de 
+servicio para realizar el Programa de satisfacción del cliente 24B59. 
+Si aún no tiene un minorista para realizar el servicio, puede acceder a 
+Lincoln.com/support  para conocer las direcciones de los minoristas, ver 
+mapas y obtener las instrucciones para llegar.  
+Lincoln le recomienda realizar esta acción de servicio en su vehículo. El propietario del vehículo es responsable de realizar los arreglos para llevar a cabo el trabajo. 
+NOTA: Puede recibir información sobre las campañas y los programas de 
+satisfacción del cliente a través de la aplicación The Lincoln Way: Lincoln 
+Owner. La aplicación se puede descargar a través de App Store o 
+Google Play. Adicionalmente, existen otras características, como control de 
+ciertas funciones en el vehículo (bloqueo o desbloqueo de puertas, arranque remoto) si está equipado para permitir el control.  
+  
+Servicio de retiro y 
+entrega El servicio complementario de retiro y entrega de vehículos también puede 
+estar disponible previa solicitud a su minorista. El minorista retirará su 
+vehículo y lo devolverá con la reparación completa. 
+  
+¿Necesita un vehículo 
+de alquiler? Su minorista está autorizado a ofrecerle un vehículo de alquiler para su 
+transporte personal sin costo (excepto combustible, seguro y peajes) mientras su vehículo se encuentre en reparación. Comuníquese con su minorista para conocer las pautas y limitaciones.  
+  
+¿Qué pasa si ya no es 
+el propietario del vehículo? Si usted ya no es el propietario del vehículo y tiene la dirección del 
+propietario actual, le solicitamos que le reenvíe esta carta.  
+Este aviso lo recibió porque en nuestros archivos, basados principalmente en datos de registro y propiedad de los EE. UU., aparece usted como el 
+propietario actual.  
+  
+¿Podemos hacer algo 
+más por usted? 
+ 
+ 
+ 
+     
+ 
+    Si tiene problemas para reparar su vehículo de inmediato y sin costo alguno, 
+comuníquese con el gerente de servicio de su concesionario para solicitar 
+ayuda.  
+PROPIETARIOS MINORISTAS: Si tiene dudas o preguntas, comuníquese 
+con nuestro Centro de Relación con Clientes (CRC) Ford al 1-866-436-
+7332 y uno de nuestros representantes con gusto lo atenderá. El CRC está 
+abierto de lunes a viernes de 8:30 a. m. a 7:00 p. m. (hora del este). Si es 
+usuario de TTY/TDD, comuníquese con el CRC al número que se 
+menciona, mediante el servicio de retransmisión de telecomunicaciones, 
+para esto, marque el 711. 
+ Copyright 2025 Lincoln – Una marca de Ford Motor Company  ¿Podemos hacer algo 
+más por usted? 
+(continuación) Si desea comunicarse con nosotros a través de Internet, nuestra dirección 
+es lincoln.com/support . 
+PROPIETARIOS DE FLOTAS: Si tiene dudas o preguntas, comuníquese 
+con nuestro Centro de contacto de Ford Pro al 1-800-34-FLEET , elija la 
+opción n.°  1 y uno de nuestros representantes con gusto lo atenderá. Si 
+desea comunicarse con nosotros a través de Internet, nuestra dirección es 
+fleet.ford.com . 
+Los representantes atienden de lunes a viernes, de 7:00 a.m. a 11:00 p.m. y 
+sábado de 7:00 a.m. a 5:00 p.m. (hora del este).  
+Gracias por su atención en este asunto sumamente importante. 
+Lincoln  
+ Copyright 202 5 Lincoln – A Ford Motor Company Brand   
+Lincoln  
+PO Box 1904  
+Dearborn, Michigan 48121  
+ February 2025 
+Customer Satisfaction Program 24B59 
+ 
+Mr. John Sample 
+123 Main Street 
+Anywhere, USA 12345  
+ 12345678901234567 
+ 
+At Lincoln, we are committed not only to building high-quality , dependable products but also to 
+building a community of happy, satisfied customers. To demonstrate that commitment, we are 
+providing a no-charge Customer Satisfaction Program for your vehicle.  
+ 
+Why are you receiving 
+this notice? On your vehicle, it may be possible a front select -fit shim is missing within 
+the transmission.  
+  
+What is the effect ? Over time, a missing front select -shift shim may lead to degradation of 
+transmission shift quality. Transmission shifts may become rough and jerky. 
+If the issue progresses without repair, a powertrain wrench light may 
+illuminate in the cluster.  
+  
+What will Lincoln  and 
+your retailer  do?  
+ 
+  Parts are now available to repair your vehicle . Please confirm parts 
+availability with your retailer  when scheduling an appointment. I n the interest 
+of customer satisfaction, Lincoln has authorized your retailer  to replace your 
+transmission free of charge under the terms of this program. 
+This Customer Satisfaction Program will be in effect until February 28, 2026 
+or 60,000 miles, whichever occurs first. Coverage is automatically 
+transferred to subsequent owners. 
+  
+How long will it take?   The time needed for this repair is less than one and one -half days. However, 
+due to service scheduling requirements, your retailer  may need your vehicle 
+for a longer period of time. 
+  
+What should you do?  
+ 
+   
+ 
+ 
+ Please call your retailer  without delay to schedule a service appointment  for 
+Customer Satisfaction Program 24B59. 
+If you do not already have a servicing retailer , you can access 
+Lincoln.com/support for retailer  addresses, maps, and driving instructions.  
+Lincoln wants you to have this service action completed on your vehicle. The 
+vehicle owner is responsible for making arrangements to have the work 
+completed. 
+NOTE:  You can receive information about Recalls and Customer 
+Satisfaction P rograms through The Lincoln Way : Lincoln Owner App.  The 
+
+ Copyright 202 5 Lincoln – A Ford Motor Company Brand  What should you do?  
+(continued)  app can be downloaded through the App Store or Google Play.  In addition , 
+there are other features such as controlling certain functions on your vehicle 
+(lock or unlock doors, remote start) if it is equipped to allow control. 
+  
+Pick-Up and Delivery  Complimentary vehicle Pick -Up & Delivery service may also be available 
+upon request from your retailer Your retailer will pick up your vehicle and 
+return it with the repair completed. 
+  
+Do you need a rental 
+vehicle? Your retailer  is authorized to provide a rental vehicle for your personal 
+transportation at no charge (except for fuel, insurance, and tolls ) while your 
+vehicle is at the retailer  for repairs. Please see your retailer  for guidelines 
+and limitations. 
+  
+What if you no longer 
+own this vehicle? If you no longer own this vehicle and have an address for the current owner, 
+please forward this letter to the new owner.  
+You received this notice because our records, which are based primarily on state registration and title data, indicate you are the current owner.  
+  
+Can we assist you 
+further?  If you have difficulties getting your vehicle repaired promptly and without 
+charge, please contact your dealership’s Service Manager for assistance.  
+RETAIL OWNERS : If you have questions or concerns, please contact our 
+Ford Customer Relationship Center (CRC) at 1-866-436-7332 and one of 
+our representatives will be happy to assist you. The CRC is open on 
+weekdays from 8:30 AM – 7:00 PM  (Eastern Time). TTY/TDD users, please 
+contact the CRC at the number listed using the Telecommunication Relay 
+Service by dialing 711.  
+If you wish to contact us through the internet, our address is 
+lincoln .com/support.  
+FLEET OWNERS: If you have questions or concerns, please contact our 
+Ford Pro Contact  Center at 1-800-34-FLEET , choose Option #1 , and one 
+of our representatives will be happy to assist you. If you wish to contact us 
+through the Internet, our address is fleet.f ord.com . 
+Representatives are available Monday through Friday: 7:00 AM  – 11:00 PM 
+and Saturday 7:00 AM –  5:00 PM  (Eastern Time). 
+Thank you for your attention to this important matter. 
+Lincoln  
+Mobile Service Repair Assessment  
+Page | 1 
+Customer Satisfaction Program 24B59 
+Certain 2023 Model Year F-150 Super Duty, Expedition, Navigator, and Transit Vehicles  
+Transmission Replacement 
+ Copyright 2025 Ford Motor Company  
+ 
+  
+Mobile Service Repair Assessment  
+ 
+Assessment levels have been identified to help determine the ease of performing eligible mobile 
+service repairs for a Field Service Action (FSA) outside of the  dealership  service facility.  
+ 
+Dealer Bulletin Within the Administrative Information Attachment of the dealer bulletin a mobile service repair 
+assessment level(s) will be provided. These assessment levels have been determined using the amount of time, equipment and labor identified to perform the intended service action.  Assessment Levels 
+- Mobile Reprogramming (MRA1)  
+- Light Mobile Service (MRA2)  
+- Enhanced Mobile Service (MRA3) 
+- Advanced Mobile Service (MRA4) 
+- Not a Mobile Service Repair  (MRA5)  
+ - Wheel and Tire Mobile Service (MRA6)  
+- Advanced Driver Assistance System (ADAS) Mobile Repair  (MRA7) 
+  Description of each level that is used to determine the overall assessment . 
+ – Mobile Reprogramming (MRA1) 
+• Module Programming or similar type service s 
+• Minimum tools maybe required other than an IDS/FDRS  setup 
+• FDRS programming that requires internet connection ( Wi-F i or mobile hotspot)  
+• Make sure vehicle has a charge port to ensure battery voltage is maintained during flashing of the module(s)   
+• Repairs not greater than 1 hour  in length (including time to wait for programming)  
+Note: The location will need a charging station or wall box to maintain the 12-volt battery .  
+ 
+ – Light Mobile Service (MRA2)  
+• Interior repair procedures that do not require seat, dash, or headliner removal  
+• Under hood repairs that do not require large component removal  
+• Exterior repairs that do not require large component/panel  removal  
+• Repairs may require standard hand tools (Access to a Technician starter kit or similar)  
+  
+
+Mobile Service Repair Assessment  
+Page | 2 
+Customer Satisfaction Program 24B59 
+Certain 2023 Model Year F-150 Super Duty, Expedition, Navigator, and Transit Vehicles  
+Transmission Replacement 
+ Copyright 2025 Ford Motor Company  
+ 
+  
+ – Enhanced Mobile Service (MRA3) 
+• A two -person process is required anytime a procedure requires work under the 
+vehicle 
+• Brake Inspection and Brake Repair/Replacement 
+• Limited Suspension Component replacement (no alignment)  
+• Under Vehicle access for limited repairs (no large component removal)  
+• Vehicle Check Up - VCU  
+• Pre-Delivery Inspection - PDI 
+• Used Car Inspection/Presale Inspection 
+• May require floor jack, jack stands, and impact tools  
+Note: Wheel lock may  be required.  
+ 
+ – Advanced Mobile Service (MRA4) 
+• Fluid Exchange/Oil Change  
+• Light Repairs  
+• Brake Hydraulic Repairs  
+ 
+ – Not a Mobile Service Repair  (MRA5) 
+1. Large component removal 
+2. BEV Battery Replacement  
+3. Requires a vehicle hoist  – to complete the repair (more than inspection)  
+4. Required vehicle alignment 
+5. Requires significant vehicle disassembly  
+6. Repairs greater tha n 2-3 hours  
+7. Any repairs that require M-Time  
+8. Includes a service procedure where the vehicle owner may be distressed about the state 
+of their vehicle.  
+ – Wheel and Tire Mobile Service (MRA6)  
+• Tire Removal from Wheel  
+• Tire Balancing 
+• Tire Repair 
+Note: Specialized Mobile Service unit and equipment including Tire balancer and Tire 
+Changer required.  
+– Advanced Driver Assistance System ( ADAS) Mobile Repair  (MRA7) 
+• Requires the uses of a ADAS Mobile Service Kit. 
+• May require a post repair test drive.  
+o Parking Lot Maneuvers  to capture parking lines for camera alignment. 
+o Steady speed cruising (45 MPH). 
+• The vehicle service location will have to be validated before scheduling an 
+appointment to determine if a mobile repair is appropriate. 
+ 
+
+ Copyright 2025  Ford Motor Company  
+ 
+ 24B59  
+Vehicle Pick- Up and Delivery Record  
+ 
+VIN ____________________________ received (check one):  
+☐ Pick-up and/or delivery service  
+As outlined below for the 24B59 Field Service Action program . 
+ 
+☐ Pick-up           – Date: _______________  
+ 
+☐ Delivery          –  Date: _______________  
+ 
+   
+Repair Order #  Repair Order Date  
+   
+Service Manager Signature Date  
+ 
+ 
+ 

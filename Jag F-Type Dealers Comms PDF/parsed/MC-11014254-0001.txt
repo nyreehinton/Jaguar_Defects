@@ -1,0 +1,55 @@
+ 
+48 V battery G1/3 with P0A7F00 - The age limit of the
+hybrid/high-voltage battery module has been reached
+Topic number LI54.10-P-078888
+Version 2
+Function group 54.10 - Battery, power supply, voltage converter
+Date 2/10/25
+Validity Model series 177, 118, 247 with equipment code B01
+Reason for change Complaint clarification
+Complaint
+The check engine light illuminates or the 48 V message is displayed in the instrument cluster
+Cause
+Fault code "P0A7F00" stored in the 48 V battery G1/3 and/or is current.
+Remedy
+Perform guided test for fault code "P0A7F00".
+Important! To ensure a bus idle of 90 minutes is achieved, the vehicle should be locked and the key placed a mini-
+mum of 30 feet from the vehicle)
+See SI82.85-P-0046A
+Attachments
+File Description
+si8285p0046a.pdf
+WIS-References
+Document number Title Note
+SI82.85-P-0046A Service Information: Restricting Re-
+mote Functions for maintenance and
+repair work
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+12.02.2025   17:48   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Overall vehicle  > Power supply  > Battery/On-board electrical system  > Battery/on-board electrical system display
+message  > Battery/Alternator - Serviced Required
+Overall vehicle  > Power supply  > High-voltage on-board electrical system  > High-voltage battery  > Display message
+Control unit/fault code
+Control unit Fault text
+G1/3 - 48-V on-board electrical system battery (48 V LIB)
+(LIB48_177PT4)P0A7F00  - The state of health limit of the hybrid/high-vol-
+tage battery module has been reached. _
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+540HY
+12.02.2025   17:48   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

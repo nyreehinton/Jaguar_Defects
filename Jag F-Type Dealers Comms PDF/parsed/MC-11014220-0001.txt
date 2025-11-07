@@ -1,0 +1,522 @@
+L-SB-0021 -23 Rev2  March 15, 2023  
+ 
+Replacement ECU Software Configure Process  
+Service 
+Category  General   
+ Section    Outline -General  Market   USA and Mexico  
+  
+  © 2025 Lexus,  a division of Toyota Motor Sales, USA  Page 1 of 25 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2024 - 2025  GX550, RX450H+, RZ300E, 
+TX350, TX500H, TX550H+   
+2022 - 2025  LX600, NX250, NX350, 
+NX350H, NX450H+   
+2025  LX700H   
+2023 - 2025  RX350, RX350H, RX500H, 
+RZ450E   
+ 
+ 
+  REVISION NOTICE  
+January 30 , 2025 Rev2: 
+ Applicability  has been  updated  to include 2025 model year GX 550, LX 600, LX 700h, NX 250,  
+NX 350,  NX 350h, NX 450h+, RX 350, RX 350h, RX 450h+, RX 500h, RZ 300e, RZ 450e, TX 350,  
+TX 500h, and TX 550h+  vehicles . 
+ The Introduction section has been updated . 
+April  18, 2024 Rev1:  
+ Applicability  has been  updated  to include 2024 model year GX 550, LX 600, NX 250, NX 350,  
+NX 350h, NX 450h +, RX 350, RX 350h, RX 450h+, RX 500h, RZ 300e, RZ 450e, TX 350, TX 500 h, 
+and TX 550h+  vehicles . 
+ The Introduction section has been updated . 
+ The Operation Procedure  section has been removed.  
+ The Standard ECU Configuration Procedure and ECU Configuration Value Writing Procedure 
+sections have been added.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 2 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction  
+Some  2022 – 2025 model year Lexus vehicles  may require the download and installation of  
+vehicle specific software or configuration software when the Electronic Control Unit  (ECU ) is 
+replaced. GTS+  software has been modified to indicate when configuration software is required. A  
+new Configure  column has been  added to the GTS+  Health Check Resu lts screen to show when 
+configuration software is available for a specific ECU.  
+ 
+Follow the Operation Procedure  in this bulletin to complete the ECU Software Configure Process.  
+Certain ECU replacements require CUW reprogramming (Standard ECU Configuration ) while  
+others may only require C -Best Writing (ECU Configuration Value Writing). Please select the  
+appropriate procedure below, depending on the ECU replaced.  
+ Procedure A: Standard ECU Configuration (CUW Reprogramming)  
+ Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  
+ 
+ 
+Refer to the applicability chart below for a list of Models and ECUs that will require configuration  
+software when the specified ECU is replaced:  
+YEAR(S)  MODEL(S)  ECU(S) REQUIRING CONFIGURATION SOFTWARE  
+2022 – 2023  LX 600  Airbag / ANC / Body / Brake / ECT / EMPS  
+NX 250 / NX 350 / NX 350 h / NX 450h+  4WD / Airbag / ANC / Body / Brake /  
+EMPS  / Engine  
+2023  RX 350 / RX 350h / RX 500h  4WD / Absorber Control / Airbag /  
+ANC / Blindspot / Body  / Engine  / EMPS / 
+EMPS Rear / Front Side Radar / HV 
+RZ 450e  Airbag / Blindspot / Body / EMPS /  
+EV / Front Side Radar  
+2024  LX 600  Airbag / ANC / Body / Brake / ECT /  
+EMPS / TCM  
+NX 250 / NX 350 / NX 350h  4WD / Airbag /  ANC / Body / Brake / EMPS / 
+Engine / Absorber Control / ECM / ANC  
+NX 450h+  Brake / Airbag / Absorber Control /  
+EMPS / Body  
+RX 350 / RX 350h / RX 450h / RX 500h  4WD / Absorber Control / Airbag / ANC / 
+Blindspot / Body / Engine / EMPS / EMPS 
+Rear / Front Side Radar / HV / Inverter / TCM / 
+Absorber Control  
+TX 350 / TX 500h / TX 550h+  ECM /  HV / Inverter /  TCM  / 4WD /  
+Absorber Control /  EMPS /  ANC / Body  / 
+Airbag  / Front Side Radar  
+GX 550  ECM / TCM / Front Side Radar / Absorber 
+Control / Airbag / EMPS / ANC /  
+Blindspot / Body  
+RZ 300e / RZ 450e  HV / Inverter / Airbag / EMPS / Blindspot / 
+Body / Front Side Radar  
+   
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 3 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction (continued)  
+YEAR(S)  MODEL(S)  ECU(S) REQUIRING CONFIGURATION SOFTWARE  
+2025  LX600 / LX700h  ECM / HV / TCM / Front Side Radar / 
+Absorber Control / Brake / Airbag / EMPS / 
+ANC / Blindspot / Body  
+NX250 / NX350 / NX350h  Brake / Airbag / Absorber Control / EMPS / 
+Body / ECM / 4WD / ANC  
+NX450h+  Brake / Airbag / Absorber Control /  
+EMPS / Body  
+RX350 / RX350h / RX450h / RX500h  ECM / HV / Inverter / 4WD / Airbag / Absorber 
+Control / EMPS / ANC / Blindspot / Body / 
+Front Side Radar  
+TX350 / TX500h / TX550h+  ECM / HV / Inverter / 4WD / Absorber Control / 
+EMPS / ANC / Blindspot / Body / Airbag /  
+Front Side Radar  
+GX 550  ECM / TCM / Front Side Radar / Absorber 
+Control / Airbag / EMPS / ANC /  
+Blindspot / Body  
+RZ300e / RZ450e  EV Control / Inverter / Airbag / EMPS / 
+Blindspot / Body / Front Side Radar  
+ 
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ECU is a Lexus  term used to describe integrated computerized devices responsible for managing the 
+operation of a system or subsystem. In this bulletin , ECU is used as a generic label for the following  
+SAE J1930 standard references:  
+ Powertrain Control Module  (PCM) . 
+ Engine Control Module (ECM) . 
+ Transmission Control Module (TCM) . 
+ Any other Lexus  specific control unit . 
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 4 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Table of Contents  
+ Warranty Information ................................ ................................ ................................ ...............  5 
+ Required Tools & Equipment  ................................ ................................ ................................ .. 5 
+ Operation Procedure  ................................ ................................ ................................ ...............  6 
+ Procedure A: Standard ECU Configuration (CUW Reprogramming)  ................................ .. 6 
+ Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  ..................  14 
+ 
+ 
+ 
+  
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 5 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADV i* 
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+Battery Diagnostic Tool*  DCA -8000P T  1 
+*Essential SST.  
+ 
+ 
+  NOTE  
+ Only ONE  of the Techstream units listed above is required.  
+ GTS+ software version 2024.0 4.004.02 or later is required.  
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 (USA) or 01 -55-50103041 (Mexico) or by visiting TIS – Diagnostics – 
+Tools & Equipment – Techstream Order Portal . 
+NOTE  
+Additional SSTs may be ordered by calling 1-800-368-6787 (USA) or 01 -800-504-5330 (Mexico) or by 
+visiting Home – Service Resources – Lexus  Special Service Tools (SSTs) . 
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 6 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  
+1. AFTER ECU replacement , connect GTS+ , select the applicable vehicle and options , 
+and select Next . 
+Figure 1. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 7 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure  A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+2. After performing a Health Check, GTS+ will automatically detect the replacement ECU that  
+needs configuration. On the Health Check Results page, select Yes in the Configure column  
+to begin the c onfiguration process.  
+Figure 2. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 8 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+3. If your ECU Configuration requires multiple calibration files, you will be prompted with the  
+screen below. Confirm the calibrations to be downloaded. Then press the Reprogramming Start 
+button to proceed.  
+If your ECU Configuration does not require multiple calibration files, this screen will not be 
+displayed. Continue to step 4.  
+Figure 3. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 9 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+4. GTS+ will identify the necessary calibration file required. Press Next to start the file download  
+and continue to step 5.  
+Figure 4. 
+ 
+ 
+ 
+Figure 5. 
+ 
+ 
+   
+NOTE  
+Selecting output will create a text file listing the required CUW files at the file path below.  
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 10 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+5. Select OK to proceed to the login screen.  
+Figure 6. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 11 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+6. Input your TIS password and select LOG IN.  
+Figure 7. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 12 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+7. The required calibration has been downloaded, press Next to begin reprogramming the ECU.  
+Figure 8. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 13 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure A: Standard ECU Configuration (CUW Reprogramming)  (continued)  
+8. Refer to Service Bulletin No. L-SB-0036 -22 ECU Flash Reprogramming With Security Signature  
+and complete the programming as instructed there.  
+Figure 9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+NOTE  
+On some models, DTCs may be set as a result of  reprogramming. If DTCs are present, clear them, 
+and run the Health Check again. Troubleshoot ANY remaining current, pending, or history codes. 
+Permanent codes will NOT be cleared using GTS+. Permanent codes do NOT illuminate the MIL and 
+do NOT require tro ubleshooting. They will clear during normal driving once the Universal Trip Drive 
+Pattern is performed.  
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 14 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  
+The following procedure covers Brake and Body ECUs ONLY.  
+1. AFTER ECU replacement, connect GTS+ to the vehicle and select Next.  
+Figure 10. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 15 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+2. After performing a Health Check, GTS+ will automatically detect the replacement ECU that  
+needs configuration. On the Health Check Results page, select Yes in the Configure column  
+to begin the configuration process . 
+Figure 11. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 16 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+3. Perform IG OFF first then IG ON, and press Next to proceed.  
+Figure 12. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 17 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+4. Press Next to continue to Vehicle Configuration Value writing process.  
+Figure 13. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 18 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+5. Press Next to begin Vehicle Configuration Value writing process.  
+Figure 14. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 19 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+6. Once writing is complete, press Next to continue.  
+Figure 15. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 20 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+7. After the Vehicle Configuration Value writing is complete, updated vehicle information  
+will be sent to the server. Press Next to send vehicle information.  
+Figure 16. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 21 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+8. Select OK to proceed to the login screen.  
+Figure 17. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 22 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+9. Input your TIS password and select LOG IN.  
+Figure 18. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 23 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+10. Select Scan again to perform a follow -up Health Check.  
+Figure 19. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 24 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+11. Press Yes to perform a Health Check on ALL ECUs.  
+Figure 20. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0021 -23 Rev2  March 15, 2023  Page 25 of 25 
+Replacement ECU Software Configure Process  
+ 
+  © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Operation  Procedure  (continued)  
+Procedure B: ECU Configuration Value Writing (Body and Brake ECU Only)  (continued)  
+12. After performing a Health Check, confirm No is displayed in the Configure column, and DTC  
+and RoB  data are cleared for the newly configured ECU.  
+Figure 21. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE  
+On some models, DTCs may be set as a result of  reprogramming. If DTCs are present, clear them, 
+and run the Health Check again. Troubleshoot ANY remaining current, pending, or history codes. 
+Permanent codes will NOT be cleared using GTS+. Permanent codes do NOT illuminate the MIL and 
+do NOT require tro ubleshooting. They will clear during normal driving once the Universal Trip Drive 
+Pattern is performed.  

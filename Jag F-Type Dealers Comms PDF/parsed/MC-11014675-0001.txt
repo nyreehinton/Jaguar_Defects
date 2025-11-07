@@ -1,0 +1,532 @@
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page1of25
+SERVICE BULLETIN
+—Confidential andProprietary —
+SLIRelease Date:February 16,2024 Communication #:T-24-02
+Expiration Date:February 16,2026 Model Year(s):2023-2024
+VERSION: R01(February 16,2024)
+Revision Release Date Update
+R01 2/16/2024 Initial Service Bulletin Release
+R02 2/27/2025 Extended expiration dateto2/16/2026
+Ifyouareworking withaprinted copy,please verifyyouhavethemostcurrent version ofthisdocument.
+SUBJECT :TIMING CHAIN OILJET
+PURPOSE
+Polarishasdetermined thatsome2023and2024Slingshot modelsmayhaveapluggedtimingchainoiljetwhichcould
+resultinalackofoiltothetimingchainguidesandriskcausingsevereenginedamage.
+Toaddressthisconcern,PolarishasreleasedthisServiceBulletinwithinstructions toinspecttheoiljet,andreplaceif
+needed.Theaffectedpopulation islessthan40VINs.
+AFFECTED MODELS
+MODEL YEAR MODELS AFFECTED RANGE
+2023AllSlingshot Models
+(LimitedQuantities)Reference UnitInquiryonthedealerwebsiteor
+theServiceCommunications listontheSTOP
+sitetolookupaffectedunits. 2024
+CUST OMER NOTIFICA TION
+Dealersarerequiredtoreviewtheirsalesrecordsandmakearrangements withcustomers forBulletincompletion. In
+additiontoconsumer units,dealersarerequiredtocorrectanyaffectedunitsintheirinventory.Polariswillbemakingphone
+callstotheconsumers affectedbythisBulletin.PolariswillalsosendanemailtoownersforwhomPolarishasavalidemail
+address.
+CONT ACTPOLARIS
+Ifyouhavequestions thatarenotaddressed inthisdocument, contactPolarisServicethroughAskPolarisorbyphoneat
+800-330-9407 (US/Canada DealersOnly).
+DEALER -WHATTODO?
+AsofFebruary 16,2024, YOUMUST NOTSELL ORDELIVER anyNEW ORUSED Model Year2023-2024 Slingshot
+vehiclesaffectedbythisService Bulletinuntilitisrepaired.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page2of25WARRANTY CLAIM INFORMA TION
+TIMING CHAIN OILJETINSPECTION
+Bulletin # T-24-02-AA
+Claim Type SB(ServiceBulletin)
+Labor Allowance 0.7hours(42minutes)
+PartNumber /Description5814467(QTY1)Gasket,ValveCover
+7081496(QTY2)Clip,FirTree
+Parts Availability Availabletoorder
+University ofPolaris Video Training
+RequiredNO
+TIMING CHAIN OILJETREPLACEMENT
+Bulletin # T-24-02-AB
+Claim Type SB(ServiceBulletin)
+Labor Allowance 5.3hours(318minutes)
+PartNumber /Description•2521817(QTY1)Jet,Oil
+•7081496(QTY2)Clip,FirTree
+•5814467(QTY1)Gasket,ValveCover
+•3023187(QTY1)Guide,ChainTension
+•3023186(QTY1)Guide,ChainFixed
+•3023188(QTY1)Guide,ChainUpper
+•5418710(QTY1)Belt,Stretch
+•2884537(QTY1)EngineOil,5W-50(Gallon)
+•2884536(QTY2)EngineOil,5W-50(Quart)
+•2521728(QTY1)Filter,Oil
+•2871557(QTY1)Crankcase Sealant,ThreeBond1215(5oz.)
+Parts Availability Availabletoorder
+University ofPolaris Video Training
+RequiredNO
+Claim Submission:
+•SubmitphotosoftheoiljettoanASKPolaris>Diagnostics case,addT-24-02tothecasedescription, andwaitforfurther
+instructions fromPolarisTechnicalService.
+COVERAGE PERIOD
+Coverage willbeginonFebruary 16,2024.Coverage willexpireonFebruary 16,2026.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page3of25FEEDBACK FORM
+Afeedback formhasbeencreatedforthetechnician toprovidePolariswithanoverall
+satisfaction ratingfortheinstructions, providecomments onyourexperience orupload
+pictures/video. Theformisviewableonmobiledevicesbyscanning theQRcodeorona
+PCbyclicking HERE.
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page4of25INSPECTION PROCEDURE
+T-24-02-AA -TOOLSREQUIRED
+•Pliers,SideCutting
+•SocketSet,Metric
+–SocketSize:8,10mm
+•SocketSet,Torx®Bit
+–SocketSize:T40
+•TorqueWrench
+•Special Service Tool:
+–90°/DualLensBorescope
+•AirCompressor ,LongNosedAirGun
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page5of25T-24-02-AA -OILJETINSPECTION
+VEHICLE PREPARATION
+1.Parkvehicleonaflatsurface.
+2.ShiftvehicletoNEUTRAL
+3.Applyparkingbrake.
+4.PressSTART/STOPbuttontoturnvehicleOFF.
+5.Removekeyfobfromproximity ofvehicle.
+VALVECOVER REMOV AL
+WARNING
+Ahotenginecancauseseriousburns.Allowengineto
+coolorwearprotective gloveswhenremoving thespark
+plugs.
+1.Disconnect thebreatherhosebyremoving clipqfrom
+thevalvecoverfitting.
+a.Inserta#1flatbladescrewdriverintotheprysloton
+thetopoftheretainingclipw.
+IMPORTANT
+Topreventdamagetotheretainingclip,besuretousea
+flatbladescrewdriver thatfitsintothepryslot.b.Gentlyprytheretainingclipupwardsintotheopen
+position.
+c.Removequickconnectfromthecylinderheadair
+ventfitting.
+IMPORTANT
+Placeashopragovertheendofthecoolantlinetocatch
+anyfluidthatmaybeintheline.
+NOTICE
+Itisnotnecessary toremovethecoolantventlinefitting
+fromthecylinderhead,thevalvecoverwillcomeoffover
+it.Theventlinecanberemovedwiththecoilharnessto
+avoidcuttingthedoubleziptie.
+2.Unplugthesparkplugwireconnectors efromthe
+ignitioncoils.
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page6of253.Using8mm&10mmsockets,removetheignitioncoil
+fasteners r.
+IMPORTANT
+Beforeremoving theignitioncoils,cleanoutplugwells
+withcompressed airtoremoveanyloosedirtordebris.
+4.Removeignitioncoilst.
+5.Sniptheelectrical tiedownsyandleavethefirtreesin
+thevalvecover.
+6.Usingcompressed air,blowouttheventfittingcavityto
+removeanydustordebrispriortoremoving thevalve
+cover.
+7.UsingaT40socket,removevalvecoverfasteners u.
+Removevalvecoverandgasket.DISCARD gasketi.
+8.Connectthecoolantlinequickconnecttothecoolant
+ventlinefittingtoavoidlossofcoolantduring
+inspection.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page7of25OILJETINSPECTION
+NOTICE
+Duetothetightproximity tothefrontcover,a90degreeborescope willbeneededtogetaclearimageofthejetfor
+inspection. Ifyoudonothaveaccesstoa90degreeborescope, andarenotwillingtopurchase one,thefronttiming
+coverwillneedtoberemovedforjetinspection.
+1.Locatetheoiljetlocatedbehindthefrontcoveras
+shown.
+2.Usealongnoseairguntoclearanyoilfromtheoiljet.3.Insertaborescope intothegapbetweenthefrontcover
+andcamchain.
+OILJETISNOTPLUGGED OILJETISPLUGGED
+NOTICE
+Makesuretoblowairtoremoveoilfromjettoclearanyoilfromtheoiljet.
+STOP!
+•IftheoiljetISplugged,takepicturesofthepluggedjetandstartanASKPolarisCase.
+SubmitanAskPolarisService&WarrantyQuestion> AllVehicleDiagnostic case.Add“T-24-02-AB inspection FAIL”inthe
+concernstatement.
+•IftheoiljetNOTplugged,takepicturesofthejetandstartanASKPolarisCase.
+•SubmitanAskPolarisService&WarrantyQuestion> AllVehicleDiagnostic case.Add“T-24-02-AA inspection PASS”inthe
+concernstatement.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page8of25VALVECOVER INSTALLATION
+1.Assemble thevalvecoverandaNEWgasketi
+(5814467). Makesurethatthegasketislocatedinthe
+retaininggrooveinthevalvecover.
+IMPORTANT
+ApplyliquidenginesealantattheT-Joint
+2.Installthecoveronthecylinderheadandhandstartthe
+fasteners u.Usingsequence shown,torquefasteners
+tospecification.
+TORQUE
+ValveCoverFasteners:
+89in-lbs (10N·m)3.Installnewcabletiesytothevalvecover.
+4.Installtheignitioncoilst.
+5.Installtheignitioncoilfasteners r.Torqueto
+specification
+TORQUE
+IgnitionCoilRetaining Fasteners:
+80in-lbs (9N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page9of256.Connectthesparkplugwireconnectors etothe
+ignitioncoils.
+7.Connectthebreatherhosebysecuringclipqtothe
+valvecoverfitting.Connectthecoolantventlinefitting
+w.
+NOTICE
+Listenforanaudibleclickwhenconnecting thecoolant
+linefittingandgentlypullontheconnector tomakesure
+thelineisfullyconnected.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page10of25REPAIRPROCEDURE
+T-24-02-AB -TOOLSREQUIRED
+•Pliers,SideCutting
+•SocketSet,Metric
+–SocketSize:8,10mm
+•SocketSet,Torx®Bit
+–SocketSize:T40
+•WrenchSet,Metric
+–WrenchSize:8,10mm
+•TorqueWrench
+•Special Service Tool:
+–BeltStretchTool-OTC7425orequivalent
+–OilFilterSocket-PU-52890
+•Scraper
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page11of25T-24-02-AB -OILJETREPLACEMENT
+ALTERNA TORREMOV AL
+1.Removethetwofasteners securingthebatterycoverto
+thebatterybracket.
+2.Loosennegative(-)batteryterminalboltand
+disconnect.
+3.Disconnect thebreathertubeqfromthevalvecover.
+Loosentwowormclampswandremovetheintakeair
+bootandbreatherhose.
+4.Removepositiveterminalnuteanddisconnect the
+mainchargingleadfromthealternator .
+5.Disconnect thealternator electrical connector .
+6.Cutthestretchbeltandremove.
+7.Removethreeboltsrsecuringthealternator tothe
+engineblockandthreeboltstsecuringthealternator
+totheintakemanifold. Removethealternator .
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page12of25HARMONIC DAMPER REMOV AL
+1.Removethreefasteners qandcoolantbracketwto
+gainadditional access.
+NOTICE
+Theradiatorhosesdonotneedtobedisconnected.
+2.Cutthestretchbeltandremove.
+3.Disconnect thecoolingfanelectrical connectors eand
+removeretainingclipsfromtheshroud.
+4.Removepush-rivets andpulllowershroudupwardout
+ofthecliponthefanshroud.
+5.Removethefasteners rholdingtherearradiator
+shroudtotheradiatorassembly andremovethe
+shroud..
+6.RotatetheenginetotopdeadcenteraligningtheIntake
+andExhaustcamshaft sprockets tothecylinderhead
+withtheindexmarks.
+7.UsingspecialtoolPU-52810 toholdtheharmonic
+damper,removetheharmonic damperfastener tand
+washer.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page13of258.Usingtherecommended 3–jawpuller,removethe
+harmonic dampery.
+NOTICE
+Recommended 3-Jawpuller:
+OTC6667
+IMPORTANT
+Placethe3–jawpullerontheinsidearmsofthedamper
+duringremovalasshown.NEVERplaceforceonthe
+outsideoftheharmonic damperasdamagewilloccur.
+FRONT COVER REMOV AL
+1.Removefasteners u,iandoandremovethefront
+cover.
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page14of25OILJETREPLACEMENT
+1.Locateandremovetheoiljet.
+2.InstallNEWoiljetandtorquetospecification.
+TORQUE
+OilJet:
+35in-lbs (4N·m)
+3.VerifythattheNEWjetisinstalledandthatitisnot
+plugged.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page15of25TIMING CHAIN GUIDE REMOV AL
+1.Removethetopchainguidefasteners andguide.
+Discardthetopchainguide.
+2.InstalNEWtopchainguideandfasteners. Torque
+fasteners tospecification
+TORQUE
+Camshaft CarrierFasteners:
+13ft-lbs (17N·m)
+3.Removechaintensioner fastener eandchain
+tensioner.
+4.Removebothfixedguidetandadjustable guideqby
+removing thefasteners wandr.Discardthefixedand
+adjustable guides.
+5.InstallNEWfixedcamchainguidet.Torquefasteners
+tospecification
+TORQUE
+TimingChainGuideFastener (Fixed):
+80in-lbs (9N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page16of25ADJUST ABLE TIMING CHAIN GUIDE
+INSTALLATION
+1.Assemble thetimingchainwithindicatormarksas
+shown.
+MEASUREMENT
+12.7°orapproximately the4o’clockposition
+2.Installthetimingchainontothecamshaft sprockets
+matching thecoloredlinkstotheindicatormarksatthe
+12o'clockposition.
+3.Withtheengineatcylinder1topdeadcenter,the
+indicatormarkonthecrankshaft shouldbeatthe4
+o'clockposition.Routethetimingchainaroundthe
+crankshaft sprocketandaligncrankshaft indicatordot
+betweenthecoloredlinksinapproximately the4o’clock
+position.4.InstallNEWadjustable timingchainguideandinstallthe
+adjustable timingchainguidefastener a.Torque
+fastenertospecification.
+TORQUE
+TimingChainGuideFastener (Adjustable):
+89in-lbs (10N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page17of25TENSIONER INSTALLATION
+Resetthetimingchaintensioner byperforming the
+followingsteps:
+1.Removethepistonassembly fromthebodyofthe
+timingchaintensioner.
+2.Pressinandtwistclock-wise theendofthetensioner
+pistonuntilitengageswithitselfandstayscollapsed.
+NOTICE
+Thisprocedure worksbestwhenthetensioner pistonis
+dry.
+3.Reinstallthepistonassembly intothebodyofthe
+tensioner.
+4.Installthetensioner assembly intothecrankcase.
+5.Installchaintensioner assembly.Installchaintensioner
+fasteners eandtorquetospecification.
+TORQUE
+TensionerFasteners:
+80in-lbs (9N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page18of25FRONT COVER INSTALLATION
+1.Removeandcleanthefrontcovermatingsurface.
+2.ApplyThreebond sealant.
+3.Installfrontcover.Looselyinstallfasteners u,iand
+o.
+NOTICE
+Thelongerfasteners isupportthewaterpump.Make
+surethepumpisseatedproperlybeforeinstallingthe
+fasteners.
+4.Torquefasteners tospecification insequence shown.
+TORQUE
+M6Fasteners (Items1–16):
+80in-lbs (9N·m)
+TORQUE
+M8Fasteners (Items17–22):
+16ft-lbs (22N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page19of25CRANKSHAFT HARMONIC DAMPER
+INSTALLATION
+NOTICE
+Ensurebothcomponents arealignedcorrectlyorserious
+enginedamagewilloccur.
+1.InstalltheHarmonic Pulleyontothecrankshaft.
+2.Oilthethreadsandinstalltheretainingfastener.Usethe
+PU-52810 guideandabreakerbartopreventthe
+crankshaft fromrotatingwhentightening thefastener.
+Torquetospecification.
+TORQUE
+FrontHarmonic PulleyFastener:
+a.Torquefastenerto74ft-lbs(100N·m)
+b.Loosenfastener180°
+c.Torquefastenerto22ft-lbs(30N·m)+70°
+3.Installtherearradiatorshroudandfasteners r.Torque
+fasteners tospecification.
+4.Installthelowershroudandpush-rivet fasteners.
+5.Connectthecoolingfanelectrical connectors e.
+6.InstallaNEWstretchbelt.Refertopage.
+7.Installcoolantbracketwandthreefasteners q.Torque
+tospecification
+TORQUE
+CoolingLineRetention Fasteners:
+97in-lbs (11N·m)
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page20of25ALTERNA TORINSTALLATION
+1.Installnewalternator .Looselyinstallfasteners rand
+t.Torquefasteners tospecification insequence
+shown.
+TORQUE
+Alternator Mounting Fasteners:
+16ft-lbs (22N·m)
+2.Usingacommercially-available stretchbeltinstallation
+tool,installaNEWstretchbeltoverthealternator and
+balancepulleys.
+3.Connectthealternator electrical connector .
+4.Installthemainchargingleadtothealternator .Install
+positiveterminalnuteandtorquetospecification.
+Covertheterminalnutwiththeredprotective cap.
+TORQUE
+Alternator TerminalNut:
+84in-lbs (9N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page21of255.Installnegative(-)cabletothebatteryandtorque
+terminalbolttospecification.
+TORQUE
+Negative BatteryTerminal:
+40in-lbs (4.5N·m)
+6.Installthetwofasteners securingthebatterycoverto
+thebatterybracket.
+TORQUE
+BatteryCoverFasteners:
+65in-lbs (7N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page22of25AIRBOXINSTALLATION
+1.Installairboxbaseandfasteners e.Torquefasteners
+tospecification.
+TORQUE
+AirboxFasteners
+89in-lbs (10N·m)
+2.Installtheairboxcoveralongwiththeintakeairboot
+andbreathertube.Connectthebreathertubeqtothe
+valvecover.Installtheintakeairboottotheintake
+manifold. Torqueintakeductclamptospecification.
+TORQUE
+IntakeDuctClamps
+35in-lbs (4N·m)3.ConnecttheTMAPelectrical connector totheairbox
+cover.
+
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page23of25VALVECOVER INSTALLATION
+1.Assemble thevalvecoverandaNEWgasketi
+(5814467). Makesurethatthegasketislocatedinthe
+retaininggrooveinthevalvecover.
+IMPORTANT
+ApplyliquidenginesealantattheT-Joint
+2.Installthecoveronthecylinderheadandhandstartthe
+fasteners u.Usingsequence shown,torquefasteners
+tospecification.
+TORQUE
+ValveCoverFasteners:
+89in-lbs (10N·m)3.Installnewcabletiesytothevalvecover.
+4.Installtheignitioncoilst.
+5.Installtheignitioncoilfasteners r.Torqueto
+specification
+TORQUE
+IgnitionCoilRetaining Fasteners:
+80in-lbs (9N·m)
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page24of256.Connectthesparkplugwireconnectors etothe
+ignitioncoils.
+7.Connectthebreatherhosebysecuringclipqtothe
+valvecoverfitting.Connectthecoolantventlinefitting
+w.
+NOTICE
+Listenforanaudibleclickwhenconnecting thecoolant
+linefittingandgentlypullontheconnector tomakesure
+thelineisfullyconnected.
+OILCHANGE
+1.Cleantheareaaroundthedrainplugatthebottomof
+theoilpan.
+WARNING
+Personal injurycanoccurwhenhandlingusedoil.Hotoil
+cancauseburnsorskindamage.
+2.Placeadrainpanbeneaththeoilpanandremovedrain
+plugq.
+3.RemovethecrushwasherandDISCARD.
+4.Allowoiltodraincompletely .5.Usingaclean,drycloth,cleanfiltersealingsurfaceon
+crankcase.
+NOTICE
+Thesealingsurfaceonthedrainplugshouldbecleanand
+freeofburrs,nicksorscratches.
+6.InstallNEWcrushwasherontothedrainplugqand
+install.Torquetospecification.
+TORQUE
+OilDrainPlug:
+13ft-lbs (18N·m)
+7.Usingoilfiltersocket PU-52890, turntheoilfilterw
+counter-clockwise toremoveanddiscard.
+8.Lubricate gasketareaonnewoilfilterwithafilmoffresh
+engineoil.Checktomakesurethesealingareasarein
+goodcondition.
+9.Installanewoilfilterandtorquetospecification.
+TORQUE
+OilFilter:
+Turnbyhand untilfilterO-ring contacts sealing
+surface, thenturnanadditional 3/4turn.
+10.Fillthesumpwithoiltotherecommended levelthrough
+theoilfilleraccesscapeontopofthevalvecover.
+FLUIDCAPACITY
+Recommended Engine Oil:FullSynthetic SAE5W-50
+Engine OilCapacity: 6.0qt(5.68 L)
+11.Placegearselectorinneutral.
+12.Starttheengineandletitidleforonetotwominutes.
+Stoptheengineandinspectforleaks.
+Theinformation contained withinthisdocument isconfidential andprotected byU.S.andinternational copyright laws,andisthepropertyofPolarisInc.Thisdocument is
+providedforthesoleuseofauthorized Polarisdealersanddistributors. Thisdocument isnottobedistributed, duplicated, orcopied,digitallyorotherwise, withoutthewritten
+consentofPolarisInc.
+T-24-02(R02) ©2024PolarisInc. Page25of2513.Re-check theoillevelonthedipstickrafterthree
+minutesandaddoilasnecessary tobringthelevelto
+thesafezoneonthedipstick.
+14.Disposeofusedoilandoilfilterproperly.

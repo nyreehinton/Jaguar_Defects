@@ -1,0 +1,37 @@
+ 
+ 
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do -it-yourselfers,” and you shou ld not 
+assume this bulletin applies to your vehicle, or that your vehicle has the condition described. To determine whether this inf ormation applies, contact 
+an authorized Honda automobile dealer.  
+ 
+© 2025 American Honda Motor Co., Inc. – All Rights Reserved   Page 1 of 1 
+         Service Bulletin  25-025 
+February 14 , 2025    Version 1  
+MIL is on with  DTC P060A  
+APPLIES TO  
+Year  Model  Trim  Level  VIN Range  
+2023 –24 Accord  ALL ALL 
+SYMPTOM  
+Multiple warning lights on and the  vehicle may go into fail-safe mode ; DTC P060A  Powertrain Control Module (PCM) 
+Internal Control Module Malfunction has set. 
+POSSIBLE  CAUSE  
+Due to internal hardware failure, the PGM -FI detects DTC P060A and illuminates the MIL.  
+CORRECTIVE ACTION  
+Replace the PCM if  DTC P060A is stored . 
+WARRANTY CLAIM INFORMATION  
+ 
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+1211K3  Replace PCM  0.6 hr  03214  08901  A25025A  37820 -6NA-A68 
+PARTS INFORMATION  
+Part Name  Part Number  Quantity  
+Powertrain Control Module  [CONT MOD, POWERTRAIN ] 37820 -6NA-AW1  1 
+REQUIRED  TOO LS / MATERIALS  
+NONE  
+REPAIR PROCEDURE  
+1. Remove and r eplace the PCM  if P060A DTC is stored.  

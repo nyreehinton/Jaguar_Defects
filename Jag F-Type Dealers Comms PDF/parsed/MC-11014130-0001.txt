@@ -1,0 +1,56 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+DIM Message and DTC IEM P060796Ref. No.
+TJ 37093.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/2/24Status Date
+1/29/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3233
+Function Description
+Electric converter, high voltagePage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+*Updated VST Operation No, Vehicle Types, and Service.
+If a customer experiences a “Propulsion System Service Required” message in the DIM during start-
+up in combination with diagnostic trouble code IEM P060796 set, please follow the advice under 
+“Service” .
+DIM = Driver Information Module
+IEM = Inverter Electric Rear Axle Drive
+CSC   Customer Symptom Codes
+Code Description
+7G Text window and warning symbol/Yellow symbol and text message
+IV Text window and warning symbol/Text message
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+IEM P060796 Permanent
+IEM P060796 Intermittent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+536 EH E400V8 2024-2025 - 202317-202447
+536 ER E400V12 2024-2025 - 202317-202447
+539 EH E400V8 2024-2025 - 202317-202447
+539 ER E400V12 2024-2025 - 202317-202447
+Page 2 of 2 2025-01-29
+Technical Journal 37093.2.0SERVICE:
+*A software solution is introduced with version 3.3.16. Perform a software upgrade according to TJ 
+31543.
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software Control Module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+the concern area “Vehicle Report” and the sub-concern area “Support Needed” , use function group 
+3233.

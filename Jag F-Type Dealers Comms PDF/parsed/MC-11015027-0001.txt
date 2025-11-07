@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SER25-005 
+02/24/2025 
+ 
+SUBJECT: Aspen APU Shutdown, Engine Stall and Loss of Communication Alarms 
+ 
+This bulletin is to bring awareness and provide troubleshooting for recent random Aspen APU unit shutdowns, 
+engine stalls, and CAN alarms, 20001, 20002 and 20006. Consider these potential causes when performing 
+troubleshooting.  
+ Alternator circuit from B+ to starter positive.  
+ Electrical harness from climate control module to Aspen Interface. 
+ Main power cables at truck battery. (eyelet/terminal crimp over insulation)  
+ Main buss bars for tight, clean connection with no broken eye terminals.  
+ Inspect the APU connector and terminals at APU J1 for recessed sockets and or inadequate crimping. 
+ Look over the engine harness for rubs against the APU frame, components and associated wires. 
+ Check F2 Fuse. 
+ Replace APU Module. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Carrier Corporation 2025  

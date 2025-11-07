@@ -1,0 +1,61 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+First Year Policy: ERAD / TVDCRef. No.
+TJ 37195.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/12/24Status Date
+1/7/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4632
+Function Description
+Electrical rear axis drivePage
+Page 1 of 2DESCRIPTION:
+A new electrical powertrain ERAD / TVDC has been launched in model year 2025.
+During the first year of production of this new ERAD, we need to be aware of quality issues as 
+quickly as possible.
+For this reason, CMQ (Volvo Cars Central Quality Organization) must be contacted before 
+performing any repairs on the ERAD/TVDC unit.
+No ERAD/TVDC units shall be opened or replaced without approval or request from the CMQ.
+ERAD = Electric Rear Axle Drive
+TVDC = Torque Vectoring by Dual Clutch
+CSC   Customer Symptom Codes
+Code Description
+ZZ Power transmission/Component power transmission wrong installation/missing
+53 Driving, Twin Engine/Propulsion using electric motor not possible
+AJ Driving/Poor performance/lacks power
+AK Driving/Hesitates/surges/Unsure when/at all times
+AL Driving/Hesitates/surges/During acceleration
+AM Driving/Hesitates/surges/During deceleration
+BV Driving/Hesitates/surges/At steady speed
+7G Text window and warning symbol/Yellow symbol and text message
+IV Text window and warning symbol/Text message
+8M Warning lights and chimes/Other warning/chime problems
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+C4 Complete vehicle/Unusual noise/While driving
+8N Driving/Unusual noise/Unsure when/at all times
+F2 Driving/Unusual noise/During acceleration
+C3 Automatic transmission/Unusual noise
+D2 Front/rear axle/Unusual noise
+W2 Front/rear axle/Vibration/shake
+Page 2 of 2 2025-01-07
+Technical Journal 37195.1.0DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-9999 - 202417-999952
+SERVICE:
+Please follow the information under Vehicle Report.
+  
+Warranty claim info:
+Claim requests may be rejected unless a vehicle report is created.
+Note that the TJ number must be stated in the repair order text.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report in all cases of ERAD/TVDC failure. Describe the customer’s 
+symptoms and the dealer’s observation carefully in detail.
+Use the concern area “Vehicle Report” and the sub-concern area “Support Needed” for 
+issues that require fault tracing assistance or a hardware replacement of the ERAD/TVDC.
+Use the sub-concern area “support Not Needed” for other issues, use function group 4632.

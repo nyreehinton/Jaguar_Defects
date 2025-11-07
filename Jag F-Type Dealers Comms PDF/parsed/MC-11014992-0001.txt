@@ -1,0 +1,40 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250015 Released Date : 26-F eb-2025
+Spark Plug W ater Intrusion: Engine Runs Rough or Misfir es
+Spark Plug Water Intrusion: Engine Runs Rough or
+Misfires
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+X15N CM2380 X150B
+Issue Summar y
+Sympt om:
+Engine runs r ough or misfir es
+Fault Codes:
+5895
+5896
+5897
+5898
+5899
+5911
+5914
+6413
+6425
+6426
+6427
+6428
+6429
+6431
+Root Cause:
+Document Hist ory
+Last Modified:  26- Feb-2025When washing the engine, water is getting t o the spark plug and causing rust and misfir e fault
+codes.
+Water is getting thr ough spark plug and r ocker le ver co ver top seal as well as the dust seal.
+Verification
+Verify engine runs r ough or misfir es or pr esence of fault codes(s) listed in the Issue Summar y
+section.
+Resolution
+Cover the spark plug ar ea while washing engines t o prevent water intrusion.
+Date Details
+2025-1-28Module Cr eated

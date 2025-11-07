@@ -1,0 +1,40 @@
+Technical Service BulletinTechnical Service Bulletin Transaction No.: 2022548/142022548/14
+19-17-01 - Identifying and Mixing Volkswagen Engine Coolants (U.S. Only)
+ConditionCondition
+VW Model(s)VW Model(s) YearYear Eng. CodeEng. Code Trans. CodeTrans. Code VIN Range FromVIN Range From VIN Range ToVIN Range To
+All
+(except Routan)All All All All All
+Revision TableRevision Table
+Instance NumberInstance Number Published DatePublished Date Version NumberVersion Number Reason For UpdateReason For Update
+2022548/14 2/12/2025 19-17-01 Update model and model year
+applicability.
+2022548/10 5/22/2023 19-17-01 Introducing new engine coolant
+and updating model and model
+year applicability.
+2022548/9 2/24/2022 19-17-01 Adding G12Evo and updating
+model and model year applicability.
+2022548/1 3/17/10 V191002 Original publication.
+Technical BackgroundTechnical Background
+The latest formulation of G12Evo coolant, by Valvoline, is backwards compatible with all engine concepts. All previous variations of coolant have
+been replaced by this formulation of G12Evo.
+Production SolutionProduction Solution
+G12Evo coolant has been introduced as the factory fill coolant in current production.
+ServiceService
+Since G12Evo - Valvoline is now backwards compatible with all engine concepts, any vehicle needing coolant can use this formulation of
+G12Evo. This includes vehicles that are refilling the complete system and vehicles getting coolant top offs. This formulation of G12Evo can now
+be mixed with any previous coolant variation.
+If you suspect that a vehicle has been filled with contaminated or non OEM coolant, the cooling system should be drainedIf you suspect that a vehicle has been filled with contaminated or non OEM coolant, the cooling system should be drained
+using the repair manual procedures in Elsa and then filled with G12Evo.using the repair manual procedures in Elsa and then filled with G12Evo.
+Cooling system drain and fill due to contaminated or non OEM coolant mixing is not covered by warrantyCooling system drain and fill due to contaminated or non OEM coolant mixing is not covered by warranty ..
+Information only.
+Please refer to Warranty Communication VWC-23-04 to determine SAGA claiming procedures.
+Required Parts and ToolsRequired Parts and Tools
+No Special Parts required.
+Additional InformationAdditional Information
+All part and service references provided in this Technical Bulletin are subject to change and/or removal. Always check with your Parts Dept. and
+Repair Manuals for the latest information.
+© 2025 Volkswagen Group of America, Inc.© 2025 Volkswagen Group of America, Inc.  All rights reserved. Information contained in this document is based on the latest information
+available at the time of printing and is subject to the copyright and other intellectual property rights of Volkswagen Group of America, Inc., its
+affiliated companies and its licensors. All rights are reserved to make changes at any time without notice. No part of this document may be
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, nor may these materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.

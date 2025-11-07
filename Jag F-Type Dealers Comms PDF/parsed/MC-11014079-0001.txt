@@ -1,0 +1,98 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  2-18-2020 
+SERVICE BULLETIN SUBJECT:  Fire Suppression  Fitting  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-35 
+ 
+NOTICE! It is expected that this process will require 2  hour s per bus. Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+FIRE SUPPRESSION FITTING  RETROFIT  
+Retrofit Description:  
+This procedure replaces a  fitting in the fire suppression system that has the potential to rub against 
+other components.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• 4mm Allen  Driver  
+• 1-1/16 Inch Combination Wrench  
+• 1-1/8 Inch Combination Wrench  
+• 13/16-Inch Combination Wrench  
+• 7/8-Inch Combination Wrench  
+• 1-Inch Combination Wrench  
+ 
+  
+ 
+ 
+Parts Required:  
+ 
+• 051929  FITTING, HYDRAULIC, MJ -FJS SWEPT 90° ELBOW   1 EA 
+• 051926  FITTING, HYDRAULIC, FP -FJS STRAIGHT    1 EA  
+  
+ 
+   
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Using a 4mm Allen  Driver, uninstall the aux heat fill plate.  
+ 
+ 
+3. Using a 7/8 -Inch Combination Wrench, remove the fittings shown in the following illustration.  
+  
+ 
+4. Using a 1-1/16 Inch and a 1-Inch Combination Wrench, remove the Nozzle (029036) from the 
+90-Degree Fitting ( 031514).  Retain the nozzle for later use.  
+ 
+Remove Fitting  
+031514  
+ 
+ 
+029036  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+5. Using a 13/16- Inch and a 7/8- Inch Combination Wrench, install Straight Fitting ( 051926) onto 
+Elbow fitting ( 051929).  
+    
+ 
+6. Using a 1 -1/8 Inch Combination Wrench and a 1- Inch Combination Wrench, install the Nozzle 
+(029036) onto the Straight Fitting (051926).  
+    
+ 
+7. Using a 7/8- Inch Combination Wrench, install the assembled fittings back in place of the 
+fittings  that were removed.  
+  
+ 
+  
+051929  
+13/16- Inch Wrench  
+7/8-Inch Wrench  
+051926  
+051926  
+1-1/8 Inch Wrench  
+1-Inch Wrench  
+029036  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+8. Using a 4mm Allen Driver, reinstall the aux heat fill plate.  
+ 
+ 
+9. Remove the Lockout/Tagout devices  and return the bus to service.  

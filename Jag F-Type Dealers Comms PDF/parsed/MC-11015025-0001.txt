@@ -1,0 +1,95 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S2424000003  REV.B 
+ 
+Release Date:   Februar y 2025 
+ 
+Symptom/Vehicle Issue : AC INOP With DTC  B3A11 - AC REFRIGERANT 
+EXPANSION VALVE ACTUATOR CONTROL PERFORMANCE   
+ 
+Customer Complaint/T echnician Observation:  Customer indicates that the AC is 
+INOP. Further investigation shows that DTC’s B3A11 is present.  
+ 
+Discussion : This DTC will turn off the AC compressor to prevent liquid flowing into the 
+compressor and causing physical damage to the compressor. When the code is 
+erased,  the compressor will re -engage and allow compressor operation again as long 
+as the condition is not present. With this condition the code can come back within a 
+few minutes, hours, or days.  
+ 
+A known part issue has been identified  for select ve hicles.  
+ 
+If the  any of following conditions appl y or both  of the conditions apply the EX V Chiller  
+assembly  needs to be replaced. (See Image Bel ow) 
+ 
+- EXV NIK Level  shows  AA  
+- Battery Chiller has a green check mark  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Replace the chiller assembly and re test operation. Ensure the vehicle is drive n 
+appropr iately to get the HEV battery temp above 39C  for DTC set conditions.  
+ 
+If the DTC remains off, return the vehicle back to customer.  
+ 
+If this process  does not apply to the current ve hicle being diagnosed , create a STAR 
+case  and ask for the case to  be escala ted for B3A11 Investigation.  

@@ -1,0 +1,82 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 16-NA-109
+Service BulletinDate: February, 2025
+TECHNICAL
+Grease or Sealant Visible on Electronic Power Steering Gear - Should Not Be
+Interpreted as Leak
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+BrightDrop
+All
+Passenger
+Cars and
+Light/Medium
+Duty Trucks2009 2026 — — All AllBuick
+Cadillac
+Chevrolet
+GMCSubject:
+Important: This technical service bulletin (TSB) can only be completed by BrightDrop dealers or BrightDrop certified
+repair facilities who have met all BrightDrop specific training, tool, and equipment requirements. Repairs must be
+performed by a technician who has successfully completed the required training.
+Involved Region or CountryNorth America, Europe, Uzbekistan, Russia, Middle East, Iraq, Israel, Palestine,
+Argentina, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela,
+Japan, Cadillac Korea (South Korea), GM Korea Company, Taiwan, Thailand, Singapore,
+Philippines, Australia/New Zealand, Egypt, Africa, South Africa
+ConditionSome customers or technicians may comment on seeing grease or sealant on certain
+locations of the steering gear.
+CauseDuring the manufacturing process, sufficient grease is used for lubrication and sealing of
+components of the steering gear. Also, sealant is added to areas of the steering gear to
+keep water and environmental contaminants from getting into the steering gear.
+Examples of Seepage
+The graphics below are photo examples, which include arrows showing some of the common areas where grease
+may be evident after the vehicle has been driven for a length of time.
+Page 2 February, 2025 Bulletin No.: 16-NA-109
+4483616
+4483617
+Bulletin No.: 16-NA-109 February, 2025 Page 3
+4483618
+4483619
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Note: Electric power steering systems do not have fluid inside of them.
+If oil is observed dripping off of them, look above or around the site for an oil leak.
+If upon inspection, the steering gear assembly clamps, boots, and fasteners are all in place, the visual evidence of
+grease/sealant on the exterior of the steering gear is considered normal and no correction is necessary. If excess
+grease is noted, it should be wiped off the exterior of the gear, however, sealant should be left in place as a barrier to
+water and contamination, and no cleaning is required.
+Page 4 February, 2025 Bulletin No.: 16-NA-109
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor
+OperationDescription Labor Time
+7480278* Inspecting for Excess
+Grease or Sealant on the
+Exterior of the Steering
+Gear0.2 hr
+*This is a unique Labor Operation for bulletin use only.
+Customer Information
+Please communicate to the customer that this is a normal condition of their vehicle. Please share this information
+with the customer, including a copy of this bulletin.
+Version 7
+ModifiedRevised February 07, 2017 – Added Involved Region or Country and Warranty
+Information.
+Revised March 13, 2017 – Added the 2018 Model Year.
+Revised August 05, 2019 – Added the 2019-2020 Model Years and a warranty statement.
+Revised March 08, 2021 – Added the 2021 Model Year and updated the Involved Region
+or Country section.
+Revised June 01, 2022 – Added BrightDrop vehicles, the 2022–2023 Model Years and
+Important statements under the Models table and Correction.
+Revised February 17, 2025 – Added the 2024-2026 Model Years.

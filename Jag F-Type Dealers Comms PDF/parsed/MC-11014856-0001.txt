@@ -1,0 +1,1139 @@
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 1 of 36
+PRODUCT CAMPAIGN BULLETIN
+INTRODUCTION
+Subaru of America, Inc. (SOA) has determined that affected vehicles, listed below, may have been 
+manufactured with improperly applied paint to the rear suspension sub-frame. If an affected vehicle is 
+operated for an extensive period in a “salt-belt” area (see list of states below that use large amounts of 
+salt on the roads in the winter), continued exposure to the salt could cause the rear sub-frame to rust-
+out and possibly break. If the rear sub-frame were to rust-out and break, control of the vehicle could 
+be affected.
+This recall will involve cleaning and applying rust proofing material at the affected area.
+AFFECTED VEHICLES
+All 2000, all 2001 and most 2002 model year Legacy/Outback vehicles (and approximately 45 very 
+early production 2003 Legacy, Outback and BAJA models) are affected. This recall will be limited 
+to vehicles in regional areas known as “salt-belt” states and affects vehicles originally sold in or 
+currently registered in the states of:
+Connecticut Kentucky Missouri Rhode  Island
+Delaware Maine New Hampshire Vermont
+District  of Columbia Maryland New Jersey Virginia
+Illinois Massachusetts New York West Virginia
+Indiana Michigan Ohio Wisconsin
+Iowa Minnesota Pennsylvania
+Affected vehicles are identified in the VIN range chart on the following page. NOTE: Coverage 
+for all affected vehicles must be confirmed by using the Vehicle Coverage Inquiry in the Dealer 
+Communication System (DCS).
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: WWM-96R
+ DATE: July 2003
+ REVISED:  02/10/25APPLICABILITY: 2000-2002MY Subaru Legacy
+  and Outback Vehicles
+ SUBJECT: Rear Suspension Sub-frame CorrosionATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2003 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 2 of 36
+MODEL  YEAR MODEL FROM TO
+2000Sedan  
+Wagon  
+OutbackY*200001 
+Y*300001 
+Y*600001Y*218478 Y*313778 
+Y*674127
+2001Sedan  
+Wagon  
+Outback1*200001
+1*300001
+1*6000011*216426
+1*311949
+1*679753
+2002Sedan  
+Wagon  
+Outback2*200001
+2*300001
+2*6000012*216493
+2*310877
+2*664483
+2003Sedan  
+Wagon  
+Outback  
+BAJA3*200001
+3*300001
+3*600001
+3*1000013*200022
+3*300011
+3*600031
+3*100017
+* Various Characters may occupy this position
+OWNER NOTIFICATION
+Notification letters will be sent to owners of vehicles originally sold in or currently registered in “salt-
+belt” states. SOA will prepare and mail those letters on or around July 7, 2003. A copy of the Owner 
+Notification Letter is included at the end of this bulletin.
+OWNERS LOCATED OUTSIDE THE AFFECTED “SALT-BELT” STATES
+Notification letters will only be mailed to owners of vehicles that were originally sold, or at one time 
+registered, in “salt-belt” states.
+After release of this recall, vehicles previously registered in a non-“salt-belt” state may relocate into 
+a “salt-belt” area. In some cases, the vehicle may be registered in a “non-salt belt” state, and driven in 
+a “salt-belt” area. These vehicles may not show coverage when checked using the Vehicle Coverage 
+Inquiry in the Dealer Communication System (DCS). SOA requests that dealers located in “salt-belt” 
+states check all vehicles within the affected VIN range for recall coverage. If it is determined that an 
+owner of a vehicle, within the affected VIN range, relocates or uses the vehicle in a “salt-belt” area, 
+dealers are requested to contact the CDS department at 1-800-782-2783 and request a WWM-96 
+recall control number be issued. The dealer should perform this procedure on the vehicle at no cost to 
+the customer.
+DEALER PROGRAM RESPONSIBILITY
+Dealers are to promptly service all vehicles subject to this recall at no charge to the vehicle owner 
+regardless of mileage, age of the vehicle, or ownership.
+For affected vehicles sold after the date on the dealer’s computer list, dealers are to contact those 
+owners and provide them with a copy of the owner notification letter. They should also arrange to 
+make the required correction according to the instructions in the service procedure section of this 
+bulletin.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 3 of 36
+Vehicles  in Dealer  Inventory
+Dealers are also to promptly perform the applicable service procedures defined in this bulletin to 
+correct all affected vehicles in their inventory (new, used or demo). Additionally, whenever a vehicle 
+subject to this recall is taken into dealer new or used inventory , or is in the dealership for service, 
+necessary steps should be taken to ensure the recall correction has been made before selling or 
+releasing the vehicle.
+New or used vehicles listed in a recall/campaign that are in dealer stock must be:
+1. Immediately identified.
+2. Tagged or otherwise marked to prevent their delivery or use prior to inspection and/or repair.
+3. Inspected and/or repaired in accordance with the instructions outlined in this Product 
+Campaign Bulletin.
+Any Authorized Subaru Dealer failing to perform the applicable service procedures defined 
+in this bulletin to correct all affected vehicles in their inventory (new, used, demo) prior to the 
+vehicle being placed in service may be subject to civil penalties of up to $5,000 per violation (i.e., 
+for each vehicle), as provided in 49 USC §30165(a) of the Safety Act, and will also be in breach 
+of the Subaru Dealer Agreement.
+PARTS INFORMATION
+Special Tools
+Each dealer located in the affected “salt-belt” states will automatically be shipped, at no cost, one rust-
+proofing spray gun set that contains a spray gun and necessary lines, nozzles and w ands.
+Dealers located outside of the affected “salt-belt” states can order the spray gun kit by contacting their 
+District Service Operations Manager.
+Rust-proofing Materials
+Note: The rust-proofing material is packaged in kits containing one 29oz container of Nox-Rust  
+X-210 and one 32oz container R576-108). 
+Prior to the release of this recall, only dealers located in affected “salt-belt” states will automatically 
+be shipped a quantity of rust-proofing material equivalent to 40% of their vehicle sales, or up to a 
+maximum of 15 cases. It will be necessary for dealers located outside of affected “salt-belt” states to 
+order rust-proofing material as needed.
+Note: SOA will notify owners who either purchased or at one time resided in a “salt- belt” state. 
+Some of these owners may no longer live in a “salt-belt” area. In these cases, it will be necessary 
+for dealers located outside the “salt-belt” area to order supplies to rust-proof these affected 
+vehicles.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 4 of 36
+Additional quantities of the rust-proofing material will be available through the “Genuine Subaru 
+Automotive Chemical” program on Subarunet after 6/21/03. In order to maintain an adequate part 
+supply, SOA requests that Dealers only order quantities necessary to satisfy anticipated demand.
+MODEL DESCRIPTION PART NUMBER
+All Affected WVX34 RUSTPROOF 5 REPAIRS SOA868V9355
+REPAIR PROCEDURES
+This repair procedure involves cleaning and applying anti-rust material to the inside and 
+outside of the rear sub-frame assembly.
+Exposure Controls for use of Nox-Rust X-210 and R576-108
+Material Safety Data Sheets (MSDS) for these products are included in each product carton and 
+available in the electronic version of this bulletin posted on Subarunet.
+Respiratory  Protection
+NIOSH-approved respirator for organic vapor and mist to control exposure where ventilation is 
+inadequate. Example: 3M Maintenance-free Half Facepiece Respirator 07191, 07192, 07193 or Low-
+Maintenance Half Facepiece Respirator 07177, 07178, 07179.
+Ventilation
+General and local exhaust.
+Personal Protective  Equipment
+Caution: Avoid prolonged skin contact.
+Protective Gloves: Impervious gloves (Viton, PVOH, etc.)
+Eye Protection: Safety glasses with side-shields or chemical goggle.
+Other Protective Clothing or Equipment: If splashing is anticipated, wear a rubber apron and boots or 
+other protective equipment to minimize contact.
+Necessary tools and supplies:
+NO PARTS  / MATERIAL  NAME PARTS  NUMBER  / MODEL
+1 Protective  glasses ---
+2 Protective  mask ---
+3 Cloths  and paper ---
+4 Oil pan or container ---
+5 Vehicle  lift ---
+6 Pressure  washer ---
+7 Spray gun Refer to page 6
+8 Anti-rust  oilNOXRUST  X-210
+5oz (150cc) per vehicle
+9 Anti-rust  waxNOX RUST R576-108 Black
+1Qt (1,000cc) per vehicle
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 5 of 36
+SPRAY EQUIPMENT OPERATING INSTRUCTIONS
+The pressure pot is equipped with an adjustment valve (or stop screw) to adjust the ratio of product to 
+air. This adjustment valve will have to be adjusted in order to achieve optimal spray pattern for each 
+material. The adjustment valve is identified in the diagram below.
+Before filling the gun, turn the stop screw clockwise until completely closed. Draw a line down the 
+middle of the stop screw using a marker. This line will be used to determine the number of turns 
+needed for optimal spray of the waxes.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 6 of 36
+Settings For Nox-Rust® X-210 Corrosion Preventive Penetrant
+When using the 360o flexible wand, turn the stop screw counterclockwise 1/2 turn from closed, and 
+adjust the air supply pressure to 40 psi.
+Settings For Nox-Rust® R576-108 Corrosion Preventive Coating
+(Note: Product should be room temperature for proper application.)
+When using the 360o flexible wand, turn the stop screw counterclockwise 3 turns from closed, and 
+adjust the air pressure to 80 psi.
+When using the 90o hook wand, turn the stop screw counterclockwise 3 turns from closed, and adjust 
+the air pressure to 80 psi.
+Gun Disassembly And Cleanout
+Important: The spray equipment must be cleaned between vehicle applications. X-121B (Black 
+Wax) must be removed from the gun and lines prior to applying the X-121 (Oil) to the next vehicle. 
+Use the following procedure for equipment cleaning.
+1. Turn the spray gun stop screw (as pictured above) clockwise until completely closed.
+2. Blow the 360o flexible and 90o hook wands clear with air by pulling the spray gun trigger.
+3. Disconnect the gun from the air supply.
+4. Remove the spray tube using the quick disconnect.
+5. Relieve the pressure from the gun by slowly turning the paint pot to the left until all the air 
+escapes. Do not use the gun trigger to relieve pressure from the pot. This will cause the wax to 
+flow into the air line supply of the gun.
+6. Remove the paint pot and drain any remaining wax. Rinse the pot with mineral spirit based 
+solvent.
+If the gun is to be stored for more than 4 weeks, completely clean the gun with mineral spirits. Always 
+store the gun assembled. Do not soak the 360o flexible or 90o hook wands in solvent. Prolonged 
+exposure to solvent will cause damage.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 7 of 36
+REPAIR PROCEDURES DETAILS
+Step 1:  Raise vehicle on a lift.
+Step 2:  Remove the left and right rear wheels.
+Step 3:  Identify the component name of the rear sub-frame assembly as follows:
+(A)  Front Crossmember
+(B)  RH/LH Side Member
+(C)  Rear Crossmember
+Step 4:  Clean the entire rear sub-frame assembly.
+Note: It is important that the rear sub-frame be properly cleaned in order for the rust 
+proofing process to be effective. Use caution not to damage components such as emission 
+lines.
+(a) Clean the outside of the entire sub-frame assembly of mud, dirt, salt and other debris using 
+a high pressure washer.
+(b) Clean the inside of the entire sub-frame assembly by carefully applying high pressure water 
+through the bottom holes of the sub-frame.
+(c) Dry the inside and outside of the sub-frame assembly using high pressure air at the same 
+locations identified in the cleaning process. Use a clean rag to remove any remaining 
+moisture.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 8 of 36
+Step 5:  V ehicle Preparation
+Important: Be sure the following items have adequately cooled before applying protective 
+covers.
+(a) Cover rotors, calipers, and exhaust parts near the sub-frame with a cloth or paper to 
+prevent wax from adhering to these surfaces.
+(b) Place a suitable container (such as an oil drain pan) below the vehicle’ s subframe to 
+capture any anti-rust agent and anti-rust wax that could leak from the drain holes during 
+the application process.
+Step 6:  Application of anti-rust agent (NOX RUST X-210)
+Use the flexible 360o type nozzle for spraying. Turn the spray gun stop screw 
+counterclockwise 1/2 turn from closed, and adjust the air supply pressure to 40psi Sprayed 
+amount: 5oz. (150cc). Refer to the chart on page 9 for spray times and follow the detailed, 
+step-by-step process.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 9 of 36
+The holes in which the spray nozzle should be inserted and the direction from which the spray nozzle should 
+be applied are identified in the figure on page 8. (The letter- identified areas show nozzle insertion 
+points and dotted lines show the direction in which nozzles should be inserted.)
+Spray time of anti-rust agent and length of spray nozzle to be inserted into the sub- frame 
+corresponding to the holes located at bottom of the frame are identified in the following information.
+HOLE LOCATION PARTS NAME WORK HOLE LOCATION TIME (SEC.)LENGTH TO INSERT 
+INCH (MM)
+A CROSS MEMBER FTBeside right side bushing 
+at right end of the 
+crossmember front8 35 (880)
+B SIDE MEMBER RHFront end of the side 
+member right5 19 (480)
+C SIDE MEMBER LHFront end of the side 
+member left5 19 (480)
+D CROSSMEMBER RRRight end of the 
+crossmember rear6 23 (590)
+Important: Place a container under the vehicle to catch any excess anti-rust agent from the drain holes.
+Anti-rust Agent Application  Details:
+CROSSMEMBER FRONT
+Insert the 360o spray nozzle into the opening (A) until it touches the bushing outer tube at the other 
+side. Spray anti-rust agent for 8 seconds while pulling the spray nozzle back to the original opening 
+(A).
+Spray time: 8 seconds.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 10 of 36
+SIDE MEMBER LEFT & RIGHT HAND
+Insert the 360o spray nozzle into the hole (B or C) located at front end of the bottom of the side 
+member until it touches the rear bushing outer tube at the other end. This area is approximately 19 
+inches (480mm) long. Spray anti-rust agent for 5 seconds while pulling the spray nozzle back to the 
+original opening (B or C).
+Spray time: 5 sec. (2 locations = 10 sec.)
+CROSSMEMBER REAR
+Insert the 360o spray nozzle into opening (D) located in bottom of the crossmember rear at the right 
+end connected to the side member until it touches the side member of the other side. This area is 
+approximately 23 inches (590mm) long. Spray anti-rust agent for 6 seconds while pulling the spray 
+nozzle back to the original opening (D).
+Spray time: 6 sec.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 11 of 36
+Step 7:  Application of anti-rust wax (NOX RUST R576-108).
+Use flexible 360o type nozzle. Turn the stop screw counterclockwise 3 turns from closed, and adjust 
+the air pressure to 80 psi. Sprayed amount: 13.5oz (400cc).
+The holes in which the spray nozzle should be inserted and the direction from which the spray nozzle 
+should be applied are depicted in the figure above. (The letter-identified areas show nozzle insertion 
+points and dotted lines show the direction  in which nozzles should be inserted.)
+Spray time of anti-rust wax and length of the spray nozzle to be inserted into the sub-frame 
+corresponding holes are described on the next page.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 12 of 36
+HOLE 
+LOCATIONPARTS NAMEWORKING HOLE LOCATION
+TIME 
+(SEC.)LENGTH TO 
+INSERT INCH 
+(MM)LOCATION OF NOZZLE 
+INSERTION HOLE AND 
+NOZZLE DIRECTIONNOZZLE 
+INSERTION 
+DIRECTION
+ACROSS
+MEMBER FTElectro deposition
+hole at right side of the
+crossmember frontRed line 12 31 (790)
+BCROSS
+MEMBER FTElectro deposition
+hole at left side of the
+crossmember frontWhite line 12 31 (790)
+CSIDE
+MEMBER RHHole at front end of
+the side member right
+toward rearRed line 8 19 (480)
+DSIDE
+MEMBER RHHole at center of
+the side member right
+toward frontWhite line 4 8 (210)
+ESIDE
+MEMBER RHHole at center of the
+side member right
+toward rearWhite line 4 10 (260)
+FSIDE
+MEMBER RHHole at center of the
+side member right
+toward uprightWhite line 2 2 (50)
+GSIDE
+MEMBER LHHole at front end of
+the side member
+left toward rearRed line 8 19 (470)
+HSIDE
+MEMBER LHHole at center of
+the side member left
+toward frontWhite line 4 8 (210)
+ISIDE
+MEMBER LHHole at center of
+the side member
+left toward rearWhite line 4 10 (260)
+JSIDE
+MEMBER LHHole at center of
+the side member
+left toward uprightWhite line 2 2 (50)
+KCROSS
+MEMBER RROpening at right end
+of the crossmember
+rear toward left sideRed line 8 23 (590)
+LCROSS
+MEMBER RROpening at right end
+of the crossmember
+rear toward uprightRed line 1 1 (30)
+MCROSS
+MEMBER RROpening at left end of the 
+crossmember rear toward 
+uprightRed line 1 1 (30)
+Note: When spraying the anti-rust wax, pull the trigger of spray gun fully.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 13 of 36
+CROSSMEMBER FRONT (A)
+Insert the 360o spray nozzle into hole (A) at right side of the crossmember front until it touches the 
+outer tube of the other side bushing. Spray anti-rust wax for 12 sec. while pulling the spray nozzle 
+back to the original opening.
+Spray time: 12 sec.
+CROSSMEMBER FRONT (B)
+Insert the 360o spray nozzle into hole (B) at left side of the crossmember front until it touches the 
+outer tube of the other side bushing. Spray anti-rust wax for 12 sec. while pulling the spray nozzle 
+back to the original opening.
+Spray time: 12 sec.
+SIDE MEMBER RIGHT HAND FRONT (C )
+Insert the 360o spray nozzle into hole (C) at front end of the side member until it touches the outer 
+tube of the rear bushing at the other end of the side member. Spray anti-rust wax for 8 seconds while 
+pulling the spray nozzle back to the original opening.
+Spray time: 8 sec.
+SIDE MEMBER LEFT HAND FRONT (G)
+Insert the 360o spray nozzle into hole (G) at front end of the side member until it touches the outer 
+tube of the rear bushing at the other end of the side member. Spray anti-rust wax for 8 seconds while 
+pulling the spray nozzle back to the original opening.
+Spray time: 8 sec.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 14 of 36
+SIDE MEMBER RH / LH CENTER (picture D & E / H & I)
+Insert the 360o spray nozzle into the hole (D or H) at center of the side member toward the 
+crossmember front until it touches the crossmember front. Spray anti-rust wax for 4 seconds while 
+pulling the spray nozzle back to the original opening.
+Also insert the 360o spray nozzle into the hole (D or H) at center of the side member toward the rear 
+until it touches the outer tube of the rear bushing at the rear end of the side member . Spray anti-rust 
+wax for 4 seconds while pulling the spray nozzle back to the original opening.
+Spray time: 8 sec. X 2 locations = 16 sec.
+SIDE MEMBER RIGHT & LEFT HAND CENTER (F/J)
+Insert the 360o spray nozzle into the hole (D or H) at center of the side member in an upright position 
+until it touches the upper side. Spray anti-rust wax for 2 seconds.
+Spray time: 2 sec. X 2 locations = 4 sec.
+F & J
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 15 of 36
+CROSSMEMBER REAR (K, L, & M)
+Insert the 360o spray nozzle into the opening at left or right end of the crossmember rear until it 
+touches the side member at the other side. Spray anti-rust wax for 8 seconds while pulling the spray 
+nozzle back to the original opening.
+In addition to the above work, insert the 360o spray nozzle into the same openings at the left and right 
+ends of the crossmember rear in an upright position until it touches the upper part of the member. 
+Spray anti-rust wax for 1 second. Spray time: 1 sec. X 2 locations = 2 sec.
+Step 8: Application of anti-rust wax (NOX RUST X – R576-108) to outside of the sub-frame.
+Use the 90o hook wand. Turn the stop screw counterclockwise 3 turns from closed, and adjust the air 
+pressure to 80 psi. Sprayed amount: 20oz (600cc). Targeted layer thickness should be a minimum of 2 
+mil.
+(1) Spray anti-rust wax onto the entire subframe surface, hem flange and welded flange of the 
+crossmember front, the side member left and right and crossmember rear under side.
+Spray time : 4 min.
+K, L & M
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 16 of 36
+(2) Lower the lift to facilitate the spray work and spray anti-rust wax onto the upper surfaces and side 
+surfaces of the left and right side members.
+Spray time : 2 min.
+Step 9:  Clean-up and Drying
+(1) Wipe off the overflowed wax with a soft cloth.
+(2) Make sure the holes located at the bottom of the members accessed in the repair are 
+not clogged with wax. If clogged, clean the holes thoroughly.
+(3) Allow at least one hour drying time before using the vehicle.
+RECALL CAMPAIGN IDENTIFICATION LABEL
+Type or print the necessary information on a Recall Campaign identification label. The completed 
+label should be attached to the vehicle’s upper radiator support.
+A quantity of labels is provided to each dealer with this bulletin. Additional labels are available 
+through your Regional / Distributor Service Office.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 17 of 36
+CLAIM REIMBURSEMENT AND ENTRY PROCEDURES
+Credit for performing this recall campaign will be based on the submission of properly completed 
+repair order information. Dealers may enter the applicable claim information through their Dealer 
+Communications System.
+Listed below is claim  entry information
+Clean and Rust-proof Rear Suspension Sub-frame – Use the following information for claim 
+submission:
+Enter labor operation 161-251 for 0.9 labor hours.
+Claim Type Campaign Code Labor Operation Labor Time Labor Description
+Recall/Campaign RC WWM- 96 161-251 0.9Rear Sub-frame 
+Assembly – Rust-proof
+Enter the applicable part number. Parts will be reimbursed at dealer cost plus applicable handling 
+allowance.
+Model Description Pat Number Quantity
+Legacy,  Outback  & BajaRust-proofing  Material
+(non-orderable part number for claim purposes only)SOA635069 1
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 18 of 36
+OWNER  NOTIFICATION  LETTER
+Subaru of America, Inc.
+Subaru Plaza
+P.O. Box 6000
+Cherry Hill, NJ 08034-6000 
+www.subaru.com
+Important Safety Recall Notice  
+Subaru Recall Campaign WWM-96  
+NHTSA Recall No. 03V-153
+July, 2003
+Dear Subaru Owner:
+This notice is sent to you in accordance with the National Traffic and Motor Vehicle Safety Act.
+SUBARU OF AMERICA, INC. has decided that a defect, which relates to motor vehicle safety, 
+exists in some 2000-2003 model year Subaru Legacy, Outback and BAJA vehicles originally sold or 
+currently registered in the states of:
+Connecticut Kentucky Missouri Rhode Island
+Delaware Maine New Hampshire Vermont
+District of Columbia Maryland New Jersey Virginia
+Illinois Massachusetts New York West Virginia
+Indiana Michigan Ohio Wisconsin
+Iowa Minnesota Pennsylvania
+DESCRIPTION OF THE SAFETY DEFECT
+Subaru has determined that your vehicle may have been manufactured with a rear sub-frame 
+assembly with poor paint quality. If the vehicle is operated for an extensive period in a “salt-belt” 
+area (see list of states above that use salt on the roads in the winter), continued exposure to salt could 
+cause the rear sub- frame assembly to rust-out and eventually break.
+DESCRIPTION OF THE SAFETY HAZARD
+The rear sub-frame assembly is part of your vehicle’s body and rear suspension. If the sub-frame 
+assembly were to rust-out and break, control of the vehicle could be affected without prior warning, 
+possibly resulting in a crash. If you encounter this situation, steer the vehicle off the roadway to a safe 
+area in which to stop. Avoid sudden braking and steer straight ahead as you gradually slow down and 
+move to a safe area.
+REPAIRS
+To prevent this condition from occurring, Subaru will clean and apply anti-rust material to the rear 
+sub- frame assembly at no cost to you.
+WHAT YOU SHOULD DO
+You should immediately contact your Subaru Dealer for an appointment to have anti-rust material 
+applied to your vehicle’s rear sub-frame at no cost to you.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 19 of 36
+HOW LONG WILL THE REPAIR TAKE?
+The actual time to clean and apply anti-rust material to the rear sub-frame assembly is approximately 
+one hour. However, after the anti-rust material is applied, the vehicle should not be driven for at least 
+one additional hour to allow time for the material to dry. Therefore, it may be necessary to leave your 
+vehicle the full day of your scheduled appointment to allow your dealer flexibility in scheduling. 
+Please present this letter to your Subaru Dealer at the time this repair procedure is performed.
+IF YOU HA VE PREVIOUSLY PAID FOR A REPAIR
+In the event that you have already paid for repairs associated with this condition, you may be eligible 
+for reimbursement. The actual sum reimbursed will be equivalent to the amount Subaru of America 
+would reimburse an authorized Subaru dealer in your area for the repair .
+Please send the original service repair order, which has complete information including the name of 
+the repair facility, date of repair, mileage at the time of repair, complete vehicle identification number 
+(17 digits), and your name, with correct mailing address and telephone number to the address listed 
+below.
+Subaru of America, Inc.
+Customer Dealer Service Department  
+Attention: Service Program WWM-96
+P.O. Box 6000
+Cherry Hill, NJ 08034-6000
+Please send original receipts only and retain a photocopy for your records. Please be assured that we 
+will attempt to process your reimbursement request as quickly as possible. It may take up to 60 days 
+for this process to be completed.
+CHANGED YOUR ADDRESS OR SOLD YOUR SUBARU?
+If you have moved or sold your vehicle, please complete the enclosed prepaid postcard and mail it to 
+us.
+IF YOU NEED FURTHER ASSISTANCE:
+To locate the nearest Subaru Dealer you can access our website at www.Subaru.com and go to the dealer 
+locator function. Or, you may call us at 1-800-SUBARU3 (1-800-782-2783) during normal business 
+hours for assistance. (Monday through Friday 8:30 am to 5:pm EST). Please call us immediately if 
+the dealer fails or is unable to make the necessary repairs free of char ge or write to the address listed 
+on the first page of this letter.
+You may also contact The Administrator, National Highway Traffic Safety Administration, 400 
+Seventh Street, S.W., Washington, DC 20590 or call the toll free Auto Safety Hotline at
+1-888-327-4236 if you believe the dealer has failed or is unable to remedy your vehicle without 
+charge within a reasonable amount of time.
+Your continued satisfaction with your Subaru is important to us. Please understand that we have 
+taken this action in the interest of your safety and your vehicle’ s proper operation. We sincerely 
+apologize for any inconvenience this matter may cause and urge you to schedule an appointment as 
+soon as possible to have this repair performed.
+Sincerely,
+Subaru of America, Inc.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 20 of 36
+SAFETY  DATA  SHEET (PAGE 1 of 11)
+NOX-RUST® R576-108
+1. Identification
+Product identifier used on the label:  NOX-RUST® R576-108
+Stock Number:    4790012 
+Other  means of identification:
+Synonyms:      None
+Chemical family:     Mixture
+Recommended use of the chemical  and restrictions on use:
+Recommended use:    Corrosion Preventive  Compound
+Restrictions on use:    Uses other than those described above
+Name, address, and telephone number  
+of the chemical manufacturer,  
+importer, or other responsible party:
+Telephone number:    1-708-496-7350
+E-mail address:    SDS@Daubert.com
+Emergency  phone number:   Chemtrec:  1-800-424-9300 (International)
+2. Hazard(s) identification
+Classification  of the chemical  in accordance  with paragraph (d) of §1910.1200:
+GHS Hazard Symbols:  
+GHS Classification:  Skin Corrosion/Irritation Category 2; Flammable Liquid    
+     Category 3; Specific Target Organ Systemic  Toxicity (STOT) -   
+     Single Exposure Category 3Stock Number:    4790012
+ Revision Date:    02-07-2025
+          Replaces:    09-10-2019
+Daubert Chemical Company  
+4700 S. Central Avenue 
+Chicago, IL 60638
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 21 of 36
+SAFETY  DATA  SHEET (PAGE 2 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Signal Word:   Warning
+Hazard Statements:  Flammable  liquid  and vapor 
+     Causes skin irritation
+     May cause drowsiness or dizziness
+Unclassified Hazards (HNOC): None Identified
+Precautionary Statements:
+Prevention:   Keep away from heat/sparks/open flames/hot surfaces.  
+    – No smoking.
+    Ground/bond container  and receiving  equipment.
+    Use explosion-proof electrical/ventilating/lighting  equipment. 
+    Use only non-sparking tools.
+    Take precautionary measures against static discharge. Avoid   
+    breathing dust/fume/gas/mist/ vapors/spray. Wash thoroughly after   
+    handling.
+    Use only outdoors or in a well-ventilated area.
+    Wear protective gloves/protective clothing/eye protection/face   
+    protection.
+Response:   If on skin: Wash with plenty  of water.
+    If on skin (or hair):  Take off immediately  all contaminated  clothing.    
+    Rinse skin with water/shower.
+    If inhaled: Remove person to fresh air and keep comfortable  
+    for breathing.
+    Call  a poison center/doctor  if you feel unwell. Specific treatment:   
+    see Section  4 on this SDS.
+    If skin irritation occurs: Get medical advice/attention. Take    
+    off contaminated  clothing and wash it before reuse. In case of fire:    
+    Use appropriate media to extinguish.
+Storage:   Store in a well-ventilated place. Keep container tightly  closed
+    Store in a well-ventilated  place.  Keep cool. 
+    Store locked up.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 22 of 36
+SAFETY  DATA  SHEET (PAGE 3 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Disposal:    Dispose of contents/container to a suitable disposal site in   
+     accordance with local/national/international regulations.
+Hazards not otherwise classified: No data available
+3. Composition/information on ingredients
+Chemical Name Common name and synonyms CAS # %
+Distillates (petroleum),
+hydrotreated lightNone 64742-47-8 45 - 70
+Specific chemical  identity and/or  exact percentage (concentration)  of composition has been 
+withheld as a trade secret.
+4. First-aid measures
+Description of necessary measures, subdivided according to the different routes of exposure, i.e., 
+inhalation, skin and eye contact, and ingestion:
+Inhalation:     If symptoms are experienced remove source of    
+      contamination or move victim to fresh air and    
+      obtain medical advice.
+Eye Contact:    Flush eyes with plenty of water for at least 20    
+      minutes retracting eyelids often. Tilt the head to prevent   
+      chemical from transferring to the uncontaminated eye.   
+      Get immediate medical attention.
+Skin Contact:    Wash with soap and water. Get medical attention if    
+      irritation develops or persists.
+Ingestion:     Do not induce vomiting and seek medical attention    
+      immediately. Provide medical care provider with    
+      this SDS. If vomiting occurs, lean victim forward    
+      to reduce risk of aspiration into lungs.
+Most important symptoms/effects,  
+acute and delayed:
+Indication of immediate medical  
+attention and special treatment  
+needed, if necessary:Causes skin irritation. May cause drowsiness or dizziness
+Consult a physician. Treat symptomatically 
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 23 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+5. Fire-fighting measures
+Suitable (and unsuitable) extinguishing media:
+Suitable extinguishing media: Use alcohol  resistant  foam, carbon dioxide,  dry chemical,    
+     or water spray when fighting fires. Water or foam  may cause   
+     frothing if liquid  is burning but it still may be a useful   
+     extinguishing agent if carefully applied to the fire.
+Unsuitable extinguishing media: Do not use water jet as an extinguisher, as this will spread    
+     the fire.
+Specific hazards arising  
+from the chemical:    Vapors may be ignited by sparks, flames or other    
+      sources of ignition if material is above the flash    
+      point giving rise to a fire (Class B). Vapors are heavier than  
+      air and may travel to a source of ignition and flash back.
+      Empty containers that retain product residue (liquid, solid/  
+      sludge, or vapor) can be dangerous. Do not pressurize, cut,   
+      weld, braze, solder, drill, grind, or expose container to heat,  
+      flame, sparks, static electricity, or other sources of ignition.   
+      Any of these actions can potentially cause an explosion that  
+      may lead to injury or death.
+Hazardous combustion products: Carbon dioxide, Carbon monoxide
+Special protective equipment and  
+precautions for fire-fighters:   Do not enter fire area without proper protection    
+      including self-contained breathing apparatus and   
+      full protective equipment. Fight fire from a safe distance  
+      and a protected location due to the potential of    
+      hazardous vapors and decomposition products.    
+      Use appropriate methods for the surrounding fire.
+6. Accidental release measures
+Personal precautions, protective equipment  
+and emergency procedures:   No health effects expected from the clean-up of this    
+      material if contact can be avoided. Follow personal    
+      protective equipment recommendations found in Section   
+      VIII of this SDS.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 11/26/24         Page 24 of 36SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Methods and materials for  
+containment and cleaning up:  Absorb or cover with dry earth, sand or other non-   
+      combustible material and transfer to appropriate waste   
+      containers. Use clean, non-sparking tools to collect    
+      absorbed material. Collect and discard in accordance with   
+      local, state and national regulations
+7. Handling and storage
+Precautions for safe handling:  Mildly irritating material. Avoid unnecessary exposure.   
+      “Empty” containers retain product residue (liquid and/or   
+      vapor) and can be dangerous. Ground and bond    
+      containers when transferring material. Do not get in    
+      eyes, on skin and clothing. Wash thoroughly after    
+      handling. As with all chemicals, good industrial hygiene   
+      practices should be followed when handling this material.
+Conditions for safe storage, including any incompatibilities:
+Safe storage conditions:  Store in a cool dry place. Isolate from incompatible     
+     materials. Keep away from heat, sparks, and flame.    
+     Keep container closed when not in use.
+Materials to Avoid/Chemical  
+Incompatibility:   Strong oxidizing  
+8. Exposure controls/personal protection
+OSHA permissible exposure limit (PEL), American Conference of Governmental Industrial 
+Hygienists (ACGIH) Threshold Limit Value (TLV), and any other exposure limit used or 
+recommended by the chemical manufacturer, importer, or employer preparing the safety data 
+sheet, where available:
+Chemical component OSHA PEL ACGIH TLV ACGIH STEL IDLH
+Distillates (petroleum),
+hydrotreated light200 mg/m3 No data available
+Appropriate engineering controls: Local exhaust ventilation or other engineering controls  are   
+      normally required when handling or using this product to   
+      avoid overexposure.
+      Engineering controls must be designed to meet the OSHA   
+      chemical specific standard in 29 CFR 1910.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 25 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Individual protection measures, such as personal protective  equipment:
+Respiratory Protection:   Proper ventilation  (at a minimum)  will be required  when   
+      handling  this product. Use respirators (NIOSH approved)   
+      only if ventilation cannot be used  to eliminate  symptoms or   
+      reduce  the exposure to below acceptable levels.
+Respirator  Type(s):   NIOSH  approved air purifying respirator  with organic   
+      vapor cartridge.
+Eye protection:    Wear chemically resistant safety glasses with side shields   
+      when handling this product. Do not wear contact lenses.
+Skin protection:    Wear protective gloves. Inspect gloves for chemical break-  
+      through and replace at regular intervals. Clean protective   
+      equipment regularly. Wash hands and other exposed   
+      areas with mild soap and water  before eating, drinking, and  
+      when leaving work.
+Gloves:     Chemically resistant gloves
+Other protective equipment:  Wear chemically  resistant  safety glasses with side shields   
+      when handling this product. Do not wear contact lenses.
+      Wear protective gloves. Inspect gloves for chemical break-  
+      through and replace  at regular intervals.  Clean  protective    
+      equipment  regularly. Wash hands and other exposed    
+      areas with mild  soap and water before eating, drinking, and   
+      when leaving work.
+General  hygiene conditions:  Use with adequate ventilation Do not use pressure to          
+      empty container. Remove contaminated clothing and   
+      wash before before reuse. Avoid contact with material,  
+      avoid breathing dusts or fumes, use only in a well-    
+      ventilated area. Use spark-proof tools and explosion-proof   
+      equipment. “Empty” containers retain product residue   
+      (liquid and/or vapor) and can be dangerous. Ground and  
+      bond containers when transferring material. Do not get in   
+      eyes, on skin and clothing. Wash thoroughly after    
+      handling. As with all chemicals, good industrial hygiene   
+      practices should be followed when handling this material.  
+ 
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 26 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+9. Physical and chemical properties
+      
+Appearance (physical state, color  etc.):
+ Physical state:               Viscous Liquid
+ Color:      Amber
+ Odor:      Petroleum  Type
+ Odor  Threshold:    No data available
+ pH:      No data available
+Melting  point/freezing point (°C):
+ Melting Point (°C):    No data available
+ Freezing point (°C):    No data available 
+Initial boiling point and boiling range (°C):   No data available 
+Flash Point:     >= 105 °F (41 °C)
+Evaporation Rate:     <1 (n-Butyl Acetate=1)
+Flammability (solid, gas):    No data available
+Upper/lower flammability or explosive limits:
+Upper flammability or explosive limits: No data available
+Lower flammability or explosive limits: No data available
+Vapor pressure:     > 2 mmHg @ 20°C
+Vapor density:     No data available
+Relative density:     0.899
+Solubility(ies):     Negligible; 0-1%
+Partition coefficient: n-octanol/water:  No data available
+Auto-ignition temperature (°C):   No data available
+Decomposition Temperature (°C):  No data available
+Viscosity:      Typical 1500 cP
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 27 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Volatiles, % by weight:    5 2
+VOC, Material, lb/gal     3.87
+VOC, Material, grams/liter    463.7
+VOC minus exempt solvents & water, g/L 466
+10. Stability and reactivity
+Reactivity:      Not expected to be reactive
+Chemical stability:     Stable under normal conditions.
+Possibility of hazardous reactions:  Under normal conditions of storage and use,   
+       hazardous reactions will not occur.
+Conditions to avoid (e.g., static  
+discharge, shock, or vibration):   Temperatures above flash point in combination with  
+       sparks, open flames, or other sources of ignition.    
+       Elevated temperatures. Contamination.
+Incompatible materials:     Strong oxidizing agents
+Hazardous decomposition products:  Under normal conditions of use & storage,    
+       decomposition and hazardous decomposition   
+       products are unlikely.
+11. Toxicological information
+Description of the various toxicological (health) effects and the available data used to identify 
+those effects:
+Information on the likely routes of  
+exposure (inhalation, ingestion, skin  
+and eye contact):       Eye contact, Skin contact, Inhalation
+Symptoms related to the physical,  
+chemical and toxicological characteristics:   Causes skin irritation. May cause drowsiness or   
+       dizziness
+ 
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 28 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Delayed and immediate effects and also chronic effects from short- and long-term exposure:
+Ingestion Toxicity:    Harmful if swallowed. Estimated to be > 5.0 g/kg;   
+       practically non-toxic.
+Skin Contact:     Can cause minor skin irritation, defatting, and   
+       dermatitis.
+Inhalation Toxicity:     No data available
+Eye Contact:     Can cause moderate irritation, tearing andreddening,  
+       but not likely to permanently injure eye tissue.
+Sensitization:     None known
+Mutagenicity:      No data
+ 
+Reproductive and Developmental Toxicity: No data available
+ 
+Carcinogenicity:      There are no carcinogenic ingredients present at or   
+       over 0.1%.
+STOT-single exposure:    Classification has been based on toxicological   
+       information of the components in Section 3.
+STOT-repeated exposure:   Based on available data, the classification criteria are  
+       not met.
+Aspiration hazard:    Based on available data, the classification criteria are  
+       not met.
+Numerical measures of toxicity (such as acute toxicity estimates):
+Chemical Name LD50 Oral LD50 Dermal LC50 Inhalation
+Distillates (petroleum),
+hydrotreated lightInhalation LC50 (4h) Rat >
+20 mg/L
+ 
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 29 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Is the hazardous chemical listed in the National Toxicology Program (NTP) Report 
+on Carcinogens (latest edition) or has it been found to be a potential carcinogen in the 
+International Agency for Research on Cancer (IARC) Monographs (latest edition), or by 
+OSHA?:
+Chemical Name OSHA Carcinogen IARC Carcinogen NTP Carcinogen
+No component of this product present at 
+levels greater than or equal to 0.1% is 
+identified as a known or anticipated
+carcinogen.
+  
+12. Ecological information
+Ecotoxicity (aquatic and terrestrial, where available):   No data available
+Ecological Toxicity Data:
+Chemical Name CAS #Aquatic ERC50 
+CrustaceaAquatic ERC50
+AlgaeAquatic LC50 Fish
+No data available
+   
+Persistence and degradability:        No data
+Bioaccumulative potential:        No data available
+Mobility in soil:          No data available
+Other adverse effects  
+(such as hazardous to the ozone layer):       No data available
+13. Disposal considerations
+Description of waste residues and  
+information on their safe handling  
+and methods of disposal, including the  
+disposal of any contaminated packaging:             Spent or discarded material may be a   
+           hazardous waste. Dispose of by    
+                    incineration following Federal, State,   
+           Local, or Provincial regulations.
+ Waste codes / waste designations:       D001
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 30 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+14. Transport information
+Domestic Ground in containers <= 119 GL Corrosion preventive/Non-Regulated
+Domestic Ground in containers > 119 GLUN1268, PETROLEUM DISTILLATES, N.O.S., (Naphtha Solvent),
+Combustible liquid, PG III
+Shipping name for Export, Air (IATA) UN1268, PETROLEUM DISTILLATES, N.O.S., (Naphtha Solvent),3, PG III
+Shipping name for Export, Sea (IMDG) UN1268, PETROLEUM DISTILLATES, N.O.S., (Naphtha Solvent),3, PG III
+Marine Pollutant? No
+15. Regulatory information
+International Inventory
+Country(s) or region On inventory (yes/no)*
+Australia Australian Inventory of Chemical Substances (AICS) Yes
+CanadaDomestic Substances List (DSL)/Non- Domestic Substances 
+List (NDSL)Yes
+China Inventory of Existing Chemical Substances in China (IECSC) Yes
+EuropeEuropean Inventory of Existing Commercial Chemical 
+Substances (EINECS)Yes
+Europe European List of Notified Chemical Substances (ELINCS) No
+Japan Inventory of Existing and New Chemical Substances (ENCS) Yes
+Korea Existing Chemicals List (ECL) Yes
+New Zealand New Zealand Inventory Yes
+PhilippinesPhilippines Inventory of Chemicals and Chemical 
+Substances (PICCS)Yes
+Taiwan Taiwan Inventory Yes
+United States & Puerto Rico Toxic Substances Control Act (TSCA) Inventory Yes
+*A “Yes” indicates that all components of this product comply with the inventory requirements 
+administered by the governing country(s)
+A “No” indicates that one or more components of the product are not listed or are unknown from 
+listing on the inventory administered by the governing country(s).
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 31 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+Chemical Name  CAS #   Regulation   Percent
+Naphthalene  91-20-3  Prop. 65 - Cancer  TRACE
+Cumene   98-82-8  Prop. 65 - Cancer  TRACE
+Benzene   71-43-2  Prop. 65 - Cancer  TRACE
+Ethylbenzene  100-41-4  Prop. 65 - Cancer  TRACE
+Toluene   108-88-3  Prop. 65 - Developmental  <0.1 
+       and/or Reproductive
+Benzene   71-43-2  Prop. 65 - Developmental  TRACE 
+       and/or Reproductive 
+Toluene   108-88-3  CERCLA    <0.1
+           RQ = 1000 lbs
+Naphthalene  91-20-3  CERCLA    TRACE
+           RQ = 100 lbs.
+Cumene   98-82-8  CERCLA    TRACE
+           RQ = 5000 lbs.
+Benzene   71-43-2  CERCLA    TRACE
+           RQ = 10 lbs.
+Ethylbenzene  100-41-4  CERCLA    TRACE
+           RQ = 1000 lbs.
+No 313-listed chemicals  
+in this product.     SARA 313
+ 
+No SARA 302 EHS-listed  
+chemicals in this product.   SARA EHS
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 32 of 36
+SAFETY  DATA  SHEET (PAGE 4 of 11)
+Product identifier used on the label:  NOX-RUST ® R576-108
+Stock Number:  4790012 
+Revision Date:  02-07-2025
+Stock Number:  09-10-2019
+16. Other information, including date of preparation or last revision
+SDS Prepared by:     DAUBERT\HALINSKI
+Revision Date:     04-01-2021
+Revision Number:    2 1
+Reason for revision:    Reviewed 
+       Approved: M. Longo
+Disclaimer:      Although the information contained herein is   
+       believed to be reliable, it is furnished    
+       without warranty of any kind. This information is   
+       not intended to be all-inclusive as to the manner and  
+       conditions of use, handling, and storage.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 33 of 36
+MATERIAL  SAFETY  DATA  SHEET (PAGE 1 of 4)  
+DAUBERT CHEMICAL COMPANY
+4700 SOUTH CENTRAL A VENUE  
+CHICAGO, ILLINOIS 60638
+TELEPHONE: (708) 496-7350
+FAX: (708) 496-7367
+EMERGENCY CONTACT:
+CHEMTREC (800) 424-9300HMIS HAZARD RATING
+HEALTH 1
+FIRE 2
+REACTIVITY 0
+PERSONAL PROTECTION D
+Date of Review: May 12, 2003  
+Date of Preparation: January 1991                           Revised:   September 17, 1998
+By:   R. Lauterbach
+SECTION 1: PRODUCT IDENTIFICATION
+Product Name: NOX-RUST®X-210
+Chemical Family: Petroleum Solvent/Additive Blend 
+Material Usage: Corrosion Preventive Compound
+EMERGENCY OVERVIEW: Petroleum solvent-based product with solvent odor. Combustible liquid; 
+when product burns it releases typical hydrocarbon products of combustion. Refer to Section 3 for health 
+effects and to Section 5 for fire hazard data.
+SECTION 2: HAZARDOUS INGREDIENTS
+Component                                                                Recommen ded Exposure Limits  (TWA)                   
+Aliphatic Petroleum Solvent                                         OSHA PEL:  100 ppm
+CAS #64742-88-7, #64742-47-8,                             ACGIH TLV:  100 ppm
+#8052-41-3                                                                 ACGIH STEL: 200 ppm
+SECTION 3: HEALTH HAZARD INFORMATION
+Primary  Routes of Entry: Inhalation, skin absorption.
+Acute Effects: Excessive inhalation may produce dizziness, nausea, headache, and incoordination. May 
+cause severe eye irritation and reversible skin irritation. Prolonged skin exposure may cause dermatitis or 
+oil acne. Breathing mists may cause dizziness or pulmonary irritation.
+Chronic Overexposure:  Not Determined
+Carcinogenicity:  None of the components of this product are listed as carcinogens by NTP , IARC, 
+or OSHA 1910(Z).
+Pre-Existing Medical  Conditions Aggravated by Exposure: Exposure may aggravate pre-existing  
+respiratory or skin problems.
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 34 of 36
+SECTION 4: FIRST AID PROCEDURES
+Inhalation: Move victim to fresh air and call emergency medical care. If not breathing, give artificial 
+respiration; if breathing is difficult, give oxygen.
+Eyes: In case of contact with material, immediately flush eyes with running water for at least 15 
+minutes. Seek immediate medical attention.
+Skin: Wash skin with soap and water. Remove and isolate contaminated clothing and shoes at the 
+site.
+Ingestion: DO NOT INDUCE VOMITING. Consult a physician. If vomiting occurs spontaneously, 
+keep head below hips to prevent aspiration of liquid into the lungs.
+SECTION 5: FIRE AND EXPLOSION HAZARD DATA
+Flash Point: 105 oF. (TCC )
+Explosive Limits:  LEL: 0.6  UEL: 7.0
+EXTINGUISHING MEDIA:
+Small Fires: Dry chemical, CO2, water spray, or regular foam.
+Large Fires: Water spray, fog, or regular foam. Move container from fire area if you can do it without 
+risk. Apply cooling water to sides of containers that are exposed to flames until well after fire is out. 
+Stay away from ends of tanks. For massive fire in cargo area, use unmanned hose holder or monitor 
+nozzles. If this is impossible, withdraw from area and let fire burn. Withdraw immediately in case of 
+rising sound from venting safety device or any discoloration of tank due to fire.
+Special Firefighting Protection/Emergency Action: Fire may produce irritating or poisonous 
+gases. Positive pressure self-contained breathing apparatus (SCBA) and structural firefighters’ protective 
+clothing will provide limited protection. Keep unnecessary people away; isolate hazard area and deny 
+entry. If runoff from fire control occurs, notify the appropriate authorities.
+Unusual Fire/Explosion Hazards: Flammable/combustible material; may be ignited by heat, sparks 
+or flames. Vapors may travel to a source of ignition and flash back. Container may explode in heat 
+of fire. Vapor explosion hazard indoors, outdoors or in sewers. Runoff to sewer may create fire or 
+explosion hazard.
+Products of Combustion:  Carbon monoxide, carbon dioxide, oxides of sulfur, miscellaneous 
+hydrocarbons.
+SECTION 6: SPECIAL PRECAUTIONS AND SPILL/LEAK PROCEDURES
+Steps to be Taken in case Material  is Released or Spilled: Shut off ignition sources; no flares, 
+smoking or flames in hazard area. Stop leak if you can do it without risk.
+Small Spills: Take up with sand or other noncombustible absorbent material and place into 
+containers for later disposal.
+Large Spills: Dike far ahead of liquid spill for later disposal.(PAGE 2 of 4)
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 35 of 36
+SECTION 7: SAFE HANDLING INFORMATION
+Precautions To Be Taken In Handling/Storage: Store in cool, well-ventilated area. Keep away from 
+flames, sparks or hot surfaces. Never use a torch to cut or weld on or near container. Empty containers 
+can contain explosive vapors.
+Other  Precautions: Never wear contaminated clothing. Launder or dry clean before wearing. 
+Discard oil-soaked shoes. Wash thoroughly with soap and water (waterless hand cleaner may be 
+helpful in removing residues) after use and before smoking or eating. Avoid excessive skin contact.
+SECTION 8: EXPOSURE CONTROLS
+Respiratory Protection:  NIOSH-approved respirator for organic vapor and mist to control 
+exposure where ventilation is inadequate.
+Ventilation: General and local exhaust.
+Personal Protective Equipment:
+Protective Gloves: Impervious gloves (Viton, PVOH, etc.)
+Eye Protection: Safety glasses with sideshields or chemical goggles.
+Other Protective Clothing or Equipment: If splashing is anticipated, wear rubber apron and boots or 
+other protective equipment to minimize contact.
+SECTION 9: REACTIVITY HAZARD DATA
+Stability: Stable
+Incompatibility: Strong acids, oxidizing agents.
+Hazardous Decomposition Products: Carbon monoxide, carbon dioxide, oxides of sulfur, 
+miscellaneous hydrocarbons.
+Hazardous Polymerization: Will not occur.
+SECTION 10: PHYSICAL AND CHEMICAL PROPERTIES
+Color:                                                                                                                     Dark Amber
+Appearance:                                                                                                                  L iquid
+Odor:                                                                                                           Petroleum Solvent
+Boiling Point (initial):                                                                                                    >300 oF
+Evaporation Rate (n-Butyl Acetate=1):                                                                                    <1
+Vapor Pressure (mmHg @ 20 oC):                                                                                  3 .4
+Vapor Density (air=1):                                                                                                            > 1
+Solubility in Water:                                                                                               N egligible
+Specific Gravity:                                                                                                           0 .8
+pH:                                                                                                               Not Applicable
+Percent V olatile by V olume:                                                                                                9 2(PAGE 3 of 4)
+Continued...
+Bulletin Number: WWM-96R;  Revised: 02/10/25         Page 36 of 36
+SECTION 11: DISPOSAL CONSIDERATIONS
+Waste Disposal Methods: Dispose of in accordance with state, local and federal regulations. Materials 
+may become a hazardous waste through use. If permitted, incineration may be practiced. Consider 
+recycling solvent.
+SECTION 12: REGULATORY INFORMATION
+Volatile Organic Content: (Calculated Values)
+VOC per gallon:                                                                                                           6.0 lbs/gal
+VOC per Gallon minus exempt solvents & water:                                                           6.0 lbs/gal
+EPA Hazardous Waste Number(s) (40 CFR Part 261):                                            D001, D005
+EPA Hazard Category (40 CFR Part 370):                                   DELAYED (CHRONIC) 
+                                                                                                                 FIRE (COMBUSTIBLE)
+SARA TITLE III:
+This product contains the following TOXIC CHEMICALS subject to the Reporting Requirements of 
+Sec. 313 of Title III of the Superfund Amendments and Reauthorization Act of 1986, and of 40 CFR 
+Part 372:
+Chemical CAS No. Wt%
+Barium Compounds 7440-39-3 0.4 (as barium)
+Diethylene Glycol N-Butyl Ether 112-34-5 3
+This product contains the following EXTREMELY HAZARDOUS SUBSTANCE(S) subject to 
+Emergency Planning Requirements under Sec. 301-303 (40 CFR Parts 300 and 355) and Emergency 
+Release Notification Requirements under Sec. 304:
+Chemical CAS No. Wt% RQ/TPQ Lbs
+NONE
+This product contains the following (CERCLA LIST) HAZARDOUS SUBSTANCE(S) subject to 
+Emergency Release Notification Requirements under Sec. 304 (40 CFR Part 302):
+Chemical CAS No. Wt% Final RQ Lbs
+Aliphatic Petroleum Solvent #64742-88-7,
+#64742-47-8,
+#8052-41-385-90 100
+CALIFORNIA PROPOSITION 65:
+This product may contain trace quantities of the following chemicals that are identified by the State 
+of California under the Safe Drinking Water and Toxic Reinforcement Act of 1986 (“Proposition 65”) 
+as either a carcinogenic or reproductive hazard:
+Chemical CAS No. Estimated Concentration %
+NONE
+Although the information contained herein is believed to be reliable, it is furnished without warranty 
+of any kind. This information is not intended to be all-inclusive as to the manner and conditions of 
+use, handling, and storage.(PAGE 4 of 4)
+Continued...

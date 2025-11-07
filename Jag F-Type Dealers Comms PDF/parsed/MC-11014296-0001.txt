@@ -1,0 +1,36 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)IOR
+ConditionA customer ma y comment that their radio displa y ma y have
+gone blank.
+Cause This ma y be due to software anomaly .
+Version 5
+Modiﬁed09/27/2024 - Created on.  
+11/19/2024 - Updated to add direction.  
+12/16/2024 - Updated to change title.  
+01/15/2025 - Updated to add 2025 model year . 
+02/11/2025 - Updated to add models and update
+correction.
+Bulletin No.: PIC6574D
+Published date: 02/11/2025
+Preliminary Information
+PIC6574D Black IOR Radio Screen
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletTrax 2024 - 2025 All AllAll All
+Chevr oletEquino x2023 - 2024 All AllAll All
+Chevr oletMalibu 2023 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+If a vehicle comes with this concern, do not replace the radio, LVDS cables, or radio
+display and contact TAC.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

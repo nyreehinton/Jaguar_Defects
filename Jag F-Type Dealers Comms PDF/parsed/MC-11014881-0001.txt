@@ -1,0 +1,7 @@
+   
+SSM 53443   2024-2025 Nautilus - Direct Injection Fuel Injector Removal Or
+Replacement
+2024-2025 Nautilus vehicles require inspection and removal and discard of O-rings or debris that may be stuck
+in the direct injection fuel rail injector bores when removing or replacing the injectors for any reason. Workshop
+Manual (WSM), Section 303-04 Direct Fuel Injection Rail Removal and Installation has been updated to
+address this condition.

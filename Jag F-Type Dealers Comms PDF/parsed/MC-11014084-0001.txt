@@ -1,0 +1,111 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  2-14-2020 
+SERVICE BULLETIN SUBJECT:  ADA Ramp Lowering  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-34 
+ 
+NOTICE! It is expected that this process will require 3  hour s per bus. Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+ADA RAMP LOWERING  RETROFIT  
+Retrofit Description:  
+This procedure removes spacers from the front suspension to allow a lower ride height for proper 
+ADA Ramp functionality.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Wheel Lifts    4 EA  
+• Jack Stands    6 EA  
+• Schrader Valve Tool  
+• Air Impact Tool  
+• 33mm Impact Socket  
+• 3/4-Inch Impact Socket  
+ 
+ 
+ 
+ 
+Parts Required:  
+ 
+• 013377- 001 SCREW,  HEX,  FLG,  STL,1000HSS,  GRD8, .50 -13X1.0X1.0  8 EA 
+  
+ 
+   
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Using a Schrader Valve tool , remove the four valve cores (shown, at S treetside rear of the 
+vehicle) to drain the air from the air bags.  
+ 
+ 
+3. Using Four Wheel Lifts, raise the bus into the air. Using four Jack Stands, support the bus at 
+the jacking points for safety.  Add an additional Jack Stand underneath each side of the front 
+suspension to support it when the Wheel Lifts are removed.  
+Note: Raising all four corners of the bus will speed the process. But it is possible to do one 
+side at a time.  
+ 
+  
+Remove Valve Cores  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+4. Remove the two front Wheel Lifts so tha t the tires may be removed.  
+ 
+5. Using an A ir Impact Tool and a 33mm socket, remove the lug nuts on the front axle and both 
+front tires.  
+  
+ 
+6. Using  an Air Impact Tool with a 3/4- Inch Impact Socket, remove the four bolts  that attach the 
+lower portion of the Streetside air bag to the suspension.  
+  
+ 
+7. Remove the spacer.   
+ 
+8. Using an Air Impact Tool with a 3/4- Inch Impact Socket, replace the bolts that were removed 
+with four new Half Inch Bolts ( 013377- 001). 
+ 
+9. Using a Calibrated Torque Wrench with a 3/4- Inch Socket, torque the Bolts (013377- 001) to 
+40 Foot Pounds.  
+ 
+10. Using Orange Torque Stripe Paint, mark the properly torqued fasteners.  
+ 
+11. Repeat the previous process to remove the spacer from the Curbside of the bus . 
+ 
+12. Using an Impact Tool with a 33mm Socket, replace the tires and lug  nuts.  
+ 
+Spacer  
+ 
+Remove Bolts  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+13. Using a calibrated Torque Wrench with a 33mm Socket, torque the L ug Nuts to 450 Foot 
+Pounds.  
+ 
+14. Replace the Lug Nut indicators if they were used.  
+ 
+15. Remove the Jack Stands and lower the bus.  
+ 
+16. Using a Schrader Valve Tool, replace the valve cores that were removed earlier.  
+ 
+17. Remove the Lockout/Tagout devices.  
+ 
+18. Power on the bus and allow the air bags to inflate.  
+ 
+19. Verity proper operation of the ADA Ramp before returning the bus to service.  

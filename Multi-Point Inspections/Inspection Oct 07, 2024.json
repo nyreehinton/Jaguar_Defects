@@ -1,0 +1,15 @@
+{
+  "document_type": "Multi Point Inspection",
+  "cost": 0.00,
+  "customer_details": {
+    "name": "Nyree Hinton",
+    "vehicle": "2020 Jaguar F-Type"
+  },
+  "inspection_details": {
+    "status": "Repair Estimates Requested"
+  },
+  "advisor": {
+    "name": "DANNY SANCHEZ",
+    "date_time": "Oct 07, 2024 02:36PM"
+  }
+}

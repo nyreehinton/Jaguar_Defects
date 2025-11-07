@@ -1,0 +1,33 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO) 
+ConditionSound mode menu cannot be accessed or changed  
+When attempting to adjust the audio settings within the
+Sound Mode Menu the screen will ﬂick er, go black and
+return to the audio settings menu.
+Cause Software
+Version 1
+Modiﬁed 02/05/2025  - Created on.
+Bulletin No.: PIT6332
+Published date: 02/5/2025
+Preliminary Information
+PIT6332 Sound Mode Menu Cannot Be Accessed or Changed
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac OPTIQ 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+Please do not attempt any repairs at this time. 
+Engineering is aware of the concern and is working on a resolution. 
+Additional SI K eywords
+audio, adjust, display, ﬂash, ﬂashes, menu, mode, options, radio, settings, scr een, sound,
+surround,
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

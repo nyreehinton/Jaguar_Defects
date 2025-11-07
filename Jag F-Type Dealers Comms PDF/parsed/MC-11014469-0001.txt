@@ -1,0 +1,90 @@
+ 
+ 
+Classification: Reference: Date: 
+DA23-002A ITB23-023A February 20, 2025 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Infiniti retaile r to determine if this applies to your vehicle. 
+ 
+1/3 
+ 
+AEB WARNING LIGHT IS ON WITH  
+WARNING MESSAGES DISPLAYED ON COMBINATION METER 
+ 
+ 
+  
+ 
+APPLIED VEHICLES: 2015-2024 Q50 (V37) 2015-2018 Q50 Hybrid (HV37) 2017-2022 Q60 (CV37) 2015-2019 Q70 (Y51) 2015-2018 Q70 Hybrid (HY51) 2019-2024 QX50 (J55) 2022-2024 QX55 (FJ55) 2015-2021 QX60 (L50) 2022-2024 QX60 (L51) 2015-2019 QX60 Hybrid (L50H) 2015-2024 QX80 (Z62) 
+ 
+SERVICE INFORMATION 
+ 
+The AEB system is designed to turn itself OFF during driving conditions (e.g., rain, snow, 
+fog, etc.) that obstr uct its sensors. This behavior is  normal, and no repairs should be 
+performed. When the AEB system performs an intentional shut down, the customer may 
+state the following: 
+ 
+ The ICC stopped worki ng while driving,  
+ 
+ The AEB/FEB warning light is ON , or turned ON, while driving ( Figure 1), 
+ 
+ The message “Unavailable Front Radar Obst ruction” or “Forward Driving Aids 
+Temporarily Disabled Front Sensor Blocked See Owner's Manual” has displayed 
+while driving ( Figure 2). 
+ 
+AND 
+ 
+ DTC C1A16, C1A16-97, C 2582, or C2582-97 is the ONLY  DTC stored. 
+ 
+         
+Figure 1 Figure 2 
+Forward Driving Aids  
+Temporarily Disabled 
+Front Sensor Blocked 
+See Owner’s Manual Unavailable 
+Front Radar Obstruction  
+This bulletin has been amended. See AMENDMENT HISTORY on the last page.  
+Please discard previous versions of this bulletin. 
+2/3 ITB23-023A Flow Chart 
+ 
+ 
+  
+Is DTC C1A16, C1A16-97, C2582, or 
+C2582-97 the ONLY DTC stored? 
+YES  
+Are there any obstructions  in front of the ICC 
+distance sensor on the bum per fascia, or on the 
+sensor itself? (Bugs, dirt, mud, slush, ice, etc.) 
+Remove 
+obstructions 
+This bulletin does not apply. 
+ 
+Do not immediately replace the 
+distance sensor . Refer to the ESM 
+for further diagnos tic information. 
+Does the incident occur repeatedly 
+(multiple times during multiple 
+trips)? 
+Does the incident ONLY  occur 
+during bad weather or when the 
+distance sensor is obstructed? 
+(Rain, sleet, snow, slush, etc.) 
+NO 
+YES  
+YES  
+YES  
+ NO 
+NO 
+NO 
+This behavior is normal, and no 
+repairs should be performed. 
+3/3 ITB23-023A  
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+July 31, 2023 ITB23-023 Original bulletin published 
+February 20, 2025 ITB23-023A APPLIED VEHICLES  revised 
+ 
+    
+ 

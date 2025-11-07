@@ -1,0 +1,106 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB190114 Released Date : 17-F eb-2025
+Shor tened Suction Side F uel Filter Lif e: Fault Code 559
+Shortened Suction Side Fuel Filter Life: Fault Code
+559
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+X12 CM2350 X119B
+X12 CM2450 X137B
+X15 CM2350 X114B
+X15 CM2350 X116B
+X15 CM2450 X124B
+X15 CM2450 X134B
+X15 CM2450 X142B
+Issue
+Sympt om:
+Cust omer r epeatedly experiences plugged suction side fuel filter prior t o requir ed
+maintenance inter val. See corr esponding Oper ation and Maintenance Manual,
+Bulletin 5411187. Ref erence Pr ocedur e 359-008 in Section 3 for fuel filter maintenance
+inter val.
+Root Cause:
+Suction side fuel filter plugging
+Verification
+Confirm suction side fuel filter is plugged. See corr esponding Ser vice Manual. Ref erence
+Procedur e 006-020 in Section 6 t o measur e suction side fuel filter r estriction.
+Confirm suction side fuel filter is a 10 micr on fuel filter . Ref erence T able 1 for corr esponding
+fuel filter par t number .
+Confirm pr essur e side fuel filter r estriction is within specification. P erform pr essur e side fuel
+filter r estriction test. See corr esponding Ser vice Manual. Ref erence Pr ocedur e 005-236 in
+Section 5 t o measur e pressur e side fuel filter r estriction.
+Resolution
+New suction side fuel filter options for units r epeatedly experiencing shor t suction side fuel filter
+life are available. New filter options off er adequate pr otection t o the fuel system while extending
+suction side fuel filter lif e. See Table 1.
+Service Instructions
+Verify corr ect pr essur e side fuel filter is installed. Pr essur e side fuel filter , Part Number FF5971NN,
+with new suction side fuel filter , Part Number FS20337, is r ecommended, but pr essur e side fuel
+filter , Part Number FF5825NN or FF5971NN, must  be used when utilizing a new suction side fuel
+filter .
+Service P arts Availability
+Table 1, Ser vice P arts
+Suction Side Filter
+HousingExisting Suction Side
+Fuel Filter (10
+Micr on) P art NumberNew Suction Side
+Fuel Filter P art
+NumberPressur e Side F uel
+Filter P art Number
+Standar d PACCAR
+HousingPACCAR K37-1029 PACCAR K37-1012 FF5825NN
+FLEE TGUARD®®
+FS20172FLEE TGUARD®
+FS20173FF5825NN
+Extended P ACCAR
+HousingPACCAR K37-1021 PACCAR K37-1022 FF5825NN
+Davco 382 / FH 230FLEE TGUARD®
+FS19727FLEE TGUARD®
+FS19729, FS19728  FF5825NN
+Davco 382 / FH 230
+– Plus Siz eFLEE TGUARD®
+FS19764FLEE TGUARD®
+FS19905G,
+FS19765  FF5825NN
+Davco 483FLEE TGUARD®
+FS20139FLEE TGUARD®
+FS20140FF5825NN
+Davco 485FLEE TGUARD®
+FS20083/FS20385FLEE TGUARD®
+FS20337FF5825NN
+Davco 498FLEE TGUARD®
+FS20083/FS20385FLEE TGUARD®
+FS20337FF5825NN
+Western StarFLEE TGUARD®
+FS19551FLEE TGUARD®
+FS19532FF5825NN
+MCI Coach CM2350FLEE TGUARD®
+FS2716FLEE TGUARD®
+FF5825NN
+FS19905G, FS1976511
+1
+Document Hist ory
+Last Modified:  17- Feb-2025Table 1, Ser vice P arts
+Suction Side Filter
+HousingExisting Suction Side
+Fuel Filter (10
+Micr on) P art NumberNew Suction Side
+Fuel Filter P art
+NumberPressur e Side F uel
+Filter P art Number
+MCI Coach CM2450FLEE TGUARD®
+FS19764FLEE TGUARD®
+FF2338NN
+FS19905G, FS197651
+FS19728 and FS19765 ar e preferred wher e available. 
+If a par t number is not referenced in Table 1, contact local Cummins Inc. r epresentativ e for
+assistance in obtaining corr ect suction side fuel filter par t number .1
+Date Details
+2019-6-27Module Cr eated
+2019-8-8Added statement about pessur e side fuel filter , Part Number
+FF5825NN. Added Extended P ACCAR Housing information t o Table 1.
+2021-6-28Updated Pr oduct Aff ected Section.
+2022-11-11Added X12 CM2350 X119B, X12 CM2450 X137B, and updated Table 1.
+2024-10-28Added X15 CM2450 X142B t o Product Aff ected list.
+2025-2-6Updated Ser vice Instruction section and Table 1.

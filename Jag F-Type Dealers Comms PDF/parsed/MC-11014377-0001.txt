@@ -1,0 +1,73 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-086
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Dark Spots Noticed in Headlamp Pattern When Vehicle is Pulled
+Up to a Wall or Garage
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+BuickEnclave 2022 2025
+— — — —Encore
+20202022
+Encore GX
+2025Envision 2024
+Envista 2024
+ChevroletBlazer 2023
+Trailblazer 2021
+Traverse 2022
+Trax
+2024
+GMC Acadia
+Involved Region or CountryNorth America, Bolivia, Chile, Colombia, Ecuador, Peru, Uzbekistan, Russia, Middle East,
+Israel, Palestine, Other Africa
+Additional Options (RPOs) Equipped with HEADLAMPS-LED (RPO T4L)
+ConditionSome customers may comment on dark spots in the headlamp pattern when the vehicle
+is pulled up to a wall or garage.
+6340797
+Shown in the picture above is an example for Enclave, Blazer, Traverse, and Acadia
+headlamp.Subject:
+Page 2 February, 2025 Bulletin No.: 23-NA-086
+ 
+6472911
+Shown in the picture above is an example for Encore, Encore GX, Envista, Trailblazer,
+and Trax headlamp.
+CauseThis dark spot in the lighting pattern is NORMAL  and part of compliance with the IIHS
+safety standards to minimize glare to oncoming traffic.
+Correction DO NOT  replace the headlamps for this condition. This is a normal function of the lamps.
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Please communicate to the customer that the headlamp system is functioning as designed and this is a normal
+condition of their vehicle. Please share this information with the customer, including a copy of this bulletin.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor
+OperationDescription Labor Time
+2086668* Verifying Dark Spots in
+Headlamp Pattern When
+Vehicle is Pulled Up to a
+Wall or Garage0.2 hr
+*This is a unique Labor Operation for bulletin use only.
+Bulletin No.: 23-NA-086 February, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 6
+ModifiedReleased May 03, 2023
+Revised November 02, 2023 – Added Encore GX, Envista, Trailblazer, Trax and 2024
+Model Year also updated Condition.
+Revised April 25, 2024 – Added Engine RPO for Traverse.
+Revised August 21, 2024 – Added Warranty Information.
+Revised October 25, 2024 - Added 2024-2025 Acadia and 2025 Enclave, Traverse.
+Revised February 11, 2025 - Added 2024-2025 Envision and 2025 Model Year for Blazer,
+Trailblazer, Encore GX, Trax, and Envista.
+Additional SI Keywords: Head Lamp, Headlamp, Beam, V shape, Headlight, Head Light

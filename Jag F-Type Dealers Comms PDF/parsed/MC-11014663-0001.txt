@@ -1,0 +1,179 @@
+SIB 62 02 25
+SERVICE ACTION: CBS CORRECTION FOR SP ARK PLUG
+REPLACEMENT  INTER VAL2025-02-26
+ 
+☒ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+F95 X5 M Sports Activity V ehicle From April 10, 2024 to April 29, 2024
+F96 X6 M Sports Activity Coupe From April 10, 2024 to April 29, 2024
+G05 X5 Sports Activity V ehicle From August 2, 2023 to June 4, 2024
+G06 X6 Sports Activity Coupe From October 3, 2023 to May 25, 2024
+G07 X7 Sports Activity V ehicle From August 6, 2023 to June 3, 2024
+G09 XM Sports Activity V ehicle From October 6, 2023 to May 31, 2024
+G70 7 Series Sedan From June 28, 2023 to May 16, 2024
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR, AWP,
+Campaign Summary , or W arranty V ehicle Inquiry
+ 
+Please make sure you check your center ’s inventory as soon as possible.  You can see a list of af fected vehicles
+in Inventory Campaign Details (ICD) under ROSS
+ 
+For centers that qualify , this Service Action repair is eligible to be performed via Mobile Assistance
+SITUA TION
+For certain model vehicles with the S68T  engine, the Condition Based Service (CBS) data may show spark
+plug replacement is due at a considerably “earlier” interval than specified in the Service and W arranty
+Informational Booklet. 
+ 
+CAUSE
+Incorrect Condition Based Service (CBS) data were stored for the Spark Plug Replacement interval. 
+ 
+Specifically , the initial mileage was set to 15,000 miles (~ 25,000 km) instead of the correct mileage value of
+40,000 miles (~ 60,000 km).
+ 
+CORRECTION
+Reset the CBS data via IST A. 
+ 
+PROCEDURE
+Spark plug replacement SHOULD NOT  be performed in the af fected vehicles before the proper interval,
+regardless of the CBS display . 
+ 
+If a vehicle under this service action has a mileage over 14,000 miles, check the vehicle history to see if the
+spark plug replacement was prematurely performed. 
+ 
+If a spark plug replacement was already performed for this vehicle AND  the CBS data was previously reset,
+no further action needs to be performed. Only the INITIAL  CBS Spark Plug interval is incorrect. The action of
+resetting the spark plug CBS data will reset the spark plug maintenance interval to the correct value. You
+can determine if a Spark Plug CBS reset has been done by the value of the Service Counter in the CBS
+Reset test plan.  
+ 
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 1/6
+If spark plug replacement has NOT  been carried out, then perform a correction of the spark plug
+maintenance interval in the CBS data in the “Reset CBS Condition Based Service” and “CBS V ehicle Data
+Correction” test plans as follows:
+ 
+Connect the IST A diagnostic system to the vehicle 
+Perform vehicle identification WITHOUT  vehicle testing
+Select “V ehicle Management”
+Select “Service Functions”
+Select “Maintenance and Pre-Delivery Check”
+ 
+Always connect a BMW -approved battery charger/power supply ( SI B04 23 10 ).
+ 
+1. Select the test plan ABL-W AR-AS6100_CBS_RESET  – “Reset CBS Condition Based Service”. In the test plan, perform
+the reset of the Spark Plug Service value. This action will reset the interval in the vehicle. The test plan can be ended after
+this action.
+ 
+ Note:  The CBS reset of the Spark Plug
+maintenance interval may trigger a warning in
+ISTA that the service was “not performed”.
+ This may be displayed even though the reset
+was carried out successfully . This is an error
+in IST A and will be fixed with IST A version
+4.52.2x (estimated release date of March 4,
+2025).
+ 
+ 
+ 2. Next, select the test plan ABL-W AR-
+AS6100_CBS_KORR – “CBS V ehicle Data
+Correction”. Select the values for spark plug
+service. These must be corrected since a spark
+plug replacement was not actually performed in
+the vehicle.
+ 
+ 
+ 3. Choose the option to “Re-enter the values
+for Maintenance W ork”.
+Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 2/6
+ 
+ 4. In the text box for “Mileage of Last Service”,
+enter the value of “0”. This is the correct value
+since spark plug replacement has never
+occurred. 
+ 
+5. The next selection screen has you define
+the value as KM or Miles. Either choice can
+be selected as the value is “0”. 
+ 
+6. The Service counter will be automatically
+reduced back to 1 during this test plan. Select
+“No” when asked if you want to alter the
+Service Counter further . 
+ 
+7. The Spark Plug Maintenance Interval will not display in the vehicle unless the service is triggered as “Due”. If the Spark
+Plugs Replacement was showing “Due” in the vehicle, ensure that the display has reset to the correct value. If the Spark Plug
+Replacement is still showing “Due” in the vehicle after this process, let the vehicle enter a sleep cycle and recheck. 
+ 
+CLAIM INFORMA TION
+Reimbursement for this Service Action will be via normal claim entry utilizing the work package information
+below that applies.
+ Copyright ©2025 BMW of North America, Inc.
+2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 3/6
+Repair Code: 0062600100 Fx Gx Correcting CBS data (with diagnosis tester)
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair .
+ 
+Work Pkg Labor Operation Description (Plus work) Labor Allowance
+# 1 00 77 732Resetting the spark plug CBS data includes
+Carrying out vehicle test (00 00 556/61 21
+528 and 61 00 981)As applicable
+ 
+Or:
+ 
+The vehicle arrives at your center and this Service Action shows open (No other Main work will be
+performed or claimed during this workshop visit)
+ 
+Work Pkg Labor Operation Description (Main work) Labor Allowance
+# 2 00 77 169Resetting the spark plug CBS data includes
+Carrying out vehicle test  (00 00 006/61 21
+528 and 61 00 981)As applicable
+ 
+Or the:
+ 
+CBS Data Correction done in conjunction with another T echnical Campaign or Repair
+ 
+Work Pkg Labor Operation Description Labor Allowance
+# 3 00 77 734Correcting the CBS data with another
+technical campaign or repair1 FRU
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission/reimbursement purposes. Also,
+only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the RO technician notes and the claim
+comments (For example: B62 02 25 WP  1), unless otherwise required by State law .
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 4/6
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 5/6
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:11 AM 62 02 25_SERVICE ACTION: CBS CORRECTION FOR SPARK PLUG REPLACEMENT INTERVAL
+about:blank 6/6

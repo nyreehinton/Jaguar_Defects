@@ -1,0 +1,59 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+HLCM in Fail-Safe ModeRef. No.
+TJ 37207.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/12/24Status Date
+1/2/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3229
+Function Description
+MiscellaneousPage
+Page 1 of 3Attachment
+File Name File Size
+TJ_37207_1.pdf 0.1706 MB
+DESCRIPTION:
+If the vehicle doesn’t start it might be because the HLCM has fail-safe mode activated. Please follow 
+the advice under “Service” .
+HLCM (High to Low voltage Converter Module)
+CSC   Customer Symptom Codes
+Code Description
+7B Starting/Engine does not start/Engine does not turn/No clicking sound at start attempt
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-9999 - 202417-999952
+SERVICE:
+The HLCM might have set a fail-safe flag. There is a script in VIDA where you can see if the fail-safe 
+flag is active and recover the fail-safe flag if it’s active. 
+Follow the steps in PDF “TJ_37207_1” to check and recover the fail-safe flag. If the fail-safe flag is 
+still active after step 8 in the PDF “TJ_37207_1” the HLCM needs to be replaced.   
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated below.
+Note that the TJ number must be stated in the repair order text.
+Page 2 of 3 2025-01-02
+Technical Journal 37207 .1.0VST   Operation Number
+VST Operation Number Description
+36050-2 Calibrating/Identifying with VIDA
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+the concern area “Vehicle Report” and the sub-concern area “Support Needed” , use function group 
+3229.
+ 
+To view TJ attachments continue to next page.  This TJ has one attachment.
+2025-01-02 Page 3 of 3Technical Journal 37207 .1.0
+1
+2
+3
+4
+5TJ 3720 7
+6
+7
+8TJ 37207

@@ -1,0 +1,121 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-020
+Service BulletinDate: January, 2025
+TECHNICAL
+Oil Leak from Front of Engine
+Brand: Model: Model Year: VIN: Engine: Transmission
+:from to from to
+Chevrolet Corvette 2023 2023 — —5.5L (RPO
+LT6)—
+Involved Region or Country North America, Europe, Israel, Palestine, Japan, Thailand, Australia/New Zealand
+ConditionSome customers may comment that there is a visible engine oil leak coming from
+underneath the middle of the vehicle.
+During inspection, some technicians may notice that there is a small oil leak coming from
+the engine front cover area.
+Cause
+6267588
+This condition may be caused by improper front cover bolt torque or inadequate sealer
+adhesion at one of the six T-Joint locations.
+- The oil leak can be found at the T-Joint location where the cylinder head meets the
+engine block, or at one of the other T-Joint locations (shown in yellow) in the graphic
+above.
+CorrectionTo correct this condition, it will be necessary to install new front cover gaskets and follow
+the revised RTV sealing procedure as noted below.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Page 2 January, 2025 Bulletin No.: 23-NA-020
+Service Procedure
+6550667
+Important: When performing this service procedure, the intake manifold needs to be removed and reinstalled.
+During installation, ensure that all 10 compression limiters are installed and present in their correct positions before
+fastening the intake to the cylinder head.Intake Assembly left hand side shown (right side similar).
+Important: Ensure all front cover bolts are torqued in proper sequence and to specification.
+Refer to Engine Front Cover Replacement .
+Cover Design
+Note: Design 1: All fasteners are M5
+Bulletin No.: 23-NA-020 January, 2025 Page 3
+6825640
+• Positions 2, 5 and 11 are M5 X 72.65 mm
+• Position 9 is M5 X 55 mm
+• All other positions are M5 X 30 mm
+Note: Design 2: Positions 2 and 5 are M6
+6825641
+• Positions 2 and 5 are M6 X 73.65 mm
+• Position 11 is M5 X 72.65 mm
+• Position 9 is M5 X 55 mm
+• All other positions are M5 X 30 mm
+Additional Information
+Important: Application of the RTV has changed. Please refer to the picture and steps below for proper RTV appli-
+cation.
+Page 4 January, 2025 Bulletin No.: 23-NA-020
+6002788
+Note: The sealing surface must be clean and free of contaminates prior to applying the RTV sealant. Do not touch
+the sealing surface once it has been cleaned.
+1. Clean the sealing surface at the T-Joints (1 and 2) with low VOC brake cleaner, then wipe dry with a clean lint-
+free cloth.
+Note: Do not allow RTV to skin over. The engine front cover gaskets and engine front cover must be installed within
+8 minutes of RTV application.
+2. Apply a 5 mm wide x 15 mm bead of sealant to the 4 T-Joints (1) between the cylinder head-to-engine block and
+the engine block-to-lower crankcase.
+3. Apply a 5 mm wide x 25 mm bead of sealant to the 2 T-Joints (2) between the cylinder head-to-engine block and
+the engine block-to-lower crankcase.
+Parts Information
+Note: Follow the procedure in SI for additional parts that may be required for the repair.
+Causal Part Description Part Number Qty
+X GASKET, ENG FRT CVR 12707585 1
+X GASKET, ENG FRT CVR 12707584 1
+X GASKET, ENG FRT CVR 12707583 2
+N/ASEALANT19369831 (U.S) 19369832
+(Canada)1
+N/A SEAL, OIL TRFER TUBE O-RING 12697070 1
+N/A SEAL, OIL TRFER TUBE O-RING 12697071 1
+N/A SEAL, O.PMP HSG O-RING 12670121 1
+Bulletin No.: 23-NA-020 January, 2025 Page 5
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONCausal Part Description Part Number Qty
+N/A GASKET, PCV OIL SEP 12695546 1
+N/A GASKET, EXH MANIF 12673594 2
+N/A GASKET, INT MANIF 12668302 8
+N/A FILTER KIT, OIL 12730579 1
+N/A PIPE, FUEL FEED INTER RIGHT 12663298 1
+N/A PIPE, FUEL FEED INTER LEFT 12663297 1
+N/A SEAL, W/PMP O-RING 12668422 1
+N/A BOLT, R/AXL SHF 11601876 12
+N/A SEAL, A/C CMPR HOSE 13418808 1
+N/A SEAL, A/C CMPR HOSE 13418809 1
+N/A BOLT, CR/SHF BALR 11547975 1
+N/A SEAL, CM/SHF HSG CVR (right) 12672530 1
+N/A SEAL, CM/SHF HSG CVR (left) 12672531 1
+N/A GASKET, CM/SHF POSN ACTR
+MAGNET55499462 2
+N/A SEAL. SPLG SHLD 12672529 8
+N/A GASKET, CTLTC CONV 12672379 2
+N/A BOLT, W/PMP 11548811 As Required
+N/A BOLT, ENG COOL FLOW CONT VLV 11548166 As Required
+N/A BOLT, THROT BODY 11548393 As Required
+N/A BOLT/SCREW. 11604854 As Required
+Warranty Information
+For vehicles repaired under warranty, use:
+Labor
+OperationDescription Labor Time
+4063610Engine Front Cover
+ReplacementUse
+Published
+Labor
+Operation
+Time
+Version 3
+ModifiedReleased April 27, 2023
+Revised March 26, 2024 – Added a graphic and first Important statement under Service
+Procedure and updated Parts Information section.
+Revised January 30, 2025 – Added Cover Design section and updated the Parts
+Information.

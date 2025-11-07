@@ -1,0 +1,81 @@
+Bulletin Number: 06-91-24R;  Revised: 02/18/25         Page 1 of 2
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 06-91-24R
+ DATE: 08/05/24 
+ REVISED: 02/18/25APPLICABILITY: 2020-24MY Outback & Legacy
+ SUBJECT: Front Brake Pulsation / Front Brake  
+  Pad Design Change
+INTRODUCTION: 
+This bulletin announces a design change made to the front brake pads developed to reduce any brake 
+pulsation and/or vibration felt during brake operation. The brake pad surface has been equipped with 
+a new pad material providing stable friction further reducing any possible pulsation and/or vibration. 
+If a customer reports a brake pulsation and/or vibration and the fault source is diagnosed and 
+confirmed to be the front brake pads, replace the front brake pads using the new brake pad kit. 
+PRODUCTION CHANGE INFORMATION:
+The new front brake pads have been incorporated into vehicle production as per the table below. 
+Model Starting VIN
+LEGACY R3026536
+OUTBACK R3272372
+PART INFORMATION: 
+REMINDER:  Always order the most up-to-date replacement parts based on the specific VIN being 
+repaired.
+Part Description Part Number
+PAD KIT-FRONT DISK BRAKE 26296AN04A
+NOTES: 
+• The brake pad kit comes with the brake pads  ONLY. 
+• Molykote AS-880N (SOA p.n. K0777YA010) Disc Brake Simgrease is the recommended 
+product to be used with the pad kit. ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2024 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 06-91-24R;  Revised: 02/18/25         Page 2 of 2
+SERVICE PROCEDURE / INFORMATION:
+REMINDER:  Customer satisfaction and retention starts with performing quality repairs.
+STEP 1: Resurface the brake discs using a Subaru approved brake lathe. Reassemble the front brake 
+using the NEW pads outlined in this bulletin. Perform a road test and confirm there is no front brake 
+squeal/pulsation.  
+IMPORTANT: ALWAYS use an approved brake lathe. A list of approved equipment can be 
+found on the Subaru tools and equipment site:   https://subaruretailersolutions.com/equipment/
+category/601
+STEP 2: The service procedures for front brake pad replacement remain unchanged. Always refer 
+to the applicable Service Manual and review the full requirements of the repair being performed. 
+The Service Manual procedures contain information critical to performing an effective repair the 
+first time, every time. This includes but is not limited to important SAFETY precautions, proper 
+inspection criteria, necessary special tools, required processes and related one-time-use parts needed 
+for a complete and lasting repair.  
+Refer to STIS: Brakes > BRAKE > Front Brake Pad
+CAUTION: ALWAYS inspect the condition of brake pad shims. If any damage is found the shims 
+will require replacement.  
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited Warranty period this repair may be submitted using 
+the following claim information:
+Labor Description Labor Operation # Labor Time Fail Code
+RESURFACE BOTH FRONT ROTORS (ON VEHICLE) AND 
+INSTALL UPDATED BRAKE PADSA515-186 1.0 QAU-26
+NOTE: SOA635318 is Warranty part number for K0777YA010 Disc Brake Simgrease 1 per job.
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

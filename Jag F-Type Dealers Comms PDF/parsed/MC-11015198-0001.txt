@@ -1,0 +1,127 @@
+AfterSalesFeb 25, 2025
+Page 1 of 7Lightweight Glass Panes Cracked – Identification and Possible Causes
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+911 2021 - 2025 992110 
+992120 991130 
+992140
+992150992410 
+992420
+992430992440 
+992450 
+992460 
+992810 
+992820992850n/a +VW4
+Revision History
+Revision Release Date Changes
+0 April 7, 2023 Original document
+1 April 27, 2023 Update of Technical Background and Service Information
+2 May 1, 2023 Update of PartIDs
+3 June 26, 2023 Update of Technical Background and Service Information
+4 August 21, 2023 Update of MY
+5 October 3 , 2023 Update of Technical Background and Service Information
+6 December 12, 2024 Addition of reference to ATI Group 6 2435
+7 February 25, 2025 Update of MY
+Advanced Technical Information 6Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 2 of 7Condition
+This do cument addresses various cracks in the lightweight exterior glass panes of the 911. 
+This do cument is not applicable to cracks caused by external influence.
+This do cument only applies to vehicles with the option VW4 – Lightweight and Noise Insulated Glass.
+Technical Background  
+The various types and causes of cracks in the lightweight exterior glass panes of the 911 are outlined below.
+Door glass: Cracks in the top corner (driver or passenger side)
+Ther e are two main causes for this condition:
+-> The do or glass is misaligned, which can cause contact between the door glass and the rear quarter glass, or
+->  F orce applied to the glass (i.e., instead of the door sill) throughout the door closing process can bend the  
+gl ass enough to cause contact with the rear quarter glass, despite a proper window alignment with no force 
+applied.
+Up dated lightweight door glass parts have been developed to address this complaint. Please see the Door glass: 
+crack s in the top corner section of the Service Information for repair instructions.
+Advanced Technical Information 6
+Figure 1 - Door glass: cracks in the top corner
+Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 3 of 7Rear quarter glass (side window pane): cracks near front edge
+Ther e are two main causes for this condition:
+-> The do or glass is misaligned, which can cause contact between the door glass and the rear quarter glass, or
+->  The quar ter glass mounting nuts are over-torqued
+This c ondition is possible on both the driver and passenger sides of the vehicle. 
+Ple ase see the Rear quarter glass (side window pane): cracks near front edge section of the Service Information for 
+r epair instructions.
+Ple ase also see: ATI Group 6 2435 - 992 Lightweight Rear Quarter Glass Panes Are Cracked
+Advanced Technical Information 6
+Figure 2 - Rear quarter glass (side window 
+pane): cracks near front edge
+Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 4 of 7Rear window glass: various cracks
+Str ess cracks in the rear window glass are currently being analyzed by Porsche. The root causes for the different
+kinds o f stress cracks are unknown at the time of publication of this document.
+Ple ase see the Rear window glass: various cracks section of the Service Information for repair instructions.
+Advanced Technical Information 6
+Figure 3 - Rear window glass: various cracks
+Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 5 of 7Front windshield: various cracks
+The str ess cracks in the front windshield are caused by too much stress in the outer glass pane. Updated parts have 
+b een developed to address this issue.
+Ple ase see the Front windshield: various cracks section of the Service Information for repair instructions.
+Advanced Technical Information 6
+Figure 4 - Front windshield: various cracks
+Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 6 of 7Service Information
+Door glass: cracks in the top corner
+Ple ase replace the affected glass pane(s) with the updated parts (index “H”), as instructed in WM 644019 – Re-  
+ mo ving and installing door window glass.
+Rear quarter glass (side window pane): cracks near front edge 
+Ple ase replace the affected glass pane(s) as instructed in WM 647519 – Removing and installing side window 
+ (Coupe).
+Ple ase exercise additional caution when tightening the fastening nuts for the glass pane. Applying too much torque 
+t o the fastening nuts may cause the glass pane to crack. 
+Rear window glass: various cracks 
+Ple ase replace the rear window glass as instructed in WM 648619 – Removing and installing rear window.
+Front windshield: various cracks
+Up dated parts are available since September 4, 2023. 
+Ple ase replace the front windshield as instructed in WM 641219 – Removing and installing rear windscree, with the 
+l atest available version in PET.
+Warranty
+As always, please document the repair completely in PCSS.
+F or this repair, please code to the appropriate “cause” from below:
+C ause location: 64400 Front door window 
+C ause symptom:               1521 Crack/fissure
+ or
+C ause location: 64750 Side window pane
+C ause symptom:               1521 Crack/fissure
+ or
+C ause location: 64860 Rear window 
+C ause symptom:               1521 Crack/fissure
+ or
+C ause location: 64120 Windshield 
+C ause symptom:               1521 Crack/fissure
+Use the appr opriate labor operations for each glass pane replaced. 
+A dditional labor operations may be claimed only as needed.
+Crack s caused by outside influence (e.g., impact) may not be claimed under Warranty.
+Advanced Technical Information 6Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412
+AfterSalesFeb 25, 2025
+Page 7 of 7Serach Items
+992, 911, L ightweight glass, VW4, stress crack, door glass, windshield, window
+Advanced Technical Information 6
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.
+©2025 Porsche Cars North America, Inc.K13914, K14059, K15676, K16685Bulletin #: 2308.7
+Part ID: 6440, 6475,
+6486, 6412

@@ -1,0 +1,182 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+FUEL SYSTEMS  25-FL-002G 
+FEBRUARY  2025 G70 ( IK) 
+ HIGH PRESSURE FUEL PUMP REPLACEMENT  
+(WARRANTY EXTENSION Z05G ) 
+ 
+Description:  Certain 2019 -2023MY G70 (IK) vehicles are equipped with high pressure fuel pump 
+(HPFP) assemblies that have fuel control valves (FCV) that could allow excess fuel to enter the fuel 
+pump due to gradual wear of the FCV plunger. An air/fuel mixture that runs too “rich” may result in a 
+reduction or loss of motive power at low speeds. The vehicle will also have Diagnostic Trouble Code 
+(DTC) P0088.  
+ 
+Genesis is extending warranty coverage for the HPFP under this condition to 15 years or 150,000 miles 
+from the date of original retail delivery or date of first use (whichever occurs first) and is valid for original 
+and subsequent owners.  
+ 
+Follow the service procedure in this TSB to replace the HPFP.  
+ 
+ 
+Applicable Vehicles  (Certain) :  
+• 2019-2023MY G70 ( IK) with Theta 2.0T engine produced from 0 2/01/2018 - 10/16/2023  
+ 
+  
+
+  
+TSB #: 25-FL-002G Page 2 of 5 
+ 
+SUBJECT:  Parts  Information:   
+G70 
+(IK) Pump – High  
+Pressure Kit  
+ 
+35399 -2C333QQH  
+ 
+ Pump – High Pressure  
+35320 -2CTB1 (Figure 1: QTY 1)  
+Bolt – Pump  
+11235 -06226K (Figure 2: QTY 2)  
+Pipe – High Pressure  
+35305 -2CTA0 (Figure 3: QTY 1)  
+Gasket  – Port 
+28312 -2CTA0 (Figure 4: QTY 1)  
+Gasket  – ETC 
+28313 -2CTA0 (Figure 5: QTY 1)  
+*Pump Gasket  
+(Figure 6: Transfer from old and  
+reuse . NOT  included in kit. ) 
+ 
+Pink Antifreeze  
+(2 Quart s) 
+ 
+00232 -19098WAR  
+ (QTY 2) Allowance for two quarts   
+have been included if the High  
+Pressure Fuel Pump replacement 
+was necessary.  
+ 
+Do NOT  use 100% full strength.  
+Prepare coolant mixed with  
+distilled/filtered water to refill the  
+cooling system  (35 to 50%  
+antifreeze, diluted  with water) . 
+ 
+ 
+NOTE:  Above parts are for high  pressure fuel pump replacement, only if the vehicle has DTC P0088 . 
+Please order the kit part number 35399 -2C333QQH , not the individual parts.  
+ 
+
+  
+TSB #: 25-FL-002G Page 3 of 5 
+ 
+SUBJECT:  SST Information:  
+Torque Wrench 
+Socket  09314 -3Q100   
+  
+For tightening the flare nuts on both 
+ends of the high pressure pipe.  
+ 
+ 
+NOTE 1:  All retailers previously received this tool as part of the retailer's essential tool kit.  
+NOTE 2: Additional SST tools can be ordered through Snap -On at 1-855-763-6630  or 
+https://genesisessentialtools.com/  
+NOTE 3: If further assistance is required, please contact genesistools@gma.com . 
+ 
+Warranty Information:  
+G70 (IK)  40D152R0  DTC P0088 Inspection and 
+HPFP Replacement  1.8 M/H 35320 -2CTB1  I14 ZZ3 
+NOTE 1:  If the affected parts are within the extended period of 15 years or 150,000 miles then submit 
+as a campaign claim type.  
+NOTE  2: If a part that is not covered by this TSB is found in need of replacement while performing 
+Z05G  and the affected part is still under warranty, submit a  separate claim using the same repair 
+order. If the affected part is out of warranty, submit a Prior Approval request for goodwill consideration 
+prior to performing the work . 
+NOTE 3: The incident parts are subject to callback through the normal Warranty Technical Center  
+(WTC) parts return process. Claim is subject to debit if the part is not returned.   
+  
+
+  
+TSB #: 25-FL-002G Page 4 of 5 
+ 
+SUBJECT:  Inspection and Service Procedure Overview:  
+ 
+ 
+ 
+Service Procedure:  
+ 
+ 
+ 
+1. Using a GDS scan tool, inspect to confirm if vehicle has DTC P0088 (or P008800 ).  
+• If vehicle has DTC P0088/P008800 , then follow the next step s below  to replace the high 
+pressure fuel pump.   
+• If vehicles does NOT  have DTC P0088/P008800 , this TSB does NOT  apply.  Continue 
+with normal diagnosis.  
+ 
+ 
+ 
+2. Verify that Recall 023G  has been completed previously.  
+• Verify ECU Update Event #114 0 has been completed.  
+• If Recall 023G  has NOT  been performed, this TSB does NOT  apply.  
+o Follow the service procedure listed in Recall 023G  (TSB 24-01-076G  or latest 
+version)  to resolve the DTC P0088  (or P008800 ) concern.  
+ 
+Applying the recommended torque to all fasteners is essential to reduce potential issues from 
+occurring after the service procedure.  
+NOTICE  
+If dealer attempts to order the high pressure fuel pump kit and there is no corresponding 
+DTC P0088/P008800  found, the order will be subject to cancellation.  
+   Information  
+  i 
+  
+TSB #: 25-FL-002G Page 5 of 5 
+ 
+SUBJECT:  3. Follow the shop manual  to release the residual fuel pressure in the fuel line.  
+• Engine Control / Fuel System > Fuel Delivery System > Release Residual Pressure in 
+Fuel Line   
+ 
+ 
+ 
+4. Record all radio presets and disconnect the battery negative ( −) terminal.  
+5. Refer to  the shop manual to remove the intake manifold . 
+• Engine Mechanical System > Intake and Exhaust System > Intake Manifold > Repair 
+procedures  
+6. Refer to the shop manual to remove the high pressure fuel pump and high pressure pipe . 
+• Engine Control / Fuel System > Fuel Delivery System > High Pressure Fuel Pump > 
+Repair procedure s 
+7. Refer to the shop manual to complete the 
+installation of the new high pressure fuel pump, 
+the new high pressure pipe,  and all related 
+parts.  
+ 
+ 
+  
+8. Tighten the high pressure fuel components to the following specifications : 
+ High Pressure Fuel Pump Bolt  
+Tightening Torque:  
+ 
+ High Pressure Fuel Pipe  
+Tightening Torque:  
+ 
+(Use SST 09314 -3Q100  or equivalent)  
+ 
+9. Start the engine to confirm proper o peration  of the vehicle.  
+ 
+10. The service procedure is now complete.  
+ 
+11 lb-ft
+14 N.m24 lb-ft
+33 N.m
+When removing the fuel pump fuse, a Diagnostic Trouble Code (DTC) may occur. Delete 
+the code with the diagnostic tool afterwards.  
+   Information  
+  i 
+Be sure to transfer the shim -type metal 
+pump gasket (A) and the low pressure fuel 
+hose quick connector clamp (B) (if 
+equipped) over to the new High Pressure 
+Fuel Pump.  
+      Information  
+  i 
+A 
+B 

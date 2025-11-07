@@ -1,0 +1,893 @@
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 1 of 59
+PRODUCT CAMPAIGN BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: WRA-24
+ DATE: 02/03/25 APPLICABILITY: 2020-2022 MY Legacy 
+  2020-2022 MY Outback
+ SUBJECT: Safety Recall – ODS Sensor Replacement
+Subaru of America, Inc. (Subaru) has initiated a safety recall for certain 2020-2022 model year 
+Legacy and Outback vehicles to replace all (four) of the Occupant Detection System (ODS) sensors 
+on the front passenger seat.
+Description of the Defect and Safety Risk
+The affected vehicles may be equipped with defective ODS sensors on the front passenger seat, 
+which over time may result in a short circuit. If the short circuit occurs, the SRS airbag system 
+warning lamp will illuminate, the front passenger’s frontal airbag OFF indicator will illuminate, and 
+the front passenger airbag may not deploy in certain crashes as designed, increasing the risk of injury 
+to an occupant in the seat.
+Remedy
+Subaru is in the process of obtaining parts for this repair, however, it will take several months for 
+supply to begin. Once parts are available, for all potentially affected vehicles, Subaru retailers will 
+replace all (four) of the ODS sensors on the front passenger seat with new ones at no cost to the 
+customer.
+Affected Vehicles
+A total of 118,723 U.S. vehicles will be affected by this recall, as listed below. Not all vehicles in the 
+production range listed below are affected by this recall. Coverage must be confirmed by using the 
+Vehicle Coverage Inquiry function on subarunet.com prior to repair.
+Model Year Carline Production Date Range Vehicle Count
+2020-2022 Outback June 16, 2020 – July 13, 2021 103,114
+2020-2022 Legacy June 16, 2020 – July 12, 2021 15,609
+The affected VIN information will be available on subarunet later this week. Subaru is in the process 
+of obtaining remedy parts for this repair; however, it will take several months for supply to begin. 
+Therefore, the WRA24 recall coverage status for the affected VINs will be ‘Open-Remedy not yet 
+available’ until the remedy parts are available. Retailers will be advised as the parts supply situation 
+progresses. ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 2 of 59
+Continued...Retailer Responsibility
+Please be advised that it is a violation of Federal law for a dealer to deliver a new motor vehicle 
+covered by a recall under a sale or lease until the defect is remedied. Therefore, any Authorized 
+Subaru Retailer failing to perform the applicable service procedures to correct all affected 
+vehicles in their inventory prior to the vehicle being placed in service may be subject to civil 
+penalties of up to $27,168 per violation (i.e., for each vehicle), as provided in 49 CFR §578.6 
+and will also be in breach of the Subaru Dealer Agreement.
+Any vehicles listed in any recall/campaign that are in retailer stock must be:
+• Immediately identified
+• Tagged or otherwise marked to prevent their delivery or use prior to repair
+• Repaired in accordance with the repair procedures outlined in the Product Campaign Bulletin 
+once the parts become available.
+Until the recall remedy parts are available, this recall cannot be performed. If an affected vehicle is 
+in for service without a confirmed ODS sensor failure, please inform the owner that their vehicle is 
+affected by this recall and that remedy parts are not yet available.
+If an affected vehicle is in for service with a confirmed ODS sensor failure, there is a limited 
+supply of seat bottom assemblies which include the ODS sensors to remedy the condition. Please 
+refer to the interim diagnosis procedures and special claim instructions included in the Service, 
+Parts, and Claim Instructions section of this document.
+Owner Notification
+Subaru will notify affected vehicle owners with an interim letter by first class mail by May 21, 2024 
+advising them of this recall and that parts are not yet available. Owners will be re-notified when 
+remedy parts become available, and retailers will be advised of that notification schedule.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 3 of 59
+Continued...REQUIRED TOOLS:
+Part Description Part Number Qty Image Details
+ WRA-24 99804AN080 1
+Will be forced ship to retailers 
+at no cost.
+ WRA-24 
+Socket Tool99804AN090 1
+Will be forced ship to retailers 
+at no cost.
+ WRA-24
+JIG Tool99804AN100 4
+For Power Seat ONLY. Will be 
+forced ship to retailers at no 
+cost.
+ Block
+(Wood or Rubber)N/A 2
+• Power Seat: use 2pcs
+• Manual Seat: use 1pcs
+• Retailers are to supply 
+and cut to the dimensions 
+shown on the left.
+Part Description Image Details
+SSM4 Equipped Laptop 
+DST-i or DST-010
+Required for DTC check & 
+Rezeroing/Calibration
+DCA-8000 SUB Battery 
+Diagnostic Charger
+Required for battery charging
+General Hand Tools
+ Required for ODS sensor R&R
+Wobble Extension Bar
+example: Snap-on FXWK8
+For Manual Seat ONLY.
+Weight Tool, Passenger 
+J-47673
+J-47673 is an Esssential Tool
+String
+• Thickness: 2mm-3mm
+• Lenth: 40 meters (0.00in)
+Ruler
+ Basic 12 inch
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 4 of 59
+Continued...PART CONFIGURATION:
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 5 of 59
+Continued...PART INFORMATION:
+There are two hardware kits created for this campaign. One kit for manual seats and another 
+kit for power seats. The ODS sensors are ordered separately. All parts MUST be ordered 
+through PRIME.
+Please be mindful that the PIC team cannot increase PRIME limits or create supplemental orders for 
+kits or tools.
+Manual Seat Parts Kit SOA635182
+Part Description Quantity Image
+RAIL NUT M10 4
+RAIL NUT M8 8
+HINGE BOLT 4
+Power Seat Parts Kit SOA635183
+Part Description Quantity Image
+RAIL NUT M10 4
+RAIL NUT M8 8
+ODS Sensor Parts Kit 98329AN00A
+Part Description Quantity Image
+ODS SENSOR REPAIR (4 per repair) 1
+SERVICE PROCEDURE INFORMATION:
+There are two different Service Procedures for each seat configuration. Use the table below to confirm 
+the next course of action.
+Seat Configuration Service Procedure Page Number
+Manual Seat Page 6
+Power Seat Page 28
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 6 of 59
+Continued...MANUAL SEAT SERVICE PROCEDURE
+STEP 1: Using a DCA-8000, input the battery information and set the char ger to Power Supply 
+Mode.
+STEP 2: Apply the parking brake. This is required because the gear selector will be placed in the 
+Neutral (N) position in a future step.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 7 of 59
+Continued...STEP 3: Confirm at least one minute has surpassed since the ignition was switched off. Remove the 
+cover from the main fuse box. Using a small flat blade screwdriver , remove Fuse # 30, SBF-3,  
+SBF-12.
+STEP 4: Remove the center tray mat. With the mat removed the access hole to the shift lock release 
+will be exposed. Using a suitable screwdriver, release the shift lock and move the gear selector to the 
+Neutral (N) position.
+STEP 5: Release and lower the portion (A) of the shift boot. This will expose the holding clip.
+CAREFULLY remove the holding clip. The gear selector knob can then be removed.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 8 of 59
+Continued...STEP 6: Release the holding clips for 
+the front cover assembly. Disconnect the 
+electrical connection and lift in the upward 
+direction the remove the cover.
+STEP 7: Remove the two phillips head mounting screws located at the front of the center console. 
+Adjust both seats forward and remove the two center console mounting bolts. Disconnect the 
+electrical connections and remove the center console from the vehicle.
+IMPORTANT: Models equipped with the  
+center console mounted CD deck will require 
+the removal of two additional mounting bolts 
+and the disconnection of two additional  
+connectors. BE CAREFUL not to bend the  
+CD deck mounting brackets.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 9 of 59
+Continued...STEP 8: Pull up on the backrest adjustment handle and insert a small screwdriver or plastic trim 
+tool into the handle cover locking tab. Once the tab is released pull the handle cover toward the front 
+of the vehicle to remove. Once the handle cover is removed, release the rear section of the seat side 
+cover. With all the holding clips released, the cover can then be removed by pulling towards the front 
+of the vehicle.
+STEP 9: Adjust the seat backrest to the full 
+down position. Release the rear then front 
+inner hinge cover mounting clips. Remove the 
+inner hinge cover in the upward direction. The 
+backrest can then be returned to the upright 
+position.
+STEP 10: Adjust the seat position so the end of the outer rail is approximately 15mm (0.6 inches) 
+from the end of the inner rail.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 10 of 59
+Continued...STEP 11: Remove the two straps securing the rear portion of the backrest cover .
+STEP 12: Tuck the hanging section of the cover into the rear pocket of the seat. Release the two 
+Velcro straps and free the two harness sections.
+STEP 13: Unbolt and discard the four bolts mounting the seat backrest to the bracket. Place the 
+backrest into the rear seat footwell area.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 11 of 59
+Continued...CAUTION:  Confirm the harness section does 
+not have any excessive tension and is free 
+from pinching of any kind.
+STEP 14: Remove both mounting screws  
+for the inner cushion covers.
+STEP 15: Starting with the outside cover, release the mounting clip using a large flat blade 
+screwdriver or suitable plastic trim tool.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 12 of 59
+Continued...STEP 16: Pull the cover back and then CAREFULLY rotate the cover to remove. Using the same 
+method, remove the opposing side inner cover as well.
+CAUTION: Make sure there is sufficient room between the covers and the seat backrest. DO NOT 
+damage the seat cover. If needed, cover the seat material with a clean protective cloth.
+STEP 17: Disconnect all four Occupant Detection connectors under the seat. The connectors can be 
+accessed from the rear footwell.
+STEP 18: Remove the four 14mm (M10) nuts securing the cushion frame. The front nuts can be 
+removed using an offset boxed wrench. The rear nuts can be removed with a 14mm socket, 3/8 in 
+drive ratchet, and 3/8 in drive wobble extension. The nuts can be discarded after removal.
+CAUTION: Avoid touching the seat adjustment lever with mounting nuts removed. This may cause 
+the left and right rails to become misaligned and difficult to reassemble.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 13 of 59
+Continued...NOTE: Snap-on® tool # FXWK8 is an 
+example of a wobble extension suitable  
+for usage.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 14 of 59
+Continued...STEP 19: Raise the outer side of the cushion frame 70 to 80 mm (2.76 to 3.15 in) by installing one of 
+the pre-prepared blocks between the cushion frame and the seat rail.
+CAUTION: Pay close attention to the seat harness when lifting the cushion frame. Excessive tension 
+may cause damage to the harness.
+STEP 20: Remove and discard the four 12mm (M8) sensor mounting nuts. The two sensors can then 
+be removed and discarded.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 15 of 59
+Continued...STEP 21: Confirm the identification numbers of the NEW Occupant Detection Sensors are #2 and 
+#3. Mount the #2 (Blue) sensor to the outer front position and the #3 ( Brown) sensor to the outer rear 
+position. Torque the NEW sensor mounting nuts (p.n. 64157AN03A) to 25Nm (18.5ft-lbs).
+NOTE: Take special care in handling the new sensors.
+STEP 22: Remove the block and CAREFULLY lower the cushion frame.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 16 of 59
+Continued...STEP 23: Raise the inner side of the cushion frame 70 to 80 mm (2.76 to 3.15 in) by installing one of 
+the pre-prepared blocks between the cushion frame and the seat rail.
+CAUTION:  Pay close attention to the seat harness when lifting the cushion frame. Excessive tension 
+may cause damage to the harness.
+STEP 24: Remove and discard the four 12mm (M8) sensor mounting nuts. The two sensors can then 
+be removed and discarded.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 17 of 59
+Continued...STEP 25: Confirm the identification numbers of the NEW Occupant Detection Sensors are #1 and 
+#4. Mount the #1 (Brown) sensor to the inner front position and the #4 ( Blue) sensor to the inner rear 
+position. Torque the NEW sensor mounting nuts (p.n. 64157AN03A) to 25Nm (18.5ft-lbs).
+NOTE: Take special care in handling the new sensors.
+STEP 26: Tuck the connector of sensor #4 into the cushion frame. Remove the block and 
+CAREFULLY lower the cushion frame.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 18 of 59
+Continued...CAUTION:  It is possible for the connector to be caught between the cushion frame and the rail/
+sensor. Confirm the connector is not pinched in any way.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 19 of 59
+Continued...STEP 27: Secure the cushion frame with the four new mounting nuts (p.n. 64157AN01A). Torque 
+the mounting nuts to 37Nm (27ft-lbs).
+NOTE: The wobble extension is to be used for the rear nuts and the special socket (p.n. 
+99804AN090) along with the adapter (p.n. 99804AN080) is use for the outer front nut.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 20 of 59
+Continued...STEP 28: Confirm all the sensors are in the associated positions and install all the connections.
+STEP 29: Install the inner cushion cover by inserting the grooved section at the tip of the cover along 
+the metal frame. Once in the correct alignment, insert the mounting clip. Confirm the mounting clip 
+positioning when complete.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 21 of 59
+Continued...
+STEP 30: Using the same method, install the outer cover.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 22 of 59
+Continued...STEP 31: Reinstall the two mounting screws for the inner cushion covers.
+STEP 32: Reinstall the backrest using the new mounting bolts (p.n. 64127FL00A). Torque the new 
+mounting bolts to 52Nm (38 ft-lbs).
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 23 of 59
+Continued...STEP 33: Secure the two Velcro straps and harness sections. Untuck the hanging section of the cover 
+from the rear pocket of the seat.
+STEP 34: Resecure the two straps of the seat backrest cover to the hooks.
+STEP 35: Reinstall the inner and outer hinge covers and handle.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 24 of 59
+Continued...STEP 36: Reinstall the center console and gear selector cover.
+STEP 37: Reinstall the fuses.
+STEP 38: Sit on the front passenger seat and slightly move around while adjusting the positions.
+STEP 39: Using the SSM4, perform the “Rezeroing” procedure as per the applicable Service Manual.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 25 of 59
+Continued...STEP 40: Once the “Rezeroing” procedure is successfully completed, you will be prompted to start a 
+“Sensitivity Check”. Click the “OK” button to continue.
+STEP 41: Confirm the seat and backrest are adjusted fully forward. Install both components of 
+special tool #J-47673.
+STEP 42: Input 80.0 lbs. Click the “OK” button to continue.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 26 of 59
+Continued...STEP 43: Once the “Sensitivity Check” is successfully completed, check the following data 
+monitors: Front-Left Sensor Load Value, Front-Right Sensor Load Value, Rear-Left Sensor Load 
+Value, Rear-Right Sensor Load Value.
+STEP 44: While sitting in the passenger rear seat, pull the backrest toward the rear of the vehicle and 
+monitor the values. The front sensors should have a negative (-) value and the rear sensors should 
+have a positive (+) value.
+CAUTION: DO NOT push the backrest toward the front of the vehicle at any point. This will cause 
+an inaccurate reading.
+IMPORTANT: In a case when the values do not match the desired specification, it possible the 
+sensor mounting position is incorrect.
+STEP 45: Once the values are confirmed. Save the data. Perform a DTC check and clear all fault 
+codes. Confirm there are no current fault codes.
+NOTE: DTC B14A1 (Sunload Sensor Circuit Low/Open) may be read as a current DTC but this is a 
+normal condition.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 27 of 59
+Continued...STEP 46: Disconnect all battery charging equipment.
+IMPORTANT: A detailed video of this Service Procedure can be viewed by accessing the 
+following link:
+VIDEO TBA
+ 
+END OF MANUAL SEAT SERVICE PROCEDURE/INFORMATION
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 28 of 59
+Continued...                       POWER SEAT SERVICE PROCEDURE:                       
+STEP 1: Prepare two pieces of string approximately 3.2 feet (1 meter) in length. Tie two of the pieces 
+of the WRA-24 JIG tool (p.n. 99804AN100) together by the outer holes. Repeat the process for the 
+remaining two pieces. This will help provide ease of removal after the tool is used. Refer to the image 
+below.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 29 of 59
+Continued...
+STEP 2: Using a DCA-8000, input the battery information and set the char ger to Power Supply 
+Mode.
+STEP 3: Apply the parking brake. This is required because the gear selector will be placed in the 
+Neutral (N) position in a future step.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 30 of 59
+Continued...STEP 4: Confirm at least one minute has surpassed since the ignition was switched off. Remove the 
+cover from the main fuse box. Using a small flat blade screwdriver , remove Fuse # 30, SBF-3, SBF-
+12.
+STEP 5: Remove the center tray mat. With the mat removed the access hole to the shift lock release 
+will be exposed. Using a suitable screwdriver, release the shift lock and move the gear selector to the 
+Neutral (N) position.
+STEP 6: Release and lower the portion (A) of the shift boot. This will expose the holding clip. 
+CAREFULLY remove the holding clip. The gear selector knob can then be removed.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 31 of 59
+Continued...STEP 7: Release the holding clips for 
+the front cover assembly. Disconnect the 
+electrical connection and lift in the upward 
+direction the remove the cover.
+STEP 8: Remove the two phillips head mounting screws located at the front of the center console. 
+Adjust both seats forward and remove the two center console mounting bolts. Disconnect the 
+electrical connections and remove the center console from the vehicle.
+IMPORTANT: Models equipped with the 
+center console mounted CD deck will require 
+the removal of two additional mounting 
+bolts and the disconnection of two additional 
+connectors. BE CAREFUL not to bend the CD 
+deck mounting brackets.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 32 of 59
+Continued...STEP 9: Tilt the seat backrest fully forward and 
+raise the seat bottom to the maximum height.
+STEP 10: Release the rear section of the seat side cover. With all the holding clips released, the cover 
+can then be removed by pulling towards the front of the vehicle. There is no need to disconnect the 
+switch/harness. The cover can be placed on top of the seat. A clean fender cover or cloth can be use 
+for seat protection.
+STEP 11: Remove the outer slide rail cover by removing the mounting screw and sliding the cover 
+toward the rear of the vehicle.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 33 of 59
+Continued...Remove the inner slide rail cover by releasing the front tab and sliding the cover toward the rear of 
+the vehicle.
+STEP 12: Adjust the seat position so the end of the lower cover is approximately 40mm (1.6 inches) 
+from the end of the inner rail.
+STEP 13: Disconnect all four Occupant Detection connectors under the seat. The connectors can be 
+accessed from the rear footwell.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 34 of 59
+Continued...STEP 14: Remove the four 14mm (M10) nuts securing the cushion frame. The front inside nut can be 
+removed using the special socket (p.n. 99804AN090) and adapter (p.n. 99804AN080). The nuts can 
+be discarded after removal.
+STEP 15: CAREFULLY raise the front of the seat assembly 35-40mm (1.4 to 1.6 inch). Insert both 
+of the pre-prepared blocks between the cushion frame and the seat rail.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 35 of 59
+Continued... STEP 16: Remove and discard the four 12mm (M8) sensor mounting nuts. Remove the protective 
+washers and set aside. The two sensors can then be removed and discarded.
+IMPORTANT: DO NOT discard the protective washers. These are to be re-used.
+STEP 17: Confirm the identification numbers of the NEW Occupant Detection Sensors are #1 and 
+#2. Mount the #1 (Brown) sensor to the inner front position and the #2 ( Blue) sensor to the outer 
+front position. Torque the NEW sensor mounting nuts (p.n. 64157AN02A) to 25Nm (18.5ft-lbs).
+NOTE: Take special care in handling the new sensors.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 36 of 59
+Continued...STEP 18: Install the protector washers with the WRA-24 JIG tool (p.n. 99804AN100) along the rail 
+side. See the images below.
+STEP 19: Tuck the connector of sensor 
+sensors into the cushion frame. Remove the 
+blocks and CAREFULLY lower the cushion 
+frame.
+CAUTION:  It is possible 
+for the connector to 
+be caught between the 
+cushion frame and the 
+rail/sensor. Confirm the 
+connector is not pinched 
+in any way.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 37 of 59
+Continued...STEP 20: Remove the four 12mm (M8) rear sensor mounting nuts. Discard the nuts after removal.
+STEP 21: CAREFULLY raise the rear of the seat assembly 35-40mm (1.4 to 1.6 inch). Insert both of 
+the pre-prepared blocks between the cushion frame and the seat rail.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 38 of 59
+Continued...STEP 22: Remove and discard the four 12mm (M8) sensor mounting nuts. Remove the protective 
+washers and set aside. The two sensors can then be removed and discarded.
+IMPORTANT: DO NOT discard the protective washers. These are to be re-used.
+STEP 23: Confirm the identification numbers of the NEW Occupant Detection Sensors are #4 and 
+#3. Set the #4 ( Blue) sensor to the inner rear position and the #3 ( Brown) sensor to the outer rear 
+position. DO NOT install the mounting nuts at this time.
+NOTE: Take special care in handling the new sensors.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 39 of 59
+Continued...STEP 24: Install the protector washers with the WRA-24 JIG Tool (p.n. 99804AN100) along the rail 
+side. See the images below.
+CAUTION:  Avoid contact with the WRA-24 JIG Tool and the bolt cover.
+STEP 25: Remove the blocks and CAREFULLY lower the cushion frame.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 40 of 59
+Continued...CAUTION:  It is possible for the connector to be caught between the cushion frame and the rail/
+sensor. Confirm the connector is not pinched in any way.
+STEP 26: Install and torque the NEW sensor mounting nuts (p.n. 64157AN02A) to 25Nm (18.5ft-lbs).
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 41 of 59
+Continued...STEP 27: Secure the cushion frame with the four new mounting nuts (p.n. 64157AN00A). Torque 
+the mounting nuts to 37Nm (27ft-lbs).
+NOTE: An extension, special socket (p.n. 99804AN090), and the adapter (p.n. 99804AN080) is to be 
+used when torquing the inner front mounting nut.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 42 of 59
+Continued...STEP 28: Remove both sets of the WRA-24 JIG Tool by pulling the attached strings away from the 
+seat. This will cause the pieces to slide off the rails.
+STEP 29: Confirm all the sensors are in the associated positions.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 43 of 59
+Continued...STEP 30: Reconnect all four ODS sensor connections.
+STEP 31: Reinstall the outside hinge cover.
+STEP 32: Reinstall the inner and outer rear hinge cover.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 44 of 59
+Continued... STEP 33: Reinstall the center console and gear selector cover.
+STEP 34: Reinstall the fuses.
+STEP 35: Sit on the front passenger seat and slightly move around while adjusting the positions.
+STEP 36: Using the SSM4, perform the “Rezeroing” procedure as per the applicable Service Manual.
+ 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 45 of 59
+Continued...STEP 37: Once the “Rezoroing” procedure is successfully completed, you will be prompted to start a 
+“Sensitivity Check”. Click the “OK” button to continue.
+STEP 38: Confirm the seat and backrest are adjusted fully forward. Install both components of 
+special tool #J-47673.
+STEP 39: Input 80.0 lbs. Click the “OK” button to continue.
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 46 of 59
+Continued...STEP 40: Once the “Sensitivity Check” is successfully completed, check the following data 
+monitors: Front-Left Sensor Load Value, Front-Right Sensor Load Value, Rear-Left Sensor Load 
+Value, Rear-Right Sensor Load Value.
+STEP 41: While sitting in the passenger rear seat, pull the backrest toward the rear of the vehicle and 
+monitor the values. The front sensors should have a negative (-) value and the rear sensors should 
+have a positive (+) value.
+CAUTION:  DO NOT push the backrest toward the front of the vehicle at any point. This will cause 
+an inaccurate reading.
+IMPORTANT: In a case when the values do not match the desired specification, it possible the 
+sensor mounting position is incorrect.
+STEP 42: Once the values are confirmed. Save the data. Perform a DTC check and clear all fault 
+codes. Confirm there are no current fault codes.
+NOTE: DTC B14A1 (Sunload Sensor Circuit Low/Open) may be read as a current DTC but this is a 
+normal condition.
+STEP 43: Disconnect all battery charging equipment.
+IMPORTANT: A detailed video of this Service Procedure can be viewed by accessing the 
+following link:
+VIDEO TBD
+END OF POWER SEAT SERVICE PROCEDURE/INFORMATION
+
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 47 of 59
+Continued...SERVICE PROGRAM IDENTIFICATION LABEL:
+Type or print the necessary information on a Campaign Identification Label. The completed label 
+should be attached to the vehicle’s upper radiator support. Additional labels are available through 
+normal parts ordering channels. The part number is MSA6P1302, which comes as one sheet of 20 
+labels.
+CLAIM REIMBURSEMENT AND ENTRY PROCEDURES:
+Credit to perform this recall will be based on properly completed repair order information. Retailers 
+may submit claims through Subarunet.com.
+MANUAL SEAT
+Labor Description Labor Operation # Labor Time Recall Code
+WRA-24 ODS SENSOR SET R&R A100-579 1.1 WRA-24
+POWER SEAT
+Labor Description Labor Operation # Labor Time Recall Code
+WRA-24 ODS SENSOR SET R&R A100-579 .9 WRA-24
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 48 of 59
+Continued...To: All Subaru Retailers
+From: Subaru of America, Inc. – Service Quality
+Date: February 3, 2025
+Re: WRA-24 ODS Sensor Replacement FAQs, Used Vehicle Inventory & CPO
+_________________________________________________________________________________
+As we begin phased owner notification for the WRA-24 ODS Sensor Replacement recall, 
+we have updated the list of frequently asked questions and the instruction on how to 
+handle CPO and Used Vehicle Inventory affected by WRA-24. Please refer to this document 
+as a consistent means of communicating with customers.
+Frequently Asked Questions
+1. Question: What is an Occupant Detection System (ODS)?
+Answer: The Occupant Detection System determines the occupant’s presence and 
+status in the passenger seat to enable or disable the passenger side airbag from 
+deployment in an accident.
+2. Question: What is the reason for the recall?
+Answer: Vehicles affected by this recall may be equipped with defective Occupant 
+Detection System (ODS) sensors on the front passenger seat. If the defect exists, a 
+short circuit of the ODS sensors may occur, causing the SRS airbag system warning 
+lamp to illuminate. At the same time, the front passenger’s airbag OFF indicator will also 
+illuminate, indicating that the front passenger airbag may not deploy in certain crashes 
+as designed, increasing the risk of injury to an occupant in the seat.
+3. Question: Does this recall affect all 2020-2022 MY Legacy and Outback models?
+Answer: No. Not all 2020-2022 MY Legacy and Outback models are affected by this 
+recall. Coverage will be confirmed by using the Vehicle Inquiry function on  
+Subarunet.com. A total of 118,723 U.S vehicles have been affected by this recall. 
+Vehicles not included in the recall are equipped with ODS sensors using a printed  
+circuit board (PCB) that is not affected under this recall.
+4. Question: What is the recall remedy?
+Answer: Subaru retailers will replace all four of the ODS sensors on the front passenger 
+seat with new ones at no cost to the customer.
+5. Question: When will customer notifications begin?
+Answer: Subaru previously notified all affected vehicle owners of this recall with an 
+interim letter by first class mail on May 17, 2024, advising them they would be re-
+notified with a follow up letter to schedule an appointment once parts became available. 
+Subaru is currently receiving a limited number of ODS sensors and hardware kits to 
+remedy this recall. To maximize completions of the recall while preventing a potential 
+stock-out situation, Subaru will re-notify affected vehicle owners in small, controlled 
+phases as described below:
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 49 of 59
+Continued...Mailing Date Group
+02/03/2025 All Legacy models
+Estimated Q2 2025 2020 Outback (manual passenger seat)
+Estimated Q3 2025 2020 Outback (power passenger seat)
+Estimated Q1 2026 21-22 Outback (manual passenger seat)
+Estimated Q3 2026 21-22 Outback (power passenger seat)
+Estimated Q4 2026 21-22 Outback (power passenger seat)
+We will update you on timing of owner notification letters for subsequent phases as 
+inventory of the remedy parts continues to arrive.
+6. Question: As the owner notification phases occur, how will a retailer know 
+whether a WRA-24 recall can be performed on an affected vehicle?
+Answer: As each owner notification for each phase is announced, the recall status for 
+the vehicles included in the phase will change from “Open-Remedy not available” to 
+“Open”. Retailers can perform the WRA-24 recall on any vehicle showing an “Open” 
+status when running a VIN Inquiry on Subarunet.
+NOTE: The phasing schedule plan is based on the number of vehicles in each phase 
+and the expected parts inventory. To ensure we are able to efficiently phase this recall 
+as planned, it is imperative that retailers do not perform the WRA-24 recall on any 
+vehicle where the recall status is “Open- Remedy Not available”.
+If you encounter an affected vehicle in an “Open-Remedy not yet available” status and the 
+customer is experiencing illumination of the SRS light, please refer to question 9, scenario 
+2 for additional information.
+If you encounter an affected vehicle that is eligible to be certified in the CPO program, 
+please refer to the “Procedure to CPO vehicles affected by the WRA-24 recall” section 
+below.
+If you encounter an affected vehicle in your used vehicle inventory that does not qualify for 
+the CPO Program, please refer to the “Used Vehicle Inventory Process” section below.
+7. Question: What is the repair procedure for the WRA-24 recall?
+Answer: For vehicles with an “Open” WRA-24 status, the recall repairs can be 
+performed as outlined in the WRA-24 Recall Bulletin on STIS. The remedy repair will 
+involve replacement of the 4 ODS sensors on the passenger side seat, as well as some 
+hardware replacement. WRA-24 training videos will also be part of the required learning 
+for technicians on STAR-U. Videos of the repair procedures are also embedded in the 
+Recall Bulletin on STIS.
+If you encounter an affected vehicle in an “Open- Remedy not yet available” status 
+and the customer is not experiencing illumination of the SRS light, let the owner know 
+that they will receive owner notification when parts are available to perform the remedy 
+repair on their vehicle.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 50 of 59
+Continued...NOTE: The remedy repair should only be performed on affected vehicles with the 
+WRA-24 in an “Open” status.
+1. 8.Question: What if a customer vehicle does not have a current failure (no SRS light 
+illuminated), but the customer feels unsafe driving the vehicle?
+Answer: There is NO risk to the driver of the vehicle; this recall affects only the 
+front passenger side air bag. Additionally, a safety risk to the front passenger 
+exists only if the SRS light is illuminated. Please reassure the customer that if the 
+SRS light is not illuminated, then the ODS sensors are operating as designed and there 
+is no need to take any action until Subaru notifies the customer that parts are available. 
+IMPORTANT NOTE: Customers are eligible for alternate transportation only if the SRS 
+light is illuminated.
+If the ODS sensor failure occurs, the SRS light will illuminate. Please refer to question 9 
+for additional information.
+9. Question: What if a customer vehicle experiences the ODS sensor failure (SRS 
+light illuminates)?
+Answer: If an ODS sensor failure occurs, the SRS light will illuminate. The customer 
+should be instructed that if the SRS light illuminates, then any passenger in the front 
+passenger seat should move to the rear seat, and they should avoid using the front 
+passenger seat until the vehicle is inspected and repaired by the retailer.
+There are a few different scenarios that your retailer can encounter. Please follow the 
+instructions based on the relevant scenario:
+Scenario 1: WRA-24 vehicle in an “Open” status, regardless of SRS illumination
+Please refer to the WRA-24 Recall bulletin on STIS for the repair procedure to replace the 
+ODS Sensor Kit and related hardware. The remedy repair should be performed on any 
+vehicle with an “Open” status, regardless of whether the SRS light is illuminated.
+Scenario 2: WRA-24 vehicle in an “Open Remedy not yet available” status that has 
+the SRS light illuminated
+Should a customer bring their vehicle in with the SRS light illuminated, and their WRA-24 
+recall status is “Open- Remedy not yet available”, the technician should first pull all DTCs.
+If DTC B1788 is present, then the ODS sensor failure has occurred and a QMR should 
+be submitted. Please click here to navigate to the appendix for specific instructions and 
+requirements for QMR submission for this scenario.
+If DTC B1788 is not present, then refer to the applicable service manual and perform 
+diagnostics, noting all key steps and results. Please click here to navigate to the appendix 
+for specific instructions and requirements for QMR submission for this scenario.
+Please note, if you encounter an affected vehicle in an “Open- Remedy not yet available” 
+status and the customer is not experiencing illumination of the SRS light, let the owner 
+know that they will receive owner notification when parts are available to perform the 
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 51 of 59
+Continued...remedy repair on their vehicle.
+NOTE: The remedy repair should only be performed on affected vehicles with the 
+WRA-24 in an “Open” status.
+If the vehicle is used inventory or a Certified Pre-owned vehicle, please refer to the 
+separate instructions titled “Used Vehicle Inventory Process” or “Procedure to CPO 
+vehicles affected by the WRA-24 recall” in this announcement.
+Scenario 3: Seat bottom is needed for a non-WRA-24 affected vehicle or an unrelated 
+service issue
+If the vehicle is not affected by the WRA-24 recall or has an unrelated service issue that 
+requires a seat bottom, a QMR is still required to obtain the seat bottom. Please click here 
+to navigate to the appendix for specific instructions and requirements for QMR submission 
+for this scenario.
+Procedure to CPO vehicles affected by the WRA-24 recall
+If you have a used vehicle that is affected by the WRA-24 recall and is in an “Open” Status, 
+please refer to the Recall bulletin on STIS and perform the remedy repair. The process 
+outlined below relates only to used vehicles affected by the WRA-24 recall in an “Open- 
+Remedy not yet available” status that will be considered for CPO certification.
+To determine CPO eligibility, the retailer must first run a Carfax on the vehicle to ensure the 
+vehicle does not have a branded title, the vehicle has not been in a moderate to severe 
+accident, and there is no evidence of airbag deployment. If the Carfax report shows 
+evidence of any of these, the vehicle is not able to go through CPO certification and the 
+retailer should refer to the Used Vehicle Inventory process outlined in this announcement.
+If the Carfax report is clean, the retailer should then work through the 152-point Certified 
+Pre-Owned Vehicle Inspection Checklist for the vehicle. The retailer should have an 
+accompanying repair order for any work that is done on the vehicle to meet the CPO 
+certification requirements.
+If the retailer determines the vehicle is eligible for CPO certification, but has an open WRA-
+24 recall, the retailer should:
+• Submit an order for the appropriate seat bottom for the vehicle. There are three seat 
+bottom assembly part numbers, depending on model applicability, for the 2020-2022 
+MY Legacy and Outback models affected by this recall, and they are listed below. 
+When placing the order, the last 8 characters of the VIN must be entered as the PO 
+number.
+64139AN00A CUSHION AY OCPANTRH
+64139AN01B CUSHION AY OCPANTRH
+64139AN02B CUSHION AY OCPANTRH
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 52 of 59
+Continued...• Once the order is placed, the retailer must email the 152-point CPO Inspection 
+Checklist, with Section A completed, and the accompanying Repair Order to the 
+Parts Information Coordinators (PICs) at Picemail@subaru.com. The subject line 
+of the email should include reference to the WRA-24 recall and include the related 
+8-digit order number for the appropriate seat bottom for the vehicle (Example: WRA-
+24 parts order # 12345678).
+Upon receipt of the email, the PICs will review the information and reply to the retailer 
+email advising that either the order was released or requesting additional information. 
+If the order is released, the retailer should expect to receive the seat bottom within 
+2-3 business days. If there is a request for additional information, and there is no 
+response from the retailer providing the requested information within 5 business days, 
+the order will be cancelled.
+Once the retailer receives the part, the WRA-24 recall can be performed on the vehicle and 
+a recall claim should be entered using the following guidelines:
+Recall Code Labor Operation Description Labor Hours
+WRA24 100576 WRA-24 ODS SEAT BOTTOM R&R 0.9
+Once the recall claim is approved, the status of the recall for the VIN will change to 
+Completed. Timely claim entry is very important to keep the process of CPO certification 
+moving forward. Retailers must wait 24 hours after the recall shows completed on the VIN 
+before they can systematically begin certifying one of these vehicles via Subarunet.
+If your vehicle is a CPO, do not proceed beyond this point, follow the submission 
+instructions above. Any questions should be directed to the Parts Information 
+Coordinators (PICS) through email Picemail@subaru.com or phone number 866-782-
+2782, option 2.
+Used Vehicle Inventory Process
+If you have a used vehicle that is affected by the WRA-24 recall and is in an “Open” 
+Status, please refer to the Recall bulletin on STIS and perform the remedy repair. The 
+process outlined below relates only to used vehicles affected by the WRA-24 recall in an 
+“Open- Remedy not yet available” status that do not have an SRS light illuminated and 
+do not qualify for the CPO program. These vehicles may be delivered to a purchaser if the 
+following 2 conditions are met:
+1. The vehicle does not have the SRS indicator illuminated, and
+2. The selling retailer discloses information about this safety recall to the 
+purchaser using the Vehicle Disclosure Form - It is imperative that the purchaser 
+is made aware of the open safety recall on the vehicle and signs the Vehicle 
+Disclosure Form prior to completing the purchase. The customer must initial the 
+Vehicle Disclosure Form to confirm that they received the WRA-24 Subaru Safety 
+Recall Information prior to completing their purchase of the vehicle.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 53 of 59
+Continued...If the vehicle is in your used car inventory and has an SRS light illuminated, the vehicle 
+must not be sold. Please refer to question 9 for the procedure for obtaining a seat bottom 
+when the SRS light is illuminated.
+The Vehicle Disclosure Form and the WRA-24 Subaru Safety Recall Information sheet can 
+be found on Subarunet in Recall & Campaigns, specifically in the WRA-24- ODS Sensor 
+Replacement area of Recall/Campaign Details.
+If the above conditions are met, as part of the delivery process we ask the Retailer Sales 
+Department to please do the following:
+1. Fill out the Owner Contact and Vehicle Disclosure Form included with this notice 
+if the purchaser agrees to purchase the vehicle in this condition. This form can be 
+found on Subarunet in the Resources area on the left navigation menu or in Recall 
+& Campaigns, specifically in the WRA-24- ODS Sensor Replacement area of Recall/
+Campaign Details.
+2. Print and provide a copy of the Safety Recall Information sheet, also included with 
+this notice. There is an area on the disclosure form the customer will need to initial 
+to acknowledge receipt of the Safety Recall Information sheet. The Safety Recall 
+Information sheet can be found on Subarunet in the Resources area on the left 
+navigation menu or in Recall & Campaigns, specifically in the WRA-24- ODS Sensor 
+Replacement area of Recall/Campaign Details.
+3. When remedy parts become available, we ask that the retailer contacts the owner to 
+schedule an appointment to complete the WRA-24 recall.
+4. Please encourage the purchaser to update their ownership information by visiting 
+Customer Support in the Connect with Us area on Subaru.com.
+If a 2020-2022 Legacy or Outback model affected by the WRA-24 recall does not meet the 
+CPO certification process, the retailer can sell the vehicle as Used Vehicle Inventory using 
+the disclosure letter process that was outlined in the Subarunet announcement.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 54 of 59
+Continued...Appendix 1  - WRA-24 vehicle in an “Open Remedy not yet available” status that has 
+the SRS light illuminated with DTC B1788
+If DTC B1788 is present, then the ODS sensor failure has occurred and a QMR should be 
+submitted as outlined below.
+NOTE: The QMR instructions below must be followed to ensure you receive a 
+response within one business day. This includes completing QMR with the correct 
+coding and including all requested information in the appropriate format. Failure to 
+do so will significantly delay the review process and potential part release.
+1. The QMR should be coded using WRA as the failure code. The SSM file data must 
+be attached to the QMR in .SEPF format with the VIN written to the data.
+All QMR submissions should have the customer’s Concern, Cause, and Correction 
+filled out with detail and contain the technician’s observations, diagnostics, and 
+recommendation.
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a 
+parts order for the appropriate remedy part will be placed by the Parts Information 
+Coordinators (PICs) for your dealership.
+NOTE: Orders will only be placed only if a QMR is submitted with the required 
+attachments and SOA is able to confirm the diagnosis of a defect requiring 
+replacement of the seat bottom.
+If there is sufficient inventory, then a parts order for the ODS sensor kit and related 
+hardware kit will be placed by the PICs for your dealership. If we do not have sufficient 
+inventory of the ODS sensor kits or hardware kits, then a parts order for the appropriate 
+seat bottom part will be placed by the PICs for your dealership.
+3. Once the appropriate part is received and the vehicle has been repaired, please 
+submit a claim using the following information:
+• If the vehicle is part of the WRA-24 recall and the retailer was sent an ODS 
+sensor kit and hardware kit, then a Recall Claim (RC) must be submitted using 
+the following information:
+Recall Code Labor Operation Description Labor Hours
+WRA24 A100-579 WRA-24 ODS SENSOR KIT R&R1.1 (manual seat)
+0.9 (power seat)
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 55 of 59
+Continued...• If the vehicle is part of the WRA-24 recall and the retailer was sent a seat bottom, then a 
+Recall Claim (RC) must be submitted using the following labor operation:
+Recall Code Labor Operation Description Labor Hours
+WRA24 A100-576 WRA-24 ODS Seatbottom R&R 0.9
+4. Please direct any inquiries as follows:
+• If you have questions regarding the status of your QMR, please refer to the QMR 
+itself, specifically the status on the QMR.
+i. If the QMR is in a “Pending Review” status, then it has been received but has 
+not been reviewed yet. The status will be updated once the QMR has been 
+reviewed.
+- If the status of the QMR is “No Action Needed”, then either the PICs have 
+placed an order for the seat bottom (which can be viewed in RPM), or you 
+will be notified via phone or email of information that was missing from the 
+QMR.
+• Additional inquiries should be directed to the Subaru Claims Helpline at:  
+866-782-2782, option 2.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 56 of 59
+Continued...Appendix 2  - WRA-24 vehicle in an “Open Remedy not yet available” status that has 
+the SRS light illuminated with DTC other than B1788
+Technicians should refer to the applicable service manual and perform diagnostics, noting 
+all key steps and results. A QMR should be submitted as outlined below.
+Currently, we have a limited supply of seat bottoms, which includes the ODS sensors, 
+available for customers who experience an ODS failure (the SRS lamp is illuminated) prior 
+to the recall part becoming available. There are three seat bottom assembly part numbers, 
+depending on model applicability, for the 2020-2022 MY Legacy and Outback models 
+affected by this recall:
+64139AN00A CUSHION AY OCPANTRH
+64139AN01B CUSHION AY OCPANTRH
+64139AN02B CUSHION AY OCPANTRH
+To ensure adequate inventory of these parts is available for customers that are 
+experiencing an ODS sensor failure, these part numbers are restricted from retailer 
+ordering. Therefore, the following process must be followed to obtain one of these parts. 
+Failure to adhere to these instructions may result in a delay.
+NOTE: The QMR instructions below must be followed to ensure you receive a 
+response within one business day. This includes completing the QMR with the correct 
+coding and including all requested information in the appropriate format. Failure to 
+do so will significantly delay the review process and potential part release.
+1. If technician’s diagnosis results in the seat bottom requiring replacement, a QMR 
+must be submitted. The QMR should be coded using WRA as the failure code.
+All QMR submissions should have the customer’s Concern, Cause, and Correction 
+filled out with detail and contain the technician’s observations, diagnostics, and 
+recommendation. If there are DTCs other than B1788, completed trouble tree results 
+are required in the QMR. Squeaks and rattles should have video documentation 
+and physical damage will require pictures. Secondary component failures such as 
+power seat motors or seat position sensor failures will require completed diagnostics 
+uploaded to the QMR.
+Body shop orders should have a copy of the body shop repair order or proof of 
+repair added to the QMR for documentation.
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a 
+parts order for the appropriate remedy part will be placed by the Parts Information 
+Coordinators (PICs) for your dealership.
+NOTE: Orders will only be placed only if a QMR is submitted with the required 
+attachments and SOA is able to confirm the diagnosis of a defect requiring 
+replacement of the seat bottom.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 57 of 59
+Continued...3. Once the appropriate part is received and the vehicle has been repaired, please 
+submit a claim using the following information:
+• If the vehicle is part of the WRA-24 recall and the retailer was sent a seat bottom, 
+then a Recall Claim (RC) must be submitted using the following labor operation:
+Recall Code Labor Operation Description Labor Hours
+WRA24 A100-576 WRA-24 ODS Seatbottom R&R 0.9
+4. Please direct any inquiries as follows:
+• If you have questions regarding the status of your QMR, please refer to the QMR 
+itself, specifically the status on the QMR.
+i. If the QMR is in a “Pending Review” status, then it has been received but has 
+not been reviewed yet. The status will be updated once the QMR has been 
+reviewed.
+ii. If the status of the QMR is “No Action Needed”, then either the PICs have 
+placed an order for the seat bottom (which can be viewed in RPM), or you will 
+be notified via phone or email of information that was missing from the QMR.
+• Additional inquiries should be directed to the Subaru Claims Helpline at: 866-
+782-2782, option 2.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 58 of 59
+Continued...Appendix 3  - Seat bottom is needed for a non-WRA-24 affected vehicle or an 
+unrelated service issue
+If the vehicle is not affected by the WRA-24 recall or has an unrelated service issue that 
+requires a seat bottom, then a QMR is still required to obtain the seat bottom. Technicians 
+should refer to the applicable service manual and perform diagnostics, noting all key steps 
+and results. A QMR should be submitted as outlined below.
+There are three seat bottom assembly part numbers, depending on model applicability, for 
+the 2020-2022 MY Legacy and Outback models affected by this recall:
+64139AN00A CUSHION AY OCPANTRH
+64139AN01B CUSHION AY OCPANTRH
+64139AN02B CUSHION AY OCPANTRH
+To ensure adequate inventory of these parts is available for customers that are 
+experiencing an ODS sensor failure, these part numbers are restricted from retailer 
+ordering. Therefore, the following process must be followed to obtain one of these parts. 
+Failure to adhere to these instructions may result in a delay.
+NOTE: These QMR instructions must be followed to ensure you receive a response 
+to your QMR within one business day. This includes completing the QMR with the 
+correct coding and including all requested information in the appropriate format. 
+Failure to do so will significantly delay the review process and potential parts order.
+1. If the technician diagnosis results in one of the above seat bottoms requiring 
+replacement, then a QMR must be submitted. The QMR should be coded using WRA as 
+the failure code. All Service Manual diagnostics steps/results as well as the SSM data, 
+if there was a DTC, should be attached to the QMR in .SEPF format with the VIN written 
+to the data.
+All QMR submissions should have the customer’s Concern, Cause, and Correction 
+filled out with detail and contain the technician’s observations, diagnostics, and 
+recommendation. If there are DTCs other than B1788, completed trouble tree results 
+are required in the QMR. Squeaks and rattles should have video documentation and 
+physical damage will require pictures. Secondary component failures such as power 
+seat motors or seat position sensor failures will require completed diagnostics uploaded 
+to the QMR.
+Body shop orders should have a copy of the body shop repair order or proof of repair 
+added to the QMR for documentation.
+Bulletin Number: WRA-24;  Date: 02/03/25         Page 59 of 59
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a 
+parts order for the appropriate seat bottom part will be placed by the PICs for your 
+dealership.
+NOTE: Orders will only be placed only if a QMR is submitted with the required 
+attachments and SOA is able to confirm the diagnosis of a defect requiring 
+replacement of the seat bottom.
+3. Once the appropriate seat bottom part is received and the vehicle has been repaired, 
+please submit a claim using the following information:
+• The seat bottom was replaced in a vehicle for reasons unrelated to the WRA-24 
+recall. Please refer to the Labor Time Guide for applicable coverage and claim 
+coding.
+4. Please direct any inquiries as follows:
+• If you have questions regarding the status of your QMR, please refer to the QMR 
+itself, specifically the status on the QMR.
+i. If the QMR is in a “Pending Review” status, then it has been received but has not 
+been reviewed yet. The status will be updated once the QMR has been reviewed.
+- If the status of the QMR is “No Action Needed”, then either the PICs have 
+placed an order for the seat bottom (which can be viewed in RPM), or you will 
+be notified via phone or email of information that was missing from the QMR.
+• Additional inquiries should be directed to the Subaru Claims Helpline at: 866-782-
+2782, option 2.

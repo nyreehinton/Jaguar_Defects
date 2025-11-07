@@ -1,0 +1,393 @@
+{
+  "report_type": "Mode 6 Report",
+  "vendor": "BlueDriver",
+  "report_date": "Oct 26, 2025 1:09 AM",
+  "vehicle": {
+    "year": "2020",
+    "make": "JAGUAR",
+    "model": "F-TYPE 2L L4",
+    "vin": "SAJDD1GX4LCK67497"
+  },
+  "tests": [
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "01",
+      "tid": "83",
+      "value": "01m:10s",
+      "min": "00m:00s",
+      "max": "08m:20s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "01",
+      "tid": "84",
+      "value": "00m:30s",
+      "min": "00m:00s",
+      "max": "06m:40s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "01",
+      "tid": "85",
+      "value": "00m:10s",
+      "min": "00m:00s",
+      "max": "11m:40s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "01",
+      "tid": "86",
+      "value": "00m:40s",
+      "min": "00m:00s",
+      "max": "08m:20s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 2",
+      "description": "Rich to lean sensor switch time (calculated)",
+      "status": "Complete and Pass",
+      "mid": "02",
+      "tid": "05",
+      "value": "02m:00s",
+      "min": "00m:00s",
+      "max": "16m:40s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 2",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "02",
+      "tid": "85",
+      "value": "00m:00s",
+      "min": "00m:00s",
+      "max": "15m:50s"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 2",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "02",
+      "tid": "83",
+      "value": "0.229209 V",
+      "min": "0.000000",
+      "max": "0.249935"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 2",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "02",
+      "tid": "84",
+      "value": "0.898547 V",
+      "min": "0.898547",
+      "max": "1.248457"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 3",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "03",
+      "tid": "83",
+      "value": "0.663243 V",
+      "min": "0.000000",
+      "max": "0.760778"
+    },
+    {
+      "monitor": "Oxygen Sensor Monitor Bank 1 - Sensor 3",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "03",
+      "tid": "84",
+      "value": "0.770532 V",
+      "min": "0.770532",
+      "max": "1.248457"
+    },
+    {
+      "monitor": "Catalyst Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Fail",
+      "mid": "21",
+      "tid": "84",
+      "value": "0.00 %",
+      "min": "100.00",
+      "max": "655.35"
+    },
+    {
+      "monitor": "VVT Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Fail",
+      "mid": "35",
+      "tid": "80",
+      "value": "-18.55 °",
+      "min": "40.99",
+      "max": "-58.89"
+    },
+    {
+      "monitor": "Vehicle Manufacturer defined OBDMIDs",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Fail",
+      "mid": "FF",
+      "tid": "35",
+      "value": "0x2F27",
+      "min": "0x1003",
+      "max": "0xE8FF"
+    },
+    {
+      "monitor": "Vehicle Manufacturer defined OBDMIDs",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Fail",
+      "mid": "FF",
+      "tid": "35",
+      "value": "0x2F27",
+      "min": "0x1003",
+      "max": "0xE8FF"
+    },
+    {
+      "monitor": "EVAP Monitor (0.040″)",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "3B",
+      "tid": "8B",
+      "value": "1501.25 Pa",
+      "min": "1500.00",
+      "max": "8191.75"
+    },
+    {
+      "monitor": "EVAP Monitor (0.020″)",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "3C",
+      "tid": "84",
+      "value": "0.00 mm²",
+      "min": "0.00",
+      "max": "0.01"
+    },
+    {
+      "monitor": "Purge Flow Monitor",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "3D",
+      "tid": "8C",
+      "value": "4.50390460 mA",
+      "min": "0.00000000",
+      "max": "6.34765393"
+    },
+    {
+      "monitor": "Purge Flow Monitor",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "3D",
+      "tid": "8D",
+      "value": "17.57811856 mA",
+      "min": "0.00000000",
+      "max": "17.58593106"
+    },
+    {
+      "monitor": "Purge Flow Monitor",
+      "description": "Manufacturer Defined Test",
+      "status": "Test not complete",
+      "mid": "3D",
+      "tid": "8E",
+      "value": "- mA",
+      "min": "-",
+      "max": "-"
+    },
+    {
+      "monitor": "Oxygen Sensor Heater Monitor Bank 1 - Sensor 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "41",
+      "tid": "85",
+      "value": "719.6 °C",
+      "min": "680.1",
+      "max": "6513.5"
+    },
+    {
+      "monitor": "Oxygen Sensor Heater Monitor Bank 1 - Sensor 2",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "42",
+      "tid": "81",
+      "value": "0.330 kOhm",
+      "min": "0.000",
+      "max": "0.700"
+    },
+    {
+      "monitor": "Oxygen Sensor Heater Monitor Bank 1 - Sensor 3",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "43",
+      "tid": "81",
+      "value": "0.330 kOhm",
+      "min": "0.000",
+      "max": "0.700"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A1",
+      "value": "1.0005523 lambda",
+      "min": "0.0000000",
+      "max": "1.1494364"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A5",
+      "value": "1.0168103 lambda",
+      "min": "0.0000000",
+      "max": "1.1494364"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A7",
+      "value": "0.9695615 lambda",
+      "min": "0.0000000",
+      "max": "1.1494364"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A3",
+      "value": "1.0114418 lambda",
+      "min": "0.0000000",
+      "max": "1.1494364"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A2",
+      "value": "1.0005523 lambda",
+      "min": "0.9345443",
+      "max": "1.9990000"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A6",
+      "value": "1.0168103 lambda",
+      "min": "0.9345443",
+      "max": "1.9990000"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A8",
+      "value": "0.9695615 lambda",
+      "min": "0.9345443",
+      "max": "1.9990000"
+    },
+    {
+      "monitor": "Fuel System Monitor Bank 1",
+      "description": "Manufacturer Defined Test",
+      "status": "Complete and Pass",
+      "mid": "81",
+      "tid": "A4",
+      "value": "1.0114418 lambda",
+      "min": "0.9345443",
+      "max": "1.9990000"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 1 Data",
+      "description": "EWMA (Exponential Weighted Moving Average) misfire counts for last ten (10) driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A2",
+      "tid": "0B",
+      "value": "3 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 1 Data",
+      "description": "Misfire counts for last/current driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A2",
+      "tid": "0C",
+      "value": "1 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 2 Data",
+      "description": "EWMA (Exponential Weighted Moving Average) misfire counts for last ten (10) driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A3",
+      "tid": "0B",
+      "value": "5 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 2 Data",
+      "description": "Misfire counts for last/current driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A3",
+      "tid": "0C",
+      "value": "0 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 3 Data",
+      "description": "EWMA (Exponential Weighted Moving Average) misfire counts for last ten (10) driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A4",
+      "tid": "0B",
+      "value": "15 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 3 Data",
+      "description": "Misfire counts for last/current driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A4",
+      "tid": "0C",
+      "value": "0 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 4 Data",
+      "description": "EWMA (Exponential Weighted Moving Average) misfire counts for last ten (10) driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A5",
+      "tid": "0B",
+      "value": "8 counts",
+      "min": "0",
+      "max": "65535"
+    },
+    {
+      "monitor": "Mis-Fire Cylinder 4 Data",
+      "description": "Misfire counts for last/current driving cycles (calculated, rounded to an integer value)",
+      "status": "Complete and Pass",
+      "mid": "A5",
+      "tid": "0C",
+      "value": "0 counts",
+      "min": "0",
+      "max": "65535"
+    }
+  ]
+}

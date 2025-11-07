@@ -1,0 +1,102 @@
+SIB 64 01 25
+INTERMITTENT  HUMMING NOISE2025-02-28
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+F97 (X3 M Sports
+Activity V ehicle)F98 (X4 M Sports Activity
+Coupe)G01 (X3 Sports
+Activity V ehicle)G02 (X4 Sports
+Activity Coupe)
+G20 (3 Series
+Sedan)G29 (Z4 Roadster)   
+SITUA TION
+The customer may hear an intermittent “humming” or “foghorn” type sound in vehicle. It sounds like a low
+hum that last for only a few seconds. 
+ 
+This can occur with the engine operating or may be heard for up to one hour after engine shut down. 
+ 
+CAUSE
+This hum noise may be caused by the expansion valve of the air conditioning system.
+ 
+Other noises may occur in these vehicles with dif ferent root causes:
+For a whistling noise  heard above 40 mph that is loudest with the sunroof in the vent position, see SI B64 01 21
+ 
+For a clicking noise  from repeated activation of the recirculated air flap, see SI B64 02 22
+ 
+For a groaning noise  heard from within the heating and air-conditioning unit in the center of the instrument panel
+when either a ventilation flap, air stratification flap or the recirculated air flap moves to a dif ferent position; see SI
+B64 04 22
+ 
+CORRECTION
+The expansion valve moves internally in response to system pressure/temperature and can occasionally make
+noise. Explain cause of noise to customer .
+ 
+Replace the expansion valve in cases where excessive noise occurs and is confirmed
+ 
+PROCEDURE
+1. Confirm the customer ’s concern.  
+2. Check the vehicle for related stored fault codes. 
+3. Perform standard system diagnosis to verify the issue.
+4. Replace the expansion valve only in case of excessive noise. If contamination is found when replacing the
+expansion valve, then the air conditioning system should be flushed.
+ 
+PARTS INFORMA TION
+Parts are only required in those situations where it is determined that there is an issue with the
+corresponding system’ s components. 
+ 
+To determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN / Chassis
+number into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the
+vehicle.
+ 
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:51 AM 64 01 25_INTERMITTENT HUMMING NOISE
+about:blank 1/3
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+This Service Information Bulletin provides technical, diagnosis, and repair-related information.
+ 
+Damage and/or issues caused by outside influences are not covered under the BMW limited warranties.
+ 
+Eligible and Covered W ork/Repairs
+ 
+Repairs that address a verified defect in materials and/or workmanship are covered under the terms of the
+BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+To submit a claim, please follow the established and applicable warranty policy and procedures
+(Labor/Part/Sublet – Bulk supply materials) that apply to the repair being performed.
+ 
+Refer to AIR for the claim submission’ s line item Repair Code.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain repair-related labor operation codes (including diagnosis*) and the corresponding flat rate unit
+(FRU) allowance information from the BMW Group AIR application resource, enter the Chassis Number (last
+seven (7) characters of the VIN), and click on the “Search” icon. If the “V ehicle Selection” window displays
+two or more model possible vehicle choices, select the applicable Model, or enter the full VIN (17
+characters) instead to proceed.  Click on the “Flat Rate Units” button and enter a flat rate labor operation
+code description or number in the field to the right, click on the “Search” icon to display the corresponding
+listing of “Flat rate unit group details” that are available.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis
+work time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise
+required by State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:51 AM 64 01 25_INTERMITTENT HUMMING NOISE
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:51 AM 64 01 25_INTERMITTENT HUMMING NOISE
+about:blank 3/3

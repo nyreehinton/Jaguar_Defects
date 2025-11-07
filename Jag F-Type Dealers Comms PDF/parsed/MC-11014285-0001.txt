@@ -1,0 +1,234 @@
+ 
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+Technical Service Bulletin  GROUP  NUMBER  
+CAMPAIGN  25-01-010H 
+DATE  MODEL (S) 
+FEBRU ARY  2025 SEE BELOW  
+SUBJECT:  BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY  
+OVER VOLTAGE WARNING  (SERVICE CAMPAIGN  9B4) 
+ 
+This TSB supersedes 24 -01-054H to revise the endin g production da te range for the Son ata 
+Hybrid (DN8 HEV) in App licable Vehicles (page 1), and to remove ROM IDs 5700 & 5720  in the  
+ROM ID In formation ta ble for Event # 796, Sonata Hybrid (DN8 HEV)  (page 2).  
+ 
+ 
+ 
+Description:  This bulletin provides the procedure to update the software for the Battery Management 
+System (BMS)  on certain Elantra Hybrid (CN7 HEV), Sonata Hybrid (DN8 HEV), and Tucson Hybrid 
+(NX4 HEV)  vehicles that may exhibit a warning light with DTC P1BB20 . 
+ 
+DTC Description:  P1BB20 – 12V Lithium Battery Cell Voltage High  
+ 
+ 
+Applicable Vehicles  (Certain) : 
+• 2021–2023MY Elantra Hybrid (CN7 HEV)  produced from 12/15/2020 - 02/13/2023  
+• 2020-2022MY Sonata Hybrid (DN8 HEV)  produced from 01/29/2020 - 03/08/202 2 
+• 2022 –2024MY Tucson Hybrid (NX4 HEV)  produced from 01/20/2021 - 12/18/2023  
+ 
+ 
+GDS Information:   
+System  Event #  Description  
+BMS  796 DN8 HEV 12V LITHIUM BATTERY OVER VOLTAGE WARNING 
+LIGHT IMPROVEMENT (P1BB20)  
+1037  CN7 HEV 12V LITHIUM BATTERY OVER VOLTAGE WARNING 
+LIGHT IMPROVEMENT  
+1038  NX4 HEV 12V LITHIUM BATTERY OVER VOLTAGE WARNING 
+LIGHT IMPROVEMENT  
+(*or use a later  available  event as listed in the GDS  BMS  Update screen if one is available.)  
+  
+  
+ 
+Dealers must perform this service campaign on all affected vehicles prior to customer retail delivery 
+and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ 
+Access the “Vehicle Information” screen via WEBDCS to identify open campaigns.  
+ IMPORTANT  
+ BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY OVER VOLTAGE WARNING   
+(SERVICE CAMPAIGN 9B4)  
+TSB #: 25-01-010H Page 2 of 6 
+ SUBJECT:  
+SUBJECT:  Warranty Information:   
+Model  Op. Code  Operation  Op. Time  Causal  Part Nature 
+Code  Cause 
+Code  
+Elantra Hybrid 
+(CN7 HEV)  
+30D163 R0 BMS Software 
+Update  0.3 M/H  37513 -BY000  
+I14 ZZ3 Sonata Hybrid 
+(DN8 HEV)  37513 -L7000  
+Tucson Hybrid 
+(NX4 HEV)  37513 -P0000  
+NOTE 1:  Submit claim on Claim Entry Screen as “Campaign” type.  
+NOTE 2:  If a part is found in need of replacement while performing this campaign  and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the 
+work.  
+NOTE 3:  Op times include VIN, Mileage, and photo capture of the “ECU update complete” screen as 
+outlined in the Digital Documentation Policy.  
+ROM ID Information :  Event #  796 
+Model  MY System  ECU  
+Part Number  ROM ID  
+Old New 
+Sonata 
+Hybrid 
+(DN8 HEV)  2020 - 2022 BMS  37513 -L5000  5000  
+5520  5200  
+5400  
+5420  
+5440  
+5460  
+5480  
+5500  
+37513 -L7000  5600  
+5740  5620  
+5640  
+5680  
+ 
+  
+ BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY OVER VOLTAGE WARNING   
+(SERVICE CAMPAIGN 9B4)  
+TSB #: 25-01-010H Page 3 of 6 
+ SUBJECT:  
+SUBJECT:  ROM ID Information :  Event #  1037  
+Model  MY System  ECU  
+Part Number  ROM ID  
+Old New 
+Elantra 
+Hybrid 
+(CN7 HEV)  2021 - 2023  BMS  37513 -BY000  6000  
+6080  6020  
+6040  
+6060  
+ 
+ROM ID Information :  Event #  1038  
+Model  MY System  ECU  
+Part Number  ROM ID  
+Old New 
+Tucson 
+Hybrid 
+(NX4 HEV)  2022 – 2024 BMS  37513 -P0000  6000  
+6120  6020  
+6040  
+6060  
+6100  
+ 
+Service Procedure:   
+ 
+ 
+ 
+ 
+ 
+GDS Vehicle Battery Low Voltage Warning:  
+If voltage is below 12 Volts per the GDS warning, then select Back  and attach a battery charger  
+to ensure an adequate battery charge for reliable update results. Turn ignition back ON, and then 
+retry the ECU update again.  
+ 
+ 
+NOTICE  
+You must initially perform the GDS ECU update in Auto Mode.  
+•If the ECU update starts but then fails in Auto Mode, perform the update in Manual Mode 
+to recover.  
+NOTICE  
+This TSB includes Repair validation photos. Refer to the latest Warranty Digital Documentation 
+Policy for requirements.  
+STUI  
+
+ BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY OVER VOLTAGE WARNING   
+(SERVICE CAMPAIGN 9B4)  
+TSB #: 25-01-010H Page 4 of 6 
+ SUBJECT:  
+SUBJECT:  1. Perform the ECU  update in Auto Mode . 
+ 
+Use the ID Check  to verify the ROM ID before 
+updating the software.  
+ 
+ 
+  
+2. Select the BMS  system to scan the vehicle’s 
+current ROM ID.  
+ 
+ 
+ 
+  
+3. After the ECU update process shows 100% 
+complete, follow the prompts on the screen to 
+cycle the ignition OFF for at least 10 seconds  
+to reset the control unit  (certain models may 
+take up to 30 seconds ). 
+ 
+ 
+ 
+ 
+Refer to TSB # 24-GI-012H, “ECU 
+Update Procedure  for Tablet -Based 
+GDS -Smart ”, for additional information.  
+   Information  
+  i 
+If the update  fails, please remove the 
+power connector or the battery ( –) 
+connector from the indoor fuse box for at 
+least 5 seconds  and reassemble it to 
+retry the update . 
+NOTICE  
+Check the current ROM ID version and 
+compare it to the ROM ID Information 
+table before attempting to perform the 
+software update.  
+NOTICE  
+Use the Refresh  button to reset the 
+timer.  
+   Information  
+  i 
+ BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY OVER VOLTAGE WARNING   
+(SERVICE CAMPAIGN 9B4)  
+TSB #: 25-01-010H Page 5 of 6 
+ SUBJECT:  
+SUBJECT:  4.   
+ 
+5. After the ECU update  process shows 100% 
+complete, cycle the ignition key to OFF for at 
+least 10 seconds to reset the control unit .  
+6. Perform an All Systems Fault Code  search 
+and erase DTC h istory that had incidentally 
+occurred from the ECU update.   
+7. Start the vehicle in Ready  mode to confirm  
+proper operation of the vehicle.  
+ 
+  
+ 
+  
+For multiple ECU updates, go back to the 
+Auto Mode screen to view all updates 
+available in one screen.  
+   Information  
+  i 
+If the ECU update fails in Auto Mode, perform the update in Manual Mode using the password(s) 
+below .  
+ 
+NOTICE  
+ 
+Take a screenshot of the “ECU Update 
+Complete ” screen using your tablet and 
+upload to STUI.  
+STUI  
+ BMS SOFTWARE UPDATE FOR DTC P1BB20: 12V BATTERY OVER VOLTAGE WARNING   
+(SERVICE CAMPAIGN 9B4)  
+TSB #: 25-01-010H Page 6 of 6 
+ SUBJECT:  
+SUBJECT:  Manual Mode Password : Event #  796 
+ECM Menu  Password  
+DN8 HEV BMS 37513 -L5000  5000  
+DN8 HEV BMS 37513 -L7000  7000  
+ 
+Manual Mode Password : Event #  1037  
+ECM Menu  Password  
+CN7 HEV BMS 37513 -BY000  7531  
+ 
+Manual Mode Password : Event #  1038  
+ECM Menu  Password  
+NX4 HEV BMS 37513 -P0000  3000  
+ 
+   
+ 

@@ -1,0 +1,64 @@
+Technical Service Bulletin (TSB)
+Flash: Transmission Control Module (TCM) Updates
+REFERENCE: TSB:  21-015-25
+GROUP:  21 - Transmission and Transfer
+CaseDate: February 5, 2025 REVISION: ––
+VEHICLES
+AFFECTED:2025 (DT) RAM 1500 Pickup
+This bulletin applies to vehicles buillt on and before November 20,
+2024 (MDH 1120XX) equipped with the 8-Spd Auto 8HP75 Trans (Sales
+Code DFR) and the:
+●3.0L I6 Hurricane HO Twin Turbo Engine (Sales Code EFC).
+OR
+●3.0L I6 Hurricane SO Twin Turbo Engine (Sales Code EFH).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:The customer must describe one or more of the following:
+●Bump or jerk felt during Engine Start/Stop (ESS) operation in normal and snow modes.
+●Bump during tip-in downshift while in Normal or Sport modes.
+●Transmission shifting concerns when vehicle has less than 1500 miles (2414 Km).
+●Driveability concerns and not holding correct gear during downgrade, snow mode and accelerator tip-out
+maneuvers.
+CAUSE: TCM software
+REPAIR SUMMARY:
+This bulletin involves reprogramming the TCM with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-19-05-SJ Module, Transmission
+Control (TCM) -
+Reprogram
+(0 - Introduction)2 - Automatic
+Transmission0.3 Hrs.
+Failure Code CC Customer Concern
+The dealer must use failure code CC with this Technical Service Bulletin.
+● If the customer’s concern matches the SYMPTOM identified in the Technical Service Bulletin, failure code
+CC is to be used.
+● When utilizing this failure code, the 3C’s (customer’s concern, cause and correction) must be provided for
+processing Technical Service Bulletin flash/reprogramming conditions.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+REPAIR PROCEDURE:
+NOTE: Install a battery charger to ensure battery voltage does not drop below 13.2 volts. Do not allow
+the charging voltage to climb above 13.5 volts during the flash process.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+1. Reprogram the TCM with the latest software. If issues arise when flashing a module using the wiTECH
+Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within the Help
+menu.
+2. Clear any DTCs that may have been set in any modules due to reprogramming. The wiTECH application
+will automatically present all DTCs after the flash and allow them to be cleared.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

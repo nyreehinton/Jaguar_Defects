@@ -1,0 +1,24 @@
+eP4/eM2 Compressor Discharge Line Freeze-Up Service Bulletin TSB-13-007-FTL Publish Date: 12/18/2024 
+Problem Details: 
+•Air compressor stops building air due to ice blockage at discharge line overflow valve.
+•When discharge line becomes blocked, air compressor relieves pressure through relief
+valve on housing and sprays compressor oil
+•Occurs in high-humidity near(+/-) freezing environmental conditions
+Affected Models / Truck options: 
+•Affected vehicles: all eCascadias & eM2
+Responsible Supplier: 
+•Bendix/ DTNAProduction Containment: 
+•None
+Field Containment (short term): 
+•None
+Root Cause: P No ,Yes 
+P"No ,Yes 
+,No P"Yes 
+•Moisture accumulates in spring chamber of overflow valve, then freezes, disabling
+valve
+•Original theory was ice blockage in the air stream but this has been proven untrue
+Long Term Corrective Action Plan: , No P-Yes 
+•Splash cover will be added in production mid-2025
+Long Term Field Plan: 1 No P" Yes 
+•Service Bulletin TSB-13-007-FTL with instructions for thawing valve and installing insulation
+•Service Bulletin will be revised when splash cover becomes available.

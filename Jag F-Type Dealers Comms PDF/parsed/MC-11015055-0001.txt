@@ -1,0 +1,87 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-038
+Service BulletinDate: February, 2025
+TECHNICAL
+Front Seat Lower Track/Frame Noise
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Silverado EV 2024 2025
+       
+GMC Sierra EV 2024 2025
+Involved Region or Country United States and Canada
+Additional Options (RPOs) Equipped with RPO A2X, A7K
+ConditionSome customers may comment on an audible “pop” type noise in the front lower seat
+track while driving and/or when the occupant is seated and applying pressure to the seat
+back frame.
+CauseThe causes of the condition may be due to insufficient grease on the lower seat frame
+track(s).
+CorrectionTechnicians are to grease the lower seat tracks as described in the service procedure
+below.Subject:
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+1. Move the seat to the full back position.
+Page 2 February, 2025 Bulletin No.: 25-NA-038
+6850498
+2. Apply a marble sized set of grease to a wooden applicator.
+Bulletin No.: 25-NA-038 February, 2025 Page 3
+6850499
+3. Starting at the outer seat track, apply grease to one side of the track. Apply grease about 3" into the seat track.
+Then, the other side as shown below.
+Page 4 February, 2025 Bulletin No.: 25-NA-038
+6850500
+Bulletin No.: 25-NA-038 February, 2025 Page 5
+6850501
+Page 6 February, 2025 Bulletin No.: 25-NA-038
+6850502
+Bulletin No.: 25-NA-038 February, 2025 Page 7
+6850504
+4. Repeat the grease application process on the inboard seat track.
+Page 8 February, 2025 Bulletin No.: 25-NA-038
+6850505
+Bulletin No.: 25-NA-038 February, 2025 Page 9
+6850506
+Page 10 February, 2025 Bulletin No.: 25-NA-038
+6850507
+Bulletin No.: 25-NA-038 February, 2025 Page 11
+6850508
+5. After applying the grease, wipe any excess grease away. Then, move the seat to the full front and rear position
+a minimum of two times. Wipe off any more excess grease that appears.
+Page 12 February, 2025 Bulletin No.: 25-NA-038
+6850514
+6. Repeat the process on the other seat.
+7. Return the vehicle to the customer.
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+XLUBRI-
+CANT,MULTI-
+PURPOSE
+PTFE-
+CARTRIDGE89022180 1
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+*7086118 Applying grease to front seat track. 0.3 hr
+Add Applying grease to the other front seat track. 0.2 hr
+*This is a unique Labor Operation for Bulletin use only.
+Version 1
+Modified Released February 21, 2025
+Bulletin No.: 25-NA-038 February, 2025 Page 13
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION

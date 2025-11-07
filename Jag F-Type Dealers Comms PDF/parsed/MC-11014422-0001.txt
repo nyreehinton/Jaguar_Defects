@@ -1,0 +1,210 @@
+SIB 17 01 24
+COOLANT  LEAK AT CHANGEOVER V ALVE2025-02-1 1
+This Service Information Bulletin (Revision 2) replaces SI B17 01 24 dated April 2024.
+ 
+What’ s New :
+Claim Information: Labor operation corrected
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description
+G26 i4 Gran Coupe Battery Electric V ehicle (BEV)
+G60 i5 Sedan (BEV)
+G70 i7 Sedan (BEV)
+i20 iX Sports Activity V ehicle (SA V BEV)
+SITUA TION
+There is coolant leaking from under the car
+Low heater output
+Possible Check Control message “Drive, you can continue driving” (ID49)
+Possible fault codes stored in these BEV vehicles:
+224163 – Electric auxiliary heater for the high-voltage battery unit: Undervoltage or internal
+communication fault
+8049AA  - Coolant level sensor , expansion tank: Coolant level low or short circuit to ground or line
+disconnection
+80124F – Electric auxiliary heater: Communication in electric auxiliary heater faulty
+224F60 - Coolant level sensor , expansion tank: Coolant level low or short circuit to ground or line
+disconnection
+2241 11 - Cooling system for power electronics: Coolant loss detected
+224107 - Cooling system for high-voltage battery unit, component protection: Detection of coolant
+loss
+ 
+CAUSE
+Leakage coming from the coolant changeover valve(s); two or more when applicable.
+ 
+CORRECTION
+Check all the changeover valves (if vehicle has more than one*)  for a coolant leak (active) or previous
+coolant leak (valve has residual coolant dried around it).  
+ 
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:07 PM 17 01 24_COOLANT LEAK AT CHANGEOVER VALVE
+about:blank 1/5
+ Check the production date of the remaining
+changeover valves (1).  Improved valves were
+produced 5.1.2024 (January 5, 2024) and
+later.
+ 
+ 
+Replace any* changeover valves PN 64 1 1 9 462 1 14) with a production date older than 5.1.2024 (January
+5, 2024).
+ 
+(*) Possible number of changeover valves per model:
+ 
+G26 1
+G60 3
+G70 1
+i20 2
+ 
+If no changeover valves are leaking, perform further diagnosis with IST A and cooling system test equipment.
+PROCEDURE
+Replace the changeover valve/s.  Use the appropriate repair instruction based on model:
+ 
+G26 and G70:   Refer to Repair Instruction 64 12 790
+G60:   Refer to Repair Instruction 64 12 790  and 64 12 792 and 17 61 625
+I20:   Refer to Repair Instruction  64 12 792 and 17 61 625
+ 
+Perform a coolant system bleeding after repairs following IST A path:
+ 
+Vehicle management/Service functions/Electric drive/Cooling/Fill and bleed the cooling system.
+ 
+Perform a functional check of the electric auxiliary heater following IST A path:
+ 
+Body/Heating and air conditioning functions/Electric auxiliary heater/Heating and air conditioning
+functions: electric auxiliary heater
+ 
+PARTS INFORMA TION
+To determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN/chassis
+number into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the
+vehicle.
+ 
+Part Number Description Quantity
+64 11 94621 14 Changeover valveUp to 3*
+as applicable
+And, if necessary:   
+Refer to AIR/ETKElectric instantaneous water heater (Elektrischer
+Durchlauferheitzer/ electric auxiliary heater)1
+ Copyright ©2025 BMW of North America, Inc.
+2/14/25, 2:07 PM 17 01 24_COOLANT LEAK AT CHANGEOVER VALVE
+about:blank 2/5
+Bulk Supply Materials - Sublet
+ 
+Part Number Description Quantity
+83 19 2 468 442 HT-12 Coolant (1 gallon concentrate) Sublet
+Or:   
+83 19 5 A32 851 HT-12 Antifreeze R TU (Bulk 1/10 Liter) (Pre-mix) Sublet
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks,
+or the BMW Certified Pre-Owned Program as applicable below .
+ 
+Repair
+Code: 6411900400 G26 G60 G70 I20 BEV Coolant loss at changeover valve
+ 
+Below are the special flat rate labor operation code choices for this repair .
+ 
+The vehicle is already in the workshop.
+ 
+Work Pkg Labor Operation Description (Plusposition work) Labor Allowance
+# 1 00 75 857Checking the coolant level, reading out the fault
+memory (includes carrying out vehicle test,
+00 00 556/61 21 528) , replacing all changeover
+valves, checking the electric auxiliary heater .As applicable
+And:    
+If applicable 64 12 821Additional work: Replacing the electric auxiliary
+heater .As applicable
+ 
+Or:
+ 
+The vehicle arrives at your center for this repair (No other Main work will be performed or claimed
+during this workshop visit).
+ 
+Work Pkg Labor Operation Description (Main work) Labor Allowance
+# 2 00 75 272Checking the coolant level, reading out the fault
+memory (includes carrying out vehicle test,
+00 00 006/61 21 528),  replacing all changeover
+valves, checking the electric auxiliary heater .As applicable
+And: 
+  
+  
+ 
+If applicable 64 12 821Additional work: Replacing the electric auxiliary
+heater .As applicable
+ 
+Only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and the claim
+comments (For example: B17 01 24 WP  1), unless otherwise required by State law .
+ 
+Additionally , when applicable, add comments to support the replacement of the electric auxiliary heater .
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the repair-related bulk supply material
+(Do not use the BMW part number for claim submission)Up to $100.00
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk supply material (BMW part
+number) is at the dealer net price amount for the quantity used plus your center ’s handling. Copyright ©2025 BMW of North America, Inc.2/14/25, 2:07 PM 17 01 24_COOLANT LEAK AT CHANGEOVER VALVE
+about:blank 3/5
+ 
+BMW Antifreeze/Coolant: Claim the corresponding sublet dollar amount for the quantity needed to replace
+what was drained. The one-gallon concentrate part number quantity for a 50/50 coolant/water solution.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (the last seven (7) characters of the VIN, select the
+applicable Model if two or more vehicle choices show), or enter the full VIN (17 characters), click on the
+“Search” button. Next, click on the “Flat Rate Units” button and enter the flat rate labor operation code in the
+field to the right, click “Search” to display the Flat Rate Unit Group detail choices.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Supporting Materials
+picture_as_pdf Attachment B17 01 24 V alve Locations.pdf
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:07 PM 17 01 24_COOLANT LEAK AT CHANGEOVER VALVE
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:07 PM 17 01 24_COOLANT LEAK AT CHANGEOVER VALVE
+about:blank 5/5
+1 
+ Attachment 1 to SI B17 01 24                                                                                                                 March, 2024 
+ 
+COOLANT LEAK AT CHANGEOVER VALVE  
+ 
+ 
+CHANGEOVER VALVE LOCATIONS  
+ 
+ 
+ 
+G26 
+ 
+
+2 
+  
+G60 Valves 1 & 2 
+ 
+ 
+G60 Valve 3 
+ 
+ 
+ 
+
+3 
+  
+G70 
+ 
+ 
+I20 Valve 1 
+
+4 
+  
+I20 Valve 2 

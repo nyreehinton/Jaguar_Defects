@@ -1,0 +1,130 @@
+ 
+1 
+ 
+ 
+ 
+Units:  Precedent C-600, C-600M, C -600RR, and G -700 units built between August 8 
+2023 and July 7 2024.  
+ 
+Description : 
+ 
+ 
+ 
+ 
+Labor Time:  
+ 
+ 
+ 
+Length of 
+Program:   
+ 
+ 
+ 
+Parts:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The fuel lines near the fuel filter housing  must be  inspected for wear, secured , 
+and replaced if necessary. Follow the instructions on pages 2 -3 of this bulletin.  
+ 
+ 
+ 
+0.2 Hours  
+ 
+ 
+ 
+ 
+18 Months - August  2026 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPORTANT : If the Fuel Lines Need Replacement:  
+ 
+- Units Within Warranty Coverage Period:  Replace  and secure  the fuel line s, 
+then place a separate warranty machine claim for parts and labor. These are  
+not covered under the CB781 campaign.  
+ 
+- Units Out of Warranty Coverage Period:  Replace  and secure  the fuel lines 
+and get parts and labor claim authorization ; contact Thermo King Claims  
+Management Team at tkwarranty@thermoking.com or (866) 247 -2990 to start a 
+SMR (Service Manager Review) claim.  
+ Description  Part Number  Quantity  
+Cable Ties  N/A, Dealer Supplied  3 if Needed  
+1/4 Inch Fuel Line  N/A, Dealer Supplied  As Needed  
+3/8 Inch Fuel Line  N/A, Dealer Supplied  As Needed  
+  Date:  February 11, 2025  
+Subject:  Precedent ® C-600, C-600M, C -600RR and G -700 Fuel Line Inspection  
+Location:  e-Tech Library    Campaign  Bulletin  
+  CB781 
+ 
+ 
+2 
+ Service Procedure : 
+IMPORTANT:  Follow all general safety procedures and PPE guidelines – diesel fuel can be 
+hazardous.  
+1. Turn the unit OFF using the HMI.  
+2. Open the front engine access doors , the roadside service panel , and the top door.  
+3. Set the Service / Microprocessor Switch to the OFF position.  
+4. Locate the  fuel filter head mounted above the engine, near the air filter housing.   
+5. Inspect the two  1/4 inch fuel lines from the filter to the engine and the  one 3/8 inch fuel  return 
+line for any signs of chafing, rubbing, leakage or other distress. See image below.  
+6. Replace the fuel lines if any signs of chafing, rubbing, leakage or other distress  exists.  
+ 
+ 
+                                                      Inspection Area  
+ 
+ 
+ 
+  
+
+ 
+3 
+ 7. Secure The Fuel Lines:   
+Because of variability in how the units were installed, some units may require one cable tie, 
+and other units  may require two cable ties . The cable ties  should be located approximately 6 
+inches and 9 inches below the filter fitting .  
+ 
+Note: If a fuel line required replacement, also ensure that a third cable  tie (near the injection 
+pump) is reinstalled .  
+ 
+ 
+8. Set the Service / Microprocessor Switch to the ON position.  
+9. Verify proper unit operation and check for fuel leaks.  
+10. Close the panels and doors.  
+11. Place a claim in TAVANT for this campaign , see page 4.  
+ 
+ 
+ 
+ 
+ 
+Add Cable Ties  
+(if not currently installed ) 
+ 
+4 
+ Filing Instructions : 
+ 
+1. Log in to TAVANT . 
+2. Click on “ Create Claim ” link on the home page.  
+3. Select claim type “ Field Modification .” 
+4. Select the campaign option FM781. 
+5. Enter the remaining information on page one, then click the continue button to move to page 
+two: 
+a. Repair date  
+b. Work order  
+c. Number of hours in service  
+ 
+6. The labor section will be completed automatically.  
+7. The parts section will be completed automatically.  
+8. Non-Thermo King TSA Parts section will be completed automatically.  
+9. Enter comments as needed; “ Condition Found ” and “ Work Performed ” for example.  
+10. Validate and claim information looks correct on the claim summary.  
+Click the “ Submit ” button to send the claim for warranty processing.  

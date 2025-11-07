@@ -1,0 +1,63 @@
+Polestar   Service and Parts Business
+ T echnical Journal
+TITLE:
+HLCM in Fail-Safe Mode
+REF NO:
+TJ 37206.2.0ISSUING DEPARTMENT:
+T echnical ServiceCAR MARKET:
+United States and Canada
+PARTNER:
+3 US 7515 PolestarISSUE DATE:
+2024-12-12STATUS DATE:
+2025-01-10
+FUNC GROUP:
+3229FUNC DESC:
+Miscellaneous Page 1 of 3
+Produced and printed in the USA and available as an electronic document.
+© Polestar 2025Attachment
+File Name File Size
+TJ_37206_1.pdf 0.1706 MB
+DESCRIPTION:
+If the vehicle doesn’t start it might be because the HLCM has fail-safe mode activated. Please follow 
+the advice under “Service”.
+HLCM (High to Low voltage Converter Module)
+CSC   Customer Symptom Codes
+Code Description
+7B Starting/Engine does not start/Engine does not turn/No clicking sound at start attempt
+DTC   Diagnostic Trouble Codes
+Vehicle T ype
+T ype EngEng 
+DescSales Body Gear Steer Model Y ear Plant Chassis rangeStruc Week 
+Range
+359 2025-9999 - 202402-999952
+Page 2 of 3 2025-01-10
+T echnical Journal 37206.2.0SERVICE:
+The HLCM might have set a fail-safe flag. There is a script in VIDA where you can see if the fail-safe 
+flag is active and recover the fail-safe flag if it´s active. 
+Follow the steps in PDF “TJ_37206_1” to check and recover the fail-safe flag. If the fail-safe flag is still 
+active after step 8 in the PDF “TJ_37206_1” the HLCM needs to be replaced.   
+  
+Warranty claim info:
+T o get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP number 
+stated below.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36050-2 Calibrating/Identifying with VIDA 
+LABOR TIME:
+Labor time subject to change without notice.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use the 
+concern area “Vehicle Report Polestar” and the sub-concern area “Support Needed Polestar”, use 
+function group 3229.
+ 
+T o view TJ attachment continue to next page.  This TJ has one attachment.
+2025-01-10 Page 3 of 3T echnical Journal 37206.2.0
+1
+2
+3
+4
+5TJ 37206
+6
+7
+8TJ 37206

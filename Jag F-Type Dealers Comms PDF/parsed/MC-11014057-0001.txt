@@ -1,0 +1,77 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)with RPO UKL - Super Cruise
+ConditionSome customers ma y comment when trying to engage super
+cruise, on an approved super cruise road, they ma y have one or
+more of the complaints listed below .  In addition, there ma y not
+be any DTC's related to the complaint.
+-  "Super Cruise Unavailable" message with NO other secondary
+messages  
+-  "Super Cruise Unavailable" message with secondary message
+"Could Not Recognize F ace" or "Can't See F ace Clearly"  
+-  When engaging super cruise, it ma y momentarily engage for a
+few seconds, but then the green steering wheel light bar will
+start to ﬂash indicating the driver is not pa ying attention to the
+road. Then the steering wheel light bar will ﬂash red,  a "T ake
+Control" message, safety alert seat pulses or beeps sound and
+the driver will need to tak e steering control as super cruise
+disengages.
+Question the customer to see if any of these symptoms have
+occurred.  If the vehicle has this condition, the super cruise
+most lik ely has never work ed correctly from new and the most
+common complaint is only an IPC message that "Super Cruise
+Unavailable" with no other symptoms.    
+ 
+CauseThe cause of this condition could be the B292 drivers monitoring
+system camera not able to see the drivers face clearly . 
+Bulletin No.: PIT6059B
+Published date: 02/6/2025
+Preliminary Information
+PIT6059B Super Cruise Unavailable Message
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+All All 2022 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:  
+Before making any repairs, mak e sure the driver is in fact focusing their attention on
+driving. Also, verify there is nothing causing the B292 drivers monitoring camera from
+seeing the drivers face/eyes, such as: 
+-  The sun ma y be shining into the Driver Attention System camera
+-  There ma y be glare on your face (e.g., dawn or dusk)  
+-  Beverages, food, hands, or other objects are obstructing the camera's view of your face  
+-  The steering column is positioned too high or low , obstructing the camera's view of your
+face; the steering column must be adjusted if this message appears frequently  
+-  Inspect the B292 drivers monitor camera's lens to mak e sure it is clean and clean if
+necessary . 
+-  The B292 drivers monitoring camera ma y not be fully clipped into the upper steering
+column shroud, as shown below in call out 3.  When the camera is not fully clipped into
+position there will be a gap between the camera and shroud, as shown in call out 2.  Also,
+the camera will move back and forth in the shroud.  Call outs 1 and 4 show a camera that
+is fully clipped into position.  
+  If no issues are found above and a root cause has not been found after following normal
+SI diagnostics, then replace the B292 drivers monitoring system camera.
+ 
+
+Version 3
+Modiﬁed09/15/2023 - Created on.  
+04/19/2024 -  Update to the model list and
+correction sections.  
+02/06/2025 - Update to the model listLabor Operation Description Labor Time
+6610050Driver Monitoring Camera
+ReplacementUse Published
+Time
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

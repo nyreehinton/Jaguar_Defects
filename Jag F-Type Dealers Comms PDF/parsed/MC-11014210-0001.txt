@@ -1,0 +1,307 @@
+T-SB-0016 -25   January 29, 2025  
+ 
+Abnormal Vibration From Accessory Roof Rack  
+Service 
+Category  Vehicle Exterior   
+ Section    Exterior Panels/Trim  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 7 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2024 - 2025  Tacoma, Tacoma HV   
+ 
+ 
+Introduction  
+Some 2024  – 2025 model year Tacoma and Tacoma Hybrid vehicles  equipped with an accessory 
+roof rack  may exhibit a n abnormal  vibration  from the accessory roof rack while drivin g. New roof 
+rack bumper s have been developed to addres s this vibration . Follow the Repair Procedure in this 
+bulletin to address  this condition.  
+ 
+Warranty Information  
+For USA Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BD2423  R & R Roof Rack Bumpers  1.0 PT767 -35100  9B 43 
+ 
+ 
+ 
+For Mexico  Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BD2423  R & R Roof Rack Bumper s 1.0 PT767 -35100  9B 43 
+ 
+ 
+  APPLICABLE WARRANTY  
+ This repair  is covered  under  the Toyota  Basic Warranty.  This warranty  is in effect  for 36 months  
+or 36,000  miles,  whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+APPLICABLE WARRANTY  
+ This repair  is covered  under  the Toyota  Basic  Warranty.  This warranty  is in effect  for 36 months  
+or 60,000  kilometers , whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+ T-SB-0016 -25   January 29, 2025  Page 2 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Parts Information  
+PART NUMBER  PART  NAME  QTY 
+PT767 -35100 -SK Taco RFRCK  1 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED  TOOLS & MATERIAL  QTY 
+Protective Blanket  1 
+T30 Torx® Bit 1 
+ 
+ 
+Repair Procedure  
+1. Confirm the condition exists.  
+Does the vehicle exhibit an abnormal vibration coming from the accessory roof rack  
+while driving ?  
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+  
+ T-SB-0016 -25   January 29, 2025  Page 3 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+2. Remove the roof rack front fa iring. 
+A. Place a protective blanket under the  
+front fairing for protection  as shown  
+in Figure 1.   
+ Figure  1. 
+ 
+ 
+1 Front Fairing  
+ 
+B. Use the T30 Torx® bit and wrench to 
+remove the three  bolts from the driver  
+side of the front fairing  shown in Figure 2.  
+ 
+ 
+C. Repeat substep B on the passenger side  
+of the front fairing .  
+ 
+ 
+D. Remove the front fairing  from the  
+roof rack assembly  and set it aside for  
+later use.  
+ Figure 2. 
+ 
+ 
+ Front Fairing  Bolts  
+ 
+3. Remove the reinforcement bar from the roof 
+rack assembly. Place the reinforcement bar  
+on a flat surface for the next step .  
+ Figure 3.  
+ 
+ 
+1 Reinforcement Bar 
+ 
+  
+1 
+1 
+ T-SB-0016 -25   January 29, 2025  Page 4 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+4. Remove the old roof rack bumpers from the 
+reinforcement bar.  
+A. Put the reinforcement bar on a  
+flat surface.  
+ 
+ 
+B. By hand, twist and remove the three  
+bumpers from the reinforcement bar,  
+as shown in Figure 4, and discard them.  Figure 4. Removing Roof Rack Bumpers  
+ 
+ 
+1 Old Roof Rack Bumper  
+ 
+C. Install  the three NEW supplied 15  mm  
+roof rack bumpers into the reinforcement 
+bar, as shown in Figure 5, by twisting  
+and pressing into  the bracket  opening s. 
+ Figure 5.  
+ 
+ 
+1 New Roof Rack Bumper  
+ 
+ 
+  
+NOTE  
+Verify that the 15  mm roof rack  bumper s  
+are fully seated into the bracket opening s. 
+1 
+1 
+ T-SB-0016 -25   January 29, 2025  Page 5 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+5. Reinstall the  reinforcement bar and front  
+fairing  onto the roof rack . 
+A. Reinstall the reinforcement bar behind the 
+side panel brackets, on to the roof rack 
+assembly  as shown in Figure 6 .  
+ 
+B. Place the front fairing  on top of the side 
+panel brackets to prepare for bolt 
+installation . Using the six NEW  bolts from  
+the Taco RFRCK kit , hand-start th ree  
+bolts on the driver and passenger side  of 
+the front fairing . 
+ Figure 6. Reinforcement Bar Behind the Side  
+Panel Brackets  
+ 
+ 
+1 Reinforcement Bar 
+2 Side Panel Brackets  
+ 
+6. Change  the roof rack side panel hardware . 
+A. On the driver side, remove the rearmost 
+roof rack side panel bolt and replace it  
+with a NEW  bolt from the Taco RFRCK  
+kit. Hand -start the bolt a few turns  
+without fully tightening it , as shown  
+in Figure 8.  
+ 
+ 
+B. On the driver side, remove the  
+forwardmost roof rack side panel bolt,  
+and replace it with a  NEW  bolt from the 
+Taco RFRCK kit . Hand-start the bolt a  
+few turns without fully tightening it, as 
+shown in Figure 8 . 
+ 
+ 
+C. Repeat s ubsteps A and B for the  
+passenger  side roof rack side panel .  
+ Figure 7. Roof Rack Side Panel Hardware  
+ 
+ 
+1 Rear most Roof Rack Side Panel Bolt  
+2 Forwardm ost Roof Rack Side Panel Bolt  
+ 
+Figure 8. Bolt Not Fully Tightened  
+ 
+  
+NOTE  
+Do NOT  fully tighten the bolts . 
+2 
+1 
+1 
+2 
+ T-SB-0016 -25   January 29, 2025  Page 6 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+7. Adjust the height of the roof rack assembly .  
+A. Starting on the driver side, lift the front 
+fairing  and side panel to create the  
+largest gap possible between the roof of  
+the vehicle and the roof rack  assembly ,  
+as shown in Figure 9.  
+ Figure 9.  
+ 
+ 
+1 Front Fairing  
+2 Side Panel  
+ 
+B. While still lifting the front fairing  and side 
+panel, tighten the rearmost side panel  
+bolt first, followed by the f orwardmost   
+side panel bolt to set the height on  
+one side.  
+Torque:  8 N*m (81.6 kgf*cm,   
+70.8 in *lbf). 
+ 
+ Figure 10.  
+ 
+ 
+1 Rear most Roof Rack Side Panel Bolt  
+2 Forwardm ost Roof Rack Side Panel Bolt  
+ 
+C. Repeat s ubsteps A and B on the passenger side roof rack side panel .  
+ 
+  
+NOTE  
+ Two people may be needed for  
+this step.  
+ Tighten the bolts in the sequence 
+described in substep B . 
+ Ensure that pressure is ONLY  applied  
+in the upward direction.  
+1 
+2 
+1 
+ 2 
+ T-SB-0016 -25   January 29, 2025  Page 7 of 7 
+Abnormal Vibration From Accessory Roof Rack  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+8. Adjust the height of the front fairing .  
+A. On the driver side, push the front fairing   
+up and rearward  as much as possible . 
+ 
+B. While holding  the front fairing  up and 
+rearward , tighten the f orwardmost  front 
+fairing  bolt first, followed by the middle  
+bolt, and la stly, the rearmost front  
+fairing  bolt.  
+Torque:  8 N*m (81.6 kgf*cm,   
+70.8 in *lbf).  
+ Figure 11.  
+ 
+ 
+1 Forwardmost  Front Fairing  Bolt 
+2 Middle Front Fairing  Bolt 
+3 Rearmost Front Fairing  Bolt 
+ 
+C. Repeat s ubsteps A and B on the passenger side of the f ront fairing . 
+9. Measure  the gap between  the reinforcement 
+bar and the roof of the vehicle at the center ,  
+as shown in Figure 12, using the supplied  
+gap gauge in the Taco RFRCK kit.  
+ Figure 12.  
+ 
+ 
+1 Reinforcement Bar  
+2 Gap Gauge  
+3 Distance Between the Reinforcement Bar and 
+the Roof of the Vehicle  
+ 
+10. Test drive the vehicle and c onfirm the abnormal vibration is no longer present . 
+ 
+NOTE  
+ Tighten the bolts in the sequence 
+described in substep B.  
+ Ensure that pressure is applied only in 
+the upward and rearward directions . 
+NOTE  
+If the gap distance is less than 2.5  mm, 
+readjust by partially loosening the front fairing  
+bolts and  repeating step 8. Additionally, loosen 
+the side panel bolts and  repeat step 7.  
+2 
+ 1 
+ 3 
+3 
+1 
+2 

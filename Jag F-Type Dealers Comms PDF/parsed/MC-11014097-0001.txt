@@ -1,0 +1,38 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: 25-NA-005
+Service BulletinDate: January, 2025
+INFORMATION
+2024 Buick Envision with DTC P0420 Setting
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Buick Envision 2024 2024 — — — —
+Involved Region or Country North America
+ConditionSome customers may comment on a Check Engine lamp illuminated with no other
+driveability issues.
+Technicians may find DTC P0420 set current or in recent history.
+Cause The causes of the condition may be due to a software issue.
+CorrectionIf no other DTCs are present, clear DTC P0420.
+Do not make any other repairs to the vehicle. Once the DTC is cleared, it should not
+return.Subject:
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Warranty Information
+For vehicles repaired under the Emission coverage, use the following labor operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+*2880017 Clear DTC P0420 with Check Engine Lamp 0.3 hr
+*This is a unique Labor Operation for Bulletin use only.
+Version 2
+Modified Released January 08, 2025
+Revised January 28, 2025 - Added unique Labor Operation.

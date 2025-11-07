@@ -1,0 +1,73 @@
+{
+  "dealer_information": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. LA BREA AVE",
+    "city_state_zip": "LOS ANGELES, CA 90036",
+    "phone": "(310) 274-5133",
+    "work_order_number": "102820",
+    "page_number": "1",
+    "bar_reg_number": "ARD 313300",
+    "epa_number": "CAL-000-495-441"
+  },
+  "customer_information": {
+    "customer_number": "10012996",
+    "name": "NYREE HINTON",
+    "address": "6401 WILSHIRE BLVD #608D",
+    "city_state_zip": "Los Angeles, CA 90048",
+    "email": "nyreehinton@gmail.com",
+    "home_phone": "732-979-6264",
+    "business_phone": "732-979-6264"
+  },
+  "vehicle_information": {
+    "year": "20",
+    "make_model": "JAGUAR F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "license": null,
+    "tag": "T2590",
+    "mileage_in": "30315",
+    "mileage_out": null,
+    "color": null,
+    "options": "ENG:2.0_Liter_Supercharged"
+  },
+  "service_advisor": {
+    "id": "82880",
+    "name": "CAIN, CHRISTOPHER"
+  },
+  "work_order_dates": {
+    "delivery_date": "30SEP24",
+    "promised_date_time": "18:00 04NOV25",
+    "ro_opened_date": "30SEP24",
+    "production_date": "30SEP24"
+  },
+  "payment_details": {
+    "payment_method": "CASH",
+    "rate": "0.00"
+  },
+  "repair_items": [
+    {
+      "item_number": "A",
+      "op_code": "86",
+      "technician": null,
+      "type": "CCJ",
+      "description": "GUEST REPORTS CHECK ENGINE LIGHT IS COMING ON AND VEHICLE WILL NOT GO OVER 40MPH"
+    },
+    {
+      "item_number": "B",
+      "op_code": "99PL",
+      "technician": null,
+      "type": "IPS",
+      "description": "COMPLIMENTARY LAND ROVER MULTI POINT INSPECTION"
+    },
+    {
+      "item_number": "C",
+      "op_code": "TP",
+      "technician": null,
+      "type": "IPS",
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES"
+    }
+  ],
+  "estimates": {
+    "estimated_total": "325.00",
+    "preliminary_estimate": "325.00"
+  }
+}

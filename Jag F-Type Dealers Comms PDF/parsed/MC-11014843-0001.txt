@@ -1,0 +1,348 @@
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 1 of 13
+SERVICE BULLETIN
+Continued...CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 15-318-24R
+ DATE:  02/23/24
+ REVISED:  02/21/25APPLICABILITY: 2019MY Legacy & Outback 
+  2019-21MY WRX/STI 
+ SUBJECT: Data Communication Module (DCM) Bypass Box 
+INTRODUCTION:
+This bulletin announces the Warranty Extension  for the Data Communication Module (DCM) up to 8 
+years (96 months) or 150,000 miles (whichever comes first) to address a dead battery  resulting from 
+excessive dark current draw caused by the DCM, due to internal memory corruption.  Effective from 
+the date of customer notification, ALL affected vehicles, regardless of mileage or Warranty Start Date 
+will be covered for a period of one (1) year.
+The DCM Bypass Box was designed to be used as an alternative replacement part for DCM in 
+vehicles with no active STARLINK subscription in place of the DCM until sufficient replacement 
+DCM inventory was available. As of 02/04/25, replacement DCM inventory is sufficient; therefore, 
+they are to be replaced for customers experiencing a qualifying concern. The bypass box installation 
+will no longer be a repair measure which would be covered under the terms of this Warranty 
+Extension.
+• This extension will cover the replacement of the DCM for vehicles with an “Active” and 
+“Unsubscribed” STARLINK subscription if the DCM is confirmed to be the cause of the 
+excessive dark current draw.
+• The extension will also cover the testing, recharging/replacement of the battery if the DCM is 
+found to be the root cause of the excessive dark current draw. Battery test code is required for 
+the claim entry. 
+• Previously, for “Unsubscribed” vehicles, without a STARLINK subscription, with a confirmed 
+excessive dark current draw from the DCM, this extension covered the installation of a DCM 
+bypass box due to low DCM inventory. DCM inventory has become sufficient and bypass box 
+installation is not longer required.
+• Customers who previously received the bypass box now have the option to request a 
+replacement DCM . The new replacement DCM’s are available and will replace the previously 
+installed bypass box. The Warranty Extension will cover the removal of the bypass box and 
+installation of  a new DCM. This request would have been documented with a Subaru retailer 
+at the time of the initial repair.ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2023 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 2 of 13
+Continued...• All inspections and repairs must be completed prior to the expiration of this Warranty 
+extension.
+• Customers who have paid for DCM or DCM bypass box replacement prior to the release of 
+this extension are eligible for reimbursement. Details of reimbursement procedure is provided 
+in the customer letter which is added to the end of this bulletin. 
+PART INFORMATION:
+Model Part Description Part Number
+LEGACY & OUTBACK TELEMATICS UNIT86229AL10A 86229AL11A
+86229AL10B 86229AL11B
+86229AL10C 86229AL11C
+WRX TELEMATICS UNIT86229VA100 86229VA110
+86229VA101 86229VA111
+IMPORTANT: The DCM is NOT supplied with the backup battery. The DCM bypass box (p.n. 
+86229Al400) is a returnable part. 
+CONFIRMING SUBSCRIPTION STATUS USING SNET VEHICLE INQUIRY:
+1. Enter the subject Vehicle Identification Number (VIN) into the VIN search box and click the 
+search button. 
+2. Select the Connected Vehicle Subscriptions drop down. 
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 3 of 13
+Continued...3. If the status reads “ Active,” the vehicle has an active STARLINK subscription and if the status 
+reads “Inactive,” the vehicle does not have an active STARLINK subscription.  
+CONFIRMING SUBSCRIPTION STATUS USING SUBARU SELECT MONITOR:
+4. Connect the applicable Subaru Select Monitor (SSM) to the vehicle. Read the Subscription status 
+of the DCM located in the “Work Support” 
+menus. If the status reads “Subscribed,’  
+the vehicle has an active STARLINK 
+subscription and if the status reads 
+“Unsubscribed,” the vehicle does not  
+have a active STARLINK subscription. 
+LEGACY & OUTBACK DCM REMOV AL PROCEDURE / INFORMATION:
+IMPORTANT: This procedure is for vehicles without any active STARLINK subscription. ALWAYS 
+confirm the STARLINK subscription status prior to performing the procedures outlined below. 
+STEP 1: Refer to the applicable Service Manual and review: General Description > Repair Contents 
+> Action required before & after Battery Disconnect . Additionally, record any stored seat position(s) 
+before proceeding. Relearn any seat position memory after work is complete. If the power rear gate 
+(PRG) height has been customized, that position must also be noted and relearned. 
+STEP 2: CAREFULLY disconnect the battery sensor  
+from the negative ground terminal and wait at least 60 
+seconds before continuing. 
+STEP 3: Remove the Center Grille Assembly.
+A. Release the clips and claws.
+B. Disconnect the connector and remove the 
+Grille Assembly.  
+C. Disconnect and remove the hazard switch. 
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 4 of 13
+Continued...STEP 4: Remove the Heater Control Assembly.
+A. Release the clips and claws. 
+B. Remove the panel.
+C. Remove the mounting screws.
+D. Detach the heater control assembly.  
+CAUTION: A flat head screwdriver with protective 
+tape can be used as shown in the right image. Use 
+special care to not damage the heater control assembly. 
+ 
+STEP 5: Remove the audio assembly. 
+A. Remove the mounting screws. 
+B. Release the mounting clips. 
+C. Disconnect all electrical connections. 
+D. The audio assembly can then be 
+removed. 
+STEP 6: Remove the DCM.
+A. CAREFULLY remove the bracket 
+mounting screws. 
+B. Remove the DCM and the backup module 
+assembly together. 
+CAUTION : Be mindful to not cause any damage to  
+the mounting screws during removal. The mounting 
+screws are to be reused.  
+STEP 7: Install the new DCM and reinstall all parts in 
+the reverse order of disassembly.
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 5 of 13
+Continued...WRX DCM REMOV AL PROCEDURE / INFORMATION:
+IMPORTANT: This procedure is for vehicles without any active STARLINK subscription. ALWAYS 
+confirm the STARLINK subscription status prior to performing the procedures outlined below. 
+STEP 1: Refer to the applicable Service Manual and review: General Description > Repair Contents 
+> Action required before & after Battery Disconnect . Additionally, record any stored seat position(s) 
+before proceeding. Relearn any seat position memory after work is complete. If the power rear gate 
+(PRG) height has been customized, that position must also be noted and relearned. 
+STEP 2: CAREFULLY disconnect the battery sensor from  
+the negative ground terminal and wait at least 60 seconds 
+before continuing. 
+STEP 3: Using a plastic trim tool, remove the left side 
+instrument panel cover . 
+STEP 4: Remove the left inner and outer lower instrument panels. 
+A. Remove the mounting screws.
+B. Release the mounting clips and 
+claws. 
+C. Pull both panels toward the rear  
+of the vehicle. 
+D. Disconnect all electrical 
+connections. 
+CAUTION:  ALWAYS pull the panels toward the rear of the vehicle . Pulling in an upward or 
+downward direction may cause damage to the mounting claws. 
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 6 of 13
+Continued...STEP 5: Remove the knee airbag module.
+A. Remove the mounting nuts.
+B. CAREFULLY disconnect the 
+electrical connection. 
+STEP 6: Remove the glove box assembly. 
+A. Apply protective tape to the lower 
+center panel section shown as (a) in  
+the right image. 
+B. Disconnect the damper from the glove 
+box. 
+C. Release the stoppers and pull the glove 
+box toward the rear of the vehicle. 
+STEP 7: Remove the glove box backing panel.  
+A. Using a plastic trim tool, remove the 
+right side instrument panel cover.
+B. Release the clips and removed the 
+instrument panel ornamental trim. 
+TIP: The instrument panel ornamental trim can be 
+removed by applying pressure from the backside. 
+C. Remove the glove box LED and 
+disconnect the electrical connection. 
+D. Removed the mounting screws. 
+E. Release the claws and harness clamp.  
+F. The glove box backing panel can then 
+be removed. 
+STEP 8: Remove the center grille assembly.
+A. Apply protective tape to the instrument 
+panel section shown as (a) in the right 
+image. 
+B. Release the claw using a plastic trim tool 
+or a clip removal to with protective tape 
+applied to the contact area. 
+C. Disconnect the electrical connector and 
+remove the center grille assembly. 
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 7 of 13
+Continued...STEP 9: Remove the audio assembly.
+A. Apply protective tape the center storage area section indicated as (a) in the lower right 
+image. 
+B. Remove the mounting screws and bolts. 
+C. Release the mounting claws and partially remove the audio assembly to gain access to 
+the electrical connections. 
+CAUTION:  If the antenna cable interferes with 
+the removal side mounting bolts, move the antenna 
+cable before attempting to remove the bolts. 
+D. Disconnect the electrical connectors 
+and remove the audio assembly. 
+STEP 10: Remove the DCM.
+A. CAREFULLY remove the bracket mounting 
+screws. 
+B. Remove the DCM and the backup module 
+assembly together. 
+CAUTION : Be mindful to not cause any damage to the 
+mounting screws during removal. The mounting screws 
+are to be reused.  
+STEP 11: Install the new DCM and reinstall all parts in 
+the reverse order of disassembly.
+DCM BYPASS BOX REMOV AL:
+NOTE: DCM Reconnection is not part of the DCM bypass box placement procedure and needs to be 
+performed ONLY if the customer with a DCM bypass box installed decides to subscribe to telematics 
+services at some point in future. 
+In a case when STARLINK is to be re-subscribed for a vehicle with a DCM Bypass Box installed, the 
+following procedure is required.
+STEP 1: Disconnect the ground terminal from the battery sensor. 
+STEP 2: Remove the center grille assembly.
+STEP 3: Remove the heater control assembly.
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 8 of 13
+Continued...STEP 4: Remove the audio assembly. 
+A. Remove the screws and release the clip.
+B. Disconnect the connector and remove the audio assembly.
+C. Cut the microphone power wire (color: red) at the end of connector i87 pin #4.
+D. Bundle the cut red wire for the microphone into the vehicle harness so the cut end is 
+covered.
+E. Remove the tape from the three bundled antenna connectors.
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 9 of 13
+Continued...STEP 5: Remove the DCM Bypass Box.
+A. CAREFULLY remove the mounting screws.
+B. Remove the DCM Bypass Box.
+STEP 6: Install the DCM.
+A. Install the backup battery.
+B. Install the DCM.
+C. Install the audio assembly or navigation assembly.
+D. Install the heater control assembly.
+E. Install the center grille assembly.
+F. Connect the ground terminal to battery sensor. Refer to STIS: REPAIR CONTENTS > 
+NOTE > BATTERY .
+G. Perform the registration procedure if the DCM is replaced with a new part. Refer to 
+STIS: ENTERTAINMENT & MONITORING > Telematics System > OPERATION
+H. Check the LED lighting condition of the Telematics button. Refer to STIS: 
+TELEMATICS SYSTEM > (DIAGNOSTICS) > Check List for Interview > CHECK > 
+LED ILLUMINATION STATUS LIST
+WARRANTY / CLAIM INFORMATION:  
+The Warranty Extension for the Data Communication Module is extended from the original Warranty 
+term of 3 years (36 months) or 36,000 miles to 8 years (96 months) or 150,000 miles (whichever 
+comes first).
+Original Warranty Warranty Extension
+3 Years / 36K Miles 8 Years / 150K Miles
+Labor Description Labor Operation # Labor Time Fail Code
+WARRANTY EXTENSION – TEST AND REPLACE TELEMATICS UNIT B067-086 .9
+Z VV-43BATTERY TEST & REPLACEMENT* C800-203 .4
+OR
+BATTERY TEST & CHARGE - NO REPLACEMENT C800-223 .3
+*Battery test code is required for claim entry
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 10 of 13
+Continued...IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 11 of 13
+Continued...Important Notice:
+Warranty Extension for the Telematics Data Communications Module (DCM) for certain 
+2019 MY Legacy, Outback Vehicles
+2019-2021 MY WRX/STI Vehicles
+Dear Subaru Owner:
+As part of Subaru of America’s dedication to customer satisfaction, Subaru of America, Inc. (SOA) 
+is announcing a Warranty Extension for the DCM on certain 2019 MY Legacy, Outback vehicles and 
+2019-2021 MY WRX/STI vehicles sold or leased in the United States.
+Affected vehicles are equipped with a DCM and may experience a dead battery resulting from the 
+DCM continually trying to access the cellular network due to deterioration of the internal memory. 
+Please note that this is not a safety recall , and it does not impact the safety of your vehicle. 
+If your vehicle is operating as expected, you do not need to take your vehicle to a Subaru retailer for 
+repairs.  
+NOTE: No action is required by you to receive the benefit of this warranty extension. The 
+extension has been automatically applied to your vehicle. 
+DCM WARRANTY EXTENSION COVERAGE
+This extension will cover the costs to install a bypass box for vehicles that are not subscribed to 
+STARLINK telematics or to replace the DCM for vehicles with an active STARLINK subscription.  
+This addresses a potential excessive battery drain if it was determined the DCM was the cause of the 
+dead battery.  It also covers the cost of a recharge or replacement of the 12V battery resulting from 
+the DCM failure.  
+The coverage period extends the Warranty as it applies to the DCM to eight (8) years / one hundred 
+fifty thousand (150,000) miles, whichever comes first from the vehicle Warranty Start Date.
+• This extension will cover the replacement of the DCM for vehicles with an “Active” 
+STARLINK subscription if the DCM is confirmed to be the cause of the excessive dark 
+current draw.
+• For “Unsubscribed” vehicles, without a STARLINK subscription, with a confirmed excessive 
+dark current draw from the DCM, this extension will cover the installation of a DCM bypass 
+box.
+• Customers who received the bypass box have the option to request a replacement DCM once 
+new DCM inventory is available, which is estimated as September 2025. This extension 
+will cover removal of the bypass box and installation of a new DCM. This request must be 
+documented with a Subaru retailer at the time of the initial repair . 
+
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 12 of 13
+Continued...• Inspections or repairs under this coverage must be completed prior to the expiration of the 
+eight-year (8) period, or before one hundred fifty thousand (150,000) miles, whichever comes 
+first from the vehicle Warranty Start Date.
+• Effective from the date of customer notification, ALL affected vehicles, regardless of mileage 
+or Warranty Start Date will be covered for a period of one (1) year.
+• All inspections and repairs must be completed prior to the expiration of this Warranty 
+extension.
+If you have questions about this notice, please contact the DCM Warranty Extension Hotline at 
+877-551-7149.  Additional information can be found online at: subaruclaims.autosolutionteam.
+com.
+REIMBURSEMENT ELIGIBILITY 
+• You may be eligible for reimbursement if you paid to have your vehicle’s DCM replaced 
+to address a dead battery after the expiration of the original New Vehicle Limited Warranty 
+period, but before this announcement of this newly extended warranty period of eight (8) 
+years/one hundred fifty thousand (150,000) miles. 
+• You must have paid an out-of-pocket expense for a repair that would have been covered had it 
+occurred during the warranty coverage period. This includes any deductible expense or partial 
+reimbursement for repairs. 
+• If you have been previously reimbursed by SOA or one of its retailers for partial coverage of 
+this repair, only the portion that has not been reimbursed is eligible for reimbursement. 
+• You are not eligible to recover any repair costs previously reimbursed or paid for by any third- 
+party, including Subaru Added Security, other extended warranty providers, or an authorized 
+Subaru retailer.
+• The period of the reimbursement shall be one (1) year from the customer notification of this 
+warranty extension.
+TO APPLY FOR REIMBURSEMENT 
+Please complete the claim form online at subaruclaims.autosolutionteam.com and attach the required 
+documentation listed below: 
+• Attach a copy of the receipt or invoice for the repair. A copy of the repair invoice or work 
+order showing repair will meet this requirement. The invoice must show your vehicle model, 
+vehicle identification number (VIN), the name and address of the facility that completed the 
+repair, the cost of the repair (parts and labor), and the date the work was completed. 
+• Attach proof of payment, such as a copy of the canceled check, bank statement, cash receipt, 
+or credit card receipt showing what you paid for the repair. 
+Bulletin Number: 15-318-24R;  Revised: 02/21/25          Page 13 of 13
+If you prefer to apply for reimbursement by mail, please send copies of the required documentation 
+listed above to: 
+Subaru of America Inc.
+DCM Warranty Extension
+2670 Executive Drive
+Indianapolis, IN 46261
+Please allow 45 days for the reimbursement to be processed. Failure to include proper documentation 
+may delay your reimbursement. 
+Sincerely, 
+Subaru of America, Inc.

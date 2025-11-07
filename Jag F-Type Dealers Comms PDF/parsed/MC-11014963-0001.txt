@@ -1,0 +1,94 @@
+Less Info
+Countries:BAHAMAS, BOLIVIA, BELIZE, CANADA,
+CHILE, COLOMBIA, COSTA RICA,
+DOMINICAN REPUBLIC, ECUADOR, EL
+SALVADOR, GUATEMALA, GUYANA, HAITI,
+HONDURAS, JAMAICA, MEXICO, ARUBA,
+NICARAGUA, PANAMA, PERU, PUERTO
+RICO, TRINIDAD AND TOBAGO, UNITED
+STATES, URUGUAY, VENEZUELA, CuraçaoDocument
+ID:IK1201506
+Availability:ISIS, FleetISIS, NotSIR Revision:0
+Major
+System:ENGINE Created:2/24/2025
+Current
+Language:EnglishLast
+Modified:2/24/2025
+Other
+Languages:NONE Author:Jaime
+Romo
+Viewed: 79
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 1
+ 0
+Title: A26 Turbochargers remanufactured by SRC between 05/01/2023 and 02/01/2025
+Applies To: Vehicles with A26 engine
+CHANGE LOG  
+ 
+ 
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/24/2025 - Initial Article Release
+ 
+ 
+DESCRIPTION
+ 
+This document will guide the user through to inspect A26 turbochargers remanufactured by SRC  between 05/01/2023 and
+02/01/2025 .
+SRC Turbochargers assembled with new compressor housings may have a defect that prevents the TCOT  sensor
+(Part# 1845988C1, Sensor , Exhaust Gas T emp)  from being installed correctly . 
+ 
+ 
+SYMPT OM(s)
+DTC/Light Description
+N/A N/A
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+Tool Description Tool Number Comments Instructions
+N/Z N/A   
+SERVICE P ARTS INFORMA TION
+Kit Description Part NumberQuantity
+RequiredNotes
+N/A N/A
+ 
+ 
+DIAGNOSTIC STEP(s)
+N/A
+ 
+INST ALLA TION STEP(s)
+ 
+ 
+1. Park vehicle on a level surface.
+2. Shift transmission into Park or Neutral and set parking brake.
+3. Turn ignition to Key OFF position.
+4. Install wheel chocks.
+5. Follow proper instructions for removal and installation of the turbo. 
+    a. If the TCOCT  sensor does not present any interference with the housing complete repairs, test drive vehicle and
+return to customer once the repairs are complete.
+    b. If the TCOCT  sensor does present interference with the housing go to step 6.
+Hide Details Feedback Information
+Viewed: 78
+Helpful: 1
+Not Helpful:0
+No Feedback Found 
+ 
+Figure 1. TCOCT Sensor Interference  
+ 
+6. See Figure 1, if the sesnor is presenting the same issue (Contact with the turbo compressor housing),  please refer to
+this SRC Technical Service Bulletin PDF-link for more details /service_kb/DocT ool/Documents/Published/IK1201506/Files/TSB-
+02-13-25_A26 Turbocharger - file.pdf ,
+7. Remove wheel chocks. 
+8. Once repairs are completed, test drive vehicle for proper functionality.
+WARRANTY  INFORMA TION
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 
+Copyright © 2025 Navistar, Inc.

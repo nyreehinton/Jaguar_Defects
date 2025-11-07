@@ -1,0 +1,176 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-164
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Wiper Blade Maintenance Tips
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+BrightDrop
+All
+Passenger
+Cars and
+Trucks2023 2026 — — All AllBuick
+Cadillac
+Chevrolet
+GMC
+Involved Region or CountryNorth America, Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru,
+Uruguay, Venezuela, Europe, Russia, Middle East, Iraq, Israel, Palestine, Japan, Cadillac
+Korea (South Korea), GM Korea Company, China, Taiwan, Thailand, Singapore,
+Philippines, Australia/New Zealand, Egypt, Other Africa, South Africa
+Condition Some customers may comment on wipers streak, chatter, or poor performance.
+CauseThe cause of the condition may be wiper blades worn, torn, nicked blade element or
+contaminated glass or blade and non-uniform blade edges.
+CorrectionThe following wiper blade best practices will help a technician determine if the there is a
+defect in the wiper blade element or another non-warranty cause of the customer’s
+concern.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Wiper Blade Performance Diagnosis
+Streaking is the most common warranty condition found with wiper blades on GM models. However, worn blades are
+not the only cause of streaking. Several other issues that can affect wiper blade performance include contamination
+build-up on the blade, windshield or rear glass; tears or nicks in the blade element; and non-uniform-blade element
+edges. Each of these potential causes should be checked when inspecting wiper blades for poor performance.
+Most concerns about wiper performance are the result of dirty wiper blades, damaged wiper arms or blades, or
+blades that are worn beyond their useful life. Depending on environmental conditions and use, wiper blades can
+have dramatic differences in lifespan.
+Wipe Quality Diagnosis
+If the vehicle exhibits a condition where the windshield wiper blade performance is compromised, check the following
+items in order to properly evaluate the wipe quality:
+1. Determine the wiper blade warranty status. The warranty window for wiper blades is 12 months or 7,500 miles
+(12,070 Kms). If the vehicle exceeds either of the criteria, the wiper blade cannot be replaced under warranty.
+2. Clean the windshield with windshield cleaner or equivalent. The cleaner should not scratch the glass or harm
+the paint.
+Page 2 February, 2025 Bulletin No.: 24-NA-164
+6719199
+3. Lift each wiper blade off the windshield and clean the element with a lint-free cloth saturated with washer
+solvent.
+4. Place both wiper blades back on the glass and activate the front windshield wash system to confirm if the wipe
+quality concern is still present.
+5. If the wipe quality issue is not present, do not replace the blades. The blades should be replaced only if the wipe
+quality issue can be recreated after cleaning the glass and blades.
+As with other criteria, wipe quality has different ratings to demonstrate ideal performance vs. degraded performance.
+The following chart shows the different wipe quality ratings, where GM advises any rating of 7 or higher is deemed
+acceptable. The wipe quality readings should be performed 3 seconds after the wipers stop.
+Common Concerns
+6719200
+Streaking can be caused by a variety of issues, including:
+• Small tears in the blade element.
+• Blade wear over time.
+Bulletin No.: 24-NA-164 February, 2025 Page 3
+• Nicks created from attempting to clear the windshield of ice; contamination buildup on the wiper blade or
+windshield, such as from bugs, road grime, sap or car wash/wax treatments.
+• Non-uniform blade-element edges (as manufactured).
+6719202
+Chatter is a wiper defect where the blades move across the glass with a bouncing or uneven motion. The causes of
+chatter can be related to:
+• The permanent set of the blade, causing resistance of the blade to flip after reversal.
+• High tip force of the arm.
+• Snow or ice buildup in the wiper blade hinge.
+• The blade not sitting on the glass at the proper angle.
+If a chatter condition still exists after a blade change, it is possible that the tip force of the wiper arm is contributing to
+the chatter.
+Figure 1
+6852817
+Page 4 February, 2025 Bulletin No.: 24-NA-164
+Figure 2
+6852818
+Figure 3
+6852819
+Bulletin No.: 24-NA-164 February, 2025 Page 5
+Figure 4
+6852820
+If a chatter condition still exists after a customer purchased OEM blade replacement or returns relatively soon after
+blade replacement, it is possible that the wiper arm is bent and putting the main body of the blade at an improper
+angle. Relative to the glass, a correct arm will angle the blade slightly rearward when in the park position and slightly
+toward the center of vehicle when at the outwipe reversal position. Here is how to check this:
+• While stopped at the park position, look at the main body of the blade and see if it is slightly angled toward the
+rear. If needed, use a business card or small square to help with this. See Figure 1 for a Structured Blade. The
+End Cap on a Beam Blade makes this easier to see, as shown in Figure 2.  Figure 3 shows an extreme
+example of improper blade angle.
+• While stopped at the outwipe reversal position, look at the main body of the blade and see if it is slightly angled
+toward the center of vehicle. If needed, use a business card or small square to help with this. (see Figure 4).
+• If the blade is angled either forward at park or outboard at outwipe position, issue a Field Product Report before
+the wiper arm is replaced. If the wiper arm is replaced it won't be a restricted labor operation like the blades. The
+claim would not likely require wholesale (GM) authorization for payment. You could require a Field Product
+Report (FPR) prior to authorization.
+Several environmental conditions can play a role in the performance and longevity of wiper blades:
+• Extremely dusty areas, such as driving on dirt roads, may cause a wiper blade’s rubber edge to wear quickly
+and unevenly.
+• Sand and salt used on roads for increasing traction and ice control during the winter may cause the wiper
+blades to wear more quickly.
+• Areas with significant snowfall may require more frequent blade replacements.
+Page 6 February, 2025 Bulletin No.: 24-NA-164
+Cold Weather Tips
+6719204
+Winter weather is generally a rough season for the wiper blades. The wipers should not be used to “wear through”
+frost or to clear snow and ice off the windshield as it can cause damage to the wiper blade’s rubber element.
+Instead, allow the vehicle’s defrosters to melt the frost, snow or ice, or manually clear the windshield.
+Banging wipers on the glass to remove ice and snow also may cause the blade to bend, dislodging the rubber and
+causing potential scratching of the windshield.
+6719205
+Ice in the wiper blade hinge should be cleared to allow the wiper blade to function properly.
+Improper use of ice scrapers also can lead to wiper blade damage. Rubber blades are easily cut or torn when using
+ice scrapers. Avoid excessive contact with the wiper blade by moving the ice scraper parallel to the blade, which
+minimizes the possibility of damage. Do not pull the blades off a frozen windshield, which can tear the rubber or
+damage the wiper.
+To avoid contacting the wiper blades with an ice scraper, place the wiper arms in the “service up” position, if appli-
+cable. With the wiper arms up, the wipers will not collect snow or stick to the glass, and it will prevent the ice scraper
+from contacting a wiper blade that is frozen to the windshield.
+Bulletin No.: 24-NA-164 February, 2025 Page 7
+Wiper Blade Handling and Maintenance
+Vehicle windshield wipers are exposed to weathering elements as soon as a vehicle is produced. Dealership policies
+or customer habits also can affect wiper blade performance in many ways. The following items should be considered
+when a vehicle is stored on the lot, or a vehicle is at the dealership for service.
+• During extended outdoor storage, the wiper blades may be affected by dirt and debris stuck on the blade
+surface. The wiper blades should be cleaned with a lint-free cloth or paper towel soaked with windshield washer
+fluid. Be sure to wash the windshield thoroughly when cleaning the blades.
+6719206
+• Tree sap and pollen should be cleared off the windshield prior to using the wipers to avoid the contamination
+being transferred or causing damage to the wiper blades. If possible, avoid parking under trees to prevent
+contamination of the wipe area.
+• Do not operate the wipers if the vehicle is extremely dirty with gritty or sandy materials, or if there are twigs/
+sticks in the cowl area. If this type of debris is dragged by the force of the wipers while the windshield is dry, it
+may cause glass scratching.
+• Drive-through car washes with wax treatment and water repellants may compromise wipe quality when the
+treatments cover the windshield. These treatments should be avoided to ensure proper wipe quality.
+6719207
+Page 8 February, 2025 Bulletin No.: 24-NA-164
+• Dealership service tickets or any paperwork should not be placed under the wiper blade. The rubber blade
+element should only be in contact with the glass as it can be distorted and possibly create a papercut on the
+blade lip.
+6719208
+• Stickers or decals should not be placed in the front or rear wipe areas as the sticker creates unnecessary wear
+each time it passes over the blade and compromises wipe quality.
+• Vehicles with windshield chips or cracks in the wipe zone should be repaired to avoid tearing or creating nicks in
+the wiper blade element.
+• Precautions should be taken when handling the wiper blade to protect the blade element and avoid distortion.
+For example, blades should not be stacked on one another as the blade element can be distorted and take a
+“set” that compromises wipe quality. Wiper blades should be kept in the protective packaging as long as
+possible to mitigate outside damage.
+6719209
+• Special care should be taken to ensure wiper blades are not straightened or bent. OEM blades are designed to
+fit the contour of the glass. Once wiper blades are bent, the fit to the glass is compromised and can lead to wipe
+quality issues.
+Bulletin No.: 24-NA-164 February, 2025 Page 9
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONPart Returns
+GM will occasionally open part return projects on certain vehicle programs and model years for wiper blade returns.
+The intention of these projects is to gain a better understanding of the issues contributing to the warranty claim by
+returning the wiper blade for additional analysis. If GM is requesting parts back, do not apply tape around the rubber
+blade element or use a twist-tie wire to secure the blades as this will distort the blade element and prevent further
+testing.
+For more details about wiper blade diagnosis as well as proper handling and use, refer to the appropriate Service
+Information.
+Version 2
+Modified Released August 21, 2024
+Revised February 26, 2025 – Added the 2026 Model Year and Involved Regions/
+Countries, and updated information under Common Concerns.

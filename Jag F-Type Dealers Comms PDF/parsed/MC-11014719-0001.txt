@@ -1,0 +1,71 @@
+Technical Service Bulletin (TSB)
+Flash: Ignition System Control Module (ISCM) Updates
+REFERENCE: TSB:  08-054-25
+GROUP:  08 - ElectricalDate: February 27, 2025 REVISION: —
+VEHICLES
+AFFECTED:2024 (WS) Jeep Wagoneer / Grand Wagoneer
+This bulletin applies to vehicles equipped with a 3.0L I6 Hurricane SO
+Twin Turbo ESS (Sales Code EFH).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers must experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle must
+exhibit/set one or more of the following Diagnostic Trouble Codes (DTCs):
+●P2C30-00 - Ignition Coil Primary Circuit Fuse A.
+●P2C31-00 - Ignition Coil Primary Circuit Fuse B.
+●P0300-00 - Multiple Cylinder Misfire.
+●P0301-00 - Cylinder 1 Misfire Detected.
+●P0302-00 - Cylinder 2 Misfire Detected.
+●P0303-00 - Cylinder 3 Misfire Detected.
+●P0304-00 - Cylinder 4 Misfire Detected.
+●P0305-00 - Cylinder 5 Misfire Detected.
+●P0306-00 - Cylinder 6 Misfire Detected.
+●P0420-00 - Catalyst System Efficiency Below Threshold Bank 1.
+●P0430-00 - Catalyst System Efficiency Below Threshold Bank 2.
+Customers may also comment on the following:
+●Engine hesitates/misfires.
+CAUSE: ISCM software
+REPAIR SUMMARY:
+This bulletin involves inspecting and possibly reprogramming the ISCM and the Powertrain Control Module
+(PCM) with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-19-33-94 Powertrain Control
+Module (PCM) and
+Ignition System Control
+Module (ISCM) -
+Reprogram
+(0 - Introduction)1 - Engine Repair And
+Performance0.3 Hrs.
+Failure Code CC Customer Concern
+The dealer must use failure code CC with this Technical Service Bulletin.
+● If the customer’s concern matches the SYMPTOM identified in the Technical Service Bulletin, failure code
+CC is to be used.
+● When utilizing this failure code, the 3C’s (customer’s concern, cause and correction) must be provided for
+processing Technical Service Bulletin flash/reprogramming conditions.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –Z08 FSAR-TSB-5037 -2-
+REPAIR PROCEDURE:
+NOTE: Install a battery charger to ensure battery voltage does not drop below 13.2 volts. Do not allow
+the charging voltage to climb above 13.5 volts during the flash process.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+1. Reprogram the ISCM with the latest available software. If issues arise when flashing a module using the
+wiTECH Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within
+the Help menu.
+2. Clear all DTCs that may have been set in any module due to reprogramming. The wiTECH application will
+automatically present all DTCs after the flash and allow them to be cleared.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- Z08 FSAR-TSB-5037

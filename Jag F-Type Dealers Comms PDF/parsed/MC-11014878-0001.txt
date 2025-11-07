@@ -1,0 +1,1127 @@
+SD-27-5170
+DESCRIPTION
+The Bendix® GSBC® M-50QR™ (Global Scalable Brake 
+Control Quick Release Antilock Modulator), known 
+hereafter as “modulator” or “M-50QR,” is a high-capacity, 
+on/off air control device that incorporates a pair of electrical 
+solenoids used for control of the service brakes when 
+advanced braking system functions require individual 
+brake control of the steer axle. GSBC-equipped vehicles 
+have two modulators in total, which are used to precisely 
+modulate the air in the service actuators on the steer axle.
+The M-50QR consists of a die cast, anodized, metal and 
+plastic body that houses two solenoids. One solenoid is 
+normally open and when energized, exhausts air at the 
+service actuator.  The other solenoid is a normally closed 
+and when energized, holds back brake air from passing 
+through the modulator from the control system to the 
+service actuator. 
+There are two threaded metric straight thread o-ring 
+pneumatic ports. Both are M22 x 1.5 per the ISO-4039-2 
+standard. 
+The modulator is electrically controlled by the GSBC®  
+EBS-90™ (Electronic Control Unit), known hereafter as 
+“Central ECU,”  through an electrical connector that is 
+ingress protection rated. Two through holes in the die cast 
+metal body are provided for mounting. 
+The supply and delivery ports on the modulators have 
+embossed identification codes. See Figure 2.Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick 
+Release Antilock Modulator)
+Figure 1 – GSBC® M-50QR™ Modulator
+ 
+A change in vehicle braking characteristics or a 
+dashboard warning lamp may indicate a malfunction 
+in the braking system. Although the vehicle air brake 
+system may continue to function, the vehicle should 
+not be operated until the necessary repairs have been 
+made by a qualified technician.
+Always check the vehicle braking system for proper 
+operation after performing service or maintenance and 
+before returning the vehicle to service. TABLE OF CONTENTS
+DESCRIPTION  .............................. 1 
+M-50QR PNEUMATIC AND ELECTRICAL 
+INTERFACES  ............................... 3 
+GSBC SYSTEM SCHEMATIC EXAMPLE  ..........  4
+OPERATION  ................................ 5
+Functional Tests ........................... 6
+TROUBLESHOOTING  ........................ 8
+Software Troubleshooting  ................... 8
+Test Preparation  .......................... 8
+Pneumatic Tests ........................... 8
+Leakage Test ............................ 10
+Electrical Component and Harness Test  ....... 10
+REPLACEMENT INSTRUCTIONS ............... 11
+Modulator Removal  ....................... 11
+Component Mounting ...................... 11
+Modulator Installation ...................... 12
+MAINTENANCE  ............................ 13
+Cleaning ................................ 13
+DTC AND SERVICE INFORMATION  ............ 14
+Service Action Codes ...................... 16
+
+2
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following guidelines should be observed AT ALL TIMES :
+ ▲ Park the vehicle on a level surface, apply the 
+parking brakes, and always block the wheels.  
+Always wear personal protection equipment.  
+ ▲Stop the engine and remove the ignition key 
+when working under or around the vehicle.  
+When working in the engine compartment, 
+the  engine  should  be  shut  off   and  the  ignition 
+key should be removed. Where circumstances 
+require that the engine be in operation, EXTREME 
+CAUTION  should be used to prevent personal 
+injury resulting from contact with moving, 
+rotating, leaking, heated, or electrically charged 
+components.
+ ▲Do not attempt to install, remove, disassemble, 
+or assemble a component until you have read, 
+and thoroughly understand, the recommended 
+procedures. Use only the proper tools and 
+observe all precautions pertaining to use of those 
+tools.
+ ▲If the work is being performed on the vehicle’s 
+air brake system, or any auxiliary pressurized air 
+systems, make certain to drain the air pressure 
+from all reservoirs before beginning ANY  work 
+on the vehicle.  If the vehicle is equipped with 
+a Bendix® AD-IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD-9si®, 
+AD-HF®, or AD-HFi® air dryer, be sure to drain the 
+purge reservoir.
+ ▲Following the vehicle manufacturer’s 
+recommended procedures, deactivate the 
+electrical system in a manner that safely removes 
+all electrical power from the vehicle.
+ ▲Never exceed manufacturer’s recommended 
+pressures.   ▲Never connect or disconnect a hose or line 
+containing pressure; it may whip and/or cause 
+hazardous airborne dust and dirt particles. Wear 
+eye protection. Slowly open connections with 
+care, and verify that no pressure is present. Never 
+remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement 
+parts, components, and kits. Replacement 
+hardware, tubing, hose, fittings, wiring, etc. 
+must be of equivalent size, type, and strength as 
+original equipment and be designed specifi  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged 
+parts should be replaced rather than repaired.  
+Do not attempt repairs requiring machining or 
+welding unless specifi  cally stated and approved 
+by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make 
+certain all components and systems are restored 
+to their proper operating condition.
+ ▲ For vehicles with Automatic Traction Control 
+(ATC), the ATC function must be disabled (ATC 
+indicator lamp should be ON) prior to performing 
+any vehicle maintenance where one or more 
+wheels on a drive axle are lifted off   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected 
+from the radar sensor whenever any tests USING 
+A DYNAMOMETER are conducted on a vehicle 
+equipped with a Bendix® Wingman® system.
+ ▲ You should consult the vehicle manufacturer's operating and service manuals, and any related literature, 
+in conjunction with the Guidelines above.
+ IMPORT ANT
+Bendix®-brand Electronic Control Units (ECUs) are 
+not designed to store data for purposes of accident 
+reconstruction, and Bendix® ACom® Diagnostic 
+Software is not intended to retrieve data for purposes 
+of accident reconstruction. Bendix makes no 
+representations as to the accuracy of data or video 
+retrieved and interpreted from ECUs for purposes 
+of accident reconstruction. Bendix does not offer 
+accident reconstruction services or interpretation of 
+stored data. Bendix ECUs are not protected from fire, 
+loss of power, impact damage, or other conditions that 
+may be sustained in a crash situation and may cause 
+data to be unavailable or irretrievable.
+3
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)
+Figure 2 – M-50QR Modulator Features
+PIN NO. DESCRIPTION
+1 Exhaust/Outlet
+2 Common/Source
+3 Hold/InletPORT FUNCTIONPORT 
+THREADING
+Port 1Supply 
+(incoming air 
+from steer axle 
+1C EPM)M22 x 1.5  
+ISO-4039-2
+Port 2Delivery 
+(air delivery 
+to service 
+actuators)M22 x 1.5  
+ISO-4039-2
+Port 3 Exhaust N/A
+Figure 4 – M-50QR Modulator Electrical PinoutPort 2Port 1
+Port 3 (Exhaust)Electrical 
+Connector
+Figure 3 – M-50QR Modulator Electrical 
+Connection
+Table 1 – M-50QR Pneumatic Port Information
+Table 2 – M-50QR Electrical 
+Pinout
+Figure 5 – M-50QR Electronic and Pneumatic SchematicM-50QR PNEUMATIC AND ELECTRICAL INTERFACES
+1
+2
+3
+1
+231 2 3Electronic Component  
+Pneumatic Component
+Electronic  
+Pin 1: Exhaust/Outlet
+Pin 2: Common/Source
+Pin 3: Hold/Inlet
+Pneumatics  
+Port 1: Supply
+Port 2: Delivery
+Port 3: ExhaustNOTE: Refer to the fitting manufacturer’s torque 
+specifications before tightening the fittings.
+4
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)Figure 6 – GSBC System Schematic (with Optional GSAT) Example*GSBC SYSTEM SCHEMATIC (WITH OPTIONAL GSAT) EXAMPLE
+*This schematic is representative only and may differ from your vehicle. Verify your vehicle schematic with your OEM.  
+NOTE: In most applications, the primary circuit is connected to the steer axle, and the secondary circuit is connected to the drive axle(s) 
+unlike most conventional U.S. plumbing configurations.
+ITEM COMPONENT ITEM COMPONENT ITEM COMPONENT
+1 AIR COMPRESSOR 8FOUNDATION BRAKE WITH SERVICE 
+CHAMBER15BENDIX® WS-24™ WHEEL SPEED 
+SENSOR
+2BENDIX® GSAT® AIR 
+TREATMENT MODULE9FOUNDATION BRAKE WITH SPRING 
+BRAKE CHAMBER16WHEEL SPEED SENSOR CLAMPING 
+SLEEVE
+3 PRIMARY RESERVOIR 10BENDIX® GSBC® FBM-40™ FOOT BRAKE 
+MODULE17BENDIX® SAS-80™ STEER ANGLE 
+SENSOR
+4 SECONDARY RESERVOIR 11BENDIX® GSBC® EPM-90™ ONE CHANNEL 
+ELECTRO-PNEUMATIC MODULE (EPM-1C)18BENDIX® GSBC® EBS-90™ CENTRAL 
+ECU
+5 DRAIN VALVE 12BENDIX® GSBC® EPM-90™ TWO CHANNEL 
+ELECTRO-PNEUMATIC MODULE (EPM-2C)19BENDIX® GSBC® EBS-90™ CENTRAL 
+ECU MUD COVER
+6TRAILER CONTROL 
+GLADHAND13BENDIX® GSBC® ETPCM-90™ ELECTRONIC 
+TRAILER PRESSURE CONTROL MODULE20ELECTRONIC PARKING BRAKE 
+HAND CONTROL UNIT (HCU)
+7TRAILER SUPPLY 
+GLADHAND14BENDIX® GSBC® M-50QR™ QUICK 
+RELEASE ANTILOCK MODULATOR21 QUICK RELEASE VALVE (OPTIONAL)
+Table 3 – GSBC System Schematic Example Components
+121
+220
+319
+418
+5176
+7
+1581413
+1110
+12
+58
+14
+1615161516 1516
+9 9
+9 9
+1516 151612
+5
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)OPERATION
+GENERAL
+Table 4 shows the various operational modes of the 
+modulator. The first four rows show normal vehicle braking 
+where the modulator does not intervene. In the case of a 
+rapid, non-antilock release of the brakes (e.g. if the driver 
+releases the brakes after a severe brake application), 
+the  modulator helps to rapidly release air from the brake 
+chamber by providing a high-capacity exhaust path for 
+released air close to the brake chamber. The final four rows 
+show the actions taken during an antilock braking event.
+NON-ANTILOCK BRAKE APPLICATION
+During normal, non-antilock braking, both solenoids are de-
+energized and do not modify the operation of the modulator. 
+Brake application air enters the supply port of the modulator 
+and flows to the exhaust diaphragm. Air pressure, along 
+with spring force, seats the exhaust diaphragm on the 
+exhaust passage, thus preventing the escape of service 
+air. Simultaneously, application air flows to the supply 
+diaphragm and forces it away from its seat. Air flows past 
+the open supply diaphragm and out the modulator delivery 
+port to the service brake chambers.
+NON-ANTILOCK HOLD
+When the desired air pressure is attained in the service 
+brake chambers, the brake system is in the hold position. 
+In the hold position, both solenoids in the modulator remain 
+de-energized and the balance of the internal components 
+remain in the same position as they assumed during 
+application.
+NON-ANTILOCK EXHAUST
+The manner in which air exhausts through the modulator 
+differs depends upon how rapidly the brake pedal is 
+released by the driver.
+Normal Exhaust  – During a normal, relatively “slow” 
+brake release, air moves back through the modulator in 
+the reverse direction as it flowed during application to 
+the Foot Brake Module (for example, the Bendix® GSBC®  
+FBM-40™). The internal components of the modulator 
+will remain in the same position as they assumed during 
+application until air pressure decreases to approximately APPLICATIONS
+Modulators may be used for various purposes on a vehicle, 
+including the Anti-lock Braking System (ABS) and stability 
+interventions. For vehicles equipped with GSBC , the 
+modulator is located on the steer axle and is typically the 
+last component through which air passes on its way to the 
+service brake actuator. See Figure 6 for an example GSBC 
+system schematic.one half psi, at which time the supply diaphragm will seat 
+on the supply passage. A relatively small amount of air 
+will generally be expelled from the modulator exhaust port 
+during “slow” brake release.
+Quick Release Exhaust  – The quick release exhaust 
+operation described in the following text occurs during a 
+rapid brake release of the brake pedal. The quick release 
+modulator will exhaust air differently when compared to a 
+“slow” brake release. 
+An example of this would be when a driver makes a 
+significant brake application, then quickly lifts their foot 
+from the brake pedal. During a rapid brake release, the 
+air previously delivered to the brake chamber is vented 
+through the modulator exhaust port as follows:
+The bias valve moves to its closed position, closing the air 
+return route to the FBM. Air pressure against the exhaust 
+diaphragm within the modulator overcomes the spring force 
+and allows air to exhaust through the modulator exhaust 
+port. Residual air pressure between the bias valve and the 
+1-Channel Electro-Pneumatic Module (1C EPM) flows back 
+to the 1C EPM exhaust.
+ANTILOCK OPERATION
+If a service brake application is made and the GSBC  system 
+detects an impending wheel lockup, the Central ECU will 
+intervene in the brake application using the modulator.
+In order to modulate the brake application, the coils of the 
+two solenoids contained in the modulator are energized or 
+de-energized in a preprogrammed sequence by the Central 
+ECU. When a solenoid coil is energized, and depending 
+whether the exhaust or hold solenoid is energized, it either 
+opens or closes, thereby causing air to flow into, out of, 
+or be held at the brake actuator. The solenoids in the 
+modulator are controlled independently by the Central ECU.
+An experienced driver (of a vehicle without ABS) who 
+encounters wheel lock-up may sometimes “pump the 
+brakes” in order to attempt to prevent wheel lock-up and 
+maintain vehicle control. In the case of an ABS braking 
+system, the driver does not need to “pump the brakes” 
+since the Central ECU is able to apply and release the 
+brakes at individual wheels using the modulators, with far 
+greater speed and accuracy. 
+6
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)OPERATION (CONT.)
+ANTILOCK EXHAUST 
+When wheel lock is detected or imminent, the Central 
+ECU energizes the supply and exhaust solenoids in the 
+modulator. 
+Energizing the supply solenoid allows application air to flow 
+to the control side of the supply diaphragm. Air pressure 
+acting on the supply diaphragm, along with the spring force, 
+enables the diaphragm to prevent further delivery of air to 
+the brake chamber.
+Energizing the exhaust solenoid vents the air normally 
+applied to the control side of the exhaust diaphragm to 
+atmosphere to keep the diaphragm closed. Air pressure 
+acting on the exhaust diaphragm overcomes the spring 
+force, unseats the diaphragm, and allows air to exhaust 
+through the exhaust port.
+ANTILOCK HOLD MODE
+The Central ECU will place the modulator in the hold 
+position when it senses that the correct wheel speed 
+(braking force) has been attained. The Central ECU 
+will also place the modulator in the hold position, prior 
+to entering the reapply mode, when it detects recovery 
+from a locked wheel condition. In this mode of operation, 
+the modulator supply solenoid remains energized while 
+the exhaust solenoid returns to its normal, de-energized 
+position. The exhaust solenoid allows application air to flow 
+to the control side of the exhaust diaphragm, which then 
+seals the exhaust passage. With the exhaust diaphragm 
+seated, further exhaust of brake chamber air pressure is 
+prevented. 
+Because the supply solenoid remains energized, the supply 
+diaphragm remains seated, thus preventing application 
+air from flowing to the delivery port and out to the brake 
+chamber. The modulator can enter both the antilock 
+exhaust or reapply mode from the antilock hold mode 
+depending on the commands from the Central ECU.
+ANTILOCK “REAPPLY” MODE
+If the Central ECU senses that wheel speed has increased 
+sufficiently enough to allow reapplication of braking 
+pressure without further wheel lock-up, it de-energizes the 
+supply solenoid. With both solenoids de-energized, the 
+modulator allows air to flow from the FBM, which reapplies 
+air to the brakes in the same manner it does when not in 
+an antilock event.FUNCTIONAL TESTS
+POWER ON SELF TEST (POST) SEQUENCE/CHUFF 
+TEST
+When the GSBC  system is first powered on with the ignition 
+key, the system will conduct a Power On Self Test (POST). 
+This is a brief self-check that the system performs to check 
+for basic operation of the system, components, internal 
+software, and communications functions.
+NOTE:  For experienced drivers familiar with the Bendix 
+“Chuff” test for previous brake control systems, the 
+modulators do not perform a chuff test and will not click 
+during the POST sequence for a GSBC  system. 
+This POST test performs a similar function, but only the 
+solenoids in the EPM (for example, the Bendix® GSBC® 
+EPM-90™) will operate, resulting in an audible clicking 
+noise. This means that the Chuff test sound of modulator 
+solenoids clicking during key on will not be present. The lack 
+of a clicking sound(s) during key on from the modulators 
+does not indicate a problem with the brake control system 
+or its operation. For more information about the EPM, refer 
+to SD-27-5031, Bendix® GSBC® EPM-90™ Service Data 
+sheet on B2Bendix.com . For more information about the 
+GSBC  system operation, refer to BW8207, Bendix® GSBC® 
+Operator’s Manual on B2Bendix.com.
+7
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)OPERATION (CONT.)
+ModeHold 
+Solenoid 
+StateExhaust 
+Solenoid 
+StateDescriptionNormal BrakingNormal, 
+Non-Antilock, 
+Brake ApplicationDe-energized De-energizedAir pressure supplied to the modulator exits the modulator 
+delivery port and flows to the service brake chambers.
+Non-Antilock 
+HoldDe-energized De-energizedWhen the desired air pressure is attained in the service 
+brake chambers, the air pressure in the system levels off.
+Normal, 
+Non-Antilock, 
+Relatively “slow” 
+Brake ReleaseDe-energized De-energizedAir from the brake chambers moves back through the 
+modulator in the opposite direction that it flowed during 
+application. Simultaneously, a small amount of air will 
+generally be expelled from the modulator exhaust port.
+Rapid, 
+Non-Antilock, 
+Exhaust 
+(e.g., the driver 
+releases the 
+brakes after a 
+severe brake 
+application)De-energized De-energizedThe internal bias piston blocks air from the brake chamber 
+from moving back through the modulator. Instead, all the 
+air is exhausted out the modulator exhaust port.Antilock BrakingAntilock Apply De-energized De-energizedAir pressure supplied to the modulator exits the modulator 
+delivery port and flows to the service brake chambers.
+Antilock Hold Energized De-energizedThe modulator prevents supply air from passing through 
+the modulator and, at the same time, prevents air from the 
+brake chambers from exhausting. 
+Antilock Exhaust Energized EnergizedAir from the brake chambers exhausts through the 
+modulator exhaust port. 
+Antilock 
+"Reapply"De-energized De-energizedThe modulator reapplies air to the brakes in the same 
+manner it did during a non-antilock event. 
+Table 4 - M-50QR Modulator Operational Modes
+8
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)TROUBLESHOOTING
+SOFTWARE TROUBLESHOOTING
+The GSBC  system will log Diagnostic Trouble Codes 
+(DTCs) when a fault is detected. Depending on the severity 
+of the DTC and which features are impacted, one or more 
+warning lamps may be displayed to the driver on the 
+dashboard. More information on the GSBC  system can be 
+found on B2Bendix.com. 
+To appropriately diagnose, troubleshoot, and repair faults, 
+connect to the vehicle using Bendix® ACom® Diagnostic 
+Software (if supported by your manufacturer) or an 
+appropriate OEM diagnostic software. The diagnostic 
+software should display the DTC as well as troubleshooting 
+information to diagnose, confirm, and repair the fault 
+causing the warning lamp or DTC. Refer to page 14  for a 
+DTC list impacting the modulator.
+TEST PREPARATION
+Prior to conducting any troubleshooting testing, perform 
+the following steps:
+1. Ensure that the vehicle is in a location where it can 
+be safely worked on.
+2. Refer to the General Safety Guidelines  on page 2 
+before performing any work on the vehicle.
+3. Scan for any active faults in the GSBC  system 
+using the appropriate diagnostic tool and save 
+the results. 
+NOTE: Before performing any troubleshooting procedures, 
+check that the modulator is clean and clear of debris per 
+the Maintenance  section of this document. IMPORT ANTPNEUMATIC TESTS 
+This test procedure confirms that the modulator is receiving 
+control pressure and is responding appropriately to driver 
+braking requests.
+Before performing this test, ensure that the braking 
+system is operating in Electronic Mode. This test can 
+not be completed successfully if the braking system 
+is not in Electronic Mode. Typically, a red “EBS” or 
+“BRAKE” warning lamp on the dashboard is indicative 
+of a braking system that is not operating in Electronic 
+Mode.
+Diagnose and repair any faults preventing the system 
+from entering Electronic Mode prior to continuing this 
+test.
+NOTE:  During all tests, listen for audible leaks. If audible 
+leaks are observed, refer to the next section to troubleshoot 
+leakage. 
+To perform the pneumatic test for the modulator, complete 
+the following steps:
+1. Chock the wheels on the vehicle to prevent 
+untended movement.
+2. Turn the vehicle on and build the air system 
+pressure to governor cut-out. 
+3. Confirm that the vehicle is in Electronic Mode. If the 
+system faults, read the troubleshooting code using 
+the appropriate diagnostic software. Troubleshoot 
+the faulted component using the applicable service 
+data sheet available on B2Bendix.com. 
+4. With the engine off and ignition power on, make a 
+series of light brake applications.
+5. Check for any system-generated faults using 
+Bendix ACom Diagnostic Software or the 
+appropriate OEM service tool.
+6. Park the truck, turn off the ignition, and drain all 
+reservoirs on the truck.
+Be sure to remove all supply air from the system prior 
+to installing any pressure sensors into the air sytem. 
+Failure to do so can result in injury.
+7. Temporarily tee two pressure gauges into the air 
+lines immediately adjacent to the modulator under 
+test: at the inlet port (port 1) and delivery port  
+(port 2) of the modulator. 
+9
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)TROUBLESHOOTING (CONT.)
+PNEUMATIC TESTS (CONT.)
+8. Restart the truck and build air system pressure to 
+governor cut-out.
+9. While monitoring the pressures at ports 1 and 
+2, using the pressure gauges installed in Step 
+7, apply and release the service brakes using 
+the brake pedal several times. The supply and 
+delivery pressures should be roughly proportional 
+to the movement of the brake pedal and equal to 
+each other.
+ »If the pressures are not equal to each other or 
+do not follow the movement of the brake pedal, 
+perform Step 10  (a through d).
+10. Make a quick application followed by a quick 
+release of the service brake.
+a. During the service brake application, pressures 
+on both sides of the modulator should be roughly 
+equivalent and proportional to the position of the 
+brake pedal.
+ »If the measured delivery pressure does 
+not match the supply pressure during 
+service brake application or release, check 
+that the exhaust port on the modulator 
+is clean and clear of debris. Refer to the 
+Maintenance  section of this document for 
+more information.
+ »If the exhaust is clear and performance 
+does not improve, replace the modulator.
+b. If both measured pressures move together and rise 
+slowly, and both drop slowly in comparison to the 
+release of the brake pedal, the issue is unlikely to 
+be with the modulator. Inspect the components and 
+plumbing between the modulator and the brake 
+pedal. For example:
+ »Check the air lines between the 1C EPM 
+and the modulator for kinks, obstructions, 
+or blockages. Remove and replace any 
+obstructed or damaged airlines that are 
+discovered.
+ »Check the air lines between FBM and 
+the 1C EPM for kinks, obstructions, or 
+blockages. Remove and replace any 
+obstructed or damaged airlines that are 
+discovered.
+ »Check the exhaust port and muffler on 
+the 1C EPM controlling the steer axle are 
+also clean and clear of debris. For more 
+information about troubleshooting the  
+1C EPM, refer to SD-27-5031 on 
+B2Bendix.com. »Check that the exhaust port and muffler on 
+the FBM is clean and clear of debris per 
+SD-27-5028 on B2Bendix.com .
+ »Inspect the brake pedal assembly for 
+proper operation per the vehicle OEM’s 
+maintenance instructions.
+ »Check the volume between the modulator 
+and the service chamber for leaks. A leak 
+large enough to slow the rise of pressure 
+on the gauge would likely be significant 
+and audible.
+NOTE:  Remember to check both sides of 
+the vehicle, including the side that was not 
+instrumented with gauges.
+c. If both measured pressures move together and fall 
+slowly, and both drop slowly in comparison to the 
+release of the brake pedal, the issue is unlikely to 
+be with the modulator. Inspect the components and 
+plumbing between the modulator and the brake 
+pedal. For example:
+ »Check the air lines between the 1C EPM 
+and the modulator for kinks, obstructions, 
+or blockages. Remove and replace any 
+obstructed or damaged airlines that are 
+discovered.
+ »Check the air lines between the FBM 
+and the 1C EPM for kinks, obstructions, 
+or blockages. Remove and replace any 
+obstructed or damaged airlines that are 
+discovered.
+ »Check the exhaust port and muffler on 
+the 1C EPM controlling the steer axle are 
+also clean and clear of debris. For more 
+information about troubleshooting the  
+1C EPM, refer to SD-27-5031 on 
+B2Bendix.com.
+ »Check that the exhaust port and muffler on 
+the FBM is clean and clear of debris per 
+SD-27-5028 on B2Bendix.com .
+ »Inspect the brake pedal assembly for 
+proper operation per the vehicle OEM’s 
+maintenance instructions.
+d. During all tests, listen for audible leaks. If audible 
+leaks are observed, refer to the next section to 
+troubleshoot leakage.
+11. When diagnostic tests have been completed, 
+return the system to the initial configuration by 
+removing any diagnostic pressure gauges from 
+the air system and ensuring all electrical and 
+pneumatic connections have been reconnected 
+appropriately. 
+10
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)TROUBLESHOOTING (CONT.)
+LEAKAGE TEST
+NOTE:  This test typically requires two people to efficiently
+conduct the test.
+MODULATOR LEAKAGE TEST
+To perform the leakage test for the modulator, complete 
+the following steps:
+1. Ensure that the test preparation procedure has 
+been completed.
+2. Park the vehicle on a level surface and chock the 
+wheels.
+3. Turn the vehicle on and build the air system 
+pressure to governor cut-out.
+4. Make and hold a full service brake application 
+using the brake pedal.
+5. While continuing to hold the service brake 
+application, have a helper apply a soapy water 
+solution to the body of the modulator, the 
+pneumatic ports, and the exhaust port.
+NOTE: The brake pedal must be held in a steady 
+applied state during this test. Moving the brake pedal 
+during the test could result in air movement. This 
+is normal operation, but could be misdiagnosed as 
+leakage.
+a. If bubbles accumulate near any of the 
+pneumatic fittings, check to see that the fitting 
+is torqued to the correct value. Refer to Table 1  
+on page 3 for torque information . Bubble 
+diameter(s) should not exceed a one-inch 
+(1-in.) bubble in less than three (3) seconds.
+ »If the fitting is torqued to the correct value 
+and the port continues to leak, replace 
+the fitting. 
+ »If the modulator continues to leak after 
+a replacement fitting has been installed 
+and correctly torqued, the modulator is 
+damaged and must be replaced.
+b. If bubbles accumulate anywhere on the body 
+of the modulator, bubble diameter(s) should 
+not exceed a one-inch (1-in.) bubble in less 
+than three (3) seconds.
+ »If bubbles exceed this size/rate, the 
+modulator is damaged and must be 
+replaced.
+c. If bubbles accumulate near the exhaust port, 
+bubble diameter(s) should not exceed a 
+one-inch (1-in.) bubble in less than three (3) 
+seconds.
+ »If bubbles exceed this size/rate, the 
+modulator is damaged and must be 
+replaced.6. To complete the test, release the service brakes, 
+ensure that the vehicle remains parked, and 
+remove any wheel chocks that were placed to hold 
+the vehicle stationary.
+NOTE:  If the modulator does not function as described, 
+or if the leakage is excessive, it is recommended that the 
+modulator be replaced with new genuine Bendix parts, 
+available from any authorized Bendix parts outlet.
+This test procedure confirms that the internal electronics 
+on the modulator are not damaged.
+ 
+ELECTRICAL COMPONENT AND HARNESS 
+TEST
+To perform the electrical test for the modulator, complete 
+the following steps:
+1. Turn the vehicle off, park the vehicle, and chock the 
+vehicle’s wheels to prevent unintended movement.
+2. Disconnect the battery from the vehicle to render 
+the electrical system safe to work on. 
+3. Identify the modulator being tested. 
+4. Disconnect the wiring harness from the modulator.
+5. On the electrical connector on the body of the 
+modulator, measure the resistance between the 
+following pins. The measured values should be 
+as follows:
+6. If any measurement is outside the allowable range, 
+replace the modulator. 
+7. With the modulator mounted to the vehicle and still 
+disconnected from the vehicle harness, measure 
+continuity between each pin and vehicle ground. 
+There should be no continuity between vehicle 
+ground and any modulator pin. If continuity is 
+present, replace the modulator.
+8. With the modulator still disconnected from the 
+vehicle harness, measure continuity between 
+each pin on the vehicle harness and vehicle 
+ground. There should be no continuity between 
+vehicle ground and any harness pin. If continuity 
+is measured, follow the vehicle OEM procedure for 
+troubleshooting and diagnosing a wiring harness 
+short to ground. PINS TO MEASURE MEASURED RESISTANCE
+HOLD (pin 3) to  
+COMMON (pin 2)19.9 +/-3 ohms
+EXHAUST (pin 1) to 
+COMMON (pin 2)19.9 +/-3 ohms
+EXHAUST (pin 1) to 
+HOLD (pin 3)39.8 +/-6 ohms
+Table 5 – M-50QR Electrical Connector Resistance
+11
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)REPLACEMENT INSTRUCTIONS
+The modulator is designed to not require internal  
+maintenance and there are no user-serviceable components  
+located inside the modulator.
+Disassembly of the modulator will void the compo -
+nent warranty, and Bendix will not provide technical 
+support or service parts for components internal to 
+the modulator.
+NOTE: If the modulator does not function correctly, it is 
+recommended that the modulator be replaced with new  
+genuine Bendix parts, available at any authorized Bendix 
+parts outlet.
+MODULATOR REMOVAL 
+To remove the modulator from the vehicle, complete the 
+following steps:
+1. Turn the vehicle off, park the vehicle, and chock the 
+vehicle’s wheels to prevent unintended movement.
+2. Drain air from the primary and secondary 
+reservoirs. Refer to OEM service manuals for 
+detailed instructions.
+3. Prior to disassembly, remove as much 
+contamination as possible from the exterior of the 
+device, taking care to keep all contamination from 
+entering the open ports. 
+4. Prior to removing the modulator from the vehicle, 
+take a photo of the current modulator location and 
+orientation for reference during the replacement 
+steps. Additionally, mark or otherwise identify 
+air hoses and electrical connectors to aid in 
+installation of the new modulator.
+5. Disconnect the air hoses from the modulator.
+NOTE: Depending on the type of pneumatic fittings 
+used, special tools may be required. Refer to OEM 
+service manual.
+6. Disconnect the electrical connector from the 
+modulator.
+7. Remove pneumatic fittings from the modulator and 
+inspect them for damage or debris. Replace any 
+damaged fittings as necessary.
+8. Remove and retain the mounting bolts for use in 
+the installation.COMPONENT MOUNTING
+Modulators are mounted rigidly to the vehicle. Depending 
+on the vehicle, the modulator may be mounted directly to 
+the frame or to a bracket.
+If the modulator has been removed from the vehicle for 
+any reason, the modulator must be reinstalled in the same 
+mounting location and, if present, using the same bracketry 
+that was originally installed on the vehicle.
+The modulator must be mounted to minimize the  
+possibility of accumulated debris on the silencer. 
+The modulator exhaust must have a minimum of  
+one inch (1-in.) clearance from all obstructions. The 
+exhaust port must not be covered or painted over.
+Failure to properly mount the modulator could 
+cause exhaust port blockage, resulting in irregular  
+performance of the GSBC  system. Irregular  
+performance of the GSBC  system may result in  
+potential collisions, property damage, personal injury, 
+or death.  IMPORT ANT
+12
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)REPLACEMENT INSTRUCTIONS (CONT.)
+MODULATOR INSTALLATION
+To install the modulator on the vehicle, complete the 
+following steps:
+1. Clean and inspect all air hoses for damage and 
+replace as necessary.
+2. Install the pneumatic fittings on the new modulator. 
+Refer to the fitting manufacturer’s torque 
+specifications before tightening the fittings. Do 
+not exceed maximum torque on pneumatic fittings. 
+NOTE:  All pneumatic fitting ports on the modulator 
+are metric. Be sure to use only metric straight 
+thread o-ring fittings on this component. Failure 
+to use the correct fittings may result in air leakage 
+and permanent damage to the component.
+Do not use thread sealant for modulator fittings. 
+Modulator threads do not use sealant. The seal is 
+provided by an o-ring on the outside of the fitting.
+3. Refer to photo taken in Step 4 of the Modulator 
+Removal section  for the correct orientation of the 
+modulator on the bracket and/or vehicle. 
+4. Install the modulator and tighten the mounting bolts 
+set aside from the Modulator Removal  process. 
+For fitting torque and replacement information for 
+the mounting hardware, contact the vehicle OEM. 
+5. Connect the airlines to the modulator.
+6. Reconnect the electrical harness connection.
+7. Reconnect the vehicle battery.
+8. Turn the vehicle on and build the air system 
+pressure to governor cut-out.
+9. Ensure that there are no warning lamps or DTCs 
+active that are related to the replaced modulator.
+10. Make and hold a full service brake application 
+and check for air leaks. If any air leaks are found, 
+troubleshoot the issue using the Leakage Test on 
+page 10 .
+11. Once installation is complete, run the Functional 
+Tests on page 6  to verify proper modulator 
+operation.After removal and replacement of the modulator, to 
+prevent impaired GSBC system functions, it is the 
+responsibility of the end-user to ensure the modulator 
+has been installed correctly and tested to confirm 
+functionality.
+A change in vehicle braking characteristics or a 
+dashboard warning lamp may indicate a malfunction 
+in the braking system. Although the vehicle air brake 
+system may continue to function, the vehicle should 
+not be operated until the necessary repairs have been 
+made by a qualified technician.
+Always check the vehicle braking system for proper 
+operation after performing service or maintenance and 
+before returning the vehicle to service. IMPORT ANT
+ 
+13
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)MAINTENANCE
+GENERAL
+Visually inspect the modulator as part of regular vehicle 
+scheduled maintenance and pre-trip inspection. If the 
+modulator appears damaged, or shows signs of failure, 
+such as audible leakage or software DTCs, troubleshoot 
+the component and replace as necessary.
+ 
+Review the Bendix Warranty Policy before performing 
+any intrusive maintenance procedures. A warranty 
+may be voided if intrusive maintenance is performed 
+during the warranty period. No two vehicles 
+operate under identical conditions; as a result, 
+maintenance intervals may vary. Experience is a 
+valuable guide in determining the best maintenance 
+interval for air brake system components. At a 
+minimum, the EPM should be inspected every  
+6 months or 1500 operating hours, whichever comes 
+first, for proper operation. Should the EPM not meet 
+the standards of the operational tests noted in this 
+document, further investigation may be required. 
+The M-50QR is designed not to require maintenance, 
+and there are no user-serviceable components located 
+inside the modulator. Disassembly of the device will 
+void the component warranty and Bendix will not 
+provide technical support or replacement components 
+for components internal to the modulator. 
+Be cautious while using a pressure washer to clean 
+components. Appropriate Personal Protective 
+Equipment (PPE) is recommended (e.g., eye protection) 
+while using a pressure washer. Failure to use PPE 
+could result in personal injury. Rubber parts, sealing 
+interfaces, and electrical components or covers should 
+not be directly sprayed with the high-pressure jet. 
+Failure to use caution when performing maintenance 
+could lead to serious vehicle braking, instability and 
+performance issues, and/or collisions .CLEANING
+Clean the exterior of the modulator and remove debris 
+and contamination. The preferred method for cleaning the 
+modulator of dirt, grit, salt, or other build-up is water with 
+a gentle brush. It is permissible to use a gentle detergent, 
+but acid or chemical cleaners should be avoided. It is also 
+permissible to use a pressure washer, but the technician 
+should be careful not to hold the pressure washer close 
+to the modulator, use excessive pressure, or spray water 
+directly at the exhaust port.
+ IMPORT ANT
+ IMPORT ANTAccumulation of road debris on the modulator 
+may cause blockage of the exhaust port. Failure to  
+properly maintain the exhaust port could cause 
+exhaust port blockage, resulting in irregular  
+performance of the  GSBC  system. Irregular  
+performance of the  GSBC  system may result in  
+potential collisions, property damage, personal injury, 
+or death. 
+14
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)DIAGNOSTIC TROUBLE CODE (DTC) AND SERVICE INFORMATION
+DTCSPN  
+(J1939)FMI 
+(J1939)DTC NAME DTC DESCRIPTIONGO TO 
+SERVICE 
+ACTION CODE 
+LISTED IN 
+TABLE 7
+0x500511 20485 17Pressure Control Valve: Circuit 
+Short To GroundModulator common low side shorted to ground 
+or short circuit.A
+0x500512 20485 18Pressure Control Valve: Circuit 
+Short To BatteryModulator common low side shorted to battery. B
+0x500513 20485 19Pressure Control Valve: Circuit 
+Open Modulator common low side open circuit  
+or broken wire.C
+0x500549 20485 73Pressure Control Valve: 
+Internal Electronic FailurePower to HW component (Modulator)  
+can not be switched off.D
+0x50054B 20485 75Pressure Control Valve: Over 
+TemperatureModulator activated for extended  
+amount of time.E
+0x500595 20485 149Pressure Control Valve: 
+Incorrect AssemblyModulator common low side shorted to other 
+valve or hardware defect.F
+0x509F35 20639 53Axle 1, Left Wheel, Pressure 
+Control Valve: Signal High 
+Time Greater Than MaximumThe error is set if modulator activation duration 
+exceeds a pre-set limit.G
+0x50A035 20640 53Axle 1, Right Wheel, Pressure 
+Control Valve: Signal High 
+Time Greater Than MaximumThe error is set if modulator activation duration 
+exceeds a pre-set limit.G
+0x50A511 20645 17Axle 1, Left Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Short To GroundShort from modulator inlet valve pin to ground. H
+0x50A512 20645 18Axle 1, Left Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Short To BatteryShort from modulator inlet valve pin  
+to battery voltage.J
+0x50A518 20645 24Axle 1, Left Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Current Below 
+ThresholdOpen circuit or broken wire on modulator  
+inlet valve pin.K
+0x50A52B 20645 43Axle 1, Left Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Signal Cross CoupledModulators on opposite sides of vehicle are 
+shorted together.M
+0x50A611 20646 17Axle 1, Right Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Short To GroundShort from modulator inlet valve pin to ground. HDIAGNOSTIC TROUBLE CODE (DTC) STORAGE / EVENT HISTORY
+The GSBC  system and Bendix ACom Diagnostic Software retain a record of all Diagnostic Trouble Codes (DTCs). This 
+record is commonly referred to as “event history.” When a DTC self-heals or is manually cleared, the DTC code remains 
+in event history as an inactive DTC.
+The GSBC  system is supported by ACom Diagnostic Software. Visit B2Bendix.com  for additional information or to 
+purchase ACom Diagnostic Software.
+FOR ALL REPAIR STEPS, FIRST COMPLETE THE FOLLOWING: 
+1. Generate a Bendix ACom Diagnostic Software report. 
+2. Clear Diagnostic Trouble Codes (DTCs). 
+3. Continue with repair information for each active DTC that will not clear.
+NOTE: After completing all repair steps, drive the vehicle to ensure the repairs were sufficient. 
+4. Once repairs have been made, clear the DTCs again. IMPORT ANT
+Table 6 – M-50QR Diagnostic Trouble Codes (DTCs)
+15
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)DTCSPN  
+(J1939)FMI 
+(J1939)DTC NAME DTC DESCRIPTIONGO TO 
+SERVICE 
+ACTION CODE 
+LISTED IN 
+TABLE 7
+0x50A612 20646 18Axle 1, Right Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Short To BatteryShort from modulator inlet valve pin  
+to battery voltage.J
+0x50A618 20646 24Axle 1, Right Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Circuit Current Below 
+ThresholdOpen circuit or broken wire on modulator  
+inlet valve pin.K
+0x50A62B 20646 43Axle 1, Right Wheel, Pressure 
+Control Valve, Inlet Valve: 
+Signal Cross CoupledModulators on opposite sides of vehicle  
+are shorted together.M
+0x50A711 20647 17Axle 1, Left Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Short To GroundShort from modulator outlet valve pin  
+to ground.H
+0x50A712 20647 18Axle 1, Left Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Short To BatteryShort from modulator outlet valve pin to battery 
+voltage.N
+0x50A718 20647 24Axle 1, Left Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Current Below 
+ThresholdOpen circuit or broken wire on modulator  
+outlet valve pin.L
+0x50A72B 20647 43Axle 1, Left Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Signal Cross CoupledModulators on opposite sides of vehicle  
+are shorted together.M
+0x50A811 20648 17Axle 1, Right Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Short To GroundShort from modulator outlet valve pin  
+to ground.H
+0x50A812 20648 18Axle 1, Right Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Short To BatteryShort from modulator outlet valve pin  
+to battery voltage.N
+0x50A818 20648 24Axle 1, Right Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Circuit Current Below 
+ThresholdOpen circuit or broken wire on modulator  
+outlet valve pin.L
+0x50A82B 20648 43Axle 1, Right Wheel, Pressure 
+Control Valve, Outlet Valve: 
+Signal Cross CoupledModulators on opposite sides of vehicle are 
+shorted together.M
+0xF00009 61440 9Electronic Control Unit: 
+Component FailuresInternal SW fault detected. PDIAGNOSTIC TROUBLE CODE (DTC) AND SERVICE INFORMATION (CONT.)
+Table 6 – M-50QR Diagnostic Trouble Codes (DTCs)
+16
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)SERVICE 
+ACTION 
+CODERECOMMENDED SERVICE ACTION
+AInspect the cables and connectors between the modulator and the GSBC ECU for damage, shorted, or 
+open circuits. Repair as necessary.  
+ 
+If no physical damage was found, disconnect the electrical connector with the modulator pins from the 
+GSBC ECU. At the ECU connector, measure continuity between the modulator common ground and 
+the chassis ground. There should not be any continuity between the modulator common ground and the 
+chassis ground. If continuity is found, disconnect the electrical harness from modulator and repeat the 
+measurement at the modulator electrical connector. If there is continuty between the modulator common 
+ground and the chassis ground with the harness disconnected, replace the modulator. Otherwise, 
+troubleshoot the vehicle electrical harness for a short to ground according to the OEM procedure.  
+ 
+If all checks pass, reconnect everything and clear the DTC. Perform a test drive to see if the error code 
+returns. If the error code returns, swap the modulator with a known good unit or re-evalaute the harness 
+for vibration or environmental-related failures.
+BInspect the cables and connectors between the modulator and the GSBC ECU for damage, open, or 
+shorts. Repair as necessary.  
+ 
+If no physical damage was found, disconnect the electrical connector with the modulator pins from the 
+GSBC ECU. At the ECU connector, measure continuity between modulator common ground and the 
+battery voltage. There should be no continuity measured between the modulator common ground and 
+the battery voltage. If continuity is found, disconnect the electrical harness from the modulator and repeat 
+the measurement at the modulator electrical connector. If there is continuity measured between the 
+modulator common ground and the battery voltage with the harness disconnected, replace the modulator . 
+Otherwise, troubleshoot the vehicle electrical harness for a short to battery according to the OEM 
+procedure.  
+ 
+If all checks pass, reconnect everything and clear the DTC. Perform a test drive to see if the error code 
+returns. If the error code returns, re-evalaute the harness for vibration or environmental-related failures.
+CInspect the cables and connectors between the modulator and the GSBC ECU for damage, shorted, or 
+open circuits. Repair as necessary.  
+ 
+If no physical damage was found, disconnect the electrical connector with the modulator pins from the 
+GSBC ECU and from the modulator. Check continuity of the harness between the ECU and the modulator 
+common pins. If there is no continuty through the harness between the modulator and the GSBC ECU 
+common ground pins, repair or replace the vehicle electrical harness as necessary . 
+ 
+If all checks pass, reconnect everything and clear the DTC. Perform a test drive to see if the error code 
+returns. If the error code returns, re-evalaute the harness for vibration or environmental-related failures.DIAGNOSTIC TROUBLE CODE (DTC) AND SERVICE INFORMATION (CONT.)
+Table 7 – Recommended Service Actions
+17
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)SERVICE 
+ACTION 
+CODERECOMMENDED SERVICE ACTION
+DInspect the cables and connectors between the modulator and the GSBC ECU for damaged, open, or 
+shorted circuits. Repair as necessary.  
+ 
+If no physical damage was found, disconnect the electrical connector with the modulator pins from the 
+GSBC ECU. At the ECU connector, measure the voltage between the modulator pins and the chassis 
+ground. There should be no voltage measured between the modulator pins and the chassis ground. If 
+voltage is found, disconnect the electrical harness from the modulator and repeat the measurement at the 
+modulator electrical connector. If there is no voltage measured between the modulator common ground 
+and the chassis ground, repair or replace the vehicle electrical harness as necessary .  
+ 
+If all checks pass, reconnect everything and clear the DTC. Perform a test drive to see if the error code 
+returns. If error code returns, re-evalaute harness for vibration or environmental-related failures.
+EWait for the valve to cool down. Avoid excessive use (long activation time) of the valves through service 
+tools. Reset the DTC.
+FInspect the cables and connectors between the modulator and the GSBC ECU for damage, shorted, or 
+open circuits. Repair as necessary.  
+ 
+If no physical damage was found, disconnect the electrical connector with the modulator pins from the 
+GSBC ECU. At the ECU connector, measure continuity between the modulator common ground and the 
+other pins in the connector. There should not be any continuity between the modulator common ground 
+and any other pins. If continuity is found, disconnect the electrical harness from the modulator and repeat 
+the measurement at the modulator electrical connector. If there is no continuty between the modulator 
+pins, troubleshoot the vehicle electrical harness for an electrical short according to the OEM procedure.  
+ 
+If all checks pass, reconnect everything and clear the DTC. Perform a test drive to see if the error code 
+returns. If the error code returns, swap the modulator with a known good unit or re-evalaute the harness 
+for vibration or environmental-related failures.
+GCheck the wiring of the Front EPM and connected WSS. Check if dataset represents the current vehicle 
+layout. Check WSS parameter (tire size). Check WSS and tone wheel for problems. Compare vehicle 
+configuration to original (factory) configuraiton. If changes have been made to the vehicle after it was 
+built, consult the OEM for assistance in updating the vehicle configuration in the GSBC ECU.
+HCheck the wiring between the modulator and the GSBC ECU. Check for shorts to ground between the 
+modulator inlet valve pin and the common pin, or, between the modulator inlet valve pin and the chassis 
+ground. Inspect the electrical connector at both ends (modulator and GSBC ECU) for damage, shorts, or 
+missing insulation.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.
+JCheck the wiring between the modulator and the GSBC ECU. Check for shorts to battery voltage between 
+the modulator inlet valve pin and the sources of battery voltage. Inspect the electrical connector at both 
+ends (modulator and GSBC ECU) for damage, shorts, or missing insulation.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.DIAGNOSTIC TROUBLE CODE (DTC) AND SERVICE INFORMATION (CONT.)
+Table 7 – Recommended Service Actions
+18
+SD-27-5170 Rev 000 Bendix® GSBC® M-50QR™ (Global Scalable Brake Control Quick Release Antilock Modulator)DIAGNOSTIC TROUBLE CODE (DTC) AND SERVICE INFORMATION (CONT.)
+SERVICE 
+ACTION 
+CODERECOMMENDED SERVICE ACTION
+KCheck the wiring between the modulator and the GSBC ECU. Check for broken wires or open circuit on 
+the inlet valve pin. Inspect the electrical connector at both ends (modulator and GSBC ECU) for damage, 
+shorts, or missing insulation.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.
+LCheck the wiring between the modulator and the GSBC ECU. Check for broken wires or open circuit 
+on the outlet valve pin. Inspect the electrical connector at both ends (modulator and GSBC ECU) for 
+damage, shorts, or missing insulation.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.
+MCheck the wiring between the modulator and the GSBC ECU. Check for shorts between modulators on 
+opposite sides of the vehicle. Inspect the electrical connector at both ends (modulator and GSBC ECU) 
+for damage, shorts, or missing insulation. Confirm that modulator layout matches the original vehicle 
+configuration.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.
+NCheck the wiring between the modulator and the GSBC ECU. Check for shorts to battery voltage between 
+the modulator outlet valve pin and the sources of battery voltage. Inspect the electrical connector at both 
+ends (modulator and GSBC ECU) for damage, shorts, or missing insulation.  
+ 
+Repair or replace wiring and/or electrical connectors as necessary per OEM instructions.
+PCheck the electrical connector and the wiring on both steer axle modulators. Check that the modulators 
+are connected to the GSBC ECU. If there are no faults in the connectors or the wiring, replace the GSBC 
+ECU.
+Table 7 – Recommended Service Actions
+SD-27-5710 Rev 000 ©  2/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr-Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST 
+Unless otherwise indicated, the trademarks used in this document, including Bendix, are United States trademarks  
+owned by, or licensed to, Bendix Commercial Vehicle Systems LLC.

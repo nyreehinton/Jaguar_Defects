@@ -1,0 +1,101 @@
+ 
+ 
+ 
+No.: 25CSA-04 
+March  2025 
+ 
+TO: Service  Locations  
+ 
+FROM:  Service  Diagnostics & Tools  
+ 
+SUBJECT:  Release  of DiagnosticLink® 8.21 SP2 
+SUBJECT  DETAIL  
+On Thursday , March  6, 2025, Service Pack (SP) 2 for DiagnosticLink® 8.21 Standard  and 
+Professional  will be made available  to download  from the Detroit  Diesel  server.  This 
+release includes the following updates:  
+ 
+▪ Fixed issue where the qualifiers did not display the primary or secondary air 
+pressure  readings  when connected to the Fifth Generation Cascadia  SSAM02T .  
+▪ Fixed issue where the State buttons on the XMC Digital Pinouts panel do not turn 
+green when switched on.  
+▪ Fixed BMS bootloader programming issue.  
+▪ Fixed Advanced 6X4 Dyno Routine panel from showing for eM2/eCascadia.  
+▪ Support files updated  for this release (CBF, CCF, SMR -D, and SMR -E files). 
+▪ CTP panel to update CTP vehicle net type parameter . 
+▪ SRRXX calibration update d to display start buttons  for Fifth Generation Cascadia .  
+▪ CHEC Instrumentation panel  added  to retrieve feature list and update vehicle 
+configuration . 
+▪ The Automatic FSIC and FSIC Leak test for engines using Fifth Generation engine  
+software  can now reliably hit the max rail pressure.  
+▪ The PartsPro URL has been updated to E xcelerator Parts.  
+▪ The AP4 Powernet Instrumentation panel s have been added  to assist technicians 
+with diagnosing the following AP4 Powernet systems : 
+▪ 48v alternator  
+▪ DC/DC Converters  
+▪ IPDM ABC Batter pack  
+▪ Text updated to ‘Calibrate driver side ’ step of the MirrorCam System Calibration for 
+Fifth Generation Cascadia . 
+▪ Added links to DiagnosticLink Videos  from Af termarketTV (Panopto) . 
+▪ The eM2 Detroit Assurance Calibration panels have been revised  to use the PT 
+Ready state.  
+▪ eDrive  has been changed to Cab Heating Valve on Thermal Controls eDrive panel.  
+▪ Links have been added to the client tool to go to the local host ZenZefi -T information  
+(CeBID).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPORTANT  NOTE : You must  have  DiagnosticLink® 8.21 Standard  or Professional  
+to receive  SP2. 
+ 
+DiagnosticLink® 8.20 and earl ier versions  will not receive  this service  pack.  
+ 
+On Thursday , December 5, 2024, DiagnosticLink® 8.21 was released  to the service  
+network.  In order to maintain  access  to the Detroit  server  data, all  Reprogramming  
+Stations  must  be kept up to date  with the current  version  of DiagnosticLink® software.  
+Keep software current  to avoid  interruptions.  
+UPDATE INSTRUCTIONS  
+NOTE:  You must  have DiagnosticLink® 8.21 installed  on your  computer  prior to 
+applying  this patch.  
+ 
+SP1 will automatically  download  when  you connect to the DDC  server. Please  do the 
+following:  
+ 
+1. Open  DiagnosticLink® software.  
+ 
+2. From the Tools  drop-down menu,  select Update…. 
+ 
+ 
+ 
+3. A screen  will display  showing  the progress  of the download.  Follow  the 
+installation  prompts  to complete  the download.  
+ 
+4. Verify  that the patch  has been  applied  by selecting  About  from the Help  dropdown  
+menu. Verify  the following:  
+ 
+Application  Components  
+DiagnosticLink  08.21SP2-xxxxx -xxxxx   
+ 
+
+ 
+ 
+ 
+MANUAL UPDATE  
+A download link is available that allows manual downloading and installation of the 
+DiagnosticLink® 8.21 SP2 patch  for advanced users and system administrators. To access, 
+login to  DTNA Portal - DiagnosticLink® support page at: https://dtnacontent -
+dtna.prd.freightliner.com/content/dtna -
+portal/en/ServiceLP/Service Diagnostics and Tools/DiagnosticLink.html  and click on the 
+8.21 SP2 download link from the  Downloads  section. Download the 8.21 SP2 installer  
+patch file and s ave to the local machine and run. Use the Repair  option and follow the 
+setup guide to complete installation.  
+TECH SERVICE SUITE  (TSS) UPDATE  
+TSS users will receive the  SP2 update via the TSS cloud. No action required.  
+CONTACT  INFORMATION  
+Please  contact the Detroit  Customer Support  Center at 800 -445-1980  or email  
+csc.software@daimler.com  if you have  any questions.  
+ 
+ 

@@ -1,0 +1,397 @@
+T-SB-0088 -24 Rev1  October 3, 2024  
+ 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+  © 2025 Toyota Motor Sales, USA  Page 1 of 11 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  GR Corolla   
+ 
+ 
+ 
+ 
+Introduction  
+Pre-Delivery Service (PDS) is a c ritical step in satisfying our  new car customers. Customer 
+feedback indicates the following areas deserve special attention when performing PDS:  
+• Careful inspection for paint chips/scratches and body dents/dings.  
+• Proper operation of electrical accessories (including interior light, clock, and radio reset).  
+• Interior cleanliness.  
+• Proper function of mechanical systems.  
+Customer retention and proper maintenance of vehicles are and have always been a major focus 
+for Toyota. To help remind customers that regular service is essential to the proper maintenance of 
+the vehicle, dealers are required to install a service reminder  sticker before  delivery. By doing this, 
+customers will be reminded to return to your dealership for service. Your current service reminder 
+sticker may be used. (See PDS Check Sheet item 8 of “Final Inspection and Cleaning.”)  
+ 
+This bulletin contains the PDS procedures that apply specifically to 2025 model year  
+GR Corolla vehicles.  
+ 
+Refer to T-SB-0028 -24, the universal Check Sheet  that contains PDS steps that apply to all 2025 
+model year Toyota vehicles. To properly perform a complete PDS, you must complete all 
+procedures contained in this TSB as well as the universal PDS Check Sheet.  
+ 
+In addition, if the vehicle is stored for over 30 days, refer to T-SB-0023 -24, Long -Term Vehicle 
+Storage Guidelines . 
+ 
+  REVISION NOTICE  
+January  17, 2025  Rev1:  
+• The Required Tools & Equipment and D/C Cut Fuse Installation section s have been updated.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 2 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Table of Contents  
+• Warranty Policy  ................................ ................................ ................................ ..........................  3 
+• Warranty Information  ................................ ................................ ................................ .................  3 
+• Required Tools & Equipment  ................................ ................................ ................................ ..... 3 
+• D/C Cut Fuse Installation  ................................ ................................ ................................ ...........  4 
+• Front License Plate and Mounting Bracket Installation * ................................ .............................  5 
+• Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  ......................  7 
+• Spring Spacer Removal  ................................ ................................ ................................ .............  9 
+• Tire Pressure Warning System (TPWS) Initialization  ................................ ...............................  10 
+• Head Unit System Reset  ................................ ................................ ................................ ..........  10 
+• Customize ACC Function  ................................ ................................ ................................ .........  10 
+• Dealer Contact Information for Call Dealer Head Unit Function ................................ ................  11 
+• Navigation — Set Date & Time by GPS  ................................ ................................ ...................  11 
+*If applicable.  
+ 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 3 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Warranty Policy  
+If the need for additional repairs or adjustment is noted during PDS, the required service should 
+be performed under warranty. Reimbursement will be managed under the warranty policy.  
+ 
+The Warranty Policy and Procedures Manual requires that you maintain the completed  
+Check Sheet in the customer’s file . If you cannot produce a completed form for each retailed  
+vehicle upon TMS and/or Region/Distributor audit, the PDS payment amount will be subject  
+to debit.  
+ 
+An additional Repair Order completed in conjunction with normal PDS MUST  have time 
+punch /flags for service. If multiple repairs are performed, separate time flags MUST  be punched 
+for each  repair.   
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  MODEL  TIME  OFP T1 T2 
+001013  Pre-Delivery Service (PDS)  GR Corolla  1.0 – – – 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST. 
+ 
+ 
+ 
+  NOTE  
+• Only ONE of the Techstream units listed above is required.  
+• GTS+ software version 2024.0 4.004.02 or later is required.  
+• Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE) at  
+1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal.  
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 4 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+D/C Cut Fuse Installation  
+Check the location of the D/C cut fuse (30A). It may have been removed at the assembly plant 
+and temporarily stored in the blank space of the relay block in the engine compartment to 
+minimize battery discharge during transportation and storage.  
+• If the D/C cut fuse (30A) is still in its original location in the relay block, proceed with 
+performing a Health Check using Global Techstream Software (GTS+ ). 
+• If the D/C cut fuse (30A) is NOT in its original location, it is necessary to remove the D/C cut 
+fuse (30A) from the blank space in the relay block and reinstall it to its original location as 
+shown. After installation, confirm ALL related Diagnostic Trouble Codes ( DTCs ) are cleared.  
+ 
+Figure 1. 
+ 
+ 
+ 
+ 
+1 Relay Block   3 Install the D/C Cut Fuse (30A)  (Original Location)  
+2 Remove the D/C Cut Fuse (30A)  (Blank Space)     
+ 
+ 
+NOTE  
+• With the D/C cut fuse ( 30A) removed, if ANY DTCs are detected when the ignition is turned ON during 
+transportation, use GTS + to clear ALL DTCs AFTER ensuring that there are NO malfunctions.  
+• While the vehicle is stored at the dealership, disconnect the negative ( –) battery terminal to prevent 
+battery discharge. Refer to T-SB-0021 -24, Battery  Inspection and  Maintenance During PDS , for battery  
+maintenance information.  
+1 
+2 
+3 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 5 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  
+The front license plate bracket and four self-tapping screws are stored in the vehicle. Follow this 
+procedure to install the front license plate bracket and front license plate in states where it is 
+required by law.  
+ 
+1. Align the bracket rib and snap -fit sections of 
+the front license  plate mounting bracket with 
+area “A” and area “B” on the lower  
+radiator grille.  Figure 2. 
+ 
+ 
+ 
+ 
+ 
+1 Mounting Bracket  
+2 Rib 
+3 Snap -fit 
+A Area “A”  
+B Area “B”  
+ 
+  
+1 
+3 
+B 
+3 
+2 
+B 
+ A 
+ A 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 6 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation (continued)  
+1. Install the mounting bracket to the lower 
+radiator grille using the two short  
+self-tapping screws.  
+ 
+ 
+ 
+ 
+ 
+2. Install the two long self-tapping screws 
+through  the holes on the front license plate, 
+bracket , and lower radiator grille.   Figure 3. 
+ 
+  
+ 
+ 
+ 
+1 Short Self -tapping Screws  
+2 Long Self -tapping Screws  
+3 Front License Plate  
+4 License Plate Bracket  
+  
+NOTICE  
+• Do NOT pre -drill holes into the bumper.  
+• Do NOT overtighten the  
+self-tapping screws.  
+1 
+4 
+2 
+1 
+1 
+2 
+3 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 7 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  
+1. Remove the front  and rear emergency 
+towing eyelets from the front and rear 
+bumpers  by turning them counterclockwise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Figure 4. 
+ 
+ 
+ 
+1 Front Emergency Towing Eyelet  
+2 Rear Emergency Towing Eyelet  
+2. Place one of the removed emergency towing  
+eyelets into the luggage tray in the  
+luggage compartment.  
+ Figure 5. 
+ 
+ 
+ 
+ 
+ 
+1 Emergency Towing Eyelet  
+  
+HINT  
+If it is difficult to loosen th e emergency towing 
+eyelet(s) , use a steel bar.  
+HINT  
+Dispose of the other removed emergency 
+towing eyelet . 
+1 
+2 
+1 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 8 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation (continued)  
+3. Install the front and rear emergency towing 
+eyelet hole covers , which are stored in the 
+glove box , onto the front and  rear bumpers.  
+ 
+A. Insert the arrow -shaped part of the front 
+emergency towing eyelet hole cover “A” 
+into the eyelet hole “B” as shown.  Seat 
+tabs to secure the hole cover to the  
+front bumper.  
+ 
+ 
+B. Insert the arrow -shaped part of the rear 
+emergency  towing eyelet hole cover “ A” 
+into the eyelet hole “ B” as shown . Seat 
+tabs to secure the hole cover to  the  
+rear bumper.  
+ 
+ Figure 6. 
+ 
+ 
+1 Front Emergency Towing Eyelet Hole Cover  
+2 Rear Emergency Towing Eyelet Hole Cover  
+A Arrow -shaped Part  
+B Eyelet Hole  
+ 
+NOTE  
+Make sure the front emergency towing 
+eyelet cover is installed in  the front, and 
+the rear emergency towing eyelet cover is 
+installed in the rear. 
+ 
+ 
+ 
+ 
+1 
+2 
+A 
+B 
+A 
+B 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 9 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Spring Spacer Removal  
+Spring spacers are installed on the front coil springs to prevent the front bumper from being 
+damaged during transit. Remove the front coil spring spacers during PDS.  
+Figure 7. 
+ 
+  
+ 
+ 
+ 
+1 Front Suspension   3 Coil Spring Spacer Notice Label  
+2 Front Coil Spring Spacer   
+1. Refer to the applicable Repair Manual to lift the vehicle  and extend the front suspension . 
+• 2025  GR Corolla:  
+General – Introduction – Repair Instruction – Vehicle Lift and Support Locations  
+2. Remove the coil spring spacers  from the front coil springs.  
+3. Remove the coil spring notice label from the front windshield glass.  
+ 
+1 
+2 
+ 3 
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 10 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Tire Pressure Warning System  (TPWS) Initialization  
+Refer to the  applicable  Repair Manual for the TPWS initialization procedure . 
+• 2025  GR Corolla:  
+Suspension – Tire Pressure Monitoring –  
+Tire Pressure Warning System (for Gasoline Model (for Type B)) – Initialization  
+ 
+ 
+ 
+ 
+Head Unit System Reset  
+Prior to vehicle delivery , confirm that the  welcome screen with language options appears on the 
+head unit display when ignition is switched to the ON position. There may be instances where 
+the welcome screen with language options may not properly appear on the head unit display.  
+If the welcome screen showing language options is not displayed, complete the following steps:  
+1. Select the Settings option (gear icon).  
+2. Scroll down and select the Info & Security option.  
+3. The System Reset dialogue  box will appear. Select Reset to confirm the  resetting of  
+the system . 
+4. Confirm that the w elcome  screen with language options is now displayed.  
+ 
+ 
+Customize ACC Function  
+The pre -startup function detects when a user enters the vehicle and energizes the audio head  
+unit (+BA) so that the multimedia system can quickly be used. This function is not enabled at the  
+factory to reduce parasitic current draw in transit and storage. To enable this function, it is  
+necessary to set the ACC customization function in the navigation display to OFF.  
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Enter the following menus: Settings – Vehicle Customization – Utility – ACC Customize . 
+3. Change the setting to OFF.  
+  NOTE  
+• To adjust the tire pressure correctly when the outside temperature is significantly colder than shop 
+temperature, perform a Health Check using GTS+ and select the compensation tire pressure checkbox. 
+Compensation pressures will display on the Health Check results screen. Adjust the tire pressure when 
+the tires are cold.  
+• The spare tire does NOT have a TPWS sensor.  
+ T-SB-0088 -24 Rev1  October 3, 2024  Page 11 of 11 
+2025 GR Corolla Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Dealer Contact Information for Call Dealer Head Unit Function  
+Refer to the Multimedia System Owner’s Manual  to add dealer contact information.  
+• 2025  GR Corolla:  
+Section 2 -9 Vehicle Settings – Setting Dealer Information  
+ 
+ 
+ 
+ 
+Navigation — Set Date & Time by G PS 
+Prior to vehicle delivery , it is necessary to turn the Set Date & Time by GPS setting to the  
+ON position.  
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Navigate the following menus in the head unit: Settings – General – Date & Time – 
+Set date & time by GPS.  
+3. Ensure the Set Date & Time by GPS function is set to the ON position.  
+ 
+ 
+ 
+ 
+ 

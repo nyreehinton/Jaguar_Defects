@@ -1,0 +1,186 @@
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved. 
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,
+New Jersey, Ohio, and Utah.1 SERVICE PROCEDURE  
+24514 
+February, 2025 
+SUBJECT : EMISSIONS RECALL  
+On Board Diagnostic MIL faults in certain 
+International® CV™ Series trucks built 1/11/2018 
+thru 3/15/2024 with model year 2019 thru 2023 International
+® 6.6L engines  
+CUSTOMER LETTER 
+Print ready (PDF file) c opy of the Customer Letter  
+DEFECT DESCRIPTION 
+With specific MIL -on faults, the miles travelled calculation switches from 
+the Transmission Output Speed Sensor (TOSS) to the Wheel Speed 
+Sensor (WSS) and the mileage recorded by the On Board Diagnostic 
+(OBD) System is accumulated at one- fourth actual due to an incorrectly 
+calibrated parameter used in the calculation.  
+MODELS INVOLVED 
+This Emissions Recall involves certain International® CV™ Series trucks 
+built 1/11/2018 thru 3/15/2024 with model year 2019 thru 2023 International® 
+6.6L engines.  
+ELIGIBILITY 
+This procedure applies ONLY  to vehicles marked in the International® 
+Service PortalSM with Emissions Recall  24514 . Also complete any other 
+open campaigns listed on the Service Portal at this time. 
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  2 TOOLS REQUIRED  
+ 
+Description  Tool Number  
+EZ-Tech® or equivalent  N/A 
+Service Programming System 2 (SPS 2)  N/A 
+Battery Charger  PSC550CC  
+Table 1  Tool Information  
+ 
+PARTS INFORMATION 
+ 
+No parts required.  
+ 
+SERVICE PROCEDURE  
+ 
+WARNING!  To prevent personal injury, and / or death, or damage to 
+property, park vehicle on hard flat surface, turn the engine off, set the 
+parking brake and install wheel chocks to prevent the vehicle from moving 
+in either direction.  
+ 
+WARNING!  To prevent personal injury and / or death, always wear safe eye 
+protection when performing vehicle maintenance.  
+ 
+WARNING!  To personal injury and / or death, allow engine / vehicle 
+components to cool before servicing.  
+ 
+WARNING!  To prevent personal injury and / or death, or damage to 
+property, keep flames or sparks away from vehicle and do not smoke while 
+servicing the vehicle’s batteries. Batteries expel explosive gases.  
+ 
+1. Park vehicle on a flat surface.  
+ 
+2. Shift transmission to Park or Neutral and set parking brakes.  
+ 
+3. Turn vehicle ignition to Key OFF position.  
+ 
+4. Install wheel chocks.  
+ 
+5. Connect battery charger / maintainer to vehicle battery.  
+ 
+6. Connect to engine using Service Programming System 2 (SPS 2)  software.  
+ 
+7. Program Engine Control Module (ECM).  
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  3  
+NOTE: The document listed in the table below contains general information 
+about each reprogramming method and software.  
+ 
+Programming Method  Programming and Troubleshooting Instructions  
+SPS 2  Techline Connect (TLC) / Service Programming 
+System 2 (SPS 2) User Guide  4328812  
+Table 2 Programming Software  
+ 8. If assistance is needed, International
+® dealers should contact Vehicle 
+Programming by creating a  technical service  case file  within the case file 
+management system . This can be accomplished by navigating to the 
+intelligent search section of Service Portal.  If phone support is needed,  
+contact Vehicle Programming by calling 1- 800-336-4500, options 3, 4,  1. 
+ 
+NOTE: Clear all inactive / previously active faults after programming. Only perform diagnostics or procedures on ACTIVE faults.  
+ 
+9. If any inactive / previously active faults are found after programming, clear them from ECM. Only perform diagnostics or procedures on active faults.  
+ 
+10. Disconnect battery charger / maintainer from vehicle battery.  
+ 
+11. Remove wheel chocks.  
+ Additional Requirements for Dealers and Customers Operating in California  
+ 
+ NOTE: The following step is required only for dealers and customers 
+operating in the state of California . 
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  4 
+ 
+ 
+Figure 1. DMV Certificate, Salmon (Print on 8.5 x 11 inch White Paper).  
+1. Proof of Correction certificate  
+ 
+12. After completing this recall, dealer must fill out salmon- colored Proof of 
+Correction certificate (Figure 1, Item 1)  and provide a copy to customer.  
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  5 LABOR INFORMATION 
+ 
+Operation Number  Description  Time  
+A40-24514-1 Reprogram ECM  0.3 hrs  
+Table 3 Labor Information  
+ 
+CAMPAIGN IDENTIFICATION LABEL  
+ 
+Each vehicle corrected in accordance with this 
+campaign must be marked with a CTS -1075 
+Campaign Identification Label.  
+ 
+Complete the label and attach on a clean surface next to the vehicle identification number (VIN) plate.  
+ 
+                 
+ 
+       
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  6 ADMINISTRATIVE / DEALER RESPONSIBILITIES  
+ 
+WARRANTY CLAIMS  
+ 
+Warranty claim expense is to be charged to Warranty. Claims are to be 
+submitted in the normal manner, making reference to Emissions Recall 24514.  
+ Section 7 of the Warranty Policy and Procedures Manual contains further information related to the submission and processing of AFC / Recall claims.  
+ As with all claim  submissions, items acquired locally must be submitted in the 
+“Other Charges” tab. The cost of any bulk items (such as a bag of cable tie straps, roll of wire, barrel of oil, or tube of silicone) should be prorated for the cost of the individual pieces / amount used during each repair.  
+ 
+ 
+ UNITED STATES AND POSSESSIONS  
+ The National Traffic and Motor Vehicle Safety Act, as amended, provides that each vehicle that is subject to a vehicle recall campaign must be adequately repaired within a reasonable time after the owner has tendered it for repair.  A failure to adequately repair within 60 days after a tender of a vehicle is prima facie evidence of failure to repair within a reasonable time.  If the condition is not adequately repaired within 60 days, the owner may be entitled to replacement with an identical or reasonable equivalent vehicle at no charge, or to a refund of 
+the purchase price less a reasonable allowance for depreciation.  
+ 
+Dealers must correct all vehicles subject to this campaign at no charge to the owner, regardless of mileage, age of vehicle, or ownership, from this time forward.  
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  7  
+Dealers should proceed immediately to make necessary correction to units in inventory.  All inventory vehicles subject to this recall campaign must be corrected prior to sale, transfer or delivery.  If vehicles have been sold or transferred and you are in receipt of Customer Notification Letters and Authorization for Recall Service cards for those vehicles, the transfer location or customer must be notified immediately from your dealer location.  
+ Dealers must make every effort to promptly schedule an appointment with each owner to repair his or her vehicle as soon as possible.  However, consistent with the customer notification, dealers are expected to complete the repairs on the mutually agreed upon service date.  
+ Dealers involved in the recall process will be furnished a listing of owner names and addresses to enable them to follow up with owners and have the vehicles corrected.   Use of this listing must be limited to this campaign because the list may contain information obtained from state motor vehicle registration records, and the use of such motor vehicle registration data for purposes other than this campaign is a violation of law in several states.  
+ 
+CANADA  
+ Dealers must correct all vehicles subject to this campaign at no charge to the owner, regardless of mileage, age of vehicle, or ownership, from this time forward.  
+ Dealers should proceed immediately to make necessary correction to units in inventory.  All inventory vehicles subject to this recall campaign must be corrected prior to sale, transfer or delivery.  If vehicles have been sold or transferred and you are in receipt of Customer Notification Letters and Authorization for Recall Service cards for those vehicles, the transfer location or customer must be notified immediately from your dealer location.  
+ Dealers must make every effort to promptly schedule an appointment with each owner to repair his or her vehicle as soon as possible.  However, consistent with the customer notification, dealers are expected to complete the repairs on the mutually agreed upon service date.  
+ Dealers involved in the recall process will be furnished a listing of owner names and addresses to enable them to follow up with owners and have the vehicles corrected.  Use of this listing must be limited to this campaign because the list may contain information obtained from state motor vehicle registration records, and the use of such motor vehicle registration data for purposes other than this campaign is a violation of law in several states.  
+ 
+ 
+EMISSIONS RECALL  24514  © International Motors, LLC* All rights reserved.  
+All marks are trademarks of their respective owners.  
+*International Motors, LLC d/b/a International Motors USA LLC in Illinois, Missouri,  
+New Jersey, Ohio, and Utah.  8 EXPORT  
+ 
+Export Distributors should proceed immediately to make necessary correction to units in inventory.  All inventory vehicles subject to this recall campaign must be corrected prior to sale, transfer or delivery.  If vehicles have been sold or transferred and you are in receipt of Customer Notification Letters and Authorization for Recall Service cards for those vehicles, the transfer location or customer must be notified immediately from your distributor location.  
+ Export Distributors are to submit warranty claims in the usual manner making reference to this recall number.  
+ Export Distributors are expected to provide full cooperation and follow -up with 
+respect to this important subject matter.  If you have any questions or need further assistance, please contact the Regional Service Manager at your regional office.  
+   
+International Motors, LLC* 
+*International Motors, LLC d/b/a International Motors USA LLC in 
+Illinois, Missouri, New Jersey, Ohio, and Utah.  
+ 

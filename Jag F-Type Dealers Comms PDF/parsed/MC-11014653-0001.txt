@@ -1,0 +1,187 @@
+SIB 31 05 25
+DELIVER Y STOP: ACTIVE FRONT  STABILIZER2025-02-24
+This Service Information Bulletin (Revision 1) replaces SI B31 05 25 dated January 2025.
+ 
+What’ s New :
+Situation update
+Cause,  Correction,  Procedure, Parts Information, Claim Information added
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+G09 XM Sports Activity V ehicle September 16, 2023 – May 9, 2024
+ 
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary , or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  As of February 1, 2025, you can
+see a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (effective January 31, 2025) on certain Model Year 2024 BMW
+vehicles that were produced between September 16, 2023, and May 9, 2024.  
+ 
+The torsion spring may break at the point where it is connected to the active front stabilizer (anti-roll bar)
+links. A broken active stabilizer (anti-roll bar) will cause noise as you continue driving.
+ 
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+CAUSE
+The torsion spring of the active front stabilizer (anti-roll bar) may have had an error during the production
+ 
+CORRECTION
+Replace the active front stabilizer (anti-roll bar)
+ 
+PROCEDURE
+Replace the active front stabilizer as per REP  37 1 1 511 Replacing the front active anti-roll bar
+ 
+PARTS INFORMA TION
+Use and invoice the part numbers listed below .
+ 
+Part Number Description Quantity
+37 10 5 B4A  9E6 Active stabilizer front 1
+OR   
+37 10 5 B64 ED1 Active stabilizer front 1
+37 10 6 789 678 Hex nut with flange (M12x1,5-10-ZNS3) 4
+07 11 9 905 408 Hex bolt (M12x1,5x75-10.9) 4
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 31 05 25_DELIVERY STOP: ACTIVE FRONT STABILIZER
+about:blank 1/5
+07 14 6 885 922 Multi-purpose bolt ASA (M12x1,5x90) 4
+31 10 6 872 063 Hex bolt with washer (M14x54x1.5) 2
+07 11 9 907 357 Hex bolt (M8x80-U1-10.9) 4
+07 11 9 908 596 Screw (M12x1,5x48) 8
+07 11 9 906 100 Hexagon collar screw (M14x1,5x95 10.9) 2
+07 14 8 835 360 Combination nut (14x1,5 ZNNIV) 2
+32 30 6 778 609 Torx bolt (M8X33) 1
+07 14 7 483 888 Hex bolt (M10X55 10.9 ZNS) 6
+31 10 6 859 809 Torx screw with collar (ASA  M8x30) 6
+07 14 6 886 617 Multi-purpose bolt ASA (M10x27 10.9 ZNS) 8
+07 14 8 838 952 Multi-purpose bolt 4
+22 11 8 869 325 Star-socket screw (M12X1.5X40.5-MK) 1
+07 11 9 906 938 Hexagon screw with flange (M12x1,5x25-10.9) 4
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalogue, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+Vehicle Programming and Encoding
+ 
+During this workshop visit, the af fected vehicle may also show one or more programming and encoding Technical Campaign
+repairs open, the programming and encoding procedure may only be invoiced one time.
+ 
+After replacing the active front stabilizer , it is recommended to select this T echnical Campaign to claim for updating
+the vehicle to the required I-level, or higher when applicable (Includes labor operation codes 00 00 006/556, 61 21
+528 and 61 00 730). 
+ 
+Please be sure to also perform any additional before and/or after work (including attaching labels) as required by
+the open campaigns on the vehicle. Close any other open programming and encoding Campaign repairs as outlined
+in the corresponding Service Information Bulletin.
+ 
+As determined by the above, reimbursement for this Action will be via normal claim entry utilizing the
+applicable work package information below with the part numbers listed above.
+ 
+Repair  Code: 0037350100 ---
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair .
+ 
+Work Pkg Labor Operation Description (Plus work) Labor Allowance
+# 1 00 78 515Replace the active front stabilizer , program
+and encode the vehicle control units,
+includes Carrying out vehicle test (00 00
+556/61 21 528)As applicable
+Or:    
+# 2 00 78 516Replace the active front stabilizer
+(Programming and encoding the vehicle
+control units was performed in conjunction
+with another campaign/repair  during this
+workshop visit)As applicable
+ 
+Or:
+ Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 31 05 25_DELIVERY STOP: ACTIVE FRONT STABILIZER
+about:blank 2/5
+The vehicle arrives at your center and this Action shows open (No other Main work will be performed
+or claimed during this workshop visit)
+ 
+Work Pkg Labor Operation Description (Main work) Labor Allowance
+# 3 00 78 012Replace the active front stabilizer ser ,
+program and encode the vehicle control
+units, includes Carrying out vehicle test (00
+00 006/61 21 528 61 21 528)As applicable
+Or:    
+# 4 00 78 013Replace the active front stabilizer
+(Programming and encoding the vehicle
+control units was performed in conjunction
+with another campaign/repair  during this
+workshop visit)As applicable
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission/reimbursement purposes. Also,
+only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the RO technician notes and the claim
+comments (For example: B31 05 25 WP  1), unless otherwise required by State law .
+ 
+Programming and Encoding – Additional W ork (RO and Claim Comments Required)
+ 
+This procedure automatically reprograms and encodes any vehicle control modules that do not have the latest software I-
+level. 
+ 
+If one or more control modules fail during the reprogramming procedure, claim the required consequential
+repair work procedures to address this issue (including performing the IRAP  Control Unit Recovery first as
+required, refer to the SIB in AIR) under the Repair Code in this bulletin together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that applies.
+ 
+Please explain the additional work procedures that were performed (The why and the what) on the repair order and in the
+claim comments.
+ 
+For covered repairs that addresses preexisting control module failures that occurred prior to performing this
+repair-related programming and encoding procedure, claim this work with the Repair Code listed in AIR
+together with the corresponding labor operation codes and their flat rate unit (FRU) allowance(s), including
+the diagnosis* that applies.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law .
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Service Action repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement, claim
+this item under the Repair Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16  for additional information. 
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 31 05 25_DELIVERY STOP: ACTIVE FRONT STABILIZER
+about:blank 3/5
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical Feedback To submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts Feedback To submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 31 05 25_DELIVERY STOP: ACTIVE FRONT STABILIZER
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.2/28/25, 7:09 AM 31 05 25_DELIVERY STOP: ACTIVE FRONT STABILIZER
+about:blank 5/5

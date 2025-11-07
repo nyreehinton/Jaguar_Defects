@@ -1,0 +1,57 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-025
+Service BulletinDate: February, 2025
+TECHNICAL
+Malfunction Indicator Lamp (MIL) Illuminated - DTCs P0690, P16B3, and/or
+P2420 Set
+Brand: Model: Model Year: Build Date: Engine: Transmissi
+on:from to from to
+BuickEncore GX
+2025 2026     LBP  Envista
+ChevroletTrailblazer
+Trax
+ 
+Involved Region or Country North America
+ConditionSome customers may comment that the MIL is illuminated.
+Note:  A software issue may cause the DTCs noted below to incorrectly set and illumi-
+nate the MIL in the ECM.
+Some technicians may find one or more of the following DTCs set in the ECM:
+• P0690: Engine Controls Ignition Relay Feedback Circuit High Voltage
+• P16B3: Engine Controls Ignition Relay Feedback Circuit 2 High Voltage
+Some technicians may also find P2420 (Evaporative Emission System Vacuum Leak
+Pump module switching valve shorted to battery) set in History in the ECM.
+CauseThis condition may be caused by a short to power in the wiring or connectors to the
+Evaporative Emission System Vacuum Leak Pump.
+CorrectionCheck wiring and connectors to the Evaporative Emission System Vacuum Leak Pump
+for continuity and shorts and repair/replace wiring issues.
+⇒ If no wiring issues are found, then replace the Evaporative Emission System Vac-
+uum Leak Detection Pump.Subject:
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+Refer to  Wire to Wire Repair in SI.
+ 
+Page 2 February, 2025 Bulletin No.: 25-NA-025
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under warranty, use:
+Labor Operation Description Labor Time
+5430902 Wire-to-Wire Repair
+Use the Published Labor
+Operations Time4027810Evaporative Emission System Vacuum Leak Detection Pump
+Replacement
+ 
+Version 1
+Modified Released February 18, 2025
+ 

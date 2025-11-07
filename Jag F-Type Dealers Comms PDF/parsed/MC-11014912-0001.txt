@@ -1,0 +1,1625 @@
+  A printed copy is for reference only; publication information can be updated at any time.  
+Always refer to KGIS for the latest information. After logging in kdealer.com,  the newest technical 
+publications are listed in  ‘Service Releases’ and has the latest service information that has been released.   GROUP  MODEL  
+ENG  2011-2024MY~  
+Multiple Models  
+NUMBER  DATE  
+222 (Rev 7 , 02/28/202 5) December  2020 
+TECHNICAL SERVICE BULLETIN  
+EXCESSIVE OIL CONSUMPTION  
+NU/GAMMA/THETA/KAPPA ENGINES  
+ 
+ 
+This bulletin provides information on diagnosing and/or repairing some 2011 -2024MY vehicles  (refer to the tables 
+on pages 8 -9 for applicable models and engine), which may exhibit a symptom of excessive oil consumption. Follow 
+the flowchart on page 2 in this procedure to repair a vehicle exhibiting excessive oil consumption.   
+ 
+Engine Oil Maintenance:  
+• Engine oil is responsible for lubrication, cooling, and operation of hydraulic components of the engine. Engine oil is expected to be consumed in normally operating engines. Therefore, regular ly checking  oil level 
+and regular oil changes are required as part of the factory maintenance schedule.  
+• The purpose of oil changes is to prevent oil deterioration. A separate requirement is to maintain the oil level, 
+independent of the oil change interval. It is necessary to check the oil level at every fueling stop and 
+replenish the oil, if necessary. This is one of several check items that the owner’s manual recommends at 
+every fueling stop.  
+• Operation with deteriorated or low engine oil causes reduced lubrication and cooling, as well as impaired operation of hydraulic components. This leads to abnormal wear of engine parts, oversaturation of carbon, 
+and deposits of oil sludge. These can result  in damage to multiple areas of the engine, ultimately requiring 
+a costly, lengthy, and preventable repair.  
+ 
+ 
+ 
+   
+ 
+SUBJECT:  
+  
+A Technical Service Bulletin is a field fix repair program without customer notification that may be performed during the warranty period. Any dealer requesting to perform this repair outside the warranty period will require DPSM approval.  
+ NOTICE  
+  
+This bulletin has been revised to include additional information.  New/revised sections of this 
+bulletin are indicated by a black bar in the margin area.  
+ NOTICE  
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 2 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+Flowchart :  
+Verify Oil Maintenance Records  (2nd visit) … 
+Refer to page 3 for additional information and instructions  & updated cleaning procedure on page 4.  
+ 
+ 
+1. Vehicle In
+Repair 1
+Clean Combustion 
+Chamber
+Wa rranty Not 
+Appl icabl e
+Vehicle Out 2
+(No Repair)Excessive
+ResultWarm Up Engine
+Add Cleaning Fluid
+Increase Pressure
+Connect Hose and
+Cra nking
+ Combustion 
+Chamber Clea ni ng
+Suction Residual 
+Fluid i n Combustion 
+Chamber
+Replace E ngi ne  Oi l, 
+Oil Filter and Gasket 
+and Appl y Tampe r 
+Evident Seal
+Allow Engine to IdleCombustion Chambe r
+Clea ni ng Process
+NG
+Oil
+Consumption 
+Test 2
+(1 k Mil es)Repair 2
+Engine R&R
+(PWA Requi re d)Excessive
+Result
+Wa rr an ty No t  
+Appl icabl eNormal
+ResultVerify
+Mai ntenance 
+RecordOKVehicle Out 1
+Customer to provide 
+maintenance records 
+next visit.
+2. Vehicle InOil
+Consumption 
+Test 1
+Normal
+Result
+3. Vehicle InCheck Oil Lev el
++T op -Off Engine Oil 
+and Apply Tamper 
+Evident Seal
+Begin 1,000 Mile
+Oi l Consumption 
+Test #1
+Vehicle Out 3Vehicle Out 2
+(with Repair)Che ck, clean, and 
+repair oil leaks.Requ ired:
+1. Oil Mai ntenance Re cord
+2. Oil Consumption Test Result
+ 
+ 
+Note : Engine replacement requires TL PWA with Oil Consumption results. 
+ 
+  
+Following an oil and filter change, always set the next recommended service interval reminder per 
+the owner’s manual. Refer to TSB ENG219  for the applicable Service Reminder feature found on 
+some 2014~ model vehicles.  
+ IMPORTANT  
+  Page 3 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+Oil Consumption Test : 
+Engine Oil Inspection (Preparation for Test 1)  
+1. Check if there is an oil leak. ( Note : If an oil leak if confirmed, the oil leak source needs to be repaired prior 
+to performing the outlined procedure in this publication).  
+ 
+2. Turn the engine ‘ON’ for about 10- 15 minutes until the engine reaches normal operating temperature. 
+Ensure the temperature gauge reads at the 1/2 mark.  
+ 
+3. Turn the engine ‘OFF’ and open the oil filler cap. ( Note:  Wait for the engine oil to drop to the oil pan for 
+about 15 minutes).  
+ 
+4. Check the oil level using the oil level gauge/dipstick and document the reading in the RO.  
+ 
+5. If engine oil top off is required, fill the engine oil to the ‘F’ (Full) line on the level gauge/dipstick. Refer to 
+page 6, step 10 for required oil type and viscosity.  
+ 
+6. Re-install the engine oil filler cap and oil level gauge and apply a tamper evident silicone seal to the drain 
+plug, oil filter, dipstick and oil cap. Vehicle Out 1 . 
+B) Engine Oil Inspection (After 1K Miles of Driving)  
+1. Repeat steps from section A. 1 -4. Refill the engine oil up to the ‘F’ (Full) line of the oil level gauge/dipstick.  
+ 
+2. Refer to page 6, step 10 for required oil type and viscosity.  
+ 
+3. Calculate the oil consumption amount as follows (Result = Refer to Flowchart  on page 2 ): 
+ 
+• If the oil consumption amount is less than 1qt/1,000 miles, Normal  consumption, No Repair . 
+• If the oil consumption amount is over 1qt/1,000 miles, Excessive  perform Repair 1  (Clean Combustion 
+Chamber, pages 4 -6). 
+• Replace the engine oil, oil filter and gasket and apply a tamper evident silicone seal to the drain plug, oil filter, dipstick and oil cap.  
+4. Top-off the engine oil to the ‘F’ (Full) line of the oil level gauge/dipstick. Refer to page 6, step 10 for required 
+oil type and viscosity.  
+ 
+5. Re-install the engine oil filler cap and oil level gauge/dipstick. Vehicle Out 2 . 
+C) Engine Oil Inspection (After Repair 1 and 1,000 Miles of Driving)  
+1. Repeat steps from section B. 1 -2. 
+• If the oil consumption amount is less than 1qt/1,000 miles, Normal  consumption, No Repair  
+• If the oil consumption amount is over 1qt/1,000 miles, Excessive  perform Repair 2  
+(Engine R&R, page 7 ). 
+ 
+2. Top-off the engine oil to the ‘F’ (Full) fill line of the oil level gauge/dipstick. Refer to page 7, step 1 for 
+required oil type and viscosity.  
+ 
+3. Re-install the engine oil filler cap and oil level gauge/dipstick.  Vehicle Out 3 . 
+
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 4 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+Cleaning Procedure  (Combustion Chamber) : 
+ 
+1a. 
+ 
+ 
+1b. 
+ 
+1c. 
+  
+1d. 
+ 
+1e. Start the engine and allow it to reach operating 
+temperature.   
+ Turn the engine ‘OFF’.  
+ 
+Remove the engine junction box cover and 
+remove the fuel pump fuse (A).   
+ Start the engine and allow it to stall.  
+ Remove the engine cover and disconnect the battery negative ( -) terminal.  
+ 
+2a. 
+ 
+2b. 
+  
+2c. 
+           
+3. Disconnect the fuel control connector (B).  
+ Disconnect the four (4) ignition coil connectors . 
+ Remove the four (4) spark plugs.  
+ 
+Note : The l ow pressure  fuel pipe needs to be 
+detached before removing ignition coils.  
+        
+Position the crankshaft so that all pistons are 
+midway between top and bottom of the 
+cylinders.  
+ 
+Note : Set TDC for Cylinder #1, then rotate 
+the crankshaft 90°.   
+*The Nu engine shown is for reference only.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The following procedure requires cleaning a 2 hour soaking (2X -twice) . 
+•1st Cleaning → 1st Soaking for 2 hours → 2nd cleaning → 2nd Soaking for 2 hours. P 
+Place vehicle in an area with adequate space.  
+ NOTICE  
+  
+Fuel vapors are flammable. Death or serious injury can result if they are ignited. Make sure there are no open flames or smoking in the area of the repair. Adequate ventilation is 
+necessary to prevent a build -up of fumes which could ignite, causing fire or explosion . 
+ 
+     WARNING  
+A 
+B 
+  Page 5 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+4a. 
+ 
+ 
+4b. Inject the cleaning fluid into the cylinders 
+through the spark plug holes.  
+ Using the supplied syringe add at least 1.7oz (50cc) to each cylinder.  
+ 
+Specification : Min. 1.7oz (50cc) / Max 2.2oz 
+(66.5cc)  
+ 
+5. Using SST 09580  3D100  pressurize each 
+cylinder under pneumatic pressure (2~3 bar) for three (3) minutes.  
+ 
+Note : Before pressurizing, set the associated 
+cylinder to TDC.  
+ 
+ 
+6a. 
+    
+6b. 
+ 
+6c. Connect the four (4) hoses & adaptors to each 
+cylinder as shown.  
+ 
+Note : Connect Cyl. #1 to #3 and #2 to #4. 
+ Reconnect battery negative ( -) terminal.  
+ Crank the engine for 3 seconds / 3 times.  
+ 
+ 
+7a. 
+     
+7b. Disconnect the hose and inject 1.7oz (50cc) 
+min. of the cleaning fluid to each cylinder (1 -4). 
+ 
+Specification : Min. 1.7oz (50cc) / Max 2.2oz 
+(66.5cc)  
+ Disconnect the battery negative ( -) terminal.  
+ 
+ 
+1 2 3 4 
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 6 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+8. 
+ 
+      
+7b. 
+ Allow the vehicle to sit for two (2) hours .  
+       
+Repeat s teps 3- 8 after  2 hour  soaking  for a 
+second final time.   
+ 
+CONTINUED AFTER  (2X) TIMES  CLEANING & SOAKING :  
+8a. 
+   
+ 
+ 
+8b. Remove the residual washing liquid in the 
+combustion chamber using the syringe or the suction tool.  
+Note : For best results, a pneumatic suction tool 
+is recommended.  
+ Reconnect battery negative ( -) terminal.  
+ 
+ 
+9. 
+Place a clean towel/shop rag over the spark holes. Crank the engine for 3 -
+5 seconds, 3 
+times.  
+ 
+ 
+  
+Do Not  turn the engine ‘ON’ until the 
+cleaning procedure  is complete. 
+ 
+     CAUTION  
+  
+If spark plug holes are not sufficiently 
+covered, fluid may spray into the air, 
+potentially causing injury. An assistant 
+may be needed. Wear safety glasses 
+while performing this step.  
+ 
+     CAUTION  
+
+  Page 7 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+10. Replace the engine oil and filter and apply a 
+tamper evident silicone seal to the drain plug, 
+oil filter dipstick and oil filler cap.  
+ Engine Crankcase O il Specification and F ill  
+Capacity: 5W -30 or 0W -20 engine oil (as  
+applicable)  
+ 
+Note : Refer to KGIS for oil level type and 
+capacity . 
+ 
+11. Reinstall all removed parts in the reverse 
+order of removal.   
+12. Reconnect the fuel pump relay in the fuse 
+box.  
+13. Allow the engine to remain idle for 10 minutes 
+and accelerate the engine to 3,000rpm, 3 times.   
+Refer to KGIS for oil level capacity.  
+ 
+Required Product: QUARTZ 9000 FUTURE FGC  
+Full Synthetic SN PLUS, QUARTZ 9000 FUTURE  
+XT Full Synthetic SN PLUS, Mobil Super Synthetic  
+5W30 above – Note: 0W20 (for Hybrid Applications).  
+ 
+If not available, use other brand 0W20 or 5W30 and  
+Full Synthetic type with API SN/SN+/SP, ILSAC  
+GF4/GF5 or higher service grade.  
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 8 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+Engine Replacement  Procedure  : (2.0L Nu GDI  / 1.6L GDI Gamma  / 2.0L T -GDI and 
+2.4L GDI Theta  Engines) 
+1. Replace the engine by referring to the “Engine 
+Mechanical System → Engine and Transaxle 
+Assembly → Engine and Transaxle Assembly → Repair procedures” chapter in the applicable Shop Manual on KGIS.  
+ 
+Replace the engine oil, oil filter and oil plug 
+gasket. 
+ 
+Engine Crankcase O il Specification and fill 
+capacity: 5W -30 engine oil  
+ 
+Note:  Refer to KGIS for oil level capacity.  
+ 
+Required Product: QUARTZ 0W -20 Full  
+Synthetic API/SN PLUS, Latest (ILSAC Latest) GF-6 or ACEA C5  
+ 
+If not available , use other brand 5W30 and 
+Full synthetic type with API SN/SN+/SP, ILSAC GF4/GF5 or higher service grade.  
+ 
+Note :  For Hybrid Applications  
+(1.6L Gamma and 1.6L Kappa Engines)  
+ 
+Required Product : QUARTZ 0W -20 Full 
+Synthetic API/SN PLUS, Latest (ILSAC Latest) GF-6 or ACEA C5  
+ 
+If not available , us
+ e other brand 0W20 or 
+5W30 and Full Synthetic type with API 
+SN/SN+/SP, ILSAC GF4/GF5 or higher service grade.  
+  
+ 
+  Page 9 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+AFFECTED VEHICLE RANGE :  
+Model  Model Year  
+Forte (YD, YDm, BDm)  2014-2024  
+Niro (DE HEV)  2017 -2020  
+Soul (AM, PS, SK3)  2012 to 202 4 
+Sportage (SL, QL)  2011 to 2020  
+Optima (TF , QF, JF, JFa)  2011 to 2020  
+Sorento (XMa, UMa)  2012 to 2020  
+Rio (UB, SC)  2012 -2021  
+Stinger (CK) 2018 -2021  
+Seltos (SP2), Sorento (MQ4 P/HEV) 2021  
+K5 (DL3a) 2022  
+ 
+REQUIRED TOOL:  
+  
+ Tool Name  Part Number  Figure  Qty. Comments  
+Cleaning Fluid s UM024 CH280  
+Engine Combustion  
+Chamber Cleaner ECF -1 
+ 
+UM021 CH267  
+HK Technology Engine 
+Cleaning Fluid       
+ 
+ 
+1 UM024 CH280  
+(Case of 4, 8 vehicles)  
+ 
+UM021 CH267  
+(Case of 12, Qty.,  4 per vehicle)  
+Additional chemical can be  
+ordered through Kia Chemicals.  
+Cleaning Kit  KQ234 C6200FFF  
+  
+1 All Components   
+For replacement kits and/or  
+components, contact Snap -On   
+ Business Solutions  
+M12 GDI Adaptor  KQ234  C6101FFF  
+ 4 N/A 
+M14 MPI Adaptor  KQ234 C6201FFF  
+ 4 N/A 
+Hose  KQ234  C6102FFF   2 N/A 
+Syringe and hose  KQ234  C6103FFF   2 N/A 
+Pressurization Adapter  KQ234  C6104FFF  
+ 1 N/A 
+Kit Case KQ234  C6105FFF  
+ 1 N/A 
+
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 10 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+‘LONG BLOCK’ REPLACEMENT MODELS:   
+MY Model  Engine  
+2012 -2016  Soul (AM/PS)  Gamma 1.6L GDI  
+2014 -2019  Soul (PS) , Cerato/ Forte (YD, YDm) , Optima HEV (JF HEV)  Nu 2.0L GDI  
+2011- 2020  Optima (QF, TF, JF, JFa) , Sportage (SL, QL) , Sorento (XMa, UMa)  Theta 2.0L T -GDI 
+and 2.4L GDI  
+2011- 2016  Optima HEV (TF HEV) , Sorrento (XMa) , Sportage (SL) , Cerato/Forte (TD)  Theta 2.4 MPI  
+ 
+>>> ALL OTHER  model vehicles  not listed above  are ‘SHORT BLOCK ’ replacement . 
+REQUIRED PART S: 
+REQUIRED PART: (NU 2.0L GDI ENGINE)   
+*FFF part may be shipped if FFFR is not available.  Part Name  Part Number  
+(Non -ISG) Part Number  
+(ISG) Figure  Qty. 
+Engine Long Block  
+(PS 14-16MY)  21101  2EG01FFFR 21101  2EG02FFF R 
+ 1 Engine Long Block  
+(PS 17-19MY)  21101  2EG03FFF R 21101  2EG04FFFR 
+Engine Long Block  
+(YD) 14MY: 21101 2EG10FFF/FFFR/FFFR  
+15~16MY: 21101 2EG11FFF/FFFR/FFFR  
+17~18MY: 21101 2EG12FFF/FFFR/FFFR  
+Engine Long Block  
+(YDm 17 -18MY ) 17~18MY: 21101  2EG17FFFR  
+Engine Long Block  
+(JF HEV ) 16~19MY: 21101  2EG20FFF  
+Fuel Tube  35305 2E510FFF  
+ 1 
+Part Name  Kit Part Number  Part Number  Description  Qty. 
+Engine  
+Service Kit   
+ 
+21111 2EG01FFF  26611 2E022  Rod Assy – Oil Level  1 
+28521 2E000  Gasket – Exhaust Manifold  1 
+28313 2E000  Gasket – Intake Manifold  1 
+35312 2G750  Injector O -ring Kit  
+(Combustion Seal Ring)  35312 2B11
+0 
+(Support Disc) 35312 2B111  
+(O-Ring) 35312 2B112  4 
+35309 2B110  Injector Clip  4 
+35313 2B110  Injector Washer  4 
+35322 2G700  High -Press. Pump O -ring 1 
+11405 06206K  High -Press. Pump Bolt  2 
+28751 2B300  Gasket - Front Muffler  1 
+13183 12000  Nut - Front Muffler  2 
+39250 2E000  Knock Sensor  1 
+11403 08306K  Bolt - Flange  1 
+25460 2E006  Pipe Assembly – Heater  1 
+25480 2E000  Hose Assembly – Heater  1 
+25456 2E100  Bolt – Washer Assembly  2 
+
+  Page 11 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+REQUIRED PART: (NU 2.0L MPI – ATK ENGINE)   
+*FFF part may be shipped if FFFR is not available.  
+*QQK part may be shipped if QQKR is not available.  Part Name  Part Number  Figure  Qty. 
+Engline Long Block 
+(SK3)  19~2 4MY: 21101 122ZRQQKR (M/T)  
+19~2 4MY: 21101 123ZRQQKR  (CVT)  
+ 1 
+Engline Long Block 
+(SP2) 20~2 4MY: 21101 126ZRQQKR  
+Engine  
+Service Kit  
+(SK3, SP2)  21102 N20AKQQK  
+ 1 
+REQUIRED PART: (THETA  2.4L MPI ENGINE)   
+ Part Name  Part Number  Figure  Qty. 
+Engine Long Block 
+(TF HEV)  11-12MY: 21101 2G406FFF  
+13-16MY: 21101 2G407FFF  
+ 1 Engine Long Block  
+(XMa)  11-13MY: 21101 2G404FFF  
+Engine Long Block  
+(SL) 11-13MY: 21101 2G401FFF  
+Engine Long Block  
+(TD) 10-13MY: 21101 2G402FFF  
+Fuel Tube  35305 2B000FFF  
+ 1 
+Engine Service KIT  
+(TF HEV)  21111 2G4S3FFF  
+ 1 
+Engine Service KIT  
+(XMa)  21111 2G4S2FFF  1 
+Engine Service KIT  
+(SL) ULEV: 21111 2G4S2FFF  
+SULEV: 21111 2G4S1FFF  1 
+Engine Service KIT  
+(TD) 21111 2G4S2FFF  1 
+
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 12 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+REQUIRED PART: (GAMMA  1.6L GDI ENGINE)  
+*FFF part may be shipped if FFFR is not available. Part Name  Part Number  
+(Non -ISG) Part Number  
+(ISG)  Figure  Qty. 
+Engine Long Block 
+(12-13MY)  21101 
+2BK01FFFR 21101 
+2BK02FFFR 
+ 1 
+Engine Long Block 
+(14-16MY)  21101 2BK03FFF R 
+Fuel Tube  35305 2B000FFF  
+ 1 
+Part Name  Kit Part Number  Part Number  Description  Qty. 
+Engine  
+Service Kit 1  
+ 
+21111 2BS01FFF  26611 2B611  Rod Assy – Oil Level  1 
+26612 2G601  Guide Assy – Oil Level   
+28521 2B400  Gasket – Exhaust Manifold  1 
+28411 2B600  Gasket – Intake Manifold  1 
+35312 2G750  Injector O -ring Kit  
+(Combustion Seal Ring)  
+35312 2B110  
+(Support Disc) 35312 2B111  
+(O-Ring) 35312 2B112  4 
+23124 2B020  Pulley - Damper  1 
+23127 2B700  Bolt – Crank Pulley  1 
+35313 2B110  Injector Washer  4 
+35322 2G700  High -Press. Pump O -ring 1 
+11405 06206K  High -Press. Pump Bolt  2 
+26614 2B000 O-RING  
+ (OIL LEVEL GUIDE)  1 
+Engine  
+Service Kit 2  
+ 
+21112 2BS01FFF  25452 2B000  Gasket – Heater Pipe  1 
+25457 2B000  Pipe – Heater 1 
+11403 08126K  Bolt – Flange  1 
+13396 06007K  Nut – Flange  2 
+21516 35010  Bolt – Flange (6X12)  1 
+25500 2B000 Thermostat Assy  1 
+25600 2B600  Control Assy – 
+ Water Te mp 1 
+25631 2B051  Fitting Assy – Water Inlet  1 
+11403 06207S  Bolt – Flange  3 
+13386 08007C  Nut – Flange  2 
+26300 35505  Filter Assy – Oil 1 
+39250 2B000 Knock Sensor  1 
+11403 08306K  Bolt - Flange  1 
+28751 2B200  Gasket – Front Muffler  1 
+13183 12000  Nut – Front Muffler  2 
+
+  Page 13 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+REQUIRED PART: (THETA  GDI ENGINES)  
+ Model  Description  Part Number  Figure  Qty. 
+ALL Engine Long Block 
+(see below)  Applicable P/N  
+(see below)  
+ 1 
+Model  Production Year  Part Number  Qty. 
+2.0L T -GDI 2.4L GDI  
+SL 
+11-13MY  21101 2GK07QQK R* N/A 
+1 TF 
+QF 21101 2GK07QQKR*  21101 2GK05QQKR*  
+XMa 12-13MY  
+N/A 21101 2GK09QQKR*  
+14MY (ULEV)  
+21101 2GK11QQKR*  
+14MY (SULEV)  
+UMa  15-17MY  
+21101 2GK32QQK R* 21101 2GK31QQK R* 
+18-20MY 21101 2GK33QQK R* 
+QF 14-15MY  21101 2GK08QQKR*  
+21101 2GK06QQK R* TF 14-15MY  N/A 
+SL 14-16MY  21101 2GK37QQK R* 21101 2GK36QQK R* 
+JF/JFa  16-20MY 21101 2GK32QQK R* 21101 2GK 34QQK R* 
+QL 17-20MY 21101 2GK39QQK R* 21101 2GK35QQK R* 
+Models  Description  Part Number  Figure  Qty. 
+ALL Oil Cooler  
+Tube Assembly  25470 2G050QQK ** 
+ 1 
+AT Drive Plate Bolts  23311 25050  
+ 7 
+ALL Service Kit I  
+  One (1)  
+per engine.  
+MY / Model  Description  Service Kits  
+Qty. 
+2.4 GDI  2.0 T -GDI 
+14-16MY (SL)  
+14-15MY (TF)  
+15MY (QF)  
+Service Kit I  21111 2GK50QQK 21111 2GK60QQK  
+1 12-
+15MY  XMa 21111 2GK50QQK  N/A 
+16-
+20MY JF 
+JFa 21111 2GK51QQK  21111 2GK52QQK  
+15-
+20MY UMa  21111 2GK51QQK  21111 2GK52QQK  
+17-
+20MY QL 21111 2GK51QQK  21111 2GK52QQK  
+
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 14 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+*QQK part may be shipped if QQKR is not available.  
+ **Oil Cooler Tube assembly replacement is conditional.    
+ALL Service Kit II  
+ One (1)  
+per engine.  
+MY / Model  Description  Service Kits  
+Qty. 
+2.4 GDI  2.0 T -GDI 
+14-16MY SL  
+14-15MY TF  
+15MY QF  
+Service Kit II  21111 2GK70QQK  
+1 12-
+15MY  XMa 21111 2GK70QQK  N/A 
+15-
+20MY UMa  
+21111 2GK71QQK  21111 2GK72QQK  17-
+20MY QL 
+16-
+20MY JF 
+JFa 
+ALL Drive Plate Bolts  
+ Req. 
+Qty. 7  
+per vehicle  23311 25050 (AT)  
+23231 25200 ( M/T) 
+ALL Oil Cooler Tube  
+Assembly  
+ Replace ment is 
+conditional  
+25470 2G050QQK  25470 2G650QQK  
+  Page 15 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY INFORMATION: NU 2.0L GDI (PS , YD, YDM, JF HEV ) 
+N Code : L21   C Code: ZZ1  
+Continued on page 16.  
+*FFF part may be shipped if FFFR is not available.  Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+W ALL Valve Stem 
+Seal 
+(Refer to 
+EPC)  
+0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21101F71  0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21101F73  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning + Vehicle In (2)  
+Engine Oil Replacement  
+(Request Svc Record)  21101F72  2.7 
+M/H  
+*UM020 CH26 5 
+ 
+0 
+ 
+*Engine Oil 
+Allowance  
+ 
+Vehicle In (3)  
+Oil Consumption Test #2  
+(Normal Consumption)  21101F73  0.6 
+M/H N/A 0 
+PS Piston Ring  
+(Refer to 
+EPC)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(14-16MY ) 
+21101F74  7.2 
+M/H 21101 
+2EG01FFFR 
+or 
+21101 
+2EG02FFF R 
+1 35305 
+2E510FFF  
+21111 2EG01FFF  
+Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(17-19MY ) 21101 
+2EG03FFF  
+or 
+21101 
+2EG04FFF  
+35305 
+2E510FFF  
+21111 2EG01FFF  
+26300 35505  
+21513 23001  
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 16 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+*FFF part may be shipped if FFFR is not available.   Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+W YD 
+Piston Ring  
+(Refer to 
+EPC)  0 Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(14MY)  
+21000F66  6.9 
+M/H 21101 
+2EG10FFFR*  1 
+35305 
+2E510FFF  1 
+21111 2EG01FFF  1 
+Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(15-16MY)  21101 
+2EG11FFFR*  1 
+35305 
+2E510FFF  1 
+21111 2EG01FFF  1 
+YDm Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(17-18MY)  21000F67 6.9 
+M/H 21101 
+2EG17FFFR*  1 
+35305 
+2E510FFF  1 
+21111 2EG01FFF  1 
+JF HEV  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(15-16MY)  21000F68  8.7 
+M/H 21101 
+2EG20FFFR*  1 
+35305 
+2E510FFF  1 
+21111 2EGA3FFF  1 
+  Page 17 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY INFORMATION: NU 2.0L MPI – ATK INSON  (SK3, SP2 ) 
+N Code : L21   C Code : ZZ1  
+ Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+W ALL Valve Stem 
+Seal 
+(Refer to 
+EPC)  0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21101F71  0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21101F73  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning + Vehicle In (2)  
+Engine Oil Replacement  
+(Request Svc Record)  21101F72  2.7 
+M/H  
+*UM020 CH26 5 
+ 
+0 
+ 
+*Engine Oil 
+Allowance  
+ 
+Vehicle In (3)  
+Oil Consumption Test #2  
+(Normal Consumption)  21101F73  0.6 
+M/H N/A 0 
+SK3 
+Piston Ring  
+(Refer to 
+EPC)  0 Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F71  7.5 21101  
+122ZRQQKR * 
+(M/T)  
+21101  
+123ZRQQKR * 
+(CVT)  1 
+21102 N20AKQQK  
+SP2 
+(FWD)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F72 6.8 21101 
+126ZRQQKR * 1 
+21102  N20AKQQK  
+(AWD)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F73 7.1 21101 
+126ZRQQKR * 1 
+21102  N20AKQQK  
+ALL SCC Calibration  
+(Add- On) 21000F03  0.5 N/A 0 
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 18 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+WARRANTY INFORMATION: GAMMA  1.6L GDI (AM)  
+N Code : L21   C Code : ZZ1  
+*FFF part may be shipped if FFFR is not available.  Claim 
+Type  Causal P/N  Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+W Valve Stem Seal  
+(Refer to EPC)  
+0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21101F75  0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21101F77  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning + Vehicle In (2)  
+Engine Oil Replacement  
+(Request Svc Record)  21101F76  2.5 
+M/H *UM020 CH26 5 
+0 *Engine Oil 
+Allowance  
+Vehicle In (3)  
+ Oil Consumption Test #2  
+(Normal Consumption)  
+(AM) 12 -13MY  21101F77  0.6 
+M/H N/A 0 
+Piston Ring  
+(Refer to EPC)  
+ Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(AM) 12 -13MY  21101F78  6.9 
+M/H 21101 2BK01FFF R or 
+21101 2BK02FFF R 
+1 35305 2B000FFF  
+21111 2BS01FFF  
+21112 2BS01FFF  
+26300 35505  
+21513 23001  
+  Page 19 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY INFORMATION: GAMMA  1.6L GDI (PS)  
+N Code : L21   C Code : ZZ1  
+*FFF part may be shipped if FFFR is not available.  
+Note : For fluids and other expenses refer to page  24. Claim 
+Type  Causal P/N  Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+W Valve Stem Seal  
+(Refer to EPC)  
+0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21101F79  0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21101F81  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning  21101F80  2.5 
+M/H *UM020 CH26 5 
+0 
+*Engine Oil 
+Allowance  
+Vehicle In (3)  
+Oil Consumption Test #2  
+(Normal Consumption)  
+(PS) 12 -13MY  21101F81  0.6 
+M/H N/A 0 
+Piston Ring  
+(Refer to EPC)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  
+(PS) 12 -13MY  21101F82  7.2 
+M/H 21101 2BK03FFF R 
+1 35305 2B000FFF  
+21111 2BS01FFF  
+21112 2BS01FFF  
+26300 35505  
+21513 23001  
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 20 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+WARRANTY INFORMATION: THETA  2.0L T -GDI (TF, QF, JF, JFA, SL, QL, UMA)  
+N Code : L21   C Code : ZZ1  
+*FFF part may be shipped if FFFR is not available.  Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W ALL Valve Stem 
+Seal 
+(Refer to 
+EPC)  
+0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21000F00 0.6 
+M/H *Engine Oil Allowance  0 
+Vehicle In (2) 
+Oil Consumption Test #1 
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning  21000F01  2.5 
+M/H *UM020 CH26 5 
+0 
+*Engine Oil Allowance  
+Vehicle In (3)  
+Oil Consumption  
+Test #2  
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+TF 
+Piston Ring  
+(Refer to 
+EPC)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F05  
+6.3 
+M/H 21101 2GK07QQKR  
+21101 2GK07QQKR***  
+21111 2GK60QQK  
+21111 2GK70QQK  
+23311 25050* (Qty. 7)  
+25470 2G650QQK**  
+1 QF 21000F07  (2011 -2013MY)  
+21101 2GK07QQKR***  
+(2014MY)  
+21101 2GK08QQKR***  
+21111 2GK60QQK  
+21111 2GK70QQK  
+23311 25050* (Qty. 7)  
+25470 2G650QQK**  
+JF 21000F09  
+6.8 
+M/H 21101 2GK32QQKR***  
+21111 2GK52QQK  
+21111 2GK72QQK  
+23311 25050* (Qty. 7)  
+25470 2G650QQK**  JFa 21000F11  
+SL 
+(FWD) 21000F13  6.2 
+M/H 21101 2GK37QQKR***  
+21111 2GK60QQK 
+21111 2GK70QQK 
+23311 25050* (Qty. 7) 
+25470 2G650QQK**  SL 
+(AWD)  21000F15  6.6 
+M/H 
+QL 
+(FWD) 21000F17  6.7 
+M/H 21101 2GK39QQKR  
+21111 2GK52QQK 21111 
+2GK72QQK 23311 
+25050* (Qty. 7) 25470 
+2G650QQK** QL 
+(AWD)  21000F19  7.1 
+M/H 
+UMa  
+(FWD) 21000F23  6.6 
+M/H 21101 2GK32QQKR***  
+21111 2GK52QQK  
+21111 2GK72QQK  
+23311 25050* (Qty. 7)  
+25470 2G650QQK**  UMa  
+(AWD)  21000F25  7.0 
+M/H 
+W ALL  0 SCC Calibration  
+(Add -On) 21000F03  0.5 
+M/H N/A 0 
+  Page 21 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY INFORMATION: THETA  2.4L GDI (TF, QF, JF, JFA, SL, QL, XMA, UMA)  
+N Code : L21   C Code : ZZ1  
+ 
+Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W ALL Valve Stem 
+Seal 
+(Refer to 
+EPC)  
+0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21000F00 0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning  21000F01  2.5 
+M/H *UM020 CH26 5 
+0 
+*Engine Oil 
+Allowance  
+Vehicle In (3)  
+Oil Consumption Test #2  
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+SCC Calibration  21000F03  0.5 
+M/H N/A 0 
+TF 
+Piston Ring  
+(Refer to 
+EPC)  Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F04  
+5.8 
+M/H (2011 -2013MY)  
+21101 
+2GK05QQKR***  
+(2014MY)  
+21101 
+2GK06QQKR***  
+21111 2GK50QQK 
+21111 2GK70QQK  
+23311 25050* (AT) 
+Qty.7  
+23231 25200* (MT) 
+Qty.7  
+25470 
+2G050QQK** 
+1 
+QF 21000F06  (2011 -2013MY)  
+21101 
+2GK05QQKR***  
+(2014MY)  
+21101 
+2GK06QQKR***  
+21111 2GK50QQK  
+21111 2GK70QQK  
+23311 25050* (AT) 
+Qty.7  
+23231 25200* (MT) 
+Qty.7  
+25470 
+2G050QQK** 
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 22 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+ 
+Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W JF 
+Piston Ring  
+(Refer to 
+EPC)  0 Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F08  
+5.9 
+M/H 21101 
+2GK34QQKR***  
+21111 2GK51QQK  
+21111 2GK71QQK  
+23311 25050* (Qty. 
+7) 
+25470 
+2G050QQK** 
+ JFa 21000F10 
+SL 
+(FWD)  21000F12  5.7 
+M/H 21101 
+2GK36QQKR***  
+21111 2GK50QQK  
+21111 2GK70QQK  
+23311 25050* (Qty. 
+7) 
+25470 
+2G050QQK** SL 
+(AWD)  21000F14  6.2 
+M/H 
+QL 
+(FWD)  21000F16  5.6 
+M/H 21101 
+2GK35QQKR***  
+21111 2GK51QQK  
+21111 2GK71QQK  
+23311 25050* (Qty. 
+7) 
+25470 
+2G050QQK** QL 
+(AWD)  21000F18  6.0 
+M/H 
+*QQK part may be shipped if QQKR is not available.  Claim 
+Type  Model  Causal P/N  Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W XMa 
+(FWD)  
+Piston Ring  
+(Refer to 
+EPC)  0 Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F20  5.6 
+M/H 21101 2GK11QQKR  
+21111 2GK50QQK 
+21111 2GK70QQK 
+23311 25050* (Qty. 
+7) 25470 
+2G050QQK** 
+1 XMa 
+(AWD)  21000F21  6.0 
+M/H 
+UMa  
+(FWD)  21000F22  5.8 
+M/H (2016 -2017MY)  
+21101 2GK31QQKR  
+(2018MY)  
+21101 2GK33QQKR  
+21111 2GK51QQK 
+21111 2GK71QQK 
+23311 25050* 
+(Qty.7)  
+25470 2G050QQK  UMa  
+(AWD)  21000F24  6.2 
+M/H 
+ALL SCC Calibration  
+(Add- On) 21000F03  0.5 
+M/H N/A 0 
+  Page 23 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY INFORMATION: THETA  2.4L MPI (TF  HEV , XMA, SL, TD ) 
+N Code : L21   C Code : ZZ1  
+ 
+Claim 
+Type  Model  Causal 
+P/N Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W ALL 
+Piston 
+Ring  
+(Refer to 
+EPC)  0 Vehicle In (1)  
+Engine Oil Top -Off 
+(Request Svc Record)  21000F00 0.6 
+M/H *Engine Oil 
+Allowance  0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+Vehicle In (2)  
+Oil Consumption Test #1 
+(Excessive Consumption)  
++Combustion Chamber 
+Cleaning  21000F01  2.5 
+M/H *UM020 CH267  
+0 *Engine Oil 
+Allowance  
+Vehicle In (3)  
+Oil Consumption Test #2  
+(Normal Consumption)  21000F02  0.6 
+M/H N/A 0 
+TF HEV 
+Vehicle In (3)  
+Oil Consumption Test #2  
++ Engine R&R  21000F75  8.2 
+M/H (11-12MY ) 
+21101 2G406 FFF  
+1 (13-16MY ) 
+21101 2G407 FFF  
+XMa 
+(FWD)  21000F76  5.4 
+M/H (11-13MY ) 
+21101  2G404FFF  
+21111  2G4S2FFF  
+XMa 
+(AWD)  21000F77 5.8 
+M/H (11-13MY ) 
+21101  2G404FFF  
+21111  2G4S2FFF  
+SL 
+(FWD)  21000F78  5.3 
+M/H (11-13MY ) 
+21101  2G401FFF 
+(ULEV ) 
+21111  2G4S2FFF  
+(SULEV ) 
+21111  2G4S1FFF  
+SL 
+(AWD)  21000F79  5.7 
+M/H (11-13M) 
+21101  2G401FFF 
+(ULEV ) 
+21111  2G4S2FFF  
+(SULEV )  
+21111  2G4S1FFF  
+TD 21000F80 6.4 
+M/H (10-13MY )  
+21101  2G402FFF  
+21111  2G4S2FFF  
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 24 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+‘SHORT BLOCK’ REPLACEMENT O NLY: 
+ 
+Claim 
+Type  Model  Causal 
+P/N Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W ALL Piston 
+Ring  
+(Refer to 
+EPC)  
+0 Vehicle In (1)  Engine Oil Top -
+Off (Request Svc Record)  21000F26  0.6 
+M/H *Engine Oil 
+Allowance  
+0 
+Vehicle In (2)  Oil 
+Consumption Test #1 
+(Normal Consumption)  21000F27  0.6 
+M/H N/A 
+Vehicle In (2)  Oil 
+Consumption Test #1 
+(Excessive Consumption)  
++ Combustion Chamber 
+Cleaning  
++  Vehicle In (2) Engine Oil  
+Replacement (Request Svc  
+record)  21000F28  
+2.5 
+M/H *UM020 CH267  
+0 
+21000F29  *Engine Oil 
+Allowance  
+Vehicle In (3)  Oil 
+Consumption Test #2  
+(Normal Consumption)  21000F30 0.6 
+M/H N/A 0 
+W BDm  
+(20-
+24MY) 
+ Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F34  10.7 
+M/H 
+Refer to EPC  
+(Gamma)  
+Short Block  
+1.6L MPI/GDI  
+1.6L T -GDI 1 DL3a 
+(21MY) 
+FWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F35  10.3 
+M/H 
+DL3a 
+(21MY) 
+AWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F59  10.6 
+M/H 
+JFa 
+(16-
+20MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F36  10.3 
+M/H 
+MQ4  
+PHEV  
+(21MY)  
+FWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F37 11.5 
+M/H 
+MQ4  
+PHEV  
+(21MY)  
+AWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F60 11.9 
+M/H 
+SC 
+(18-
+21MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F38  10.4 
+M/H 
+  Page 25 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+ 
+Claim 
+Type  Model  Causal 
+P/N Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W SP2 
+(21MY)  
+FWD 
+Piston 
+Ring  
+(Refer to 
+EPC)  0 Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F40 10.6 
+M/H 
+Refer to EPC  
+(Gamma)  
+Short Block  
+1.6L MPI/GDI  
+1.6L T -GDI  SP2 
+(21MY)  
+AWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F61  10.9 
+M/H 
+UB 
+(12-
+17MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F41  9.7 
+M/H 
+YD 
+(14-
+17MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F42  10.6 
+M/H 
+YDm 
+(17-
+18MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F43  10.6 
+M/H 
+PS 
+(17-
+19MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F65  10.2 
+M/H 
+AM 
+(12-
+13MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F44  9.9 
+M/H 
+Refer to EPC  
+(Nu) 
+Short Block Assy  
+2.0L MPI  1 BDm 
+(19-
+24MY) Vehicle In (3) Oil 
+Consumption Test #2 + 
+Engine R&R  21000F46  9.7 
+M/H 
+JF HEV 
+(16-
+20MY)  Vehicle In (3) Oil 
+Consumption Test #2 + 
+Engine R&R  21000F47 11.5 
+M/H 
+YD 
+(14-
+18MY)  Vehicle In (3) Oil 
+Consumption Test #2 + 
+Engine R&R  21000F50 9.8 
+M/H 
+YDm 
+(17-
+18MY)  Vehicle In (3) Oil 
+Consumption Test #2 + 
+Engine R&R  21000F51  9.8 
+M/H 
+EXCESSIVE OIL CONSUMPTION  - NU/GAMMA/THETA/KAPPA ENGINES  Page 26 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7)  Multiple Models December 2020  
+SUBJECT:  
+ 
+Claim 
+Type  Model  Causal 
+P/N Qty Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty 
+W CK 
+(18-
+21MY)  
+RWD 
+Piston 
+Ring  
+(Refer to 
+EPC)  0 Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F52  11.6 
+M/H 
+Refer to EPC  
+(Theta)  
+Short Block  
+2.0L/2.4L  
+2.0L T -GDI 1 CK 
+(18-
+21MY)  
+AWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F63  11.9 
+M/H 
+MQ4a  
+(21MY)  
+FWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F54  10.8 
+M/H 
+MQ4a  
+(21MY)  
+AWD Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F64  11.2 
+M/H 
+TD 
+(10-
+13MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F5 5 10.2 
+M/H 
+TF HEV  
+(11-
+16MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F5 6 12.3 
+M/H 
+UN 
+(09-
+10MY)  Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F57 10.1 
+M/H 
+DE HEV  
+(17-
+20MY)  0 Vehicle In (3) Oil 
+Consumption Test #2  + 
+Engine R&R  21000F58  11.3 
+M/H Refer to EPC  
+(Kappa)  
+Short Block  
+1.6L GDI  1 
+  Page 27 of 27 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: ENG222 (Rev 7) Multiple Models December 2020 
+EXCESSIVE OIL CONSUMPTION - NU/GAMMA/THETA/KAPPA ENGINES  
+ SUBJECT:  
+WARRANTY CLAIM INFORMATION APPENDIX  
+Note : Attach a copy of the entire RO using attachment type “XX -Other”.  
+ Expense 
+Description  Sublet code / Part Number  Expense policies and requirements  Sublet 
+Limit/Quantity  
+Engine Oil  Refer to Kia chemicals 
+program for synthetic oil 
+part numbers provided by 
+Kia. Refer to page 6 -7 of TSB for recommended TOTAL 
+engine oil products. Charge quantity needed for 
+“Oil Top -Off” or Oil change for engine replacement 
+according to technician repair comments.  5 QT max.  
+Cleaning Fluid  UM024 CH280  
+ 
+UM021 CH267  Refer to page 9 of TSB  Case of 4,  
+8 vehicles 
+ 
+Case of 12, 
+4 per vehicle  
+Engine Oil 
+Reimbursement  Sublet Code “X1”  Refer to page 6 -7 of TSB. If recommended product 
+is not used charge for other brand (see page 6 -7) 
+up to maximum allowance. For “Oil Top -Off”, 
+charge up to $7.50 per quart.   $50.00  for 
+engine R&R  
+ 
+$7.50  p/QT. for 
+engine oil top -off 
+Substitute 
+Transportation  Sublet Code “RX”  If necessary, for combustion cleaning and engine 
+R&R, follow normal service procedures according 
+to WCPM section 2.2.12 for rental/rideshare 
+expense reimbursement.  Refer to section  
+6.11 of SPPM  
+IMPORTANT: Claim Submission Information  
+ 
+• Confirm Warranty Coverage Validation (KDealer+).  
+• Engine replacement requires TL PWA with Oil Consumption results.  
+• Dealer repair order documentation must support the repair sequence per flowchart 
+• First visit  
+• Second visit  
+• Third visit  
+• Manually enter all warranty claim entries and expenses into each claim  
+• Provide clear and concise notes i.e. customer concern, cause, correction  
+• A copy of the entire RO is necessary for claim submission. Use attachment code “XX -Other”.  
+• Confirm claim totals prior to claim submission  
+ 
+For any questions pertaining to claim entry, please create a warranty web case for assistance prior to 
+claim submission.  
+   

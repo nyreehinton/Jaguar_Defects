@@ -1,0 +1,94 @@
+
+
+Vehicles with excessive water intrusion into the air system.  
+ 
+ 
+For vehicles with 480 -040 Wabco SS1200 dryer with excessive water intrusion 
+into the air system.  1. Ensure that the Pressure Controlled Check Valve (PCCV) is correctly 
+installed.  REF: module-871 for the relevant install to the vehicle. 
+  
+WAB434 100 310 0 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2. For vehicles with lower expected duty cycle of air system, replace 
+existing Wabco SS1200 dryer and add discharge line insulation per 131 -
+D70100. 
+ 
+
+ 
+ 
+ 
+DWG -----COMPONENT ITEM ------  -------ITEM DESCRIPTION----   ----QTY---- UM S 
+INL BEN476263328               TUBE- RFLT SLV,1.25",HTSHD          2.000 FT C  
+D00 D12-34582-000              INSTL -PP,DISCH,INSULATION,W            R EA A 
+TIE 23-13476-000               TIE-CLAMP,.5W,15L,4.13BUNDL        4.000 EA P 
+ 
+3. For vehicles with higher expected duty cycle of air system, remove 
+existing Wabco SS1200 air dryer and related discharge line and replace 
+with either Wabco HP dryer or Bendix AD9si back -of-cab and route new 
+discharge line.  
+ Example BOC air dryer spec: 480 -C16780 – WABCO HP  W/OC LHIB  
+DWG -----COMPONENT ITEM ------  -------ITEM DESCRIPTION----   ----QTY---- UM S 
+    D12-26761-002              DRYER(S) I/B LH BOC                    R EA C 
+A00 D12-33694-000              INSTL -DRYER,WABCO,BOC,IB               R EA C 
+B00 D12-33698-000              INSTL -DRYER,WABCO,LHIB,BOC             R EA C 
+R00 D15-04741-059              DRLG -REF 8,2 HOLE                      R EA C  
+R01 D15-04741-059              DRLG -REF 8,2 HOLE                      R EA C  
+DRY WAB432 480 145 0P          DRYER -AIR,WABCO SS HP,W/OC         1.000 EA C 
+BK1 12-33228-000               BRKT -DRYER,IB -BOC                  1.000 EA P  
+CMP 210502 000046              ELB -90,SAE 45D 12X08 MPT           1.000 EA C 
+WA1 23-09114-000               WASHER -HRDN,0.69X1.31X.177,        8.000 EA C  
+
+WA2 23-09114-003               WASHER -HRDN,0.53X1.06X.177,        3.000 EA C  
+BL2 23-09440-150               SCREW -CAP,HEX,1/2 -13,GR8PO         3.000 EA C 
+PLG 23-13848-001               PLUG -PIPE,HOLLOW HEX,1/2           1.000 EA P  
+FIR 23-14137-001               CABLE TIE- FIR TREE MOUNT,TY        1.000 EA C  
+BL1 23-14283-045               BOLT -HEX,PC10.9,PO,M16X1.5X        4.000 EA P  
+GOV 23-14396-002               ELB -90,1/4 PTC X 1/4 MPT           1.000 EA P 
+WET 23-14396-008               ELB -90,1/2 PTC X 1/2 MPT           1.000 EA P 
+NT1 23-14451-116               NUT -HEX,LKG,VLH BLU,M16X1.5        4.000 EA P 
+064 48-25811-020               TUBE -NYL 12,1/2",BLK,REINF        20.000 FT C  
+006 48-25855-030               TUBE -NYL 12,1/4",SILVER           20.000 FT P  
+BL2 49-00312-424               TRQ -BOLT,75NM,55FTLB,20PCT             R EA P 
+NT1 49-00312-555               TRQ -NUT,230NM,170FTLB,20PCT            R EA P 
+ 
+ 
+ 
+ 
+Example discharge line spec:  131-C21733 – DISCHARGE LINE DD13 LHIB  
+DWG -----COMPONENT ITEM ------  -------ITEM DESCRIPTION----   ----QTY---- UM S 
+WB1 A12-28712-014              HOSE ASSY -WIREBRAID,#12,HIT        1.000 EA P  
+WB2 A12-28712-072              HOSE ASSY -WIREBRAID,#12,HIT        1.000 EA P  
+IRP A12-31498-000              TUBE -DISCH,LH BOC INRL PIPE        1.000 EA C  
+DPE A12-32298-000              TUBE -DISCH,DD13,MSAC,LHBOC         1.000 EA C  
+C00 D12-26024-001              INSTL -DISCH,LH I/B BOC W/ G            R EA P 
+A00 D12-28127-001              INSTL -DISCH,ENG,FPT,DD13               R EA P 
+
+B00 D12-32364-000              INST -PP,DISCH,DD13,LHBOC,Z -            R EA C 
+R00 D15-04741-000              DRLG -REF 8,1 HOLE                      R EA P  
+BK1 12-25463-000               BRKT -R&C,INBD ZEE                  1.000 EA P  
+BKE 12-30561-000               BRKT -DISCH,43N,DD13,LHBOC          1.000 EA C  
+WS3 23-09114-000               WASHER -HRDN,0.69X1.31X.177,        2.000 EA C  
+CL2 23-09528-140               CLAMP-SUPPORT,.750 ID              1.000 EA P 
+TIE 23-09796-309               CLAMP -CABLE TIE,1 -3/4X8        AR 25.000 EA C 
+CMP 23-12866-001               ADPTR -1.06 45FTF TO M26 ORF        1.000 EA C 
+BL2 23-13345-020               SCRW HEX FLNG,M8X1.25X20,          1.000 EA P  
+BTE 23-13345-020               SCRW HEX FLNG,M8X1.25X20,          3.000 EA P  
+CL1 23-13824-000               CLAMP -HOSE,CUSHIONED,.75ID,        1.000 EA P 
+BL3 23-14067-040               BOLT -HEX,ZNAL,BK,M16X1.5X40        1.000 EA P  
+TRE 23-14137-000               CABLE TIE ASSY- FIR TREE MOU    AR 25.000 EA C 
+NT3 23-14451-116               NUT -HEX,LKG,VLH BLU,M16X1.5        1.000 EA P 
+INL 48-02159-094               TUBE -RBR,INS,1 1/8IDX1/2WL         2.000 FT C  
+NT3 49-00312-549               TRQ -NUT,200NM,148FTLB,20PCT            R EA P 
+NTE 913023 008003              NUT -HEX FLG,M8X1.25,PRVL TR        1.000 EA C 
+NT2 913023 008003              NUT -HEX FLG,M8X1.25,PRVL TR        1.000 EA C 
+ 
+ 
+ 
+ 
+ 

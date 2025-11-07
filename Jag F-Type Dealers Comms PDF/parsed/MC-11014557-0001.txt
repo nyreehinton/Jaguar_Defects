@@ -1,0 +1,489 @@
+ Issue Date: Feb. 13, 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ Repair Instruction of Cooling Fan M otor 
+Bolt Retightening 
+< GSX 800 >  
+©Suzuki Motor Corporation, 202 5. All rights reserved.  
+1 
+ Workflow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 1. Confirmation of Affected Vehicles  ································ ···· Page 2 
+1-1. V.I.N. Location  ································ ································ ············· Page 2 
+2. Cou ntermeasure Operations ··········································· Page 3  
+2-1. Required Tools  ························································· Page 3 
+2-2. Replacement Parts ···················································· Page 3 
+2-3. Countermeasure  ······················································· Page 4 
+2-4. Preparation  ······························································ Page 5  
+2-5. Unpacking ································································ Page 5  
+2-6. Cowling removal  ······················································· Page 8  
+2-7. Removal of Cooling Fan Assembly   ·························· Page 10 
+2-8.  Retightening of Cooling Fan Motor bolt   ···················· Page 12 
+2-9.  Installation of Cooling Fan Assembly   ······················· Page 12 
+2-10.  Installation of Cowling  ··········································· Page 14 
+2-11. Final inspection after the work   ································ Page 15 
+2-12.  Repacking  ···················································································· Page 15 
+2 
+ 1. Confirmation of Affected Vehicles  
+1-1. V.I.N. Location  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+V.I.N.  
+Location on box  
+GSX8 00 
+V.I.N.  
+Location on vehicle 
+3 
+ 2. Countermeasure Operations  
+2-1. Required Tools  
+Tool Name  Size, Special Tool Number  
+Electric impact wrench  - 
+T-type wrench  - 
+Ratchet Handle  - 
+Box wrench  10mm、12mm  
+Torque wrench  5.0N･m～12N･m 
+Joint (Extension bar)  L=75mm , L=150mm 
+Hexagon socket wrench  4mm、5mm  
+Phillips screwdriver  No.2 
+Box wrench ( Long type 55mm ) 10mm  
+Flat type Spatulas (Remover)  (To remove fastener)  
+Waste cloth  - 
+ 
+ 
+ 
+Special Tools (Shipped from SMC)  
+No. Part Number  Item Name  pieces / units  
+1 - Socket for Radiator Fan Motor Bolt tightening  1 
+2 - Rubber sheet  1 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+2-2. Replacement parts  
+No replacement parts for this repair  
+ 
+ 
+No.1  
+ No.2  
+4 
+ 2-3. Countermeasure  
+Retightening Cooling Fan Motor Bolt.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precautions  
+• When two people work together, confirm what to do next verbally each other for safety.  
+• Disassembled parts should be carefully stored so that they are not damaged until they are assembled 
+and organized so that they are not missing.  
+• Absolutely no fire allowed during the work.  
+• When handling flammable materials such as solvents and gasoline, be sure to ventilate and be careful of fire.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refer to the service manual and set -up manual for the details not mentioned in th e 
+instructions.  
+ 
+
+5 
+ 2-4. Preparation 
+   
+ 
+  
+ 
+ 
+(A): Packed vehicle  
+(B): Working space  
+ 
+SELF  PROTECTION  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+2-5. Unpackaging 
+1) Remove a band(A).  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE:  
+Reuse the band.  
+
+6 
+ 2) Remove the cardboard.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Remove the bolts (A) of the bracket and bracket  
+4) Remove the bolts of the top frame of packing frame and remove the top frame.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5) Remove the bolts of the packing frame and remove the front struts and side struts. 。 
+ 
+ 
+NOTE:  
+・Protect the vehicle to prevent from damages during unpacking work . 
+NOTE:  
+Reuse the c ardboard . 
+7 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2-6. Cowling removal  
+ 
+ NOTE:  
+・To carry out work simultaneously with two persons 
+(one person for each of left and right sides).  NOTE:  
+Put protective covers on edge of crate to prevent injury during repair work if necessary.  
+ 
+8 
+  
+ 
+1) Remove the fasteners (1).  
+2) Remove the fuel tank cover (2) in the direction of arrow.  
+ 
+ 
+         
+3) Remove the frame body cover assembly screws (1).  
+                 
+
+9 
+ 4) Remove the fastener (1).  
+ 
+         
+5) Pull the frame body cover assembly (1) 
+frontward to remove the frame body cover 
+assembly.  
+           
+Perform the same operation as described in 3 ) to 5 ) and remove the cowling on the opposite side.  
+ 
+            
+2. Hook -and-loop fastener  
+10 
+ 2-7. Removal of Cooling Fan Assembly  
+ 
+1) Disconnect the cooling fan motor coupler (1).  
+ 
+         
+2) Remove the radiator mounting bolts (2) and radiator lower bracket bolt (1).  
+3) Tilt the radiator body forward of the vehicle to open a space on the cooling fan side.  
+               
+NOTE:  
+・When removing the bracket bolt, the person on the opposite side 
+should support the radiator.  
+NOTE:  
+・The core of the radiator is easily deformed and damaged, so be careful 
+when working.  
+11 
+ 4) Insert  the rubber sheet  between the radiator 
+fan and the radiator  to prevent scratches on 
+the radiator fin as shown in the picture.  
+ 
+     
+5) Remove the cooling fan shroud bolts (2) and cooling fan shroud (4) from the radiator fan.  
+6) Remove the cooling fan assembly bolts (1) and cooling fan assembly (3) from the left side of the 
+vehicle. 
+ 
+            
+NOTE:  
+・The radiator fins are easily deformed and 
+scratched, so be careful when working.  
+NOTE:  
+・Loosen the cooling fan bolts while 
+supporting the cooling fan assembly with 
+your hands.  
+Rubber sheet  
+12 
+ 2-8.Retightening of Cooling Fan Motor bolt  
+ 
+1） Use the Socket for Radiator Fan Motor Bolt tightening to Retighten the Cooling Fan Motor bolt s (1). 
+ 
+Tightening torque(a)  
+5.0 N·m (0.51 kgf -m, 3.70 lbf- ft)  
+ 
+       
+  
+2-9. Installation of Cooling Fan Assembly  
+ 
+1) Install  cooling fan assembly  tighten the cooling fan assembly 
+mounting bolts (1) and cooling fan shroud bolts (2) to the 
+specified torque.  
+ 
+Tightening torque ( a ) 
+8.4 N·m (0.86 kgf -m, 6.20 lbf- ft) 
+Tightening torque( b ) 
+8.4 N·m (0.86 kgf -m, 6.20 lbf -ft) 
+     
+2) Remove the rubber sheet after  installing the cooling 
+fan. 
+     
+Rubber sheet  
+13 
+ 3) Tighten the radiator mounting bolts (2) and a radiator lower 
+bracket bolt (1) to the specified torque.  
+ 
+Tightening torque( a ) 
+10 N·m (1.0 kgf -m, 7.5 lbf -ft) 
+Tightening torque( b ) 
+5.5 N·m (0.56 kgf -m, 4.05 lbf -ft) 
+ 
+ 
+   
+4) Connect the cooling fan motor coupler (1).  
+5) After connecting the cooling fan motor coupler (1), 
+Check the connection by pulling the coupler lightly.  
+ 
+         
+ 
+        
+NOTE:  
+・To have a person on the opposite side support a 
+radiator when tightening a radiator lower bracket.  
+
+14 
+ 2-10.  Installation of Cowling 
+1) When installing the frame body cover assembly (1), first 
+insert the bracket of the radiator assembly (3) into the hook 
+of the frame body cover assembly (2).  
+ 
+      
+2) Install the fast eners (1). 
+            
+3) Tighten the frame body cover assembly (1) to the specified torque.  
+Tightening torque( a ) ( b ) 
+12 N·m (1.2 kgf -m, 9.0 lbf -ft) 
+Tightening torque ( c ) 
+6.0 N·m (0.61 kgf -m, 4.45 lbf -ft) 
+        
+Perform the same operation as described in 1 ) to 3 ) and install the cowling on the opposite side.  
+NOTE:  
+ ・Position the bracket (1) of the radiator inside the frame body cover assembly (2).  
+15 
+ 4) Install the fuel tank cover (2) in the direction of the arrow.  
+5) Install the fast eners (1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+2-11. Final inspection after the work  
+(1) Check that each part is securely set and tightened.  
+(2) Check each parts has no damage.  
+(3) Check the radiator core has no deformation or damage.  
+(4) Check the Cooling fan motor coupler  installed securely.  
+  
+ 
+2-12. Repacking  
+1) Repacking the vehicle with the inverse procedure of 2 -5. 
+ 
+ 
+  
+ 
+2) Check that cardboard box is set 
+securely.  
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE:  
+• Confirm that V.I.N. of the cardboard is matched the vehicle’s one.  
+• Restore all protective material after the work is done.  
+• Confirm that the box containing  parts is stored in the crate.  
+NOTE:  
+Align the vehicle with the illustration 
+on the cardboard.  

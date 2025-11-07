@@ -1,0 +1,70 @@
+1 
+ 
+ 
+ 
+Units : SR-3 Single Temperature T -90 
+Description : SR-3.1 Single Temperature Base Controller Software Revision D100 was 
+released in the 4th Quarter of 2024. This software is available from Thermo 
+King® e-Tech  Library.  
+Summary:  SR-3 base controller boards will be replaced by SR -3.1 base controller boards 
+due to obsolete components on the base controller. Form, fit, and function are the same as SR -3. SR -3.1 requires new software (D100) and is not backwards 
+compatible  with SR- 3. 
+Important:  D100 software can only be used on SR -3.1 base controller boards.  D100 will not 
+allow you to flash on a SR-3.0 board.  
+Base Controller Color Identification:  
+The Base Controller can easily be identified by the color of the board.  
+• SR-3 Base Controller (2024 and earlier) are colored Blue.  
+• SR-3.1 Base Controller (2024 and later) are colored Green.  
+ 
+Date:  January 14, 2025  
+Subject:  SR-3.1 Single Temperature Base Controller Software Revision D100  
+Location:  e-Tech Library    Service  Bulletin  
+  SB969 
+ 
+2 
+ Label Identification : 
+The Serial Number for SR -3 controllers (Blue) end  in “3T1”. The Serial Number for SR -3.1 
+controllers  (Green) end in “3R1” or “3R2”.  
+SR-3 Base Controller  
+ 
+SR-3.1 Base Controller  
+ 
+IMPORTANT: SR-3.1 Base Controller software D100 and HMI Control Panel software 75C8 and 
+above are both required for full feature availability.  
+IMPORTANT: Unless otherwise noted, software upgrades made to units with previous software 
+revisions are not covered by a warranty labor allowance. This upgrade is made at the discretion 
+of dealers and with the agreement of the unit owner or operator.  
+NOTE:  If an SR -3.1 controller with D100 is replacing an SR -2 controller, the SR -2 HMI (4 MB) 
+must be flashloaded with HMI software 68C4 to be compatible with D100.  
+WinTrac® and OptiSet® Plus Software Requirements:  
+SR-3 truck applications with D100 require WinTrac 6.12 or later.  
+Availability:  
+Base Controller software D100 and HMI Control Panel software 75C8 are available in e-Tech 
+Library.  
+• SR-3 Base Controller D 100 Software - The file name for the *.ZIP file containing both the 
+traditional .mXX and .cXX files and the *.FLA file is Micro Code D 100 Update for the SR -
+3.1  Single Temp Base Controller.zip. Click this file to download the software.  
+• HMI Control Panel 75C 8 Software - The file name for the *.ZIP file containing both the 
+traditional .mXX and .cXX files and the *.FLA file is Micro Code 75C 8 Update for the SR -
+3.1 HMI Control Panel.zip. Click this file to download the software.  
+When Base Controller and/or HMI Control Panel flashload files are downloaded from the Thermo 
+King e-Tech  Library, they are downloaded as a *.ZIP file. When flashload files for these SR -3.1 
+applications are unzipped, there will be three files.  
+• The traditional *.mXX and *.cXX files will be unzipped. These two files are for use when flashloading the SR -3 unit in the traditional manner by using a data cable to connect the 
+SR-3 unit to a computer equipped with WinTrac.  
+
+3 
+ NOTE:  Both the *.mXX and *.cXX files must be present in order to perform a flashload 
+using a data cable, even though only one of them is shown by WinTrac.  
+• A *.FLA file will also be unzipped. This file is for use when flashloading a unit using a 
+WinTrac configured USB Flash Drive. Refer to TT611 - FLA Files for SR- 3 Single 
+Temperature Units  for more information about using FLA files.  
+NOTE:  If the USB Flash Drive is used, the appropriate *.fla file must be placed on a 
+WinTrac  configured Flash Drive. The *.fla files must be placed in the appropriate folders 
+on the Flash Drive.  
+Flashloading:  
+For additional information on flashloading software using a computer, WinTrac, and a data cable, 
+refer to Service Procedure A46A  and Service Procedure A46B  of the SR -3 Truck Single Temp 
+Diagnostic Manual (TK 55208).  
+NOTE: T-90 units do not have a 4 pin to 5 pin Deutsch connector included. To connect to the 
+board, use a 4 pin to 5 pin Deutsch cable such as aftermarket PN 415484.  

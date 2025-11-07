@@ -1,0 +1,99 @@
+ 
+M254 Check engine light on - Limp-ho-
+me mode - P008700 Low fuel rail pressure
+Topic number LI07.70-P-078520
+Version 4
+Function group 07.70 - Gasoline injection and ignition system direct injec-
+tion
+Date 2/28/25
+Validity Passenger car with engine M254
+Without code ME10 plug-in hybrid vehicle
+Reason for change Remedy modified, 2023 GLC300 SW available
+Complaint
+Check engine light on. Engine in limp-home mode. Rough running.
+Low fuel rail pressure fault code P008700 stored in MRG2 control unit.
+Additional faults below may be stored in MRG2 control unit:
+Misfire- P030000, P030100, P030200, P030300, P030400, P030084, P030004
+Mixture adaptation- P217800 P218762, P017100, P017200, P217700
+Injector malfunction- P02EE00, P02EF00, P02F000, P02F100, P214601, P214901
+Cause
+Gas bubbles forming in low pressure fuel system due to fuel boiling.
+Remedy
+C300, CLE300, E350, GLC300 and GLE350
+-Check engine control unit N3/10 for software update.
+-Proceed with software update if new software version 2549032303, 2549032403, 2549032503 or 2549032603 are
+found.
+-Clear faults and check for any symptoms on road test
+early 2024 GLE350
+Check if symptom can be reproduced during normal drive cycle.
+-If reproducible, diagnose the cause of low pressure in fuel system.
+-If not reproducible, drain and refill fuel tank with top tier premium gasoline. Clear faults and check vehicle operation.
+03.03.2025   14:35   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 3
+ 
+Software solution release for remaining models/model years to prevent fuel boiling in low pressure system ETA in Q1
+2025.
+**Do not replace parts unless clear part malfunction is determined**
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Engine management  > Engine running  > Surges
+Power generation  > Engine management  > Engine running  > Runs rough/shakes
+Power generation  > Engine management  > Indicator lamp  > Engine diagnosis  > lit
+Power generation  > Engine management  > Engine performance  > No/poor output
+Control unit/fault code
+Control unit Fault text
+N3/10 - Motor electronics 'MRG2' for combustion engine
+'M254' (ME) (MRG2)P008700  - The fuel pressure in the system is too low. _
+P030400  - Combustion misfiring of cylinder 4 has been
+detected. _
+P030300  - Combustion misfiring of cylinder 3 has been
+detected. _
+P030200  - Combustion misfiring of cylinder 2 has been
+detected. _
+P030100  - Combustion misfiring of cylinder 1 has been
+detected. _
+P030084  - Combustion misfiring has been detected. The-
+re is a signal below the permissible limit value.
+P030004  - Combustion misfiring has been detected. The-
+re is an internal fault.
+P030000  - Combustion misfiring has been detected. _
+P218762  - The mixture (cylinder bank 1) is too lean at idle
+speed. The signal comparison is faulty.
+03.03.2025   14:35   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 3
+ 
+P017200  - The mixture (cylinder bank 1) is too rich. _
+P017100  - The mixture (cylinder bank 1) is too lean. _
+P217700  - The mixture (cylinder bank 1) is too lean in
+partial load operation. _
+P217800  - The mixture (cylinder bank 1) is too rich in par-
+tial load operation. _
+P02F100  - The fuel injector (cylinder 4) has a malfunction.
+_
+P02F000  - The fuel injector (cylinder 3) has a malfunction.
+_
+P02EF00  - The fuel injector (cylinder 2) has a malfunc-
+tion. _
+P02EE00  - The fuel injector (cylinder 1) has a malfunc-
+tion. _
+P214601  - The power supply of injector group 'A' has
+an electrical fault or an open circuit. There is a general
+electrical fault.
+P214901  - The power supply of injector group 'B' has
+an electrical fault or an open circuit. There is a general
+electrical fault.
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+03.03.2025   14:35   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 3

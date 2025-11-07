@@ -1,0 +1,73 @@
+Volvo Chassis - Hood Tilt Switch
+Interference Prevention Procedure
+With Extended Mounting Hardware -
+Model VAH And VHD
+ 
+Published 1 1 February 2025
+ 
+Valid For
+Volvo chassis - V AH and VHD models
+Model years - 2018 to current
+ 
+This CBR solution provides a step-by-step procedure for using longer Hood Tilt Switch
+mount screws and additional washers on Volvo Autohauler (VAH)  and Volvo Heavy
+Duty (VHD)  models. It is specifically designed for units equipped with bodybuilder
+applications  that enable remote start/stop functionality  outside the cab when the
+PTO (Power Take-Off)  is engaged.
+The Hood Tilt Switch  is a safety sensor  that disables remote start when the hood is
+opened or tilted.
+ 
+Required Parts
+ 
+Part Number Description QTY
+994847 Washer 4
+994785 6 Point Screw M6x16mm 2
+ 
+1. Park the V ehicle
+Ensure the vehicle is on a level surface.
+2. Apply the Parking Brake
+Engage the parking brake to prevent movement.
+3. Place Gear in Neutral
+Shift the gear lever to the neutral position.
+4. Install Wheel Chocks
+Place wheel chocks on both sides of the rear tires to stabilize the
+vehicle.
+5. Disconnect Battery
+Disconnect the battery cable from the negative terminal.
+6. Raise the Hood
+Unlatch and raise the hood for access to the hood tilt switch.Preview Solution CBR-2416-6
+;Live UI2/28/25, 10:12 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 1/3
+ 
+Replacement Procedure
+1. Replace Mount Screws
+Remove both existing mount screws that secure the hood tilt switch
+to the bracket. ( Ensure all bracket fasteners are present and
+securely tightened. )
+Replace them with longer screws to ensure a more secure and
+stable connection of the hood tilt switch to the bracket.     
+2. Add W ashers
+Insert additional washers between the hood tilt switch sensor and the
+bracket.
+The added washers are essential to prevent any potential signal
+interference with the switch magnet, ensuring proper functionality of
+the hood tilt switch.
+3. Final Check and T esting
+Confirm that all components, including the hood tilt switch, mount
+screws, and washers, are securely fastened.
+Test the hood tilt switch by attempting to initiate the remote start
+function with the hood open or tilted. The remote start should not
+function when the hood is tilted, as a safety measure.
+ 
+;Live UI2/28/25, 10:12 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 2/3
+ 
+Related links and attachments
+No links or attachments availableShare
+to others that might find it helpful
+Feedback
+Give feedback
+to help improve the content of this
+article
+;Live UI2/28/25, 10:12 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivity… 3/3

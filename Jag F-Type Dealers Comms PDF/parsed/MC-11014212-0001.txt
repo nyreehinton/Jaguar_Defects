@@ -1,0 +1,432 @@
+Original Publication Dat e: January  30, 2025 
+© 20 24 Toyota Motor Sales, USA  
+Certain 2023 – 2024 Corolla HV Models  
+Certain 2023 Prius Models  
+Certain 2023 -2024 Prius Prime Models  
+Fuel Tank Filler Clamp and Vapor Leak Detection  
+Model / Years  Production Period  Approximate Total Vehicles  
+2023 – 2024 Corolla HV  Late May 2022 – Early September 
+2024  43,900  
+2023 Prius  Early October 2022 – Early 
+September 2023  21,300  
+2023- 2024 Prius Prime  Early October 2022 – Early 
+October 2023  5,600  
+Condition  
+In the subject vehicles, the vapor leak detection monitor system may not detect  
+a vapor leak from the fuel filler cap  and illuminate the malfunction indicator 
+lamp (MIL).   If fuel vapor leaks from the filler cap, it is possible that there could 
+be a fuel smell.   
+Remedy   
+For Prius and Corolla HV vehicles, Toyota dealers will install a Fuel Tank Clamp 
+FREE OF CHARGE.  
+For Prius Prime Vehicles, Toyota dealers will recalibrate the Engine Control 
+computer  FREE OF CHARGE . SPECIAL SERV ICE CAMPAIGN 24TC08  (Remedy Notice)  
+Tech Requirements  
+TIC206A – Electrical Repair 1  
+Inspection/ Repair Time  
+Repair: 1.0 – 2.0 
+Parts Control at Launch 
+CPOR  
+Parts Replacement Rate  
+100%  
+Owner Notiﬁcation Date  
+February  2025 
+Salvaged Title Eligible  
+YES 
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents  
+ 
+ 
+Owner Notiﬁcation  
+ 
+Mail  
+Toyota will notify owners by February 2025 . A sample of the owner notiﬁcation letter has been included for 
+your reference.  
+ Head Unit Notiﬁcation   
+Vehicle Head unit notiﬁcations will  begin in February 2025.    
+ Toyota App  
+Vehicles involved in this Special Service Campaign will be visible in the Toyota App at time of announcement.  
+ 
+Media Contacts  
+It is imperative that all media contacts (local and national) receive a consistent message. In this regard, all media contacts must be directed to the Toyota Newsroom https://pressroom.toyota.com/
+   
+ 
+ 
+  
+ 
+ 
+  
+Service Department  ................................ ................................ ................................ ................................ ..... 3 
+Parts Department  ................................ ................................ ................................ ................................ ........  5 
+Sales Department  ................................ ................................ ................................ ................................ ........  6 
+Frequently Asked Questions  ................................ ................................ ................................ ........................  6 
+Policy and Procedures  
+ 
+ 
+ 
+ 
+  Special Service Campaign  Contents  
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents   
+Warranty Reimbursement Procedure  
+ 
+ 
+ 
+Op Code  Description  Flat Rate Hours  
+24TC08R1  Install Fuel Tank Filler Clamp  1.7 
+24TC08R2  Recalibrate the Engine Control 
+Computer (Prius Prime Only)  0.7 
+  
+• The flat rate times include 0.1 hours for administrative cost per unit for the dealership.  
+ 
+Salvage Title Vehicles  
+ 
+Service Department  
+ 
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents  Every attempt should be made to complete an open Special Service Campaign when circumstances permit, 
+unless noted otherwise in the SSC dealer letter.  
+For complete details on this policy, refer to Toyota Warranty Policy 4.17 , “What Is Not Covered by The Toyota 
+New Vehicle Limited Warranty” .  
+ 
+Remedy Procedures  
+Refer to TIS for Technical Instructions on repair. Conduct all non- completed Safety Recalls and Service 
+Campaigns on the vehicle during the time of appointment.  
+Repair Quality Conﬁrmation  
+The repair quality of covered vehicles is extremely important to Toyota. To help ensure that all vehicles have the repair performed correctly, please designate at least one associate (someone other than the individual who performed the repair) to verify th e repair quality of every vehicle prior to customer delivery.  
+ 
+Emission s Repair Procedures for California Dealers   
+As this Special Service Campaign  includes emission related parts, California dealers are requested to ﬁll out 
+the Vehicle Emissions Recall –  Proof of Correction form and aﬃx an Authorized Modiﬁcation Label to the 
+vehicle after repairs have been completed.  
+ 
+The vehicle owner may require th e Proof of Correction  form for vehicle 
+registration renewal. It is important to note that the forms are an 
+oﬃcial state document and blank forms must be secured to prevent 
+misuse.  
+Please complete the form and provide it to the owner. The ﬁrst non -
+completed VINs will be submitted to the California state DMV by  early  
+July 2025. I f the vehicle owner’s warranty claim will not be processed and paid prior to this date, please be 
+sure to complete a form and provide it to a California owner.  
+ 
+ 
+Install the Authorized Modiﬁcations Label  after the repairs have 
+been completed. Using a permanent marker,  ﬁll out the label 
+and aﬃx it to the location under the hood as indicted.  
+  Form b ooklets and Authorization Labels can be ordered from the 
+MDC ( Booklet material number 00410- 92007 , Label material 
+number 00451 -00001 -LBL ). 
+Salvage Title Vehicles  
+
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents  Every attempt should be made to complete an open Special Service Campaign when circumstances permit, 
+unless noted otherwise in the SSC dealer letter.  
+ 
+Technician Training Requirements  
+The repair quality of covered vehicles is extremely important to Toyota. All dealership technicians performing 
+this repair are required to successfully complete the most current version of the E- Learning course “Safety 
+Recall and Service Campaign Essential s”. To ensure that all vehicles have the repair performed correctly; 
+technicians performing this repair are required to have completed the following course s. 
+ 
+• TIC206A -  Electrical Repair 1  
+ 
+Customer Reimbursement  
+Reimbursement consideration instructions will be included in the owner letter.  
+ 
+ 
+ 
+Parts Information  
+At the time of launch, p arts for this campaig n can be ordered in Campaign Part Order Request (CPOR) on 
+Service Lane, or are on Manual Allocation Control (MAC) d ue to potential limited part availability. Please check 
+the CPOR/MAC report on Dealer Daily for the most up -to-date parts ordering information  as part controls can 
+be adjusted throughout the life of the campaign.  
+ 
+Dealers can identify which parts ordering method to use by reviewing the parts information section of Dealer Daily and checking for a MAC code on the part numbers below.  For MAC code C, order through CPOR.  For 
+MAC code D, refer to the MAC report for furt her instructions.   
+ 
+Part Number  Description  Quantity  
+04004 -33147  FUEL TANK CLAMP SET  1* 
+*Prius Prime vehicles DO NOT  require parts.  Refer to the technical instructions for more details.  
+ 
+   
+Parts Department  
+ 
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents   
+ 
+ 
+• Dealers can identify if any of their new and used inventory has any open campaigns in the Vehicle Inventory 
+Summary available in Dealer Daily ( Non SET  and GST dealers:  https://dealerdaily.toyota.com/ ). The 
+Vehicle Inventory Summary may take up to 4 hours to populate information for newly launched campaigns.  
+ 
+Policy for New Vehicles, TCUV, Pre -Owned Vehicles and Rent a Toyota    
+ 
+ 
+Frequently Asked Questions  
+ 
+Q1: What is the condition?  
+A1: In the subject vehicles, the vapor leak detection monitor system may not detect a vapor leak from the 
+fuel filler cap and illuminate the malfunction indicator lamp (MIL).  If fuel vapor leaks from the filler 
+cap, it is possible that there could be a fuel s mell.   
+ 
+Q1a:  Are there any symptoms of this condition?  
+A1a:  If the condition exists, a fuel smell may be present from the rear of the vehicle.  
+ 
+Q2: What is Toyota going to do?  
+A2: Toyota will send an owner notification by first class mail startin g in mid -December 2024,  advising 
+owners to make an appointment with their authorized Toyota dealer for a free repair. For Prius  Prime 
+vehicles Toyota dealers will recalibrate the Engine Control computer FREE OF CHARGE . For Corolla HV 
+and Prius vehicles Toyota dealers will install a fuel tank clamp FREE OF CHARGE . 
+ 
+NOTE (Customers who live in the state of California)   
+The state of California requires the completion of Safety Recalls / Service Campaigns on emission 
+related parts prior to vehicle registration renewal. In addition, the State requires that every vehicle 
+must pass an emission test (SMOG Check) every two year s and before it is sold. Without the completion 
+of this FREE  Special Service Campaign, the California Air Resources Board (CARB) will not allow your 
+vehicle to be registered. State of California Regulations require Toyota to provide the Department of Motor  Vehicles with a record of all vehicles that have not had the Special Service Campaign completed.  
+ 
+Your Toyota dealer will provide you with a Vehicle Emissions Recall Proof of Correction Form after the 
+campaign has been completed. Please ensure you retain this form, because the DMV may require that 
+you supply proof that the campaign has been completed during your vehicle registration renewal 
+process.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Sales Department  
+ 
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents  Q3: Which and how many vehicles are covered by this Special Service Campaign?  
+A3: There are approximately 70,700 vehicles covered by this Special Service Campaign.  
+ 
+Model Name  Model Year  Production Period  
+Corolla HV  2023 – 2024  Late May 2022 – Early September 2024  
+Prius  2023  Early October 2022 – Early September 2023  
+Prius Prime  2023 -2024  Early October 2022 – Early October 2023  
+ 
+Q4: How long will the repair take?  
+A4: The repair takes approximate ly one and a half hours  for Corolla HV and Prius vehicles, and one hour 
+for Prius Prime vehicles . How ever, depending upon the dealer’s work schedule, it may be necessary to 
+make the vehicle available for a longer period of time.  
+ 
+Q5: What if I previously paid for repairs related to this Special Service Campaign?  
+A5: Reimbursement consideration instructions will be provided in the owner letter.  
+ 
+Q6: How does Toyota obtain my mailing information?  
+A6: Toyota uses an industry provider who works with each state’s Department of Motor Vehicles (DMV) to 
+receive registration or title information, based upon the DMV records. Please make sure your 
+registration or title information is correct.  
+ 
+Q7: What if I have additional questions or concerns?  
+A7: If you have additional questions or concerns, please contact the Toyota Brand Engagement Center (1 -
+888-270-9371) - Monday through Friday, 8:00 am to 8:00 pm, Saturday 9:00 am to 7:00 pm Eastern 
+Time.  
+ 
+Policies And Procedures   
+ 
+ 
+Used Vehicles in Dealership Inventory ( In-Stock Vehicles)  
+To ensure customer satisfaction, Toyota requests that dealers complete this Emission Recall on any new or 
+used vehicles currently in dealer inventory that are covered by this Emission Recall prior to customer delivery. 
+However, if the campaign cannot be co mpleted (for example, due to remedy parts availability), delivery of a 
+covered vehicle is acceptable if disclosed to the customer that the vehicle is involved in an Emission  Recall.  
+ 
+Toyota expects dealers to visit https://toyota -recall -disclosure.imagespm.info/  and complete a  Customer 
+Contact and Vehicle Disclosure Form. Dealers are expected to provide a copy of the completed form, along 
+with the most current FAQ, to the vehicle buyer. Toyota and the dealer may use this information to contact the customer when the remedy becom es available. Keep the completed form on ﬁle at the dealership.  
+ 
+NOTE:  Dealers can identify if any of their new and used inventory has any open campaigns in the Vehicle 
+Inventory Summary available in Dealer Daily ( Non SET and GST dealers:  https://dealerdaily.toyota.com/ ). The 
+Vehicle Inventory Summary may take up to 4 hours to populate information for newly launched campaigns.  
+ 
+ 
+Toyota Certified Used Vehicle (TCUV)  
+The TCUV policy prohibits the certification of any vehicle with an outstanding Safety Recall, Special Service 
+© 20 24 Toyota Motor Sales, USA  
+Back to Contents  Campaign, or Limited Service Campaign.  Thus, no affected units are to be designated, sold, or delivered as 
+a TCUV until all applicable Safety Recalls, Special Service Campaigns, and Limited Service Campaigns have 
+been completed on that vehicle.  
+ 
+Claim Filing Accuracy and Correction Requests  
+It is the dealer’s responsibility to ﬁle claims correctly for this Special Service Campaign. This claim ﬁling 
+information is used by Toyota for various government reporting activities; therefore, claim ﬁling accuracy is crucial. If it has been identiﬁe d that a claim has been ﬁled using an incorrect Op Code or a claim has been 
+ﬁled for an incorrect VIN, refer to Warranty Procedure Bulletin PRO17 -03 to correct the claim.  
+Parts Recovery  Procedures  
+All parts replaced as part of this Safety Recall must be turned over to the parts department until appropriate disposition is determined. The parts department must retain these parts until notiﬁcation via the Parts 
+Recovery System (PRS) is received indica ting whether to ship or scrap the parts. These parts are utilized by 
+various departments for defect analysis, quality control analysis, product evaluation, as well as other 
+purposes.  
+ 
+To help minimize dealer storage challenges, Toyota recommends that dealers:  
+• File the campaign claim accurately and promptly. The time a dealer is required to hold parts is based on 
+when the campaign claim is paid by Toyota.  
+• Monitor the Warranty Parts Recovery Notifications and Part Scrap Report regularly.  
+ 
+Refer to Warranty Policies 9.3 and 9.6  for additional details.  
+ 
+Customer Reimbursement  
+Reimbursement consideration instructions will be included in the owner letter.  
+ 
+TOYOTA  
+  
+Certain 2023 -2024 Corolla HV Models  
+Certain 2023 Prius Models  
+Fuel Tank Filler Clamp and Vapor Leak Detection  
+Special Service Campa ign (Remedy No tice)  
+ 
+[VIN]  
+ 
+Dear Toyota  Customer:  
+ At Toyota, we are dedicated to providing vehicles of outstanding quality and value. As part of our continuing efforts to provide superior customer satisfaction, Toyota is announc ing a Special Service Campaign , whic h 
+includes your vehicle.  
+ You received this notice because our records, which are based primarily on state registration and title data, indicate that you are the current owner.  
+ 
+What is the condition?  
+In the subject vehicles, the vapor leak detection monitor system may not detect a vapor leak from the fuel filler cap and illuminate the malfunction indicator lamp (MIL).  If fuel vapor leaks from the filler cap, it is possible that there could be a fuel s mell.  
+ 
+What will Toyota do?  
+Toyota dealers will install a Fuel Tank Clamp FREE OF CHARGE.   
+ 
+What should you do?  
+ Before you are inconvenienced by this condition, any authorized Toyota dealer wil l install a Fuel Tank 
+Clamp FREE OF CHARGE  to you.  
+ 
+The remedy will require parts replacement. Please contact your dealer to schedule an appointment in 
+advance to confirm parts availability and minimize your inconvenience. If possible, please bring your 
+vehicle to the dealership with ¼ tank of fuel or less .  
+ 
+ 
+The remedy will take approximately 2 hour s. However, depending on the dealer’s work schedule, it may 
+be necessary to make your vehicle available for a longer period of time.  
+ 
+ 
+What if you live in California and don’t have this Special Service Campaign performed?   
+The state of California requires the completion of Safety Recalls / Service Campaigns on emission related parts prior to vehicle registration renewal. In addition, the State requires that every vehicle must pass an emission test (SMOG Check) every two year s and before it is sold. Without the completion of this 
+NO CHARGE  Special 
+Service Campaign the California Air Resources Board (CARB) will not allow your vehicle to be registered. State of California Regulations require Toyota to provide the Department of Motor Vehicles with a record of all vehicles that have not had the  Special Service Campaign completed.  
+ 
+SAMPLE
+Your Toyota dealer will provide you with a Vehicle Emissions Recall Proof of Correction Form after the 
+campaign has been completed. Please ensure you retain this form, because the DMV may require that you 
+supply proof that the campaign has been completed d uring your vehicle registration renewal process. 
+ 
+What if you have previously paid for repairs to your vehicle for this specific condition?  
+If you have previously paid for repair(s) to your vehicle for this specific condition prior to receiving this letter, you may be eligible for reimbursement. For reimbursement consideration, please submit a copy of your repair  
+details (for example: a repair order),  proof- of-payment, and ownership information to Toyota’s online, self -
+service portal. Log- in to your Toyota Owners account at https:/www.toyota.com/owners/
+, click on the 
+“Resources” tab, select “Safety Recalls and Service Campaigns”, and click on “Submit Reimbursement 
+Request”.  
+ 
+Alternatively, if you prefer to mail or fax this information for reimbursement consideration, please use the address or fax number shown below:  
+ 
+Toyota Customer Experience Center - TSR  
+Toyota Motor Sales, USA, Inc.  
+c/o Toyota Motor North America, Inc.  
+P O Box 259001 – SSC/CSP Reimbursements  
+Plano, Texas 75025- 9001  
+ 
+FAX:  310-381-7756  
+Please refer to the attached Reimbursement Checklist for required documentation details.  
+ 
+What if you have other questions?  
+ 
+• Your local  Toyota dealer  will be more than happy to answer any of your questions.  
+• For more information on this and other campaigns, please visit www.toyota/recall .   
+ If you require further assistance, you may contact the Toyota Brand Engagement Center (1 -888- 270-
+9371) – Monday  through Friday, 8:00am to 8:00pm, Saturday 9:00 am to 7:00pm Eastern Time.  
+ If you would like to update your vehicle ownership or contact information, please visit  
+https://www.toyota.com/recall/update -info-toyota
+. You will need your full 17 -digit Vehicle Identification 
+Number (VIN) to input the new information.  
+ 
+If you are a vehicle lessor, please assist us by forwar ding this notice to the lessee.  
+ 
+We have sent this notice in the interest of your continued satisfaction with our products, and we sincerely regret any inconvenience this condition may have caused you.  
+ Thank you for driving a Toyota . 
+ Sincerely,  
+ 
+TOYOTA MOTOR SALES, U.S.A., INC.  
+SAMPLE
+TOYOTA  
+  
+Certain 2023 -2024 Prius Prime Models  
+Fuel Tank Filler Clamp and Vapor Leak Detection  
+Special Service Campaign (Remedy Notice)  
+ 
+[VIN]  
+ 
+Dear Toyota  Customer:  
+ 
+At Toyota, we are dedicated to providing vehicles of outstanding quality and value. As part of our continuing efforts to provide superior customer satisfaction, Toyota is announcing a Special Service Campaign, which 
+includes your vehicle.  
+ 
+You received this notice because our records, which are based primarily on state registration and title data, indicate that you are the current owner.  
+ 
+What is the condition?  
+In the subject vehicles, the vapor leak detection monitor system may not detect a vapor leak from the fuel filler cap and illuminate the malfunction indicator lamp (MIL).  If fuel vapor leaks from the filler cap, it is possible 
+that there could be a fuel smell.  
+ 
+What will Toyota do?  
+ Toyota dealers will recalibrate the Engine Control computer FREE OF CHARGE .  
+ 
+ 
+What should you do?  
+ Before you are inconvenienced by this condition, any authorized Toyota dealer will perform the software 
+update FREE OF CHARGE  to you.  
+  
+Please contact your authorized Toyota dealer to make an appointment to have the Engine Control 
+Computer recalibrated. The remedy will take approximately 1 hour.  However, depending on the dealer’s 
+work schedule, it may be necessary to make your vehicle available for a longer period of time.  
+ 
+ 
+What if you live in California and don’t have this Special Service Campaign performed?   
+The state of California requires the completion of Safety Recalls / Service Campaigns on emission related parts prior to vehicle registration renewal. In addition, the State requires that every vehicle must pass an emission 
+test (SMOG Check) every two year s and before it is sold. Without the completion of this 
+NO CHARGE  Special 
+Service Campaign the California Air Resources Board (CARB) will not allow your vehicle to be registered. State 
+of California Regulations require Toyota to provide the Department of M otor Vehicles with a record of all 
+vehicles that have not had the Special Service Campaign completed.  
+ 
+Your Toyota dealer will provide you with a Vehicle Emissions Recall Proof of Correction Form after the 
+campaign has been completed. Please ensure you retain this form, because the DMV may require that you supply proof that the campaign has been completed d uring your vehicle registration renewal process. 
+SAMPLE
+ 
+What if you have previously paid for repairs to your vehicle for this specific condition?  
+If you have previously paid for repair(s) to your vehicle for this specific condition prior to receiving this letter, 
+you may be eligible for reimbursement. For reimbursement consideration, please submit a copy of your repair  
+details (for example: a repair order),  proof- of-payment, and ownership information to Toyota’s online, self -
+service portal. Log- in to your Toyota Owners account at https:/www.toyota.com/owners/ , click on the 
+“Resources” tab, select “Safety Recalls and Service Campaigns”, and click on “Submit Reimbursement 
+Request”.  
+ Alternatively, if you prefer to mail or fax this information for reimbursement consideration, please use the address or fax number shown below:  
+ Toyota Customer Experience Center - TSR  
+Toyota Motor Sales, USA, Inc.  
+c/o Toyota Motor North America, Inc.  
+P O Box 259001 – SSC/CSP Reimbursements  
+Plano, Texas 75025- 9001  
+ 
+FAX:  310-381-7756  
+ Please refer to the attached Reimbursement Checklist for required documentation details.  
+ 
+What if you have other questions?  
+ 
+• Your local  Toyota dealer  will be more than happy to answer any of your questions.  
+• For more information on this and other campaigns, please visit www.toyota/recall .   
+ If you require further assistance, you may contact the Toyota Brand Engagement Center (1 -888- 270-
+9371) – Monday  through Friday, 8:00am to 8:00pm, Saturday 9:00 am to 7:00pm Eastern Time.  
+ If you would like to update your vehicle ownership or contact information, please visit  
+https://www.toyota.com/recall/update -info-toyota
+. You will need your full 17 -digit Vehicle Identification 
+Number (VIN) to input the new information.  
+ 
+If you are a vehicle lessor, please assist us by forwarding this notice to the lessee.  
+ We have sent this notice in the interest of your continued satisfaction with our products, and we sincerely regret any inconvenience this condition may have caused you.  
+ Thank you for driving a Toyota . 
+ Sincerely,  
+ TOYOTA MOTOR SALES, U.S.A., INC.  
+ 
+SAMPLE

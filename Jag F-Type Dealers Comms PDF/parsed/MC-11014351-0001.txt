@@ -1,0 +1,1392 @@
+THIS ITS DOCUMENT SHOULD BE RETAINED AND REFERRED TO FOR FUTURE MAINTENANCE UNTIL 
+THE NEW FLYER PARTS AND/OR SERVICE MANUAL IS UPDATED TO REFLECT WORK DONE AS A 
+RESULT OF THIS DOCUMENT. ENSURE THAT THIS DOCUMENT IS AVAILABLE FOR PARTS AND 
+MAINTENANCE STAFF GOING FORWARD.  
+ 
+ 
+  
+This document and the contents discussed herein are the confidential and proprietary information of New Flyer Industries Cana da 
+ULC and New Flyer of America Inc. and are disclosed by New Flyer in confidence. This document and the contents herein are not  
+to be disclosed by the intended recipient without the prior written authorization of New Flyer. Any unauthorized disclosure, 
+reproduction or other distribution of this document or information strictly prohibited and may result in action being taken a gainst 
+the party making the unauthorized disclosure. This document and all copies hereof must be returned to New Flyer upon request.    
+INSTRUCTION TO SERVICE  
+ 
+ITS: 61261 02/05/2025  
+SECTION:  260-Battery Compartment  
+SUBJECT:  Off-site vendor update of ESS packs  
+ISSUE:  Internal component upgrade by supplier.  
+SUMMARY : Remove battery enclosure, ship to supplier for rework, replace with updated 
+reworked enclosure . 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ITS-61261 
+ 
+ 
+Ref. NHTSA Recall No.  Ref. Transport Canada Recall No.  
+Not Applicable  Not Applicable  
+  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 2 02/05/2025 
+Warning  
+•Exposure to high voltages from a large modules or packs can cause shock,   
+burns or even death.  
+•The high voltage components in a large module or pack can only be serviced by 
+technicians with special high voltage training.  
+• Follow all necessary precautions before working on them.  
+• Always assume voltage is present on high voltage  
+cables until you have verified voltage has been removed.  
+ 
+Equipment Calibration  
+All test equipment must be within their calibration interval and recorded such with the respective serial numbers. 
+These records must be available to the Checker.  
+ 
+Personnel Requirement  
+Only trained personnel shall supervise and perform High Voltage system rework , and troubleshooting. Two 
+personnel shall perform rework  Procedures, together, to ensure safety of themselves, others nearby & for the 
+protection of vehicle & property. Refresher training shall be provided to these personnel on a regular basis and 
+when new systems are to be checked by them. The training of the personnel shall consist of:  
+HV & low voltage basics, intermediate & advanced electricity  
+HV & low voltage electrical systems of the vehicle  
+Shop safety practices & procedures  
+First aide including CPR & the use of the shop defibrillator  
+How to release a victim that can’t let go HV  
+Quickest method of shutting down HV  
+Firefighting and emergency procedures  
+HV & arc flash safety  
+Organized & tidy placement of equipment & tools allowing for  unrestricted movement  
+Operation of Hi -pot 
+ 
+To ensure effectiveness of training, exams of the trained material shall be required with a high passing mark of at 
+least 80% and a retraining of the missed 20 % on a one-to-one basis.  
+ 
+(Caution: The employee completing the rework  must not have any health conditions that can be exacerbated 
+when startled and must not have any electronic implants.)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 3 02/05/2025 
+Vehicle Inspection  
+It is necessary that the vehicle to be reworked , first be visually inspected of all systems, workmanship and with 
+special attention to ensuring there is no HV cable or equipment damage or chafing.  
+ 
+High Voltage Rework Preparation  
+(1) Install Safety barricade with warning lights & signs indicating "Danger High Voltage" around the vehicle 
+perimeter and ensure no personnel are within the fenced perimeter during the  rework  procedure.  
+(2) It shall always be the goal to check the systems as much as possible with all HV power OFF and Locked 
+Out/Tagged Out and proven as de -energized by voltage measurement using the DMM. The functionality of the 
+DMM must be proved before and after the verific ation of no HV present. Then, if possible, the HV systems should 
+be challenged by trying to energize them while checking that no  HV appears.  
+(3) When it is necessary to perform tests of HV systems with the power ON, then the Working Live procedure 
+must be followed.  
+(4) The test personnel shall always rehearse the actions required in case of any possible accident scenarios.  
+(5) Before beginning the rework  Procedure, the test personnel shall remove all their jewelry (including pierced 
+ones), watches and any electrically conductive objects on them.  
+ 
+PPE Requirements  
+The PPE voltage class, Arc Flash and Arc Blast rating shall be compatible with the voltage and Arc Flash 
+capability of the systems being tested. Appropriate leather glove protectors shall be worn over the HV rubber 
+gloves.  
+ 
+PPE Care & Testing  
+Rubber insulated PPE shall be periodically cleaned and tested in accordance with 29 CFR 1910.137 and the 
+appropriate ANSI/ASTM standards. HV gloves, sleeves and mats shall be tested every 6 months. PPE apparel 
+shall be cleaned and maintained in accordance with the manufacturer’s instructions. A record of the PPE testing 
+shall be maintained and available to the users.  
+ 
+ 
+PPE Inspection  
+Inspect PPE equipment, before use, for any degradation or damage and ensure that the HV gloves have been 
+tested every 6 months. Also perform an air pressure test on the HV gloves before and after each use. If during 
+PPE use a potential damaging incident oc curred to the PPE, stop further testing and inspect the PPE. If at any 
+time the PPE is defective, reject it, and obtain an accepted one.  
+ 
+PPE Storage  
+PPE apparel should be stored lying flat, undistorted, right -side out and not folded in protective containers. The HV 
+mats can be rolled with an inside diameter greater than 2 inches.  
+Rubber HV gloves should be stored in cool, dark, dry, and free from damaging chemicals or vapors. The glove 
+cuffs should face downwards, without folding, in the appropriate glove bag and hung vertically.  
+ 
+ 
+Insulated Tools  
+Insulated tools should be visually inspected for insulation damage before and after each session of use.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 4 02/05/2025 
+ 
+ 
+Lockout/Tagout Procedure  
+The Lockout/Tagout procedure should be followed that is specified in the respective rework  procedure. When 
+removing the lock and tag:  
+(1) The locks and tags shall be removed by the installer of them or under her/his supervision.  
+(2) If the installer of the locks and tags is not available, then her/his supervisor:  
+(a) Ensures that the installer of the locks and tags in not in the facility  
+(b) Contacts the installer to inform her/him that the locks and tags will be removed  
+(c) Reminds the installer of the lock and tag removal when she/he resumes work  
+ 
+Stored Energy  
+Personnel must always remember the characteristics of stored energy devices such as capacitors and batteries 
+and when energy is available from.  
+ 
+Working Live  
+To maximize safety, it is always important to perform the maximum amount of HV rework  in the de -energized 
+state.  
+When it is necessary to work with HV equipment while energized or to verify whether HV is present, the utmost 
+care and safety procedures must be utilized including:  
+(1) Wearing appropriate PPE with protector gloves over top of the HV rubber gloves  
+(2) Ensure all personnel, except the Checker and Monitor/Recorder, are clear of the vehicle  
+(3) Kneeling or standing on HV insulated mat  
+ 
+Energizing & De -energizing Procedure  
+It is critical that before any HV system is energized that a visual check be performed to ensure that all possible HV 
+compartments are closed and there is no debris, tools or test equipment lying on HV terminations.  
+If there is a  certain sequence of energizing and de -energizing the HV system, then all personnel involved must be 
+trained in this sequence. (CAUTION: Never try to connect or disconnect circuit components such as cables, fuses, 
+connectors, etc. while there is current flo wing in the circuit.)  
+Electrical Injuries  
+Electrical injuries should be immediately reported to the first aide personnel and the supervisor. Other than 
+electrostatic shocks, even non -injurious electrical shocks should be reported to the supervisor. These should be 
+immediately investigated and docu mented to determine the cause and prevent the occurrence in the future.  
+ 
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 5 02/05/2025 
+Juice Box ESS Enclosure Removal Beam  
+CAUTION: It is important that technicians involved in hoisting and rigging are trained in both safety and 
+operation procedures. Hoisting equipment should only be operated by trained personnel. Do not use 
+equipment that is suspected to be unsafe or unsuitable, until  a competent person has verified its 
+suitability. The rated working load limits apply only to equipment and hardware in good condition. Any 
+equipment damaged in service should be taken out of service and repaired or destroyed.  
+CAUTION: Do not attempt to lift the ESS enclosure without the gasket and lid attached and all fasteners 
+applied and properly torqued.  
+  NOTE:  It is strongly recommended to use a JB removal beam (NF PN: 6485763) with a forklift adapter 
+boom (NF PN: 6485514) to lift the ESS assembly to ensure safe load distribution and avoid damage to the 
+fiberglass lid. Minimum requirement for safe lifting is to use a spreader beam and is also acceptable. S ee 
+Illustration below  for reference.  
+  NOTE:  Lifting device securement straps should be connected at no less tha n 60 degrees as shown 
+below to prevent strap damage to the ESS enclosure or connected to a lifting device wider than the ESS 
+unit being removed in a vertical position as shown below to prevent strap damage to the ESS enclosure.  
+ 
+ 
+ 
+ 
+  
+JB removal beam and forklift adapter tool reference.  
+ 
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 6 02/05/2025 
+PROCEDURE:  
+Section  1 – Initial Prep Work   
+1. Set the park brake and chock  the wheels.  
+2. Turn the main battery disconnect and HV interlock switch to the “OFF” position.  
+  WARNING: The work detailed in this ITS involves working near  exposed High Voltage (HV) 
+compartments, even after the bus has bee n locked out and tagged out. It is recommended  that the service 
+personnel be trained in NFI HV safety practices, such as those included in  NFIL Spec 532295 - High 
+Voltage Safety Guidelines & Procedures for New Flyer Battery Bus.  
+3. Perform the Lock Out Tag Out and De -Energizing procedures  found in the Electrical System Section  of the 
+New Flyer Service Manual.  See Figure 1. 
+  WARNING: ENSURE MSD DUMMY PLUGS  AND ARC FLASH GLOVES  ARE AVAILABLE PRIOR TO 
+STARTING ANY HV DISASSEMBLY  
+  NOTE: Use commercially available lock out equipment and tags being sure to follow any local laws or 
+workplace procedures.  
+4. Drain the coolant from the upper and rear ESS systems.  
+Note: If instructions are required a copy of the coolant d rain and fill procedures may be viewed in the SR 
+service manual.  
+ 
+Figure 1: HV and LV Disconnect Switch Location and Arc Flash Glove Reference  
+  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 7 02/05/2025 
+Section 2  – Upper ESS Assembly  Removal.  
+5. Gain access to the upper side screens. Remove the hardware in the top of the side screens and tilt outwards 
+to access the ESS enclosures. Set the mounting hardware aside for re -installation. See Figure 2.  
+6. Locate the MSD’s and remove them from each ESS unit and install a dust cover. See Figure 2.  
+7. Remove the Pos and Neg HV cable quick disconnects from the ESS units. Remove the ESS Ground cable 
+and set washers aside for re -installation. See Figure 2.  
+  NOTE:  When ground cable is secured with a nylock nut or bolts longer than ½” d iscard locknut and 
+bolts . 
+  NOTE:  Bolts ½” in length may also be set aside for re -installation.  
+ 
+ 
+ 
+ 
+ 
+Figure 2: Side Screen and Upper ESS MSD Location Reference.  
+ENCLOSURE  
+GROUND  HV  
+NEGATIVE  HV  
+POSITIVE  Remove MSD’s  Open Side Screens  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 8 02/05/2025 
+8. Remove HV charge rail as required. Move to following page if not required. HV cable clamps from street side 
+of charge rail and disconnect HV cable quick disconnects from charge box. Secure HV cables out of the way 
+for charge rail assembly removal. See Figure 3A. 
+9. Disconnect WLAN antenna from bus harness.  Secure WLAN harness for charge rail assembly removal.  See 
+Figure 3 A. 
+ 
+ 
+ 
+ 
+Figure 3 A: Charge Rail Removal Location Reference.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remove HV Cable Clamps Street Side 
+of Charge Rail and Disconnect Cables  
+Disconnect 
+WLAN Ha rness  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 9 02/05/2025 
+10. Remove curb side and street side charge rail  heater clamps and wiring securement and set clamps and 
+hardware aside for re -installation.  
+11. Disconnect the curb side and street side heater  wiring from charge rails and set hardware aside for re -
+installation. See Figure 3B. 
+12. Remove the low voltage harness connections and clamps to the DC charge box and set camps and hardware 
+aside for re -installation. See Figure 3B. 
+13. Disconnect the temp sensor from under the DC charge rail box on the street side. See Figure 3B. 
+14. Secure the harnesses disconnected out of the way for charge rail assembly removal.  
+ 
+Figure 3 B: Charge Rail Removal Location Reference . 
+Remove Charge Rail Heater  Wiring 
+Securement  C/S View  
+S/S View  
+Disconnect and Remove 
+Temp Sensor Wiring  Remove DC 
+Charge Box 
+Low Voltage 
+Wires and 
+Clamps and 
+Set Aside for 
+Re-Installation.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 10 02/05/2025 
+15. Disconnect the charge rail ground cable to the body  ground stud  and set mounting hardware aside for re -
+installation. See Figure 3 C. 
+16. Disconnect the charge rail box ground to the body  ground stud  and set mounting hardware aside for re -
+installation. See Figure 3 C. 
+17. Remove the charge rail assembly mounting hardware to the roof structure and set hardware aside for re -
+installation. See Figure 3 C. 
+18. Connect an appropriate lifting device to the charge rail assembly and remove the assembly. See Figure 3 C. 
+ 
+   
+ 
+     
+Figure 3 C: Charge Rail Removal Location Reference . 
+Remove 
+Grounds  
+From 
+Charge 
+Rail and 
+Charge 
+Box  Remove 
+Charge 
+Rail 
+Assembly 
+Mounting 
+Hardware 
+to Roof 
+Structure 
+4X 
+Locations  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 11 02/05/2025 
+19. Locate the coolant line supply and return hose connections at each ESS. Loosen the coolant hose clamps 
+and disconnect the hoses from each ESS unit. Set clamps aside for re -installation. Install coolant line caps on 
+the ends of each fitting. See Figure 4A. 
+20. Each ESS has a specific size restrictor/orifice based on ESS location that needs to be removed and re -
+installed in the replacement unit. Remove the orifice at each ESS unit locate d in the inlet line shown below 
+and set aside at each unit location. Re -install the restrictor/orifice in the replacement unit for the same ESS 
+location. See Figure 4 A. (Orifices only in upper ESS Units)  
+21. Disconnect the LV wiring connectors from each ESS unit and secure out of the way for ESS removal. See 
+Figure 4A. 
+  NOTE: Ensure to use absorber material to capture any coolant lost during removal.  
+   
+ 
+Figure 4 A: Upper ESS Coolant Line Removal and  Upper ESS Assembly Lifting Device Location Reference .  
+LV Connections  
+Coolant Hose 
+Supply and 
+Return 
+Connections  Cap 
+Connections 
+Once Hoses 
+are Removed.  Remove Orifices & install in Replacement Unit  Orifices  
+Orifice PN Ref By Location If Lost or Damaged  Orifices  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 12 02/05/2025 
+22. Connect an appropriate lifting device to the ESS unit being removed. See Figure 4 B. 
+ 
+  NOTE:  Lifting device securement straps should be connected at no less tha n 60 degrees as shown 
+below to prevent strap damage to the ESS enclosure or connected to a lifting device wider than the ESS 
+unit being removed in a vertical position as shown below to prevent strap damage to the ESS enclosure.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Figure 4 B: Upper ESS Coolant Line Removal and Upper ESS Assembly Lifting Device Location Reference .  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 13 02/05/2025 
+23. Locate ESS unit mounting hardware. Remove mounting bolts 8X each unit and set aside for re -installation. 
+See Figure 5. 
+24. Carefully remove the ESS units and place them on an appropriate shipping stand.  
+ 
+ 
+  
+      
+Figure 5: Upper ESS Assembly Removal Location Reference.  
+Remove ESS Mounting Bolts 
+and Set Aside for Re -installation.  
+ 
+Remove ESS Using 
+Appropriate Lifting 
+Device  
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 14 02/05/2025 
+25. Locate the serial number documentation form in Appendix A of this ITS or use the electronic version if 
+provided by your RPSM.  
+26. Then locate the serial number plate s on the side of each unit  being removed and installed  and fill out the form 
+and return to the RPSM for warranty and S/N tracking  removed and installed units.  See Figure 6. 
+ 
+  NOTE:  Illustration for 40 and 60 FT units.  
+ 
+ 
+ 
+ 
+ 
+Figure 6: Upper ESS Assembly Serial Number Documentation Location Reference.  
+ESS 3  - Roof 
+(Front Most ) 
+Front  of Bus  ESS 4 - Roof   
+Rear of Bus  ESS 5 - Roof   
+ESS 6 - Roof   ESS 7 - Roof   
+60 FT Bus Only  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 15 02/05/2025 
+27. Inspect the ESS units removed and to be installed for the correct ground cable securement.  
+A. If a ground stud as shown below is installed no further action is required. See Figure 7. 
+B. If a bolt is installed as shown below check the length of the bolt.  If the bolt is ½ IN long no further action 
+is required. See Figure 7. 
+C. If a bolt is installed and the length is greater than ½” notify the RPSM and New Flyer Service Engineering  
+immediately. See Figure 7. 
+  NOTE: Do not install a unit that has had a bolt longer than ½” installed without contacting Service 
+Engineering for guidance.  
+ 
+     
+Figure 7: Upper ESS Assembly Ground Stud Inspection Location Reference.  
+Ground 
+Cable Stud  
+Ground Cable 
+Bolt No More 
+Than ½ IN Long  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 16 02/05/2025 
+28. Locate  the Replacement  ESS to be installed and o nly after the serial number for each ESS has been 
+documented for the installation  location  to be installed and the ground stud inspection has been completed 
+should the following installation steps be taken .  
+29. Place the Replacement  ESS in place on the roof and install the previously removed hardware plates and 
+secure with the existing bolts applying one or two drops of item #1 Loctite to their threads and tor que to 80 
+FT-LBS. Apply torque marks after torquing. See Figure 8. 
+ 
+ 
+ 
+      
+ 
+Item  Part Number  Description  
+1 081034  Loctite -243 Medium  
+ 
+Figure 8: Upper ESS Assembly Installation Location Reference.  
+Torque Hardware to 80 FT -LBS.  
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 17 02/05/2025 
+30. Locate the coolant line supply and return hose connections at each ESS  and re -install the restrictor/orifice in 
+the inlet hose.  Reconnect the coolant hoses and install the existing clamps from each ESS unit. Torque  to 80 
+IN-LBS. Allow clamps to rest for 30 min and re - torque to 80 IN -LBS. Apply torque marks after torquing. See 
+Figure 9.  
+31. Re-connect the LV wiring connectors from each ESS unit . See Figure 9. 
+ 
+Figure 9: Upper ESS Coolant Line  and LV Re -connection Location Reference.  
+32. Connect the ground cable to the ESS unit using the correct  hardware.  
+A. For units with a ground stud application place cable on the ground stud with the existing flat washer and 
+Nylon nut Ref item #3 and torque nut to 17 FT -LBS. Apply torque marks after torquing. See Figure 10.  
+B. For units with the ground cable bolt mounting secure the ground cable to the unit with the existing washer 
+and ½ IN bolt ref item #4 and Torque to 22 FT-LBS. Apply torque marks after torquing. See Figure 10.  
+  NOTE: Do not  use mounting bolts longer than ½ IN.  
+  NOTE: Ensure to validate the torque based on stud or bolt application.  
+  NOTE: Apply item #6 Anti -corrosion compound to ground connections.   
+  
+Figure 10: Upper ESS Assembly Ground Stud  and HV Cable  Re-installation  Location Reference.  
+LV Connections  
+Coolant Hose 
+Supply and 
+Return 
+Connections  Torque  Clamps  Dry to 
+80 IN -LBS. Let Rest 
+for 30 Min and Re -
+torque to 80 IN -LBS.  
+Ground 
+Cable Stud  
+Application 
+Torque Nut to 
+17 FT -LBS.  ½” Bolt Application 
+Torque Bolt to 22 FT-LBS #4 Bolt  #3 Nylon Nut  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 18 02/05/2025 
+33. Place the charge rail assembly on the roof and re-install the  existing flat washer and item #3 nylock nuts  
+mounting to the roof structure and torque to 22 FT -LBS. Apply torque marks after torquing.  See Figure 11. 
+34. Re-connect the charge rail ground cable to the body ground using existing washers  and item #3 nylock nuts 
+and torque to torque to 22 FT -LBS. Apply torque marks after torquing.  Applying item #6 Anti -corrosion 
+compound.  See Figure 11A. 
+35. Re-connect  the charge rail box ground to the body  ground  using existing washers and item #3 nylock nuts 
+and torque to torque to 22 FT -LBS. Apply torque marks after torquing.  Applying item #6 Anti -corrosion 
+compound.  See Figure 11A. 
+ 
+ 
+   
+     
+Item  Part Number  Description  
+ 3 42N06000  Nut 3/8 -16 UNC Nylon Lock SST  
+6 8111767  Anti – Corrosion Compound NYK -77 
+Figure 11A: Charge Rail Installation Location Reference . 
+Re-Connect 
+Grounds 
+Applying 
+Item #6 and 
+Torque to 
+22 FT -LBS Re-install 
+Charge 
+Rail 
+Assembly 
+Mounting 
+Hardware 
+to Roof 
+Structure 
+and 
+Torque to 
+22 FT -LBS 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 19 02/05/2025 
+36. Re-connect HV cable quick disconnects  on the street side  to appropriate  charge box  receptacles . See Figure 
+11B. 
+37. Re-connect and secure the WLAN antenna to the  bus harness. See Figure 11 B. 
+38. Re-install the HV cable clamps on the street side of charge rail  with the existing hardware and the nylon lock 
+nuts item #8  and torque hardware to 6 FT-LBS.  Apply torque marks after torquing.  See Figure 11 B. 
+ 
+ 
+ 
+Item  Part Number  Description  
+8 42N04000  Nut Nylon Lock ¼ -20 
+ 
+Figure 11 B: Charge Rail Installation Location Reference . 
+Re-install HV Cable 
+Clamps replacing Item 
+#8 Nylock Nuts And 
+Torque to  6 FT-LBS Re-connect 
+and Secure 
+WLAN 
+Harness  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 20 02/05/2025 
+39. Re-connect the curb side and street side heater wiring to the charge rails using the existing hardware applying 
+item #6 Anti-corrosion compound and torque to torque to 22 FT -LBS. Apply torque marks after torquing. See 
+Figure 11 C. 
+40. Re-connect the temp sensor from under the DC charge rail box on the street side  and all low voltage wiring . 
+See Figure 11 C. 
+41. Re-install clamp s on low voltage  harnesses with existing hardware apply ing one or two drops of item #1 Loctite 
+to the fastener threads .  
+42. Re-secure harness with item #7 TyRaps as required.  
+ 
+ 
+Item  Part Number  Description  
+ 1 081034  Loctite -243 Medium  
+6 8111767  Anti – Corrosion Compound NYK -77 
+7 5955945  TyRap – 14 IN Black  
+Figure 11 C: Charge Rail Installation Location Reference . 
+Re-connect Charge Rail Heater 
+Wiring and Torque to 22 FT -LBS. 
+Apply Item #6 Anti -Corrosion 
+Compound  C/S View  
+S/S View  
+Re-connect Temp 
+Sensor Wiring  Re-connect  
+DC Charge 
+Box Low 
+Voltage Wires 
+and Re-install 
+Clamps  With 
+Existing 
+Hardware 
+Applying Item 
+#1 Loctite.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 21 02/05/2025 
+43. Re-connect the HV cable quick disconnects to the ESS unit. See Figure 1 2. 
+44. Close the side screen panels and re -install the existing hardware applying one or two drops of item #1 Loctite 
+to their threads and torque to 50 IN -LBS. Apply torque marks after torquing.  
+45. Re-install MSDs.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item  Part Number  Description  
+1 081034  Loctite -243 Medium  
+ 
+ 
+Figure 12: Upper ESS HV Cable Connection  and Side Screen  Location Reference.  
+ 
+HV  
+NEGATIVE  HV  
+POSITIVE  
+Re-install Side Screens 
+apply Item #1 Loctite to 
+hardware threads and 
+Torque to 50 IN -LBS 
+Re-install MDS ’s 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 22 02/05/2025 
+Section 3 – Rear  ESS Assembly  Removal .  
+46. Open the rear ESS access door and locate and remove the MSDs from each ESS unit and install a dust 
+cover. See Figure 13.  
+47. Open streetside and curbside upper side  corner  panels. Remove the gas spring s supporting the ESS access 
+door on the bus side and raise the access door in the up position. Tyrap the door to the bracket inside the 
+streetside and curbside side upper corner panels.  
+48. Support the rear bumper with  a forklift , remove the four retaining bolts, and remove the rear bumper  and set  
+mounting hardware aside for re -installation. See F igure 13. 
+49. Remove the  lower corner pillars  (including turn signals and brake lights)  and brackets  and set  mounting 
+hardware aside for re -installation. See F igure 13. 
+ 
+Figure 13: Lower  Corner Pillar s and Rear Door Removal Location Reference.  
+50. Disconnect HV cables from both ESS packs. Note: Positive and negative connections are color coed by color 
+when reconnecting. See F igure 14. 
+51. Secure HV cables out of the way for ESS removal.  
+    
+ 
+Figure 1 4: HV Cable Connection Location Reference s. 
+Remove Bumper  Remove Lower Corner Pillars  
+Remove MSDS  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 23 02/05/2025 
+52. From streetside rear corner, disconnect ESS grounding strap  to bus frame.  See F igure 15. 
+ 
+Figure 15: ESS Ground Strap to Bus Frame Location Reference.  
+53. From the curbside rear of the bus, p lace suitable coolant catch container under the ¼ turn drain vent valve  on 
+the BTMS . Open the vent valve to drain the coolant out of the rear ESS packs.  Open the vent valve on the 
+roof at the BTMS module. When the transfer pump starts pulling air through the system open the vent valves 
+at the front of the vehicle. Once completed draining close valve s. 
+54. Remove the clear BTMS vent line from the ESS frame.  
+55. Disconnect and secure the low voltage harness connected to both ESS packs. Disconnect the supply and 
+return coolant lines from both ESS packs. See F igure 16A. Install coolant line caps on the ends of each fitting.  
+      
+Figure 16A: Low Voltage  and Coolant Line Connections Location Reference s. 
+Disconnect Ground Strap & Set Hardware Aside  
+Remove LV 
+Connections and 
+Coolant Lines  Remove BTMS Line  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 24 02/05/2025 
+56. Remove the quick fill port drain hardlines  and capture any lost coolant in a suitable container.  Place quick fill 
+port mounting hardware aside for re -installation.  See Figure 1 6B. 
+57. When lines are empty remove both hoses from the hard lines. Set clamps and hardware aside for re -
+installation. See Figure 1 6B. 
+ 
+ 
+Figure 1 6B: Low Voltage  and Coolant Line Connections Location References . 
+Remove  Quick 
+Fill Port Lines  
+Remove Quick Port 
+and Clamps  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 25 02/05/2025 
+58. Remove the corner pillar bracket mounting hardware  and set aside for re -installation. See Figure 17. 
+59. Remove the street  side and curbside struts as follows:  See Figure 17. 
+A. Loosen the jam nut and remove the 1” upper nut on the strut . 
+B. Remove the ¾” lock nut, bolt, and washers that attach the lower end of the strut to the main frame rail 
+bracket . 
+C. Remove the strut itself . 
+60. Remove the pressure fill assembly mounting hardware and set a side for re -installation. See Figure 17. 
+ 
+Figure  17: Rear Struts and Side Structure  Hardware Removal  Location Reference.  
+61. Using big tyraps, secure both struts along with, HV cables, and AC drain hoses above the ESS packs.  See 
+Figure 18. 
+ 
+Figure 18: Struts, HV cables and AC Drain Hose Securement Location Reference s. 
+Pressure 
+Fill 
+Remove 
+Struts  
+Corner Pillar Brackets and Hardware  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 26 02/05/2025 
+62. Support the rear frame members with jack stands . See F igure 19. 
+ 
+ 
+ 
+Figure 19: ESS Frame Member Jack Stand Location Reference.  
+63. Remove the hardware securing  the ESS rack on the front and rear chassis . (2 sets each side ) Set hardware 
+aside for re -installation.  See F igure 20. 
+  
+Figure 20: ESS Pack Assembly Mounting Hardware Location Reference.  
+ 
+ 
+Install Jack Stands  
+ESS Rack 
+Hardware  ESS Rack 
+Hardware  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 27 02/05/2025 
+64. Support  the ESS packs with forklift  and r emove ESS pack assembl ies. See F igure 21. 
+  NOTE: Before removal of the ESS, ensure no harnesses, cables, ground straps, or coolant hoses are 
+connected.  Use a spotter to ensure the forks are captured within the pockets on the ESS frame and not 
+resting on the composite  ESS enclosure . A c -clamp  may be used to e nsure the  ESS frame does not slide 
+on the forks.   
+ 
+ 
+Figure 21: Rear ESS Pack Assembly  Remov al Location Reference.  
+65. Move the ESS battery packs  to a clear and open workspace . Place block of wood under the ESS battery pack 
+assembly  on each side and two in the middle  for support. See F igure 22. 
+ 
+Figure 22: ESS Battery Packs Wooden Block Under the Assembly Location Reference.  
+Wooden 
+Spacer 
+Blocks  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 28 02/05/2025 
+Section 4: Rear ESS  Enclosure Separation.  
+66. Remove fasteners securing  the upper ESS packs  to the frame ( four fasteners on each side).  Set hardware 
+aside for re -installation.  See Figure  23. 
+67.  Remove ground strap from ESS pack at ESS frame 2X locations and set hardware aside for re -installation. 
+See Figure 23  
+ 
+ 
+ 
+Figure 23: Upper ESS Frame Mounting Hardware  Location Reference.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESS1 
+(Bottom)  ESS2 
+(Top)  Upper 
+ESS Pack 
+Mtg Hdw.  
+Remove Frame 
+Ground Strap 
+at ESS  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 29 02/05/2025 
+68. Use a forklift with an appropriate hoist boom and straps (one in each corner for proper rigging), lift the upper 
+ESS pack (ESS2) from the frame assembly. See Figure 24.  
+69. Once ESS2 is removed from over top of ESS1 place on a suitable stand.  
+70. Connect an appropriate lifting device to the ESS unit being removed. See Figure 24. 
+  NOTE:  Lifting device securement straps should be connected at no less than 60 degrees as shown 
+below to prevent strap damage to the ESS enclosure or connected to a lifting device wider than the ESS 
+unit being removed in a vertical position as shown below to pre vent strap damage to the ESS enclosure.  
+ 
+ 
+   
+ 
+  Figure 24: Rigging for Lifting Upper ESS Battery Pack Location Reference.  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 30 02/05/2025 
+71. Locate the serial number documentation form in Appendix A of this ITS or use the electronic version if 
+provided by your RP SM.  
+72. Locate the serial number plate s on the side of each unit  being removed and installed  and fill out the form and 
+return to the RPSM for warranty and S/N tracking  removed and installed units. See Figure  25. 
+ 
+ 
+ 
+  Figure 25: Rear ESS Assembly Serial Number Documentation Location Reference.  
+ESS 1 Rear 
+Bottom  ESS 2 
+Upper Rear  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 31 02/05/2025 
+73. Inspect each  ESS unit removed and to be installed for the correct ground cable securement.  Ref ESS1 and 
+ESS2.  See Figure 2 6. 
+A. If a ground stud as shown below is installed no further action is required. See Figure 2 6. 
+B. If a bolt is installed as shown below check the length of the bolt.  If the bolt is ½ IN long no further action 
+is required. See Figure 2 6. 
+C. If a bolt is installed and the length is greater than ½” notify the RPSM and New Flyer Service Engineering  
+immediately. See Figure 26. 
+  NOTE: Do not install a unit that has had a bolt longer than ½” installed without contacting Service 
+Engineering for guidance.  
+ 
+     
+Figure 2 6: Rear ESS Assembly Ground Stud Inspection Location Reference.  
+Ground 
+Cable Stud  
+Ground Cable 
+Bolt No More 
+Than ½ IN Long  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 32 02/05/2025 
+74. Remove the  hardware 3 each from the  lower side support assembly bracket from both sides and set 
+hardware aside for re -installation. See Figure  27A. 
+75. Remove the hardware 2 each from the upper horizontal supports  from both sides and set horizontal supports 
+and hardware aside for re -installation. See Figure  27A. 
+76. Remove fasteners securing  ESS1 to the frame  assembly  (four fasteners on each side)  and hardware aside 
+for re -installation. See Figure  27A. 
+77. Use a forklift with appropriate hoist boom and straps (one in each corner), lift the lower  ESS pack (ESS 1) 
+from the frame assembly. See Figure  24 for proper rigging , typical for all packs.  
+78. Inspect each  ESS unit removed and to be installed for the correct ground cable securement.  Ref ESS1 and 
+ESS2.  See Figure 2 6. 
+ 
+ 
+ 
+ 
+Figure 27A: Rear ESS Pack Assembly Removal and Installation Location Reference.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remove Lower Side Support 
+Assembly Bracket Hardware  Remove Horizontal  
+Support Hardware  Remove ESS 
+Mounting Hardware  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 33 02/05/2025 
+79. Install one of the supplied replacement ESS units in the ESS1 (lower) position. Ensure enclosure orientation 
+matches that of how it was removed.  See Figure 2 7B. 
+A. Use hardware removed from OEM install applying item #10 never seize to bolt threads prior to 
+reinstallation.  
+B. Replac e Nylock nut s item #9  if damaged  and torque to 69 ft -lbs. Apply torque marks after torquing.   
+C. Ensure to record the ESS serial number on the tracking sheet in the replacement ESS1 location.  
+80. Re-install the  upper horizontal support assembl y and lower side support assembly bracket  in the locations 
+they were removed from  each side of the ESS lower frame assembly.  See Figure 2 7B. 
+A. Use hardware removed from OEM install applying item #10 never seize to bolt threads prior to 
+reinstallation.  
+B. Replace the Nylock nuts item #9 if damaged and torque to 69 ft -lbs. Apply torque marks after torquing.  
+81. Install one of the supplied replacement units in the ESS2 (Upper) position. Ensure enclosure orientation 
+matches the lower ESS.  See Figure 2 7B. 
+A. Use hardware removed from OEM install applying item #10 never seize to bolt threads prior to 
+reinstallation.  
+B. Replace the Nylock nuts item #9  if damaged  and torque to 69 ft -lbs. Apply torque marks after torquing.   
+C. Ensure to record the ESS serial number on the tracking sheet in the replacement ESS2 location.  
+Item  Part Number  Description  
+9 40N08000  Nut Nylon Lock ½ - 13 
+10 5928660  Never Seize  
+ 
+ 
+ 
+Figure 27B: Rear ESS Pack Assembly Removal and Installation Location Reference . 
+Re-install Hardware  Applying Item # 10 Never Seize to Bolt Threads Replacing Nylock Nuts Item #9  If Damaged  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 34 02/05/2025 
+Section 5: Rear ESS  assembly  Install ation.  
+82. Using a forklift , install  the ESS battery rack assembly  back  inside the vehicle and align the  mounting  holes to 
+the vehicle structure. See Figure  28. 
+A. Secure the  rear of the  ESS battery rack assembly using existing  ½” hardware  applying item #10 never 
+seize to bolt threads prior to reinstallation.  See Figure  28. 
+B. Replace the Nylock nuts item #9 if damaged and torque to 69 ft -lbs. Apply torque marks after torquing.  
+See Figure  28. 
+83. Align the mounting holes to the rear ESS AFT Ladder.  See Figure  28. 
+A. Secure the  rear of the  ESS battery rack assembly using existing  ¾” hardware  applying item #10 never 
+seize to bolt threads prior to reinstallation.  See Figure  28. 
+B. Replace the Nylock nuts item # 11 if damaged  and torque to 245 ft-lbs. Apply yellow paint torque marks  
+after torquing.  See Figure  28.  
+ 
+ 
+Item  Part Number  Description  
+9 40N08000  Nut Nylon Lock ½ - 13 
+10 5928660  Never Seize  
+11 42012000  Nut Nylon Lock 3/4  
+Figure  28: ESS Battery pack assembly securement hardware reference.  
+Re-install Hardware Applying Item 
+#10 Never Seize to Bolt Threads 
+Replacing Nylock Nuts Item #9  if 
+Damaged  
+Re-install Hardware Applying Item #10 Never Seize 
+to Bolt Threads Replacing Nylock Nuts Item #11  if 
+Damaged and Torque to 245 FT -LBS Rear ESS 
+AFT Ladder  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 35 02/05/2025 
+84. Re-install the  clear BTMS vent line to the  ESS frame  using existing hardware applying one or two drops of 
+item #1 Loctite . See F igure 29. 
+85. Reconnect the low voltage harnesses to the rear ESS packs. Use item #2 Zip ties to secure harnesses.  
+86. Reconnect the coolant supply and return hoses and install the existing clamps from each ESS unit. Torque to 
+See Figure 2 9. 
+87. Re-install the ESS pressure fill Replace the Nylock nuts item #8 if damaged and torque to 12 ft-lbs. Apply 
+torque marks after torquing.  See Figure  29. 
+88.  Reconnect the coolant hose to the pressure fill and install the existing clamp. Torque to 50 IN-LBS. Allow 
+clamps to rest for 30 min and re - torque to 50 IN-LBS. Apply torque marks after torquing. See Figure 29.  
+ 
+Item Part Number  Description  
+  1 081034  LOCTITE 243  
+ 2 5962614  Zip Ties  
+8 42N04000  Nut Nylon Lock ¼ -20 
+Figure 29: Low Voltage  and Coolant Line Connections Location References.  
+Re-install  Coolant 
+Lines To ESS and  
+Torque Clamps Dry 
+to 80 IN -LBS. Let 
+Rest for 30 Min 
+and Re -torque to 
+80 IN -LBS. 
+ 
+Re-install  
+BTMS Line  
+Re-install Pressure Fill 
+Torque to 12 FT -LBS.  Re-install LV 
+Connections.  
+ 
+Re-install 
+Coolant Line s To 
+Pressure Fill  and 
+Torque Clamps 
+Dry to 50 IN-
+LBS. Let Rest for 
+30 Min and Re -
+torque to 50 IN-
+LBS. 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 36 02/05/2025 
+89. Connect the ground cable to the ESS unit using the correct hardware.  
+A. For units with a ground stud application place cable on the ground stud with the existing flat washer and 
+Nylon nut item #3 and torque nut to 17 FT -LBS. Apply torque marks after torquing. See Figure 30. 
+B. For units with the ground cable bolt mounting secure the ground cable to the unit with the existing 
+washer and ½ IN bolt item #4 and Torque to 22 FT -LBS. Apply torque marks after torquing. See Figure 
+30. 
+  NOTE: Do not use mounting bolts longer than ½ IN.  
+  NOTE: Ensure to validate the torque based on stud or bolt application.  
+  NOTE: Apply item #6 Anti -corrosion compound to ground connections.   
+Ensure to validate the torque based on stud or bolt application.  
+90. Re-connect the Pos and Neg HV quick disconnects to each rear ESS unit. See F igure 30. 
+  
+ 
+Item  Part Number  Description  
+3 42N06000  Nut 3/8 -16 UNC Nylon Lock SST  
+4 20B06008  Bolt Hex SS 3/8 -16 UNC x ½” Long  
+5 50W06000  Washer Flat SS 3/8  
+6 8111767  Anti – Corrosion Compound NYK -77 
+ 
+Figure 30: Rear Upper  and Lower  ESS Assembly Ground Stud  and HV Cable  Re-installation  Location Reference.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ground 
+Cable Stud 
+Application 
+Torque Nut to 
+17 FT -LBS.  
+½” Bolt Application 
+Torque Bolt to 22 FT -LBS Re-connect HV Quick Disconnects to the Appropriate Connectors on the ESS Units  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 37 02/05/2025 
+91. Secure corner pillar brackets to pillars using existing 3/8 ” hardware  on each side  of the bus replacing the 
+nylock nuts item #3 if damaged and t orque  hardware  to 28 ft-lbs. Apply torque marks after torquing.  See 
+Figure 31. 
+ 
+92. From streetside rear corner, reconnect the ESS grounding strap to bus frame applying item #6 Anti -corrosion 
+compound and torque to torque to 22 FT -LBS. Apply torque marks after torquing.  See F igure 31. 
+ 
+ 
+  
+ 
+Item  Part Number  Description  
+3 42N06000  Nut 3/8 -16 UNC Nylon Lock SST  
+6 8111767  Anti – Corrosion Compound NYK -77 
+ 
+Figure  31: ESS Ground Strap to Bus Frame and  Corner Pillar Brackets to Pillar Location References.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Re-connect Ground Strap Replacing Nylock Nut 
+Item # Applying Anti -Corrosion Compound and 
+Torque to 22 FT -LBS.  Replace Nylock 
+Nut Item #3  If 
+Damaged  and 
+torque to 28 
+FT-LBS.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 38 02/05/2025 
+93. Re-install the curbside and streetside lower pillar mounting brackets. Secure using existing ½ inch bolt s, flat 
+washer s replacing  Nylock nut s item #9  if damaged . Torque hardware to 69 ft -lbs. Apply Torque Marks.  See 
+Figure 32.  
+ 
+ 
+ 
+ 
+ 
+Item  Part Number  Description  
+9 40N08000  Nut Nylon Lock ½ - 13 
+ 
+ 
+Figure 32: Curbside and Streetside Lower Pillar Mounting Bracket Location Reference.  
+ 
+ 
+Replace Nylock Nut 
+Item #9 if Damaged 
+and torque to 69 
+FT-LBS.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 39 02/05/2025 
+94. Reinstall curbside and streetside taillight  corner pillar and secure using existing hardware  replacing nylon lock 
+nuts item #8  if damaged .  
+95. Support strut  Installation – See Figure 3 3. 
+A. Thread a 1” nut on the upper end of the strut until it’s nearly bottomed out.  
+B. Install the threaded end of strut into upper mounting bracket applying item #10 Never Seize to its threads 
+and loosely install the upper nut. 
+C. Align hole in lower end of strut with hole in main frame rail mounting bracket and secure strut to frame 
+rail bracket with 3/4" bolt, washers  applying item #10 Never Seize to the bolt threads. Replace item #11 
+¾” Nylock nut  if damaged  and torque lock nut to 250 ft -lb. Apply torque marks after torquing.  
+D. Ensure lower 1" nut is backed off, then tighten upper 1" nut until contact is made with upper mounting 
+bracket.  
+E. Measure the distance between the lower frame rail and upper vehicle structure.  
+F. Continue  to tighten upper nut until the 44.84" (+/- 0.50) dimension is achieved, and then tighten an 
+additional two turns.  
+G. Apply Never -Seize to threaded area of strut and tighten lower 1" jam nut to 426 ft -lb. (578 Nm).  
+Item  Part Number  Description  
+8 42N04000  Nut Nylon Lock ¼ -20 
+10 5928660  Never Seize  
+11 40N12000  Nut Nylon Lock 3/4  
+ 
+Figure  33: Strut Tensioning  Location Reference.  
+Install Item 
+#10 Never 
+Seize and 
+Torque Nuts to 
+426 FT -LBS. 
+Nylock Nut 
+Item #3 and 
+torque to 28 
+FT-LBS.  
+Install Item #10 
+Never Seize and 
+Replace Nylock 
+Nuts Item 11  If 
+Damaged and  
+Torque Nuts to 
+250 FT -LBS.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 40 02/05/2025 
+96. Reinstall rear bumper  – retorque rear bumper hardware to  106 FT-LBS. Apply 1 -2 drops  Loctite  item #1 to 
+the hardware threads . Apply torque marks after torquing.  Additional instruction available within the Service 
+Manual  if panel gaps require adjustment . 
+97. Refill and de -aerate ESS coolant system according to NF Service Manual .  
+98. Check coolant connections, at the packs removed, for leaks and resolve as required.  
+99. Reinstall streetside and curbside, side screens  securing using the existing hardware . Apply 1 -2 drops of 
+Loctite item #1 to the threads of the hardware. Torque hardware to 50 in. lbs. Apply torque marks after 
+torquing.  
+100. Completed the starting checks in Appendix B. 
+101. Completed the charging checks  in Appendix C. 
+102. After first full day in servic e check coolant level s and fill ESS coolant system according to NF Service Manual  
+as required.  
+103. Ship OEM battery enclosures to supplier  using pallets the replacement units came with. 
+  NOTE:  Email a completed copy of the  serial number documentation form  to devin_draward@newflyer.com  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 41 02/05/2025 
+LABOUR  
+ Operation  Number of 
+Technician(s)  Hours  Labor  Time  
+T X HR  
+1 R&R rear mount and roof mount ESS assemblies  40 FT  2 16 32 
+1 R&R rear mount and roof mount ESS assemblies 60FT  2 21 42 
+ 
+ 
+ 
+PARTS  
+ 
+Item  
+Part Number   
+Description  Qty. 
+per Coach   
+Units   
+Notes  
+1 081034  LOCTITE 243  0.010  EA  
+2 5962614  Zip ties  10 EA  
+3 42N06000  Nut 3/8 -16 UNC Nylon Lock SST  17 EA Replace as 
+required  
+4 20B06008  Bolt Hex SS 3/8-16 UNC x ½” Long  1 EA Replace as 
+required  
+5 50W06000  Washer Flat SS 3/8  2 EA Replace as 
+required  
+6 8111767  Anti – Corrosion Compound NYK -77 0.010  EA  
+7 5955945  TyRap – 14 IN Black  15 EA  
+8 42N04000  Nut Nylon Lock ¼ -20 10 EA Replace as 
+required  
+9 40N08000  Nut Nylon Lock ½ - 13 34 EA Replace as 
+required  
+10 5928660  Never Seize  0.010  EA  
+11 40N12000  Nut Nylon Lock 3/4  6 EA Replace as 
+required  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 42 02/05/2025 
+SPECIAL TOOLS  
+ 
+Item  
+Part Number   
+Description  Qty. Units  Notes  
+1 N/A COOLANT RECOVERY AND FILL TOOL  1 EA Source Local  
+2 N/A 3200LBS VERTICAL RATED STRAPS  2 EA Source Local  
+3 N/A FORKLIFT  1 EA Source Local  
+4 N/A HV-INSOLATED TOOLS  1 EA Source Local  
+5 N/A TORQUE WRENCH  /Max 200 ft lbs. 3/8 drive  1 EA Source Local  
+6 6485763  JB Removal Beam  1 EA  
+7 6485514  Forklift Adaptor Boom  1 EA  
+8 N/A Digital Multimeter (DC & AC voltage)  1 EA Source Local  
+9 N/A Laptop with Vansco program w/Nexiq.  1 EA Source Local  
+10 N/A Wood Blocks 1 ” thick X 3.5 ”W X 10”L 4 EA  4 per ESS unit 
+11 N/A 1 ½ Crows Foot   1 EA Source Local  
+12 N/A 1 ½ Ratchet Wrench  1 EA Source Local  
+13 N/A 1 1/8 Wrench  1 EA Source Local  
+14 N/A 1 1/8 Deep wall socket. ½ and 3/8 drive  1 EA Source Local  
+15 N/A 15/16 Wrench ratchet  2 EA Source Local  
+16 N/A ¾ Wrench  1 EA Source Local  
+17 N/A ¾ Deep wall socket 3/8 drive  1 EA Source Local  
+18 N/A 3/8 drive deep wall sockets 9/16, ½, 7/16, 5/16, 
+10mm  1 EA Source Local  
+19 N/A 9/16, ½, 7/16, 5/16, 10mm Wrenches  1 EA Source Local  
+20 N/A Torque wrench / Max 500 ft-lbs. / ¾ drive  1 EA Source Local  
+21 N/A Coolant crimp clamps  3 EA Source Local  
+22 N/A 3/8 drive extension 6 inch and 12 inches  1 EA Source Local  
+23 660817  ASSY -TESTER COOLING SYS PRESS  1 EA  
+24 590112  CAP-RADIATOR 18 PSIG LEV -R-VENT  1 EA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 43 02/05/2025 
+Appendix A – NF Serial Number 
+Documentation Form  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See Following Page  
+  
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 44 02/05/2025 
+ 
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 45 02/05/2025 
+Appendix B – Starting Checks  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS-61261 
+ 
+ 
+ITS-61261 Page 46 02/05/2025 
+ 
+ 
+ 
+Appendix C – Charging Checks  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

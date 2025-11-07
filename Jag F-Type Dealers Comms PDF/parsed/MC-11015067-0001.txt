@@ -1,0 +1,215 @@
+ 
+ 
+               
+ 
+ 
+ 
+CUSTOMER SATISFACTION CAMPAIGN  
+DTC P175E CALIBRATION UPDATE – REPROGRAM   
+TRANSMISSION CONTROL MODULE (TCM) AND  
+COMPLETE TRANSMISSION FAST LEARN PROCEDURE (V2501)  
+ 
+• 2025MY Isuzu N -Series  Vehicles Equipped with 6.6L Gasoline Engines 
+and 8L90 Automatic Transmissions and Wholesaled Prior to December 
+13, 2024  
+This bulletin supersedes previous campaign bulletin CB25 -K-001. This bulletin is 
+being revised to include the sample US and Canada owner letters. Please discard 
+previous campaign  bulletin CB25 -K-001. 
+ 
+CONDITION  
+In some 2025MY Isuzu N -Series vehicles equipped with 6.6L gasoline engines and 8L90 
+automatic transmissions and wholesaled prior to December 13, 2024,  the original 
+calibration in the Transmission Control Module ( TCM ) contained incorrect logic that may 
+unnecessarily cause Diagnostic Trouble Code ( DTC)  P175E to set and illuminate the 
+Check Engine Malfunction Indicator Light (MIL).  An updated TCM calibration correcting 
+this concern is now available. Additionally, the Transmission Fast Learn proc edure must 
+be completed after the TCM reprogramming has been completed.  
+CORRECTION  
+Dealers are to reprogram the TCM with a corrected service calibration and perform the 
+Transmission Fast Learn procedure.  This service  will be performed free of charge.  
+VEHICLES INVOLVED  
+Involved are certain 2025MY Isuzu N -Series  vehicles equipped with 6.6L gasoline 
+engines and 8L90 automatic transmissions and wholesaled prior to December 13, 2024.  
+NOTE :  Dealers are to confirm vehicle eligibility prior to beginning repairs by using the 
+Isuzu Vehicl e Information System (IVIS).  
+For dealers with involved vehicles, a report  of involved vehicles containing the complete 
+vehicle identification number  has been or will be provided. Dealers will not have a report 
+available if they have no involved vehicles currently assigned.    AFFECTED VEHICLES  
+INFORMATION  
+IMPORTANT SERVICE 
+INFORMATION FOR:  
+ SERVICE MANAGER  
+ SERVICE ADVISOR  
+ TECHNICIAN  
+ PARTS DEPARTMENT  
+ WARRANTY PERSONNEL  BULLETIN NUMBER:  
+CB25 -K-001A 
+ISSUE DATE:  
+FEBRUARY 2025 
+GRO UP: 
+TRANSMISSION  
+   
+2  
+1. Look up the Vehicle Identification Number ( VIN) in the Isuzu Vehicle Information 
+System (IVIS) and confirm the vehicle is affected by this campaign.  
+2. Block the wheels and apply the parking brake.  
+3. Ensure that IDSS has an internet connection and is up to date.  
+4. Connect IDSS to the vehicle and turn the ignition “ON”.  
+5. Click on “Auto Detect”  and go to: Controller Programming >  Transmission >  
+Software and Calibrations >  Update Calibrations and read the TCM calibration 
+part number.  
+a. If the calibration part number does NOT match the calibration number in the 
+table below, reprogram the TCM and then proceed to Step 6 . 
+b. If the calibration part number matches the calibration part number in the 
+table below , proceed to Applying the Campaign Label . 
+MY Vehicle  Engine  Trans  Calibration #  
+2025  NPR  6.6L 8L90  24069901  
+2025  NPR -HD 6.6L 8L90  24069900  
+WARNING: Perform this procedure outside or with proper exhaust ventilation equipment. Ensure that there are no obstacles or people in front of the vehicle while performing the Transmission Service Fast Learn procedure.  
+6. Start the engine and allow the transmission fluid temperature to begin warming up.  
+NOTE: If the transmission fluid temperature is not between 167°F (75°C) and 185°F (85°C) the scan tool will not allow you to perform the Transmission Service Fast Learn procedure.  
+NOTE: Depending on the ambient temperature, the vehicle may need to be driven to achieve the proper transmission fluid temperature.  
+7. Using IDSS, go to:  Output Control Test >  Transmission >  Transmission 
+Service Fast Learn  and confirm the transmission fluid temperature is between 
+167°F (75 °C) and 185° F (85 °C) (See Figure 1 .)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SERVICE PROCEDURE  
+   
+3  
+ 
+ 
+Figure 1  
+8. Ensure that the selector lever is in the “P” Park position.  
+9. Push down firmly on the brake pedal and maintain firm pressure throug h the 
+duration of  this procedure.  
+IMPORTANT: Keep the brakes applied until the Transmission Fast Learn Procedure  
+is complete.  
+10. Click on the “Learn” button to enable the Transmission Fast Learn Procedure.  
+11. Place the selector lever into the “D” Drive position and wait for the transmission to 
+complete the Fast Learn Procedure.  
+NOT E: It is normal for this process to take several minutes to complete.  
+12. When the Transmission Service Fast Learn Status reads “Fast Learn Completed” (See Figure 2.) , proceed to Step 13.  
+ 
+Figure 2  
+
+   
+4 13. Once the Transmission F ast Learn Procedure is completed, put the selector lever 
+into the “P” Park position, release the brake pedal and turn off the ignition for at 
+least one ( 1) minute.  
+14. Proceed to Applying the Campaign Label . 
+APPLYING THE CAMPAIGN LABEL  
+15. Using a ball -point pen, fill in a campaign label (Part No. 2- 90028-700-0) with 
+Campaign Number  V2501, Isuzu dealer code, and repair date.  
+16. Affix the campaign label onto the driver's side B -pillar.  
+ 
+CAMPAIGN CLAIM INFORMATIO N  
+Refer to the Isuzu ICS Claims Processing Manual for details on Campaign Claim Submission. Submit only one claim as indicated below.  
+NOTE: Failure to submit campaign claims in a timely manner may result in delayed payment. Accepted/Paid claims will change campaign status to “Closed” in IVIS.  Submit claims as quickly as possible in order to close the campaign and ensure payment.  
+LABOR CODE  DESCRIPTION  LABOR 
+HOURS  
+V2501 DTC P175E Calibration Update – Reprogram TCM 
+& Complete Transmission Fast Learn Procedure 
+Customer Satisfaction Campaign 
+ADD: Additional time for warming up transmission 
+for vehicles in colder weather.  0.6 
+ 
+0.3 
+*Includes 0.1 hours for administrative allowance.  
+DEALER RESPONSIBILITY  
+All vehicles in dealers' possession and subject to this customer satisfaction campaign 
+must be held and repaired per the service procedure of this campaign bulletin before 
+customers take possession of these vehicles.  
+Customers who have recently purchased vehicles sold from your vehicle inventory, and for which there is no customer information indicated on the dealer listing, are to be contacted by the dealer. Arrangements are to be made to make the required correction according to the instructions contained in this bulletin. A copy of the customer letter is provided in this bulletin for your use in contacting customers. Program follow -up cards 
+should not be used for this purpose, since the customer may not as yet have r eceived the 
+notification letter.  
+ 
+ 
+
+   
+5 In summary, whenever a vehicle subject to this customer satisfaction campaign enters 
+your vehicle inventory, or is in your dealership, you must take the steps necessary to be sure the campaign  correction has been made before selling or releasing the vehicle.  
+OWNER NOTIFICATION  
+Samples of  recall letters that will be  sent to owners of affected vehicles already retailed 
+in the United States and Canada are attached below.  
+ 
+  
+   
+6 [SAMPLE OWNER LETTER –  US] 
+ 
+CUSTOMER SATISFACTION CAMPAIGN  
+Campaign V2501  
+This notice applies to your vehicle, <VIN>  
+FEBRUARY 2025  
+Dear Customer,  
+The purpose of this notice is to inform you that Isuzu Commercial Truck of America, Inc. is 
+conducting a customer satisfaction campaign that affects some 2025MY Isuzu N -Series vehicles 
+equipped with 6.6L gasoline engines and 8L90 automatic transmissions and wholesaled prior to 
+December 13, 2024.  
+WHAT IS THE CONDITION?  
+We have determined that in some 2025MY Isuzu N -Series vehicles equipped with 6.6L gasoline 
+engines and 8L90 automatic transmissions and wholesaled prior to December 13, 2024, the 
+original calibration in the Transmission Control Module (TCM) contained incorrect logic that may unnecessarily cause Diagnostic Trouble Code (DTC) P175E to set and illuminate the Check Engine Malfunction Indicator  Light (MIL). An updated TCM calibration correcting this concern 
+is now available. Additionally, the Transmission Fast L earn procedure will be performed  after 
+TCM reprogramming to ensure optimal transmission performance.  
+WHAT WE WILL DO  
+Isuzu dealers are to reprogram the TCM with a corrected service calibration and perform the 
+Transmission Fast Learn procedure. This service will be performed free of charge.  
+WHAT YOU SHOULD DO  
+We recommend you contact your Isuzu dealer to schedule an appointment to bring your vehicle in to have this service performed. Present this Owner Notification Letter at the time of your appointment or refer to C ustomer Satisfaction Campaign Bulletin CB25 -K-001. We estimate this 
+service may take up to an hour to perform. Additional time may be necessary depending on how appointments are scheduled and processed at your dealership. To locate your nearest dealer please 
+use the dealer locator on our website at w ww.isuzucv.com . 
+If you have questions or concerns, please contact our Customer Relations Department at 1- 866-
+441-9638. 
+We regret any inconvenience this action may cause you.  
+Sincerely,  
+Isuzu Commercial Truck of America, Inc.  
+Important: If you have sold or traded your Isuzu vehicle, please enter the owner's name and address, if known, on the attache d "Change of 
+Information" postcard, tear off at both perforations, and drop it in the mail. Postage has already been paid. We will contact the new owner. 
+ 
+  
+ 
+ 
+ 
+ 
+   
+7 [SAMPLE OWNER LETTER –  CANADA]  
+ 
+CUSTOMER SATISFACTION CAMPAIGN  
+Campaign V2501  
+This notice applies to your vehicle,  <VIN>  
+FEBRUARY 2025  
+Dear Customer,  
+The purpose of this notice is to inform you that Isuzu Commercial Truck of Canada, Inc. is 
+conducting a customer satisfaction campaign that affects 2025MY Isuzu N -Series vehicles 
+equipped with 6.6L gasoline engines and 8L90 automatic transmissions and wholesaled prior to 
+December 13, 2024.  
+WHAT IS THE CONDITION?  
+We have determined that in some 2025MY Isuzu N -Series vehicles equipped with 6.6L gasoline 
+engines and 8L90 automatic transmissions and wholesaled prior to December 13, 2024, the 
+original calibration in the Transmission Control Module (TCM) contained incorrect logic that may unnecessarily cause Diagnostic Trouble Code (DTC) P175E to set and illuminate the Check Engine Malfunction Indicator  Light (MIL). An updated TCM calibration correcting this concern 
+is now available. Additionally, the Transmission Fast L earn procedure will be performed  after 
+TCM reprogramming to ensure optimal transmission performance.  
+WHAT WE WILL DO  
+Isuzu dealers are to reprogram the TCM with a corrected service calibration and perform the 
+Transmission Fast Learn procedure. This service will be performed free of charge.  
+WHAT YOU SHOULD DO  
+We recommend you contact your Isuzu dealer to schedule an appointment to bring your vehicle in 
+to have this service performed. Present this Owner Notification Letter at the time of your appointment or refer to C ustomer Satisfaction Campaign Bulletin CB25 -K-001. We estimate this 
+service may take up to an hour to perform. Additional time may be necessary depending on how appointments are scheduled and processed at your dealership.  To locate  your nearest dealer please 
+use the dealer locator on our website at www.isuzutruck.ca .  
+If you have questions or concerns, please contact our Customer Relations Department at 1- 866-
+441-9638. 
+We regret any inconvenience this action may cause you.  
+Sincerely,  
+Isuzu Commercial Truck of Canada, Inc.  
+Important: If you have sold or traded your Isuzu vehicle, please enter the owner's name and address, if known, on the attached "Change of 
+Information" postcard, tear off at both perforations, and drop it in the mail  . Postage has already been paid. We will contact the new owner.  

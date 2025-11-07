@@ -1,0 +1,124 @@
+ 
+Check engine light or Adblue warning with fault
+codes P206B31, P203B31, or P300494 when outs-
+ide temperatures are below 32 degrees Fahrenheit
+Topic number LI49.20-N-078838
+Version 3
+Function group 49.20 - Exhaust gas aftertreatment
+Date 2/3/25
+Validity Model 907
+Reason for change Remedy update
+Complaint
+The check engine light or AdBlue warning is activated, accompanied by one or more of the following fault codes rela-
+ted to the AdBlue tank:
+P206B31: Malfunction of the concentration sensor for AdBlue; the signal is absent.
+P203B31: Malfunction of the AdBlue fill level sensor; the signal is absent.
+P300494: The quality of the AdBlue is insufficient.
+Cause
+A. The software for the AdBlue (SCR) control unit (N118/5) is outdated.
+B. The concentration of AdBlue is either above or below the Mercedes-Benz specifications, which can lead to prema-
+ture freezing.
+C. Frozen or partially frozen AdBlue can cause the AdBlue level sensor to misread levels.
+D. The AdBlue level sensor is damaged.
+Remedy
+A. Software
+1. Verify no newer software in AdBlue® SCR control unit (N118/5).
+2. Complete LI49.20-N-075995 for Adblue warning reset.
+--NOTE--  If there is no updated software available, proceed to step B.
+B. Adblue Concentration
+1. Verify the AdBlue concentration according to WIS AR49.20-D-9264TS - Check the concentration of AdBlue.
+--NOTE--  If the AdBlue concentration is below 31.8% or above 33.2%, it must be replaced. Please note that this will
+be at the customer's expense.
+2. If the AdBlue concentration is within the approved specifications, please proceed to step C.
+06.02.2025   16:49   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 4
+ 
+C. Frozen Adblue or the SCR Actual Values state 'Frozen Adblue'
+1. Check if the AdBlue is frozen. If it is, let the vehicle sit in a warm place overnight and recheck.
+2. Have the vehicle running and XENTRY hooked up displaying Adblue level values
+3. Drain the Adblue Tank and verify fill level reflects the change in the Adblue level
+4. Fill the Adblue Tank SLOWLY and do not overfill, verify fill level reflects the change in the Adblue level
+--NOTE--  The Fill Level Sensor 1 functions as the "empty sensor." It accurately measures the bottom 60 mm (2.3 in-
+ches) of the AdBlue tank. Once the tank is filled beyond the 60 mm (2.3 inch) mark, the sensor may not read accura-
+tely, and you might notice the displayed value fluctuating. This behavior is normal, see attachment 'Fill Level 1'.
+5. Reset the Adblue Tank fill level via XENTRY
+--NOTE--  If the XENTRY still shows that there is frozen Adblue or the concentration is still inaccurate after draining
+and filling, please refer to the attachments 'Adblue Frozen' and 'Adblue Concentration' and proceed to step C.
+6. Complete LI49.20-N-075995 for Adblue warning reset.
+--NOTE--  If the steps above do not fix the vehicle, please proceed to step D.
+D. Damaged Adblue Level Sensor/Concentration Sensor
+1. Replace the Adblue Tank
+2. With the vehicle running and XENTRY hooked up displaying Adblue level values
+3. Fill the Adblue Tank SLOWLY and do not overfill, verify fill level reflects the change in the Adblue level
+3. Reset the Adblue Tank fill level via XENTRY
+4. Complete LI49.20-N-075995 for Adblue warning reset.
+--NOTE--  During LI49.20-N-075995 for Adblue warning reset, please ensure that the outside temperature sensor
+is reading above 10 degrees Fahrenheit. If it is not, keep the vehicle inside the shop overnight. Complete LI49.20-
+N-075995 again. Additionally, please note that the vehicle may need to be driven to allow the NOx sensors and SCR
+system to complete their self-test. Once this is finished, the P13DF00 code should be stored and can then be cleared.
+--NOTE-- During cold weather, when temperatures are below 32 degrees Fahrenheit, please advise the client to keep
+the AdBlue tank fill level between 50% and 85%. This will allow for proper fluid expansion and help prevent damage to
+the level/concentration sensor.
+Attachments
+File Description
+Adblue Frozen.png
+ Adblue Frozen
+Adblue Concentration.png Adblue Concentration
+06.02.2025   16:49   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 4
+ 
+Adblue Fill Level.mp4 Adblue Fill Level 1
+WIS-References
+Document number Title Note
+AP49.20-D-0101TS AdBlue(R) tank - Check/correct fluid
+level
+AR49.20-D-2015TS Empty/fill AdBlue(R) tank
+AR49.20-D-2014TSF Remove/install AdBlue(R) tank
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Fuel system  > Fuel tank  > Function  > Different level
+Power generation  > Exhaust system  > AdBlue  > AdBlue consumption  > Too high
+Parts
+Part number ES1 ES2 Designation Quantity Note EPC
+A9104702401 NOX REDUCING AGENT
+TANK1 X
+Control unit/fault code
+Control unit Fault text
+N118/5 | N141 - Selective catalytic reduction (SCR
+GEN4) (UDCM2)P203B31  - The AdBlue® fill level sensor has a malfunc-
+tion. The signal is not present.
+P206B31  - Concentration sensor 'AdBlue®' has a mal-
+function. The signal is not present.
+N3/40 - Motor electronics 'MRD1' for combustion engine
+'OM654' (CDI) (MRD1NFZ)P300494  - The AdBlue® quality is insufficient.
+Operation numbers/damage codes
+06.02.2025   16:49   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 4
+ 
+Op. no. Operation text Time Damage
+codeNote
+470643 Check separate parts of AdBlue(R) sys-
+tem: ... as per fault code0-.7 This Operation item is used for com-
+pleting LI49.20-N-075995.
+499264 Check AdBlue(R) concentration (After
+quick test).20
+499290 Empty/fill AdBlue(R) tank .70
+499292 Replace AdBlue(R) tank 1.80 4707250
+540650 On-board power supply voltage Maintain
+(when checking/testing and troubleshoo-
+ting).10
+541011 Perform quick test .20
+540990 Program, code ..... control unit (After
+quick test).3 If newer software is available
+06.02.2025   16:49   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  4 / 4

@@ -1,0 +1,130 @@
+ 
+SB-25-17-004  Page 1 of 4 
+_ 
+ Tesla, Inc.  
+Service Bulletin  Improve G NSS Performance  For HW3 
+Vehicles  With  Revision D Interior Camera  SB-25-17-004  
+February  28, 2025  
+Classification  Section/Group  Mobile Service  Configuration  
+Campaign Bulletin  17 - Electrical  Can Perform (where 
+permitted)  HW3, Revision D 
+interior camera  
+Model  Model  Year  Country/Region  Build Location  
+Model S  2021 –2022  North America, Europe, Middle 
+East Fremont  
+Model X  2021 –2022  
+The model(s) and model year(s) listed are a general approximation of the affected VIN list. Refer to the VIN/Bulletin Tracker or Customer/Vehicle profile to determine 
+applicability of this bulletin for a particular vehicle.  
+Campaign Bulletin: This campaign bulletin addresses a non -safety -related condition and provides recommended technical 
+diagnosis and repair procedures. Apply this procedure to the applicable vehicles.  
+Condition  
+Some  Model S and Model X vehicles  with revision D interior cameras might suffer from lower -than-expected  
+navigation signal strength  under certain circumstances . 
+Correction  
+Perform USB device troubleshooting to determine whether  aftermarket USB devices are interfer ing with navigation  
+signals . If necessary, replace the interior camera with an updated part . Perform extended Global Navigation Satellite 
+System ( GNSS ) diagnostics on the vehicle  if the initial remedies are ineffective.  
+Correction Description  Correction  Time  
+SB-25-17-004 Not Applicable  S012517004 0.00 
+Vehicle GNSS Signal Strength Readings Are Within Spec ification ; SB-25-17-004 S022517004  0.42 
+Perform USB Device Troubleshooting To Address SB-25-17-004 S032517004 0.42 
+Replace Interior  Camera To Address SB -25-17-004 S042517004 0.60 
+Perform USB Device Troubleshooting; Replace Interior Camera  To Address SB -25-17-004 S052517004 0.66 
+  
+Part Number  Description  Quantity  
+If Necessary  1588124 -S0-J INTERIOR CAMERA (IR) - LHD 
+ 1 
+ 
+ This part number w as current at the time of publication. Use the revision listed or later, unless otherwise 
+specified in the Parts Catalog . 
+ 
+  
+
+ 
+SB-25-17-004  Page 2 of 4 
+_ 
+Check for Aftermarket USB Devices  
+Check the center console and glove box for any aftermarket USB devices that are being stored. Also check whether 
+aftermarket USB devices are plugged into the center console and glove box USB ports (Figures 1 –3).  
+ NOTE : Tesla USB devices, such as the Tesla USB drive  (Figure 4)  or Tesla Solid State Drive  (Figure 5) , have 
+minimal effect on GNSS performance and can be ignored.  
+  
+  
+Figure 1  – Center console front USB ports  Figure 2  – Center Console rear USB ports  
+ 
+Figure 3 – Glove box USB ports; Model X shown, Model S similar  
+  
+  
+Figure 4 Figure 5 
+• If aftermarket USB device(s) are plugged into the center console USB ports, or if there are disconnected 
+aftermarket USB devices stored in the center console or glove box, perform “ Prepare for Troubleshooting ”, 
+and then continue  to the “Troubleshoot USB Devices ” section.  
+• If no aftermarket USB devices are plugged into the center console and glove box USB ports, and there are no 
+disconnected aftermarket USB devices stored inside of the center console and glove box, USB devices are 
+not currently affecting navigation performan ce on this vehicle . Perform  “Prepare for Troubleshooting ”, and 
+then skip to the “Troubleshoot Interior Camera ” section.  
+
+ 
+SB-25-17-004  Page 3 of 4 
+_ 
+Prepare for Troubleshooting  
+1. Under a clear sky, park the vehicle where the view of the sky is unobstructed by tall structures such as buildings 
+or trees.  
+ NOTE: Bring a plastic trim tool, as it might be needed later in this procedure.  
+2. Plug all the customer’s USB device(s) into the center console USB port(s).  
+ NOTE : Use only the customer’s USB devices. Do not troubleshoot with USB devices that were not found in 
+the customer’s vehicle.  
+3. Enable Service Mode (refer to Service Manual procedure 00050100; Model S , Model X ). 
+4. In the Service Mode menu, touch Driver Assist  > Cameras . 
+Troubleshoot USB Devices  
+The instructions in this section determine whether the customer’s aftermarket USB device(s) are emitting 
+electromagnetic energy that is negatively impacting navigation signal reception strength.   
+In the  “Carrier/Noise” section of the  “GNSS” panel, monitor the GPS, BeiDou, and Galileo signal strength readings 
+(Figure 6). 
+ 
+Figure 6 
+• If the GPS, BeiDou, and Galileo signal strength readings are all “40” or greater,  the condition described by this 
+bulletin is not the issue. Use correction code S022517004, and then continue diagnosis  if necessary .  
+• If any of the GPS, BeiDou , or Galileo signal strength readings are less than “40”, disconnect the USB 
+device(s) from the vehicle  while  continuing to monitor the GNSS signal strength readings.  
+o If the GPS, BeiDou, and Galileo signal strength readings are all “40” or greater  after disconnecting the 
+USB device (s), discontinue this procedure and use correction code S032517004 . 
+ NOTE: Upon return of the vehicle to the customer, inform them that Tesla confirmed that the USB 
+device(s) used in the vehicle were interfering with vehicle navigation signal reception . Advise them to 
+disconnect the device(s) when using navigation or Autopilot features  if they wish to avoid performance 
+issues with those features . 
+o If any of the GPS, BeiDou, or Galileo  signal strength readings are still less than “40”, continue  to the 
+“Troubleshoot  Interior Camera ” section . 
+
+ 
+SB-25-17-004  Page 4 of 4 
+For feedback on the accuracy of this document, email ServiceBulletinFeedback@tesla.com  
+Troubleshoot Interior Camera  
+1. Release the rear view mirror upper cover from the windshield (refer to Service Manual procedure 15051802; 
+Model S , Model X ).  
+ NOTE: Do not disconnect any electrical harnesses at this time.  
+2. While monitoring the GNSS signal strength readings (Figure 6), disconnect the electrical harness from the interior 
+camera (Figure 7). 
+ 
+Figure 7 
+• If the GPS, BeiDou , and Galileo signal strength readings are all “40” or greater after disconnecting the interior 
+camera harness,  skip to the “ Replace Interior Camera ” section.  
+• If any of the GPS, BeiDou, or Galileo signal strength readings are still less than “40”, extended GNSS 
+diagnostics is required. Perform the following:  
+a. Replace the interior camera with an updated part (see parts table on page 1) (refer to Service Manual 
+procedure 17241602; Model S , Model X ). 
+b. Use correction code S042517004  or S0 52517004 .  
+c. Refer to Toolbox article 7032500  to perform extended GNSS diagnostics. Track any additional work in a 
+separate service activity, using correction code 00100004 .  
+d. Discontinue this procedure.  
+Replace Interior Camera  
+A newer version of the interior camera is available . This updated part emits less electromagnetic energy  and may 
+improve vehicle navigation signal strength. Perform the following steps:  
+1. Replace the interior camera with an updated part (see parts table on page 1) (refer to Service Manual procedure 
+17241602; Model S , Model X ). 
+ NOTE: Replace the camera  even if GNSS signal strength readings have not been tested.  
+2. Use correction code S042517004  or S05 2517004 , and then d iscontinue this procedure . 
+ NOTE : Inform the customer that aftermarket USB devices may interfere with vehicle navigation signal 
+reception. Advise them that disconnecting their device(s) may be necessary when using navigation or Autopilot 
+features  if they wish to avoid performance issues with those features . 
+ 

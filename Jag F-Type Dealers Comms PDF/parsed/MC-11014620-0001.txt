@@ -1,0 +1,61 @@
+Involved Region or
+CountryNorth America
+Condition MIL illuminated, potential stall no start condition.
+CausePotential high pressure pump and injector internal
+concern P0089, P228C, P00C6 ma y be stored current or history .
+Bulletin No.: PIP6003D
+Published date: 02/25/2025
+Preliminary Information
+PIP6003D MIL Potential Stall No Start and/or DTCs P0089 P00C6
+P228C
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletEquino x2023 - 2024 All All1.5 LSD All
+GMC Terrain 2023 - 2024 All All1.5 LSD All
+ 
+ 
+ 
+Diagnostic Tips:
+Technicians are to perform the following diagnostic steps:
+Conﬁrm that the fuel feed line engine is properly oriented using SI document ID 6085710.
+Verify fuel Hz reading and physical sample condition using SI document ID 5908954 and
+correct as necessary .
+Using SI document ID: 6275090:
+Perform a cold engine AFIT test and document results. If the injectors fail AFIT test,
+replace suspected injector(s).  T o test a cold engine using the AFIT tool please perform the
+following:
+      When the screen appears asking if the engine will start and run, select "no".  This will
+bypass the 60 second run time eliminating the possibility of the engine or fuel system
+warming up so a true cold engine test can be performed.
+Perform a hot engine AFIT test and document results.  If the injectors fail AFIT test,
+replace suspected injector(s).
+Contact T AC if needed to assist in interpreting results.
+If the injectors pass AFIT test, review and replace the High Pressure fuel pump and one
+way line.
+Inspect the catalytic converter for any concerns from an over fueling condition.
+After repair please complete a full drive cycle at a minimum test drive of 10 miles and
+recheck for concerns. 
+Parts Information
+Labor Operation Description Labor Time
+4021890 Fuel injection pump replacement See labor time guide
+4022330 Fuel injector replacement  See labor time guide
+Version 5
+Modiﬁed09/04/2024 - Created on.  
+09/12/2024 - Updated diagnostic steps.  
+09/25/2024 - Updated to correct labor operation.  
+12/16/2024 - Updated Diagnostic Tip and W arranty .   
+02/25/2025 - Updated to remove verbiage referencing
+diagnostic tip for P050D
+ Use the vehicle identiﬁcation number (VIN), SI, and the GM Electronic P arts Catalog to
+determine the correct part to order .
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

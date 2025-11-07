@@ -1,0 +1,164 @@
+T-SB-0002 -25   January 7, 2025  
+ 
+Cracking Noise From Front Seat Cushion Track  
+Service 
+Category  Vehicle Interior   
+ Section    Seat Market   USA  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 5 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2019 - 2024  4Runner   
+ 
+Introduction  
+Some 2019  – 2024 model year 4Runner vehicles may exhibit a cracking noise from the driver  
+and/or passenger front seat cushion track. This condition may occur when the front seat cushion 
+track is at the rearmost position. Follow the Repair Procedure in this bulletin to address 
+this condition . 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BD2408  Inject Grease in the Seat Track Component  
+(One Side)  0.8 71610-#####*  
+71620 -#####*  91 40 
+Combo A  Opposite Side  0.7 
+*Warranty claim MUST be submitted with the correct 10 -digit OFP. Choose the correct OFP for the vehicle being  
+repaired by searching for the parts in the Electronic Parts Catalog using the VIN filter.  
+ 
+ 
+ 
+  APPLICABLE WARRANTY  
+• This repair  is covered  under  the Toyota Basic Warranty.  This warranty  is in effect  for 36 months  
+or 36 ,000 miles,  whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+• Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+ T-SB-0002 -25   January 7, 2025  Page 2 of 5 
+Cracking Noise From Front Seat Cushion Track  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Parts Information  
+PART NUMBER  PART  NAME  QTY 
+09173 -35010  Attachment, Grease Gun  
+(Grease Tube ) 1 
+ 
+ 
+Repair Procedure  
+1. Confirm the condition exists.  
+Does the vehicle exhibit a cracking noise from the driver and/or passenger front seat 
+cushion  track ? This condition may occur when the front seat cushion track is at the  
+rearmost position . 
+• YES — Continue to step 2.  
+• NO — This bulletin does NOT apply. Continue diagno sis using the applicable  
+ Repair  Manual.  
+ 
+ 
+2. Move the front seat with the condition to the frontmost position . 
+ 
+ 
+3. Confirm which seat configuration the vehicle has equipped and proceed to the 
+appropriate  step.  
+• If the vehicle is equipped with a manual seat configuration, continue to step 4. 
+• If the vehicle is equipped with a power seat configuration, go to step 5. 
+ 
+ 
+4. Remove the front manual seat.  
+Refer to TIS, applicable model and model year Repair Manual:  
+• 2019 – 2024  4Runner : 
+Vehicle Interior – Seat – Front Seat Assembly (for Manual Seat) – Removal  
+• Go to Step 6.  
+ 
+ 
+5. Remove the front power seat. 
+Refer to TIS, applicable model and model year Repair Manual:  
+• 2019 – 2024  4Runner : 
+Vehicle Interior – Seat – Front Seat Assembly (for Power  Seat) – Removal  
+• Continue to Step 6.  
+ 
+  
+ T-SB-0002 -25   January 7, 2025  Page 3 of 5 
+Cracking Noise From Front Seat Cushion Track  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+6. Turn the seat over so that the bottom side 
+of the seat cushion  is visible  as shown . 
+ 
+ 
+ 
+ Figure  1. Bottom Side of Seat Cushion  
+ 
+ 
+ 
+7. Apply grease to the border of the upper rail and rail screw  as shown below . 
+Figure 2. First Location  to Add Grease  
+   
+ 
+1 Location to Add Grease  
+ 
+ 
+ 
+ 
+ 
+  
+NOTE  
+The seat does NOT have to be 
+disassembled to do the repair.  
+1 
+ T-SB-0002 -25   January 7, 2025  Page 4 of 5 
+Cracking Noise From Front Seat Cushion Track  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+8. Apply grease to the upper rail in the 
+location shown in Figure 3 . 
+ 
+ 
+ Figure  3. Second Location to Add Grease  
+ 
+ 
+ 
+ 
+Figure 4. Seat Track After Grease Applied  
+ 
+ 
+   
+
+ T-SB-0002 -25   January 7, 2025  Page 5 of 5 
+Cracking Noise From Front Seat Cushion Track  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+9. Repeat steps 7 and 8 on the opposite seat rail  and continue to step 10.  
+ 
+10. Confirm which seat configuration the vehicle has equipped and proceed to the 
+appropriate  step.  
+• If the vehicle is equipped with a manual seat configuration, continue to step 1 1. 
+• If the vehicle is equipped with a power seat configuration, go to step 1 2. 
+ 
+11. Reinstall  the front manual seat.  
+Refer to TIS, applicable model and model year Repair Manual:  
+• 2019 – 2024  4Runner : 
+Vehicle Interior – Seat – Front Seat Assembly (for Manual Seat) – Installation  
+• Go to Step 13. 
+ 
+12. Reinstall  the front power  seat.  
+Refer to TIS, applicable model and model year Repair Manual:  
+• 2019 – 2024  4Runner : 
+Vehicle Interior – Seat – Front Seat Assembly (for Power  Seat) – Installation  
+• Continue to Step 13. 
+ 
+13. Move the front seat back and forth 2  – 3 times to spread the grease . 
+ 
+14. Repeat steps 2  – 13 to the other front seat if needed.  
+ 
+15. Confirm the condition  no longer exists.  
+ 
+ 
+ 

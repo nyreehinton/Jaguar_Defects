@@ -1,0 +1,59 @@
+Reference SSM76243
+Models New Range Rover Sport / L461
+Title Suspension `Rattling` or `Popping` Type Noises Heard From Within The Passenger Compartment
+Category Chassis
+Last modified 13-Jan-2025 00:00:00
+Symptom 304000 Suspension System
+Attachments Attachment 1.wav (Attachment 1.wav)
+Attachment 2.wav (Attachment 2.wav)
+Content Model / Model Year / Derivative
+Range Rover / 24MY - Onwards / SV only
+ 
+Situation:
+JLR Engineering investigations have identified reports of suspension 'rattling' or 'popping' type noises being
+heard from within the passenger compartment. The noises can be heard while driving over uneven and broken
+surfaces at speeds of up to 35 MPH (56 KPH).
+The 'rattling' type noise may be heard coming from the front and/or rear suspension on 24MY vehicles
+only, and is heard while driving over minor road imperfections, such as uneven road surfaces.
+The 'popping' type noise may be heard coming from the rear suspension on 24MY onwards vehicles,
+and is heard while driving over major road imperfections, such as rutted/damaged/pitted road surfaces.
+ 
+Action:
+Refer to the service information below.
+Service Information:
+To assist Engineering with determining the route cause of certain noises, follow the below actions:
+ 
+1. Listen to the 2 sound files attached:
+'Attachment 1' provides an example of the 'rattling' type noise.
+'Attachment 2' provides an example of the 'popping' type noise.
+ 
+2. Safely road test the vehicle over varying road surfaces. During the road test, record any 'rattling' or 'popping'
+type noises which may be heard.
+ 
+3. Raise an Electronic Product Quality Report (EPQR), which must include the below information:
+- Reference to SVO_030
+- Reference to P379878
+- The sound file/video of any 'rattling' or 'popping' type noises recorded during the road test
+- Confirmation on which type of noise was heard during the road test ('rattling' or 'popping')
+- Confirmation on where the noise can be heard from (Front suspension / Rear suspension / Left / Right)
+- Confirmation on the road surface the vehicle was being driven on at the time when the noise was heard
+- Confirmation on the vehicle speed at the time when the noise was heard.
+ 
+4. If a 'rattling' type noise was heard, replace the affected shock absorber, (See TOPIx Workshop Manual
+section 204: Suspension - Front Suspension / Rear Suspension). Shock absorbers replaced as a result of
+the 'rattling' symptom must be replaced in axle pairs.
+ 
+5. If a 'popping' type noise was heard, as shown in 'Attachment 2', advise the customer that this symptom does
+not affect vehicle operation. Do not replace components based solely on the described symptom.
+Engineering are working towards understanding the route cause of this symptom. Once route cause has
+been determined, a recommended route for repair will be provided within a TOPIx Cloud Workflow, at which
+point this SSM will also be updated. 
+ 
+6. Update the EPQR to detail all completed actions.
+If a vehicle has previously had any shock absorbers replaced due to a suspension 'rattling' type noise being
+heard, and subsequently returns to the retailer with further suspension 'rattling' type noises, do not replace the
+same shock absorbers again. Raise a Technical Assistance (TA) making reference to SVO_030 and P379878.
+Include any sound files/videos of any recorded noises.
+ 
+(Ref 000379878/3644)
+anBhdHRlcnM7MjA yNS0wMS0xM1QxMjo1NzoyOS4yNzRaOzE2NS4yMjUuOS42OT s=

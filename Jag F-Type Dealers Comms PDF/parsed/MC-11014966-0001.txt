@@ -1,0 +1,112 @@
+Less Info
+Countries:CANADA, MEXICO, UNITED
+STATESDocument ID:IK1201507
+Availability: ISIS, FleetISIS, IsSIR Revision: 0
+Major System: ENGINE Created: 2/25/2025
+Current
+Language:EnglishLast
+Modified:2/25/2025
+Other Languages:NONE Author:Greg
+Scheff
+Viewed: 62
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 0
+ 0
+Title: S13 Leaks at the Coolant Return Pipe Hose Clamps
+Applies To: All S13 Engines
+CHANGE LOG  
+ 
+ 
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/26/2025 - Initial Article Release
+ 
+ 
+DESCRIPTION
+ 
+This document will guide the user through replacement of the two hose clamps at the right rear coolant distribution housing to
+the large coolant return tube leading to the thermostat housing (Figure #1) .  The original clamp design may not be adequate to
+maintain the proper clamping force in the event the rubber hose relaxes.  The steps below will outline the installation of a new
+design constant torque clamp in this location. 
+ 
+Figure #1: Location of the leak
+ 
+ 
+SYMPT OM(s)
+Traces of coolant seen at the right rear of the engine, on or around the starter , or drops of coolant seen on the ground after
+sitting overnight.  
+ 
+ 
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+ 
+ 
+Tool Description Tool Number Comments  Instructions
+Coolant
+Management Tool      KL5007NA VUsed to Drain / Fill Cooling
+System Service Manual Link
+Pressure Regulator 
+Assy    KL5006NA V   
+Cooling Sys Adapter  09-040-03   
+Coolant Drain 
+Adapter 09-146-02   
+ 
+ 
+ 
+SERVICE P ARTS INFORMA TION
+ 
+ 
+Description Part Number Quantity Notes            
+Thermostat Housing Return Hose    104696N1  1 As Needed
+Clamp, Hose, Outlet 1 in. - 1-3/4  3523809C1  2Constant
+Torque
+Kit, Cooling Return Pipe to Thermostat  2523735C91  1 As Needed
+ 
+ 
+ 
+ 
+REPAIR STEP(s)
+ 
+REMOV AL PROCEDURE:
+ 
+1. If replacing the 104696N1 coolant return hose, drain the cooling system per the service manual linked HERE .
+2. Loosen the clamps sucuring the coolant return pipe to the cylinder block to allow movement of the pipe.
+3. Remove and discard both of the former 104700N1 hose clamps.
+4. Remove and discard the 104696N1 rubber hose from the return pipe and coolant distribution housing.  
+ 
+INST ALLA TION PROCEDURE:
+ 
+5. Before installing the new hose, position two new 3523809C1 constant torque clamps (Figure #2 & 3, Item 1)  over the
+coolant return pipe with the hex inboard towards the cylinder block and facing forward. 
+ 
+ 
+Hide Details Feedback Information
+Viewed: 61
+Helpful: 0
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc.
+Figure #2: Constant T orque Clamp  Figure #3: Constant T orque Clamps
+Item 1: Clamp positioned inboard facing forward  
+ 
+6. Install a new 104696N1 rubber hose over the coolant return pipe and coolant distribution housing.
+ 
+7. Position the two clamps over the hose and torque the clamps to  70-80 ln. lb. ( 8.0 to 9.0 Nm)
+ 
+8. Install and tighten the clamps for the return pipe to the cylinder block if previously removed.
+ 
+9. Fill the cooling system per the service manual instructions linked HERE .
+ 
+ 
+WARRANTY  INFORMA TION
+ 
+ 
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+OTHER RESOURCES
+Master Service Information Site
+ 

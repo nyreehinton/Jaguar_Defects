@@ -1,0 +1,150 @@
+SIB 52 01 25
+G70 FRONT  DRIVER’S SEA T WIRING HARNESS IS CHAFED2025-02-04
+ 
+☒ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+G70 7 Series Sedan Vehicles produced up to June 12, 2023.
+ 
+SITUA TION
+The customer sees various check control warnings of 'Drive Fault', along with windows, doors, and seats
+that do not function. 
+ 
+There may be restraint system check control warnings. 
+ 
+The entire K-CAN9 / Body3 CAN bus may not communicate. 
+ 
+Various fault memory entries for the above-mentioned components may be stored:
+930D86 - Function restraint system driver restricted.
+930D87 - Function front passenger restraint system restricted.
+C9544D, C9544F - Message Missing
+C95452, C95454 - Signal invalid
+035BF4, 035BFB, 035BFC, 035BFD - Communication via Body3_CAN corrupt.
+CD052C, E3852C, E4852C, E3452C, E4452C, DF852C, DFC52C, DDC52C, DF452C, E6052C, E5852C
+- BODY3-CAN Control Module Bus OFF
+802A00, 802E00, 802C00, 803000 - Functions seat heating not available
+803003, 802C03, 802E03, 802A03 - Functions seat adjustment limited
+ 
+CAUSE
+The screw-drive of the driver ’s front seat up/down adjustment may chafe the seat wiring harness depending
+upon seat height that is set.
+ 
+CORRECTION
+Install a plastic cable strap to hold the seat harness to the seat frame assembly to prevent contact.
+ 
+PROCEDURE
+Move the driver ’s seat to its highest position to obtain maximum clearance under the seat. 
+ 
+Check the harness under the driver ’s seat near the end of the screw drive for up/down adjustment, to
+observe if it is being chafed when the seat moves. 
+ 
+Repair or replace the harness as needed and secure it with an additional cable strap during installation. 
+ 
+See the following photo (image is showing seat frame assembly from above with seat covering material
+removed). 
+ 
+You DO NOT need to remove the seat cover , nor remove seat from vehicle to secure the harness.
+ 
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 52 01 25_G70 FRONT DRIVER’S SEAT WIRING HARNESS IS CHAFED
+about:blank 1/5
+ 
+ 
+NOTE: Both when replacing and working in the area of the seat wiring harness, make sure that the
+seat wiring harness is correctly secured, is not pinched; and is not in contact with any sharp edges.
+ 
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in either ETK
+or AIR which considers specific equipment and/or options.
+ 
+Part Number Description Quantity
+61 13 1 367 599 Cable Tie 3.6 x 140 mm (sublet package of 50) 1
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.Copyright ©2025 BMW of North America, Inc.
+2/10/25, 5:47 AM 52 01 25_G70 FRONT DRIVER’S SEAT WIRING HARNESS IS CHAFED
+about:blank 2/5
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks
+as described below .
+ 
+Repair Code: 6112588100 Seat wiring harness interruption
+ 
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Diagnosis
+ 
+Labor
+OperationDescription Labor Allowance
+00 00 006 Carrying out vehicle test (Main work) As applicable
+Or:   
+00 00 556 Carrying out vehicle test (Plusposition work) As applicable
+And:   
+61 21 528Supporting voltage of the vehicle electrical system /
+recharging vehicle batteryAs applicable
+And, as needed:   
+61 00 006*Carrying out vehicle diagnosis, ABL (Work time) (Including
+positioning the seat and checking the wire harness under
+driver ’s seatWT FRU
+Or:   
+00 58 500* Diagnosis W orktime Flat Rate 2 FRU
+ 
+If you are using a Main labor code for another repair , use the Plus code labor operation 00 00 556 instead of
+00 00 006, or exclude them (including 61 21 528) when the V ehicle Test is included in another repair .
+ 
+And:
+ 
+Repairing the Driver ’s Seat Harness 
+ 
+Labor
+OperationDescription Labor Allowance
+61 99 000Associated work time to repair the seat harness as needed
+and secure it with an additional cable strap during repairWT FRU to repair
+ 
+Of:
+ 
+Replacing the Driver ’s Seat Harness - Only when Required
+ 
+Labor
+OperationDescription Labor Allowance
+52 NN NNN**Removing and installing (front) passenger
+seat (Plusposition)As applicable
+And:   
+61 99 000Associated work time to replace the seat harness and
+secure it with an additional cable strap during installation.WT FRU to
+replace
+ 
+(**) Refer to AIR to obtain Plusposition flat rate operation code that applies to the vehicle’ s installed seats option.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20 for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis
+work time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise
+required by State law .
+ Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 52 01 25_G70 FRONT DRIVER’S SEAT WIRING HARNESS IS CHAFED
+about:blank 3/5
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 52 01 25_G70 FRONT DRIVER’S SEAT WIRING HARNESS IS CHAFED
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 52 01 25_G70 FRONT DRIVER’S SEAT WIRING HARNESS IS CHAFED
+about:blank 5/5

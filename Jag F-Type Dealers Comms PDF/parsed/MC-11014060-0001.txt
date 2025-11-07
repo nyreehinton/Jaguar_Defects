@@ -1,0 +1,41 @@
+Bulletin No.: PIC4588C
+Published date: 02/7/2025
+Preliminary Information
+PIC4588C Power Folding Roof May Not Fully Retract or Falls Short of
+Header When Raised
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletCorvette 2005 - 2013 All AllAll All
+Supersession Statement
+This PI was superseded to update model years. Please discar d all copies of PIC4588B.
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+Some customers ma y comment that their folding top is inoperative or appears to be
+misaligned.  F urthermore, as the roof travels to a closed position, it ma y appear that is
+falls short of the header latch.  When in the process of lowering, and stowing in the
+downstack position, it will not fully retract into the rear compartment. This could be the
+result of a misaligned roof linkage.  This linkage is diﬃcult to diagnose and isolate due to
+its inherent shape.  Below are images of the various areas on the folding top that ma y
+cause this concern.
+Recommendations / Instructions
+Here are 4 common areas where a concern ma y be found.   
+1. Refer to the illustration above:  Inspect the tonneau hinge called out as number 27.  The
+ball studs ma y get bent and the tonneau will not sta y up.  
+2. Refer to the illustration above.  When the top is forced down, to the stowed position,
+without relieving system pressure, the link called out as number 8 above, ma y become
+bent.  Unfortunately , it is diﬃcult to determine if the link has been bent because it has a
+number of bends in it by design.  It ma y be necessary to compare to a lik e vehicle or obtain
+a new/diﬀerent part and la y them side by side to determine if the link is bent.  
+3. Refer to the illustration above.  Inspect call out number 5.  This part ma y bend in the
+center .  Again, this ma y be hard to determine unless it has been compared to a known
+good vehicle or part.  
+4. Refer to the illustration above.  The brack et, called out as item number 10, ma y be
+bent outward, so that it is no longer ﬂat or straight.  When it does bend, the entire top will
+be out of alignment.  The brack et has a net mounting hole,  so if it has been altered, the
+brack et or the hole will be visible.
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

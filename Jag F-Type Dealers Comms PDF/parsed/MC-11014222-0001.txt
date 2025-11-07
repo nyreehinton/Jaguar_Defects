@@ -1,0 +1,114 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 21-NA-135
+Service BulletinDate: January, 2025
+INFORMATION
+Information on Obtaining Techline Calibrations for Law Enforcement and
+Government Vehicles to Disable or Enable Content
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Buick GM
+Passenger
+Cars and
+Light Duty
+Trucks
+Excluding:
+2022
+Silverado
+1500 New
+(RPO J22,
+VIN Digit 5
+= A / D)
+2023
+Silverado
+1500
+2022 Sierra
+1500 New
+(RPO J22,
+VIN Digit 5 =
+H / U)
+2023 Sierra
+15002019 2025 — — — —Cadillac
+Chevrolet
+GMC
+Involved Region or Country United States and Canada
+ConditionThe purpose of this bulletin is to inform dealership personnel about Law Enforcement and
+Government vehicles that request to disable or enable content.
+CauseIn some cases, it is not possible to disable/enable a feature. Contact the Techline
+Customer Support Center (TCSC) to see if disabling/enabling the desired feature is
+possible for the specific vehicle. The agency/requestor should be reminded that any
+disabled features should be made fully operational or disclosed PRIOR to sale of the
+vehicle.
+CorrectionFollow this process to obtain the calibration to make the above vehicle modifications. In
+General Motors continuous effort to provide customer support, the following process is in
+effect for those select governmental agencies that require and qualify for enabling/
+disabling certain features.
+Techline will provide the appropriate software change and instruct the technician how to
+complete the reconfiguration.
+Note: Check the Upfitter site for additional information for certain models/upfits.
+Note: This is a customer pay repair.Subject:
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Page 2 January, 2025 Bulletin No.: 21-NA-135
+Important: In Canada, disabling DRL is prohibited by Transport Canada .
+1.ONLY the following governmental agencies qualify for this disable/enable calibration request:
+• City / State / Provincial Government
+• Police / Sheriff Departments
+• FBI
+• CIA
+• DEA
+• RCMP
+• Emergency Vehicles – if government owned
+2. All requests are to be made through the Techline Customer Support Center (TCSC) at 1-800-828-6860 English
+or 1-800-503-3222 French.
+3. The dealership will be required to obtain a letter on official agency letterhead requesting the disable/enable. The
+letter should include the following:
+• Acknowledgement that the agency owns the vehicle
+• The reason for the disable/enable
+• Which features are to be disabled/enabled
+• Specific VIN(s) of the vehicle(s) that features will be disabled/enabled
+• Prior to any sale of the vehicle(s) listed above, the agency will either (1) ensure that the [insert feature(s)
+which has/have been requested for disable/enable] system will be made fully operational, or (2) disclose to the
+end customer that such system is not operational. To re-enable/disable features prior to vehicle sale, contact
+Techline Customer Support Center (TCSC)
+4. The letter must be kept in the service history file at the dealership, and a copy sent to TCSC before the disable/
+enable procedures/calibrations will be released. In most cases, the vehicle(s) will require a software change,
+using a VCI number provided by the TCSC.
+This is a list of calibrations that are available:
+6N5
+BCV
+BCN
+9G8
+UTQ
+6J7
+5J1
+5J3
+7Y6
+UTJ
+SK5
+SK0
+SK3
+SK4
+Engine time out disable (some models)
+DRL disable
+Bulletin No.: 21-NA-135 January, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 6
+Modified Released June 10, 2021
+Revised September 14, 2021 – Added the 2022 Model Year, a Note in the Correction
+section and RPOs SK5, SK0, SK3, SK4.
+Revised February 04, 2022 – Updated the Cause and #3 under Service Procedure.
+Revised January 13, 2023 – Added excluded vehicles under Model section, the 2023
+Model Year and the first Important statement under Service Procedure.
+Revised November 16, 2023 – Added the 2024 Model Year.
+Revised January 27, 2025 – Added the 2025 Model Year.
+Additional SI Keywords: Idle, 5W4, Police, 9C1, Light, DRL

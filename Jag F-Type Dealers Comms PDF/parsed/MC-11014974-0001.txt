@@ -1,0 +1,102 @@
+Less Info
+Countries: CANADA, UNITED STATESDocument ID:IK2200157
+Availability: ISIS, Bus ISIS, IsSIR Revision: 0
+Major System: BUS BODY Created: 1/17/2025
+Current Language:English Last Modified:2/28/2025
+Other Languages:NONE Author: Brandon Akridge
+Viewed: 38
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 0
+ 0
+Title: Next Gen Bus Top Step Tread Nosing Repair
+Applies To: Next Gen Bus, PB11000 and PC11000
+CHANGE LOG  
+ 
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/28/2025 - Initial Article Release
+ 
+ 
+DESCRIPTION
+ 
+This document will guide the user through repairing a loose or raised top step nosing for Next Gen Bus. 
+Note : There has been a design change to the top tread step nosing that minimizes the gaps on the forward side of the tread step nosing (see
+below). A gap can be seen in the previous design that can be identified from outside the front door , looking towards the top step inside. Updated
+Step Tread Part Numbers: 4630982C1(white), 4630983C1 (yellow).
+ 
+ 
+ 
+SYMPT OM(s)
+Customer Observations or Concerns:
+Step nosing is loose, wavy , or does not sit flat to the step surface; see Figure 1 below . The gap can be seen from the driver's seat, looking towards
+the top step tread nosing. 
+ 
+ 
+ 
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+Tool Description Tool Number Comments  Instructions
+ Not Applicable    
+ 
+  
+ 
+SERVICE P ARTS INFORMA TION
+  
+Kit Description Part NumberQuantity
+RequiredNotes
+SCREW , AB CRPNH 12 X 1-1/2 PLD 91305500  2
+TREAD, STEP , NIMYL  RIBBED WHITE 4630982C1  1  
+TREAD, STEP , NIMYL  RIBBED YELLOW 4630983C1  1  
+ 
+ 
+ 
+DIAGNOSTIC STEP(s)
+ 
+StepAction Decision
+#1DIAGNOSTIC:
+Is the top step nosing raised or not flush to the floor , as shown in Figure 1?Yes. Go to Repair Section and install
+additional screws to secure the top step
+nosing to the floor
+No. This Iknow article does not apply .
+ 
+ 
+Figure #1: Step T read Nosing Gap Example
+Notice that the tread step nosing is not sitting flush to the floor .
+ 
+ 
+REPAIR STEP(s)
+ 
+REMOV AL PROCEDURE:
+  
+1   a.) If not replacing step tread nosing, continue to Installation Procedure
+   
+     b.) If you are replacing step tread nose trim, remove the 5 screws fastening the top tread step nosing to the top step  
+2. Remove the top tread step nosing
+ 
+INST ALLA TION PROCEDURE:
+Hide Details Feedback Information
+Viewed: 37
+Helpful: 0
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc.
+1. If not replacing nosing, then add 2 additonal screws to be installed in positions 4 & 2 in the above graphic
+2. If replacing nosing, Install the updated top tread step nosing with  7 screws in the locations as shown in the graphic above
+ 
+ 
+ 
+ 
+WARRANTY  INFORMA TION
+ 
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+ 
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 

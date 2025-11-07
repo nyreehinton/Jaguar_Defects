@@ -1,0 +1,145 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-032
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Malfunction Indicator Lamp (MIL) Illuminated - DTC P11CC,
+P22FB, and/or P2297 Set
+Brand: Model: Model Year: Build Date: Engine: Transmission
+:from to from to
+CadillacEscalade
+Models2021 2024
+    LM2  ChevroletSilverado
+15002020 2021
+Silverado
+1500 LTD
+(RPO J21,
+VIN Digit 5 =
+W/Y)
+2022 2022
+Silverado
+1500 New
+(RPO J22,
+VIN Digit 5 =
+A/D)
+Silverado
+15002023 2023
+Suburban
+2021 2024
+Tahoe
+GMCSierra 1500 2020 2021
+Sierra 1500
+Limited (RPO
+J21, VIN Digit
+5 = 8/9)
+2022 2022
+Sierra 1500
+New (RPO
+J22, VIN Digit
+5 = H/U)
+Sierra 1500 2023 2023
+Yukon Models 2021 2024
+ Subject:
+Page 2 February, 2025 Bulletin No.: 25-NA-032
+Involved Region or CountryNorth America, Europe, Kazakhstan, Uzbekistan, Russia, Middle East, Israel, Palestine,
+Argentina (Mercosur), Brazil (Mercosur), Bolivia (West), Chile (West), Colombia (West),
+Ecuador (West), Paraguay (West), Peru (West), Uruguay (West), Japan, S. Korea,
+Thailand (ASEAN), Philippines, Australia/New Zealand, Other Africa
+ConditionSome customers may comment that the MIL is illuminated.
+Some technicians may comment on one or more of the following DTCs set in the Engine
+Control Module:
+• P11CC
+• P22FB
+• P2297
+Some technicians may also find additional NOx related DTCs set.
+CauseThis condition may be caused by one or more of the following:
+• The EGR differential pressure sensor.
+• EGR cooler contamination.
+• The engine consuming coolant.
+• The engine consuming excessive oil.
+InformationIn the ECM, there is a set of calculations that estimate what the NOx sensor 1 should be
+reading. This estimation is used in case there is a fault with the NOx sensor reading. This
+estimate is shown in GDS2 as the Estimated Nitrogen Oxide Concentration. GDS2 also
+has a Nitrogen Oxides Concentration Delta. This value represents the difference between
+the measured NOx sensor concentration and the Estimated Nitrogen Oxide
+Concentration. They are both located in Nitrogen Oxides Sensor Data. The DTCs above
+set when the ECM detects NOx sensor 1 and the Estimated Nitrogen Oxide
+Concentration are too far apart.
+The most significant parameters used to calculate the Estimated Nitrogen Oxide
+Concentration are:
+• EGR Differential pressure sensor data
+• Engine load
+• EGR2 position
+• Exhaust back pressure valve
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+How to use this data
+If you are working on a vehicle with one of the codes listed above, road test the vehicle and collect Nitrogen Oxides
+Sensor Data. Review the data to see if Estimated Nitrogen Oxide Concentration is significantly higher for extended
+periods compared to actual NOx levels measured at sensor 1.
+Bulletin No.: 25-NA-032 February, 2025 Page 3
+6847661
+1. Nitrogen Oxides Sensor Nitrogen Oxides Concentration - 230.7 ppm
+2. Estimated Nitrogen Oxides Concentration - 1320.2 ppm
+In this example you can see that the Estimated Nitrogen Oxide Concentration and the NOx value measured from the
+NOx sensor are far apart. It is easy to see why the code set and that the Estimated Nitrogen Oxide Concentration is
+skewed (1320.0 ppm), not the NOx sensor value.
+ 
+6847662
+1. Exhaust Gas Recirculation Pressure Sensor – 0.3 PSI
+2. Exhaust Pressure Regulator Valve Position - 100%
+3. Exhaust Gas Recirculation Valve 2 Position Sensor - 0.47V
+This is an example of normal operation. As flow through the EGR cooler changes, the pressure sensor value should
+change as well. If the pressure sensor never changes while under different driving situations, verify the connector is
+pinned out correctly as per SI, and that there aren’t circuit issues between the EGR differential pressure sensor and
+the ECM. Also verify the hoses to the sensor are not pinched, twisted, or restricted.
+Page 4 February, 2025 Bulletin No.: 25-NA-032
+Wiggle the EGR differential sensor connector to see if the GDS read value changes. If the reading drops out or
+notably changes while wiggling the connector, suspect there is an issue with the terminals in the connector, or
+possibly in the sensor itself.
+ 
+6847664
+1. Estimated Nitrogen Oxides Concentration - 133.9 ppm
+2. NOx Sensor 1 NOx Concentration - 321.3 ppm
+3. Engine Load - 57.3%
+4. Nitrogen Oxides Concentration Delta -187.4 ppm
+Next, during a period of consistent engine load driving, 1-2 minutes, if the actual NOx 1 value is 100-250 ppm above
+the Estimated Nitrogen Oxide Concentration value, there may be an issue with a restricted EGR cooler.
+ 
+6847665
+- External EGR Cooler Restriction
+Bulletin No.: 25-NA-032 February, 2025 Page 5
+6847667
+- Internal EGR Cooler Restriction
+Sometimes the restriction will be evident when inspecting the EGR cooler.
+6847668
+Additionally, we have found that if the engine ingests anything that could be used as fuel while the code is running,
+you can set this code. One example is if the vehicle suffers from oil consumption. Much like the L5P diesel, some
+oil in the intercooler system is expected. Here is an example of a CAC that has a normal amount of oil in the outlet.
+There may be a little condensation also, which can be normal depending on ambient conditions and vehicle usage. If
+there is a lot of condensation/fluid in the CAC, make sure that the secondary coolant system bottle is not low. A
+charge air cooler leaking coolant into the engine could cause this code to set.
+Page 6 February, 2025 Bulletin No.: 25-NA-032
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION
+6847671
+Looking into the cooler, next to the fins, this photo shows oil puddling in the CAC outlet. This much oil in the
+induction could cause this code to set.
+If this condition is noted, while monitoring the EGR Differential pressure sensor data, see if the sensor reading
+changes with different engine loads, EGR 2 positions and Exhaust back pressure valve positions. The EGR differ-
+ential pressure sensor value is part of how the ECM calculates the Estimated Nitrogen Oxide Concentration engine
+output level.
+ 
+Version 1
+Modified Released February 17, 2025
+ 

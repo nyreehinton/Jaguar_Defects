@@ -1,0 +1,36 @@
+Involved Region or
+CountryNorth America
+ConditionSome technicians may notice DTC U11FD  Lost Communication
+with Radio - Processor 2  (radio ma y also referred to as the
+center stack module/ low radio/ vehicle cockpit unit throughout
+SI) set as current or history in the K107. This DTC is T ype C and
+will not set a MIL.
+CauseOlder versions of K107 (Drive Motor Control Module) Software
+may induce this DTC intermittently .
+Labor Operation Description Labor Time
+* 2880037 Update K107 Drive Motor Control Modules 0.5 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/07/2025 Created on.
+Bulletin No.: PIP6022
+Published date: 02/7/2025
+Preliminary Information
+PIP6022 Lost Communication with Center Stack Module/Low
+Radio/Vehicle Cockpit Unit DTC U11FD
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado EV 2025 All AllAll All
+GMC Sierra EV 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+Update the K107 / K107B Drive Motor Control Modules
+Warranty Information
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

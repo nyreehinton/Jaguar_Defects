@@ -1,0 +1,32 @@
+Involved Region or
+CountryNorth America
+ConditionBrake Pad Life Monitoring will not Reset or will not go to 100%.
+Or you ma y get message request rejected by the control module
+request out of range brake system control module.
+Cause Brake System Control Module calibration.
+Version 1
+Modiﬁed 02/05/2025 - Created on.
+Bulletin No.: PIT6333
+Published date: 02/5/2025
+Preliminary Information
+PIT6333 Diagnostic Aid- Brake Pad Life Monitoring will not Reset
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+Chevr oletTraverse All New 2024 All AllLK0 All
+GMC Acadia 2024 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:   
+If you are unable to do the Brak e Pad Life Monitoring Reset, First try reprogramming the
+Brake System Control Module and perform setup. Then see if it will do the Brak e Pad Life
+Monitoring Reset.  
+If it still will not reset follow SI diagnostics.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

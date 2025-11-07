@@ -1,0 +1,66 @@
+INDIAN MOTORCYCLE
+HELP CENTER
+What can we help you ﬁnd? Search
+Help Center Home / Article
+02/28/2025
+2015-2024 Scout Battery Removal and Installation
+Requir ed Tools and Supplies: 
+Shop Rags
+Dielectric Grease or P etroleum Jelly
+10mm and 13mm Sockets
+Ratchet
+Torque Wrench
+Safety Glasses
+Nitrile Gloves
+For more information on tools, read the  Tools and F asteners Guide . Always wear safety glasses and
+nitrile gloves when servicing your Indian Motorcycle.Indian Scout Batter y Remo val and Installation - Indian Mot orcycle Indian Scout Batter y Remo val and Installation - Indian Mot orcycle
+To remove and replace the battery on your Scout, Scout Sixty, Scout Bobber, Scout Sixty, Scout
+Bobber T wenty or Scout R ogue follow these steps:
+1. Park the bike on a flat, level surface.
+2. Ensure the key is turned OFF and removed.
+3. The seat removal process varies by model. R emove the seat per your Owner’s Manual  guidelines.
+4. Then press the fuse box release tab inward. Slide the fuse box to the rear to remove it from the
+bracket. P osition the fuse box out of the way, using care to prevent damage to the wires.
+5. Using a 10mm socket, remove the negative battery cable first to prevent arcing. P osition the cable
+well clear of the terminal.
+6. Remove the positive protector boot from the positive battery cable. R emove the cable from the
+terminal with a 10mm socket. P osition the cable well clear of the terminal.
+7. Reinstall the fasteners onto the posts to prevent misplacement.
+8. Then remove the battery bracket fastener with a 13mm socket and remove the bracket.
+9. Tilt the battery slightly to the rear and lift it out of the motorcycle.
+10. Inspect the battery box for damage.
+11. Also, ensure the pads on the bracket are properly located and in good condition.
+12. If reinstalling the battery, ensure it is fully charged and free of any debris or damage. Follow the
+instructions in the Battery Charging section of your Owner’s Manual  before installing the battery.
+The replacement battery is part number 4017819 .
+13. Carefully position the battery into the battery box with the negative terminal toward the front of
+the motorcycle.
+14. Reinstall the battery bracket. Torque to 84 in-lbs (9 Nm).
+15. Route the positive cable perpendicular to the long side of the battery. Install the positive cable
+first to prevent arcing. Torque to 45 in-lbs (5 Nm).
+16. Reinstall the positive cable protector boot.
+17. Then install the negative cable. R oute the cable perpendicular to the battery. Torque to 45 in-lbs
+(5 Nm).
+18. Apply a light film of dielectric grease or petroleum jelly to both terminals.
+19. Verify the cables are secure and properly routed.
+20. Carefully reinstall the fuse box to the bracket, ensuring the release tab engages.
+21. Turn the bike ON to verify the battery has been connected properly.
+22. Finally, reinstall the seat per your Owner’s Manual  guidelines.
+For more information, see your authorized Indian Motorcycle Dealer. Find a dealer near you with
+the Dealer Locator .
+Maintenance tips, procedures and specifications can be found in your  Owner's Manual .
+To find diagrams and replacement part numbers, use the  online parts catalog .
+YouTube® is a r egistered trademark o f Google LL C
+Unless not ed, tr ademarks ar e the pr operty of Indian Mot orcycle Int ernational, LL C.
+© 2022 Indian Mot orcycle Int ernational, LL C
+Keyword(s) video , maintenance , battery , remove , install , installing , removing , replace , replacing , change , changing , scout
+,Was this article helpful?
+Yes, it answers my question
+No, it's missing information or visuals
+No, the instructions are unclear
+No, What are the next steps?
+No, I'm experiencing a technical error
+Other
+* How can we improve this article? We'd love to hear your suggestions
+Tell us what you would like to see in this article
+Send [] -

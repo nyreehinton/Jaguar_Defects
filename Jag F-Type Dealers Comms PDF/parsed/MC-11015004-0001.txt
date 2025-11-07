@@ -1,0 +1,141 @@
+ 
+ 
+BULLETIN NOTES
+This SA supersedes the previously issued bulletin(s) listed below. The changes are noted below in Red.
+Previous TSBs: Date(s) Issued: Previous TSBs: Date(s) Issued: Previous TSBs: Date(s) Issued:
+SA-032/24 05/21/24 - - - -
+01-007/23 11/07/23 and  05/09/23 01-009/18 03/26/18 01-013/10 02/15/10
+01-003/22 03/17/22 01-005/16 05/23/12 01-032/07 08/01/07
+01-005/21 02/08/21 01-018/12 05/23/12 01-025/04 07/21/04
+01-002/19 01/02/19 01-054/10 12/13/10   
+ 
+APPLICABLE MODEL(S)/VINS
+2018- 2025 Mazda3 2018- 2024 CX-3 2022-2023 MX-30
+2018-2021 Mazda6 2018- 2024 CX-5 2023- 2025 CX-50
+2018- 2025 Mazda2 2018-2024 CX-9 2024- 2025  CX-90
+2018- 2025 MX-5 2020- 2025 CX-30 2025 CX-70
+ 
+ 
+DESCRIPTION
+The Mazda DCA-8000 is required for all warranty battery testing. If the Mazda DCA-8000 is not used, incorrect battery 
+testing may result in unnecessary battery replacement. Use the following test procedures in this Service Bulletin to test 
+Mazda vehicle batteries and to generate a Warranty Code.
+NOTE: A Warranty Code is required for warranty claim submission
+Battery Identification (Mazda batteries have 2 rating types)
+1. JIS (Japanese Industrial Standard):
+JIS codes are six-digit alpha-numeric markings molded into the top of the battery to identify a battery by the capacity 
+(amps), dimensions, and battery terminal type. Vehicles manufactured in Japan come from the factory with a JIS rated 
+battery.
+NOTE: Replacement batteries may use a CCA rating. If so, use the CCA rating listed on the battery.
+Page 1 of
+8
+02/11/2025 10:12 AM tlawrenc
+2. CCA (Cold Cranking Amps):
+CCA ratings are normally located on a sticker affixed to the top of the battery to indicate a battery’s Cold Cranking Amps. 
+CCA rated batteries are supplied with domestically produced vehicles.
+NOTE: If an incorrect CCA rating is entered into the Mazda DCA-8000, it will result in a false result and invalid Warranty 
+Code from the tester. This will also result in unnecessary replacement of batteries.
+TEST PROCEDURE
+Mazda DCA-8000 Main Menu
+1. Connect the charger clamps to the appropriate battery posts.  
+NOTE: For CX-90/ CX-70  Clamp Attachment, use duct tape (A) or equivalent to hold the cable as shown.
+2. At the Main Menu, select In Vehicle Charge and the Acquire VIN screen is displayed.
+Page 2 of
+8
+02/11/2025 10:12 AM tlawrenc
+3. Scan the barcode located on the driver’s side door frame using the provided wireless barcode scanner. A single beep 
+indicates the scan was successful.  
+NOTE:
+If the DCA-8000 isn't used very often, the scanner might go dead because it only charges when the unit is 
+plugged in and on. •
+If your barcode scanner is unavailable for some reason, the VIN can also be entered manually.•
+If the battery parameters were not filled in from the VIN scan, manually enter the battery information.•
+Select the correct rating system for the battery by identifying the correct JIS code (A) stamped onto the batter top 
+or CCA code (B) printed on the battery label. The battery hold down may need to be removed in order to read the 
+JIS code.•
+  
+For MX-30, the battery does not follow Japanese Industrial Standard, therefore input CCA of 295A.•
+For CX-90/ CX-70 H3T (inline 6) M Hybrid Boost, use the following information for DCA-8000 test/charging since 
+the battery label is not visible without removing the battery.
+JIS (Japanese Industrial Standard) - 75D23L○
+CCA (Cold Cranking Amps) - 465A○•
+For CX-90/ CX-70  PHEV (2.5L), the battery label is not visible, but the battery type is Q85. Use the following 
+temporary Q85 Battery Charging Procedure until DCA-8000 software update is available.•
+a. Change Cranking Units to CCA.
+b. Edit Battery Info, then Select Continue.
+Page 3 of
+8
+02/11/2025 10:12 AM tlawrenc
+Battery Type - I-ELOOP•
+Cranking Units - CCA•
+Cranking Rating - 520 (Q85 type battery)•
+Post Location - Top Post•
+Capacity Units - Rated Ah•
+Capacity Rating - 65•
+4. Complete the battery test by following the on-screen instructions and entering the appropriate information. Refer to the 
+Mazda DCA-8000 Quick Start Guide or Midtronics online Instruction Manual  for more information.
+ 
+5. After the test, the DCA-8000 will display one of the possible battery test results listed below. Review the results and 
+follow the Action for the displayed result.
+Battery Tester Display Action
+“GOOD BATTERY” Return the battery to service.
+“GOOD - RECHARGE” Fully charge the battery and return it to service.
+“CHARGE AND RETEST” Fully charge the battery and retest. Failure to fully charge th
+e battery before retesting may cause false readings. If CHA
+RGE AND RETEST appears again after you fully charge th
+e battery, replace the battery.
+“REPLACE BATTERY” A REPLACE BATTERY result may also mean a poor conne
+ction between the battery and the vehicle. If you tested the 
+battery using the System test, disconnect the battery cables 
+and retest using the Battery Test before replacing it.
+6. Select Send Results then select Print to get a test result print out.
+TEST PROCEDURE FOR VEHICLES EQUIPPED WITH I-STOP  
+ 
+Page 4 of
+8
+02/11/2025 10:12 AM tlawrenc
+Page 5 of
+8
+02/11/2025 10:12 AM tlawrenc
+1. Connect the charger clamps to the appropriate battery posts.  
+2. At the main menu, select In Vehicle Charge and the Aquire VIN screen is displayed.  
+3.  Scan the barcode located on the driver’s side door frame using the provided wireless barcode scanner.  
+NOTE: A single beep indicates the scan was successful.  
+4. After VIN is scanned, clicked "enter VIN manually" or "manual entry". Then enter the battery information manually.  
+NOTE: This will autocmatically transfer the 17-digit VIN.  
+5. For I-STOP batteries, enter the battery type as i-ELOOP.  
+ 
+ 
+ 
+NOTE: Select the correct rating system for the battery by identifying the correct JIS code (A) stamped onto the batter top 
+or CCA code (B)
+ 
+6. Run battery test by following the on-screen instructions, visit the Midtronics online Instruction Manual for more 
+information.  
+7. Select Send Results then select Print to get a test result print out. 1. Write the Warranty Code on the RO and attach 
+the printed results to the RO (do not attach with tape due to reaction with the printer paper).  
+NOTE: A Warranty Code is required for warranty claim submission. Claims filed WITHOUT correct codes will be subject 
+to warranty claim denial.   
+ 
+REPAIR PROCEDURE
+Page 6 of
+8
+02/11/2025 10:12 AM tlawrenc
+1. Perform appropriate repair to vehicle. If needed, use the Battery Diagnostics of the DCA-8000 to test the charging and 
+starting systems by following the on-screen instructions for entering the appropriate information. Refer to the Mazda 
+DCA-8000 Instruction Manual for more information.
+2. Verify the repair.
+Page 7 of
+8
+02/11/2025 10:12 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+1. Write the Warranty Code on the RO and attach the printed results to the RO (do not attach with tape due 
+to reaction with the printer paper).
+NOTE: A Warranty Code is required for warranty claim submission. Claims filed WITHOUT correct codes 
+will be subject to warranty claim denial.
+ 
+Page 8 of
+8
+02/11/2025 10:12 AM tlawrenc

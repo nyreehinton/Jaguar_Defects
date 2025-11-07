@@ -1,0 +1,30 @@
+Product Knowledge
+Binder - PPK, Group 16-18
+AfterSalesReplace pages 7 & 8 in PPK bulletin, Group 16, 
+#D8, dated 12-13-2019.Chassis/VIN Numbering Systems 
+Example Below: 2005 911 (997)
+911 = 911 (1981-89) 
+924 = 924/S (1981-88) 928 = 928 (1981-95) 930 = 911 Turbo (1981-89) 931 = 924 Turbo (1981-82) 944 = 944 (1985-91) 951 = 944 Turbo (1986-90) 964 = 911 (964) (1989-94) 968 = 968 (1992-95) 980 = Carrera GT (2004-06) 986 = Boxster (1997-04) 987 = Boxster (2005-09) 987 = Cayman (2006-09) 993 = 911 (993) (1995-98) 996 = 911 (996) (1999-05) 997 = 911 (997) (2005-09) 9PA = Cayenne (2003-09)A81 = Boxster (981) (2013-16), Cayman (981) (2014-16) A82 = 718 Boxster/Cayman (982) (2017-on) A87 = Boxster (987) (2010-12), Cayman (987) (2010-13) A91 = 911 (991) (2013-19) Gen. I & Gen. II A92 = 911 (992) (2019-on) A97 = 911 (997) (2010-12) A70 = Panamera (2010-16) (All models including Hybrid) A71 = Panamera (2017-23) (All models including Hybrid) APA = Cayenne (2010) A2A = Cayenne (2011-18) (All models including Hybrid) AYA = Cayenne (2019-on) (All models including Hybrid & Coupe) A5B = Macan (2015-18) Gen. I A5B = Macan (2019-on) Gen. II/ III A18 = 918 Spyder (2015)Model Years 1981–2009: Used VIN positions 7, 8 & 12 as Porsche model type designation digits. USA model years in ( ) See the following page for VIN positions. As of Model Year 2010: VIN position 7 was changed to a “A”, leaving positions 8 & 12 as Porsche model type designation digits. 
+See the following page for VIN positions.All
+D8 16
+Jan 21, 2025 
+Page 7 of 8Y1A = Taycan  (2020-on) YA0 = Panamera (2024-on) (All models including Hybrid) XA0 = Macan Electric, Macan 4 Electric XA1 = Macan 4S Electric, Macan Turbo Electric (2025-on) XA2 = Macan Turbo Electric (2024) As of Model Year 2020 (Taycan) and Model Year 2024 (Panam-era, Macan Electric models): VIN positions 7, 8 & 12 are used as Porsche model type designation digits.  See the following page for VIN positions.
+Product Knowledge
+©2025 Porsche Cars North America, Inc.AfterSalesJan 21, 2025 
+Page 8 of 8Dr. Ing. h.c. F. Porsche AG is the owner of numerous trademarks, both registered and unregistered, including without limitation  the Porsche Crest®, Porsche®, Boxster®, Carrera®, Cayenne® Cayman®, Macan®, Panamera®, 
+Speedster®, Spyder®, Tiptronic®, VarioCam®, PCM®, PDK®, 911®, RS®, 4S®, 718®, 918 Spyder®, FOUR UNCOMPROMISED®, and the model n umbers and distinctive shapes of the Porsche automobiles such as, the federally 
+registered 911 and Boxster automobiles. The third party trademarks contained herein are the properties of their respective owne rs. Porsche Cars North America, Inc. believes the specifications to be correct at the time of 
+printing. However, specifications, standard equipment and options are subject to change without notice. Some options may be una vailable when a car is built. Some vehicles may be shown with non-U.S. equipment. Please 
+ask your authorized Porsche dealer for advice concerning the current availability of options and verify the optional equipment that you ordered. Porsche recommends seat belt usage and observance of traffic laws at all times.  All
+D8 16
+D = Bratislava, Slovakia 
+K = Osnabrück, Germany  L = Leipzig, Germany  N = Neckarsulm, Germany S = Stuttgart - Zuffenhausen, Germany U = Uusikaupunki, Finland - 987 Models Position 4 uses alpha char-acters A, B, C, etc.  to indicate model types, such as; Coupe, Cabriolet, Targa, SUV (Cayenne), sedan (Panamera), etc. This character can vary from year to year.
+Footnotes:   * Please check the specific VIN in the Model Information, PPK 
+Group 17, D2 series for exact vehicle specific Model Type and Engine Type .  
+** See PPK Bulletin Group 16 D12 for complete list.Make: Porsche  
+WP0 = Sports Cars, Panamera, Taycan WP1 = Cayenne, Macan
+* * **
+Position 5 uses alpha characters 
+A, B, C, etc. to indicate engine types, such as; normally aspirated, turbo, Hybrid, etc. This character can vary from year to year.L = 1990 
+M = 1991 N = 1992 P = 1993 R = 1994 S = 1995 T = 1996 V = 1997 W = 1998 X = 1999 Y = 2000 1 = 2001 2 = 2002 3 = 2003 4 = 2004 5 = 2005 6 = 2006 7 = 2007 8 = 2008 9 = 2009 A = 2010 
+B = 2011 C = 2012 D = 2013 E = 2014 F = 2015 G = 2016 H = 2017 J = 2018 K = 2019 L = 2020 M = 2021 N = 2022 P = 2023 R = 2024 S = 2025 T = 2026 V = 2027 W = 2028 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17VIN Positions

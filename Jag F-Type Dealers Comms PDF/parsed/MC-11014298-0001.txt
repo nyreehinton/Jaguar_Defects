@@ -1,0 +1,54 @@
+Involved Region or
+CountryUnited States, Canada, Mexico, Europe, Kazakhstan, Uzbekistan,
+Russia, Middle East, Iraq, Israel, P alestine, Argentina
+(Mercosur), Brazil (Mercosur), Bolivia (W est), Chile (W est),
+Colombia (W est), Ecuador (West), P aragua y (West), Peru (W est),
+Urugua y (West), V enezuela (W est), Japan, S. K orea, China - SGM,
+China GMPI, T aiwan , Thailand (ASEAN), Singapore, Philippines,
+Australia/New Zealand, Egypt, Other Africa
+Additional Options
+(RPO)CF5 Sunroof
+ConditionSome customers ma y comment on the sunroof opening
+unexpectedly without using the sunroof switch.  In some cases,
+they ma y notice that the sunroof opens when the vehicle is
+started, certain lights turn on, or they ma y ﬁnd it open when
+they return to the vehicle.  T ypically , it will be open to the tilt /
+vent position.  
+CauseAn issue in the overhead roof console microprocessor ma y cause
+the sunroof to open unexpectedly .
+Labor Operation Description Labor Time
+Bulletin No.: PIT6336
+Published date: 02/11/2025
+Preliminary Information
+PIT6336 Unwanted Sunroof Opening
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 1500 2023 - 2025 All AllAll All
+GMC Sierra 1500 2023 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:  
+Engineering is currently working on a design improvement.  In the meantime, completely
+close the sunroof and then remove the sunroof fuse F54DR in the RH I/P junction block
+X51R , which will disable the sunroof .  Once more information is available this PI will be
+updated.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+ 
+Labor Operation Description Labor Time
+* 2086988Remove 40 amp fuse F54DR in Right IP fuse
+block X51R to disable the sunroof0.3 Hrs.
+ *This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/11/2025 - Created on. 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,148 @@
+GENERAL MOTORS  
+DCS 7142  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 12 , 2025 
+  
+Subject:  N242486100 - Service Update  
+ Incorrect Trailering and Certification Labels  
+  
+Models:  2024 Chevrolet Silverado EV  
+   
+  
+General Motors is releasing  Service Update N242486100 today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Servic e Information tomorrow.    
+A Stock VIN list is not included as our records show there are no vehicles in 
+dealer new inventory.  
+ 
+ 
+END OF MESSAGE  
+Service Update  
+N242486100  Incorrect Trailering and Certification Labels   
+ 
+ Page 1 of 3 
+ 
+Release Date : February  2025 Revision : 00  
+ 
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.   
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Silverado EV  2024  2024  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above may have a condition in which the VIN number and other information on 
+the label s is incorrect.  
+Correction  Dealers will replace the trailering and certification labels . 
+Parts  
+Quantity  Part Name  Part No.  
+1 Trailering Label  85532775 * 
+1 Certification Label  19355584 * 
+Note: Both labels are VIN specific. Order the labels through the EPC and enter the VIN number in the order field. A VIN 
+is needed for BOTH label orders. For ordering issues, email gmcert@duramarkusa.com  
+* US Dealers only. Canadian dealers should NOT order this part number. Canadian dealer should follow the 
+directions below for ordering labels.  
+Canada Dealers:  
+Pre-shipment for Inventory Vehicles:  An initial supply of labels will be pre -shipped to involved Canadian dealers on 
+record. This pre -shipment is scheduled to begin the week of February 10, 2025.  
+Customer Owned Vehicles: Dealers should only order labels for customer -owned vehicles once the customer has 
+attended the dealer and you are aware a label needs to be ordered.  
+To Order labels:   If a label is needed, please contact the Warranty Call Centre at 1 -888-222-5546 to order labels. The 
+labels will be provi ded free of charge. Dealers will be required to provide a VIN at the time of ordering. Please use the 
+Field Action number N242486100 when ordering the label.   Labels will not be provided for VINs which are not involved 
+in this recall. DO NOT ORDER the lab el using the part number in the chart.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107847  Trailering and Certification Label Replacements  0.3 ZFAT  N/A 
+Service Procedure  
+Important:  Do NOT place NEW label over existing label.  
+Service Update  
+N242486100 Incorrect Trailering a nd Certification Labels   
+ 
+  Page 2 of 3 
+  
+6833833  
+1. Remove the Trailering Label and any residue using isopropyl alcohol and dry with clean, lint free cloth. Receiving 
+surface MUST be clean, dry and free of any contaminants.  
+2. Firmly hold the new label and peel protective liner from the back side, being careful not to touch or contaminate the 
+adhesive with dirt or foreign matter.  
+3. Carefully align new label to the surface. Press firmly and smooth out entire label ensuring corners are fully adhered . 
+6833611  
+4. Remove the Certification Label and any residue using isopropyl alcohol and dry with clean, lint free cloth. Receiving 
+surface MUST be clean, dry and free of any contaminants.  
+5. Firmly hold the new label and peel protective liner from the back side, being car eful not to touch or contaminate the 
+adhesive with dirt or foreign matter.  
+6. Carefully align new label to the surface. Press firmly and smooth out entire label ensuring corners are fully adhered . 
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the service update correction has been made  before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, o r any other purpose.  
+ 
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/ paid 
+
+Service Update  
+N242486100 Incorrect Trailering a nd Certification Labels   
+ 
+  Page 3 of 3 
+  
+warranty transaction in the Global Warranty Management (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+ 
+Dealer Reports  – For USA & Export  
+The Invento ry tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service  Update Bulletin VIN data because the intent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be completed when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condition.  See your dealer for informa tion on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

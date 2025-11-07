@@ -1,0 +1,68 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S250800001 5 
+ 
+Release Date:   February  2025 
+Symptom/Vehicle Issue : Vehicle is Not Starting After a Recent Jump Start has Been 
+Performed , Service Requiring Charging to a 12Volt Battery to Avoid Damage to the  Integrated Dual 
+Charge Module  (IDCM )  
+Customer  Complaint/T echnician  Observation:  The owner explains that after  a jump start , 
+the vehicle is no  longer  starting. The technician observed  the vehicle is setting Diagnostic Trouble 
+Code (DTC)  U12AF  Loss of Communication  with the IDCM.  
+ 
+Repair Procedure : If the  Hybrid Control Processor  (HCP)  is setting  U12AF after a jump start, 
+confirm there are no loss of main power and or ground or BUS circuit issues at the IDCM. If no circuit 
+issues  have been located , a replacement IDCM may be required.  
+ 
+To prevent damag e to the IDCM  follow the below 12V battery charging procedure . 
+ 
+Discharged 12 -Volt batteries on PHEV/BEV – Charging Process to Avoid Damaging the IDCM  
+ 
+Charging a completely Discharged 12 -Volt Battery on PHEV/BEV.  
+ 
+When a 12 -Volt battery is completely discharged  on a Stellantis PHEV or BEV vehicle we should be 
+using the procedure found in service library related to the 12 -Volt battery charging. Unless this 
+procedure is properly followed, a good battery may be needlessly  replaced. The c harging rate of a  
+battery depends on the battery temperature  and the amount the battery has been depleted . Batteries 
+at warmer temperature 32 degrees or above will accept a higher charge rate than those with a lower 
+temperature.   
+ 
+1. Measure the battery voltage at the battery posts with a voltmeter  for accurate battery 
+voltages. B atteries below 10 -Volts can be considered extremely discharged.  
+2. Disconnect and isolate the negative battery cable. If equipped with an Intelligent Battery 
+Sensor (IBS), disconnect the IBS connector FIRST before disconnecting the negative battery 
+cable.  
+3. Charge a battery based on the battery temperature and the depleted state of charge.  
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Charging a 12-Volt depleted batter y on a PHEV/BEV vehicle  is dependent on the ground cable 
+being disconnected  as described in step 2. If the ground cable is not disconnected  as detailed , 
+damage to the IDCM  may occur . 
+4.  See Service Library (SL) for complete 12V battery service and charging needs. 08 - 
+Electrical / 8F - Engine Systems / Battery System / Standard Procedure)  
+ 
+ 
+ 
+ 

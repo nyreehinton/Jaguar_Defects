@@ -1,0 +1,78 @@
+       Thor Motor Coach  
+Technical Service Bulletin  
+ 
+Thor Motor Coach    
+1-877-500-1020  
+TSB 25-02 
+    
+  
+ 
+ 
+TSB #     TSB 25-02 
+ 
+Description/Title:   
+Taillight harness grounding  
+ 
+Affected Product Line(s):   
+Certain model year 2025 Pasadena & Inception   
+ 
+Service Campaign # :  RC000 323   
+Code s: Inspect with Repair:  
+TMCTS10101J  
+  Document Date:  2/24/2025  
+Time Allowed:   
+Inspect with Repair:   
+0.75  Document Revision:  A 
+ 
+Issue:   
+Part (s) Required:  
+ 
+12”-24” 14 gauge white wire 
+Heat shrink eyelet  
+Heat shrink butt connector  
+Wire nut  
+ 
+Instructions:  
+ 
+1. Find the rear taillight harness connector located inside of the driver chassis  rail. 
+ 
+2. Expose the taillight harness  leading to the rear cap  and cut the 14-gauge  white wire near the 
+chassis ground stud  near the hydraulic pump assembly . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It has been found the camera display on the radio may glitch while the turn signal is activated  
+and s imultaneously  using the brake .   
+ 
+       Thor Motor Coach  
+Technical Service Bulletin  
+ 
+Thor Motor Coach    
+1-877-500-1020  
+TSB 25-02 
+    
+  
+ 
+ 
+ 
+ 
+ 
+3. Cap off the chassis side of the white wire.  It will no longer be needed.  
+ 
+4. Connect the rear cap side of the cut white wire to a heat shrink butt connector.  
+ 
+5. On the other end of the heat shrink butt connector, add a 14-gauge  white wire to reach the chassis 
+ground stud with a heat shrink eyelet.  
+ 
+6. Remove the chassis ground stud nut holding the hydraulic pump assembly ground and add the 
+new taillight harness eyelet.  
+ 
+7. Reinstall the nut to the chassis ground stud.  
+ 
+8. Be sure to activate the heat shrink on the eyelet and butt connector.  

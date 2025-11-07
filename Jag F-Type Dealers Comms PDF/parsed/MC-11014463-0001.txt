@@ -1,0 +1,34 @@
+Involved Region or
+CountryUnited States, Canada, Mexico, Middle East, Israel, P alestine,
+Colombia (W est), Peru (W est)
+Additional RPO's  IVE
+ConditionSome customers ma y comment when adjusting the radio
+volume, it ma y not go over 20%.
+Cause Software anomolies 
+Version 1
+Modiﬁed 02/21/2025 - Created On. 
+Bulletin No.: PIT6341
+Published date: 02/21/2025
+Preliminary Information
+PIT6341 Volume not going over 20%
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletTraverse All New 2024 All AllAll All
+GMC Acadia 2024 All AllAll All
+ 
+ 
+ 
+Correction:
+Engineering is currently investigating.
+The PI will be updated or replaced with TSB once a determination has been made.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+*2880097 Verify radio volume not going over 20% 0.2 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+ 
+Version History
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,95 @@
+ 
+ 
+ 
+ 
+DTC P175E CALIBRATION UPDATE - REPROGRAM  TRANSMISSION  
+CONTROL MODULE  (TCM) AND COMPLETE  TRANSMISSION FAST 
+LEARN  
+ 
+▪ 2025 MY Isuzu N -Series  
+Equipped with 6.6L Gasoline Engines and 8L90 Automatic 
+Transmissions  and wholesaled prior to December 13, 2024  for repairs 
+requested before January 31, 2025  
+ 
+This bulletin supersedes service bulletin SB25 -K -001. This bulletin is being 
+revised to update content. Please discard previous bulletin SB25 -K -001.  
+ 
+This Service Bulletin has  been superseded by Customer Satisfaction Campaign 
+CB25 -K-001. This Service Bulletin is for reference only for vehicles repaired prior 
+to January 31, 2025.   
+The original calibration in the TCM of certain 2025MY N -Gas vehicles contained incorrect 
+logic that may unnecessarily cause DTC P175E to set and illuminate the Check Engine 
+Malfunction Indicator  Light  (MIL) .  An updated TCM calibration correcting this concern is 
+now available.  Additionally, the Transmission Fast Learn must be completed after the 
+TCM calibration is completed.  
+Dealers are to reprogram the TCM with a corrected service calibration  and perform the 
+Transmission Fast Learn .  Follow the service procedure below to update the TCM 
+calibration and perform the Transmission Fast Learn  as required . 
+ 
+1. Block the wheels and apply the parking brake.  
+2. Ensure that IDSS has a n internet connection  and is up to date . 
+3. Connect  IDSS to the vehicle  and turn the ignition “ON”.  
+4. Click on “Auto Detect”.  
+5. Go to  Controller programming >Transmission >Software and Calibrations 
+>Update Calibrations and read the TCM calibration part number.  BULLETIN NUMBER:  
+SB25-K-001A 
+ISSUE DATE:  
+FEBRUARY  2025 
+GROUP:  
+TRANSMISSION  
+AFFECTED VEHICLES  
+INFORMATION  
+SERVICE PROCEDURE  IMPORTANT SERVICE 
+INFORMATION FOR:  
+✓ SERVICE MANAGER  
+✓ SERVICE ADVISOR  
+✓ TECHNICIAN  
+✓ PARTS DEPARTMENT  
+✓ WARRANTY PERSONNEL  
+ 
+                                                              a. If the calibration part number  shown in the vehicle does NOT match the 
+calibration number listed in the table below , reprogram the TCM and the n 
+proceed to Step 6. 
+b. If the calibration part number matches the service calibration part number 
+in this bulletin, this bulletin no longer applies.  F ollow the diagnostics in the 
+appropriate Workshop Manual for the DTC set.  
+MY Vehicle  Engine  Trans  Calibration #  
+2025  NPR  6.6L 8L90  24069901  
+2025  NPR -HD 6.6L 8L90  24069900  
+WARNING: Perform this procedure outside or with proper exhaust ventilation 
+equipment. Ensure that there are no obstacles or people in front of the vehicle 
+while performing the Transmission Service Fast Learn  procedure . 
+6. After completing the TCM reprogramming, s tart the engine and allow the transmission 
+fluid temperature to begin warming up.  
+NOTE: Depending on the ambient  temperature, the vehicle may need to be driven to 
+achieve the proper transmission fluid temperature.  
+7. Using IDSS, g o to Scan Tool > Output Control Test > Transmission > Transmission 
+Service Fast Learn  and confirm the transmission fluid temperature is between 75°C 
+(167°F) and 85°C (185°F) . (See Figure 1)  
+ 
+ 
+Figure 1  
+8. Ensure that the selector lever  is in the “P” Park position . 
+9. Depress and hold the brake pedal for the duration of this procedure.  
+IMPORTANT : Keep the brakes applied until the fast learn  process  is complete . 
+10. Click on the “Learn” button to enable the fast learn process.  
+11. Place the selector lever  into the “D” Drive  position  and wait for the transmission to 
+complete the fast learn process.  
+NOTE : It is normal for t his process to take several minutes to complete.  
+
+ 
+                                                              12. The fast learn process is completed when the Transmission Service Fast Learn Status 
+reads “Fast Learn Completed”.  (See Figure 2 .)  
+ 
+ 
+Figure 2 
+13. Once the fast learn is completed , put the  selector  lever  into the “P” P ark position,  release 
+the brake  pedal  and t urn off the ignition for at least  1 minute .  
+14. The Transmission Service Fast Learn is now completed.  
+ 
+For vehicles repaired under warranty  prior to January 31, 2025 use : 
+Labor 
+Operation  Description  Labor Time  
+K8000  25 N -Gas DTC P175E C alibration  Update  0.5 
+ 
+WARRANTY INFORMATION  

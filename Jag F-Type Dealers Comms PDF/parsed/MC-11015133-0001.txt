@@ -1,0 +1,436 @@
+SUBJECT:
+NEW MODEL FEATURES & 
+SERVICE INFORMATION - 2025 OUTLANDERNo:TSB-25-00-010
+DATE: February 2025
+MODEL: 2025 Outlander
+CIRCULATE TO : [  ] GENERAL MANAGER [ X ] PARTS MANAGER [ X ] TECHNICIAN
+[ X ] SERVICE ADVISOR [ X ] SERVICE MANAGER [ X ] WARRANTY PROCESSOR [ X ] SALES MANAGER
+PURPOSE
+MODEL ENGINE TRANSMISSION
+ES (2WD, S-AWC)
+2.5L DOHC 4-cylinder Direct InjectionCVT with 8-speed 
+Electronic AutomaticSE (2WD, S-AWC)
+SEL (2WD, S-AWC )AFFECTED VEHICLES
+2025 Outlander
+U.S. MODEL LINEUP
+SERVICE INFORMATION
+See TSB-25 -00-009 for 2025 Outlander Technical Specifications.
+VEHICLE INFORMATION
+New and improved comfort, convenience, materials, design and technology for 2025 Outlander 
+include the following:This bulletin contains important new model year 
+service information and features for the 2025 
+Outlander (U.S. models only).  Review the details 
+that follow to familiarize yourself with 2025 model 
+year features and options.  Refer to the 2025 
+Outlander Service Manual on MEDIC, MDL, or CD (p/n 
+MSCD-030B-2025), and the Owner's Manual for 
+details on these and other features.
+The information contained in this bulletin is subject to change. For the latest version of this document, go to the 
+Mitsubishi Dealer Link, MEDIC, or the Mitsubishi Service Information website (www.mitsubishitechinfo.com) .NOTE:  All information contained in this document is for Internal  Training Purpose only.  If you
+ are a customer viewing this document please go to mitsubishicar s.com for required
+ disclaimers. 
+Copyright 2025, Mitsubishi Motors North America•ALL NEW YAMAHA Premium Audio on all trims
+•NEW 12.3" Smartphone-link Display Audio with Navigation standard on all trims, a first for
+Outlander
+•USB-C charge ports
+2/10/2025
+1 of 21
+(5438)
+•NEW  alloy wheel designs across all trim levels
+•Revised front grill
+•Redesigned front & rear skid guards with three dimensional design
+•Revised taillights with black background  and deeper red for improved visibility
+•LED exterior and interior lights standard on all trims
+•Heated front seats now standard on all S-AWC models
+•Available HomeLink garage door opener
+•Wireless Apple CarPlay and Android Auto standard
+•Google street View and Places integration
+•NEW  Moonstone Gray Metallic tri-coat paint
+•NEW  Brick Brown Semi-Aniline Premium Leather available with SEL Premium package
+•Heated Steering Wheel and Power Panoramic Sunroof standard on SEL
+•Ventilated Front Seats standard on SEL
+•NEW Leather Quilting Pattern on SEL
+•NEW Light Gray Interior on SE
+•Enhanced shocks, spring rate and tires
+•Re-tuned Electronic Power Steering
+•Redesigned smartphone wireless charger with improved accessibility
+•Updated digital driver display graphics
+•Improved center console design with increased storage capacity and repositioned, larger
+cupholders
+•Aluminum pedals on SEL
+•18 new acoustic isolation items reduce road noise and vibrations
+•Digital Rearview Mirror with integrated rear cameraVEHICLE INFORMATION (Continued)
+2/10/2025
+2 of 21
+(5438)
+OUTLANDER E S FEATURES
+•NEW 18-inch alloy wheels
+•Wireless Apple CarPlayTM and Android AutoTM
+•Front USB-C
+ ports (2)
+, plus Cent er Console  Box USB-C  (1)
+•NEW 12.3" Smartphone-link Display Audio w/Navigation - SiriusXM® 360L  with
+3-month All Access
+ trial
+•ALL-NEW YAMAHA
+ Premium 8-speaker audio
+•Mitsubishi Connect with
+ Safeguard 5-year trial  and Remote services  12-month
+trial
+•Heated Front Seats 
+(S- AWC only)
+•LED Interior Lighting
+•Auto-dimming Rearview Mirror
+•Full LED Headlights AND
+ Taillights
+•LED Tailgate Cargo
+ Light
+•Blind Spot Warning
+ (BSW) with Lane Change Assist  (LCA)
+•Rear Cross
+ Traffic Alert (RCTA)
+•Rear
+ Automatic Emergency Braking (Rear
+ AEB)
+•Rear parking
+ sensor
+•Push button start
+•7-passenger
+ seating
+•Bluetooth® wireless technologyFEATURES BY MODEL
+OUTLANDER SE FEATURES 
+•ALL NEW Trim features plus:
+•NEW Available Light Gray Interior
+•HomeLink Garage Door Opener
+•Advanced Driver Assist Systems
+o Adaptive Cruise Control (ACC) with Traffic Jam Assist
+o Lane Keep Assist (LKA)
+o Lane Departure Prevention (LDP)
+o Traffic Sign Recognition (TSR)
+•Hands-free Power Liftgate
+•Front Parking Sensors
+•Synthetic Leather / Suede Seating
+•LED front fog lights
+•Front rain-sensing wipers
+•Leather-wrapped steering wheel + shift knob
+•Updated 15W Smartphone Wireless Charger
+•Rear USB ports
+•Auto Up / Down Windows - All
+•Heated Front Seats
+•Multi-View Camera System
+•Heated Door Mirrors
+•Electric Folding Mirrors
+3 of 21
+(5438)
+2/10/2025
+3 of 21
+(5438)
+OUTLANDER SE TECH  PACK AGE FEATURES 
+•NEW YAMAHA ULTIMATE 12-speaker premium audio
+•Power Panoramic Sunroof
+•12.3" Digital Driver DisplayFEATURES BY MODEL (Continued)
+OUTLANDER SEL PACKAGE FEATURES 
+•ALL SE features plus:
+•Leather Seating w/ NEW Quilting Pattern
+•Aluminum Pedals
+•Heated Steering Wheel
+•Ventilated Front Seats
+•Power Panoramic Sunroof
+•12.3" Digital Driver Display
+•Reverse Auto Tilt Mirrors
+•Silver Roof Rails
+•3-zone Auto Climate Control
+•Heated Rear Seats
+•Rear Door Sunshades
+•Key-Link ed Driver Position Memory Seats and Mirrors
+OUTLANDER SEL PREMIUM PACKAGE FEATURES 
+•NEW YAMAHA ULTIMATE 12-speaker premium audio
+•Head-Up Display
+•NEW Semi-Anline Premium Leather (Brick Brown)
+•Digital Rearview Mirror w/Rear Camera
+•Requires Two-Toned Roof
+OUTLANDER PLATINUM EDITION SAM PACKAGE FEATU RES 
+•ALL SEL features plus:
+•NEW YAMAHA ULTIMATE 12-speaker premium audio
+•Head-Up Display
+•Digital Rearview Mirror w/Rear Camera
+•Black Diamond body with Alloy Silver roof
+•Light Gray leather interior
+•Satin Hood Emblem
+•PLATINUM EDITION badge
+•Ground Illumination  (Mitsubishi Motors logo)
+•Scuff Plates
+2/10/2025
+4 of 21
+(5438)
+EXTERIOR
+Dynamic Shield Illumination and Power Side Mirrors 
+Images from 2024 Outlander for illustration purposes
+Daytime Running Lights and Headlamps
+Strategically placed daytime running lights sit high near the hood, while headlamps below 
+minimize glare for others sharing the road.
+Front Design
+Th The front grill has an upgraded feel with smooth and elaborate detailing.
+The skid guard has gained a more three-dimensional appearance, providing a robust and 
+protected feel.
+New titanium gray finish.
+2/10/2025
+5 of 21
+(5438)
+Rear Design
+The tail lamp outer lens has a clear outer lens with black background material , wide and 
+illuminated making the T-shaped signature with the deeper red inner lens stand out more 
+than before.
+The signature shape is emphasized by the clear outer lens and red inner lens, even when the 
+tail lamp is unlit and around dark components.
+The design and visibility have been improved by using LEDs for the turn and back up lights.
+The skid guard's design has been revamped with a three-dimensional style, reinforcing the 
+robust and protective exterior.
+Wheels
+High-end, large-diameter 20" machined wheels available on SE/SEL 
+models to accentuate the 2025 Outlander's confident stance.
+The new 6-spoke design is geometric yet dynamic.  The 20" variant is 
+machined with a step rim, while the 18" version is available machined 
+or painted. Shown:  18" silver 
+painted available on ES model  (only in 
+machined for 2025) .
+2/10/2025
+6 of 21
+(5438)
+Paint Colors
+ES Color Lineup
+SE Color Lineup
+SEL Color Lineup
+2/10/2025
+7 of 21
+(5438)
+SEL Premium Color Lineup
+*ACCY = accessoryNew for 2025 Outlander, Moonstone Gray Metallic.  Gray metallic color adds a sharp blue glow 
+to the solid-like gray by combining blue metallic flakes and aluminum flakes resulting in a 
+dynamic appearance. The paint layers have increased from two layers to three, resulting in 
+a diamond-like color.  This is the only color in the lineup to feature three coats outside 
+the Diamond series.
+TRAIL Edition Design
+*ACCY = accessory
+2/10/2025
+8 of 21
+(5438)
+Reduced Noise Levels
+Newly developed tires reduce road noise level and sound deadening materials added in 18 
+different locations around the interior of the car including:
+•Door trim
+•Glove box
+•Air Conditioning ducts
+•Floor panel•Thicker floor carpet
+•A&B Pillar trim
+•3rd row panel trim
+Available Power Panoramic Sunroof
+Spanning an impressive length the available panoramic sunroof with narrow drip rails 
+provides greater overall visibility while filling the cabin with natural light.
+*ACCY = accessory
+2/10/2025
+9 of 21
+(5438)
+INTERIOR
+The available heated steering wheel has increased telescopic range and adjusts easily to any 
+driver.
+The Drive Mode Selector allows you to switch between eco, normal, tarmac, gravel, snow and 
+mud modes.Heated Steering Wheel and Drive Mode Selector
+12.3 inch full digital driver display enhances usability and allows intuitive understanding of 
+the vehicle status.  The design has been improved to create a meter with a high quality and 
+a sense of luxury.
+Key features:
+•Better visibility with TFT color LCD
+•High-resolution display with smooth animations
+•Enriched display content
+•Meter display control using steering wheel controls
+•Driver friendly support display with headlight and wiper operation guidance
+•Customizable display
+•Audio and navigation map display
+2/10/2025
+10 of 21
+(5438)
+Interior Lamps / Illumination
+All interior lamps have been upgraded to LED.  The map lamp, room lamp, and personal lamp 
+can be turned on and off with a capacitive switch.  With the operation of the main switch 
+and individual lamp switches, the lights now gradually turn on and off.  A foot lamp has been 
+added to provide ground illumination when getting in and out of the car at night  (not 
+standard).
+Seating
+SEL Premium Semi-Aniline Leather features new Brick Brown color and quilting pattern.
+SEL features new quilting pattern  Black Leather.
+2/10/2025
+11 of 21
+(5438)
+SEL features new quilting pattern.  Light Gray Leather available with select exterior colors.
+Seating (Continued)
+SE features new light gray synthetic leather for the first time.  Available with select exterior 
+colors.
+2/10/2025
+12 of 21
+(5438)
+Ventilated Front Seats
+Front seat comfort has been enhanced by adding a 3-level adjustable ventilation feature to the 
+semi-aniline leather / leather seats (SEL and SEL Premium only).  The system pulls air from 
+HVAC ducts, has separate adjustable airflow levels for driver and passenger , and is adjustable 
+in 3 stages to maintain a comfortable ride.
+Frameless Digital Rearview Mirror with HomeLink ®
+Exclusively available on SEL Premium and Platinum Edition , Outlander adopts a frameless 
+design for the digital rear-view mirror.  The video from the camera installed at the rear of the 
+vehicle is displayed on the rear-view camera.  You can turn the camera image on/off by 
+moving the lever located in the center of the mirror forward and backward. 
+Cup Holder
+With the cup holder now located beside the shift lever instead of in the front armrest, it's easy to 
+remove cups and  bottles, accommodating two 44-ounce cups.  Cup holders are tilted away 
+from each other to prevent contact of the cups.
+2/10/2025
+13 of 21
+(5438)
+Wireless Charger / Console Box / USB-C Port
+The base of the wireless charger is now slanted, making it easier to access the smartphone 
+placed on the charging pad.  The capacity of the console box has increased by 45% and increase 
+from 2.9L to 4.2L.  Additionally a USB-C port has been added to the console box (standard from 
+ES).
+Touch Sensitive Interior Lights
+Outlander now has standard full exterior and interior LED lights.  All Interior Lights are touch 
+sensitive activation for a more premium experience.
+Aluminum Trimmed Pedals
+SEL models are now equipped with enhanced aluminum trimmed pedals.
+2/10/2025
+14 of 21
+(5438)
+Yamaha Ultimate Audio
+Experience music with Outlander's unique Yamaha System which includes:
+High-end hardware & software technologies to attain the best sound quality:
+•Wide range, low distortion speakers
+•Upsized speaker magnets for more dynamic efficiency
+•Large-gauge wiring for maximum power and efficiency
+•High quality tuning utilizing "Virtual Cabin" and "Sound Localization" tools:
+Traditional concert hall expertise meets modern technology
+Specification and Feature Updates:
+•Speed compensation adds EQ tuning
+•Rain and HVAC compensation
+•Unique EQ tuning with customer options
+•Tuning for specific listening positions (customer selectable)
+•More sounds dampening in door panels to reduce noise
+New modifications were made to the outer and inner door panels to prevent resonance and  
+improve bass sound quality.
+Outlander offers Yamaha Premium Audio standard on all trims and includes 8 speakers.  The 
+Yamaha Ultimate Audio includes 12 speakers and a dual amplifier.
+2/10/2025
+15 of 21
+(5438)
+Both Dynamic Sound Yamaha systems in Outlander offer a premium experience by simulating the 
+feeling of being at a live performance.
+By directing tweeter/woofer concentration on treble/bass, details of sounds are expressed at 
+higher levels.
+By lifting the sound stage, vocal and musical instruments are localized in front of listeners.  This 
+results in an even more natural sound stage.
+Yamaha Ultimate*  speakers are covered in metal grilles with a unique Japanese design.   The 
+logo is designed in brass gold, drawing inspiration from Yamaha's legacy instruments.
+*Featured on SE Tech Package and SEL Premium Package
+2/10/2025
+16 of 21
+(5438)
+2/10/2025
+17 of 21
+(5438)
+Audio & Navigation
+Standard on ALL trims, the 12.3-inch Smartphone-link Display Audio with Navigation 
+ensures all passengers enjoy a comfortable drive with its diverse content offerings.
+By connecting to Google's server, the 12.3-inch Smartphone-link Display Audio supplies 
+information around the destination.
+Usual navigation functions will also be enhanced with online content.
+2/10/2025
+18 of 21
+(5438)
+My Mitsubishi Connect - Services
+Drive Mode Selector
+Drive modes are available for various road conditions and provide driving confidence in any 
+situation.
+Suspension & Steering
+The 2025 Outlander has enhanced tires, shock absorbers, and spring rate to improve ride 
+comfort on all road surfaces.
+•Springs:  changed SPG rate balance to improve flatness and reduce pitch
+•Shock Absorber:  re-tuned shocks to reduce harshness and reduce pitching
+•Stabilizer:  reduces front stiffness for improved handling
+2/10/2025
+19 of 21
+(5438)
+Cabin Noise
+Newly developed tires contribute to reduced noise levels and harsh vibrations, providing a 
+more comfortable and high-quality ride.
+•Road noise level is reduced on rough surfaces
+•Sound deadening materials have been added in 18 different locations around the
+interior of the car including:
+oDoor trim
+oGlove box
+oAir conditioning ducts
+oFloor panel
+oThicker floor carpet
+oA&B pillar trim
+o3rd row panel trim
+PORT OPTIONS
+AVAILABLE PORT OPTIONS ES SE SE Tech SEL SEL Premium RALLIART Platinum Edition
+O O O O O O -
+O O O O O O O
+O O O O O O -
+O O O O O - -
+- O O O O - -
+O O O O O - O
+O O O O O O
+O O O O O OO
+OO O O O O
+- O O - -
+O O O O O
+O O O O OO O O O O
+O O OO O OO O O O
+SO
+S S S S
+O O O- O- O
+- O
+O O O O
+O O O
+O O OO O O
+S S S
+O O OO O OO O OChrome Bumper ProtectorRoadside Assistance KitScuff PlatesGloss Black Rear Bumper ProtectorBlack Bumper AccentsCargo Management SystemReversible Cargo MatThree Piece Cargo LinerAll-Weather Cargo ProtectorCarbon Console and Door TrimSeat Back NetMetal Cargo Scuff PlatesBlack Door Handle TrimDynamic Shield IlluminationDoor Ground IlluminationRoof SpoilerTonneau CoverBlack Wheel Locks & Lug NutsChrome Wheel LocksMudguardsBlack Hood BadgeChrome Hood BadgeWelcome PackageAll-Weather Floor MatsBlack Mirror CoversIlluminated Scuff Plates
+Seatback OrganizerO
+OOO
+S
+OOO
+OO
+OO
+S
+OOO
+O O O O- O
+- -
+- O
+O -
+- -
+- O
+- -
+- O
+- S
+- O
+- O
+- -
+- -
+- -
+- S
+- O
+- -
+- -
+- O
+2/10/2025
+20 of 21
+(5438)
+/C0068New Vehicle Limited Warranty - 5 years or 60,000 miles
+/C0068 Powertrain - 10 years or 100,000 miles (original retail purchaser only). 5 years or 60,000 miles to
+subsequent owners.
+/C0068Outer Panel Rust Perforation - 7 years or 100,000 miles
+/C0068Adjustments - 1 year or 12,000 miles
+/C0068Roadside Assistance - 5 years / unlimited miles
+/C0068Emissions - Refer to the Warranty and Maintenance Manual for coverage details.WARRANTY
+2/10/2025
+21 of 21
+(5438)

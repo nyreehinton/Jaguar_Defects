@@ -1,0 +1,201 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+CAMPAIGN  25-01-018G 
+FEBRUARY  2025 SEE BELOW  
+ DCU (MODEM) NETWORK INSPECTION AND CONNECTED 
+SERVICES RESET  (SERVICE CAMPAIGN 913G) 
+This TSB supersedes 25-BE-003G to update the TSB to a Service Campaign, to add an Initial 
+Verification of Connect ion section, and to update Warranty information on page 1. 
+ 
+ 
+Description:  Some vehicles may exhibit a loss of connectivity or interruptions in the middle of using  
+Connected Car Service s (CCS) functions. This may be due to an occasional disconnection on Verizon’s  
+communication network. Follow the procedures in this bulletin to verify Connected Car Data 
+Communication Unit (DCU) network connection and if needed, reset the DCU in Dealer Mode to resolve 
+the connection.  
+ 
+ 
+ 
+Applicable Vehicles  (Certain) :  
+• 2025MY G80 (RG3)  
+• 2023 -2025MY G90 (RS4)  
+• 2023 -2025MY GV60 (JW1  EV) 
+• 2025MY GV80 ( JX1)  
+ 
+ 
+ 
+ 
+ 
+Retailers must perform this service campaign on all affected vehicles prior to retail delivery to a 
+guest and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ 
+Access the “Vehicle Information” screen via WebDCS to identify open campaigns.  
+ IMPORTANT  
+For GV60  ONLY : To avoid potential damage to Genesis EVs, Genesis EV repairs can only be 
+performed by EV Certified Genesis Retailers . 
+NOTICE  
+ 
+TSB #: 25-01-018G Page 2 of 7 
+ 
+SUBJECT:  Warranty Information:  
+G80 (RG3)  
+G90 (RS4)  
+GV60  
+(JW1 EV)  
+GV80 (JX1)  50D053R0  Initial Verification of 
+Connection  0.2 M/H  NTF00 -00000  M73 ZZ3 
+50D053R1  Resetting the DCU 
+Network in Dealer Mode  
++ 
+Verification of 
+Connection After 
+Resetting DCU  0.3 M/H  NTF00 -00000  M73 ZZ3 
+NOTE 1: Submit claim on Claim Entry Screen as “Campaign” type.  
+NOTE 2: If a part is found in need of replacement while performing this campaign and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the 
+work.  
+Service Procedure:  
+1. Turn ON the ignition (A) .  
+ 
+2. Select Setup (B) or SETUP  (C).  
+ 
+ 
+A 
+B 
+C 
+ 
+TSB #: 25-01-018G Page 3 of 7 
+ 
+SUBJECT:  3. Select Connected Services  (D). 
+ 
+ 
+4. Select Activate  (E) or Reconfigure  (F). 
+ 
+ 
+ 
+E 
+F 
+D 
+ 
+TSB #: 25-01-018G Page 4 of 7 
+ 
+SUBJECT:  5. 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Verify Genesis Connected Services activation 
+success . Select OK if either message is 
+shown:  “Connected Services Activated ” 
+(G) or “GENESIS  Connected Services has 
+been reconfigured ” (H). 
+ 
+ 
+If either of these message s is shown, submit 
+with Op Code 50D053R0 . The service 
+procedure is complete.  
+ 
+If NOT , proceed with Resetting the DCU 
+Network .  
+ 
+   
+1. Turn ON the ignition (A) .  
+ 
+2. Turn Radio FM ON and set to Volume 2 . 
+Select Home  (B). 
+ 
+Select  Setup (C), or press SETUP  (D).  
+ 
+ 
+A 
+B 
+C 
+D 
+G 
+H 
+ 
+TSB #: 25-01-018G Page 5 of 7 
+ 
+SUBJECT:  3. Tap the designated area (E) at the top of the 
+Device Connection s card 10 or more times  
+with two fingers simultaneously .   
+ 
+4. Enter 0929  as the password then select 
+OK (F).  
+ 
+  
+5. From Dealer Mode, s elect Connected Car 
+Service  (G).  
+ 
+6. Select Reset DCU  (H).  
+ 
+7. After selecting Reset DCU, a confirmation 
+popup will be seen  Modem Reset Command 
+send!  (I). 
+ 
+ 
+Password 0929  applies to all models.  
+If the password screen does NOT 
+display, try again from step 1. 
+The password screen requests a 9 -digit 
+password but will accept the 4 -digit 
+password given above.  
+   Information  
+  i 
+E 
+F 
+H 
+I 
+G 
+ 
+TSB #: 25-01-018G Page 6 of 7 
+ 
+SUBJECT:  8. Select Home  (J) to exit Dealer Mode.   
+ 
+Select  Setup (K) or SETUP  (L).  
+ 
+ 
+ 
+9. Select Connected Services  (M). 
+ 
+Proceed with Verification of Connection 
+After Resetting DCU in the next section.  
+ 
+  
+J 
+K 
+L 
+M 
+
+ 
+TSB #: 25-01-018G Page 7 of 7 
+ 
+SUBJECT:  
+1. Select Activate  (A) or Reconfigure  (B). 
+ 
+ 
+ 
+2. Verify Genesis Connected Services  activation 
+success  when either message is shown:  
+“Connected Services Activated ” (C) or 
+“GENESIS  Connected Services bas been 
+reconfigured ” (D). 
+ 
+ 
+ 
+  
+ 
+3. The service procedure is now complete.   
+ 
+If the DCU does NOT  reset and 
+Connected Car Services does NOT  show 
+activated, please contact Techline.  
+   Information  
+  i 
+A 
+B 
+C 
+D 

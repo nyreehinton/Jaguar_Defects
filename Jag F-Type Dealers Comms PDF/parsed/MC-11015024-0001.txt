@@ -1,0 +1,60 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:  S2523000014  
+ 
+ 
+Release Date:   February 2025  
+ 
+ 
+Symptom/Vehicle Issue : 2nd Row Seat Difficult To Latch . 
+ 
+ 
+Discussion : The second -row seat may have some torsion stress on the seat frame 
+which is requiring  extra force to be required  to latch the s eats down. Refer to the below 
+steps  and bolt sequence. Service library is in process of an up date and will reflect this 
+information . Refer to Service Library 23 - Body / Technical Specifications  for fastener 
+torque.  
+ 
+ 
+ 
+1. Place the se at assembly over the 2 outboard floor mounte d studs . This will locate 
+the seat in proper floor position.  
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+2. Install the 40%  side nut ( item 5 ab ove) first. Torque to specification.  
+3. Install the 60% side nut (item 2  above) . Torque to specification .  
+4. Fold the 40% seat cu shion down and engage the rear latches.  
+5. Fold the 60% seat cus hion down and engage the rear latches .  
+6. Install the 40% and 60 % cus hion bolts (ite ms 3 and 4 ). Tighten to specification . 
+7. Verify seat operation and effor t.  
+ 
+  
+ 
+ 
+ 
+ 
+ 

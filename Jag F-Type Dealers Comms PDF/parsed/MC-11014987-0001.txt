@@ -1,0 +1,35 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB240151 Released Date : 28-F eb-2025
+New V ariable Geometr y Turbochar ger Electr onic Actuat or for Fir etruck A pplication
+New Variable Geometry Turbocharger Electronic
+Actuator for Firetruck Application
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+Engines:
+L9 CM2350 L116B
+L9 CM2450 L126B
+Application:
+Firetruck
+Description of Change
+A new v ariable geometr y turbochar ger electr onic actuat or has been v alidated on a select number
+of par t options.
+Service P arts
+Service par ts ar e off ered. See Table 1 for par t numbers.
+Table 1, Ser vice P arts
+Part
+DescriptionExisting P art
+NumberObsolete SupersededNew P art
+NumberAffected
+Part Options
+Turbochar ger
+Actuat or Kit 6382091 No No6476163
+6476163N XPP90074
+PP90084
+PP91275
+PP91283
+Document Hist ory
+Last Modified:  28- Feb-2025Date Details
+2024-7-23Module Cr eated
+2025-2-24Remo ved 6374773RX.

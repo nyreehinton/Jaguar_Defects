@@ -1,0 +1,58 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Intermittent knocking noise during acceleration Ref. No.
+TJ 36496.6.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/18/24Status Date
+1/15/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4602
+Function Description
+Front axle, completePage
+Page 1 of 2Attachment
+File Name File Size
+TJ 36496.wav 0.7539 MB
+Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+If an intermittent knocking noise occurs during acceleration, please follow advice under “Service” .
+CSC   Customer Symptom Codes
+Code Description
+C4 Complete vehicle/Unusual noise/While driving
+F3 Complete vehicle/Unusual noise/During acceleration
+D2 Front/rear axle/Unusual noise
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis rangeStruc Week Range
+536 ED E400V6 2021-9999 - 202037-999952
+536 ER E400V12 2024-9999 - 202317-999952
+539 ED E400V6 2022-9999 - 202139-999952
+539 ER E400V12 2024-9999 - 202317-999952
+SERVICE:
+The noise usually occurs during the beginning of the drive cycle, under heavy accelleration when the vehicle is cold.
+Listen to the attached sound file as a reference. The sound file is recorded from the front seat at the 
+driver’s head position.
+Page 2 of 2 2025-01-15
+Technical Journal 36496.6.0If the sound corresponds to attached sound file, change front drive shafts to the below part 
+numbers.
+Part numbers:
+Left front: 36010612
+Right front: 36003544
+  
+Warranty claim info:
+To get warranty claim accepted for a job described in this TJ, please use following data:
+VST OP number:  46632-2 and 46630-2
+Note: TJ number must be stated in repair order text!
+VST   Operation Number
+VST Operation Number Description
+46632-2 Drive shaft right
+46630-2 Drive shaft left
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support needed” , use function group 4602.
+ 
+This TJ has one sound file.

@@ -1,0 +1,38 @@
+Involved Region or
+CountryNorth America
+Condition  Code B19B0 SYM49 ma y be set in current or history .
+Cause B19B0 SYM49 ma y be falsely setting.
+Version 4
+Modiﬁed04/24/2024 - Created on.  
+05/31/2024 - Updated models and model years.  
+06/26/2024 - Updated model and model year . 
+02/13/2025 to add 2025 MY and update Correction
+Bulletin No.: PIT6155C
+Published date: 02/13/2025
+Preliminary Information
+PIT6155C B19B0 Falsely Setting HUD Failure
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Envision 2024 - 2025 All AllAll All
+Buick Enclave 2025 All AllAll All
+Cadillac CT5 2024 - 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 All AllAll All
+GMC Acadia 2024 - 2025 All AllAll All
+GMC Sierra EV 2024 All AllAll All
+ 
+ 
+ 
+ 
+Correction: 
+1. Check that the HUD is operational.
+a. If the HUD is operational, clear the B19B0 SYM49  and return vehicle to customer .
+This is a  falsely setting code.
+b. If the HUD is NOT operational, follow service information procedure for code
+B19B0 SYM49.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

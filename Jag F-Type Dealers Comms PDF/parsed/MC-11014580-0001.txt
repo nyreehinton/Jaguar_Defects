@@ -1,0 +1,50 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-140
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Rear Suspension Sag When Loaded with Equipment
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Tahoe 2021 2025        
+ 
+Involved Region or Country North America
+Additional Options (RPOs) 5W4: SALES PACKAGE-SPECIAL SERVICE, MUNICIPAL
+Condition Some customers may comment on the rear suspension sagging.
+CauseThis condition may be caused by heavy equipment loaded the in cargo area overloading
+the suspension enough to sag at a point where the truck is lower in the rear.
+InformationImportant: This is a customer pay repair.
+A higher rate spring is available to provide more capacity for vehicles that are heavily
+loaded. Replace the right and left rear coil springs as deemed necessary.Subject:
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+Refer to Coil Spring Replacement in SI.
+ 
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+X SPRING, RR
+COIL84660652 2
+ 
+Warranty Information
+Important: Caution must be used to make sure the truck is not overloaded per the GVWR ratings label. This is a
+customer pay repair.
+ 
+Page 2 February, 2025 Bulletin No.: 22-NA-140
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 2
+Modified Released March 08, 2023
+Revised February 19, 2025 - Added 2023 to 2025 Model Year.

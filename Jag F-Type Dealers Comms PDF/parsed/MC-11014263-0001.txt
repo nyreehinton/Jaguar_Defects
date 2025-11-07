@@ -1,0 +1,146 @@
+Newmar Corporation  
+PO Box 30  
+Nappanee, IN 46550 
+RSB 615 
+October  29, 2024 TC # 2024- 619 
+IMPORTANT : Please read this bulletin in its entirety prior to beginning any diagnosis or repairs.  
+NOTICE : Any technical information published in this bulletin is intended for use only by a qualified, Newmar -authorized service technician.  Newmar is not responsible for the misuse of this information.  RECALL SERVICE BULLETIN
+AFFECTED MODELS  
+2024  – 2025  :: Bay Star  
+DESCRIPTION  
+Ford has decided that a defect relating to motor vehicle safety exists in specific motorhomes 
+built on a Ford chassis ( NHTSA #2 4V 275). In response, Newmar Corporation is issuing 
+Canadian recall TC # 20 24-619.  
+ISSUE  
+On a small number of motorhomes, a software problem could cause the transmission control 
+positions and gear selection not to display properly in the instrument panel cluster. A 
+transmission gear position indicator that doesn't display properly could increase the risk of a 
+crash. 
+UNITS AFFECTED  
+Refer to the attached population list for specific VIN numbers  supplied by Ford for  the coaches  
+that may be affected. The attached population list contains both USA and Canadian coaches.  
+CORRECTIVE ACTION  
+Repairs  will be performed by Ford -authorized service facilities.  Ford will also provide work 
+instructions and the necessary parts to complete the recall procedure.  
+CUSTOMER ACTION  
+Contact Ford Customer Service at 1- 866-436-7332 to locate a Qualified Service Center near 
+you. If you need further assistance, contact Newmar customer service at 1 -800-731-8300. A 
+brand specialist  will assist you in scheduling  an appointment to have this repair completed.  
+DEALER ACTION  
+Contact Ford. If you need assistance connecting with Ford , contact your Newmar Service 
+Account Manager . 
+NOTE 
+Newmar will not be authorizing this repair. Ford will authorize and schedule this repair. 
+ 
+NEWMAR CORPORATION  · 355 N D ELAWARE  ST · NAPPANEE , IN 46550-0030 
+Newmar Service Department 1-866-290-5371 · WWW.NEWMARCORP.COM 
+ 
+P 
+A   Page 1 of 1 
+ 
+  
+IMPORTANT SAFETY RECALL NOTICE  
+ 
+Date: October 23, 2024  
+Re: Newmar Corporation – Motor Vehicle Recall Notification  
+ 
+Subject:  TC Recall Campaign No.:  2024-619, Newmar Campaign No.   615 RSB 
+This notice is sent to you as a Newmar Dealer in accordance with the requirements of the Canada Motor Vehicle 
+Safety Act.   Newmar Corporation has decided that a non-compliance, which relates to motor vehicle safety, exists 
+in specific Newmar recreational vehicles.   
+Each vehicle, which is subject to a recall campaign of this type, must be satisfactorily repaired within a reasonable 
+time after the owner has tendered it for repair.  A failure to adequately repair within 60 days after tender of a 
+vehicle is prima facie evidence of failure to repair within a reasonable time. To avoid providing these problematic 
+solutions, every effort must be made to promptly schedule an appointment with each owner and to repair their 
+vehicle as soon as possible.  Vehicle owners are being notified of this recall. If the condition is not remedied within 
+a reasonable time, they are instructed to contact Transport Canada. 
+REASON FOR THIS RECALL 
+Newmar Corporation has decided that a non-compliance, which relates to motor vehicle safety, exists in specific 
+motorhomes built on Ford Motor Company F53/F59 Chassis. This recall is the result of information provided to 
+Newmar by Ford Motor Company, NHSTA recall #24V-275, Manufacture Recall No. 24C32.  
+Issue:  
+On a small number of motorhomes, a software problem could cause the transmission control positions and gear 
+selection not to display properly in the instrument panel cluster. 
+ 
+Safety Risk:  
+A transmission gear position indicator that doesn't display properly could increase the risk of a crash.   
+ 
+Corrective Actions:  
+Newmar will notify owners by mail and advise you to take your motorhome to a Ford dealership to update the 
+instrument panel cluster software.  This will be done at no charge to the customer. 
+ 
+The vehicle models involved in this recall are: 
+     2024-2025 Bay Star Class A motorhomes. 
+ 
+The motorhomes require immediate service.  Continued use poses a potential safety hazard. 
+DEALER CAMPAIGN RESPONSIBILITY 
+Dealers are to provide to all customers/owner vehicles the service of completing this campaign at no charge to 
+the customer/owner regardless of vehicle age, vehicle mileage, or ownership at the time of repair. 
+REPAIR PROCEDURE 
+Ford Motor Company will provide the work instructions. 
+If you should have any questions please contact your service account manager direct or the Newmar service 
+department at:  1-866-290-5371. 
+Thank you for your cooperation. 
+Sincerely, 
+Newmar Corporation 
+Prod# VIN Number Year Brand Type Floor Chassis Date On Date Off
+USA Units
+142012 1F66F5DN7R0A01139 2024 BS CA 3014 F 4/11/2024 4/24/2024
+142017 1F66F5DN3R0A01140 2024 BS CA 3014 F 4/10/2024 4/23/2024
+142035 1F66F5DN1R0A01329 2025 BS CA 3016 F 4/29/2024 5/8/2024
+142037 1F66F5DN8R0A01330 2025 BS CA 3016 F 5/8/2024 5/21/2024
+142041 1F66F5DN1R0A01332 2025 BS CA 3016 F 5/15/2024 5/29/2024
+142042 1F66F5DN5R0A01334 2025 BS CA 3629 F 6/26/2024 7/16/2024
+142043 1F66F5DN9R0A02079 2025 BS CA 3629 F 7/31/2024 8/14/2024
+142044 1F66F5DN6R0A02086 2025 BS CA 3629 F 8/12/2024 8/21/2024
+142045 1F66F5DNXR0A01958 2025 BS CA 3629 F 9/3/2024 9/12/2024
+142050 1F66F5DN5R0A01141 2025 BS CA 3016 F 5/30/2024 6/17/2024
+142054 1F66F5DN1R0A01959 2025 BS CA 3626 F 7/29/2024 8/9/2024
+142055 1F66F5DN9R0A02082 2025 BS CA 3626 F 8/1/2024 8/15/2024
+142056 1F66F5DN0R0A01953 2025 BS CA 3626 F 7/25/2024 8/8/2024
+142057 1F66F5DN6R0A01956 2025 BS CA 3626 F 7/22/2024 8/1/2024
+142058 1F66F5DN7R0A01545 2025 BS CA 3014 F 5/31/2024 6/19/2024
+142059 1F66F5DN3R0A01428 2025 BS CA 3016 F 5/28/2024 6/12/2024
+142060 1F66F5DN5R0A01429 2025 BS CA 3014 F 5/29/2024 6/13/2024
+142062 1F66F5DN1R0A01430 2025 BS CA 3014 F 5/31/2024 6/18/2024
+142063 1F66F5DN3R0A01669 2025 BS CA 3225 F 6/19/2024 7/9/2024
+142065 1F66F5DN1R0A01668 2025 BS CA 3014 F 6/24/2024 7/11/2024
+142066 1F66F5DN7R0A01335 2025 BS CA 3626 F 6/27/2024 7/16/2024
+142067 1F66F5DNXR0A01796 2025 BS CA 3225 F 6/25/2024 7/12/2024
+142069 1F66F5DN9R0A01546 2025 BS CA 3014 F 6/17/2024 6/26/2024
+142070 1F66F5DN3R0A01333 2025 BS CA 3626 F 6/26/2024 7/15/2024
+142071 1F66F5DN3R0A02076 2025 BS CA 3014 F 7/16/2024 7/29/2024
+142074 1F66F5DN4R0A01549 2025 BS CA 3629 F 7/9/2024 7/18/2024
+142077 1F66F5DNXR0A01667 2025 BS CA 3225 F 6/19/2024 7/9/2024
+142078 1F66F5DN0R0A01547 2025 BS CA 3014 F 6/18/2024 6/27/2024
+142080 1F66F5DN4R0A02247 2025 BS CA 3826 F 8/13/2024 8/22/2024
+142082 1F66F5DN5R0A01947 2025 BS CA 3014 F 7/10/2024 7/22/2024
+142083 1F66F5DN1R0A01671 2025 BS CA 3626 F 7/12/2024 7/24/2024
+142084 1F66F5DN5R0A01950 2025 BS CA 3016 F 7/15/2024 7/25/2024
+142085 1F66F5DN7R0A01951 2025 BS CA 3014 F 7/22/2024 7/31/2024
+142086 1F66F5DN9R0A01949 2025 BS CA 3225 F 7/24/2024 8/7/2024
+142087 1F66F5DNXR0A01670 2025 BS CA 3626 F 7/11/2024 7/23/2024
+142088 1F66F5DN7R0A01948 2025 BS CA 3016 F 7/15/2024 7/24/2024
+142091 1F66F5DN2R0A02084 2025 BS CA 3826 F 7/31/2024 8/13/2024
+142092 1F66F5DN8R0A01957 2025 BS CA 3626 F 7/23/2024 8/1/2024
+142093 1F66F5DN6R0A02072 2025 BS CA 3014 F 7/25/2024 8/7/2024
+142094 1F66F5DN0R0A02083 2025 BS CA 3629 F 7/30/2024 8/9/2024
+142095 1F66F5DNXR0A01961 2025 BS CA 3626 F 7/23/2024 8/6/2024
+142096 1F66F5DN9R0A01952 2025 BS CA 3014 F 7/24/2024 8/6/2024
+Prod# VIN Number Year Brand Type Floor Chassis Date On Date Off
+142097 1F66F5DN4R0A01955 2025 BS CA 3629 F 7/25/2024 8/8/2024
+142098 1F66F5DN7R0A02081 2025 BS CA 3626 F 8/1/2024 8/15/2024
+142099 1F66F5DNXR0A02348 2025 BS CA 3626 F 8/26/2024 9/5/2024
+142101 1F66F5DN5R0A02077 2025 BS CA 3014 F 8/6/2024 8/19/2024
+142102 1F66F5DN5R0A02080 2025 BS CA 3629 F 8/1/2024 8/14/2024
+142106 1F66F5DN8R0A02073 2025 BS CA 3014 F 8/5/2024 8/16/2024
+142107 1F66F5DN8R0A02249 2025 BS CA 3629 F 8/13/2024 8/26/2024
+142108 1F66F5DN4R0A02085 2025 BS CA 3423 F 7/31/2024 8/14/2024
+142109 1F66F5DN8R0A01960 2025 BS CA 3626 F 8/8/2024 8/20/2024
+142110 1F66F5DN8R0A02350 2025 BS CA 3423 F 8/15/2024 8/27/2024
+142112 1F66F5DN2R0A02246 2025 BS CA 3626 F 8/21/2024 9/3/2024
+Candaian Units
+141917 1F66F5DNXR0A01331 2024 BS CA 3225 F 4/9/2024 4/22/2024
+142089 1F66F5DN3R0A01672 2025 BS CA 3629 F 7/16/2024 7/29/2024
+142090 1F66F5DN2R0A01548 2025 BS CA 3423 F 7/17/2024 7/30/2024
+142111 1F66F5DN6R0A02248 2025 BS CA 3626 F 8/15/2024 8/28/2024

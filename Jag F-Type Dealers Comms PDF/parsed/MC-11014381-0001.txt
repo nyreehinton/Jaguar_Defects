@@ -1,0 +1,72 @@
+Technical Service Bulletin (TSB)
+Rear Air Spring Leak
+REFERENCE: TSB:  17-002-25 REV. A
+GROUP: 17 - Rear SuspensionDate: February 11, 2025 REVISION: 17-002-25
+VEHICLES
+AFFECTED:2025 (DT) RAM 1500 Pickup
+This bulletin applies to vehicles built on or after September 25, 2024
+(MDH 0925XX) and on or before November 06, 2024 (MDH 1106XX)
+equipped with Standard Ride Height (Sales Code XZM) or Raised Ride
+Height (Sales Code XZN).MARKET APPLICABILITY:
+NA
+EE
+SACH
+IAP
+MEA
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●An air leak from the rear air springs is causing the vehicle to lean to the left or right side, or lower at the
+rear.
+CAUSE: Rear air spring
+This bulletin supersedes Technical Service Bulletin (TSB) 17-002-25, date of issue January 25, 2025,
+which should be removed from your files. All revisions are highlighted with **asterisks** and includes
+a corrected RSU bulletin number.
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU)
+**25-011** date of issue January 25, 2025 All applicable RSU VINs have been loaded. To verify this RSU
+service action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service
+Library. All repairs are reimbursable within the provisions of warranty.
+REPAIR SUMMARY:
+This bulletin involves inspecting and possibly replacing one or both rear air springs.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+02-30-02-9B Spring, Rear Air
+Suspension - Inspect
+(1 - Semi-Skilled)17 - Rear Suspension 0.3 Hrs.
+02-30-02-9C Spring, Rear Air
+Suspension - Inspect And
+Replace One Side
+(1 - Semi-Skilled)17 - Rear Suspension 0.7 Hrs.
+02-30-02-9D Spring, Rear Air
+Suspension - Inspect And
+Replace Both Sides
+(1 - Semi-Skilled)17 - Rear Suspension 1.0 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+(AR) 68260938AB Shock, Air
+SuspensionRear (Sales Code XZM)
+(AR) 68340155AB Shock, Air
+SuspensionRear (Sales Code XZN)
+DIAGNOSIS:
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the Repair Procedure. If any vehicle not
+on the VIN list exhibits the symptom listed above in the customer symptom section, perform the Repair
+Procedure.
+REPAIR PROCEDURE:
+1. Raise and support the vehicle. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info>04 - Vehicle Quick Reference / Hoisting / Standard Procedure.
+2. Inspect the part numbers on both rear air springs Fig. 1  to verify if either of the air springs fall on or
+between (24 276 and 24 296)  Fig. 2 .
+Fig. 1
+Rear Air Spring Label Location
+Fig. 2
+Numbers On Label To InspectM17 FSAR-TSB-5082 -2-
+3. Do the part numbers on either of the rear air springs fall on or between (24 276 and 24 296)  Fig. 2 ?
+● YES >>> Proceed to Step 4 .
+● NO >>> This bulletin does not apply. Use Inspection LOP (02-30-02-9B). Perform further diagnostics.
+4. Replace the rear air springs as required. Refer to the detailed service procedures available in
+DealerCONNECT/ Service Library under: Service Info> 17 - Rear Suspension / Spring(s) / Removal and
+Installation.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- M17 FSAR-TSB-5082

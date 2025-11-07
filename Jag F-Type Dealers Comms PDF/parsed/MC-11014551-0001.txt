@@ -1,0 +1,60 @@
+ 
+SC335 
+ 
+ 
+2023 -2024 MY SPORTAGE HEV AND 2023 -2024 MY NIRO HEV VEHICLES  
+BATTERY MANAGEMENT SYSTEM  SOFTWARE LOGIC UPDATE  
+VOLUNTARY SERVICE CAMPAIGN ( SC335) 
+Q & A  
+February 13 , 2025  
+ 
+Q1. What type of campaign is Kia conducting?  
+ 
+A1.  Kia America, Inc. is conducting a Voluntary Service Campaign to update the battery management system (BMS) to 
+prevent overcharging of the 12V Lithium battery .  This Voluntary Service Campaign supersedes SA553.  
+ 
+Q2. What vehicles are affected by the service campaign ? 
+ 
+A2. The vehicles listed below  that have not had  SA553 completed yet:  
+Certain 2023 -2024 MY Sportage Hybrid (HEV) vehicles manufactured from February 15, 2 022 through October 28, 
+2023  
+Certain 2023 -2024 MY Niro Hybrid (HEV) vehicles manufactured from June 21, 2022 through February 6, 2023  
+ 
+Q3. How many customer vehicles are affected by this service campaign ? 
+ 
+A3. Approximately 17,691  vehicles . 
+ 
+Q4. What is the concern with the  BMS ? 
+ 
+A4. Due to a software logic issue, the battery management system (BMS) may inadvertently overcharge the 12V Lithium 
+battery.  If the 12V Lithium battery becomes overcharged, the subject vehicles  may experience a reduction in motive 
+power accompanied by the “Check Hybrid System. Stop Safely” warning message, Hybrid system warning lamp, 
+Service warning lamp, Charging system warning lamp, and a rapid beeping sound for 10 seconds.  
+ 
+Q5. Can you describe the service  campaign  fix? 
+ 
+A5. Dealers  will update the vehicle’s BMS software to prevent overcharging of the 12V Lithium battery.  In addition, the 
+customer notification will reiterate the owner’s manual instructions for emergency starting using the 12V battery reset 
+function.  Note: This remedy software is th e same as the software installed as part of SA553 . 
+   
+Q6. How will owners of the affected vehicles be notified?  
+ 
+A6. Kia will send a  letter  notifying owner s of the affected vehicles by first class mail beginning on  February 17 , 2025 . 
+ 
+Q7.  What should vehicle owners do when they receive the notification?  
+ 
+A7. Upon receipt of the letter , owners are to contact their authorized Kia dealer to arrange to have the campaign 
+performed on their vehicle.  
+ 
+Q8. Will this cost vehicle owners any money?  
+ 
+A8. No. Kia will perform the campaign repair free of charge at no cost to the customer.  
+ 
+Q9. Are there any restrictions on an owner’s eligibility?  
+ 
+A9. No. 
+ 
+Q10. If a customer has an immediate question, where can they get further information?  
+ 
+A10. The customer can contact their local authorized Kia dealership or call Kia’s Customer Care Center at 1 -800- 333- 4KIA 
+(4542), Monday through Friday, 5 AM to 6 PM Pacific Time, or via https://customercare.kiausa.com.  

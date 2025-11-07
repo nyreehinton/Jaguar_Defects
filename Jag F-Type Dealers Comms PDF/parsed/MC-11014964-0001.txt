@@ -1,0 +1,26 @@
+From: Broadcast Messaging System
+To: DL-BMS_Message_Monitors
+Subject: Update - Delivery Stop: Integrated Fuel Module
+Date: Friday, February 21, 2025 11:41:40 AM
+Publish Date:
+From:
+Expiration Date:February 21, 2025 
+Technical ServiceMarch 7, 2025DCSnet Message  
+Urgent
+Subject:Update - Delivery Stop: Integrated Fuel Module
+The Remedy is now available for vehicles affected by Delivery Stop: Integrated Fuel Module (B16 01
+25) and the bulletin has been updated on TIS.
+Due to system processing times, the “Remedy Available” Green Check may not display in ROSS
+systems yet; this will update in the coming days.  However, the Remedy is available for all VINs and
+can be performed.
+If an RDR override is necessary due to the system displaying the Stop, you can enter the RO
+number and date the programming was performed.
+If vehicles have any other open Campaigns, they must be completed prior to delivery to the
+customer.
+Sincerely,
+Technical Service
+Attachments:
+No Attachments
+Recipients: BMW Passenger Cars, All Offering, All Region, All Areas, All Departments, All Personnel
+BMW SAV (Light Trucks), All Offering, All Region, All Areas, All Departments, All PersonnelBMW Passenger Cars, CC-AllBMW SAV (Light Trucks)  CC-All
+  

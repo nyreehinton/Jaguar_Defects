@@ -1,0 +1,163 @@
+Bulletin Number: 06-94-25;  Date: 02/24/25         Page 1 of 4
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 06-94-25
+ DATE: 02/24/25 APPLICABILITY: 2024MY Impreza & Crosstrek Including    
+  Wilderness
+ SUBJECT: Reprogramming Files / Crack-Type Sound   
+  Emitting From Brake Booster
+INTRODUCTION:
+This bulletin announces availability of new Electronic Brake Booster (EBB) & Vehicle Dynamics 
+Control (VDC) module reprogramming files developed to address cases of a cracking-type noise 
+heard under the dashboard in the brake pedal area when the brake pedal is released. In the EBB, 
+motion of the output control rod which contacts the master cylinder piston is electronically 
+controlled.  If the output control rod returns too quickly when the driver releases the brake pedal, an 
+excessive gap is created resulting in the cracking-type sound. This symptom may also occur when 
+releasing the brake pedal after the engine restarts during Auto Start Stop activation. The new files 
+contain enhanced EBB and VDC logic to synchronize the motion of the brake booster output control 
+rod and master cylinder piston. If this symptom is confirmed, reprogram the EBB and VDC using the 
+procedures outlined in this bulletin. 
+PRODUCTION CHANGE INFORMATION:
+The new EPB and VDC logic has been incorporated into vehicle production as per the table below. 
+Applicable Vehicle Starting VIN
+IMPREZA SIA R3799594
+IMPREZA Japan RH360800
+CROSSTREK SIA R3799594
+CROSSTREK Japan RH360800
+PFC FILE INFROMATION:
+EBB PFC Files
+MY Model File Description Old CID/ROM ID New CID/ROM ID
+2024 Impreza
+26400FN_014_04C.pfcB220240105
+B220240104
+B220240103B220240106
+2024 CrosstrekATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 06-94-25;  Date: 02/24/25         Page 2 of 4
+Continued...VDC PFC Files
+MY Model File Description Old CID/ROM ID New CID/ROM ID
+2024 Impreza 27596FN032.pfcA220240103
+A220240303
+A220240403
+A220240503
+A220240603
+A220240703A220240104
+A220240304
+A220240404
+A220240504
+A220240604
+A220240704
+2024Crosstrek 
+Wilderness27596FN01B.pfc A220241803 A220241804
+SERVICE PROCEDURE / INFORMATION:
+REMINDER: Customer satisfaction and retention starts with performing quality repairs. 
+2024 Crosstek Non Wilderness Models ONLY:
+• Replace the VDC control module with the newest part available.  
+NOTE: This step will change to reprogramming in the future when the required files 
+become available.  
+• Reprogram the EBB Control Module following the normal SSM5-R procedure.
+• Detailed information regarding the SSM5-R reprograming procedures can be found in TSB 
+14-28-21R.
+All Other Models:
+• Reprogram the EBB &VDC Control Module following the normal SSM5-R procedure.
+• Detailed information regarding the SSM5-R reprograming procedures can be found in TSB 
+14-28-21R.
+BATTERY CHARING INFORMATION:
+Subaru of America, Inc. (SOA) highly recommends utilizing either the Subaru Midtronics DCA-
+8000 Dynamic Diagnostic Charging System or the Subaru Midtronics GR8-1100 Diagnostic Battery 
+Charger to the vehicle and utilizing the Power Supply Mode feature anytime a vehicle control module 
+is being reprogrammed. Once the Midtronics charger is connected to the vehicle, if the battery is fully 
+charged, it takes less than three (3) minutes to boot-up the charger, select the Power Supply Mode, 
+and have the battery voltage stabilized and ready for reprogramming.
+NOTES:
+• For instructions on using the Power Supply Mode, reference the applicable User Manual for 
+the Midtronics DCA-8000 Dynamic Diagnostic Charging System and the Midtronics GR8-
+1100 Diagnostic Battery Charger on STIS
+Bulletin Number: 06-94-25;  Date: 02/24/25         Page 3 of 4
+Continued...• Confirm all electrical loads such as lights, audio, HV AC, seat heaters, and rear defroster are all 
+switched OFF before setting up the charger for Power Supply Mode.
+• Select the correct battery type (Enhanced Flooded, Flooded, Gel, AGM or AGM Spiral).
+• Input the CCA which matches the vehicle’s battery. NOTE: OE and replacement batteries have 
+different CCA ratings. Always confirm the battery’s CCA rating before proceeding.
+• If using a DCA-8000 Dynamic Diagnostic Charging System, set the power supply voltage to 
+13.5 V olts.
+• DO NOT connect the DST-i or DST-010 until the Power Supply mode function has completed 
+its battery test mode and the Charging V oltage has dropped to and shows a steady 13.5 V olts on 
+the display.
+• Once Power Supply Mode reaches a steady 13.5 V olts, connect the DST-i or DST-010 to the 
+OBD connector and proceed with initiating the normal SSM5-R reprogramming process.
+• Amperage will fluctuate based upon the vehicle’s demand for power. NOTE: If the voltage 
+rises beyond 14 V olts while programming is in process, the procedure will abort. This can 
+indicate a need to test or charge the vehicle battery before any further attempt at programming 
+is made.
+• ALWAYS set the power supply voltage to 13.5 V olts when using Power Supply Mode. NEVER 
+turn the ignition switch on when charging at voltages 15 V olts or higher.
+REMINDER: If the DCA-8000 or GR8-1100 indicates the vehicle’s battery must be charged, charge 
+the battery fully before proceeding to reprogram the vehicle while using the Power Supply Mode.
+NOTE: Control module failures resulting from battery discharge during reprogramming are not a 
+matter for warranty. Should any DTCs reset after the reprogramming update is performed, diagnose 
+per the procedure outlined in the applicable Service Manual.
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited Warranty period or covered by an active Subaru 
+Added Security Gold plan, this repair may be submitted using the following claim information:
+Labor Description Labor Operation # Labor Time Fail Code
+BRAKE BOOSTER & VDC CONTROL MODULE 
+REPROGRAMMING*A567-486 1.0H QCZ-48
+*Both the Brake Booster CID and VDC Module CID will be required for claim processing. Includes 
+noise testing.
+Bulletin Number: 06-94-25;  Date: 02/24/25         Page 4 of 4
+2024 Crosstrek Non Wilderness Models ONLY:
+Labor Description Labor Operation # Labor Time Fail Code
+BRAKE BOOSTER & VDC CONTROL MODULE 
+REPLACEMENT**A567-586 2.0H QCZ-48
+**Brake Booster CID will be required for claim processing. Includes Noise testing and brake fluid 
+bleeding.
+IMPORTANT: Always note the original Calibration Identification number (CID) / ROMID the 
+vehicle came in with on the repair order before reprogramming and, make sure to list the NEW CID / 
+ROMID for any newly installed programming (as confirmed from the actual control module AFTER 
+installation). The NEW CID / ROMID MUST also be noted on the repair order as this information is 
+required for entry in the Miscellaneous Detail field during claim submission. These numbers can be 
+read using SSM5-R. 
+NOTE: The pfc file listings provided in this bulletin are the latest available at the time of publishing. 
+Updates are often released thereafter without revision to the original bulletin. For this reason, it is 
+critical to always have the latest version of Select Monitor software installed on your system. You 
+can confirm if a later version is available by entering the CID listed in this bulletin into SSM5-R. If a 
+newer CID is shown as available in SSM5-R, reprogram using that file.
+IMPORTANT: Always note the original Calibration Identification number (CID) / ROMID the 
+vehicle came in with on the repair order before reprogramming and, make sure to list the NEW CID / 
+ROMID for any newly installed programming (as confirmed from the actual control module AFTER 
+installation). The NEW CID / ROMID MUST also be noted on the repair order as this information is 
+required for entry in the Miscellaneous Detail field during claim submission. These numbers can be 
+read using SSM5-R. 
+NOTE: The pfc file listings provided in this bulletin are the latest available at the time of publishing. 
+Updates are often released thereafter without revision to the original bulletin. For this reason, it is 
+critical to always have the latest version of Select Monitor software installed on your system. You 
+can confirm if a later version is available by entering the CID listed in this bulletin into SSM5-R. If a 
+newer CID is shown as available in SSM5-R, reprogram using that file.
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

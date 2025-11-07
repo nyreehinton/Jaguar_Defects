@@ -1,0 +1,146 @@
+ 
+ 
+1/3 
+Classification: Reference: Date: 
+DA19-011F NTB19-042F Februar y 20, 2025 
+ 
+AUTOMATIC EMERGENCY BRAKING  
+WARNING LIGHT BLINKING 
+ 
+ 
+ 
+ 
+ 
+APPLIED VEHICLES: 2019-2024 Altima (L34) 2023-2024 ARIYA (FE0) 2017-2024 Armada (Y62) 2022-2024 Frontier (D41) 2020-2024 Kicks (P15) 2018-2024 LEAF (ZE1) 2016-2023 Maxima (A36) 2015-2024 Murano (Z52) 2016 Murano Hybrid (Z52H) 2022-2024 Pathfinder (R53) 2015-2020 Rogue (T32) 2021-2023 Rogue (T33) 2016-2018 Rogue Hybrid (T32H) 2017-2022 Rogue Sport (J11) 2020-2024 Sentra (B18) 2020-2024 Titan/Titan XD (A61) 2020-2024 Versa (N18) 2023-2024 Z (Z34) 
+   
+APPLIED SYSTEMS: Vehicles equipped with a lane camera (see Figure 1) 
+ SERVICE INFORMATION 
+ 
+If the Automatic Emergency Braking (AEB) wa rning light            or           is blinking (but not 
+illuminated steadily) or the cust omer states it is blinking , and there are no related DTCs, 
+inspect the windshield. 
+ 
+A blinking AEB warning light may occur under the following conditions: 
+ 
+ When contamination or foreign material adhere to the lane camera viewing window 
+on the windshield. 
+ When driving while it is snowing or w hen frost forms on the lane camera viewing 
+window on the windshield. 
+ When the lane camera viewing window on the windshield is temporarily fogged up. 
+ 
+     
+Figure 1  
+ 
+Nissan Bulletins are intended for use by qualified technici ans, not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does. See your Nissan dealer to determine if this applies to your vehicle.  
+  HINT: 
+ 
+o Refer to the applicable ESM for 
+diagnosis if DTCs are present in the Laser/Radar, ICC/ADAS, or Lane Camera systems. 
+ 
+o For further information:  
+ 
+ Refer to the following pages. 
+ Use the search keyword “blinking” 
+in the ESM. Lane camera This bulletin has been amended. See AMENDMENT HISTORY on the last page.  
+Please discard previous versions of this bulletin. 
+Viewing 
+window 
+2/3 NTB19-042E FLOW CHART 
+ 
+ 
+Do not immediately replace the lane 
+camera.  
+First use the wipers, defroster, 
+and/or a soft cloth to clean the area. 
+ 
+Refer to the ESM for further diagnostic 
+information. 
+Is the windshield dirty, 
+frosted, fogged up, or 
+damaged in front of the 
+camera? 
+Are any 
+Camera/Radar/ADAS 
+related DTCs stored? 
+Inform the customer the following conditi ons may cause the AEB warning light to 
+blink: 
+Heavy rain or thick fog may cause the light  to blink. Good use of wipers and keeping 
+the windshield clean will miti gate some of the issue. 
+When contamination or foreign material adhere to the lane camera viewing window on the windshield. 
+When driving while it is snowing or when frost forms on the lane camera viewing 
+window on the windshield. 
+When the lane camera viewing window on t he windshield is temporarily fogged up. 
+ 
+Explain to the customer the differen ce between contamination detection  
+and a malfunction.  
+ 
+During the following conditions, the AEB warning light may blink/flash. However 
+when these conditions no longer exist, th e AEB will resume automatically: 
+Strong light is shining from ov er the front of  the vehicle. 
+The cabin temperature is over approximat ely 104°F (40°C) in direct sunlight. 
+The radar sensor picks up interfer ence from another radar source. 
+When driving on roads without any road structures or buildings (for example: long bridges, deserts, snow fields , driving next to long walls). 
+Are both the camera and 
+lane camera bracket 
+mounted properly? 
+Yes 
+ This bulletin does not apply. 
+ 
+Do not replace the lane camera . 
+Is the AEB warning  
+light currently blinking? 
+(But not ON steadily) 
+ Verify the AEB warning 
+light has stopped blinking 
+Did the customer state the 
+AEB warning light was 
+blinking previously? 
+No 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+ Do not immediately replace the lane 
+camera.  
+ 
+Clear, clean, or repair the windshield as 
+needed.  
+ 
+Refer to NTB13-028 for cleaning 
+glass. 
+ 
+Refer to NTB17-019 for damaged 
+glass. 
+Do not immediately replace the lane 
+camera.  
+  
+Correct improper mounting per the ESM.  
+3/3 NTB19-042E  
+ 
+ 
+Figure 2  
+    
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+May 22, 2019 NTB19-042 Orig inal bulletin published 
+November 5, 2020 NTB19-042a APPLIED VEHICLES  updated 
+February 3, 2021 NTB19-042b Classification number updated 
+January 26, 2022 NTB19-042C APPLIED VEHICLES  updated 
+March 9, 2023 NTB19-042D APPLIED VEHICLES updated, and “NOTE” 
+references changed to “HINT”  
+April 12, 2024 NTB19-042E APPLIED VEHICLES  updated  
+February 20, 2025 NTB19-042F APPLIED VEHICLES and SERVICE INFORMATION 
+on page 1 revised  
+ 
+ 
+ 
+This area needs 
+to be clean Lane camera 

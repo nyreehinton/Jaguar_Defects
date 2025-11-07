@@ -1,0 +1,19 @@
+Viewing Credits in DC217 – DCS-XT provides an easy way to 
+search for credits and invoices using DC217. The screen allows for 
+search by order reference number, invoice number, or the dealer PO#. 
+This provides visualization of parts order invoices as well as credits.
+When entering a parts invoice number, dealers can select “Linked Trans”at the bottom of the order informati on screen to obtain any credits linked 
+to the invoice. A blank invoice number field indicates the order or claim 
+has not been processed. If an invoice number is listed, the invoice orcredit has been processed. When procurin g this information, dealers can 
+also print the invoices using screen DC222.
+Return Packing Lists – When sending returns, a Hino packing list is 
+required for all shipments, no except ions. Hino cannot process a return 
+using a dealer issued packing list. If a Hino packing list is missing or never came through via DCS, dealers should contact partssupport@hino.com to request a copy. Omitting this packing list can 
+result in delayed processing  or an inability to process.
+Tech Assist vs Parts Support – Hino provides several resources 
+for dealers to get the job done. In addition to parts support, there are
+resources for technical support using Hinonet. Opening a tech assistcase or contacting a technical service manager is the best way to get
+assistance with technical questions. Parts Support is designed and 
+trained help dealers with anything rela ted to parts, invoices, claims, etc. 
+Tech assist is designed and train ed to handle technical and service 
+questions.DID YOU KNOW?FLASH TRAINING 2025-4

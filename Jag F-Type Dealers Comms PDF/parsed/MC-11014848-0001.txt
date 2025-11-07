@@ -1,0 +1,167 @@
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 1 of 7
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 12-257-25R
+ DATE:  02/06/25
+ REVISED:  02/13/25APPLICABILITY: 2019-22MY Forester
+  2019-22MY Ascent
+  2020-22MY Legacy & Outback
+ SUBJECT: Windshield Warranty Extension / Inspection
+INTRODUCTION:
+In the interest of customer satisfaction, Subaru of America, Inc. (SOA) is extending the New Car 
+Limited Warranty coverage for the Front Windshield used in the above listed models and model years 
+from three (3) years / 36,000 miles to eight (8) years / 100,000 miles (whichever comes first). If a 
+customer experiences windshield damage, inspect the damage as per the guidelines supplied in this 
+bulletin to confirm if the damage is covered under the Warranty Extension. If the damage qualifies, a 
+one-time replacement will be covered under the Warranty Extension. 
+PART INFORMATION:
+Windshield
+Part Description Model Part Number Details
+WSHLD GL ASSY2020-2022MY 
+Legacy/Outback65010AN00B w/ standard rearview mirror
+65010AN01B w/ wiper deicer & standard rearview mirror
+65010AN02Bw/ wiper deicer & auto dimming mirror/smart 
+rearview mirror
+2019-2022MY 
+Forester65009SJ171 Standard windshield
+65009SJ191 w/ wiper deicer and EyeSight camera
+65009SJ211 with EyeSight camera
+65009SJ390 For vehicles with EyeSight camera
+65009SJ400 For vehicles with wiper deicer and EyeSight camera
+2019-2022MY
+Ascent65009XC02B w/ wiper deicer & auto dimming mirror
+65009XC03B w/ wiper deicer & smart rearview mirror
+One Time Use Parts
+Part Description Part Number Quantity 
+CAP COWL PANEL UP 91486KJ010
+As Needed CAP CLIP 2 PIECE LWR  91486FL020
+CAP COWL PANEL LOW 91486KJ000ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 2 of 7
+Continued...WINDSHIELD INSPECTION / JUDGING CRITERIA:
+STEP 1: Locate the Subaru marking on the lower portion of the driver side of the glass. Confirm the 
+windshield is a genuine Subaru part. If the marking cannot be found and / or the vehicle has been 
+fitted with a non-Subaru windshield, the Warranty Extension does not apply. 
+STEP 2: Inspect the damaged area(s) of the windshield and determine what type of damage is 
+present. See the example images below for Warranty qualifying and non-qualifying windshield 
+damage criteria. This damage described in Type 2 and 3 is not specific to one side of the glass and 
+may occur in the upper or lower sections.  
+Type Descriptions Presumed Cause 3/36 CoverageWarranty Extension 
+Coverage
+1The straight section extends to the 
+edge of the glass with cracking 
+starting from the deicer terminal.Unrelated cause COVERED NOT COVERED
+2The straight section extends to the 
+edge of the glass with the chip(s) 
+along edge of the glass.Unrelated cause COVERED NOT COVERED
+3A chip can be found within the 
+straight section of a crack.Cracking is presumed to have been 
+caused by continuous stress starting 
+from a small chip.
+Refer to APPENDIX A for detailsCOVERED COVERED
+4Multiple cracks are concentrated at 
+one center point of a damage area.
+(spider web or star pattern)External factors are presumed.
+Refer to APPENDIX B for details.NOT 
+COVEREDNOT COVERED
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 3 of 7
+Continued...TIP 1: A ballpoint pen can be used to help identify any chip along the cracks.  CAREFULLY guide 
+the tip of the ballpoint pen along the crack to feel for any snags. DO NOT apply excessive pressure 
+as this may cause further damage and make any chips harder to detect. 
+TIP 2: A handheld portable microscope can also be used to help find any crack starting points.  
+ 
+  
+STEP 3: Is the windshield damage covered by the Warranty Extension (Type 3)?
+YES: Replace the windshield as per the applicable Service Manual and process the claim 
+using the Warranty Extension claim information supplied in this bulletin. Refer to STIS: 
+Body & Electrical/WIRING SYSTEM .
+NO: Consult with customer regarding replacement/repair options.  
+IMPORTANT: A video has been developed to provide details of windshield Type 3 damage. Access 
+the video through the link below.
+VIDEO
+
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 4 of 7
+Continued...APPENDIX A
+DETAILED INFORMATION REGARDING TYPE 3 DAMAGE:
+Type 3 damage results from the combination of small external damage and continual stresses 
+generated by body structure movements (e.g. twist, shock, etc.) during vehicle operation. Type 3 
+damage is covered under the Warranty Extension. 
+Small External Damage
+Continuous Stress (Tensile Stress)
+Extension of Crack
+
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 5 of 7
+Continued...APPENDIX B
+DETAILED INFORMATION REGARDING TYPE 4 DAMAGE (NOT COVERRED BY THE 
+WARRANTY EXTENSION) : 
+Scratches & Cracks Caused by Flying Objects (Rocks, Road Debris):
+• Caused by impact from moving or falling foreign object 
+• Size may vary from less than 0.1mm to 5mm (Example A).
+• Will result in cracking in most cases (Example B)
+• In cases when no granular scratches are found, impact marks my still be observed (Example B). 
+• Often has radial cracks starting from the point of impact (Example C).
+Example A
+Example B
+Example C
+
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 6 of 7
+Continued...Scratches Caused by Windshield Wipers:
+Sand & Other Particles Get Stuck Between the Wiper Rubber & Glass Causing  
+Scratching During Wiper Operation:
+• Will occur in the area of wiper operation 
+• Can be one or more lines parallel to each other 
+• The scratch lengths can vary in size. 
+Example D
+Scratches Caused by Metal Contact:
+• May be caused by contact with car keys, metal buttons attached to clothing, umbrellas, etc. 
+• These scratch types are generally sharp and can occur in any angle. 
+• The length is random and is often in a single line.
+Example E
+
+Bulletin Number: 12-257-25R;  Revised: 02/13/25         Page 7 of 7
+Scratches Caused by Wiping or Cleaning:
+• May occur when the glass is cleaned with a contaminated cloth or towel
+• Relatively long scratches and are often gathered
+• The scratches tend to overlap each other randomly and draw arcs following the wiping pattern. 
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited Warranty period or covered by the Windshield 
+Warranty Extension, for a ONE-TIME replacement or inspection where applicable, this repair may 
+be submitted using the following claim information:  
+Labor Description Labor Operation # Labor Time Fail Code
+WINDSHIELD CHIP INSPECTION - WARRANTY EXTENSION B914-150 0.3 WBM-00
+WINDSHIELD/WEATHER STRIP R&R C914-151 2.0
+WBM-08CAMERA R&R FOR WINDSHIELD REPLACEMENT C914-141 0.2
+EYESIGHT CALIBRATION/ADJUSTMENT C067-718 0.9
+SUBLET REPAIR, ADMINISTRATION EXPENSES C101-108 0.3
+IMPORTANT REMINDERS:
+• The standard PRE-Authorization requirement for glass repairs over $500.00 has beenwaived 
+for repairs covered by the Warranty Extension outlined in this Service Bulletin.
+• The PRE-Authorization requirement for glass repairs over $500.00 is still in force for anyand 
+all repairs which are warrantable but NOT covered by the Warranty Extension outlined in this 
+Service Bulletin.
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

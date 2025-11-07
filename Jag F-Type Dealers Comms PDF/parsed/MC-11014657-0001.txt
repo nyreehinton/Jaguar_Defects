@@ -1,0 +1,141 @@
+2025-02-20
+This Service Information Bulletin (Revision 1) replaces SI B51 31 24 dated January 2025.
+ 
+What’ s New :
+Parts Information updated
+Claim Information updated
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description
+G30 5 Series Sedan
+ 
+With the M Performance aerodynamics accessory parts option installed.
+ 
+SITUA TION
+ The clear coat on the carbon fiber M
+Performance rear spoiler is delaminating.
+ 
+CAUSE
+The clear coat did not adhere/bond to the spoiler correctly in the manufacturing process.
+ 
+CORRECTION
+Replace the rear spoiler .
+ 
+PROCEDURE
+1. Verify the customer ’s concern. 
+2. Replace the carbon fiber M Performance rear spoiler .
+ Note: Save the original part that was removed, as it will be requested to be returned!
+ 
+PARTS INFORMA TION
+If required, to determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN
+/ Chassis number into either ETK or AIR, this will consider the specific equipment and/or options that are
+fitted to the vehicle.
+ 
+Part Number Description Quantity
+51 19 2 414 142 Rear spoiler , carbon (M Performance) 1
+ 
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:05 AM 51 31 24_REAR SPOILER CLEAR COAT DELAMINATING
+about:blank 1/4
+Important Note: The rear spoiler is the only part to be ordered/replaced when applicable. DO NOT
+order/replace the additional parts that are listed in the “in combination with” the rear spoiler!
+ 
+Sublet – Bulk Supply Materials
+Part Number Description Quantity
+83 19 5B3A735 Adhesive, Betafill 217 (80 ml) Sublet as needed
+83 19 5B3C6E7 Betaclean 3350 (100 ml) Sublet as needed
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+Repair  Code: 5171083200(Stationary) tailgate spoiler / rear wing Deformed /
+distorted / bent
+ 
+The flat rate unit (FRU) allowances for what that applies.
+ 
+Diagnosis
+ 
+Labor Operation Description Labor Allowance
+51 00 001Localizing body complaint(s) (W ork time to verify the
+issue in this Service Information Bulletin) (For use by all
+centers, labor operation code 00 58 500 does not
+apply here)2 FRU
+And, with the diagnosis above together with the work below that was performed.
+Rear Spoiler  Replacement
+Labor Operation Description Labor Allowance
+51 71 407, or
+ 51 99 000 (WT**)Replace the rear spoiler (Main work) 7 FRU
+Or:   
+51 71 921, or
+ 51 99 000 (WT**)Replace the rear spoiler (Plusposition) 5 FRU
+ 
+(**) If labor operation code 51 71 407 / 51 71 921 are not available in AIR for the G30 vehicle model being
+repaired, then use work time labor operation code 51 99 000 as noted above instead.
+ 
+If you are using a Main labor operation code for another repair , then use the Plusposition labor operation
+code 51 71 921 (or the 51 99 000 WT  equivalent) instead of 51 71 407 (or the 51 99 000 WT  equivalent).
+ 
+Work time labor operation codes 51 00 001 is not considered a Main labor operation.
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the repair-related bulk supply materials
+(Do not use the BMW part numbers for claim submission)See the sublet
+reimbursement
+calculations below
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk supply materials (BMW part
+numbers) is at the dealer net (DN) price for the proportional quantities used plus your center ’s handling. Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 31 24_REAR SPOILER CLEAR COAT DELAMINATING
+about:blank 2/4
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+Or:
+ 
+Sublet – Replace the Rear Spoiler ( Third Party CCRC/Approved Auto Body Shop)
+ 
+Third-Party Description (Associated work after Diagnosis)Sublet
+Allowance
+Sublet Code 3Rear Spoiler replacement - Third-party sublet invoice, excluding the
+BMW Rear spoiler , carbon (M Performance) part number that is to be
+invoiced on the RO for inclusion with the claim submissionSee below
+Note:  Aftersales Area Manager (AAM) Field Authorization (F AS) is not required.
+ 
+Invoice the rear spoiler work in sublet on the repair order at the actual cost charged with no handling or
+markup. The sublet amount must also include any discounts or allowances.  
+ 
+The appropriate charge for the necessary work procedure is determined by comparing the charged amount
+against the corresponding amount that is based on your warranty rates stated above.  
+ 
+Prior to performing the repair , calculate your center ’s repair cost and then obtain outside repair estimate(s)
+for price comparison purposes.
+ 
+It is your center ’s responsibility to review the repair cost estimate prior to the repair being
+performed. This will help ensure that the amount requested for the repair work is consistent with
+what is normally recognized as customary , fair, and reasonable. Also, it must not exceed the scope
+of the repair work that is described in this bulletin.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law and as noted above.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 31 24_REAR SPOILER CLEAR COAT DELAMINATING
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 31 24_REAR SPOILER CLEAR COAT DELAMINATING
+about:blank 4/4

@@ -1,0 +1,91 @@
+Bulletin Number: 09-123-24R;  Revised: 02/24/25         Page 1 of 3
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 09-123-24
+ DATE: 05/03/24
+ REVISED: 02/24/25 
+ APPLICABILITY: 2021-24MY Legacy & Outback
+  2017-24MY Impreza & Crosstrek
+  2017-24MY Forester
+ SUBJECT: DTC P0087 / High-Pressure Fuel  
+  Pump Design Change
+INTRODUCTION:
+This bulletin announces the design change made to the high-pressure fuel pump developed to 
+prevent DTC P0087 (Fuel Rail/System Pressure – Too Low Bank 1). The performance of the internal 
+discharge valve of the pump has been optimized to help prevent any unstable fuel pressure caused by 
+engine vibrations. If DTC P0087 is found to be detected by the Engine Control Module (ECM), the 
+high-pressure fuel pump will require replacement. 
+PRODUCTION CHANGE INFORMATION:
+The new high-pressure fuel pumps have been incorporated into vehicle production as per the table 
+below.
+Model Starting VIN
+ Legacy R3007808
+Outback R3136202
+Crosstrek (Japan Production) RH219194
+Crosstrek (SIA Production) R3710846
+Forester PH470127ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2024 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 09-123-24R;  Revised: 02/24/25         Page 2 of 3
+Continued...PART INFORMATION:
+REMINDER: Always order the most up-to-date replacement parts based on the specific VIN being 
+repaired.  
+Part Description Model Part Number
+PUMP ASSY-FUEL, HIGH PRESSURE Impreza, Crosstrek, & Forester 16625AA190 
+PUMP ASSY-FUEL, HIGH PRESSURE Outback & Legacy 16625AA190 
+PUMP ASSY-FUEL, HIGH PRESSURE Forester 16625AA190
+One Time Use Parts
+Engine Part Description Part Number
+2.0PIPE ASSEMBLY-FUEL DELIVERY 17540AA390
+GASKET-INTAKE MANIFOLD 14035AA690
+2.4PIPE ASSEMBLY-FUEL DELIVERY 17540AA430
+GASKET-INTAKE MANIFOLD 14035AA74A
+2.5PIPE ASSEMBLY-FUEL DELIVERY 17540AA450
+GASKET-INTAKE MANIFOLD 14035AA78A
+NOTE: ALWAYS confirm all required parts are on hand prior to beginning any service procedures. 
+SERVICE PROCEDURE / INFORMATION:
+IMPORTANT: Inspect and record the part number located on the top of the high pressure pump. 
+Verify the NEW part number is not installed prior to replacement. 
+
+Bulletin Number: 09-123-24R;  Revised: 02/24/25         Page 3 of 3
+The service procedures for high pressure fuel pump replacement remain unchanged. Always refer 
+to the applicable Service Manual and review the full requirements of the repair being performed. 
+The Service Manual procedures contain information critical to performing an effective repair the 
+first time, every time. This includes but is not limited to important SAFETY precautions, proper 
+inspection criteria, necessary special tools, required processes and related one-time-use parts needed 
+for a complete and lasting repair. 
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Powertrain Limited Warranty period, an applicable Emission Warranty period, 
+or covered by an active Subaru Added Security Classic or Gold plan, this repair may be submitted 
+using the following claim information:
+Labor Description Labor Operation # Repair Code Labor Time Engine Size
+HIGH PRESSURE FUEL PUMP , 
+PLUNGER/O-RING R&RB440-086 DGC-421.2h 2.0L
+1.7h 2.5L
+2.2h 2.4L
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

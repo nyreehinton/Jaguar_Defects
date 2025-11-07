@@ -1,0 +1,40 @@
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Center 
+Online does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear 
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the appropriate 
+course of action.  
+ 
+Chrysler Group LLC           Contact the STAR Center for assistance if no solution is found   Version 5/23/13   
+Case Number : S250800000 8   REV. A  
+ 
+Release Date:  February  2025 
+ 
+Symptom/Vehicle Issue:  Battery Drained, Ignition Off Draw  (IOD) , Cluster Display  Goes Off and 
+On, and/or Door Lock Indicator  Lamps Stay Illuminated  
+ 
+Customer Complaint/ Technician Observ ation: The customer complains the vehicles 
+battery is dead and vehicle will not start. The owner and technician may have observed the cluster 
+staying awake after leaving the vehicle, keeping the BUS active , in some cases clicking noises can 
+be heard from the rear of the vehicle .  
+ 
+Repair Procedure:  Do not replace the RFH  (radio frequency  hub) or BCM  (body control  module ) 
+physical parts. Vehicles with LNR sales code (Proximity Approach Lighting) can be tested by 
+disabl ing the feature in the radio  settings menu  – if no battery drain once off, await the RFHUB 
+software update .  
+If the drain continues , disable the Rear Seat Reminder feature in the radio  settings menu  if no 
+drain, leave off until a BCM software update is available.   
+If there is still a drain with the above off, use the wiT ECH  to access the BCM configuration 
+folder. View the  Lock  indicator Timeout, the seconds displayed should be 90 seconds. If the seconds 
+displayed are higher , the vehicle will require the service tool procedure to perform the restore vehicle 
+configuration. Once the vehicle restoration has completed , the reading should be reviewed one more 
+time and displaying 90 seconds , thus confirming the update has changed the setting.   
+ For vehicles that continue with a battery drain after completing the above,  further diagnosis for   
+other Ignition Off Draw ( IOD) issues will be required.  Once complete, c heck for low battery conditions 
+and recharge the battery as needed before returning the vehicle to customer.  
+ 
+ 
+DO NOT REPLACE  PARTS BCM or RFHUB FOR THE  ABOVE ISSUES , THE CONDITIONS WILL NOT 
+CHANGE WITHOUT THE REQUIRED UPDATES:  
+BCM: 68608712A E , 68608382AC/AD  
+RFHUB: 68679896AA  , 68663465AC  

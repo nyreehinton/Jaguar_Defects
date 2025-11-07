@@ -1,0 +1,31 @@
+Version  2
+Modiﬁed 12/05/2024 - Created on.  
+ 02/12/2025 - Updated Models.
+Bulletin No.: PIT6297A
+Published date: 02/12/2025
+Preliminary Information
+PIT6297A Rear View Camera Flickers From Video To Black Screen
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletTraverse 2025 All AllAll All
+Involved Region or Country:  North America
+Additional RPO/s:  UVB
+Condition:  Camera Displa y Flick ers F rom V ideo T o Black Screen.
+Cause:  Software Concern.
+Concern:
+Vehicle users ma y report experiencing camera ﬂick ering where the camera stream intermittently toggles between a clear
+video feed and a black screen with no camera icon. This issue ma y also include brief periods of screen freeze, disrupting the
+image.
+Cause:
+A ﬂick er issue ma y occur due to noise between the radio and the rear vision camera. 
+Correction:
+Placing the vehicle into sleep (Vehicle in oﬀ , door open- then close, wait until Onstar light turns oﬀ) will retrigger the link
+calculation and recover the camera connection.  There is no problem with the hardware involved, don't replace the radio,
+displa y, coax, cable or camera for this concern.
+If the issue still active after the sleep cycle, continue diagnostics in SI.
+There will be a software update to correct this in the future.  
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

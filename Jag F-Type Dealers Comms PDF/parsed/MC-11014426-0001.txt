@@ -1,0 +1,9 @@
+   
+SSM 53385   2025 Maverick - DTC U053B:56 Stored In The IPC
+Some 2025 Maverick vehicles may exhibit diagnostic trouble code (DTC) U053B:56 in the instrument panel
+cluster (IPC). This may be due to the software within the image processing module A (IPMA) resulting in this
+DTC setting in the IPC. If this DTC is identified but the vehicle does not exhibit any customer symptoms,
+replacement or reprogramming of the IPC will not resolve this condition at this time. Engineering is currently
+working on a solution and a software update is expected in Q4 2025. Monitor Professional Technician System
+(PTS) for additional information and schedule service appointments for customers once the repair becomes
+available.

@@ -1,0 +1,133 @@
+Subject: Transmission Fluid Leak Near Torque Con verter Housing Area
+This b ulletin replaces PIP6025.  Please discar d PIP6025.
+This b ulletin onl y applies to 8T65/45 or 9T45/50/60/65 transmissions.
+Transmis-
+sion:En-
+gine:VIN:Model
+Year:Model: Brand:
+to from to from
+M3F
+2025 2024Encore
+GXBuic k
+M3W ,MF8 Encla ve
+M3H
+2025 2024XT4
+Cadillac M3G M3W XT5
+M3G M3W XT6
+M3T M3V
+20252024 Blaz er
+Chevro-
+letMGH 2025 Equino x
+M3F
+2024Trailblaz-
+er
+MF8 Traverse
+MF8
+2025 2024Acadia
+GMC
+M3U ,MGH Terrain
+NorthAmer ica,Japan, South Korea, Europe ,Palestine ,Middle EastIn-
+volved
+Re-
+gion
+or
+Coun-
+try
+Some customers maycomment onatransmission fluid leak.Con-
+di-
+tionSome technicians maycomment onatransmission fluid leak coming from thetorque converterhousing.
+Cause
+6419117
+This condition maybecaused bythetransmission pump bolts werenotfully torqued.
+Note: Service replacement transmission assemb liesreceiv edmaybebuiltinthesame Julian date range .Ifthatoccurs replacement
+ofthepump bolts mustbeperformed beforethetransmission isinstalled inthevehicle .
+CauseForTransmission Julian Date ,refertoTransmission Identification Information inSI.
+Chec ktransmission Julian builddate:
+•Ifthetransmission Julian date isbetw een24160and24311andthevehicle comes inwith atransmission leak inthetorque
+converterhousing area, order theboltkitasrequired.
+Note: Example TUN where Julian date isfound: 13241794TKBP0151 (Date Reads 13[24179]4TKBP0151).
+•Once theboltkitarrives,remo vethetransmission, and verifythat thebolts areloose .
+•Ifloose ,replace allthebolts and reinstall thetransmission.
+Impor tant: Service agents mustcompl ywith allInternational, Federal, State ,Provincial, and/or Local laws
+applicab letotheactivities itperforms under thisbulletin, including butnotlimited tohandling, deplo ying,
+preparing, classifying, packaging, marking, labeling, andshipping dang erousgoods. Intheevent ofaconflict
+between theprocedures setforthinthisbulletin andthelawsthat applytoyourdealer ship, youmustfollow
+those applicab lelaws.
+PartsInformation
+Qty Description PartNum-
+ber
+1 Automatic Transmission Fluid Pump CoverBolt (KIT) 24044946
+Warranty Information
+Note: Service transmission assemb lyboltreplacement should usebulletin labor oper ation, include theADD time for
+labor ,and include thepump coverboltkitinthepartscost.
+Forvehicles repaired under thePowertraincoverage,usethefollowing labor oper ation. Reference theApplicab le
+Warranties section ofInvestigate Vehicle Histor y(IVH) forcoverage information.
+Labor
+TimeVehicle Description Labor Opera-
+tion
+7.6 Encla ve(FWD)
+M3WReplace Transmission Pump Exter iorBolts 8486478*
+8.5 Encla ve(AWD)
+M3W
+ST Encla ve(FWD)
+MF8
+13.4 Encla ve(AWD)
+MF8
+11 Encore GX
+13.3 XT4 (FWD)
+M3H
+17.1 XT4 (AWD)
+M3H
+ST XT5 (FWD)
+M3G
+ST XT5 (AWD)
+M3G
+7.2 XT5 (FWD)
+M3W
+7.7 XT5 (AWD)
+M3W
+ST XT6 (FWD)
+M3G
+ST XT6 (AWD)
+M3G
+9.5 XT6 (FWD)
+M3W
+12.4 XT6 (AWD)
+M3W
+ST Blaz er(FWD)
+M3T
+17.6 Blaz er(AWD)
+M3T
+8.5 Blaz er(FWD)
+M3V
+10.9 Blaz er(AWD)
+M3V
+11.2 Equino x(AWD)
+Labor
+TimeVehicle Description Labor Opera-
+tion
+MGH
+12.1 Traverse (FWD)
+MF8
+13.7 Traverse (AWD)
+MF8
+11 Trailblazer
+(AWD)
+M3F
+12.1 Acadia (FWD)
+MF8
+13.7 Acadia (AWD)
+MF8
+8.2 Terrain(FWD)
+M3U
+9.4 Terrain(AWD)
+M3U
+11.1 Terrain(AWD)
+MGH
+3Ver-
+sion
+Released January10,2025
+Modi-
+fiedRevised February04,2025 -Added aNote andUpdated Julian Date intheCorrection section andAdded aNote andAdd
+time forBolt Replacement intheWarranty Information section.
+Revised February12,2025 -Updated theWarranty Information section Respectiv ely.

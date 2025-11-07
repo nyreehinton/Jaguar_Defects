@@ -1,0 +1,48 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S250800001 7 
+ 
+Release Date:   February  2025 
+ 
+Symptom/Vehicle Issue : Radio  Frequency Hub  (RFH) Module has an Active Diagnostic Trouble 
+Code (DTC) B22A9 -00 ECU Internal Performance  
+  
+Technician  Observation:  RFH Module is setting an active DTC B22A9 -00 Electronic Control 
+Unit (ECU) Internal Performance  with no customer complaints. Please do not replace RFH module  
+if all the following conditions are TRUE  1-3. 
+ 
+1. Vehicle has RFH PN # 68671484AD       
+2. Active RFH DTC B22A9 -00 ECU internal performance.  
+3. No functional issues observed or reported , DTC cannot be cleared. DO NOT REPLACE  THE 
+RFH IF THER ARE  NO FUNCTIONAL ISSUES.  
+ 
+Note :  Below are the functional tests that can be validated for complaints as needed .  
+ 
+i. Remote Keyless entry (RKE)  
+ii. Passive Entry (If equipped, sales code – GXD)  
+iii. Keyless Go/ Passive Start  
+ 
+Continue with normal diagnostics if any functional issues are observed (or) If there are other active 
+DTCs  logged.  
+ 
+ 
+Remote Keyless Entry:  Per Keyfob  buttons equipped based on vehicle configuration, press the 
+keyfob button and observe that vehicle acknowledged and activated the command.  
+For example, press unlock button  (as equipped)  on keyfob and observe if vehicle doors are unlocked.  
+ 
+Passive Entry (Only if vehicle configured with Sales code GXD) : User approaches driver/passenger 
+door handle with keyfob, observe if the door is unlocked.  
+ 
+Keyless Go/ Passive Start:  With keyfob inside the interior of the vehicle , press the start/stop button 
+and observe if the vehicle can start  without incident.  

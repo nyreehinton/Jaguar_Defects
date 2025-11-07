@@ -1,0 +1,350 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 07-00-89-037V
+Service BulletinDate: February, 2025
+WARRANTY ADMINISTRATION
+Warranty Administration – GM Courtesy Transportation and Roadside
+Assistance Programs
+2026 and Prior GM Passenger Cars and Trucks (including Medium Duty)
+GM of Canada and IPC Service Agents are not authorized to utilize this
+service bulletin. GM of Canada Service Agents/retailers should refer to
+the most recent Home Office Letters for program details.
+This bulletin has been revised to add the 2026 Model Year, edit Field Action Courtesy
+Transportation Policy, and edit GM Courtesy Transportation third-party rental vehicle
+eligibility. Please discard Corporate Bulletin Number 07-00-89-037U.Subject:
+Models:
+Attention:
+Important: Courtesy Transportation and Roadside Assistance are not part of or included in the coverage provided
+by the New Vehicle Limited Warranty. Courtesy Transportation must be managed through the dealership, and
+Roadside events managed through GM Roadside Assistance. Requests for customer reimbursement for Courtesy
+Transportation and/or Roadside Assistance under the Courtesy Transportation and/or Roadside Assistance
+Programs are considered on a case-by-case basis. GM reserves the right to modify or discontinue the Courtesy
+Transportation and/or Roadside Assistance Programs at any time.
+GM COURTESY TRANSPORTATION PROGRAM
+Program Coverage and Eligibility
+“Courtesy Transportation” is defined as any form of transportation permitted within the guidelines of the GM
+Courtesy Transportation Program. This includes shuttle, reimbursement of fuel or for use of public transportation
+(ride-hailing/carshare apps), and loaner vehicles (including loaners obtained through third-party rental agencies).
+Courtesy Transportation can be made available for warranty repairs for all GM vehicle purchase/lease customers
+and GM company-owned vehicle drivers within the Bumper-to-Bumper, Powertrain and/or Hybrid/EV specific (8 year/
+100,000) and Federal Emissions coverage of the New Vehicle Limited Warranty (excluding Low Cab Forward MD
+Trucks).
+•Please refer to the vehicle’s Warranty and Owner Assistance Manual or the Applicable Warranties
+section of Investigate Vehicle History (IVH) for vehicle-specific age/mileage warranty terms
+• May be used in conjunction with repairs covered by a GM Certified Pre-Owned Warranty and used vehicles
+purchased under the CarBravo program
+Courtesy Transportation expenses are ineligible for reimbursement under the following circumstances:
+• During repairs covered by the Corrosion Coverage or any non-Federal Emissions Warranty (e.g,. Select State,
+PZEV or any California Emissions Warranty) outside of the Bumper-to-Bumper Coverage.
+• During Policy repairs
+• During non-warranty Service Agent provided services, such as customer pay
+• During GM brand maintenance programs services
+• During parts warranty repairs (ZPTI and ZPTC transaction types)
+• Use of a loaner vehicle beyond completion of the warranty repair is the customer’s responsibility.
+Page 2 February, 2025 Bulletin No.: 07-00-89-037V
+• During services provided to vehicles in daily and long-term loaner service, demonstrator service, and dealer-
+owned vehicles
+• Dealer-owned vehicles not enrolled in the CTP program are not eligible for loaner reimbursement rates.
+• Loaner (including third-party rental) vehicle insurance, fuel, taxes, levies, or any sort of vehicle licensing fee(s)
+Other Related Policies
+• To qualify for loaner reimbursement, loaner units must be no more than two model years old.
+Note: CTP loaners are restricted to vehicles that are no more than two model years old as of the end of June every
+year. For example, on June 30, 2025, only 2024 and 2025 model year CTP loaners qualify for GM Courtesy Trans-
+portation reimbursement. See CTP guidelines for additional details.
+• Loaners must be directly aligned to brand (and segment within the brand) which is being serviced (e.g.,
+Chevrolet to Chevrolet). Every attempt should be made to provide the same make/model of vehicle that the
+customer owns or leases. If this is not possible, upgrades to higher class GM brands should be utilized for
+customer satisfaction.
+• For Chevrolet Medium Duty Silverado 4500/5500/6500 vehicles, it may not be possible to provide customers a
+like vehicle. Light duty loaner vehicles should be considered for alternate transportation.
+• A maximum of three calendar days loaner is allowed when expenses incurred for obtaining a part locally are
+also being applied to the job card.
+• A maximum of five calendar days loaner is allowed when express parts shipping (CSO-3) charges are also
+being applied to the job card. Please note, dealers are expected to utilize express shipping as needed when a
+customer is in a loaner vehicle to minimize both vehicle downtime for the customer and Courtesy Transportation
+expenses for GM.
+• As of job cards dated Oct. 1, 2024, loaners of 7 or more calendar days must be routed for “GM Authorization” in
+Global Warranty Management
+• Vehicle loaner periods prolonged by the dealer personnel, processes, shop scheduling and/or practices are
+considered the responsibility of the dealership
+Field Action Courtesy Transportation Policy
+GM Courtesy Transportation can only be provided during a Field Action repair when:
+• The customer is eligible for GM Courtesy Transportation per the guidelines listed in the GM Courtesy Transpor-
+tation Program Bulletin 07-00-89-037, or
+• The Field Action Bulletin specifically includes provisions for courtesy transportation beyond the Warranty
+Coverage period (in this situation, the procedure in the applicable bulletin should be followed)
+Courtesy Transportation Options
+Same-Day Repairs *- Shuttle Service Allowances
+•Shuttle Service  - Providing a shuttle of the customer from/to the dealer is the preferred transportation alternative
+and should be considered any time a warranty service appointment is scheduled, or an eligible vehicle is
+brought in for a warranty repair. The dealer can submit up to $7.50 each way for shuttle service provided. If the
+dealer does not operate a shuttle service, then the customer may utilize public transportation (taxi, bus, train,
+Ride-hailing and Carsharing such as Lyft/Uber etc.) and submit original receipt(s) for reimbursement consider-
+ation up to $7.50 each way. Shuttle of the customer’s vehicle to/from the dealership is a covered service
+per the Courtesy Transportation Program
+Note: Shuttle reimbursement cannot be claimed in conjunction with Mobile Service+ allowances.
+* Cadillac Customers may be offered any transportation option for same-day repairs.
+* Chevrolet, Buick, and GMC customers may be offered same-day service loaners in conjunction with the Chevrolet,
+Buick and GMC Courtesy Transportation Program (CTP) Guidelines.
+Overnight Repairs – Non-Loaner Vehicle Allowances
+•Reimbursement for Fuel Provided  - When an eligible vehicle is unavailable due to overnight warranty repairs,
+customers who elect to utilize rides from another person (i.e., friend, neighbor, etc.) in lieu of a loaner vehicle
+Bulletin No.: 07-00-89-037V February, 2025 Page 3
+may receive reimbursement for their actual cost (based on paid receipts) of fuel purchased up to $15 per day,
+$45 maximum
+•Reimbursement for Use of Public Transportation/Ride-hailing and Carsharing Apps  - When an eligible vehicle is
+unavailable due to overnight warranty repairs, customers who use any form of public transportation or ride-
+sharing (such as Lyft/Uber) in lieu of a loaner vehicle may receive reimbursement for their actual cost based on
+receipts provided up to $38 per day, $114 maximum
+Overnight Repairs – Loaner Reimbursement Allowances
+Important: Properly scheduled service appointments increase dealership efficiency and customer satisfaction, while
+minimizing vehicle repair time. If the vehicle cannot be serviced the same day and is still operative and safe to drive,
+the customer should be encouraged to drive the vehicle. Scheduling service visits late in the afternoon or immedi-
+ately prior to a weekend or holiday when service will not be performed until the next working day does not constitute
+an overnight repair unless the vehicle is inoperative or otherwise unsafe to operate. Availability of loaner vehicles
+should be considered, when possible, in appointment scheduling.
+Dealer Type Loaner Type Maximum Daily Allowance
+Chevrolet Buick GMC Courtesy
+Transportation Program (CTP)
+DealersQualified CTP Loaner Vehicles $46 per day for overnight repairs or $23 per day for
+same/partial day repairs
+Cadillac Courtesy Transportation
+Alternative (CTA) DealersCTA Vehicles Not eligible for reimbursement
+Exception: Newly enrolled dealers in CTA can submit
+a maximum of $47 within the first 90 days of CTA
+enrollment
+All Dealers Third-party rental agency GM-
+branded vehicleActual daily rate ( excluding vehicle insurance, fuel,
+taxes, levies, or other fees ) not to exceed $44.00 per
+day*
+Cadillac Dealers Only Third-party rental agency Cadillac
+branded vehicle for a Cadillac
+customerActual daily rate ( excluding vehicle insurance, fuel,
+taxes, levies, or other fees ) not to exceed the GM
+program allowance of $47.00 per day
+* Hertz Corporation will honor GM’s loaner rates not to exceed $44 per day, when providing a GM branded loaner vehicle.
+For questions regarding the above information, please reach out to your District Manager Parts & Service (DMPS).
+ 
+Dealers with a physical address in the following high expense areas are identified in the Global Warranty
+Management profile as being eligible for an additional daily reimbursement allowance when utilizing third-party rental
+agency vehicles or a CTP Program vehicle:
+• Boston, Chicago, DC, Los Angeles, Philadelphia, and Alaska: $5 per day; $2.50 for same/partial day
+• San Francisco, Long Island, Staten Island, Manhattan, Brooklyn, Bronx, Queens, and Hawaii: $10 per day; $5
+for same/partial day
+•Example: A Chevrolet dealer located in Chicago is eligible for an allowance of up to $49 per day ($44 + $5) for a
+GM branded overnight loaner obtained through a third-party rental agency
+When providing a loaner through a third-party rental agency:
+• Rental agency must be a reputable source (A dealer may not act as their own third-party rental agency)
+• Vehicles must be clean and well maintained
+• Suppliers must allow an unlimited mileage allowance per day
+• Loaner vehicles must be no more than two model years old
+• Customer is responsible for any refueling, elected insurance coverage, or added services (e.g., navigation,
+satellite radio, roadside, child seat, emissions offset)
+• GM dealers are responsible for payment to supplier(s). GM does not remit payment directly to rental agencies.
+• Reimbursement for the daily rate claimed must not exceed actual amount charged ( vehicle insurance, fuel,
+taxes, levies, or other fees are not covered )
+• Rental suppliers are responsible for remitting taxes and fees to individual states as required
+Page 4 February, 2025 Bulletin No.: 07-00-89-037V
+Job Card Documentation
+• Record on customer-signed copy of the job card when a one-way shuttle, two-way shuttle, or loaner is provided
+to the retail customer
+• When providing reimbursement for public transportation, ride sharing, and fuel expenses, attach the receipt to
+the job card and cross-reference the reimbursement check number, date, and reimbursement amount
+• When a loaner is provided, a copy of the third-party rental agreement or dealer owned loaner vehicle documen-
+tation must be attached to the job card. Documentation must show start/end dates, customer information, and
+loaner or third-party rental vehicle VIN.
+Courtesy Transportation Warranty Transaction Submission
+Submit the Courtesy Transportation expense using the appropriate Net Item below under the labor operation that
+necessitated its use.
+• When one or more repair is performed on a single job card, the entire Courtesy Transportation expense should
+be submitted on the one line causing the biggest need for the expense
+• In the event that a customer is provided a one-day loaner for a warranty-related concern when no warranty
+repair is performed for their stated condition, the loaner expense may be claimed using labor operation
+0600008. A maximum of one day may be claimed using this labor operation. Use of 0600008 is prohibited when
+claiming any Courtesy Transportation expense on any other transaction on the same job card.
+• For loaners of 7 or more calendar days, route the transaction to the Warranty Support Center. The following
+documentation/information must be included:
+• Attach a copy of the loaner agreement/rental invoice to support the date the customer went into the rental and
+returned the rental. The customer’s name and rental VIN must be listed on the agreement/invoice.
+• IMPORTANT: For loaner agreements created by the dealer through OnTrac, Global Warranty Management
+validates OnTrac information to ensure loaners are reimbursed at the proper rate. OnTrac must accurately
+reflect the following information to avoid rejects:
+• The correct Rental Reason. For warranty repairs, “Service (Warranty)” must have been selected.
+• Valid service VIN
+• Valid R.O.#
+• Attach a copy of the job card listing technician punch times, or a copy of the technician time ticket, to support
+the days the vehicle was worked on. If there are no punch times, provide the daily status of the repair during
+the period the customer was in a loaner/rental vehicle.
+• Provide details that support the extended rental period.
+• For diagnostic delays, provide a TAC case number, if applicable. Dealers are expected to involve TAC to
+expedite difficult diagnosis.
+• For parts delays, provide the date the parts were ordered and received. Provide the SPAC case number if
+applicable. Dealers are expected to expedite orders for parts not readily available. This includes but is not
+limited to the use of CSO-3, D2D, SPAC, and reaching out to your DMA as needed.
+Shuttle Net Item Type -  Enter the shuttle amount up to a maximum of $7.50 each way, then select the radio button
+indicating if this was for a “One Way” or “Two Way” shuttle.
+Bulletin No.: 07-00-89-037V February, 2025 Page 5
+4446262
+Rental Net Item Type -  Enter the total amount not to exceed the published maximum allowed amounts per this
+bulletin. Once an amount is entered, you will be required to supply the VIN of the GM loaner vehicle provided and
+the total number of loaner days. You will then select the “Rental Reason” that applies from the drop-down selection.
+4446290
+Public Transportation Net Type -  When the transportation was in lieu of a dealer-provided shuttle, submit for a
+maximum of $7.50 each way. When the vehicle is unavailable due to overnight repairs, and public transportation was
+used in lieu of a loaner vehicle, submit for a maximum of $38 per day, or $114 total.
+Page 6 February, 2025 Bulletin No.: 07-00-89-037V
+4446302
+Customer Reimbursement Net Item Type -  Enter the actual cost based on receipt(s) provided for fuel. If an amount is
+entered, the invoice number from the Customer’s receipt is required.
+4446309
+Roadside Assistance Program
+GM is proud to offer the response, security, and convenience of the 24-hour Roadside Assistance Program. GM's
+Roadside Assistance coverage is designed to assist owners with emergency and other light services. This customer
+support program is for all GM vehicles purchased or leased (retail or fleet).
+Program Coverage and Eligibility
+Roadside Assistance coverage is available through GM Roadside Assistance for:
+• GM Vehicles within the New Vehicle Limited Warranty Powertrain coverage period or Electric Vehicle/Hybrid
+Vehicle Propulsion coverage period or with an active OnStar account
+• Towing service within the 5 years/60,000 mile Powertrain Limited for Chevrolet, Buick, and GMC brands, 6 year/
+70,000 for Cadillac brand
+• Towing service is available for certain non-warranty repairs (for example, accidents) coinciding with the Power-
+train Limited or Electric Vehicle/Hybrid Propulsion Battery coverage age/mileage period
+Bulletin No.: 07-00-89-037V February, 2025 Page 7
+• Please refer to the vehicle’s Warranty and Owner Assistance Manual or the Applicable Warranties section of
+Investigate Vehicle History (IVH) for vehicle-specific age/mileage warranty terms.
+• Roadside Assistance may be available within the terms of the Certified Used Programs. Please refer to IVH to
+verify eligibility.
+Roadside Assistance Services Provided
+• 24-hour, 7 day/week via toll-free eight hundred phone assistance lines, MyBrand App, Guardian App, or OnStar
+Blue Button
+• Towing to the nearest GM divisional branded dealership from a public road or highway – Chevrolet/Buick/GMC
+up to 25 miles, Cadillac, and EV vehicles (all brands) up to 45 miles (if customer wishes to go beyond benefit
+limit, it would be at a customer pay rate due at time of service set up)
+• Select current and next year Light Duty vehicles are eligible to be towed to their selling or preferred GM
+divisional branded dealership up to 100 miles
+• All emergency services for non-restricted roadways
+• Fuel Delivery (two gallons)
+• Mobile EV Charging (select markets)
+• Battery Jump Start
+• Lock-out Assistance
+• BrightDrop ineligible
+• Towing
+• Flat Tire Change - when equipped with a properly inflated spare tire (tire repair/replacement cost may be
+customer expense) or Tire Inflator Kit Service (as equipped)
+• Trip interruption assistance for GM Roadside customers in a GM vehicle within Powertrain Limited Warranty/EV
+Component Limited Warranty/Certified Pro-Owned Limited Warranty who are traveling more than 100 miles
+from their home and have experienced a warranty related mechanical disablement requiring an overnight stay
+for repairs at a GM Branded dealership. Tire related repairs are not eligible.
+• Covers lodging (specified hotel chains)
+• Rental vehicle when a dealership CTA/CTP loaner is not available (daily limits based on GM brand apply)
+• Airfare is not covered
+• Up to $40/day per person for food (excludes alcohol)
+• Roadsides reunite (returning a vehicle to customers) - Following the finalized repair of the vehicle, GM Roadside
+will vet eligibility to reunite a customer’s vehicle to their home address or closest dealership to their home
+address following the conclusion of a warrantable repair for a mechanical failure during a trip.
+• Dealerships are authorized to arrange with Roadside Assistance a "reunite tow" to return a vehicle back to a
+customer when the customer has experienced trip interruption due to repairs that cannot be completed the
+same day.
+• Customer must meet all eligibility qualifications to be considered eligible for a reunite- eligibility of qualification
+is vetted by the Roadside Supplier for approval or denial.
+• Service is offered to customers that reside within 500 miles from the repairing dealership. Over mileage or any
+other reunite exceptions, including ineligible requests, will be reviewed on a case-by-case basis and require
+an approval by the GM Roadside Assistance Business Performance Leader. These exceptions may take up to
+48 hours lead time.
+• See Service Policies & Procedures manual for further detail on reunite eligibility. Reunites are only covered
+under the following warranty coverage periods:
+• Bumper-to-Bumper
+• Powertrain
+• EV Component (EV vehicles – started October 2022)
+• CPO Powertrain Limited Warranty
+• Vehicle reunites are NOT covered for customers or OnStar members whose vehicles are beyond the
+Powertrain Limited Warranty/EV Component Warranty/CPO Limited Warranty coverage period. Vehicles
+with extended warranties (MIC, for example) are not eligible for vehicle reunites.
+Page 8 February, 2025 Bulletin No.: 07-00-89-037V
+• All "Roadside Assistance" programs, excluding service provided by Cadillac Roadside service technicians, are
+provided by GM Roadside Assistance suppliers . The customer must be referred to Roadside Assistance to
+set up the eligible service, or the dealer may contact Roadside Assistance on the customer's behalf. Refer to
+Warranty and Owner Assistance Information booklets for the corresponding Roadside Assistance phone
+numbers and additional details.
+Service Not Included in Roadside Assistance
+• Impound towing caused by violation of any laws
+• Reimbursement of legal fines
+• Reimbursement of mandated police tows
+• Mounting, dismounting, or changing of snow tires, chains, or other traction devices
+• Tire repair/replacement are not covered/offered services under GM Roadside- customer will be responsible for
+any associated cost
+• Towing of anything attached to the vehicles such as boats, campers, trailers, cargo boxes, etc.
+• Roadside services on Restricted Roadways, including but not limited to, some highways, tunnels, toll roads, toll
+bridges, turnpikes, and service roads
+• Recovery situations (stuck in deep mud from off-roading, stuck in sand, vehicles submerged in water, vehicles
+needing to be hoisted/lifted off obstructions, etc.)
+• Cross-border towing
+• Ferry towing (Customers are responsible for the coordination and payment of any ferry involvement prior to
+Roadside dispatching)
+• Airfare reimbursement
+• Medium Duty Trucks are ONLY eligible for the following: tow services, emergency fuel delivery, battery jump
+start, lockout assistance, flat tire change, and roadside reunites.
+• Fleet vehicles, located on the fleet agency’s lot, will NOT be eligible for emergency fuel delivery, battery jump
+start, lockout assistance, flat tire change services, or trip interruption benefits.
+• Chevrolet Buick GMC: GMreunite@aaanortheast.com
+• Cadillac: cadillaclogistics@geturgently.com
+• If initiating a reunite tow request over the phone, please have all customer and vehicle information ready to
+provide
+Roadside Reunite
+Dealership Responsibility
+• The repairing dealership must contact GM Roadside Assistance to set up a reunite tow of the repaired vehicle
+from the dealership to the customer
+• Email the required information (see below template) to GMreunite@aaanortheast.com. NOTE: This email
+address is for dealer use only, do not provide to customers.
+• If initiating a reunite tow request over the phone, please have all customer and vehicle information ready to
+provide.
+• If the customer contacts GM Roadside Assistance to set up a tow of the repaired vehicle, the GM Roadside
+Assistance Advisor will contact the dealership on the customer's behalf to determine the vehicle repair status,
+warrantable repair done on the vehicle, and schedule a pick-up time.
+• If the vehicle is not ready, the GM Roadside Assistance Advisor will advise the dealership to contact Roadside
+when the vehicle is ready to be towed back to the Customer. The GM Roadside Assistance Advisor will then
+advise the customer of the vehicle and reunite status and set the customer's expectation for a delivery time.
+• Roadside Assistance handles costs and billing for customer reunites.
+Email Template for Submitting a Roadside Reunite Request
+Customer Information
+• Customer name:
+Bulletin No.: 07-00-89-037V February, 2025 Page 9
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION• Phone number:
+• Was the customer's disablement more than 100 miles from their home address at the time of breakdown?: Y/
+N, and mileage from home at the time of breakdown:
+• Mileage of the reunite request (pick up dealership to drop off location mileage):
+Vehicle Information
+• VIN:
+• Odometer:
+• Year/Make/Model:
+• Any modifications done to the vehicle – if available from the requestor ( upfits, aftermarket tires, ladder racks,
+etc.):
+• NOTE:  Reunites cover vehicle only - Trailers/cattle trailers/campers/jet skis, etc. are not covered
+• NOTE: loaner vehicles for non-Cadillac customers are vetted on a case-by-case basis and not guaranteed for
+qualification
+Repair Information
+•Is the vehicle repaired and ready for pick up?:
+• Reunites are not conducted on unrepaired vehicles- vehicle must be confirmed as repaired.
+• What was the repair?
+• Is this a warrantable repair covered under Powertrain/CPO Powertrain Limited Warranty/EV Component
+Warranty duration: Y/N?
+• NOTE: Reunites are only covered under the following warranty durations
+• Powertrain Limited Warranty
+• CPO Powertrain Limited Warranty
+• EV Component Warranty (EV vehicles- started October 2022)
+• NOTE: 12V batteries or parts replaced under the warranty for the battery/part itself are not considered an
+eligible repair covered for reunites
+Pick Up Information (can be customer’s home or a dealership)
+• Dealership BAC:
+• Dealership name:
+• Dealership address:
+• Dealership point of contact name and phone number:
+Drop Off Information
+• If dealership (All above information required for pick up information):
+• If customer’s home (full address required):

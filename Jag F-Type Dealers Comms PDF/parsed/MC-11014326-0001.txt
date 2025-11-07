@@ -1,0 +1,80 @@
+ 
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do- it-yourselfers,” and you should not 
+assume this bulletin applies to your vehicle, or that your vehicle has the condition described. To determine whether this information applies, contact 
+an authorized Honda automobile dealer.  
+ 
+© 2025 American Honda Motor Co., Inc. –  All Rights Reserved   Page 1 of 2 
+         Service Bulletin  25-024 
+February 7, 202 5    Version 1  
+Parking an d Back-U p Sensor Software  Update  
+APPLIES TO  
+Year  Model  Trim  Level  VIN Range  
+2022 –24 Civic Touring 4-door                                          ALL 
+SYMPTOM  
+Under certain circumstances when reversing near a chain link fence or highly reflect surfaces, a back -up sensor system 
+abnormal message may be displayed in the multi -information display (MID).  
+POSSIBLE CAUSE  
+When the back -up sensors detect s a large number of reflected waves, the increased processing load on the sensor may 
+cause a memory overload.  
+CORRECTIVE ACTION  
+Clear any DTC’s and update the back -up sensor software with the latest version.  
+WARRANTY CLAIM INFORMATION  
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+8105A0  Update the parking 
+and back -up sensor 
+system software  0.2hr  
+03214  03217  A25024A  39670- T20-A06 
+A Do an all -DTC check 
+and clear – Add 0.1hr  
+TOOL INFORMATION  
+Tool Name  Quanti ty 
+i-HDS and Honda -approved VCI  1 
+Midtronics GR8- 110P AST, or Midtronics  DCA8 -8000 Dynamic Diagnostic Charging 
+System, or Associated Equipment Corporation ESS 6100 100A Smart Charge  1 
+  
+
+Page 2 of 2 
+ SOFTWARE  INFORMATION  
+NOTE:  Unnecessary  or incorrect  repairs  resulting  from a failure  to update the diagnostic  and reprogramming software  are 
+not covered under warranty.  
+Before  beginning the repair,  make sure  all diagnostic  and reprogramming software  are updated as listed.  
+i-HDS  Software  Version  1.010.011 or later 
+HDS  Software  Version  3.105.036 or later 
+Honda  ECU  Reprogramming  4.7.0.0  or later 
+Update  only the systems and software listed  in this service bulletin.  
+Do not use the MongoosePRO VCI for this service  bulletin  as it is not an American  Honda -approved device.  
+For more  information about  updating vehicle  systems,  refer to service  bulletin  22-100, Updating Control  Units/Modules  with 
+the ECU Reprogramming Application.  
+Year /Model  Trim  Vehicle System  Program ID (or later)  
+2022 –24 Civic  Touring 4-door Parking and Back -Up 
+Sensor  39673- T20-A070  
+SOFTWARE  UPDATE  PROCEDURE  
+NOTE:  
+• Make  sure the 12-volt battery  is fully charged  before starting  an update.  
+• Connect the Midtronics GR8- 110P AST in Power Supply Mode, or the Midtronics DCA8- 8000 Dynamic Diagnostic 
+Charging System in Reflash Mode, or the Associated Equipment Corporation ESS 6100 100A Smart Charger in Power 
+Supply Mode | DIAG+, directly to the vehi cle’s 12 -volt battery. Leave it connected during the entire procedure to 
+maintain a steady voltage.  
+• Do not  use a lithium- ion jump pack to supply power due to the pulses of high amperage that do not provide consistent 
+power to the battery during reprogramming. Control  module failure  caused  by the improper  completion  of a software  
+update (early  key cycle,  low battery  voltage, disconnected DLC cable, etc.) is not covered by warranty.  
+• If the vehicle’s 12- volt battery drops below 10 volts during the update, the programming status bar may not present 
+accurately, or the Honda ECU Reprogramming application may display an error message.  
+• Control module failure caused by the improper completion of a software update (early key cycle, low battery voltage, disconnected DLC cable, etc.) is not covered by warranty . 
+• If an error  occurs  during  the update or the i-HDS  freezes,  do not disconnect  the battery  or turn the ignition  to OFF. 
+Reboot the i -HDS and start over.  
+• To prevent  control  unit damage,  do not operate anything electrical  (headlights,  audio system,  brakes,  A/C, power 
+windows, door locks, etc.) during the update.  
+• Warranty  reimbursement  for technician labor  is not allowed for routine  checking/installation of any available  software 
+update.  
+1. Do an ALL DTC CHECK  to check for any codes. Note any DTC’s,  then perform an ALL DTC Clear  to clear all the 
+DTC codes.  
+2. Update the PGM -FI software  using  the ECU  Reprogramming Application with the DST-i. Refer  to service  bulletin 22-
+100, Updating Control Units/Modules with the ECU Reprogramming Application.  
+3. Do an ALL DTC CHECK to clear  any codes  that may have set during the update.  

@@ -1,0 +1,51 @@
+ 
+ 
+BULLETIN NOTES
+APPLICABLE MODEL(S)/VINS  
+2023-2025 CX-50  
+2025 CX-50 Hybrid   
+ 
+DESCRIPTION
+Some vehicles may experience the front inner brake pads wear out faster than the outside. For example, the brake pads 
+need to be replaced at less than 12,500 miles (20,000km). This accelerated pad wear may be caused by dirt and sand 
+easily adhering to the inner friction surface of the disc while driving. To eliminate this concern, the shape of the dust 
+cover has been changed and modification of the front brake pads is under study.  
+Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Replace the brake pads and both dust covers with modified ones following the instructions in MGS.
+CX-50 (WHEEL HUB, STEERING KNUCKLE REMOVAL/INSTALLATION)•
+CX-50 Hybrid (WHEEL HUB, STEERING KNUCKLE REMOVAL/INSTALLATION)•
+3. Verify the repair.   
+ 
+PARTS INFORMATION
+Parts Number Description Qty. Notes
+D69R-33-261 Cover, Dust, Front RH 1  
+D69R-33-271 Cover, Dust, Front LH 1  
+D651-33-042A Nut 2 [R]
+T060-26-169A Pin Snap 2 [R]
+VAY0-33-28Z Pad Sub Set, Front Caliper 1 Non-Hybrid
+VCY7-33-28Z Pad Sub Set, Front Caliper 1 Hybrid
+[R]: Replacement parts   
+ 
+Page 1 of
+2
+02/11/2025 10:15 AM tlawrenc
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 94
+Damage Code 9C
+Part Number Main Cause 7777-SP-Z05
+Quantity 0
+Operation Number / Labor Hours: XXWZKXRX / 1.0 Hrs.
+NOTE:  Claim all parts as related parts.  
+ 
+ 
+Page 2 of
+2
+02/11/2025 10:15 AM tlawrenc

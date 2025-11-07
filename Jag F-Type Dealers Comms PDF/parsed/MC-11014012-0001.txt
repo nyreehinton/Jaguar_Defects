@@ -1,0 +1,150 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: PIE0753G
+Service BulletinDate: January, 2025
+ENGINEERING INFORMATION
+Engineering Information – Information on Selective Battery Pack Replacement
+for Analysis
+Proceed with this EI ONLY if the PIE number is listed in the Global
+Warranty Management / Investigate History link (GWM/IVH). If the EI does
+not show in GWM/IVH, disregard the PIE, and proceed with diagnostics
+found in published service information. THIS IS NOT A RECALL. Refer to
+the latest version of Service Bulletin 04-00-89-053 for more details on the
+use of Engineering Information bulletins.
+This EI has been revised to add 2025 Cadillac ESCALADE IQ. Please discard PIE0753F.
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+BrightDropEV600 2022 2022
+— — — —Zevo 600 2023
+2024
+Zevo 400 2024
+CadillacESCALADE IQ 2025 2025
+LYRIQ 2023
+2025 OPTIQ 2025
+ChevroletBlazer EV 2024
+Bolt EUV 2022
+2023
+Bolt EV 2017
+BrightDrop 400
+2025
+2025BrightDrop 600
+Equinox EV
+2024
+Silverado EV
+GMCHUMMER EV 2022 2023
+HUMMER EV Pickup
+2024 2025 HUMMER EV SUV
+Sierra EV
+Involved Region or Country U.S. and Canada Dealers ONLY
+ConditionGM recovers a small number of electric vehicle battery packs from customer-owned
+vehicles in the field each year for further engineering study and analysis. This program
+helps GM improve future EV products, analyze the performance of the battery packs in
+customer driven EVs, and proactively identify and correct potential issues before they can
+impact battery or vehicle performance. GM selects batteries for participation in this
+program based on various engineering criteria, including manufacturing data, vehicle
+location, vehicle mileage, and battery charging behavior. The customers involved will be
+contacted proactively by GM to visit a GM EV certified dealer for a battery pack
+replacement under warranty.Subject:
+Attention:
+Page 2 January, 2025 Bulletin No.: PIE0753G
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+If you have been contacted by GM Engineering and/or the customer with the above concern, perform the following:
+1. Verify that this PIE0753  appears in IVH for this vehicle’s VIN.
+2. Verify the warranty coverage.
+If the vehicle does not have active high voltage battery warranty, DO NOT  proceed with this EI.
+3. Contact GM Technical Assistance (TAC) to start a case and reference PIE0753  to pre-authorize the battery pack
+replacement.
+− U.S. dealers should contact TAC via Dealer Case Management (DCM).
+− Canada dealers should contact TAC at the 800 numbers provided (refer to GM Canada Service Policies &
+Procedures Manual) after the vehicle arrives at the Dealer.
+4. Follow the appropriate document below to complete the battery order with the Battery Service Center (Spiers
+New Technologies or Labelmaster in U.S. and York Electronics in Canada). Reference PIE0753  when ordering.
+• Bolt EUV and Bolt EV – 19-NA-194
+• HUMMER EV/HUMMER EV SUV/BrightDrop/Silverado EV/Sierra EV, ESCALADE IQ – latest version of 23-
+NA-202
+• LYRIQ – 23-NA-217
+• OPTIQ – 23-NA-217
+• Blazer EV – 23-NA-217
+• Equinox EV – 23-NA-217
+Important: The high voltage battery pack should be replaced following published SI procedures (Drive Motor Battery
+Replacement and Shipping Preparation).
+5. PRIOR to proceeding with battery removal, follow the applicable battery stability analysis procedure in SI:
+•Bolt EUV / Bolt EV  – Refer to the High Voltage System Inspection  document in SI and follow steps for
+Hybrid/EV Battery inspection. If depowering of the battery pack is recommended, STOP AND CALL TAC.
+•HUMMER EV / HUMMER EV SUV / Brightdrop / Silverado EV / Sierra EV / LYRIQ /OPTIQ/ ESCALADE
+IQ / Blazer EV / Equinox EV  – Follow 23-NA-151 and attach all documentation to the TAC case as directed
+by the TSB.
+6. Record all DTCs present in any module on the repair order then follow published service procedures to replace
+the High Voltage Battery pack.
+7. Follow published procedures to prepare the removed battery for return shipping:
+• Bolt EUV and Bolt EV - Drive Motor Battery Replacement and Shipping Preparation
+• HUMMER EV/HUMMER EV SUV/BrightDrop/Silverado EV/Sierra EV/ESCALADE IQ - 22-NA-005: Infor-
+mation on Opening / Closure Instructions for DDR and Hybrid/Electric Vehicle Battery Pack
+Replacement and Shipping Preparation
+• LYRIQ/OPTIQ , Blazer EV and Equinox EV - Hybrid/Electric Vehicle Battery Pack Replacement and
+Shipping Preparation
+8. Follow the core return process outlined in one of the bulletins/PIs below:
+• Bolt EUV and Bolt EV - 19-NA-194
+• HUMMER EV/HUMMER EV SUV/BrightDrop/Silverado EV/ Sierra EV/ ESCALADE IQ - 23-NA-202
+• LYRIQ - 23-NA-217
+Bulletin No.: PIE0753G January, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION• OPTIQ - 23-NA-217
+• Blazer EV - 23-NA-217
+• Equinox EV - 23-NA-217
+If DTCs are set or additional customer concerns are noted on the RO, proceed with diagnosis and repair using the
+published service procedures found in SI for those concerns.
+Warranty Information
+For vehicles repaired per this EI and under the EV Limited Component Warranty, use the following appropriate labor
+operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor
+OperationDescription Labor Time
+5080368*Engineering Information -
+Information on Selective
+Battery Pack Replacement
+for Analysis0.2 hr.
+5031030Drive Motor Battery
+Replacement and Shipping
+Preparation – Engineering
+Investigation – Bolt
+EV/EUV onlyUse
+Published
+Labor
+Operation
+Time
+5031630Hybrid/Electric Vehicle
+Battery Pack Replacement
+and Shipping Preparation –
+BrightDrop, Silverado EV,
+Sierra EV, Hummer,
+ESCALADE IQ, LYRIQ,
+OPTIQ, Blazer EV or
+Equinox EV
+*This is a unique Labor Operation for bulletin use only.
+Version 8
+ModifiedReleased May 31, 2023
+Revised September 28, 2023 – including Canada Dealers, added the 2024 LYRIQ and
+Blazer EV, updated the Correction section and added Labelmaster to step 4.
+Revised October 02, 2023 – Updated steps 3 and 4.
+Revised January 25, 2024 – Added the Silverado EV and HUMMER EV Pickup models
+and updated the Correction and Warranty Information.
+Revised August 13, 2024 – Added 2024 Equinox EV and 2025 Model Year for HUMMER
+EV, HUMMER EV Pickup models and update the Correction and Warranty Information.
+Revised October 22, 2024 – Added BrightDrop Zevo 400, GMC Sierra EV, Chevrolet
+BrightDrop 400, 600 and added 2025 Model Year to Chevrolet Equinox EV, Silverado EV,
+Blazer EV, and Cadillac LYRIQ.
+Revised December 10, 2024 - Added 2025 Cadillac OPTIQ.
+Revised January 21, 2025 – Added 2025 Cadillac ESCALADE IQ.

@@ -1,0 +1,144 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: PIE0811A
+Service BulletinDate: January, 2025
+ENGINEERING INFORMATION
+Engineering Information - Service Engine Soon, Service Emission System,
+and/or Service Exhaust Fluid System Message on Driver Information Center
+(DIC), DTCs P249C, P20E8 Set
+Proceed with this EI ONLY if the customer has commented about this
+concern AND the PIE number is listed in the Global Warranty
+Management / Investigate History link (GWM/IVH). If the customer has not
+commented about this condition or the EI does not show in GWM/IVH,
+disregard the PIE, and proceed with diagnostics found in published
+service information. THIS IS NOT A RECALL refer to Service Bulletin
+04-00-89-053 for more details on the use of Engineering Information
+bulletins.
+This EI has been revised to add Breakpoint and Note under Correction. Please discard
+PIE0811.
+Brand: Model: Model Year: Breakpoint: Engine: Transmission
+:from to from to
+Chevrolet Silverado 1500
+2024 2025ONLY for vehicles having
+under 3000 milesEquipped with 3.0L
+(RPO LZ0)—
+GMC Sierra 1500
+ 
+Involved Region or Country U.S. Dealers ONLY
+ConditionSome customers may comment on having one or more of the following messages
+showing on the Driver Information Center (DIC).
+• Service Engine Soon
+• Service Emission System
+• Service Exhaust Fluid System
+Technicians may fine one or both DTCs set.
+• P249C - Excessive Time to Enter Closed Loop Reductant Injection Control
+• P20E8 - Reductant Low Pressure
+CauseGM Engineering is attempting to determine the root cause of the above condition.
+Engineering has a need to gather information on vehicles PRIOR to repair that may
+exhibit this condition. As a result, this information will be used to "root cause" the
+customer's concern and develop/validate a field fix.Subject:
+Attention:
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Page 2 January, 2025 Bulletin No.: PIE0811A
+If you encounter a vehicle with the above concern, perform the following steps and contact the engineer listed below:
+Note: DEF consumption and gauge issues especially when towing, they need to review bulletin 24-NA-196.
+For the DEF pump function issues, they need to refer to bulletin 22-NA-150. The Engineering Investigation is
+specific to DEF system leaks and relate codes ONLY, and any calls related to other subjects cannot be
+answer.
+1. Perform a Reductant System Leak Test. Does the test pass?
+1.1. If yes, refer to SI for the diagnostic procedure for DTC P249C and/or P20E8.
+6793855
+1.2. If no, is there a leak at the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe, or at one of
+the two connections to the Reductant Fluid Injector, or the Emission Reduction Fluid Pump Outlet Port, as
+shown in the picture above.
+Note: If possible, take a clear close-up picture of the connection interface, as shown in the picture above.
+1.3. If no, refer to SI for the diagnostic procedure for DTC P249C and/or P20E8.
+1.4. If yes, is the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe or the connector
+damaged in any way?
+1.5. If yes, replace the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe, perform a
+Reductant System Tamper Warning Service Bay Test, and release the vehicle back to the customer.
+1.6. If no, contact the engineer listed below first, then  follow the Cleaning Procedure outlined below, perform a
+Reductant System Tamper Warning Service Bay Test, and release the vehicle back to the customer.
+Bulletin No.: PIE0811A January, 2025 Page 3
+Cleaning Procedure
+6793858
+6793862
+The Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe may be contaminated with crystallized
+DEF in or around the connector, as shown in the pictures above. This procedure outlines the correct cleaning
+procedure before attempting to re-connect the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe to
+the Reductant Fluid Injector or the Emission Reduction Fluid Pump Outlet Port.
+Page 4 January, 2025 Bulletin No.: PIE0811A
+6793865
+Note: This procedure cannot be performed if the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe
+connector is contaminated with other forms of contaminants such as frame wax or dirt inside the connector, as
+shown in the picture above. If this is the case, DO NOT perform the cleaning procedure as the Emission Reduction
+Fluid Exhaust Front Pipe Injector Supply Pipe will need to be replaced.
+1. Fill a clean container with fresh DEF.
+2. Remove or pull back the heat protecting hood from the Emission Reduction Fluid Exhaust Front Pipe Injector
+Supply Pipe connector end if present.
+3. Fully disconnect the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe connector from the
+Reductant Fluid Injector or the Emission Reduction Fluid Pump Outlet Port by following the Removal Procedure
+outlined below (detach any clips or liners as needed for access). Wipe off any dust or dirt present on the outside
+of the connector.
+6793867
+4. Submerge the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe connector end into the
+container filled with DEF, ensuring the open end of the connector is facing up, as shown in the picture above,
+and hold for 1 min. Swash around the connector while it is submerged in DEF for another minute to dislodge
+any crystals embedded inside the connector
+5. Which side is the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe disconnected?
+Bulletin No.: PIE0811A January, 2025 Page 5
+5.1. For the Reductant Fluid Injector side: To clear any contamination within the connector interface command
+the Control Function: Reductant Pump at 50% duty cycle, while the connector is still in the container, for a
+time span of 5 to 10 seconds.
+5.2. For the Emission Reduction Fluid Pump Outlet Port side: Proceed to the next step.
+6. Inspect the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe connector end for any remaining
+crystallization and repeat the steps above if needed.
+7. With a clean rag, wipe off any crystallized DEF on the male pin of the Reductant Fluid Injector or the Emission
+Reduction Fluid Pump Outlet Port.
+8. Re-connect the Emission Reduction Fluid Exhaust Front Pipe Injector Supply Pipe connector to the Reductant
+Fluid Injector or the Emission Reduction Fluid Pump Outlet Port as per the installation procedure outlined below
+immediately to avoid re-crystallization. Re-install heat protecting hood if applicable.
+Removal Procedure
+6793870
+Depress the tab (3) while pushing the female side (1) towards male connector (2) and pull female side (1) straight
+out to disconnect, as shown in the picture above.
+Page 6 January, 2025 Bulletin No.: PIE0811A
+Installation Procedure
+6793888
+Push the Female Side (1) towards the male connector (2) all the way in, until an audible click is heard (if no audible
+click is heard, pull on the female connector (1) outward to ensure retention). Some connectors may have a locking
+tab that pops up, activate the locking tab by pressing down on the tab (3) (while keeping pressure towards the male
+connector (2)). Once latched, pull on the female connector (1) outward to ensure connection is made, as shown in
+the picture above.
+Contact Information
+Please include the following information if leaving a message:
+- Technician name
+- Dealer name and phone number
+- Complete VIN and repair order (R.O) number
+On the repair order, document the date and time the call was placed (even if the engineer was not reached).
+If engineering is unable to return the call within one hour, proceed with diagnosis and repair based on information
+found in SI.
+ 
+Warranty Information
+If an engineer was contacted or required information was provided, use:
+Labor Operation Description Labor Time
+4089408*Engineering Information - Service Engine Soon, Service
+Emission System, Service Exhaust Fluid System Message on
+(DIC), DTCs Set1.0 Hrs.
+*This is a unique Labor Operation for bulletin use only.The Contact Information has been redacted.
+Bulletin No.: PIE0811A January, 2025 Page 7
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION 
+Version 2
+Modified Released January 08, 2025
+Revised January 21, 2025 - Added Breakpoint and Note under Correction.

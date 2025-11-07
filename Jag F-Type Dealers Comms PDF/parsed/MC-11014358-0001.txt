@@ -1,0 +1,96 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 21-NA-138
+Service BulletinDate: February, 2025
+TECHNICAL
+Squeak, Grind or Clunking Noise from Rear Leaf Springs
+This bulletin applies to Heavy Duty vehicles only. Refer to Bulletin 19-
+NA-129 for Light Duty vehicles.
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+ChevroletSilverado HD 2015 2018
+— — — —Silverado 2500HD/
+3500HD2019 2025
+GMCSierra HD 2015 2018
+Sierra 2500HD/
+3500HD2019 2025
+Involved Region or Country North America, Middle East, Israel, Australia, and New Zealand
+ConditionSome customers may comment that a squeak, grind, or clunking noise can be heard from
+the rear leaf springs.
+CauseThis condition may be caused by the spring insert interacting with the leaf spring.
+Note: Some noise is characteristic with leaf spring suspensions when going over bumps.
+CorrectionImportant: Do not add any lubricant to the inserts or springs. Lubricant can attract dirt
+and debris which can lead to noise and premature wear. Some lubricants can also chemi-
+cally attack the insert material.
+5341853
+A new insert with a graining pattern will help reduce this noise.
+Replace the rear spring inserts utilizing a plastic trim tool or plastic wedge in between the
+leaf springs.Subject:
+Attention:
+Page 2 February, 2025 Bulletin No.: 21-NA-138
+Important: After new spring tip inserts are installed per this bulletin, new inserts have a
+break-in period of up to 1610 km (1000 miles), where some noise can be expected.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+1. Raise and secure the vehicle.
+2. utilizing a jack, support the rear axle.
+5862786
+3. Remove the bolt (1) the secures the clip (4) to the spring alignment bracket (3) for both spring assemblies.
+4. Slowly lower the jack to relieve the spring of tension.
+Bulletin No.: 21-NA-138 February, 2025 Page 3
+5862787
+Note: DO NOT  chip the painted coating on the springs when performing the repair. place a rag (2) in the area were
+contact with the spring may occur.
+5. Utilizing a plastic trim tool, plastic wedge (3) or equivalent, separate the rear springs.
+5863011
+6. Using a rag and degreaser, clean any dirt or grease from between the leaf springs at the insert location.
+7. Replace all the inserts for the left and right-side springs.
+8. Using care, raise the jack.
+9. Install the clip and bolt back onto the alignment bracket.
+Tighten
+Torque the fastener to D22.3 +/- 2.0 NM.
+10. Lower and remove the jack.
+11. Lower the vehicle.
+ 
+Page 4 February, 2025 Bulletin No.: 21-NA-138
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONParts Information
+Causal
+PartDescription Part
+NumberQty
+X
+INSERT, RR SPR
+LEAF (KIT)87838974
+(SRW)1
+X 87838975
+(DRW)1
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor
+OperationDescription Labor Time
+8080628*Rear Leaf Spring Insert
+Replacement1.0 hr
+*This is a unique Labor Operation for bulletin use only.
+Version 6
+ModifiedReleased August 05, 2021
+Revised on August 26, 2021 - Add Attention statement.
+Revised October 20, 2022 - Added 2022 to Model Year and Update Part Numbers in
+Parts Information section.
+Revised January 24, 2023 - Added SRW and DRW to Parts Information section.
+Revised July 08, 2024 - Added 2024 to 2025 Model Years.
+Revised February 13, 2025 - Added Important Statement to Correction section.
+ 

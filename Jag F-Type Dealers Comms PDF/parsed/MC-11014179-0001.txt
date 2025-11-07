@@ -1,0 +1,636 @@
+L-SB-0002 -25   January 10, 2025  
+ 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service 
+(PDS)  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 16 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  RC F, RC300, RC350   
+ 
+Introduction  
+Pre-Delivery Service (PDS) is a critical step in satisfying our new car customers. Customer 
+feedback indicates the following areas deserve special attention when performing PDS:  
+ Careful inspection for paint chips/scratches and body dents/dings.  
+ Proper operation of electrical accessories (including interior light, clock, and ra dio reset).  
+ Interior cleanliness.  
+ Proper function of mechanical systems.  
+Customer retention and proper maintenance of vehicles are and have always been a major focus 
+for Lexus. To help remind customers that regular service is essential to the proper mainte nance of 
+the vehicle, dealers are required to install a service reminder sticker before delivery. By doing this, 
+customers will be reminded to return to your dealership for service. Your current service reminder 
+sticker may be used.  
+This bulletin contains the PDS procedures that apply specifically to 2025 model year RC F,  
+RC 300, and RC 350 vehicles.  
+Refer to the universal Check Sheet  that contains PDS steps that apply to all  2025 model year 
+Lexus  vehicles . To properly perform a complete PDS, you must complete all procedures  contained 
+in this TSB as well as the PDS Check Shee t. 
+In addition, if the vehicle is stored for over 30 days, refer to L-SB-0003-24, Long -Term Vehicle 
+Storage Guidelines.  
+ 
+  
+ L-SB-0002 -25   January 10, 2025  Page 2 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction  (continued)  
+Refer to the table below for a definition of terms that may be used in this bulletin.  
+ 
+Table 1. 
+TERM  ACRONYM  DEFINITION  
+Conventional  Vehicle  CV A vehicle with  only a gasoline  engine  for propulsion  
+Electrified  Vehicle  EV A vehicle that utilizes a  hybrid , a plug -in hybrid , or battery 
+electric system for propulsion  
+Hybrid  Electric  Vehicle  HEV A vehicle with both a gasoline engine and a HV Battery  
+Plug-in Hybrid  Electric  Vehicle  PHEV  A vehicle with both a gasoline engine and a HV Battery that 
+can be charged externally  
+Battery Electric Vehicle  BEV A vehicle with only a HV Battery that can be  
+charged externally  
+State  of Charge  SOC  The remaining capacity available in a battery  
+12-Volt 12V Standard  12V battery  used  to power  electrical  systems  
+separate  from high voltage  components  
+High Voltage  HV HV Battery  used  to power  the electrified  vehicle  
+ 
+ 
+  
+ L-SB-0002 -25   January 10, 2025  Page 3 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Table of Contents  
+ Warranty Policy  ................................ ................................ ................................ ..........................  4 
+ Warranty Information  ................................ ................................ ................................ ..................  4 
+ Required Tools & Equipment  ................................ ................................ ................................ ...... 4 
+ D/C Cut Fuse Installation  ................................ ................................ ................................ ...........  5 
+ Front License Plate and Mounting Bracket Installation * ................................ ..............................  6 
+ RC F and RC F  Sport Model Vehicles * ................................ ................................ .................  6 
+ RC 300 and RC 350 Model Vehicles * ................................ ................................ ...................  7 
+ Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  .......................  9 
+ Front Wheel Opening Extension Pad Installation  ................................ ................................ ......11 
+ Front Spoiler Cover Installation * ................................ ................................ ...............................  12 
+ Installat ion of Rubber Body Plugs  ................................ ................................ ............................  13 
+ Tire Pressure Warning System (TPWS) Initialization  ................................ ................................  14 
+ Memorize Steering Angle Neutral Point * ................................ ................................ ..................  14 
+ Seat Position Control ECU Initialization  ................................ ................................ ....................  15 
+ Dealer Contact Information for Call Dealer Head Unit Function  ................................ ................  15 
+ Deletion of Vehicle Alert History  ................................ ................................ ...............................  15 
+ Shift Lock Release Button Cover Installation  ................................ ................................ ............  16 
+ Compass Calibration * ................................ ................................ ................................ ..............  16 
+*If applicable.  
+ 
+ 
+  
+ L-SB-0002 -25   January 10, 2025  Page 4 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Policy  
+If the need for additional repairs or adjustment is noted during PDS, the required service should 
+be performed under warranty. Reimbursement will be managed under the warranty policy.  
+ 
+The Warranty Policy and Procedures Manual requires that you maintain the completed  
+Check Sheet in the customer’s file . If you cannot produce a completed form for each retailed  
+vehicle upon TMS and/or Region/Distributor audit, the PDS payment amount will be subject  
+to debit.  
+ 
+An additional Repair Order completed in conjunction with normal PDS MUST  have time 
+punch /flags for service. If multiple r epairs are performed, separate time flags MUST  be punched 
+for each  repair.  
+ 
+ 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST. 
+ 
+  NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ GTS+ software version  2024.0 4.004.02  or later is required . 
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787  or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ L-SB-0002 -25   January 10, 2025  Page 5 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+D/C Cut Fuse Installation  
+To minimize battery discharge during transportation and storage, the D/C cut fuse has been 
+removed at the assembly plant and temporarily stored in the blank space of the relay block in the 
+engine compartment. During PDS, reinstall the D/C cut fuse to its original loca tion and confirm 
+ALL related Diagnostic Trouble Codes (DTCs) are cleared.  
+Remove the D/C cut fuse from the blank space of the relay block in the engine compartment and 
+install the D/C cut fuse in the relay block as shown.  
+ 
+ 
+Figure 1. 
+ 
+ 
+1 Relay Block   3 Install the D/C Cut Fuse (Original Location)  
+2 Remove the D/C Cut Fuse     
+ 
+ 
+ 
+  
+NOTE  
+ RC F models utilize a D/C cut fuse (20A) . 
+ RC 300 and RC 350 models utilize a D/C cut fuse (30A) . 
+NOTE  
+ With the D/C cut fuse removed, if ANY DTCs are detected when the ignition is turned on during 
+transportation, use Global Techstream Software (GTS+) to clear ALL DTCs AFTER ensuring that 
+there are no malfunctions.  
+ While the vehicle is stored at the dealersh ip, disconnect the negative ( –) battery terminal to prevent 
+battery discharge. Refer to L-SB-0001 -24, Battery Inspection and Maintenance During PDS , for 
+battery maintenance information.  
+3 
+ 2 
+1 
+ L-SB-0002 -25   January 10, 2025  Page 6 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front License  Plate and Mounting Bracket Installation  
+The front license plate mounting bracket and two self -tapping screws are stored in the vehicle . 
+Follow this procedure  to install the front license plate mounting bracket and front license plate in 
+states where it is required by law.  
+RC F and RC F Sport Model Vehicles  
+1. Align the holes “A” of the mounting bracket 
+with clips (RC F) or dimples (RC F Sport) 
+on the radiator grille.  Figure 2. 
+ 
+A Holes “A” for Mounting Bracket   
+B Holes “B” for Front License Plate  
+1 Front License Plate Mounting Bracket  
+2 Dimples (RC F Sport), Clips (RC F)  
+3 RC F Sport Mounting Bracket  
+4 RC F Mounting Bracket  
+5 Self-tapping Screws  
+6 Bolts  
+7 Front License Plate  
+  
+ 
+ 2. Install the mounting bracket to the radiator 
+grille using two self -tapping screws.  
+ 
+3. Install the front license plate onto the  
+mounting bracket using two non corroding 
+bolts with the following dimensions:  
+Nominal Length: 15.0 mm (0.59 in.)  
+Diameter: 6.0 mm (0.24 in.)  
+Figure 3. 
+ 
+1 Nominal Length  
+2 Diameter  
+ 
+  
+NOTICE  
+ Do NOT pre -drill holes into the bumper.  
+ Do NOT overtighten the  
+self-tapping screws.  NOTE  
+ Holes “A” are used for installation of the 
+mounting bracket to the  radiator grille . 
+ Holes “B” are used for the installation of the 
+front license plate to the mounting bracket.  
+ 
+2 
+2 
+5 
+6 
+ 7 
+B 
+ B 
+B 
+ B 
+A 
+ A 
+A 
+ A 
+3 
+4 
+1 
+1 
+ L-SB-0002 -25   January 10, 2025  Page 7 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+ 
+Front License Plate and Mounting Bracket Installation  (continued)   
+RC 300 and RC 350 Model Vehicles  
+1. Align holes “A” of the mounting bracket 
+with the dimples on the radiator grille .  
+Mark the location of holes “B” on the 
+radiator grille .  
+ Figure 4.  
+ 
+ 
+ 
+ 
+  
+A Holes “A” for Mounting Bracket   
+B Holes “B” for Front License Plate  
+1 Mounting Bracket  
+2 Mark and Drill Hole s 
+3 Dimple s 2. Drill two relief holes with a diameter of  
+11 mm (0.43 in.) at the hole “B” marks on 
+the radiator grille  to prevent the license 
+plate retaining bolt end from contacting the 
+radiator grille . 
+ 
+3. Install the mounting bracket to the radiator 
+grille  by attaching the two self -tapping 
+screws into the dimples.  
+ 
+ 
+  
+NOTICE  
+Do NOT overtighten the  
+self-tapping screws.  
+ NOTE  
+ Holes “A” are used for installation of the 
+mounting bracket to the  radiator grille . 
+ Holes “B” are used for the installation of  
+the front license plate to the  
+mounting bracket.  
+ 
+NOTICE  
+Do NOT pre -drill holes into the  
+radiator grille.  
+A 
+B 
+ B 
+A 
+3 
+2 
+1 
+1 
+ L-SB-0002 -25   January 10, 2025  Page 8 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  (continued)   
+RC 300 and RC 350 Model Vehicles (continued)  
+4. Install the front license plate onto the  mounting bracket using two non corroding bolt s with the 
+following dimensions:  
+Nominal Length: 15.0 mm (0.59 in.)  
+Diameter: 6.0  mm (0.24 in.)  
+Figure 5. 
+ 
+ 
+ Figure 6. 
+ 
+  
+1 Bolts  
+2 Self-tapping Screws  
+3 Front License Plate  1 Nominal Length  
+2 Diameter  
+ 
+ 
+  
+1 
+3 
+2 
+2 
+1 
+ L-SB-0002 -25   January 10, 2025  Page 9 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  
+1. Remove the front and rear emergency 
+towing eyelets from the front and rear 
+bumper s by turning them  counterclockwise.  
+ 
+ 
+ 
+ 
+ 
+ Figure 7. 
+ 
+ 
+  
+1 Front Emergency Towing Eyelet  
+2 Rear Emergency Towing Eyelets  
+2. Place the removed front emergency towing 
+eyelet into the luggage tray or tool bag  
+(if equipped) in the luggage compartment.  
+ 
+ 
+ 
+ Figure 8. 
+ 
+ 
+ 
+ 
+ 
+  
+A Type A  
+B Type B  
+1 Front Emergency Towing Eyelet  
+2 Tool Bag  
+  
+NOTE  
+If it is difficult to loosen the emergency towing 
+eyelets, use a steel bar.  
+NOTE  
+Dispose of the other removed emergency 
+towing eyelets.  
+2 
+1 
+A 
+B 
+1 
+1 
+2 
+ L-SB-0002 -25   January 10, 2025  Page 10 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation (continued)  
+3. Install the front and rear emergency towing 
+eyelet hole covers, which are stored in the 
+glove box, onto the front and rear bumpers.  
+ 
+A. Insert the arrow -shaped part “A” of the 
+front emer gency towing eyelet hole 
+cover  into the eyelet hole  tab “B”  
+as shown.  
+ 
+B. Install the emergency towing eyelet hole 
+cover  to the hole in the  front bumper . 
+ 
+ Figure  9. 
+ 
+ 
+  
+A Arrow -shaped Tab  
+B Eyelet Hole Tab  
+1 Front Emergency Towing Eyelet Hole Cover  
+2 Rear Emergency Towing Eyelet Hole Cover  
+ 
+  
+NOTE  
+Make sure the front emergency towing 
+eyelet hole cover is installed in the front, 
+and the rear emergency towing eyelet 
+hole cover is installed in the rear.  
+A 
+1 
+B 
+2 
+A 
+B 
+ L-SB-0002 -25   January 10, 2025  Page 11 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front Wheel Opening Extension Pad Installation  
+The front wheel opening extension pad set (right and left front wheel opening extension pads 
+and six self -tapping screws) is loaded in the luggage compartment at the assembly plant to 
+avoid damage in transit.  
+ 
+1. Place the left front wheel opening 
+extension pad on the installation position 
+as shown and tighten the three  
+self-tapping screws.  
+ 
+ 
+2. Repeat step 1 for the right -hand side.   Figure 10. 
+ 
+ 
+  
+1 Self-tapping Screws  
+2 Front Wheel Opening Extension Pad  
+ 
+  
+NOTE  
+ Use the same procedure for the right -hand side and the left -hand side.  
+ The procedure listed below is for the left -hand side.  
+ There is a distinguishable mark on each front wheel opening extension pad.  
+1 
+2 
+ L-SB-0002 -25   January 10, 2025  Page 12 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front Spoiler Cover I nstallation  (RC F models only)  
+The front spoiler cover set (front spoiler cover, eight screw grommets, and eight screws) is 
+loaded in the luggage compartment at the assembly plant to avoid damage in transit.  
+ 
+1. Attach  the eight screw grommets to the 
+front bumper guard.  Figure 11. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 Front Bumper Guard  
+2 Screw Grommet  
+3 Front Spoiler Cover  
+4 Screw  
+5 Datum (Circular Hole)  2. Align the front spoiler cover and secure it 
+with the eight screws.  
+ 
+ 
+  
+NOTE  
+AFTER securing the front spoiler cover at its 
+datum (circular hole), secure it outward (in 
+the direction of the arrows).  NOTICE  
+ AFTER installation, verify  that the 
+installation has been  
+successfully  completed . 
+ Check that the vehicle is  
+NOT damaged.  
+1 
+2 
+3 
+4 
+3 
+5 
+ L-SB-0002 -25   January 10, 2025  Page 13 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Installation of Rubber Body Plugs  
+ 
+1. Confirm the number of plugs in the glove box. If two plugs are present, perform  
+substep 2A ONLY. If four plugs are present, perform substep 2A AND substep 2B. 
+2. Install plugs according to the instructions below by confirming the number of plugs  in the  
+glove box . 
+A. Install two plugs in the rear side member hole or rocker inner hole as shown . 
+B. Install two plugs in the torque box hole or rocker inner hole  as shown . 
+Figure 12. 
+ 
+ 
+1 Front Side   4 Rear Side Member  Hole or Rocker Inner Hole  
+2 Rear Side   5 Rocker Inner  
+3 Torque Box Hole or Rocker Inner Hole   6 Install Plug Here (if Applicable)  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+NOTICE  
+ The installation of t hese  plugs  is required to prevent rust . 
+ These plugs are stored in the glove box.  
+ The number of plugs may vary according to production locations in the same  
+vehicle model.  
+z 
+1 
+z 
+2 
+z 
+6 
+z 
+5 
+z 
+6 
+z 
+3 
+z 
+4 
+ L-SB-0002 -25   January 10, 2025  Page 14 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Tire Pressure Warning System (TPWS) Initialization  
+Refer to the applicable Repair Manual for the TPWS initialization procedure . 
+ 2025  RC F:  
+Suspension – Tire Pressure Monitoring – Tire Pressure Warning System – Initialization  
+ 2025  RC 300  and RC 350:  
+Suspension – Tire Pressure Monitoring – Tire Pressure Warning System  – Initialization  
+ 
+ 
+ 
+ 
+ 
+Memorize Steering Angle Neutral Point  
+As a result of the removal of the D/C cut fuse, the power source to the steering angle sensor is 
+cut off. When the D/C cut fuse is reinstalled, the parking assist monitor system/panoramic view 
+monitor will be operative, but it cannot display guidelines to assist parking operation because the 
+center position recognized by the steering angle sensor may not be in an initial posit ion. 
+Therefore, perform steering angle neutral point initialization AFTER installing the D/C cut fuse 
+during PDS.  
+Refer to the applicable Repair Manual for the steering angle neutral point  
+initialization procedure.  
+ 2025  RC F:  
+Audio / Visual / Telematics – Park Assist / Monitoring – 
+Parking Assist Monitor System – Initialization  
+ 2025  RC 300  and RC 350:  
+Audio /  Visual / Telematics – Park Assist / Monitoring – 
+Parking Assist Monitor System – Initialization  
+ 
+  NOTE  
+ To adjust the tire pressure correctly when the outside temperature is significantly colder than shop 
+temperature, perform a  Health Check using GTS+ and select the compensation tire pressure 
+checkbox. Compensation pressures will display on the Health Check results screen. Adjust the tire 
+pressure when t he tires are cold.  
+ If the vehicle has a spare tire, it does NOT have a TPWS sensor . 
+ L-SB-0002 -25   January 10, 2025  Page 15 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Seating Position Control ECU Assembly Initialization  
+Refer to the applicable Repair Manual for the seating position control ECU initialization 
+procedure (procedure 2).  
+ 2025  RC F:  
+Vehicle Interior – Seat – Front Power Seat Control System – Registration  
+ 2025  RC 300  and RC 350:  
+Vehicle Interior – Seat – Front Power Seat Control System – Registration  
+ 
+ 
+ 
+ 
+Dealer Contact Information for Call Dealer Head Unit Function  
+Refer to the Multimedia System Owner’s Manual to add dealer contact information . 
+ 2025  RC F, RC 300,  and RC 350:  
+Section 2-4 Other settings – Vehicle settings  
+ 
+ 
+ 
+ 
+Deletion of Vehicle Alert History  
+As the D/C cut fuse is removed, the communication between the various ECUs is interrupted. 
+When the D/C cut fuse is reinstalled, the communication status is restored, but Lexus Enform 
+Service Connect may store malfunction history in the form of vehicle ale rt history.  
+Therefore, it is necessary to operate the multi -display and delete the vehicle alert history AFTER 
+installing the D/C cut fuse during PDS at the dealership.  
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Push the Menu switc h on the remote touch device.  
+3. On the multi -display, enter the following menus: Info – Vehicle Alert History . 
+4. If there is vehicle alert history  stored , perform the Delete History operation.  
+ 
+5. When the vehicle alert history deletion confirmation screen is displayed, select Yes.  
+6. Turn the engine switch (power switch) to the  OFF position (OF F mode).  
+ 
+  HINT  
+If there is no vehicle alert history stored, the system will display a message stating  
+“There is no vehicle alert history.”  
+ L-SB-0002 -25   January 10, 2025  Page 16 of 16 
+2025 RC F, RC 300, and RC 350 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Shift Lock Release Button Cover Installation  
+Refer to the applicable Repair Manual for the shift lock release button cover  
+installation procedure . 
+ 2025  RC 300  (2WD)  and RC 350  (2WD):  
+Drivetrain – AA81E (Automatic Transmission / Transaxle) – Shift Lever – Installation  
+ 2025  RC 300  (AWD)  and RC 350  (AWD):  
+Drivetrain – A760 H (Automatic Transmission / Transaxle) – Shift Lever – Installation  
+ 2025  RC F:  
+Drivetrain – AA80 E (Automatic Transmission / Transaxle) – Shift Lever – Installation  
+ 
+ 
+ 
+ 
+Compass Calibration   
+Refer to the applicable Repair Manual for the calibration procedure  for vehicles equipped  with a 
+compass in the inner rear -view mirror . 
+ 2025  RC F:  
+Vehicle Interior – Mirror (INT) – Inner Rear View Mirror – Calibration  
+ 2025  RC 300  and RC 350:  
+Vehicle Interior – Mirror (INT) – Inner Rear View Mirror – Calibration  
+ 
+ 
+ 
+ NOTE  
+ Do NOT  perform calibration of the compass in a place where the Earth's magnetic field is subject to 
+interference  (underground parking, under a steel tower, between buildings, roof parking, near a 
+railroad crossing, near a large vehicle, etc.).   
+ During calibratio n, do NOT  operate electric systems (moonroof, power windows, etc.) , as they may 
+interfere with  the calibration.  

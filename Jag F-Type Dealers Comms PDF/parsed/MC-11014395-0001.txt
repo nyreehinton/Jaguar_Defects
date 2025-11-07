@@ -1,0 +1,65 @@
+ 
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do -it-yourselfers,” and you should not 
+assume this bulletin applies to your vehicle, or that your vehicle has the condition described. To determine whether this inf ormation applies, contact 
+an authorize d Honda automobile dealer.  
+ 
+© 2025 American Honda Motor Co., Inc. – All Rights Reserved   Page 1 of 2 
+         Service Bulletin  25-020 
+February 1 4, 2025    Version 1  
+Electric Water Pump Relay Stuck Off  in Freezing  Temperatures  -  
+DTC P26CC (Electric Engine Coolant Pump Circuit Low Voltage ) 
+APPLIES TO  
+Year  Model  Trim  Level  VIN Range  
+2025  CIVIC HYBRID  ALL ALL 
+2023 -24 ACCORD HYBRID  ALL ALL 
+2023 -24 CR-V HYBRID  ALL  ALL 
+SYMPTOM  
+The Malfunction Indicator Lamp (MIL) is displayed and DTC P26CC  (Electric Engine Coolant Pump Circuit  Low Voltage ) is 
+stored when starting  the vehicle  in freezing  temperatures . 
+POSSIBLE CAUSE  
+Moisture intrusion in the  Electric Water Pump (EWP)  relay freezes  during temperatures (at or below 32 °F) causing the 
+relay to malfunction.  
+CORRECTIVE ACTION  
+Connect  i-HDS to the vehicle to confirm DTC P26CC and IAT Sensor (1 ) is at or less than 32°F (0°C)  then replace the 
+engine EWP relay.  
+PARTS INFORMATION  
+Part Name  Part Number  Quantity  
+Engine EWP Relay [RELAY ASSY. (MICRO ISO) 
+(OMRON)]  39792 -3A0-A01 1 
+TOOL INFORMATION  
+Tool Name  Part Number  Quantity  
+RELAY PULLER  07AAC -000A2A1  1 
+ 
+  
+
+Page 2 of 2 
+ WARRANTY CLAIM INFORMATION  
+Operation 
+Number  Description  Flat 
+Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+7301B7  Replace relay if MIL 
+displayed with DTC P26CC  0.2 hr  
+03001  03217  A25020A  39792 -SDA –A01 
+A DTC clear - Add 0.1 hr  
+INSPECTION PROCEDURE  
+1. Connect i-HDS  to the vehicle : Civic HEV , Accord HEV  or CR-V HEV . 
+2. Perform an ALL-DTC CHECK to confirm P 26CC  
+3.  Select  Freeze Frame Data . 
+4. If the IAT Sensor (1) is greater  than  32°F (0°C),  continue with normal troubleshooting.  
+If IAT Sensor (1) is less than  32°F (0°C) , replace the EWP sensor . 
+REPAIR PROCEDURE  
+1. Remove the engine EWP rela y using the relay puller. 
+Civic relay location         Accord relay location         CR-V relay location  
+ 
+ 
+2. Install a new EWP relay  into the  fuse box.  
+NOTE:  The new countermeasure EWP relay will be  white in color.  
+3. Connect i-HDS to vehicle and clear all DTCs.  
+4. Start vehicle.  
+5. Perform ALL -DTC check with i-HDS to verify DTC P26CC  is no longer stored . 
+ 

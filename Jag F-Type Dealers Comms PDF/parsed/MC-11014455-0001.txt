@@ -1,0 +1,74 @@
+Bulletin No.: PIP5358D
+Published date: 02/19/2025
+Preliminary Information
+PIP5358D Vehicle Noise Diagnosis and TAC Requests For Assistance
+With Noise Related Complaints
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+All All 2000 - 2025 All AllAll All
+Supersession Statement
+This PI was superseded to update model years and models. Please discar d PIP5358A
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+When working with a vehicle that has an unusual noise and  is diﬃcult to identify , isolate or
+pinpoint,  we would request that prior to dis-assembly for this concern  you get a
+sound/video ﬁle of the noise prior to calling T echnical Assistance.  
+To accomplish this you can use a cell phone to record audio or video with sound to send to
+TAC or the process below will show how to use the PICOSCOPE as a microphone and that
+ﬁle can be sent in. This is a much higher quality recording.
+If you need to download or update the PicoScope, follow the steps below:  
+1) Log into GM GlobalConnect.  
+2) Click on the "Departments" drop down menu and select "Service.”  
+3) Under "Applications" on the service page, select "Special T ools and Software updates.”  
+4) You will now be re-directed to www .gmtoolsandequipment.com (do not access this site
+directly as it requires the use of GlobalConnect to allow downloads).  
+5) Click the link under "Software Downloads" for the latest PicoScope software version and
+a new page will open.  
+6) Click the setup links and follow instructions to update the tool.
+1) Place the PicoScope accelerometer sensor nearest to where the noise appears to be
+coming from.  
+    Moving the sensor and getting another recording ma y help to isolate the area better .
+Note: Ensure to keep the cable routed awa y from the exhaust if working in the engine
+compartment or moving parts if working under the vehicle.
+2) Open the most current version of GM NVH.
+3) After completing the wizard, go back into the setup tab under V ibration Signal and
+select Single Channel.  
+    Select T A148 Interface in the “Box” dropdown and T A144 Microphone for the “Sensor ”
+Drop down. (Y ou will still use the accelerometer as your microphone)  
+    Select the Location as current location being inspected.
+ 
+Note: If using 3 axis, use center channel only and set up as single axis.
+4) Operate the vehicle to verify condition and record a Pico data ﬁle of the concern.
+NOTE: Review the ﬁle, it will pla y back an audio ﬁle that can be heard from the PC
+speak ers. 
+            PICO will pick up normal noises and mak e them clearly audible.  
+            Mak e sure the noise that we are trying to diagnose is on the ﬁle.  
+            If the noise is not there, move the sensor and record another ﬁle until you ﬁnd the
+source area.
+5) While the reviewed ﬁle is on the screen, click File Save. It should be formatted as
+.pddata
+6) The next box allows you to save the vehicle information as well as customer information
+and notes in the Notes box. This could be sensor location, sensor direction and even road
+surface name, etc. Click Ok when you are done adding information.   
+7) Create an e-mail to T ACSNAPSHOT@gm.com in the U.S. and
+TACSNAPSHOTCANADA@gm.com in Canada and in the subject line Put V ibration, your BAC,
+and last 8 of the VIN.  
+    Or using the latest version of PIP5632  in the U.S. you can put the recording directly into
+the case.
+Note: F or Middle East, Japan or other countries, contact your local T AC for submission
+instructions.
+ 
+Recommendations / Instructions
+In an attempt to better assist dealers and get vehicles returned to customers repaired
+right the ﬁrst time, GM T AC will request any calls regarding  assistance for unidentiﬁed or
+non-isolated noise complaints to have a sound /video ﬁle ready to send in for assessment
+by engineering.
+At times TAC will request the aid of engineers to help locate or isolate a noise and it ma y
+be something they have heard before. The sound ﬁle or video ma y assist with this if the
+noise can be captured.
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,426 @@
+SIM 01 06 16
+FOOTWELL  MODULE (FRM) EXTENDED LIMITED WTY  (ELW)
+INCREASE TO 15 YRS/240,000 MI2025-02-21
+This Service Information bulletin (Revision 02) supersedes SI M01 06 16 dated August 2018
+ 
+What’ s New:
+ 
+The footwell module (FRM) extended limited warranty has been increased to 15 Years/240,000 Miles
+Title updated
+New attachment
+The complete Service Information Bulletin has been reformatted
+ 
+MODEL
+E-Series Model Year Model Description
+R55 2010 to 2014 MINI Clubman Cooper , Cooper S, Cooper JCW , Cooper S JCW
+R56 2007 to 2013 MINI Hardtop Cooper , Cooper S, Cooper JCW
+R57 2010 to 2014 MINI Convertible Cooper , Cooper S, Cooper JCW
+R58 2012 to 2014 MINI Coupe Cooper , Cooper S, Cooper JCW
+R59 2012 to 2014 MINI Roadster Cooper , Cooper S, Cooper JCW
+R60 2011 to 2014MINI
+CountrymanCooper , Cooper S, Cooper S ALL4, Cooper JCW
+R61 2013 to 2014 MINI Paceman Cooper , Cooper S, Cooper S ALL4, Cooper JCW
+ 
+Note:   W ithin the models and model years listed above, there are affected and non-affected vehicles. 
+ 
+The Model information above is for informational purposes only , it is not the only deciding factor .
+ 
+Eligible V ehicles
+ 
+To assist you in identifying those vehicles that have this component-specific extended limited warranty (EL W)
+coverage, the following V ehicle Comment will show in the VIN-specific W arranty V ehicle Inquiry (WVI).
+ 
+February 2025 New Superseding V ehicle Comment
+ 
+Important Update to FRM EL W SI M01 06 16 (RC 61 35 90 10 00): For this vehicle, the
+Footwell Module (FRM) limited warranty for defects in materials and / or workmanship has
+been supplementarily increased to 15 years / 240,000 miles as determined from the
+original first in-service / delivery date. This coverage is subject to the same vehicle
+eligibility requirements, limitations, and exclusions that apply to the MINI New Passenger
+Car Limited W arranty .  This FRM EL W-related coverage statement supersedes the prior
+two EL W coverage statements.
+ 
+Note:  Before performing a repair and submitting a claim, first confirm that the vehicle has the above Notice of
+Extended Limited W arranty coverage in the WVI’ s “Vehicle Comments” section.
+ 
+Note:   The footwell module’ s extended limited warranty coverage period has been increased 15 Years / 240,000 Miles
+from 10 Years /156,000 Miles with the posted update of this bulletin dated February 2025. 
+ 
+If you have EL W eligibility and/or coverage questions, please contact the W arranty department through IDS by
+selecting Coverage, Policy , Coding Questions and Mileage Corrections prior to performing any repair .
+SITUA TION
+Component-Specific Extended Limited W arranty (EL W)
+Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 1/7
+ For the eligible vehicles and for the issue
+described below , MINI USA, a division BMW of
+North America, LLC (MINI USA) is
+supplementarily increasing the extended
+limited warranty coverage period for the
+vehicle’ s Footwell Module (FRM)  to:
+ 
+15 years / 240,000 miles as determined by
+the vehicle’s original in-service date.
+ 
+This component-specific extended limited
+warranty applies to the situations noted in
+CAUSE section of this bulletin.
+ 
+This coverage applies to the specific vehicle (VIN), the remaining portion of the EL W is transferrable to each
+subsequent owner , and is subject to the same vehicle eligibility requirements, limitations, and exclusion criteria
+that applies to the MINI New Passenger Car Limited W arranty .
+ 
+Note: This bulletin is notice of a component-specific limited warranty extension. This is NOT a notice of
+a Recall or Service Action.
+ 
+There is no immediate repair required unless the MINI vehicle is currently experiencing this problem.
+ 
+Customer Notification Letter
+ 
+Even though this is NOT  a Recall, MINI USA  will be sending VIN-specific customer notification letters.
+ 
+Note:  Some of these vehicles may already be beyond the extended limited warranty coverage period, however ,
+those customers can still request the review of a “prior” customer pay FRM repair for reimbursement.
+ 
+CAUSE
+A. Either while performing IST A diagnosis and/or a vehicle software update procedure, or after a 12-volt battery disconnect, or a
+12-volt power supply interruption on an af fected vehicle, the Footwell Module (FRM) may fail (Consequential).
+There is either a compatibility issue with certain combinations of vehicle software i-Levels and the version of the
+Footwell Module’ s hardware that is installed in the vehicle.
+Or the:
+B. Footwell Module itself (FRM) failed (Primary causual part) prior to performing any diagnosis, or repair-related work
+procedures.
+CORRECTION
+Follow the instructions in the PROCEDURE section.
+ 
+PROCEDURE
+If one of the issues above occurs to an af fected vehicle, replace the failed Footwell Module.
+Addressing and repairing pre-existing vehicle issues and/or issues caused by non-genuine MIN parts and/or
+used MINI passenger car parts are not covered under this extend limited warranty .
+ 
+SI M61 05 23  Recall 23V -337: Footwell Module (FRM) Moisture/W ater Intrusion (R55, R56)
+ 
+Note: FRM issues, including those identified in item “A,” that are related to and because of
+performing the recall remedy repair that addresses different situation, please claim this
+FRM-related repair work as outlined in the Recall Service Information Bulletin. Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved
+2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 2/7
+ 
+PARTS INFORMA TION
+Only order these parts in the quantities needed to address customers’  vehicles that have confirmed
+failures.
+ 
+To determine the part numbers that applies to the specific vehicle being repaired, enter the VIN/chassis number
+into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the vehicle.
+ 
+Part Number Description Quantity
+Refer to ETK/AIR Footwell module (FRM) 1
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed according to the IST A repair instructions/ETK,
+must be selected from the Electronic Parts Catalogue, or other approved BMW Group’ s resources, according to
+the respective vehicle type. Invoiced these items separately under the Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+For eligible US-specification MINI vehicles that are registered and operated in the United States (including
+Puerto Rico), the component-specific 15 year (180 month) / 240,000-mile extended limited warranty coverage
+for defects in materials and/or workmanship applies to qualifying repairs performed by authorized MINI dealers.
+ 
+This coverage described above applies to the specific vehicle (VIN), it is transferrable to the subsequent
+owners, and is subject to the same vehicle eligibility requirements, limitations, and exclusion criteria that applies
+to the MINI New Passenger V ehicle Limited W arranty .
+ 
+The existing limited warranty coverage for the whole vehicle and other components has not changed.
+ 
+This coverage supersedes the coverage that is provided under the MINI Certified Pre-Owned Program, or any
+BMW Group V ehicle Service Contract that applies to the vehicle.
+ 
+For the issues described in this bulletin, the replacement FRM is covered by the remaining portion of the
+extended limited warranty coverage period.
+ 
+Non-Qualifying Repairs
+ 
+Repairs performed on ineligible vehicles, eligible vehicles operated and repaired outside the United States and
+Puerto Rico, or the diagnosis and repair of issues that are outside the intended scope of this extended
+coverage, other unrelated issues, and/or that are due to outside influences are not covered by this limited
+warranty extension. This exclusion also applies to repairs that were performed using (including those repairs
+that result from using) non-genuine MINI parts and/or used MINI passenger car parts.
+ 
+Qualifying Repairs – Claim Submission
+ 
+Repair Code: 6135901000 R5x R6x Footwell module (FRM)
+ 
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Situation One (1):   Consequential FRM Replacement “after” performing vehicle diagnosis, or a 12-volt
+battery disconnect, or some other 12-volt power supply interruption occurred for an unrelated issue.
+ 
+Labor Operation Description Labor
+Allowance
+61 35 616 61 35 616 Replacing FRM (After vehicle diagnosis) As applicable
+And:
+Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 3/7
+61 00 710Programming/encoding control unit(s) (Associated work,
+without Car Access System ) (includes deleting the fault
+memory)As applicable
+Or:
+61 00 720Programming/encoding control unit(s) (Associated work,
+with CAS ) (includes deleting the fault memory)As applicable
+ 
+Or:
+ 
+Situation T wo (2):  Consequential FRM Replacement “after” programming/coding the vehicle for an
+unrelated issue.
+ 
+Labor Operation Description Labor
+Allowance
+61 35 616 Replacing FRM (After vehicle diagnosis) As applicable
+And:
+61 00 71 1Additional work after 1st termination when
+programming/encoding (Associated work, without Car
+Access System , with job item no. 61 00 710) (includes
+deleting the fault memory)As applicable
+Or:
+61 00 721Additional work after 1st termination when
+programming/encoding (Associated work, with CAS , with
+job item no. 61 00 720) (includes deleting the fault
+memory)As applicable
+ 
+Or:
+ 
+Situation Three (3):  FRM Replacement due to it being the Primary Failure (Causual Part)  
+ 
+Labor
+OperationDescription Labor Allowance
+00 00 006 Carrying out vehicle test (Main work) As applicable
+Or:   
+00 00 556 Carrying out vehicle test (Plus work) As applicable
+And:   
+61 21 528Supporting voltage of the vehicle electrical system /
+recharging vehicle batteryAs applicable
+And, as needed:   
+61 00 006* Carrying out vehicle diagnosis, ABL (Work time) WT FRU
+Or:   
+00 58 500* Diagnosis W orktime Flat Rate 2 FRU
+And:   
+61 35 616 61 35 616 Replacing FRM (After vehicle diagnosis) As applicable
+ 
+And:
+ 
+Without an Open Programming and Encoding T echnical Campaign (See below)
+ 
+Labor
+OperationDescription Labor Allowance
+61 00 710 Programming/encoding control unit(s) (Associated work,
+without Car Access System ) (includes deleting the faultAs applicable
+Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 4/7
+memory)
+Or:   
+61 00 720Programming/encoding control unit(s) (Associated work,
+with CAS ) (includes deleting the fault memory)As applicable
+ 
+If you are using a Main labor code for another repair , use the Plus code labor operation 00 00 556 instead of 00 00 006, or
+exclude (including 61 21 528) when the V ehicle Test is included in another repair .
+ 
+Work time labor operation codes 61 00 006 and 00 58 500 are not considered Main labor operations.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the “Search”
+icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select the
+applicable Model, or enter the full VIN (17 characters) instead to proceed.  C lick on the “Flat Rate Units” button
+and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the “Search”
+icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+Vehicle Programming and Encoding - FRM Replacement
+ 
+During this workshop visit, the af fected vehicle may also show one or more programming and encoding Technical Campaign
+repairs open, the programming and encoding procedure may only be invoiced one time.
+ 
+After replacing the FRM, perform and submit for updating the vehicle’ s software to the required I-level or higher through
+the technical campaign. 
+ 
+Please be sure to also perform any additional before and/or after work (including attaching labels) as required
+by the open campaigns on the vehicle. Close any other open programming and encoding Campaign repairs as
+outlined in the corresponding Service Information Bulletin .
+ 
+Vehicle Programming and Encoding – Additional W ork (RO and Claim Comments Required)
+ 
+This procedure automatically reprograms and encodes any vehicle control modules that do not have the latest software I-level. 
+ 
+If one or more control modules fail during the reprogramming procedure, claim the required consequential
+repair work procedures to address this issue (including performing the IRAP  Control Unit Recovery first as
+required, refer to the SIB in AIR) under the Repair Code in this bulletin together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that applies.
+ 
+Please explain the additional work procedures that were performed (The why and the what) on the repair order and in the claim
+comments.
+ 
+For covered repairs that address control module failures that occurred prior to performing this reprogramming
+procedure, claim this work with the appliable Repair Code listed in AIR together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that applies.
+ 
+(*) Based on which one applies to your dealer , please refer to SI M01 01 20  or M01 04 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair work
+time (WT), and the vehicle repairs your dealer performed, unless otherwise required by State law .
+ 
+Previous Customer-Pay Repairs – Limited W arranty Extension Reimbursement
+ 
+Note:   A printed copy of the “interim reimbursement procedure” attachment can be provided to the customer .
+ 
+See attachment M010616_A T_1 EL W RBMT  Interim Prd 02_2025
+ 
+MINI USA, a division of BMW of North America, LLC (MINI USA) will reimbursement certain costs for qualifying customer-pay
+repairs that were performed on an eligible vehicle prior  to the release of this updated component-specific extended limited
+warranty coverage.
+ 
+Note:  The footwell module’ s extended limited warranty coverage period has been increased 15 Years / 240,000 Miles
+from 10 Years /156,000 Miles with the posted update of this bulletin dated February 2025. Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 5/7
+ 
+A qualifying customer pay repair must primarily be for a covered FRM repair for the issues described in this Service
+Information Bulletin.  Also, the repair facility ‘s procedures to address the above situation must have been performed
+correctly , adequately , and completely , as required by the applicable BMW Group approved repair standards and
+instructions.
+ 
+Customer-pay repairs are subject to the same vehicle eligibility requirements, limitations, and exclusions that apply to the MINI
+New Passenger Car Limited W arranty .
+ 
+Repairs That Do Not Qualify for Reimbursement
+ 
+Repairs performed on ineligible vehicles, eligible vehicles operated and repaired outside the United States and
+Puerto Rico, or the diagnosis and repair of issues that are outside the intended scope of this extended
+coverage, other unrelated issues, and/or that are due to outside influences are not covered by this limited
+warranty extension. This exclusion also applies to repairs that were performed using (including those repairs
+that result from using) non-genuine MINI parts and/or used MINI passenger car parts.
+ 
+Requesting Reimbursement for a Previous Repair That Qualifies
+ 
+For a customer to request reimbursement for a qualifying customer-pay repair performed either by an authorized MINI dealer or
+independent repair shop located in the United States (including Puerto Rico), please have him/her submit his/her reimbursement
+request online at WWW.MINI-RP .COM  under the following reference:
+ 
+MINI EL W Footwell Module
+ 
+Reimbursement Request Procedure
+ 
+The online process is initiated by attaching/sending PDF files of the supporting documentation for the prior repair . 
+ 
+The letter also includes alternative methods to request reimbursement, either through the mail or by fax as
+described below:
+ 
+MINI Customer Reimbursement Center
+Attention: MINI EL W Footwell Module
+P.O. Box 54067
+Hurst, Texas 76054
+ 
+Fax number: 877-434-2992
+ 
+Please allow 4-6 weeks for processing your request.
+ 
+Should you have any questions concerning this reimbursement process, please call 1-844-857-0341.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Supporting Materials
+picture_as_pdf M010616_A T_1 EL W RBMT  Interim Prd 02_2025.pdf
+Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 6/7
+Copyright ©2025 MINI USA, a division of BMW of North America, LLC. All Rights Reserved2/28/25, 5:56 AM 01 06 16_FOOTWELL MODULE (FRM) EXTENDED LIMITED WTY (ELW) INCREASE TO 15 YRS/240,000 MI
+about:blank 7/7
+M01 06  16 FRM ELW (2025 Update)  1 February 2025
+Footwell Module (FRM) Extended Limited Warranty (ELW) Increase To 15 Years/240,000 Miles
+Certain applicable Model and Model Year MINI Clubman (R55), Hardtop (R56), Convertible (R57), Coupe (R58), 
+Roadster (R59), Countryman (R60), Paceman (R61) Cooper, Cooper S, and Cooper JCWs may be affected. 
+What is the specific issue? 
+Either while preforming diagnosis and/or a vehicle software update procedure, or after a 12-volt battery 
+disconnect, or a 12-volt power supply interruption on an affected vehicle, the Footwell Module (FRM) may fail 
+(Consequential).
+This can be caused by either a compatibility issue with certain combinations of vehicle software i-Levels and 
+the version of the Footwell Module's hardware that is installed in the vehicle.
+Or, the Footwell Module (FRM) itself failed prior to performing any vehicle diagnosis, or any other related 
+repair work procedures.
+Have you previously paid for this type of FRM repair? 
+Prior to the release of this latest update to this component-specific extended limited warranty, if you 
+previously paid for a repair that addressed / corrected an issue like the ones described above, you may be 
+eligible to be reimbursed for certain previously paid repair costs that qualify.  
+Addressing and repairing other vehicle issues and/or issues caused by installed non-genuine MINI parts and/
+or used MINI passenger car parts are not covered under this extend ed limited warranty.
+To request a reimbursement review of your previous customer pay repair invoice (Authorized MINI dealer or 
+an independent repair shop), please submit your request on-line at www.MINI-RP.com under the following 
+reference:
+•MINI ELW F ootwell  Module
+The on-line process is initiated by attaching/sending PDF files of your supporting documentation for the 
+prior repair (Please include a copy of the completed page two (2) reimbursement request ch ecklist together 
+with the other applicable required documentation).  
+Please include a copy of the completed page two (2) reimbursement request checklist together with the other 
+applicable required documentation.  
+An a lternative method to request a reimbursement is either by mail, or by fax, as described below. 
+MINI Customer Reimbursement Center 
+Attention: MINI ELW Footwell Module  
+P.O. Box 54067 
+Hurst, TX 76054 / Fax number:  877-43 4-29 92 
+Please allow 4-6 weeks to process your request.  
+Should you have any questions concerning t his reimbursement process, please call 1-84 4-85 7-03 41. 
+Sincerely, 
+MINI USA, a division of BMW  of North America 
+MINIAttachment 1 to SI M 01 16 16 February 2024
+Company
+MINI USA
+A division of BMW
+of North America, LLC
+Website
+www.miniusa.com
+MINI Footwell Module (FRM) Extended Limited Warranty (ELW) 
+Previou s Customer -Pay Repair Reimbursement – Required Documentation Checklist 
+M01 06  16 FRM ELW (2025 Update)  2 Reimbursement for
+ a qualifying customer pay repair is available to the MINI owner/ lessee who incurred the expense. The 
+questions below will assist you in reviewing your repair order/invoice documentation.  
+Prior Repair Review Questions  Answers - One per Row  
+Did a prior repair to your vehicle address an issue with the FRM like the ones 
+that are described in this letter?Yes, next  No 
+Did you pay for this repair? Yes, next  No 
+Does the repair facility's documentation confirm that the FRM was the the cause 
+of the issue with your vehicle? Yes, pro ceed to the 
+checklist  No 
+When a Prior Repair Review Question’s result is a “No” response, no further action is required. 
+Note:  Within the applicable MINI models and model years, there are affected and non-affected vehicles.
+A qualifying customer pay repair must primarily address an FRM-related issue that is described in this letter.  Also, 
+the repair facility ‘s procedures to correct the issue must have been performed correctly, adequately, and completely 
+as required by the applicable BMW Group approved repair standards and instructions.
+Required Repair Order (RO) or Invoice Documentation - Checklist
+For a previous repair reimbursement request, please include a completed copy of this page 2 Required Documentation  
+Checklist (one per repair/request) together with legible copies (either a scan, photo, PDF, and/or screenshots) of the  
+following documentation with your name, address, and your preferred contact telephone number(s) and email  
+address(es).
+  Customer name and address  
+  Vehicle Identification Number (“VIN”)  
+  The date of repair  
+  The mileage when the repair was performed  
+  Itemized list of labor charges for all repairs* including diagnosis 
+  Itemized list of parts (Part numbers), including any miscellaneous items, billed for all repairs*  
+(*) For repair orders containing multiple repair line items, reimbursement  consideration will only be given to those line- item 
+expenses that are directly related to the specific repair that is now covered by this component -specific extended limited 
+warranty.  
+Required Proof of Payment Documentation  
+Please provide a copy of at least one of the following items as valid proof of payment:  
+  Repair order (RO)/invoice stamped and dated as “PAID”  
+  Cancelled check  
+  Signed credit/debit card receipt  
+  Credit/debit card statement  
+MINI USA, a division of BMW of North America, LLC (“MINI USA”) reserves the right to review and adjust/reduce the 
+amount that will be reimbursed based on what is normally recognized as customary, fair, and reasonable, to diagnose, 
+perform a repair, or to replace component s (including the applicable scope  and directly related consequential part 
+replacement s, and other related materials) to address the issue with the vehicle.   
+Except for reasonable account number protection measures, illegible, altered/modified, incomplete, non -authentic 
+and/or fabricated repair order/invoice documentation will not be accepted.  Attachment 1 to SI M 01 06 16 February 2025

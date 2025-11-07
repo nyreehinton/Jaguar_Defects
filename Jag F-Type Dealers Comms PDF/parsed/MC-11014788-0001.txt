@@ -1,0 +1,51 @@
+
+
+EB2 MCC Controller Update
+Intellipark Keep -Awake Solution
+Daimler TruckGeneral
+•This update aims to resolve a concern where the Bendix Inte llipark DECU will stay awake indefinitely in 
+key off scenarios
+•This will eliminate a very low constant power draw
+•This will reduce customer nuisance complaints that arise from seeing the Intellipark DECU  lamps remain 
+on at all times
+Daimler TruckTools Required
+•ECC Downloader Software (ECCDownloaderSetup.msi)
+•BCC RS485 to USB Adapter (BCC P/N 35 -0735)
+•FTDI VCP Drivers
+•Software Update Hex File (T35 -1864 Thom a sBus V107 24.06.06.hex)
+Daimler Truck
+FTDI Driver Installation
+•Download the latest driver package from ftdichip.com
+•The appropriate drivers for a Windows PC can be obtained from https://ftdichip.com/drivers/vcp -
+drivers/ ->Windows (Desktop) -> setup executable as pictured below (or found in the update package on 
+DTNA Portal)
+•Run the downloaded executable to install the 
+VCP dr
+iver package
+
+Daimler TruckUpdating EB2 Body AC Controller
+•Connect the RS485 to USB adapter (BCC P/N 35 -0735 ) to the DB9 port located on top of the body AC 
+control board located on the driver side of the vehicle directly behind the low voltage battery access door
+•Connect the USB cable included with the RS485 to USB adapter to the adapter via the USB- B por t on the 
+adapter
+•Connect the USB -A en d of the USB cable to a Windows PC with ECC Downloader and FTDI VCP drivers 
+installed
+•Run the ECC Downloader software
+
+Daimler TruckUpdating EB2 Body AC Controller Continued… 
+•Select the appropriate COM port from the dropdown box
+•NOTE: The appropriate COM port may be different for each user depending on Windows PC Configuration
+•Typically the correct COM port will only appear in the dropdown box when the RS485 adapter is 
+conn
+ected to the PC
+
+Daimler TruckUpdating EB2 Body AC Controller Continued… 
+•Select the download button to begin flashing the ECU
+•Wait until the flashing process is finished and the progress bar is at 100%
+
+Daimler TruckValidation
+•When the update is complete the Inte llipark DECU should now properly power down when the key is 
+turned off
+•Turn off the vehicle and allow the DECU approximately 5 minutes to power down
+•Once the Intellipark DEC U powers down the LED indicators will turn off
+•Update complete 

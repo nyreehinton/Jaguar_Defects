@@ -1,0 +1,45 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S2508000012  
+ 
+Release Date:   February  2025  
+ 
+Symptom/Vehicle Issue : Customer Ind icates Collision Avoid ance System/Blind Spot 
+Alert Cluster Message  
+ 
+Customer Complaint/T echnician Observation:  ADAS Camera Module (ADCAM), 
+Long Range Radar Front (LRRF),  Mid-Range Radar (MRR), Advanced Driver Assist 
+System (ADAS)  - Cluster message for collision avoidance system and/or blind spot 
+alert limited /unavailable  service required . Radar failure DTCs present (identified 
+below).  
+ 
+Technician s may observe one or more of the following Diagnostic Trouble Codes  
+(stored or active) : 
+ 
+ADCAM : 
+C00C0 -49 – Front Radar Module "A" -Internal Electronic Failure  
+C00C2 -49 – Front Radar Module " C"-Internal Electronic Failure  
+C00C4 -49 – Rear  Radar Module "A" -Internal Electronic Failure  
+C00C5 -49 – Rear  Radar Module " B"-Internal Electronic Failure  
+ 
+LRRF:  
+B22A9 -00 – ECU Internal Performance - 
+ 
+Discussion : When diagnosing a ny of the stored or active DTCs above, check for 
+open RSUs on the vehicle. If RSU is present, follow R SU In struction . If not, replace 
+the single radar called out by the DTC.  Refer to service library for repair procedures.   
+ 
+Post repair verification : Ensure DTCs clear and do not return. Perform WiTECH 
+service drive alignment routine  on the LRRF . Ensure DTCs and cluster messages do 
+not return.  

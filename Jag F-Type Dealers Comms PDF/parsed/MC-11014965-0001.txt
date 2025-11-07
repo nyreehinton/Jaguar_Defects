@@ -1,0 +1,23 @@
+From: Broadcast Messaging System
+To: DL-BMS_Message_Monitors
+Subject: B16 01 25 Integrated Fuel Module Delivery Stop Software Update
+Date: Thursday, February 20, 2025 4:10:53 PM
+Publish Date:
+From:
+Expiration Date:February 20, 2025 
+Technical ServiceMarch 6, 2025DCSnet Message  
+Urgent
+Subject:B16 01 25 Integrated Fuel Module Delivery Stop Software
+Update
+Attachments:We would like to give everyone a heads up that our testing and validation of the software  
+SDP4.52.15 with I-Level S18A-25-03-530 internally went very well today.
+This is the software needed for the IFM Delivery Stop
+Friday morning , we will have a call with Munich and at that time expect to release the software to all  
+dealers.
+Once the software is available, we will inform you right away.
+Please allow proper download and installation time once you receive confirmation that the software  
+is available Friday morning.
+Thanks,
+Technical Service
+No Attachments
+Recipients: BMW Passenger Cars, All Offering, All Region, All Areas, All Departments, All Personnel

@@ -1,0 +1,12 @@
+   
+SSM 53417   2024-2025 Escape, 2025 Bronco Sport - 1.5L EcoBoost -
+Illuminated MIL With DTCs P0300 And P0316
+Some 2024-2025 Escape and 2025 Bronco Sport vehicles equipped with a 1.5L EcoBoost engine may exhibit
+an illuminated malfunction indicator lamp (MIL) with only diagnostic trouble codes (DTCs) P0300 and P0316
+stored in the powertrain control module (PCM). This concern typically happens after initial engine start up
+following an overnight cold soak. This may be due to the software in the PCM and replacement or
+reprogramming of the PCM will not resolve this condition. This condition does not affect vehicle durability and
+no additional diagnosis or service is required for this condition at this time. Inform customers that they can
+continue to drive the vehicle and engineering is currently working on a solution for this condition that is
+expected in Q2 2025. Monitor Professional Technician System (PTS) for additional information and schedule
+service appointments for customers once the repair becomes available.

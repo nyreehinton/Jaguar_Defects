@@ -1,0 +1,40 @@
+Involved Region or
+CountryNorth America
+ConditionA customer ma y complain of a clicking or ratcheting
+type noise when turning at times.  
+Upon further inspection it will be found that the noise
+only occurs after the vehicle has been park ed for
+several hours in cold ambient temperatures. 
+Cause Drive axle
+Version 2
+Modiﬁed02/14/2025 Created on.  
+02/21/2025-Update to add Equinox, L YRIQ and OPTIQ
+Bulletin No.: PIT6337A
+Published date: 02/21/2025
+Preliminary Information
+PIT6337A Clicking or Ratcheting Type Noise When Turning
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ 2024 - 2025 All AllAll All
+Cadillac OPTIQ 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+Allow the vehicle to sit several hours or overnight in cold outside temperatures (32
+degrees or colder).  
+Drive the vehicle slowly making sharp turns in an attempt to duplicate the concern.   
+If the concern is duplicated inspect the drive axles and boots for any damage and repair as
+necessary . 
+If no damage is noted to drive axles do not attempt any repairs.  
+Advise the customer that the vehicle is safe to drive and that Engineering is currently
+investigating . 
+The PI will be updated or replaced with TSB once a determination has been made.
+Additional SI K eywords
+axle, click, clicking, cold, CV, joint, noise, ratchet, ratcheting, tur n
+Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

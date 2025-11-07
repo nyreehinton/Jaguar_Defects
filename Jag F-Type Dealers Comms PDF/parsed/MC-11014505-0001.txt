@@ -1,0 +1,251 @@
+2025-02-20
+This Service Information Bulletin (Revision 4) replaces SI B32 03 24 dated December 2024.
+ 
+What’ s New :
+Parts Information
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+i20 iX Sports Activity V ehicle  (Battery
+Electric V ehicle (BEV))October 14, 2021 – November 21, 2022
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary , or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible. As of August 3, 2024, you can see
+a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+SITUA TION
+BMW AG has issued a Delivery Stop (ef fective August 2, 2024) on certain Model Year 2022 - 2023 BMW
+vehicles that were produced between October 14, 2021, and November 21, 2022.  
+ 
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+A check control (CC) message (‘Steering behavior . Drive moderately . Have it checked by the nearest service
+partner .’) will light up and there will be a noticeable reduction in power steering assistance when parking.
+ 
+CAUSE
+A faulty capacitor may be installed in the Electric Power Steering (EPS) gear .
+ 
+CORRECTION
+Replace the EPS.
+ 
+PROCEDURE
+Replace the EPS as per REP 32 13 572  Replace electrical steering box (EPS).
+ 
+Important W arning for W orking on the High-V oltage (HV) systems on BMW Group vehicles:
+ 
+Only properly trained personnel, who passed all applicable HV T echnical T raining Courses, should
+perform repairs which require disconnecting, or removal of High V oltage battery components on any
+Hybrid or Electric V ehicle. W ork performed on High V oltage systems by unqualified persons may
+result in severe injury or damage to the vehicle. Additional safety information is found in Repair
+Instruction 61 00… “Observe safety instructions when handling electric vehicles”.
+ 
+Prior to disconnecting, or the removal of any HV component, the HV system needs to be disabled
+and secured (by means of the HV Service Disconnect Switch and lock out) by a properly trained HV
+technician, who has a minimum HV Qualification level after completing the T echnical T raining
+Course “ST2324 High V oltage Drivetrain Systems” which as of 1/2023* includes ST1824 Alternative
+Drive Part 1. 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 1/6
+* Note: As of January 2023, the HV component portion of the “ST2205 Generation 5 High-voltage
+class” ( except for the High V oltage Battery) has been merged into “ST2324 High V oltage Drivetrain
+Systems”.
+Up to Generation 4 V ehicles once vehicle’ s HV system is disabled (the “Blitz” - lightning bolt icon is
+displayed in instrument cluster , see below), a technician without HV Certification may remove a HV
+component (e.g., EH Heater , EKK Compressor , EME Control Unit, et.), except for the High V oltage
+Battery .
+ 
+For Generation 5 V ehicles however , the specific vehicle training is required to diagnose, remove and
+service any HV component and it is NOT allowed for non HV certified technicians to work on the
+high voltage system.  
+ 
+ 
+High V oltage Battery removal and rework can ONLY be performed by a High-voltage Certified
+Technician with a HV Battery Certification level corresponding to a specific Electric or Hybrid
+vehicle, for example:
+ 
+To repair GEN4 HV battery of G05 PHEV a certification from T echnical T raining Course “ST2006 –
+SP44 HV Battery” or equivalent ST1825 – Alternative Drive Part 2 is required (or as of 1/2023 the
+equivalent “ST 2325 for High V oltage Battery Systems”).
+And
+To repair A GEN5 HV battery the T echnical T raining Course “ST2205 Generation 5 High-voltage
+class” is required or as of 1/2023* the equivalent “ST 2325 for High V oltage Battery Systems”.
+ 
+*Note: As of January 2023, the “ST2205 Generation 5 High-voltage stand-alone class” has been
+merged into “ST2324 for High V oltage Drivetrain Systems” and “ST2325 for High V oltage Battery
+Systems.”
+ 
+PARTS INFORMA TION
+Only use and invoice the applicable part numbers listed below .
+ 
+YOCV Campaign Code is 3104652510
+Refer to the weekly Parts Matrix and the FlowCode for the most up-to-date ordering information.
+ 
+Part Number Description Quantity
+32 10 5 B35 7F4 Steering gear , electric      1
+OR   
+32 10 5 B4D 1A3 Steering gear , electric    1
+07 11 9 905 400 Hex bolt with washer (M6x25-ZNNIV SI) 1
+07 14 6 898 283 Hex bolt (12x1.5x70 ZNS3) 4
+32 30 6 778 609 Torx bolt (M8x33) 1
+31 30 6 865 951 Torx screw with collar (M12x1.75x50) 4
+32 13 6 751 292 Hose clamp (D= 67.8 – 71.0 ) 1
+33 30 6 787 062 Combination nut (M14x1.5-10ZNNIV)[forced round - 5] 2
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 2/6
+37 10 6 789 678 Hex nut with flange (M12x1.5-10-ZNS3)[forced round
+10]2
+31 11 6 899 302 Multi-purpose bolt (10x45 ZNS3) 14
+61 27 9 487 465 Screw (12x1.5x100 10.9) 4
+83 23 8 849 305 Lubricating grease FB-1 (100 g) Sublet as
+needed
+ 
+CLAIM INFORMA TION
+Vehicle Programming and Encoding (After Repair)
+ 
+During this workshop visit, the af fected vehicle may also show one or more programming and encoding Technical
+Campaign repairs open, the programming and encoding procedure may only be invoiced one time.
+ 
+After replacing the Electric Power Steering (EPS) gear , select this open T echnical Campaign to also perform
+and submit for the required “after repair” programming and encoding procedure (Includes labor operation
+codes 00 00 006/556, 61 21 528 and 61 00 730). 
+ 
+Please be sure to also perform any additional before and/or after repair work (including attaching labels) as
+required by the other open campaigns on the vehicle. Close any remaining open programming and
+encoding Campaign repairs as outlined in the corresponding Service Information Bulletin.
+ 
+As determined by the above, reimbursement for this Action will be via normal claim entry utilizing the work package
+information below , and the part numbers that apply above.
+ 
+Repair Code: 0032630300 ---
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer or the vehicle is already in the workshop.
+ 
+Work Package Labor Operation Description (Plusposition work) Labor Allowance
+# 1 00 76 954*Replace steering gear , program, and
+encode the vehicle control units,
+includes Carrying out vehicle test (00 00
+556/61 21 528)54 FRU
+Or: 
+  
+  
+ 
+# 2 00 76 955*Replace steering gear (Programming
+and encoding the vehicle control units
+was performed in conjunction with
+another campaign/repair  during the
+same workshop visit)46 FRU
+And: 
+If required 00 76 957Additional work adjusting the rear axle
+with replacing eccentric screws14 FRU
+ 
+Or:
+ 
+The vehicle arrives at your center and this Action shows open (No other Main work will be performed
+or claimed during this workshop visit)
+ 
+Work Package Labor Operation Description (Main work) Labor Allowance
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 3/6
+# 3 00 76 310*Replace steering gear , program, and
+encode the vehicle control units,
+includes Carrying out vehicle test (00 00
+006/61 21 528)56 FRU
+Or: 
+  
+  
+ 
+# 4 00 76 31 1*Replace steering gear (Programming
+and encoding the vehicle control units
+was performed in conjunction with
+another campaign/repair  during the
+same workshop visit)47 FRU
+And: 
+If required 00 76 957Additional work adjusting the rear axle
+with replacing eccentric screws14 FRU
+ 
+(*) Additionally , as applicable, the following labor operation codes are also included  in labor operation codes
+00 76 954/310 and 00 76 955/31 1.
+ 
+Labor
+OperationDescription
+32 13 905Commissioning of electromechanical steering gear (EPS) / initialization
+(Associated work, after vehicle diagnosis)
+32 00 595Kinematics Diagnosis System wheel alignment with ride height measurement
+without loading the vehicle
+32 00 601 Adjusting toe-in on front axle
+32 00 650Additional work for integral active steering (HSR) (Associated work, when
+applicable).
+ 
+Only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and in the claim
+comments (For example: B32 03 24 WP  1), unless otherwise required by State law .
+ 
+Also, explain the additional work that was required to be performed when required.
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the repair-related bulk supply materials
+(Do not use the BMW part numbers for claim submission)Up to $20.00
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk supply material (BMW part
+number) is at the dealer net (DN) price for the proportional quantity used plus your center ’s handling.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+Vehicle Programming and Encoding – Additional W ork (RO and Claim Comments Required)
+ 
+This procedure automatically reprograms and encodes any vehicle control modules that do not have the latest software I-
+level. 
+ 
+If one or more control modules fail during the reprogramming procedure, claim the required consequential
+repair work procedures to address this issue (including performing the IRAP  Control Unit Recovery first as
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 4/6
+required, refer to the SIB in AIR) under the Repair Code in this bulletin together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis** that applies.
+ 
+Please explain the additional work procedures that were performed (The why and the what) on the repair order and in the
+claim comments.
+ 
+For covered repairs that address control module failures that occurred prior to performing this
+reprogramming procedure, claim this work with the appliable Repair Code listed in AIR together with the
+corresponding labor operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis**
+that applies.
+ 
+(**) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law .
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Action repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement, claim this item
+under the Defect Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16  for additional information.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 5/6
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 32 03 24_DELIVERY STOP: REPLACE STEERING GEAR – I20
+about:blank 6/6

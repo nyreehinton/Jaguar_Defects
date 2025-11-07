@@ -1,0 +1,49 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)UKL- Super Cruise
+ConditionCustomers ma y notice a Super Cruise Unavailable or an Adaptive
+Cruise Unavailable  message on the DIC.  
+This could happen immediately upon startup or within 30
+minutes of the drive cycle .  
+This issue ma y recover after an ignition cycle or it ma y not.   
+Technician ma y ﬁnd the following DTC's setting in the K124
+Image Processing Module (IPCM), see list below .
+Cause Software
+Bulletin No.: PIT6167G
+Published date: 02/14/2025
+Preliminary Information
+PIT6167G Super Cruise Unavailable Message
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+Chevr oletTraverse (all new) 2024 - 2025 All AllLK0 All
+GMC Acadia 2024 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:
+Dealers are asked to verify the customers concern.
+If any of the DTCs listed below are set  in history , do not replace the controller .
+Refer to  SuperCruise Malfunction for further diagnostic information to further root cause
+customer ’s issue.
+DOC ID 6763330 
+U053C sym 00
+U023B sym00
+U1624 sym 00
+If none of the codes listed above are set in the K124 IPCM follow normal SI diagnostics. 
+If any of the codes listed are set current after several ignition cycles, follow SI diagnostics.
+The PI will be updated or replaced with TSB once a determination has been made
+Version History
+Version 8
+Modiﬁed05/07/2024 - Created on.  
+06/20/2024- Updated correction.  
+09/23/2024- Updated to remove "service driver assist"  
+10/09/2024 - Updated Models.  
+10/23/2024- Updated to add U053C  
+11/08/2024-Updated to add 2025 Model Y ear to Models.  
+01/14/2025- Updated Correction.  
+02/14/2025- Updated Correction.  
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

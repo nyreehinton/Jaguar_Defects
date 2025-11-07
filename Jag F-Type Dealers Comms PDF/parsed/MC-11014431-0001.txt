@@ -1,0 +1,275 @@
+   
+TECHNICAL SERVICE BULLETIN
+Moan Noise In The Rear Brakes When Vehicle Is Driven In Reverse In Cold
+Weather And/Or High Humidity25-2051
+17 February
+2025
+This bulletin supersedes 25-2031. Reason for update: update the parts list.
+Model:
+Ford
+2021-2025 Bronco SportBuilt on or before 21-Dec-2024
+2020-2025 Escape
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit a moan noise when the vehicle is driven
+in R in cold weather and/or high humidity. This may be due to the suspension sensitivity of the vehicle.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+install brake pads with clips and if necessary, install the rear reinforced caliper bushings.
+Parts
+Service Part
+NumberClaim
+QuantityPackage
+Order
+QuantityNumber in
+PackageDescription Note
+SZ6Z-2200-A 1 1 1 Brake Pad Kit With Clips
+W720472-
+S4391 1 4 Brake Caliper Anchor Plate
+Bolts
+XG-3-A 1 1 1 Motorcraft® Silicone Brake
+Caliper Grease And
+Dielectric Compound
+PM-4-A 1 1 1 Motorcraft Metal Brake
+Parts CleanerLow VOC Compliant
+Formula
+CPM-4-A 1 1 1 Motorcraft® Brake Parts
+CleanerLow VOC Compliant
+Formula (Canada Only)
+PM-4-B 1 1 1
+Motorcraft® Metal Brake
+Parts CleanerHigh VOC Compliant
+Formula (All Markets Not
+Requiring A Low VOC
+Product)
+Parts - Parts To Inspect And Replace Only If Necessary
+Service Part
+NumberClaim QuantityPackage Order
+QuantityNumber in
+PackageDescription Note
+DG9Z-2C150-
+BOnly If
+Necessary (Up
+To 2)Only If
+Necessary (Up
+To 2)1Rear Reinforced
+Bushing Kit(2021-2025 Bronco
+Sport/2020-2025 Escape)
+DG9Z-2B486-
+BOnly If
+Necessary (Up
+To 2)Only If
+Necessary (Up
+To 2)1Brake Caliper
+Spring
+LX6Z-2C026-
+DOnly If
+Necessary (Up
+To 2)Only If
+Necessary (Up
+To 2)1
+Rear Brake Disc
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+Only If Necessary indicates the part is not mandatory. Refer to the Service Procedure to determine the
+inspection/inclusion criteria.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2020-2025 Escape, 2021-2025 Bronco Sport: Replace The Brake Pads On Both (2) Rear
+Brake Calipers Following The Service Procedure Includes Time To Clean Bushing Housing And
+Add Grease (Can Be Claimed With Operation C, D, E, Or F) (Do Not Use With Any Other
+Labor Operations Outside Of This Article)252051A 0.9
+Hrs.
+2020-2025 Escape, 2021-2025 Bronco Sport: Replace The Caliper Bushings, Guide Pins And
+Brake Pads On Both (2) Rear Brake Calipers Following The Service Procedure Includes Time
+To Clean Bushing Housing And Add Grease (Can Be Claimed With Operation C, D, E, Or F)
+(Do Not Use With Any Other Labor Operations Outside Of This Article)252051B 1.4
+Hrs.
+2020-2025 Escape: Additional Time To Machine Both Rear Disc Brake Rotors On Vehicle (Can
+Be Claimed With Operation A Or B)252051C 0.6
+Hrs.
+2020-2025 Escape: Additional Time To Replace Both Rear Disc Brake Rotors (Can Be Claimed
+With Operation A Or B)252051D 0.2
+Hrs.
+2021-2025 Bronco Sport: Additional Time To Machine Both Rear Disc Brake Rotors On Vehicle
+(Can Be Claimed With Operation A Or B)252051E 0.7
+Hrs.
+2021-2025 Bronco Sport: Additional Time To Replace Both Rear Disc Brake Rotors 0.4 (Can
+Be Claimed With Operation A Or B)252051F 0.4
+Hrs.
+Repair/Claim Coding
+Causal Part: 2C150
+Condition Code:42
+Service Procedure
+Bronco Sport Moan Noise
+Escape Moan Noise
+NOTE: 2021-2022 Bronco Sport vehicles built on or before 23-Sep-2022 and 2020-2022 Escape vehicles built
+on 1-Nov-2020 and through 29-Aug-2022 are not equipped with rear reinforced bushings. Perform the
+replacement of the rear caliper bushings only for the vehicles that are not equipped with reinforced
+bushings. Review the warranty history of the VIN and confirm if the rear reinforced bushings were replaced
+by a previous service bulletin. To review the warranty history, enter the PTS. Enter the VIN. Click for the full
+warranty repair history.
+1. Proceed to the appropriate procedure based on how the vehicle is equipped.
+(1). If the vehicle is not equipped with rear reinforced bushings, complete Procedure A.
+(2). If the vehicle is equipped with rear reinforced bushings or if the vehicle recently has installed the rear
+reinforced bushings by a previous service bulletin, complete Procedure B.
+Procedure A: Installation Of Rear Reinforced Bushings And Brake Pads With Clips
+NOTE: Perform the following procedure on both rear calipers.
+1. Activate the brake service mode. Refer to the WSM, Section 206-00 Brake System > General Information >
+General Procedures.
+2. Remove the wheel and tire. Refer to the WSM, Section 204-04A Wheels and Tires > Removal and Installation.
+3. Remove the brake caliper spring. (Figure 1)
+Figure 1
+4. Disconnect the parking brake electrical connector. (Figure 2)
+Figure 2
+5. Remove and discard the brake caliper guide pin cap and guide pin on the opposite side of the bleeder. (Figures 3-
+5)
+Figure 3
+Figure 4
+Figure 5
+6. Loosen the upper guide pin and rotate the rear caliper upwards to access to the bushing housing. (Figure 6,
+Callout 1)
+Figure 6
+7. Using 6 inch slip joint pliers, remove and discard the standard bushing located on the opposite side of the bleeder.
+(Figure 7)
+Figure 7
+8. Install a new reinforced caliper bushing.
+NOTE: The kit includes: (1) standard bushing (Figure 8, Callout 1), (1) reinforced bushing (Figure 8, Callout
+2), (2) guide pins (Figure 8, Callout 3), (2) guide pin caps (Figure 8, Callout 4)
+Figure 8
+Item Description
+1Standard Bushing
+2Reinforced Bushing
+3Guide Pins
+4Guide Pin Caps
+(1). Use a ½ inch drum sander bit to clean the caliper bushing housing. (Figure 9)
+Figure 9
+(2). Use Motorcraft® Metal Brake Parts Cleaner to remove any brake dust from the bushing housing.
+(3). Lubricate the bushing and bushing housing with Motorcraft® Silicone brake caliper grease. (Figures 10-11)
+Figure 10
+Figure 11
+(4). Use an appropriate diameter socket, such as a 13 mm 3/8 drive chrome deep socket, to push the bushing into
+the caliper bushing housing. (Figures 12-14)
+Figure 12
+Figure 13
+Figure 14
+NOTE: Use a plastic trim tool to help guide the bushing into the housing.
+9. Position the rear caliper in place and reinstall the guide pin (Figure 15)
+Figure 15
+(1). Tighten the lower pin enough to rotate the caliper
+10. Remove and discard the upper brake caliper guide pin cap and guide pin beside the bleeder. (Figure 16)
+Figure 16
+11. Rotate the caliper downwards to access to the bushing housing.
+12. Using 6 inch slip joint pliers, remove and discard the standard bushing located beside the bleeder.
+13. Install a new standard bushing.
+(1). Use a ½ inch drum sander bit to clean the caliper bushing housing.
+(2). Use Motorcraft® Metal Brake Parts Cleaner to remove any brake dust from the bushing housing.
+(3). Lubricate the bushing and bushing housing with Motorcraft® Silicone brake caliper grease.
+(4). Use an appropriate diameter socket, such as a 13 mm 3/8 drive chrome deep socket, to push the bushing into
+the caliper bushing housing.
+NOTE: Use a plastic trim tool to help guide the bushing into the housing.
+14. Remove the lower guide pin and position the brake caliper aside.
+15. Remove and discard the rear brake caliper anchor plate bolts and position the rear anchor plate aside.
+16. Measure the thickness of the rear brake discs. Refer to the WSM, Section 206-00 Brake System > General
+Information > Specifications. Are one or both rear brake discs below the minimum specification?
+(1). Yes - remove and discard both rear brake discs. Refer to the WSM, Section 206-04 Rear Disc Brake >
+Removal and Installation. Proceed to Step 17.
+(2). No - machine both rear brake discs. Refer to the WSM, Section 206-00 Brake System > General Information.
+Proceed to Step 19.
+17. Clean the mating surfaces of the rear brake disc and wheel hub.
+18. Install new rear brake discs.
+19. Reinstall the rear brake caliper anchor plate.
+(1). Install new brake caliper anchor plate bolts and tighten to 63 Nm (46 lb-ft).
+20. Remove and discard the brake pads. Refer to the WSM, Section 206-04 Rear Disc Brake > Removal and
+Installation
+21. Compress the brake caliper piston until the piston bottoms out in the brake caliper bore. (Figure 17)
+Figure 17
+22. Use Motorcraft® Metal Brake Parts Cleaner, wire brush and an abrasive pad (super fine grade) to clean the brake
+pad to anchor plate contact points. (Figure 18)
+Figure 18
+23. Use Motorcraft® Metal Brake Parts Cleaner and an abrasive pad (super fine grade) to clean the brake caliper.
+(Figure 19-20)
+Figure 19
+Figure 20
+24. Use compressed air to completely dry the contact areas.
+25. Apply Motorcraft® Silicone brake caliper grease to the anchor plate contact points. (Figure 21)
+Figure 21
+26. Install new brake pads in the caliper.
+27. Position the brake pad clips. (Figure 22)
+Figure 22
+28. Position the rear caliper in place and install new guide pins.
+(1). Lubricate the guide pins with Motorcraft® Silicone brake caliper grease.
+(2). Tighten both guide pins to 28 Nm (21 lb-ft).
+29. Install the new guide pin caps.
+30. Reinstall the caliper spring.
+NOTE: Inspect the brake caliper spring for any damage. If the brake caliper spring is bent or damaged, install
+a new brake caliper spring.
+31. To assemble the vehicle, reverse the removal procedure.
+32. Deactivate the brake service mode. Refer to the WSM, Section 206-00 Brake System > General Information >
+General Procedures.
+33. Apply the brake pedal several times to verify correct brake system operation.
+Procedure B: Installation Of Brake Pads And Clips - Vehicles Equipped With
+Reinforced Bushings
+NOTE: Perform the following procedure on both rear calipers.
+1. Activate the brake service mode. Refer to the WSM, Section 206-00 Brake System > General Information >
+General Procedures.
+2. Remove the wheel and tire. Refer to the WSM, Section 204-04A Wheels and Tires > Removal and Installation.
+3. Remove the brake caliper spring.
+4. Disconnect the parking brake electrical connector.
+5. Remove both guide pin caps. (Figure 23)
+Figure 23
+6. Remove both guide pins and position the brake caliper aside. (Figure 24)
+Figure 24
+7. Remove and discard the rear caliper anchor plate bolts and position the rear anchor plate aside.
+8. Measure the thickness of the rear brake discs. Refer to the WSM, Section 206-00 Brake System > General
+Information > Specifications. Are one or both rear brake discs below the minimum specification?
+(1). Yes - remove and discard both rear brake discs. Refer to the WSM, Section 206-04 Rear Disc Brake >
+Removal and Installation. Proceed to Step 9.
+(2). No - machine both rear brake discs. Refer to the WSM, Section 206-00 Brake System > General Information.
+Proceed to Step 11.
+9. Clean the mating surfaces of the rear brake disc and wheel hub.
+10. Install new rear brake discs.
+11. Reinstall the rear brake caliper anchor plate.
+(1). Install the new brake caliper anchor plate bolts and tighten to 63 Nm (46lb-ft)
+12. Remove and discard the brake pads. (Figure 25)
+Figure 25
+13. Compress the brake caliper piston until the piston bottoms out in the brake caliper bore. (Figure 26)
+Figure 26
+14. Use Motorcraft® Metal Brake Parts Cleaner, wire brush and an abrasive pad (super fine grade) to clean the brake
+pad to anchor plate contact points. (Figures 27)
+Figure 27
+15. Use Motorcraft® Metal Brake Parts Cleaner and an abrasive pad (super fine grade) to clean the brake caliper.
+(Figure 28-29)
+Figure 28
+Figure 29
+16. Use compressed air to completely dry the contact areas.
+17. Apply Motorcraft® Silicone brake caliper grease to the anchor plate contact points (Figure 30)
+Figure 30
+18. Install new brake pads in the caliper.
+19. Position the brake pad clips. (Figure 31)
+Figure 31
+20. Position the rear caliper in place and reinstall guide pins.
+(1). Use Motorcraft® Metal Brake Parts Cleaner and clean the guide pins.
+(2). Lubricate the guide pins with Motorcraft® Silicone brake caliper grease.
+(3). Tighten both guide pins to 28 Nm (21 lb-ft).
+21. Reinstall the guide pin caps.
+22. Reinstall the brake caliper spring.
+NOTE: Inspect the brake caliper spring for any damage. If the brake caliper spring is bent or damaged, install
+a new brake caliper spring.
+23. To assemble the vehicle, reverse the removal procedure.
+24. Deactivate the brake service mode. Refer to the WSM, Section 206-00 Brake System > General Information >
+General Procedures.
+25. Apply the brake pedal several times to verify correct brake system operation.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

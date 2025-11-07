@@ -1,0 +1,39 @@
+AfterSalesFeb 28, 2025
+Page 1 of 2Macan (95B.III)- Lean Mixture Faults at Altitude
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Macan As of 2022 95BBV1 
+95BBW1N /A V6 Powertrain
+Revision History
+Revision Release Date Changes
+0 February 28, 2025 Original document
+Condition
+Customer complains of a check engine light. Faults P017100 and/or P017400 (Lean mixture Bank 1/2) may be 
+stored in the fault memory of the DME.
+Technical Background 
+Dirt, debris, or silicone-based cleaning products can clog the ambient pressure sensor in the DME and lead to an  
+incorrect air-fuel mixture. This tends to occur above 1,000m (3,300ft) of elevation but is possible at any altitude.
+Service Information 
+Please replace the DME with the newest available part number.
+Advanced Technical Information 2Bulletin #: 2505
+Part ID: 2470
+AfterSalesFeb 28, 2025
+Page 2 of 2Warranty 
+ For documentation and warranty invoicing, enter the working position and PCSS encryption specified below in the   
+ warranty claim: 
+ Labor position:
+ PCSS encryption:
+Search Items 
+ Macan, 95B.III, DME, Lean Mixture Fault, P017100 , P017400 , 3.0L V6
+Advanced Technical Information 2Bulletin #: 2505
+Part ID: 2470
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+6_16717
+©2025 Porsche Cars North America, Inc.Location (FES5) 24700 DME control unit
+Damage type (SA4) 1134 Programming errorAPOS Labor operation I No.
+24705500 DME control unit replace

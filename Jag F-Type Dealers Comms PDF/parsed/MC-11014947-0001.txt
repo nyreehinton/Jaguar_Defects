@@ -1,0 +1,83 @@
+Technical Service BulletinTechnical Service Bulletin Transaction No.:  2040590/142040590/14
+00-19-01 - PDI - Paint Defect - Water Migration Under the RAPGARD® Release date:  Feb 5, 2025
+ConditionCondition
+Applicable VehiclesApplicable Vehicles
+Model(s)Model(s) YearYear Eng. CodeEng. Code Trans. CodeTrans. Code VIN Range FromVIN Range From VIN Range ToVIN Range To
+All Models 2020-2025 All All All All
+Revision TableRevision Table
+Instance NumberInstance Number Published DatePublished Date Version NumberVersion Number Reason For UpdateReason For Update
+2040590/14 2/5/2025 00-19-01 To update model year applicability.
+2040590/13 12/14/2023 00-19-01 To update model year applicability.
+2040590/11 1/30/2023 00-19-01 To update model year applicability.
+2040590/1 6/5/2015 V001503 Original publication.
+Water migration under the Water migration under the RAPGARDRAPGARD® ® can be mistaken as a paint defect when in fact it is only moisture trapped in the clearcan be mistaken as a paint defect when in fact it is only moisture trapped in the clear
+coat of the paint. See examples 1-12 to see how water migration may appear.coat of the paint. See examples 1-12 to see how water migration may appear.
+Technical BackgroundTechnical Background
+When RAPGARD® is applied at the factory, humidity in the air can get trapped between the plastic and the paint.  Over time this moisture can be
+absorbed into the clear coat creating marks.
+Production SolutionProduction Solution
+Not Applicable.
+ServiceService
+Topics CoveredTopics Covered•RAPGARD®, removal and disposal
+•Inspecting for water migration in areas where RAPGARD® was removed.
+•Examples of water migration after the RAPGARD® is removed
+RAPGARDRAPGARD®®
+Vehicles are shipped with RAPGARD®. This self-adhering plastic product is applied in certain areas of the vehicle and is designed to provide
+protection from all types of possible damages.
+RAPGARDRAPGARD®®, Removal, Removal
+  NOTICENOTICE
+RAPGARDRAPGARD® ® must be removed from the vehicle no later than 9 months after application. See sticker (location on vehiclemust be removed from the vehicle no later than 9 months after application. See sticker (location on vehicle
+body varies) for detailed informationbody varies) for detailed information
+Vehicle must be at room temperature.
+The ideal body surface temperature for RAPGARD® removal is 60°F (15.5°C) to 80°F (26.6° C).
+If body surface temperatures are below 60°F (15.5°C) or above 80°F (26.6° C) then:
+•Removal procedure should be performed indoors after surface temperatures have been allowed to stabilize within the given range.
+•Rinse vehicle thoroughly with water to remove surface dirt or dust and to help stabilize body surface temperatures.
+•Starting at the corners of each panel, carefully remove RAPGARD® from vehicle.
+RAPGARDRAPGARD®® Disposal Disposal
+RAPGARD® can be disposed as normal paper waste. If unsure about proper disposal procedures in your area, check local regulations.
+RAPGARDRAPGARD®®, Paint Inspection after Removal, Paint Inspection after Removal
+Inspect painted surfaces under one of the following lighting conditions:
+•Indoors under fluorescent lighting.
+•Outdoors under bright sunlight.
+Inspecting for Water MigrationInspecting for Water Migration
+After removal of RAPGARD®, some vehicles may exhibit temporary paint discoloration or paint swelling (caused by trapped moisture under the
+RAPGARD®).
+•This temporary swelling is caused by the paint finish absorbing moisture trapped under the RAPGARD® film.
+•This swelling will disappear with exposure to the sun or heat lamps within 2 -3 hours. Severe paint swelling may require 2 -3 days to
+recover.
+  CAUTIONCAUTION
+DO NOT buff or refinish paint for this condition!DO NOT buff or refinish paint for this condition!
+Paint discoloration (looks like shaded or dark magic marker lines) can be removed with a heat gun using the following procedure:
+•Hold heat gun approximately 3 in. away from affected paint surfaces and apply heat using slow oscillating motions until discoloration is
+gone.
+•If discoloration remains, wipe the heated area with Isopropyl alcohol and repeat procedure to increase surface drying.
+Various Examples of Water Migration under the RAPGARDVarious Examples of Water Migration under the RAPGARD®®
+Example 1
+ Example 2
+Example 3
+ Example 4
+Example 5
+ Example 6
+Example 7
+ Example 8
+Example 9
+ Example 10
+Example 11
+ Example 12
+WarrantyWarranty
+Information only.
+Required Parts and ToolsRequired Parts and Tools
+No parts required.
+No special tools required.
+Additional InformationAdditional Information
+All part and service references provided in this Technical Bulletin are subject to change and/or removal. Always check with your Parts Dept. and
+Repair Manuals for the latest information.
+© 2025 Volkswagen Group of America, Inc.
+© 2025 Volkswagen Group of America, Inc.
+ All rights reserved. Information contained in this document is based on the latest information
+available at the time of printing and is subject to the copyright and other intellectual property rights of Volkswagen Group of America, Inc., its
+affiliated companies and its licensors. All rights are reserved to make changes at any time without notice. No part of this document may be
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, nor may these materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.
+?:These documents are exclusively for internal use.

@@ -1,0 +1,162 @@
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren Retailer Portal to verify  that this is the 
+current version.  
+Document Information  
+Location:  Hybrid / Electrical  
+Topic: McLaren  Artura eMotor Overtemperature Diagnosis Guide  
+Condition:  N/A 
+Diagnostic Trouble Codes:  P0A2A29 P160068 P0A2A1C P0A2B98  
+Code  Details  Comments  
+P0A2A29  Drive Motor "A" Temperature Sensor "A" Circuit - Signal Invalid   
+P160068  Drive Motor "A" Temperature Sensor "A" Causing Inverter Cutback Event 
+Information   
+P0A2A1C  Drive Motor "A" Temperature Sensor "A" Circuit - Circuit Voltage Out of 
+Range  Triggered by a short circuit or wire break for the eMotor temperature 
+sensor  
+P0A2B98  Drive Motor "A" Temperature Sensor "A" Circuit Range/Performance 
+Component or System Over Temperature  If this DTC is stored without P0A2A1C, it is likely there will be a cooling 
+system concern (dielectric or LTR)  
+Measure  
+If you are presented with an Artura with a hybrid warning displayed in the instrument cluster and the associated DTCs listed under Diagnostic Trouble Codes, 
+please proceed as follows:  
+Care Point: A TR must be raised with detailed description of the concern and highlight your intention of working through this KA BEFORE proceeding.  
+1. Switch the vehicle on to ignition state 5 and touch the dielectric pump.  
+Is the working noise and vibration consistent?  
+Is the flow when seen from looking in from the top of the dielectric reservoir consistent and continuous? Please 
+remove cap and capture a video from the top for better viewing due to difficult access.  
+If the answer to both above questions is yes, please proceed to step 2.  
+2. Perform a MDS 2 actual value log following the instructions in KA -01661 to set up the log.  
+Ensure the log is printed in landscape and the colour key for the log is included. Please 
+log the following 8 signals:  
+ 
+Colour matrix key for logs  
+Steps to follow while capturing the log:  
+Ensure HV SOC is above 40%  
+Run vehicle for 10 minutes at idle in track mode  
+Drive vehicle for 10 minutes in eDrive and hybrid drive (5 min each)  
+Ensure HV SOC is above 40% - if below 40%, drive in sport mode until 40% HV SOC reached 
+2x Acceleration in eMode 0 to 55 mph (full wide -open throttle) Stop and save the log  
+At the end of the drive cycle, read DTC’s and AV’s for MCU & IPU  
+If during the drive any fault appears we need to know after which step and if a lack of power has been felt. It needs to be u nderstood as well if 
+it happens during straight line acceleration, cornering or over a rough/ bumpy road  
+Review of the motor stator measured temperature log Scenario 1  
+If the motor stator measured temperature (purple trace) jumps from circa 30 - 120°C to 180°C instantaneously, this indicates a break in the line (open circuit) 
+somewhere between the MCU and the temperature sensor in the eMotor.  
+
+ 
+@45000ms temperature instantaneously rises, drops then rises again  
+ 
+Diagram shows temperature at 180°c dropping to 40°c (Purple Trace)  
+If the temperature on the purple trace drops down to - 40°c instantaneously this indicates a short circuit.  
+If any of the above symptoms are presented in the log, please submit your findings on the TR before advancing to step 3.  
+Scenario 2  
+If the temperature rises gradually to values exceeding 120°c and does not drop in line with the thermostats opening, this ind icates a coolant issue. Either 
+dielectric fluid/ pump or the LTR system.  
+Proceed to thoroughly check LTR system for flow, blockages, and air locks (displacement) in the system.  
+Also check the dielectric oil level and flow.  
+If the symptoms in scenario 2 are present in the logs, attach your findings and results from the LTR and dielectric system ch ecks to the TR and await further 
+instructions.  
+Care Point: Please submit your findings up to this point on the TR and await further instruction to continue.  
+Step 3.  
+Connector Checks  
+Care Point: The vehicles Hazardous Voltage (HV) system MUST be de -activated BEFORE continuing. Please follow McLaren Service Portal instructions 
+Remove/Install Manual Service Disconnect (MSD).  
+Care Point: During the following resistance checks, please wiggle wiring where possible at each tested connector to try and identify poor  connections. Also 
+check each connector for signs of water/corrosion and damaged/backed out pins.  
+For convenience it is recommended to start checking the round transmission connector first.  
+
+ 
+transmission connector: transmissionexternal -to-transmissionhtm Disconnect 
+the round connector (1) in the image above.  
+The male connector is as follows:  
+ 
+transmissionexternal -to-transmissionhtm (Round connector – male) Check 
+connectors for:  
+Connectors not fully engaged  
+Corrosion  
+Pins backed out from connectors  
+
+ 
+The Stator winding thermistor pins are 12 and 13 (blue section) as per the above schematic .  
+Locate pins 12 and 13 in the round connector as shown in the image above. Set 
+a multimeter in resistance mode as shown in the image below:  
+ 
+Connect the multimeter positive probe to pin 12.  
+Connect the multimeter negative probe to pin 13.  
+According to the specification, the resistance at ambient temperature should be between 1077.9 Ω and 1155.4 Ω as shown in the example below:  
+
+ 
+Stator winding thermistor resistance at ambient temperature pins 12 & 13  
+If the resistance value is not between the range specified above, please take a picture of the value and the measuring points on the connector, and attach your 
+findings to the TR.  
+  
+If the resistance value is within the expected range proceed to the next check.  
+Additional Check  
+The inside part of the round connector (inside the transmission and looking through the NVH cover) looks as follows:  
+ 
+Round connector inside transmission  
+Please take a close look at this part of the connector and take a picture. In addition, spot if there is any presence of water traces or backed out pins.  
+Care Point:  New transmissions will have the back of this connector covered in resin but the wires should still be visible.  
+Transmission in -line connector check (ICTE2)  
+This connector is located in the left part of the rear subframe as shown in the picture below:  
+
+ 
+Transmission in -line connector  
+This connector can be accessed by removing the rear left wheel arch liner or through the top service hatch.  
+Please take a photograph of the male connector and comment in the TR if a white seal is fitted as shown in the picture below.                                                            
+ 
+Check both (male & female) connectors for any signs of corrosion, water ingress or backed out pins as shown in the images bel ow: 
+    
+              
+    
+
+ 
+If the round connector is still disconnected, please re -connect it.  
+Now set the multimeter in resistance mode.  
+The aim now is checking the Stator Winding thermistor in the male connector between pins 24 & 33.  
+ 
+In-line transmission connector (ICTE2), Thermistor check between pins 24 & 33  
+As shown in the image below, the measured resistance should be Similar to the one previously read and should be within the ra nge of 1077.9 Ω and 1155.4 Ω at 
+ambient temperature.  
+ 
+Stator winding temperature thermistor checks at the transmission in -line connector pins 24 & 33  
+
+If the resistance value is outside of the specified range, please note the resistance value and take a picture similar to the  above example and attach it to the TR.  
+Wiggle the back of the connector and wires, to see if the resistance fluctuates.  
+If the resistance value is within the expected range, please proceed to the next step.  
+MCU Connector check.  
+To perform this check, it is required to have access to the low voltage (LV) connector on the MCU.  
+For this reason, it will be necessary to remove the HV battery and the fuel tank. Once 
+there is access to the MCU the steps are as follows:  
+Disconnect the LV connector in the MCU  
+ 
+MCU connector location  
+If the in-line connector from the previous step is still disconnected, please re -connect again.  
+The thermistor resistance can be read in the PINs K3 & J3 of the MCU female connector as per the electrical schematic:  
+ 
+Winding thermistor pins K3 & J3 in the MCU female connector  
+As the pin holes are small, use a suitable piece of wire of a diameter no greater than 0.7mm to insert in the correct locatio n as in the example below:  
+Care Point:  Please take extreme care when inserting wire into pin holes to prevent damage to the pins.  
+
+ 
+Thermistor resistance check in the MCU connector  
+The resistance reading should be similar to the one previously read and should be within the range of 1077.9 Ω and 1155.4 Ω at ambient temperature.  
+Wiggle the back of the connector and wires, to see if the resistance fluctuates.  
+If the resistance seen is outside of the specified range, please take a picture of the reading and set up and attach to the T R. 
+Please ensure that there are no water traces in all the checked connectors, all connectors fit securely and there are no back ed out pins. Please 
+attach all pictures of the process to the TR.  
+Additional Check  
+If advised through the TR to remove the transmission, please re -check the resistance at pins 12 and 13 again of the round connector. Check for resistance 
+fluctuations while wiggling all transmission harness cables.  
+
+ 
+10/10  
+ 
+Parts  
+N/A 
+Repair Time  
+N/A 
+Attachments  
+Wiring diagram  
+  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren Retailer Portal to verify  that this is the 
+current version.  

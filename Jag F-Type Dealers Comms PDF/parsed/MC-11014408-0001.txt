@@ -1,0 +1,53 @@
+This document does not authorize warranty repairs.  This communication documents a record of past experiences.  STAR Online 
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.  You are the expert, and you are responsible for deciding on the  
+appropriate course of action. 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+Stellantis US LLC                                  Version 4.5 06/08/2022
+Case Number: S2509000001
+Release Date: February 2025 
+Symptom/Vehicle Issue :  Engine Rattle Noise 
+Customer Complaint/Technician Observation: Customer’s complaint may include a 
+rattling noise coming from the engine.   
+Discussion:  ** Make sure the engine reaches normal operating temperature (194°F-
+230°F). Once it reaches normal temperature, turn the engine off.  Proceed with the 
+steps below.** 
+1. Start engine, wait 30 seconds, noise will be present after this time. 
+2. Step on gas pedal and the noise will go away, release the gas pedal and noise 
+will be present again.  Repeat 3 times.  If this is true, the noise might be phaser 
+related. 
+3. With the use of a stethoscope, confirm the bank where the noise is coming from 
+(there is a high probability that it will come from the right bank).  
+4. Once it's confirmed that this is phaser related and the bank has been confirmed 
+(most likely right), replace the suspect phaser using the repair procedure 
+outlined below. 
+Repair Procedure:  ** ATTENTION:  THE REPAIR PROCEDURE BELOW IS A 
+MODIFICATION TO THE CURRENTLY ISSUED SERVICE PROCEDURE IN 
+SERVICE LIBRARY ** 
+This document does not authorize warranty repairs.  This communication documents a record of past experiences.  STAR Online 
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.  You are the expert, and you are responsible for deciding on the  
+appropriate course of action. 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+Stellantis US LLC                                  Version 4.5 06/08/2022
+1. DO NOT  use the camshaft phaser holding tool (Tool # 2025102090) while 
+torquing the OCVs.   
+DO NOT USE (#2 in pic below) 
+2. DOuse the cam holding tool (Tool #2025200090) while torquing the OCVs. 
+DO USE (#1 In pic below) 
+
+This document does not authorize warranty repairs.  This communication documents a record of past experiences.  STAR Online 
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.  You are the expert, and you are responsible for deciding on the  
+appropriate course of action. 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+Stellantis US LLC                                  Version 4.5 06/08/2022
+3. After placing the intake phaser on the camshaft, the front face of the phaser that 
+contacts the OCV must be lubricated with clean engine oil.  DO NOT  lubricate 
+the rear face of the phaser that contacts the camshaft. 
+The service information in Service Library is being updated to reflect the changes 
+mentioned above. 
+DO NOT ADD OIL HERE DO ADD OIL HERE

@@ -1,0 +1,304 @@
+ 
+ 
+   
+ 
+CAMPAIGN BULLETIN  
+ECM Reprogram -  Long Crank  
+ 
+Reference: P4A43  
+Date: February 19 , 2025  
+ 
+Attention: Retailer  Principal, Sales , Parts and Service Managers  
+P4A43  | REVISION 1  QUALITY ACTION  
+ 
+ 
+ 
+***** Retailer Announcement *****   
+ To ensure continued client satisfaction and confidence, INFINITI is conducting a retailer  inventory quality 
+action to reprogram the Engine Control Module (ECM)  on certain specific 202 5 INFINITI QX 80 vehicles 
+identified in Service Comm and National Service History . Owners of affected  vehicles may experience an 
+extended crank time when starting the engine.  Please follow the attached instructions to remedy any 
+vehicles affected by this  retailer  inventory quality action.  
+ 
+**** * What  Retailers Should Do *****   
+PLEASE FOLLOW THE ATTA CHED REPAIR INSTRUCTIONS:  
+1. Verify if vehicles are affected by this quality action  using Service Comm or DBS National 
+Service History – Open Campaign I.D. P4A43  
+• New vehicles in retailer inventory can also be identified by using D BS (Sales -> Vehicle 
+Inventory, and filter by Open Campaign).  
+ Refer to IPSB 15 -286 for additional information  
+• Some vehicles may still be in transit.  Please continue to check newly arriving inventory for 
+QA applicability.  
+  
+2. Use the attached procedure to remedy any vehicles affected by this quality action prior to sale.  
+ 
+3. Once remedied, retailers should submit the applicable warranty claim for the action performed 
+so it can be closed in Service Comm and release the vehicle for sale.  
+ 
+***** Retailer  Responsibility *****  
+It is the retai ler’s responsibility to check Service Comm or DBS National Service History – Open 
+Campaign using the appropriate campaign I.D for the inspection status on each affected vehicle currently in new vehicle inventory.
+ REVISION 1  
+Please discard earlier versions of this bulletin.  
+The announcement from February 19, 2025 has been revised to include the following:  
+• The part numbers in Table A  of the attached repair instructions have been updated  
+Affected  
+ Models/Years:  Affected 
+Population:  Retailer 
+Inventory:  SERVICE COMM 
+Activation date:  Stop Sale  
+In Effect  
+2025 QX80 (Z63)  NA 5,332  February 19, 2025  NO 
+1/10 P4A43  
+ 
+Service Procedure 
+IMPORTANT:   
+ Be sure to perform an ASIST Sync and install ALL CONSULT updates before starting 
+the reprogramming procedure. 
+ If the CONSULT PC goes to sleep, the reprogramming will be interrupted. Change 
+the PC sleep settings to prevent the PC from going to sleep during the reprogram.  
+ If Wi-Fi connection is not sufficient or is unstable, data may not download correctly 
+during the reprogramming procedure. 
+ Be sure the CONSULT PC battery is sufficiently charged, or a power adapter is 
+connected to the PC. 
+1. Open the vehicle hood. 
+ Pull the hood release shown in 
+Figure 1 
+ Open the vehicle hood 
+ 
+Figure 1 
+2. Connect a battery charger/maintainer to the 12v battery and turn it on. 
+3. Apply the parking brake. (Figure 2) 
+ Pull back on the parking brake 
+switch (red indicator on switch will 
+illuminate).  
+ 
+Figure 2 
+ 
+P4A43 - 2025 QX80 
+ENGINE CONTROL MODULE(ECM) 
+REPROGRAMMING 
+Parking Brake 
+Switch 
+2/10 P4A43 4. Connect the VI3 to the vehicle data link 
+connector. (Figure 3) 
+ Connect the provided USB cable to 
+the VI3 and the CONSULT PC 
+ 
+Figure 3 
+5. Turn the ignition ON (Engine OFF). 
+ Turn the ignition ON (Engine OFF) by 
+pressing the push-button ignition 
+switch without depressing the brake 
+pedal (Figure 4) 
+ 
+Figure 4 
+6. Verify the headlamps and HVAC are OFF. 
+7. Start the CONSULT 4 (C4) program by selecting the C4 icon on the desktop or 
+taskbar. 
+8. Enter login information and select 
+Submit . (Figure 5) 
+ If prompted, select USA/CANADA 
+Dealers from the drop-down menu, 
+and then select OK     (Figure 6) 
+ 
+  
+Figure 5 
+ 
+Figure 6 
+IMPORTANT: 
+ If not prompted to enter your 
+username and password, the 
+CONSULT PC may not be connected 
+to Wi-Fi.  
+ Close CONSULT-4, confirm the 
+CONSULT PC is connected to Wi-Fi, 
+and then reopen CONSULT-4. VI3 
+Push-Button 
+Ignition Switch 
+3/10 P4A43 9. Allow C4 to connect to VI3 and 
+perform vehicle system call.      (Figure 
+7 and Figure 8)  
+ 
+  
+Figure 7 
+ 
+Figure 8 
+10. Locate and select ENGINE .       (Figure 
+9)  
+ 
+Figure 9 
+11. Locate and select ECU 
+reprogramming . (Figure 10)  
+ If error code R801 (Figure 11) 
+occurs perform Step 12  on Page 4 . 
+ If the error code R801 does NOT 
+occur, continue to Step 14  on Page 
+4.  
+Figure 10 
+ 
+Figure 11 
+NOTE: 
+VI3 may not automatically connect the 
+first-time logging in. If the VI does not 
+automatically connect, select Change 
+VI on the RH side of the screen.  
+(Figure 8) 
+xxxxxx
+xxxxxxxxxxx xxxxxChange VI 
+
+4/10 P4A43 12. Error code R801 indicates no 
+reprogramming is available, select Yes 
+(Figure 12), and then select ECU 
+identification (Figure 13) in ENGINE .   
+Figure 12 
+ 
+ 
+Figure 13 
+13. Compare the part number shown in ECU identification with the part numbers listed 
+in Table A Below. 
+Table A 
+Model Before Part number: 23761-XXXXX 
+QX80 7JD0A, 7JD1A, 7JD2A, 7JD3A, 7JD4B, 7JD5B, 7JD6B, 7JD7B 
+ If the part number matches one of the numbers in Table A, reprogramming is 
+required. Perform a manual ASIST sync and install ALL updates. 
+ If the part number does NOT match Table A, reprogramming is not needed, close 
+CONSULT-4 and disconnect VI3. 
+14. Verify the VIN is correct and select 
+Next to download the software.  
+(Figure 14) 
+ 
+Figure 14 
+xxxxxxxxxxxxxxxxx  
+
+5/10 P4A43 15. Once software download has 
+completed, select Next (Figure 15).  
+ 
+Figure 15 
+16. Verify all preconditions show a check 
+mark in the far right column and select 
+Next. (Figure 16)  
+ 
+Figure 16 
+17. Allow the reprogramming process to 
+complete and select Next. (Figure 17) 
+  
+Figure 17 
+18. Verify “Current” (new) part number is 
+different than the “Previous” part 
+number. (Figure 18) 
+ Select Complete  
+ 
+Figure 18 
+NOTE: 
+This process will take 15-30 minutes. 
+
+6/10 P4A43 19. Locate and Select BCM. (Figure 19) 
+ 
+  
+Figure 19 
+20. Press the ignition button one (1) time to turn the Vehicle OFF. 
+ If closed, open the drivers door to exit retained power mode 
+ Wait until the HVAC display turns off 
+ Turn the ignition ON (Engine OFF) by pressing the push-button ignition 
+switch without depressing the brake pedal 
+ 
+21. Select All self-diagnosis result . 
+(Figure 20) 
+ 
+Figure 20 
+22. Select the erase DTC icon, and select 
+Yes to erase DTC’s. (Figure 21) 
+ 
+Figure 21 
+NOTE: 
+This will help prevent CONSULT-4 from 
+disconnecting from the vehicle when 
+the ignition is turned off. 
+DTC Erase  
+
+7/10 P4A43 23. Verify all DTCs have erased, select 
+Home. (Figure 22) 
+ 
+Figure 22 
+Additional Services When Reprogramming ECM 
+24. Locate and select ENGINE .        
+(Figure 23) 
+ 
+Figure 23 
+25. Select Work support . (Figure 24) 
+ 
+Figure 24 
+26. Locate and select the “Play” button 
+for Close throttle position learning . 
+(Figure 25) 
+ 
+Figure 25 
+xxxxxxxxxxxxxx xxxxxx
+
+8/10 P4A43 27. Select Start and wait until the 
+“Completed” is displayed. (Figure 26) 
+ Turn the ignition OFF by pressing 
+the push button ignition switch (1) 
+one time 
+ Wait 10 seconds 
+ Turn the ignition ON (Engine OFF) 
+by pressing the push-button 
+ignition 
+switch without depressing the brake 
+pedal 
+ Select End  
+Figure 26 
+28. Locate and select the “Play” button 
+for Idle Air Volume Learning .   
+(Figure 27) 
+ 
+Figure 27 
+29. Select Next. (Figure 28) 
+ 
+Figure 28 
+30. Depress the brake pedal and press the push button ignition switch one-time to start 
+the engine. 
+
+9/10 P4A43 31. Allow the engine to idle while 
+monitoring “ Coolant temperature/ 
+system ”. (Figure 29) 
+ Once the coolant temperature 
+reaches 70°C, Select Start 
+ Once Current status changes to 
+“Completed”, select  END  
+Figure 29 
+32. Verify the engine idles normally and no warning lamps are illuminated. 
+33. Select All self-diagnosis result . 
+(Figure 30) 
+ 
+Figure 30 
+34. Select the erase DTC icon and select 
+Yes to erase DTC’s. (Figure 31) 
+ 
+Figure 31 
+35. Verify all DTCs have erased. 
+ Close C4 by selecting the “X” in the 
+upper RH corner (Figure 32) 
+ 
+Figure 32 
+DTC Erase  
+xxxxxxxxxxxxxx xxxxxx
+
+10/10 P4A43 36. Turn the vehicle off by depressing the push button ignition switch (1) one-time. 
+ Disconnect VI3 from the vehicle 
+37. Disconnect the battery charger/maintainer from the 12v battery. 
+38. Close the hood. 
+ 
+ 
+ 
+Claims Information: 
+Submit claim using the following claims coding: 
+ 
+Work Order Line Type: “CM” Campaign 
+ 
+Campaign (“CM”) ID Description Op code FRT 
+P4A43 Reprogram ECM P4A430 0.8hr 
+Reprogram Not Needed P4A431 0.3hr 
+ 
+ 

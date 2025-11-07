@@ -1,0 +1,219 @@
+ 
+ 
+  
+ 
+1 
+Service Campaign 9 B9: Key Fob Inspection/Replacement : Dealer Notification  
+February  14, 202 5 
+  
+Document Topic  Date  
+• Technical Service Bulletin (TSB) 25-01-011H  published  02/14/2025 
+ 
+Campaign Description  
+Certain IONIQ 5 (NEA EV) vehicles may have come with the incorrect key fob for the trim  
+level. Follow the procedure in this bulletin to inspect and, if necessary, replace with the correct key fob s. 
+ 
+Affected Vehicles  (Certain)  
+• 2025MY IONIQ 5 (NEA EV) produced from 12/10/2024 – 01/24/2025  
+ 
+Repair Process/Information  
+Follow the service  procedure in TSB 2 5-01-011H  (or latest version) to inspect and, if necessary, replace with the 
+correct key fob s. 
+• Technician  Certification  Requirements:  Hyundai Certified  (or higher)  
+ 
+Recommended Alternative Transportation  
+A Service Rental Vehicle (SRC) should be provided to customers if their vehicle requires to be kept overnight. In 
+addition, a SRC may be required based on the repair procedure duration and any other additional work on the 
+vehicle that may need to be addressed during customer’s visit. If a SRC is not available, other options such as a 
+3rd Party Rental or Rideshare may be provided.  
+ 
+Other Notes/Recommendations  
+• If a customer arrives to the dealer with no appointment scheduled, it is recommended for the dealer to 
+offer alternative transportation to the customer.  
+• If customer schedules an appointment in advance, ensure the appropriate tools and equipment are on 
+hand to perform any related repairs.  
+• Always inquire if the customer will have time for an additional service to be performed if they were 
+originally scheduled for a different service.  
+• Offer SRC assistance for customers who may be pressed on time.  
+• Be honest with customers on wait times.  
+• If the service is taking longer than expected, update the customer.  
+ 
+Warranty Information  
+Per TSB 2 5-01-011H  (or latest version) , this service campaign pays the following:  
+• Labor:  
+o 0.2 M/H for key fob s inspection  
+o 0.6 M/H for key fobs inspection and r eplacement  
+• Photos:  
+o Refer to TSB 25 -01-011H  for the required pictures to be taken. Includes sample photos.  
+  
+Parts Information  
+• Refer to  TSB 2 5-01-011H  (or latest version) for the latest parts information.  
+• Factory has requested recovery of the key fobs initially supp lied at the time of retail.  Please ensure your 
+Parts Department holds the parts . Do not discard them.  Further instruction on shipmen t from the 
+Warranty Technical Center (WTC)  to the appropriate location  will be provided upon claim 
+submission/approval.  
+ 
+ 
+  
+ 
+2 
+ 
+ 
+ 
+Customer Talk Tracks  
+1. For Customers with an appointment, but campaign is not part of originally scheduled services:  “I see 
+that your vehicle has an open service campaign that we would like to take care of for you while you are here 
+today. This service campaign re quires to inspect, and if necessary, replace with the correct key fob s. This 
+service, of course, will be provided at no charge to you  and, i f necessary, we would like to offer you 
+alternative transportation  while we repair  your vehicle . We apologize for the inconvenience.”  
+ 
+2. For Walk -In Customer:  “During your visit today, I checked your vehicle for any open campaign or recalls 
+and found that your vehicle has an open campaign . This service campaign requires to inspect, and if 
+necessary, replace with the correct key fob s. This service, of course, will be provided at no charge to you  
+and, if necessary, we would like to offer you alternative transportation while we repair your vehicle . We 
+apologize for the inconvenience.”  
+ 
+3. For customers over the phone:  “While I have you on the line and verifying your current appointment, I ran 
+your VIN and see that your vehicle has an open campaign. This service campaign requires to inspect, and if 
+necessary, replace with the correct key fob s. If time permits, we can address this campaign during your 
+current appointment,  and it will be at no cost to you. Should you need, we can arrange for alternate 
+transportation since this may prolong the stay of your vehicle at service. We apologize for the 
+inconvenience. ” 
+ 
+ 
+Best Practice Checklist  
+Reservation:  Did you check WebDCS for additional campaigns or recalls?  Did you check for any declin ed 
+services from previous visits?  
+ Yes 
+
+ 
+ 
+  
+ 
+3 
+ No – Please ensure all open campaign(s)/recall(s) are identified and completed by the dealership.  
+Also ask customer if he/she would like to have any of the previous declined services performed.  
+ 
+Readiness: Are key fobs  in stock to complete this campaign?  
+ Yes 
+ No – Please order the key fobs  from your corresponding PDC  as necessar y. If possible, place 
+order ahead of time if customer has made an appointment in advance.  
+ 
+ 
+Reception: Did the customer provide authorization to perform repairs?  
+ Yes 
+ No – Customer must be consulted and provide approval before proceeding with any repairs on 
+their vehicle.  
+ 
+Reception:  Did you explain to the customer the expected repair time based on the repair and set the 
+expectation for a status update?  
+ Yes 
+ No – Customer should be given an estimated time of when his/her vehicle is completed so the 
+customer can plan the rest of their day away from the dealership.  
+ 
+Reception: Did you offer the customer Alternative Transportation if requested?  
+ Yes 
+ No - Customer should be offered alternative transportation if their vehicle  needs to be kept 
+overnight . In addition, a SRC may be required based on the  repair procedure duration and any 
+other additional work on the vehicle that may need to be addressed during customer’s visit.  
+ 
+Repair:  Does the Technician meet the recommended training requirements  (Certified or above)  to 
+complete this campaign?  
+ Yes 
+ No – Please ensure a technician with the recommended training level requirement(s)  completes 
+this repair.  
+ 
+Repair:  Were the appropriate picture(s) taken as outlined in TSB 2 5-01-011H (or latest version)?  
+ Yes 
+ No – Please ensure appropriate picture(s) are taken for the dealership to be paid. See TSB for 
+sample photo(s). Refer to the latest Warranty Digital Documentation Policy for requirements.  
+ 
+ 
+Return: Did you get the customer’s signature on all warranty lines in addition to the final RO?  
+ Yes 
+ No – Customer must sign  the final invoice upon delivery  of the vehicle  back to the customer.  
+ 
+Customer FAQs  
+Q1: What is the issue?  
+A1: Certain IONIQ 5 (NEA EV) vehicles may have come with the incorrect key fob s for the  specified  trim  
+level.  
+ 
+Q2: What are the affected vehicles?  
+A2: The following vehicles include certain  2025  model year  IONIQ 5 (NEA EV) produced from 12/10/2024 – 
+01/24/2025 . 
+
+ 
+ 
+  
+ 
+4 
+ 
+Q3: Wh y is this campaign being provided to me?  
+A3: Certain IONIQ 5 (NEA EV) vehicles may have come with the incorrect key fob s for the trim  level .  
+ 
+Q4: What will be done during service at the dealer?  
+A4: The dealer will inspect and, if necessary, replace with the correct key fob s.  
+ 
+Q5: When will affected customer(s) be notified of this campaign?  
+A5: Customers will be notified  via First Class Mail in March 2025. 
+ 
+Contact Reference  
+Please see the following list of commonly referred to contacts. Thank you for your prompt attention to this 
+important campaign  matter and continued commitment to Hyundai customers.  
+  
+ 
+ 
+  
+ 
+5 
+Key  Contact  Information  
+Dealer Support  Contact  Information  Description  
+Parts  HyundaiPartsHotline@MobisUSA.com  
+1-800 -545-4515  Parts ordering hotline  
+Techline  1‐800 ‐325‐6604  Vehicle  Technical  Support  for Hyundai  Dealer  
+Technicians  
+Warranty  HELP Line  1‐877‐446‐2922  Warranty  Claim  questions  for Hyundai  Dealers  
+Warranty Prior  Approval  (PA) Center  PA@hmausa.com  Warranty Prior  Approval  (PA)  Center for Hyundai Dealers  
+Xtime  Technical  Support  Support@xtime.com  
+1‐866‐984‐6355  Assistance  with  Car Care  Scheduling:  
+• Appointment / Shop  Capacity  Management / Campaign  
+Integration /  Operation  Codes  
+AutoLoop Technical Support  Support@autoloop.com  
+1-877-850-2010  Assistance  with  Car Care  Scheduling:  
+• Appointment / Shop  Capacity  Management / Campaign  
+Integration /  Operation  Codes  
+CDK Technical Support  https://serviceconnect.support.cdk.com/  Assistance  with  Car Care  Scheduling:  
+• Appointment / Shop  Capacity  Management / Campaign  
+Integration /  Operation  Codes  
+Customer  Support  Contact  Information  Description  
+Hyundai  Customer  Care  Center  
+(Recall  / Campaign  Questions)  1‐855‐671‐3059  Customer  questions  or concerns  related  to recall or service 
+campaigns  
+Hyundai  Recall / Campaign  Website  www.hyundaiusa.com/recall     Updated information related to the specific recall or service 
+campaign  
+Hyundai  Customer  Care  
+Center (General  Questions)  1‐800 ‐633‐5151 Customers general questions, non‐campaign related  
+Hyundai  Roadside  Assistance  1-800 -243-7766  Hyundai  Roadside  Assistance  
+Key  Reference  Information  
+Name  Source  
+Campaign Central  Consolidated repository of recall and service campaign dealer best practices.  Located on the service tab 
+homepage in www.HyundaiDealer.com   
+Car Care  Scheduling  (Xtime)  - Tutorials  www.HyundaiDealer.com  > Service  > Dealer  Resources  > DocumentsLibrary  > Car Care  Scheduling  
+Car Care  Scheduling  (Xtime)  - Recall  
+Appointment  Notification  1. Log into Xtime  
+2. Under  the menu  at the top left, select  ‘CONFIGURE’  
+3. Under  the dealership  tab, click  “EMAIL  COMMUNICATION”  
+4. Slide  the toggle  to “ADVANCED”  
+5. Populate  as many  e-mails  as desired  in the “PARTS  DESK  EMAIL  FIELD”  
+Parts – Campaign Parts Management 
+(CPM) Procedure  As applicable; www.HyundaiDealer.com  > Parts > Documents Library > Campaign Parts Management  
+Service  Rental  Car (SRC) Program  SRC Documentation : www.HyundaiDealer.com  > Service tab > Documents Library > Service Rental Car  
+TSD : www.HyundaiDealer.com  > Service tab > SRC Fleet Mgmt Software  
+Insurance : www.HyundaiDealer.com  > Service tab > SRC Insurance  
+Technical Service Bulletin (TSB)  www.HyundaiDealer.com  > Service tab > Hyundai Tech Info  
+Uncompleted  Campaign  VIN Listing  
+ A listing  of vehicles  is located  on WEBDCS >  SERVICE  tab >  select  UNCOMPLETED  CAMPAIGN  VIN LISTING  
+– Dealer  Stock  (New, SRC, CPO, etc.) and Retailed.  
+Recall  Campaign  Website  www.hyundaiusa.com/recal l  
+   NHTSA  Website  www.safercar.gov  
+ 

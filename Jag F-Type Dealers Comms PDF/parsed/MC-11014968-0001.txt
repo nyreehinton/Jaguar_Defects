@@ -1,0 +1,172 @@
+Less Info
+Countries:BAHAMAS, BOLIVIA, BELIZE, CANADA, CHILE,
+COLOMBIA, COSTA RICA, DOMINICAN
+REPUBLIC, ECUADOR, EL SALVADOR,
+GUATEMALA, GUYANA, HAITI, HONDURAS,
+JAMAICA, MEXICO, ARUBA, NICARAGUA,
+PANAMA, PERU, TRINIDAD AND TOBAGO,
+UNITED STATES, URUGUAY, VENEZUELA,
+CuraçaoDocument
+ID:IK1600269
+Availability:ISIS, FleetISIS, Body Builder, IsSIR Revision:4
+Major
+System:CAB / SLEEPER / HOOD Created:3/27/2024
+Current
+Language:EnglishLast
+Modified:2/24/2025
+Other
+Languages:NONE Author:Steven
+Bautz
+Viewed: 2300
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 28
+ 2
+Title: Hood Squeak, Rattle and Bouncing
+Applies To: Engine Hood Service - LT, RH, MV, HV, HX, CE Bus
+CHANGE LOG   
+Please refer to the change log text box below for recent changes to this article: 
+ 
+02/19/2025 - Added models including CE Bus with similar hood stop design
+11/19/2024 - Updated service part numbers
+06/11/2024 - Added rubber hose option as alternate repair
+04/23/2024 - Added P/N for grease
+03/29/2024 - Initial Article Release
+ 
+DESCRIPTION
+This document will guide the user through the various field repairs necessary to eliminate engine hood squeaks, rattles, knocking,
+and bouncing on International Trucks & Buses. For any other hood alignment or adjustment issues, please refer to the current truck
+service manuals for the proper procedures.
+ 
+REFERENCE DOCUMENTS
+iKNow Article IK1600265  - Hood Guide Installation
+iKNow Article IK1600247  - Hood Gap and Alignment Tolerances
+ 
+SYMPT OM(s)
+The engine hood may squeak, rattle, knock, and bounce during vehicle movement.
+Diagnostic T rouble Code(s) & Dashboard Indicator Light(s):
+N/A – There are no trouble Codes or Indicator Lights for this symptom.
+Customer Observations or Concerns:
+The driver may experience excessive noise or see excessive movement of the engine hood during vehicle operation. The noises or
+movements do not pose a safety concern but are simply an annoyance to the truck's occupants, provided that both hood latches are
+securely engaged.
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+ 
+N/A
+ 
+ 
+SERVICE P ARTS INFORMA TION
+ 
+Part Description Part NumberQuantity
+Requir edNotes
+BRACKET , SUPPOR T,
+HOOD, LH3810978C6 1 Check Parts Catalog for correct P/N
+BRACKET , SUPPOR T,
+HOOD, RH3810979C6 1 Check Parts Catalog for correct P/N
+BOLT, TORX FLA T HD
+M10-1.5 X 303811528C1 4 per side OK to reuse the original hardware
+GREASE, HEA VY
+CHASSISVARIOUS As needed Purchase locally
+GREASE, MEDIUM
+CHASSIS (Optional) 4 0 9 7 9 9 0 R 1 -
+4 0 0 G M K KAs neededNot available through the parts
+catalog. Ref: Dow Corning Molykote
+44 Medium
+RIVET , 3/16" BLIND
+ALUM -  .5" -.625" GRIP 552870C1  2  May substitute
+RUBBER, MUD FLAP
+STRIP  - 1/4" THK, 1"
+X2.5" N/A  1  Fab in house
+ 
+ 
+ 
+ 
+DIAGNOSTIC STEP(s)
+ 
+Issue #1: Hood Noises – Squeaking or Rattling
+Drive the truck over various road conditions to determine if the hood makes squeaking or rattling noises. The noises generally occur
+when the truck is rocking over uneven surfaces at speeds generally over 5-10 MPH.
+Issue #2: Hood Knocking and Bouncing
+Drive the truck over various road conditions to determine if the hood knocks or bounces. The bounce condition can be seen at the top
+of the hood where it meets the base of the windshield and generally occurs when the truck is moving at speeds of 45 MPH or higher .
+When the hood starts to bounce it will normally create a knocking noise when it bounces against the hood stops.
+IMPORT ANT NOTE:  Before completing any of the diagnostic steps below , verify that the hood is properly mounted and aligned per
+iKNow Article IK1600247 - Hood Gap and Alignment Tolerances. Also verify the hood stops and hood latch hardware are properly
+secured and that these parts are not loose, bent, or damaged. If so, replace the damaged/defective parts before proceeding.
+ 
+Step  Action for Issue #1 Decision
+#1DIAGNOSTIC: Hood Squeaking and or rattling Yes. Apply heavy chassis grease to both
+hood stops and hood guides (Left/Right)
+Does the hood squeak or rattle during vehicle operation?per repair steps below
+No. No action required
+  
+ 
+Step  Action for for Issue #1 Decision
+#1ADIAGNOSTIC: Hood Squeaking and or rattling
+Does the hood squeak or rattle during vehicle operation after newly added heavy
+grease is applied?Yes. Install rubber spacers to hood
+guides on the hood where they meet the
+hood stops per the repair steps below
+(Left/Right)
+No. No action required
+ 
+  
+Step Action for Issue #2 Decision
+#2DIAGNOSTIC: Hood Bounce & Knocking
+Does the hood bounce and knock during vehicle operation?1. Install rubber spacers to hood guides
+on the hood where they meet the hood
+stops per repair steps below (Left/Right)
+2. No action is required
+ 
+ 
+ 
+ 
+ 
+Figur e 1: Hood Stops as mounted to the Cab
+ 
+ 
+ 
+Figur e 2: Hood Guides as mounted to the hood B-side
+  
+ 
+REPAIR STEP(s)
+ 
+ 
+Figur e 3: Newly added Gr ease to Hood Stops and Hood Guides
+ 
+The standard repair for the hood bouncing and or knocking is to rivet a hand-fabricated rubber spacer onto both hood guides to fill
+the space between the hood stop and the end of the hood guide when the hood is closed. (See Figure #4) Use a high-quality piece of
+rubber such as a slice of f of a mud flap. The thickness should be approximately 1/4" to 3/16” thick and approximately 1.0” X 2.5” in
+size. (See Figure #5 Left side is shown, the right side is the opposite)
+ 
+  
+Figure #4: Rubber spacer riveted to hood stop guide with added grease
+ 
+ 
+ 
+ 
+Figur e #5: Rubber  Spacer  Fabrication Drawing
+Hide Details Feedback Information
+Viewed: 2299
+Helpful: 28
+Not Helpful:2
+No Feedback Found
+Copyright © 2025 Navistar, Inc.NOTE: As an alternate repair method to adding the rubber pad to the hood bracket as
+described above a short section of rubber hose can be cut and slid over the rubber hood
+stop and secured with a screw as shown in Figure #6.
+ 
+Figure #5: Rubber hose section over rubber hood stop shown as an alternate repair option.
+WARRANTY  INFORMA TION
+ 
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+ 
+ 
+OTHER RESOURCES
+Master Service Information Site
+  

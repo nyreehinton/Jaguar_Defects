@@ -1,0 +1,61 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-029
+Service BulletinDate: February, 2025
+TECHNICAL
+Brake Pad Life Percentage Higher Than It Should be and Over Predicting Wear
+Brand: Model: Model Year: Build Date: Engine: Transmission
+:from to from to
+Buick Enclave 2025 2025 SOPDecember 11,
+2024   
+Chevrolet Traverse 2024 2025 SOPSeptember 8,
+2024LK0  
+GMC Acadia 2024 2025 SOPSeptember 8,
+2024   
+Involved Region or Country North America, Middle East
+ConditionSome customers/technicians may comment on their brake life percentage going down
+faster than expected. This affects the front and rear brakes.
+CauseThe cause of the condition may be the Electronic Brake Control Module (EBCM) over
+predicting percentage of wear.
+CorrectionThe pad life wear is an estimation that was updated with new EBCM software to be more
+accurate.
+Important: Updating the EBCM without  replacing the pads and resetting the pad life will
+not change the estimation. Do not update the EBCM for this concern unless replacing the
+pads and resetting the pad life.
+This new software will only take affect after updating the EBCM and resetting the pad life.
+Note: Pad life should only be reset after pads are replaced.
+Assure the customer that the system will correctly notify them when it is time to replace
+the pads. They will receive the “replace pads soon” on the DIC. The percentage will turn
+into mileage remaining and the customer must replace pads before the mileage reaches
+zero.
+Follow PIT6333 if issues resetting the brake pad life come up.Subject:
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+*2880047 Brake Pad Life Percentage Check 0.2 hr
+*This is a unique Labor Operation for Bulletin use only.
+Important: **To avoid warranty transaction rejections, carefully read and follow the instructions below:
+Page 2 February, 2025 Bulletin No.: 25-NA-029
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONLabor Operation Description Labor Time
+6125814
+• The Warranty Claim Code must be accurately entered in the “Warranty Claim Code” field of the transaction.
+• When more than one Warranty Claim Code is generated for a programming event, it is required to document all Warranty
+Claim Codes in the “Correction” field on the job card.  Dealers must also enter one of the codes in the “Warranty Claim
+Code” field of the transaction, otherwise the transaction will reject. It is best practice to enter the FINAL code provided by
+SPS2.
+Version 1
+Modified Released February 11, 2025

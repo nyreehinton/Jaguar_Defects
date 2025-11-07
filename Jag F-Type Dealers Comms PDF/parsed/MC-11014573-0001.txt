@@ -1,0 +1,31 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: PIE0808A
+Service BulletinDate: February, 2025
+ENGINEERING INFORMATION
+Engineering Information - Malfunction Indicator Lamp (MIL) Illuminated on
+Driver Information Center (DIC), DTC’s P02EE, P02EF, P02F0, P02F1, P10A3,
+P10A4, P10A5, P10A6, P10A7, P10A8, P10A9, P10AA, P2B00, P2B01, P2B02,
+P2B03, P2B08, P2B09, P2B0A, P2B0B, P2B95, P2B96, P0300, P050D, P30D4 Set
+This PI has been revised to end the need for gathering information from the field. Please
+discard PIE0808.
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission
+:from to from to
+Chevrolet Colorado
+2023 2024 — —Equipped with 2.7L
+(RPOs L2R, L3B)
+—
+GMC CanyonEquipped with 2.7L
+(RPO L3B)Subject:
+If you encounter a vehicle with the above condition, refer to the latest version of PIP6023 in SI.
+ 
+Version 2
+Modified Released November 14, 2024
+Revised February 11, 2025 - Ended the need for gathering further information from the
+field.

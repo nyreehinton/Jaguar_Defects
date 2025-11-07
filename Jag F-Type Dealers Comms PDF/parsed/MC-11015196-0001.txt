@@ -1,0 +1,70 @@
+AfterSalesFeb 14, 2025
+Page 1 of 4Release 3+ Vehicle Assistance Systems - White Warning in the Instrument Cluster: 
+Assistance Systems currently restricted
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne As of 2024 9YA, 9YB N /A N /A
+Macan Electric As of 2024 XAB N /A N /A
+Tayc an As of 2020 Y1A, Y1B, Y1C N /A N /A
+911 As of 2020 992 N /A N /A
+Panamera As of 2024 YAA, YAB N /A N /A
+Revision History
+Revision Release Date Changes
+0 February 14. 2025 Original document
+Condition
+The customer  complains of three white warning messages in the instrument cluster that read, “Emergency Stop 
+Function currently not available. Driving permitted.”, “Active Lane Keeping currently not available. Driving 
+permitted.”, and “Assistance Systems currently restricted. Sensor is dirty, observe messages in central display.” 
+Along with these warnings comes yellow warning indicators for the affected driver assistance systems.
+Advanced Technical Information 9Bulletin #: 2503
+Part ID: 9638
+Figure 1
+First white warning in the 
+instrument clusterFigure 2
+Second white warning in the 
+instrument clusterFigure 3
+Third white warning in the 
+instrument cluster
+AfterSalesFeb 14, 2025
+Page 2 of 4Technical Background
+ In the event of frost, ice, dirt, etc. on the windscreen, the front camera used for many driver assistance systems is
+ blocked from being operationally active, which in many cases is only temporary. This results in a ‘reversible’ white 
+ error in the instrument cluster to instruct the driver that these functions are not available while the camera is 
+ obstructed. In such cases, these messages and the affected assistance systems are functioning as designed.
+Service Information
+ Please inform the customer that any obstructions of the front camera (e.g., dirt, ice, snow, etc.) may restrict the 
+ functionality of the front camera. For the active lane keeping warning see Owner’s Manual for more information: 
+ Section “Driving Assistance” => “Lane Keep Assist” => “Activating and deactivating Lane Keep Assist” and Section
+  “Driving Assistance” => “Active Lane Keeping” => “System Limitations”.
+Advanced Technical Information 9Bulletin #: 2503
+Part ID: 9638
+Figure 4
+Yellow indicators for affected systems
+Figure 5
+First reference for active lane keeping warning
+AfterSalesFeb 14, 2025
+Page 3 of 4 For the emergency stop function warning see Owner’s Manual for more information: section “Occupant protection”   
+ => “Emergency Stop Function” => “System limitations”.
+Advanced Technical Information 9Bulletin #: 2503
+Part ID: 9638
+Figure 6
+Second reference for active lane keeping warning
+Figure 7
+Reference for emergency stop function warning
+
+AfterSalesFeb 14, 2025
+Page 4 of 4 The third white warning of Figure 3 of “Assistance Systems currently restricted” always accompanies one of the   
+ other listed white warnings.
+ If it is determined that there was no obstruction to the camera at the time of the warnings, continue further    
+ diagnosis.
+Search Items 
+ Cayenne, Taycan, 911, Panamera, Macan (H2), Front Camera, Assistance Systems
+Advanced Technical Information 9Bulletin #: 2503
+Part ID: 9638
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+©2025 Porsche Cars North America, Inc.

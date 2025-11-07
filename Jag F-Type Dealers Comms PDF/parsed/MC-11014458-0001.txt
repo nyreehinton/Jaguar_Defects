@@ -1,0 +1,70 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on poor or no heat. 
+When comparing the heater core inlet hose
+temperature to the heater core outlet hose
+temperature, there will be a signiﬁcant diﬀerence.
+Only on certain pickup models:  GDS2 can be used to
+compare the heater core inlet temperature sensor 3 to
+the heater core outlet temperature sensor 4, there will
+be a signiﬁcant diﬀerence (example inlet temp 147 degs
+F and outlet temp 82 degs F , typically they are within
+10-20 degs F).  
+Note: When comparing the diﬀerence in the heater core
+temperature sensors, mak e sure the blower motor is on
+high with the HV AC temperature set to full hot.  
+CauseThis issue could be caused by either the heater core
+inlet or outlet hoses becoming twisted or kink ed, and as
+a result, this ma y restrict the coolant ﬂow .  
+Bulletin No.: PIT5734H
+Published date: 02/20/2025
+Preliminary Information
+PIT5734H Poor Heater Performance - Diagnostic Tip
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2021 - 2024 All All3.0L LM2 All
+Cadillac Escalade ESV 2021 - 2024 All All3.0L LM2 All
+Chevr oletSilverado 1500 2020 - 2025 All All3.0L LM2 or LZ0 All
+Chevr oletSuburban 2021 - 2025 All All3.0L LM2 or LZ0 All
+Chevr oletTahoe 2021 - 2025 All All3.0L LM2 or LZ0 All
+GMC Sierra 1500 2020 - 2025 All All3.0L LM2 or LZ0 All
+GMC Yukon 2021 - 2025 All All3.0L LM2 or LZ0 All
+GMC Yukon XL 2021 - 2025 All All3.0L LM2 or LZ0 All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+If SI diagnostics do not lead to a correction, inspect the heater core inlet (1)
+and/or outlet (2) hoses for being twisted or kink ed, as shown below .   In
+ALL cases, it is diﬃcult to see the twist or kink in the hose due to the conduit
+which covers the hoses.  In the examples below , the parts catalog drawing,
+showing callouts 1 and 2, correlates to the actual vehicle picture callouts 1 and
+2.  If a twist or kink is found, then reposition the hose/clamp to remove the
+twist/kink.  If the hose has tak en a set and is deformed, then replace as
+necessary . 
+ 
+ 
+Version 9
+Modiﬁed02/28/2020 - Created on  
+10/08/2020 - Updates to the model list, Model
+years and condition sections.  
+02/22/2021 - Updated the model list to include the
+Full Size SUVs.  
+01/26/2022- Update model year  
+03/07/2022 - Updates to the condition and
+correction sections.  
+05/18/2022- Updates to the models and correction
+sections.  
+07/05/2023 - Updates to the models  
+01/30/2024 - Updates to the models  
+02/20/2025 - updates to the model list
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

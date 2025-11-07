@@ -1,0 +1,40 @@
+Bulletin No.: PIT5479G
+Published date: 02/7/2025
+Preliminary Information
+PIT5479G Diagnostic Tip - Perceived Brake Fluid Leak at Caliper
+Piston Boot
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade Models 2015 - 2024 All AllAll All
+Chevr oletColorado 2015 - 2025 All AllAll All
+Chevr oletSilverado 1500 2014 All AllAll All
+Chevr oletSilverado 2015 - 2025 All AllAll All
+Chevr oletSuburban 2015 - 2025 All AllAll All
+Chevr oletTahoe 2015 - 2025 All AllAll All
+GMC Canyon 2015 - 2025 All AllAll All
+GMC Sierra 1500 2014 All AllAll All
+GMC Sierra 2015 - 2025 All AllAll All
+GMC Yukon Models 2015 - 2025 All AllAll All
+Supersession Statement
+This PI was superseded to update the Models. Please discar d PIT5479E.
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+A technician ma y comment that, during service, it appears there is ﬂuid leaking from the
+brake caliper piston area.  Shown below are examples of newer low mileage vehicles and
+older higher mileage vehicles.  
+ 
+
+ 
+Recommendations / Instructions
+The substance shown is actually excess assembly grease from the caliper boot and piston
+installation. This grease can be cleaned oﬀ and the rest of the service completed.  
+NOTE:  When diagnosing a brak e ﬂuid leak or certain DTC's for hydraulic brak e circuit
+leaks, such as C05B0, do not confuse excessive assembly grease as a brak e ﬂuid leak.  If it
+is uncertain what is seen is assembly grease, then clean oﬀ the excessive grease and apply
+the brak e pedal 20 times and re-inspect for a leak.  
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

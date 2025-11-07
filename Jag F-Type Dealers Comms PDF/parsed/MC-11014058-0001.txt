@@ -1,0 +1,70 @@
+Bulletin No.: PIC6447B
+Published date: 02/7/2025
+Preliminary Information
+PIC6447B Water Leak - Passenger Side Carpeting May Be Wet When
+Using the Air Conditioning
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletCorvette 2020 - 2024 All AllAll All
+Involved
+Region or
+CountryNorth America and Export Regions
+ConditionSome customers ma y comment that the passenger side carpeting ma y be
+damp or wet after using the air conditioning for some time.  
+CauseThis issue ma y be the result of water leaking from the HV AC case into the
+passenger compartment, on the passenger side of the vehicle.  
+Correction:  
+If the passenger side carpeting is found to be wet after the air conditioning has been used,
+the cause of this ma y actually be one of two diﬀerent scenarios, both explained below .  It
+is imperative that BOTH conditions are examined when a car comes in for this concern.  If a
+vehicle exhibits both issues but the servicing technician only addresses one of them,
+assuming that the vehicle has been fully repaired, he ma y have a comeback shortly
+thereafter with the same complaint, even though the leak ma y be coming from a separate
+area.  
+Condition #1 - The AC drain tube on this vehicle is located on the RH side of the center
+console.  It is located behind the carpeting that runs vertically up the side of the center
+console assembly .  The possibility exists that the AC evaporator drain tube ma y be
+partially or fully disconnected from the body panel.  Refer to Service Update #
+N212327740  for further information on this condition.  
+Condition #2 - As previously mentioned, even if an issue was found with Condition #1, all
+service technicians should also inspect / water test the vehicle for BOTH conditions listed
+in this document.  Another leak point that has been identiﬁed on this vehicle is a seam
+between two body panels that is located just fore and several inches below where the AC
+drain tube exits the vehicle.  This area can be seen in the photo below . 
+
+A gap in the seam sealer along this location ma y also allow water from the AC drain system
+to leak back inside the vehicle.  T o correctly repair this leak, a two-step approach is tak en. 
+First, the technician must seal the seam between the two body panels INSIDE the vehicle
+with seam sealer , available from any local body shop.  Once that has been done,
+technicians are to seal the OUTSIDE of the vehicle to prevent water from getting to this
+area in the ﬁrst place.  T o begin, ﬁrst lift the car and remove the Floor P anel T unnel P anel
+Front Reinforcement (currently found on SI document ID 5358807.)  This is the long,
+narrow panel that covers the area historically referred to as the "transmission tunnel." 
+This will allow access to the "outside" of the panels where the water is leaking in at. 
+Once this panel has been removed, stand in the middle of the vehicle facing the front of
+the car .  If you look upwards and to the right, you will see the AC drain tube exiting the
+center console area of the vehicle.  Just below this AC drain tube, the technician is to
+inspect for the presence of a black mastic patch that is covering the seam between these
+two body panels.  This patch can be seen in the computer image seen below . 
+The patch ma y or ma y not be present on the particular vehicle that is being serviced.  It
+was not added at the assembly plant until later built vehicles.  If the patch is not present,
+obtain a large piece of mastic from the parts department and apply it to the body so that
+this seam area is completely covered.  Use the image above as a guide for size and
+placement.  Be sure to wet out the patch correctly , using a roller , or a large sock et.  This
+will ensure that the adhesive is completely sealed to the body panels and no water ma y
+enter the vehicle in this location.  If there already is a black mastic patch present in this
+location, it should be removed and replaced with a new one.  Install the new patch
+following the same directions as listed above.  This two-step repair will provide assurance
+that no further water leaks will occur in this area again.  
+Warranty Information
+The correction for this concern ma y be one of several repairs described above.
+ For vehicles repaired under warranty , please use the appropriate warranty
+labor operation based on the actual cause and repair .
+ 
+Version History
+Version 3
+Modiﬁed10/12/2021 - Created on.  
+7/15/2022 - Updated to add model year 2023.  
+02/07/2025 - Updated to add model year 2024
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

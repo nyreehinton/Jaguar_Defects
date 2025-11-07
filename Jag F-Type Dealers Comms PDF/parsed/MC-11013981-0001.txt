@@ -1,0 +1,107 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+7ISSUE DATE:  6/30/2020 
+SERVICE BULLETIN SUBJECT:  BE35 Charge Blade Loctite Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SB-20-86 
+ 
+BE35 CHARGE BLADE LOCTITE  RETROFIT  
+NOTICE! It is expected that this process will require 1  hour per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+It is expected that the fast charge blade be visually inspected and the high voltage connections at the 
+blade checked for proper torque values every 6000 miles as part of the standard Proterra BE35 Preventative Maintenance Inspection Checklist. This bulletin provides the replacement procedure in the event a fastener on the charge blade is found loose or missing. The procedure specifies the 
+fasteners, proper torque value, and required thread locker.  
+ 
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Ratchet  
+• 5/8-Inch Allen Socket  
+• 4mm Allen Socket  
+• Calibrated Torque Wrench  
+• Loctite 2 71 R ed Thread Locker  
+• Alcohol  
+• Shop Towels  
+ 
+  
+Parts Required:  
+• 013096- 010  SCREW,SHC,FLAT,SS, 0.25 -20X1.0X1.0   8 EA  
+• 008236   NUT, THIN FLEX -TOP, 3/8 -16    8 EA 
+• 013100- 010   SCREW,SHC,FLAT,SS, 3/8 -16X1.25X1.25   8 EA  
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure : 
+ 
+1. Preform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Using the appropriate safety measures, access the rooftop of the bus.  
+ 
+3. Open the Clamshell Doors on the rooftop of the bus  to access the charge blade.  
+ 
+4. Using a Ratchet with a 5/8- Inch Allen Socket  and a 9/16- Inch Combination Wrench, remove 
+one of the four screws  and nuts  shown circled in red on the Streetside of the Charge Blade.  
+Note: Replacement Screws (013100- 010) and Locknuts  (008236)  are supplied. They should 
+be used to replace any damaged fasteners found in this procedure.  
+ 
+ 
+5. Using Alcohol and Shop Towels, clean and inspect the Screws and Locknuts. Replace them 
+with parts from the kit if they are damaged.  
+ 
+6. Apply a drop of Loctite 271 to the threads of the screw that was just removed.  
+ 
+7. Using a Ratchet with a 5/8- Inch Allen Socket  and a 9/16- Inch Combination Wrench, reinstall 
+the screw and nut into the Charge Blade.  
+ 
+8. Using a Calibrated Torque Wrench with a 5/8 -Inch Allen Socket, torque the screw to 150  
+Inch Pounds.  
+ 
+9. Repeat the process to apply Loctite 271  and properly torque the remaining three screws on the 
+Streetside of the bus.  
+ 
+10. Working on the Curbside of the bus, repeat the process to apply Loctite 2 71 and properly 
+torque the four screws on the Curbside of the Charge Blade.  
+ 
+  
+
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+11. Using a Ratchet with a 4mm Allen Socket, remove one of the four screws  shown circled in red 
+on the Streetside of the Charge Blade.  
+Note: Replacement Screws (013096- 010)  are supplied. They should be used to replace any 
+damaged fasteners found in this procedure.  
+ 
+ 
+12. Using Alcohol and Shop Towels, clean and inspect the Screws. Replace them with parts from 
+the kit if they are damaged.  
+ 
+13. Apply a drop of Loctite 271 to the threads of the screw that was just removed.  
+ 
+14. Using a Ratchet with a 4mm Allen Socket, reinstall  the screw.  
+ 
+15. Using a Calibrated Torque Wrench with a 4mm Allen Socket, torque the screw to 53 inch pounds.  
+ 
+16. Repeat the process to apply Loctite 271  and properly torque the remaining three screws on the 
+Streetside of the bus.  
+ 
+17. Working on the Curbside of the bus, repeat the process to apply Loctite 2 71 and properly 
+torque the four screws on the Curbside of the Charge Blade.  
+ 
+18. Close the Clamshell Doors and exit the rooftop of the bus.  
+ 
+19. Remove the Lockout/Tag out devices and return the bus to service.  
+ 

@@ -1,0 +1,20 @@
+1 
+ 
+ 
+ 
+Units:  All Precedent  
+Description:  Improved bolts  and flatwashers are now available to repair compressors found 
+with broken flange bolts.  
+  
+Service Procedure:  
+• If a broken flange bolts  are found inspect for excessive crankshaft radial play, if radial play is 
+OK, replace bolts and flatwashers. Use Kit 200286.  
+• If a compressor seal is being replaced install bolt update kit  
+Note:  Compressor crankshaft radial play (up/down movement) should be checked on any 
+compressor found with a broken flange bolt. Verify radial play is not excessive.  
+ Date:  January 13, 2025  
+Subject:  Bolt and washer kit now available to repair compressors found with broken flange 
+bolts  
+Location:  e-Tech Library    Service  Bulletin  
+  SB968 
+ 

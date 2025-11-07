@@ -1,0 +1,75 @@
+Technical Service Bulletin (TSB)
+Clicking Noise While In 4WD
+REFERENCE: TSB:  03-001-25
+GROUP:  03 - Differential and DrivelineDate: February 7, 2025 REVISION: 03-003-23
+VEHICLES
+AFFECTED:**2019** - 2023 (DJ) RAM 1500 Classic
+**2019** - 2023 (D2) RAM 3500 Pickup
+**2019** - 2023 (DD) RAM 3500 Cab Chassis
+**2019** - 2023 (DF) RAM 3500 10K LB. Cab Chassis
+**2019** - 2023 (DP) RAM 4500/5500 Cab Chassis
+**2019** - 2023 (DX) RAM Truck (Mexico)
+This bulletin applies to vehicles built on and before **October 22, 2023
+(MDH 1022XX)** equipped with Four Wheel Drive (Sales Code 5I4).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●Ratcheting, click, or clicking noise in 4WD while turning.
+CAUSE: Possible improperly machined front driveshaft
+This bulletin supersedes Technical Service Bulletin (TSB) 03-003-23, date of issue June 24, 2023,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+new model years and new build to date.
+REPAIR SUMMARY:
+This bulletin involves replacing the front driveshaft.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+16-30-01-9D Front Driveshaft -
+Replace
+(1 - Semi-Skilled)03 - Differential and
+Driveline0.7 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+NOTE: Use StarParts to determine which driveshaft to order according to VIN.
+Qty Part No. Description Notes
+1 (AR) 68305624AE Driveshaft, front DJ, D2, DD, DF, DX (VIN
+Specific)
+1 (AR) 68312648AE Driveshaft, front D2, DD (VIN Specific)
+1 (AR) 68368120A Driveshaft, front D2 (VIN Specific)
+1 (AR) 68312638AE Driveshaft, front DD (VIN Specific)
+1 (AR) 68312646AE Driveshaft, front DP (VIN Specific)
+Qty Part No. Description Notes
+1 (AR) 68368111AE Driveshaft, front DP (VIN Specific)
+1 (AR) 68312640AD Driveshaft, front DP (VIN Specific)
+4 (AR) 06509166AA Front Driveshaft to Front
+Axle BoltsDP
+1 (AR) 68433227AB Transfer Case Output
+Shaft Boot
+DIAGNOSIS:
+If the customer describes the symptom/condition listed above and indicated by proper maintenance records,
+perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. Start the vehicle. With 4WD system in 2WD mode and in a safe area, drive the vehicle between 1-5 MPH
+(1-8 KPH) while turning the steering wheel between ¼ turn and full lock.
+2. Is there a ratcheting/click noise heard from the front driveline?
+● YES>>> This bulletin does not apply. Normal diagnosis should be performed.
+● NO>>> Proceed to Step 3 .
+3. Place the 4WD system into 4WD high mode.
+CAUTION!
+Only perform the following diagnosis steps on low traction surfaces (e.g. grass, gravel, snow, or
+wet pavement). Performing these steps on dry pavement may produce false results.
+NOTE: The noise may be more detectable while turning to the left.
+4. In a safe area, drive the vehicle again between 1-5 MPH (1-8 KPH) while turning the steering wheel
+between ¼ turn and full lock. Is there a ratcheting/click noise heard from the front driveline?
+● YES>>> Proceed to Step 5 .
+● NO>>> This Bulletin does not apply. Normal diagnosis should be performed.
+5. Replace the front driveshaft, using new driveshaft bolts. Refer to the detailed service procedures listed
+in DealerConnect>Service Library under: 03 - Differential and Driveline / Driveshaft / Removal and
+Installation.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

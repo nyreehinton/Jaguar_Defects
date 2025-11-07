@@ -1,0 +1,17 @@
+Reference SSM76260
+Models Defender / L663
+Title Washer Fluid Leak Concen - 25MY Defender OCTA
+Category Body
+Last modified 29-Jan-2025 00:00:00
+Symptom 102000 Window/Glass
+Content Issue:
+Jaguar Land Rover are investigating a washer fluid leak concern on 25MY L663 OCTA vehicles.
+Cause:
+Under Investigation
+Action:
+The washer fluid leak is only detectable when filling the washer fluid reservoir to the maximum level.
+During the Pre-Delivery inspection (PDI) please ensure that the washer fluid reservoir is filled to the maximum
+level.
+Once filled, check for any fluid leaks as instructed in the PDI manual and investigate any leaks fully before
+releasing the vehicle to the client.
+anBhdHRlcnM7MjA yNS0wMS0yOVQxNT oyNT oyNy42NDJaOzE2NS4yMjUuOS45ODs=

@@ -1,0 +1,38 @@
+Involved Region or
+CountryUnited States, Canada and Mexico
+Additional RPO's  IVD, IVE, and IOK
+ConditionSome customers ma y comment that they are lock ed out of their
+radio due to a PIN being set. The customer ma y have forgotten
+their PIN. 
+Bulletin No.: PIT6328A
+Published date: 02/14/2025
+Preliminary Information
+PIT6328A Clearing Radio PIN From Vehicle With RPOs IVD, IVE, and
+IOK
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+All All 2022 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:
+Please contact T echline for assistance with programming to reset the PIN or P assword on
+the radio. 
+It will be done through the K56 Serial Data Gatewa y Module. Select Setup and VCI. 
+Version 2
+Performing this operation will cause all information in the radio to be deleted and will
+restore it to factory settings. 
+The customer will have to reconﬁgure their radio to their preferences after the reset. 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+*3486418 Resetting the radio due to being PIN lock ed 0.5 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+ 
+Version History
+Modiﬁed 01/30/2025 - Created On.   
+02/14/2025 - Changed Correction.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

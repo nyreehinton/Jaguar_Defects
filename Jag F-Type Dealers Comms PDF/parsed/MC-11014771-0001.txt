@@ -1,0 +1,32 @@
+ 
+SB-25-17-003  Page 1 of 1 
+For feedback on the accuracy of this document, email ServiceBulletinFeedback@tesla.com  
+ Tesla, Inc.  
+Service Bulletin  Replace Left Body Controller  
+SB-25-17-003  
+February  25, 2025  
+Classification  Section/Group  Mobile Service  Configuration  
+Campaign Bulletin  17 - Electrical  Can Perform (where 
+permitted)  All 
+Model  Model  Year  Country/Region  Build Location  
+Cybertruck  2024  United States, Canada  Giga Texas  
+The model(s) and model year(s) listed are a general approximation of the affected VIN list. Refer to the VIN/Bulletin Tracker or Customer/Vehicle profile to determine 
+applicability of this bulletin for a particular vehicle.  
+Campaign Bulletin: This campaign bulletin addresses a non -safety -related condition and provides recommended technical 
+diagnosis and repair procedures. Apply this procedure to the applicable vehicles.  
+Condition  
+On certain Cybertruck vehicles, the left body controller's printed circuit board was misaligned with its heatsink, which 
+may cause the board to crack when the enclosure is closed . This may lead to a graceful power -off event.  
+Correction  
+Replace the left  body  controller.  
+ NOTE:  If this bulletin is applicable to the vehicle, perform the correction without any need for inspection.  
+Correction Description  Correction  Time  
+Replace Left Controller  S01251700 3 0.84 
+  
+Part Number  Description  Quantity  
+Parts Required  1814265 -12-E MID VOLTAGE LEFT HAND CONTROLLER  1 
+ This part number was current at the time of publication. Use the revision listed or later, unless otherwise 
+specified in the Parts Catalog . 
+ 
+Procedure  
+Replace the left  body  controller (refer to Service Manual procedure 1715017032 ). 

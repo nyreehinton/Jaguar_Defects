@@ -1,0 +1,28 @@
+T-SB-0111 -20 Rev2  November 6, 2020  
+ 
+ECU Security Key Writing  
+Service 
+Category  Power Source/Network   
+ Section    Networking  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 1 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2022 - 2024  86, Corolla Cross, Tundra 
+HV  
+2024  Grand Highlander, Grand 
+Highlander HV, Highlander, 
+Highlander HV   
+2021 - 2024  Mirai, RAV4 Prime, Sienna 
+HV, Tundra, Venza HV   
+2023 - 2024  bZ4X, Corolla, Corolla Cross 
+HV, Crown, GR Corolla, 
+Mirai, Prius, Prius Prime, 
+Sequoia HV, Yaris   
+ 
+ 
+ OBSOLETE NOTICE  
+January  23, 2025: This bulletin is now obsolete. Please see T-SB-0011 -25. 

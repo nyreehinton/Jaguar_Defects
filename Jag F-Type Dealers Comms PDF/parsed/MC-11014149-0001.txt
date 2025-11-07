@@ -1,0 +1,67 @@
+Polestar   Service and Parts Business
+ T echnical Journal
+TITLE:
+First Y ear Policy: ERAD / TVDC
+REF NO:
+TJ 37196.1.0ISSUING DEPARTMENT:
+T echnical ServiceCAR MARKET:
+United States and Canada
+PARTNER:
+3 US 7515 PolestarISSUE DATE:
+2024-12-12STATUS DATE:
+2025-01-10
+FUNC GROUP:
+4632FUNC DESC:
+Electrical rear axis drive Page 1 of 2
+Produced and printed in the USA and available as an electronic document.
+© Polestar 2025DESCRIPTION:
+A new electrical powertrain ERAD / TVDC has been launched in model year 2025.
+During the first year of production of this new ERAD, we need to be aware of quality issues as quickly 
+as possible.
+For this reason, CMQ (Volvo Cars Central Quality Organization) must be contacted before performing 
+any repairs on the ERAD/TVDC unit.
+No ERAD/TVDC units shall be opened or replaced without approval or request from the CMQ.
+ERAD = Electric Rear Axle Drive
+TVDC = T orque Vectoring by Dual Clutch
+CSC   Customer Symptom Codes
+Code Description
+ZZ Power transmission/Component power transmission wrong installation/missing
+53 Driving, Twin Engine/Propulsion using electric motor not possible
+AJ Driving/Poor performance/lacks power
+AK Driving/Hesitates/surges/Unsure when/at all times
+AL Driving/Hesitates/surges/During acceleration
+AM Driving/Hesitates/surges/During deceleration
+BV Driving/Hesitates/surges/At steady speed
+7G T ext window and warning symbol/Yellow symbol and text message
+IV T ext window and warning symbol/T ext message
+8M Warning lights and chimes/Other warning/chime problems
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+Page 2 of 2 2025-01-10
+T echnical Journal 37196.1.0Code Description
+C4 Complete vehicle/Unusual noise/While driving
+8N Driving/Unusual noise/Unsure when/at all times
+F2 Driving/Unusual noise/During acceleration
+C3 Automatic transmission/Unusual noise
+D2 Front/rear axle/Unusual noise
+W2 Front/rear axle/Vibration/shake
+DTC   Diagnostic Trouble Codes
+Vehicle T ype
+T ype EngEng 
+DescSales Body Gear Steer Model Y ear Plant Chassis rangeStruc Week 
+Range
+359 2025-9999 - 202402-999952
+SERVICE:
+Please follow the information under Vehicle Report.
+  
+Warranty claim info:
+Claim requests may be rejected unless a vehicle report is created.
+Note that the TJ number must be stated in the repair order text.
+LABOR TIME:
+Labor time subject to change without notice.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report in all cases of ERAD/TVDC failure. Describe the customer’s 
+symptoms and the dealer’s observation carefully in detail.
+Use the concern area “Vehicle Report Polestar” and the sub-concern area “Support Needed 
+Polestar” for issues that require fault tracing assistance or a hardware replacement of the ERAD/
+TVDC.
+Use the sub-concern area “support Not Needed Polestar” for other issues, use function group 4632.

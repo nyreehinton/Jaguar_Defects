@@ -1,0 +1,95 @@
+Involved Region or
+CountryNorth America
+ConditionThis PI will explain the front drive unit and (or) rear drive unit
+(s) and their components are on restriction for above listed EV
+vehicles.   
+This program is to gather important feedback on these new
+drive units.  
+This document will be revised to remove vehicle model at time
+of restriction end for that vehicle at a later dates.
+CauseProduct teams continually seek valuable information for
+engineering improvements.  
+To assist in this eﬀort the restriction program will be used for
+this product.   
+It is imperative that freeze frame failure records be captured
+along with DTC's and not cleared. 
+Bulletin No.: PIP5981D
+Published date: 02/26/2025
+Preliminary Information
+PIP5981D EV Drive Unit/ internal components TAC Restriction
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Brightdr opZEVO 400 EV 2023 - 2025 All AllAll All
+Brightdr opZEVO 600 EV 2023 - 2025 All AllAll All
+Cadillac Escalade IQ EV 2025 All AllAll All
+Cadillac Optiq EV 2025 All AllAll All
+Cadillac Lyriq EV 2023 - 2025 All AllAll All
+Chevr olet Blazer EV 2024 - 2025 All AllAll All
+Chevr olet Equino x EV 2024 - 2025 All AllAll All
+Chevr olet Silverado EV WT 2024 - 2025 All AllAll All
+Chevr olet Silverado EV RST 2024 - 2025 All AllAll All
+GMC HUMMER EV 2022 - 2025 All AllAll All
+GMC HUMMER SUV EV 2024 - 2025 All AllAll All
+GMC Sierra Denali EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: S76, P76 and S77, P77 drive unit are on restriction along with all internal
+components at this time, reference EPC for most current part restriction status. 
+Correction:
+The vehicles listed above with EV front and/or rear drive units and their components are
+subject to restriction, which will be managed by the GM T echnical Assistance Center (T AC).
+To proceed, the servicing high-voltage-trained technician must provide detailed
+information, including customer comments, vehicle conditions, diagnostic trouble codes
+(DTCs), and any other relevant details.
+To request restricted components, dealerships are required to call T echnical Assistance
+(TAC). 
+Prior to calling T AC, please read through this entire document.  
+If diagnosis leads to replacement of one or more of the restricted components, please have
+all SI document numbers used during diagnosis available prior to contacting T AC.
+Note: Please attach the GDS2 session logs to the case per the lasted version of PIP5632  
+Do not clear codes until after you review the case with T AC. 
+Will need Serial number that is stamped in to the left side of the Drive unit. 
+TAC Telephone Number US 1-877-446-8227 (Action Center prompt or Hybrid prompt)
+Canada 1-800-263-7740 for English or 1-800-263-7960 for F rench
+Danger: Alwa ys perform the High V oltage Disabling procedure prior to servicing any High
+Voltage component or connection. Personal Protection Equipment (PPE) and proper
+procedures must be followed. 
+With the High V oltage Disabling procedure you will perform the following tasks:   
+   • Identify how to disable high voltage.
+   • Identify how to test for the presence of high voltage.
+   • Identify condition under which high voltage is alwa ys present and personal protection
+equipment (PPE) and proper procedures must be followed.
+Before working on any high voltage system, be sure to wear the following Personal
+Protection Equipment:   
+   • Safety glasses with appropriate side shields when within 50 feet of the vehicle, either
+indoors or outdoors.
+   • Certiﬁed and up-to-date Class "0" Insulation gloves rated at 1000V with leather
+protectors.
+   • V isually and functionally inspect the gloves before use.
+   • W ear the Insulation gloves at all times when working with the Drive Motor Battery
+assembly , whether the system is energized or not. F ailure to follow the procedures exactly
+as written ma y result in serious injury or death.
+   1. Perform the high voltage disable procedure at the drive motor generator control
+module assembly or cable connections. Refer to High V oltage Disabling in SI.  
+   2. Perform the high voltage enable procedure when the replacement drive unit
+is installed and ready to be test driven.
+Additional SI K eywords
+PIT5905, PIT5905A, PIP5858, PIP5858A, PIP5858B, PIT6019, PIP5931,
+Version History
+Version 5
+Modiﬁed05/15/2024 - Created on.  
+08/20/2024 Updated models.  
+11/25/2024 Updated models.  
+12/16/2024 - Updated Models.  
+02/19/2025 - Updated to remove IPE/T18/K107 from the
+search ﬁeld for BEV3 and  remove complete drive units
+and modules from T AC restriction BET platforms. 
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

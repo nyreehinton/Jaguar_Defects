@@ -1,0 +1,51 @@
+ 
+ Page 1 of 1 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4560 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004560 DS 25-04 
+Diagnostic Sheet  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+DATE : February  4, 2025 
+ 
+This Diagnostic Sheet serves as a guide and provides additional diagnostic info for possible  front suspension 
+anomalies.  
+ 
+SECTION: 06.10.1 Front suspensions  
+ 
+MODELS:  Ghibi (M157), Levante (M161) and Quattroporte (M156) (All 
+PROBLEM: noise from the front suspensions during maneuvering, on rough road and/or passing on bumps . 
+ACTION : In case of management of a technically compatible case , we ask to follow  to the below diagnostic path : 
+1. Perform a test drive to confirm the complaint  
+2. Check for excessive dirt build -up in the knuckle and bushing area ; without removing any components, wash the 
+front suspension lower arm joints with water.  
+Test the car pre and post drying to check if the noise is still present after this intervention:  
+• In case the noise is still present, go to next step 3.  
+• In case the noise is not present  anymore , the car could be delivered  
+3.  Check the status of lower suspension  arm bushings and ball joint , looking for evidences of abnormal freeplay and/or 
+damage:  
+• In case of trouble  found, proceed with lower suspension arm replacem ent and road test again the car to 
+confirm the repair outcome ; 
+• In case of no trouble found, go to next step 4. 
+NOTE: small  cracks on the bushing ’s rubber  and/or signs of wear are the consequence of normal use of the vehicle 
+and component  aging , they do not imply functionality problems and do not cause noise.  
+4.  Restore the two lower arm bushings fixings: unscrew of abou t 360° and re -screw them at nominal torque value : 
+• M161 -LEVANTE= 265Nm;  
+• M15x -GHIBLI and QUATTROPORTE = 140 Nm;  
+ 
+ 
+5.   Test drive the vehicle and see if the noise has been resolved.  
+If, according to the  current Blue on Line Policy, it is necessary to open a report, send it as Factory Information  and in 
+reference to this Technical release  providing the outcome of the suggested diagnostic steps.  
+ 
+Noise from the front suspensions while 
+maneuvering  

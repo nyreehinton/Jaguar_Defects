@@ -1,0 +1,197 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-113
+Service BulletinDate: February, 2025
+INFORMATION
+Vehicle Wide Programming Instructions
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+CadillacEscalade IQ 2025 2025
+— — — —Escalade 2025 2025
+LYRIQ 2023 2025
+OPTIQ 2025 2025
+VISTIQ 2026 2026
+XT4 2024 2024
+ChevroletBlazer EV 2024 2025
+Colorado 2023 2023
+Equinox EV 2024 2025
+Silverado EV 2024 2025
+Suburban 2025 2025
+Tahoe 2025 2025
+GMCCanyon 2023 2023
+Hummer EV SUV
+2022 2025
+Hummer EV Pickup
+Sierra EV 2024 2025
+Yukon 2025 2025
+Yukon XL 2025 2025
+Involved Region or CountryNorth America, Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru,
+Uruguay, Venezuela, Europe, Russia, Middle East, Iraq, Israel, Palestine, Japan, Cadillac
+Korea (South Korea), GM Korea Company, China, Taiwan, Thailand, Singapore,
+Philippines, Australia/New Zealand, Egypt, Other Africa, South Africa
+ConditionSome customers may receive a field action indicating the use of programming.
+GM’s latest electrical architecture design contains a significant number of Electronic
+Modules that may require software updates.
+These software updates are important to not only fix issues, but also enhance the vehicle
+functions. 
+As opposed to programming modules individually, Vehicle Wide Programming (VWP)
+allows technicians to select a single button to program all modules to their latest
+version in parallel reducing overall programming time.
+Cause The cause of the condition may be software anomalies or to update out of date software.
+Correction Technicians are to utilize SPS2/SPS3 (VWP) on Techline Connect to check for updates.Subject:
+Service Procedure
+Note: The use of Vehicle Wide Programming (VWP) should only be attempted at the direction of Field Action, or to
+correct software anomalies, unless the vehicle is specifically covered by the latest version of Bulletin 24-NA-143
+(Software Update on Ultium Vehicles).
+Page 2 February, 2025 Bulletin No.: 24-NA-113
+Important: If ANY module is replaced, program and setup the single module first in SPS2 prior to Vehicle Wide
+Programming.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Caution: Before downloading the update files, be sure the computer is connected to the internet through a network
+cable (hardwired). DO NOT DOWNLOAD or install the files wirelessly. If there is an interruption during programming,
+programming failure or control module damage may occur.
+Description:
+Vehicle Wide Programming (VWP) is a new process to update software on GM Vehicles. It provides the ability via a
+single selection within Techline Connect to first identify which modules need updating and then proceed to updating
+affected modules (with some exceptions). The updating of modules is completed in parallel instead of forcing the
+technician to update one module at a time. This allows a more streamlined approach reducing technician time and
+number of required steps.
+• Ensure the programming tool is equipped with the latest software and is securely connected to the data link
+connector. If there is an interruption during programming, programming failure or control module damage
+may occur .
+Note: Vehicle Wide Programming will only work with a wired MDI2 connection. It is also necessary to remove any
+wireless dongles from the computer being used as these will not allow the Vehicle Wide Programming to be
+selectable. If the Vehicle Wide Programming is not selectable with a wired MDI2, confirm it shows disconnected in
+SPS2 and then (if needed) exit out of SPS2 and log-in again.
+• Stable battery voltage is critical during programming. Any fluctuation, spiking, over voltage or loss of voltage will
+interrupt programming. Install a GM Authorized Programming Support Tool to maintain system voltage. Refer to
+www.gmdesolutions.com for further information.  If not available, connect a fully charged 12V jumper or booster
+pack disconnected from the AC voltage supply. DO NOT connect a battery charger.
+• Follow the on-screen prompts regarding ignition power mode, but ensure that anything that drains excessive
+power (exterior lights, HVAC blower motor, etc) is off.
+• Clear DTCs after programming is complete. Clearing powertrain DTCs will set the Inspection/Maintenance (I/M)
+system status indicators to NO.
+• If the VIN that shows up in the TLC top center window after correctly reading the VIN from the vehicle does not
+match the VIN plate of the vehicle, manually type in the VIN characters from the vehicle VIN plate into the TLC
+top center window and use these for programming or reprogramming the subject module with the correct vehicle
+VIN and software and/or calibrations.
+Important: The service technician always needs to verify that the VIN displayed in the TLC left side drop down
+menu and the top center window match the VIN plate of the vehicle to be programmed prior to using Service
+Programming System 2 (SPS2) for programming or reprogramming a module.
+Bulletin No.: 24-NA-113 February, 2025 Page 3
+6851759
+1. Prior to starting any programming, all aftermarket devices should be removed from the DLC and USB devices
+disconnected from the USB ports. Open SPS2 and enter job card number, then click next.
+2. To complete a VWP event, click on the blue button on the right side. If unable to select, verify wired MDI2
+connection and that there are no wireless dongles in the computer as stated above.
+6851760
+Page 4 February, 2025 Bulletin No.: 24-NA-113
+6851761
+3. A SPS3 page will open and VWP will begin.
+Below is a description of each Techline Connect bar.
+•Retrieving Data from Vehicle:  During this step, Techline Connect is retrieving current software information
+from the vehicle.
+•Retrieving Data from Sever:  Utilizing the VIN information, Techline Connect is retrieving the latest software
+information from General Motors.
+Bulletin No.: 24-NA-113 February, 2025 Page 5
+6851762
+4. Once complete, a software status summary screen will appear. This will list all modules that are up to date or
+may require to be updated still. It will also advise of any modules that are not supported in VWP or modules that
+failed to communicate. While it is saved automatically, it is recommended for the tech to print/capture the
+summary. To complete a VWP event, click on the blue button on the right side.
+Page 6 February, 2025 Bulletin No.: 24-NA-113
+6851763
+Bulletin No.: 24-NA-113 February, 2025 Page 7
+6851766
+5. A VWP progress page will open and a VWP event will begin. Below is a description of each Techline Connect
+bar.
+•Downloading:  Downloads required files for installation
+•Programming: Installing updated software into the modules.
+•Verifying Update: Performs final part comparison to verify programming completion.
+Page 8 February, 2025 Bulletin No.: 24-NA-113
+6851768
+Bulletin No.: 24-NA-113 February, 2025 Page 9
+6851770
+6. Once complete, a Vehicle-Wide Programming Summary screen will appear, and a warranty claim code will
+populate. This will list all modules that are up to date or may require to be updated still. Any failures will be
+shown at the top highlighted in red. The summary screen will also advise of any failures. While it is saved
+automatically, it is recommended for the tech to print/capture anything noted as failed or out of date before
+exiting the screen.
+VWP Original
+Calibration StatusNew VWP2 Calibration Status
+Success/Blocked Up to Date
+Partial Not Fully Up to Date
+Failed Failed
+Important: If a failed programming event happens, VWP should be repeated one time prior to utilizing SPS 2 to
+program the affected Module(s). A separate warranty code will be displayed.
+• For all Modules that are not supported by VWP (see step #4), complete their programming utilizing SPS2 appli-
+cation.
+7. Use GDS2 to clear any DTCs after successfully programming.
+Note: The screenshots above are an example of module programming and may not be indicative of the specific
+module that is being programmed. Module selection and VIN information have been blacked out.
+Important: To avoid warranty transaction rejections, you MUST record the warranty claim code provided on the
+Warranty Claim Code (WCC) screen shown above on the job card.
+Note: If either of the following errors are received, this indicates a Techline connection concern. The recommended
+course of action is to exit from TLC completely and try again. If either failure persists, reboot the machine.
+Page 10 February, 2025 Bulletin No.: 24-NA-113
+Performing a Field Action
+Important: A "Status Up to Date" message must be displayed in order to close out the Field Action. Any other status
+will NOT  satisfy the Field Action and the Field Action will NOT  close out.
+1. It may be required to update a module through standalone programing “SPS2” in this case the technician must
+come back to the vehicle software status screen to receive an up-to-date warranty claim code.
+2. Perform Vehicle-Wide Programming (VWP) process as outlined.
+• If all modules are up to date, please follow the warranty claim code retrieval process as outlined in the
+Warranty Information section.
+• If any module did not program or is not up to date, and is supported in VWP, attempt Vehicle-Wide
+Programming a second time.
+− If all modules are up to date, please follow the warranty claim code retrieval process as outlined in the
+Warranty Information section.
+− If a module still has a failure or is not up to date after this second try, use SPS2 to attempt to program and
+diagnose as needed. In this case the technician must come back to the vehicle software status screen to
+receive a up-to-date warranty claim code. Once completed, please follow the warranty claim code retrieval
+process as outlined in the Warranty Information section.
+Important: A field action will only close if all modules are shown as up to date through a programming attempt.
+Warranty Information
+Labor Operation
+For information on submitting Vehicle Wide Programming field action claims, please refer to Warranty Administration Bulletin
+(24-NA-132 ).
+Warranty Claim Code Information Retrieval
+6693763
+If the Warranty Claim Code was not recorded on the Job Card, the code can be retrieved in the SPS2 system as
+follows:
+1. Open TLC on the computer used to program the vehicle.
+2. Select and start SPS2.
+3. Select Settings (1).
+4. Select the Warranty Claim Code tab (2).
+Bulletin No.: 24-NA-113 February, 2025 Page 11
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONThe VIN, Warranty Claim Code and Date/Time will be listed on a roster of recent programming events. If the code is
+retrievable, dealers should resubmit the transaction making sure to include the code in the SPS Warranty Claim
+Code field.
+Version 9
+Modified Released July 12, 2024
+Revised July 19, 2024 – Updated Warranty Information.
+Revised July 29, 2024 - Revised to add the Cadillac XT4 and GMC Sierra EV, the first
+note under Service Procedure, and revised the Warranty Information Section.
+Revised October 18, 2024 – Added 2025 Model Year and Models.
+Revised November 15, 2024 – Under Performing a Field Action Step 1 and adjusted
+Models and Involved Regions.
+Revised December 06, 2024 – Added 2025 Chevrolet Blazer EV and Cadillac OPTIQ.
+Revised January 02, 2025 – Updated information under Service Procedure.
+Revised January 10, 2025 – Added Europe to Involved Region and Country section and
+revised Step 1 under the Service Procedure.
+Revised February 26, 2025 – Added the 2026 Cadillac VISTIQ, updated the Involved
+Region or Country section, Cause section, steps in the Service Procedure and the first
+Important statement under Performing a Field Action.

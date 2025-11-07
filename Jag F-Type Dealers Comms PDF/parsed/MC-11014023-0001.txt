@@ -1,0 +1,163 @@
+SERVICEBULLETIN
+2025-01-27 M1666
+M1666:SKYLINE OSVERSION 4125DSOFTWAREUPDATE
+Reason forRevision
+RefertoTable1.
+Table1.Document History
+Revision (Rev)Description Rev Date
+Initialrelease - 2025-01-27
+Purpose forService Bulletin
+NOTE
+Service Bulletin M1666supersedes M1635.Repairs made
+tovehicles afterJanuary 27th,2025following M1635will
+notbeaccepted through warranty .Warranty claimson
+repairsmadepriortoJanuary 27th,2025willbeaccepted
+following standard claimsubmission policyandprocess.
+ThisbulletininformsdealersthatthereisaSkylineOSsoftware
+updateforthe2023and2024Touringvehicles equipped with
+anInfotainment ControlUnit(IFCU).Thissoftware update
+(260004125D) willbring2023and2024IFCUequipped vehicles
+tothemostuptodatesoftware version.Thisupdateshouldbe
+performed onbikesexhibiting concerns covered intherelease
+notestobecovered underwarranty .
+Thesoftware updatewilladdfeatures andaddress aseriesof
+bugswithin2023and2024vehicles equipped withtheSkyline
+OS.
+Thisupdatecanbeappliedtoallcurrentsoftware versions:
+240001467D, 240002100D, 2400021 11Dand240002237D.
+Thisisamulti-step software updatethatalsocontains thelatest
+Amplifier software version(1.5.4.0). Thisupdateaddresses
+potential lockupsandotherupdateprocess issues,butthe
+software mustbefullyinstalled forthechanges totakeeffect.
+Followtheprovided supportinformation toaddress anyissues
+thatmaybeencountered duringtheupdate.
+Thissoftware updateisavailable onServiceInformation Portal
+(SIP)whereitcanbedownloaded andinstalled bythecustomer
+anddealerattheirconvenience.
+Fixesvs.Enhancements -WhatisCovered
+UnderWarranty
+Forsoftware updatescompleted toaddressacustomer concern
+listedinthe“Fixes”sectiononmotorcycles withintheLimited
+Warrantyperiod,pleasefileaWarrantyclaimforcompleting
+theworkandnotethecustomer ’sconcern inthecomments
+sectionoftheclaim.Allotherupdates tocustomer-owned motorcycles whichare
+notperformed toaddress anissueinthe“Fixes”sectionand/or
+arenotperformed toaddress partsfoundundernormaluseto
+bedefective infactorymaterials orworkmanship, arenoteligible
+foraWarrantyclaim.VehiclesoutsideoftheLimitedWarranty
+periodarenoteligibletohavethissoftware updatecovered
+underwarranty .
+Pre-Delivery Updates
+Allnewandunsoldunitsinyourinventory shouldbeupdated
+tothissoftware priortobeingsoldanddelivered.
+Release Notes
+Fixes:
+•Software updateprocess operation.
+•Battery drainpotentially caused byIFCUresponse to
+customer interaction withthemotorcycle whenitshouldbe
+inanoff-powerstate
+•Subwoofer Gainadjustment functionality
+•Intermittent CarPlay connection andinteraction
+•Intermittent mixeddisplayHighContrast/Dark Mode
+•Intermittent accessanddisplayofmainmenuandwidgets
+•Intermittent audioplayback interruption afteran
+announcement orprompt
+•Intermittent lossofaudiodueduringalowbatteryvoltage
+enginestart
+•Navigation notenabling correctly afterpurchase of
+embedded navigation
+•Lossofaudioormenunotloadingafterignitioncycle
+•GlobalPositioning System(GPS)locationnotupdating after
+quickignitioncycle
+Enhancements:
+•TripA/Bwidgetaccuracy
+•Intermittent incorrect displaying ofDiagnostic TroubleCode
+(DTC)U148983
+•OriginalEquipment (OE)audioconfiguration sound
+AddedFeatures:
+•MapZoomin/outwithLeftHandControlModule(LHCM)
+up/down buttonsonDirectional Pad
+•PartsandAccessories (P&A)Audiocontent(addedspeaker
+StagelevelsandSubwoofer autodetect)
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE
+•Enables OverTheAir(OTA)updates
+Required DealerAction
+Table2.Required DealerAction
+Required Description Category
+MustPerform Repair 1
+RepairIfPresenting Symptom 2
+FeaturePack-
+Customer/Dealer Paid3
+Informational Purposes Only 4
+NOTE
+Ifsoftware intheIFCUandamplifier arethelatestsoftware, no
+updateisneeded.
+Repeating updates onvehicles thathavealreadybeendone,
+willnotbepaid.
+CheckAmpsoftware versionontheIFCU,usethefollowing
+menupath:SETTINGS >SYSTEM >SYSTEM INFO>
+PRODUCT INFORMA TION
+NOTE
+Whendoingmultiplevehicles, noticethatadditional foldersare
+beingaddedtotheUniversal SerialBus(USB)drivesbythe
+IFCU.Thisisnormalandthoseemptyfoldersdonotaffectthe
+updateprocess fromvehicletovehicle.
+UPDATEPREPARATION
+1.Remove alloldersoftware updates frompreviously used
+USBdrives.Itisrecommended toreformat thosedrivesto
+theproperexFATformattoensurethecorrectformatand
+thatallfilesareremoved fromthedrive.FollowUSBDrive
+BestPractices toensurecorrectfilesanddrivesetup.Refer
+to:Infotainment ControlUnit(IFCU)Support Resources .
+2.Download software filesforUSB1andUSB2.
+3.Unzipfilesfromdownloads forUSB1andUSB2totheroot
+directory oftherespective files.
+4.Thesedriveswillthenbeusedtoupdatevehicles going
+forward.
+UPDATESOFTWARE
+Forstepbystepinstructions onthesoftware update,Referto:
+Infotainment ControlUnit(IFCU)Support Resources .
+CONFIRM UPDATE
+OncebothUSBshavebeeninstalled andcompleted, navigate
+totheIFCUmenutoconfirmIFCUsoftware versionisreading
+260004125D andAmplifier isreading1.5.4.0
+VehiclesAffected
+2023:CVOStreetGlide(FLHXSE), CVORoadGlide
+(FLTRXSE)
+2024:StreetGlide(FLHX), RoadGlide(FLTRX),CVOStreet
+Glide(FLHXSE), CVORoadGlide(FLTRXSE), CVORoad
+GlideST(FLTRXSTSE)Markets Affected
+Allmarkets affected.
+PartNumbers
+RefertoTable3.
+Table3.PartNumbers
+MarketItemDescrip-
+tionPartNo. ModelYear
+DOM IFCU 70901090 2023
+HDI IFCU 70901092 2023
+ROW IFCU 70901093 2023
+DOM IFCU 70901090A 2024
+HDI IFCU 70901092A 2024
+ROW IFCU 70901093A 2024
+CreditProcedure
+NOTE
+Forvehicles withinfactorywarranty ,submitawarranty claim
+perTable4.
+Table4.Skyline OSVersion4125DSoftware Update
+DATA ITEM
+PRD/MC/DEM -
+PDI/Standard claimClaimType
+RefertoTable3.Problem PartNumber
+LeaveBlank Quantity
+1759 PrimaryLaborCode(1)
+1hours LaborTime
+9203 Customer Concern Code
+1759 Condition Code
+(1)Download mayberequired
+2/2 M1666

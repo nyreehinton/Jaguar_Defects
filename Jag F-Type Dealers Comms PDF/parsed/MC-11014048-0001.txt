@@ -1,0 +1,46 @@
+Involved Region or
+CountryNorth America
+ConditionA customer ma y comment of a shudder / vibration / rattle noise
+occurring shortly after starting the vehicle. 
+This noise will be most noticeable on a restart after the vehicle
+has been shut oﬀ for 10-15 minutes and the noise will be very
+short in duration (2-5 seconds) and lik ely not repeat during a
+drive cycle.
+Cause Under Investigation.
+Bulletin No.: PIC6592
+Published date: 02/3/2025
+Preliminary Information
+PIC6592 Shudder Vibration Rattle Noise Shortly After Starting
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+Review the attached ﬁle below , if the concern is similar to the noise heard , Engineering is
+currently investigating.
+The PI will be updated or replaced with TSB once a determination has been made. 
+SI Video SIO 6828017. 
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor
+OperationDescriptionLabor
+Time
+*4486268Conﬁrm customer concern noise utilizing audio ﬁle attached to
+PI.0.3 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed  02/03/2025 - Created on. 
+Version History
+ 
+ 
+Attachments
+vid 2.mp4
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

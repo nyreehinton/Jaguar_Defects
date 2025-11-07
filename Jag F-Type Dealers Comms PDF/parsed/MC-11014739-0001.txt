@@ -1,0 +1,101 @@
+Technical Service Bulletin (TSB)
+Flash: Powertrain Control Module (PCM) Updates
+REFERENCE: TSB:  18-008-25
+GROUP:  18 - Vehicle PerformanceDate: February 28, 2025 REVISION: 18-050-24 REV. B
+VEHICLES
+AFFECTED:2024 (JL) Jeep Wrangler
+This bulletin applies to vehicles built on and before August 16, 2024
+(MDH 0816XX) equipped with the 3.6L V6 VVT Engine Upgrade 1 (Sales
+Code ERC).MARKET APPLICABILITY:
+NA
+SA
+EE
+IAPCH
+**MEA
+**
+CUSTOMER
+SYMPTOM:Customers must experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle must
+exhibit/set one or more of the following Diagnostic Trouble Codes (DTCs):
+●P0032 - O2 - Sensor 1/1 Heater Circuit High.
+●P0038 - O2 - Sensor 1/2 Heater Circuit High.
+●P0052 - O2 - Sensor 2/1 Heater Circuit High.
+●P0058 - O2 - Sensor 2/2 Heater Circuit High.
+●P1129 - Closed Loop Fueling Not Achieved-Banks 2 Upstream.
+●P0152 - O2 Sensor 2/1 Circuit High.
+●P0158 - O2 Sensor 2/2 Circuit High.
+●P2504 - Charging System Output High.
+●P0563 - System Voltage High.
+Customers may also comment on one or more of the following:
+●Vehicle runs rough.
+●"Service Transmission” message on in the Instrument Panel Cluster (IPC) due to clutch slip detection with
+the transfer case in neutral.
+●During flat tow - Transfer case mis-shift (engine running and clutch pedal up, transmission in gear).
+Other software enhancements included:
+●Improvements to address vehicle no starts after replacing the PCM.
+●O2 heater crack improvements.
+●OBD software changes.
+CAUSE: PCM software
+This bulletin supersedes Technical Service Bulletin (TSB) 18-050-24 REV. B, date of issue September
+05, 2024, which should be removed from your files. All revisions are highlighted with **asterisks** and
+include a new market.
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 24-109,
+date of issue August 01, 2024. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+REPAIR SUMMARY:
+This bulletin involves reprogramming the PCM with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-19-06-AU Module, Powertrain
+Control (PCM) - Inspect
+Software Level
+(0 - Introduction)1 - Engine Repair And
+Performance0.2 Hrs.
+18-19-06-AW Module, Powertrain
+Control (PCM) - Inspect
+and Reprogram
+(0 - Introduction)1 - Engine Repair And
+Performance0.3 Hrs.
+Failure Code RF Required Flash
+CC Customer Concern
+The dealer must use failure code CC with this Technical Service Bulletin.
+● The “RF” failure code is required for essential module flash/reprogramming and can only be used after
+confirmation that the VIN is included on the RSU.
+● The failure code “RF” (Required Flash) can no longer be used on Technical Service Bulletin flashes. The
+“RF” failure code must be used on an RSU.
+● If the customer’s concern matches the SYMPTOM/CONDITION identified in the Technical Service Bulletin,
+failure code CC is to be used. When utilizing this failure code, the 3C’s must be supplied.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If DTCs or symptom conditions, other
+than the ones listed above are present, record the issues on the repair order and repair as necessary before
+proceeding further with this bulletin.
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptoms listed above in the customer symptom section, perform the Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –B18 FSAR-TSB-5174 -2-
+REPAIR PROCEDURE:
+NOTE: Install a battery charger to ensure battery voltage does not drop below 13.2 volts. Do not allow
+the charging voltage to climb above 13.5 volts during the flash process.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+1. Is the vehicle on the RSU VIN list?
+● YES >>> Proceed to Step 2 .
+● NO >>> Proceed to Step 3 .
+2. Does the PCM have the latest software already installed?
+● YES >>> This bulletin has been completed, use Inspect LOP (18-19-06-AU) to close the active RSU.
+● NO >>> Proceed to Step 3 .
+3. Reprogram the PCM with the latest available software. If issues arise when flashing a module using the
+wiTECH Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within
+the Help menu.
+4. Did any of the following DTCs P0032, P0052, P0058 or P0038  return?
+● YES >>> Proceed to Step 5 .
+● NO >>> Proceed to Step 6 .
+5. Refer to all applicable published DTC diagnostics, repair procedures and labor times depending on which
+DTCs P0032, P0052, P0058 or P0038  have returned, available in DealerCONNECT/Service Library.
+6. Clear all DTCs that may have been set in any module due to reprogramming. The wiTECH application will
+automatically present all DTCs after the flash and allow them to be cleared.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- B18 FSAR-TSB-5174

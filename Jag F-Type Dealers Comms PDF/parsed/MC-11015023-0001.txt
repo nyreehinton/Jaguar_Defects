@@ -1,0 +1,44 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+FCA  US LLC                                           Version 4.4 11/05/2021 
+ 
+Case Number : S2123000084  Rev. A  
+ 
+Release Date:  February 2025  
+ 
+Symptom/Vehicle Issue :  1st Row Seat Belt Retractor D -Ring Is Binding And Not 
+Able To Rotate  
+ 
+Diagnosis : The customer may find that the 1st row seatbelt is binding and not able to 
+rotate freely. The issue  may be caused by  the nut for the Adjustable Turning L oop ATL 
+(commonly referred to  as the D -Ring).  
+ 
+ 
+Repair Procedure:  You will need to replace the D-Ring retaining nut, Part #:  
+06509460AA.   
+ 
+1. Remove the appropriate upper B -pillar trim and position aside.  Follow Removal 
+instructions in Service Library.  
+ 
+2. Remove the front seat belt turning loop nut from the front seat belt adjustable 
+turning loop (ATL).  
+ 
+3. Rotate D -ring on ATL stud to ensure D -ring can rotate  
+ 
+4. Obtain  a new nut. Place the new replacement nut on the stud and tighten down 
+using torque specifications provided in Service Library.  
+ 
+5.  Re-install upper B -pillar trim . Follow Instillation instructions in Service Library.  
+ 
+Verification:  Verify the D -ring can now rotate freely.   
+ 

@@ -1,0 +1,177 @@
+ 
+ Page 1 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4558 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004558 DS 25-03 
+Diagnostic Sheet  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+ 
+ 
+DATE : February  4, 2025 
+ 
+ 
+This Diagnostic Sheet  serves as a guide and provides additional diagnostic info for possible  MC20 
+gearbox  anomalies  and possible lower -level repair now available.  Maserati also introduced a new 
+Procedure available through  the MDEVO called  “DCTM Service Fast Learn ”. This  new routine could 
+be used to address issues related to sticky valve and performs a purge cycle and a valve 
+readaptation to address pressure related issues.  
+ 
+SECTION:  03.10 - 1 GEARBOX HOUSINGS  
+ 
+MODEL:  M240 MC20 & MC20 Cielo from MY23 (on MY22 the DCTM Service Fast Learn procedure is not available 
+due to a technical constraint related to DTCM SW version)  
+ 
+CONCERN : Gearbox warning light on and storage in DCTM of one or multiple of the following DTCs.  
+ 
+DTC Type  DTC Code  DTC naming SAE_J2012  
+1 P0746  Pressure Control Solenoid "A" Performance/Stuck Off  
+1 P0747  Pressure Control Solenoid "A" Stuck On  
+1 P0776  Pressure Control Solenoid "B" Performance/Stuck Off  
+1 P0777  Pressure Control Solenoid "B" Stuck On  
+1 P0796  Pressure Control Solenoid "C" Performance/Stuck Off  
+1 P0797  Pressure Control Solenoid "C" Stuck On  
+1 P080E  Transmission System Pressure Relief Valve Performance  
+1 P0867  Transmission Fluid Pressure  
+1 P0868  Transmission Fluid Pressure Low  
+1 P0869  Transmission Fluid Pressure High  
+1 P2714  Pressure Control Solenoid "D" Performance/Stuck Off  
+1 P2715  Pressure Control Solenoid "D" Stuck On  
+1 P2723  Pressure Control Solenoid "E" Performance/Stuck Off  
+1 P2724  Pressure Control Solenoid "E" Stuck On  
+1 P2808  Pressure Control Solenoid "G" Performance/Stuck Off  
+1 P2809  Pressure Control Solenoid "G" Stuck On  
+1 P2817  Pressure Control Solenoid "H" Performance/Stuck Off  
+1 P2818  Pressure Control Solenoid "H" Stuck On  
+1 P2853  Clutch "A" Pressure Discharge Performance  
+1 P2854  Clutch "B" Pressure Discharge Performance  
+1 P2855  Clutch "A" Pressure Charge Performance  
+1 P2856  Clutch "B" Pressure Charge Performance  
+1 P2A18  Limited Slip Differential Pressure Too High  
+1 P2A19  Limited Slip Differential Pressure Too Low  
+2 P07E4  Unable to Engage Park  
+2 P07E6  Stuck in Park  MC20 – Gearbox diagnosis and repairability  
+ 
+ Page 2 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4558 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  2 P2820  Pressure Control Solenoid "J" Performance/Stuck Off  
+2 P2821  Pressure Control Solenoid "J" Stuck On  
+2 P08C4  Pressure Control Solenoid "M" Performance/Stuck Off  
+2 P08C5  Pressure Control Solenoid "M" Stuck On  
+2 P27B9  Pressure Control Solenoid "N" Performance/Stuck Off  
+2 P27BA  Pressure Control Solenoid "N" Stuck On  
+2 P27C1  Pressure Control Solenoid "P" Performance/Stuck Off  
+2 P27C2  Pressure Control Solenoid "P" Stuck On  
+2 P27C9  Pressure Control Solenoid "R" Performance/Stuck Off  
+2 P27CA  Pressure Control Solenoid "R" Stuck On  
+2 P27D1  Pressure Control Solenoid "S" Performance/Stuck Off  
+2 P27D2  Pressure Control Solenoid "S" Stuck On  
+2 P2829  Pressure Control Solenoid "K" Performance/Stuck Off  
+2 P282A  Pressure Control Solenoid "K" Stuck On  
+2 P284D  Shift Fork "A" Unrequested Movement  
+2 P284E  Shift Fork "B" Unrequested Movement  
+2 P284F  Shift Fork "C" Unrequested Movement  
+2 P2850  Shift Fork "D" Unrequested Movement  
+2 P286A  Shift Fork "E" Unrequested Movement  
+2 P072B  Stuck In Reverse  
+2 P072C  Stuck in Gear 1  
+2 P072D  Stuck in Gear 2  
+2 P072E  Stuck in Gear 3  
+2 P072F  Stuck in Gear 4  
+2 P073A  Stuck in Gear 5  
+2 P073B  Stuck in Gear 6  
+2 P073C  Stuck in Gear 7  
+2 P073E  Unable to Engage Reverse  
+2 P073F  Unable to Engage Gear 1  
+2 P074A  Unable To Engage Gear 2  
+2 P074B  Unable To Engage Gear 3  
+2 P074C  Unable To Engage Gear 4  
+2 P074D  Unable To Engage Gear 5  
+2 P074E  Unable To Engage Gear 6  
+2 P074F  Unable To Engage Gear 7  
+2 P07D7  Stuck in Gear 8  
+2 P07D8  Unable To Engage Gear 8  
+2 P1CAD  Gear Shift Actuator 1 Disengage Failure  
+2 P1CAE  Gear Shift Actuator 2 Disengage Failure  
+2 P1CAF  Gear Shift Actuator 3 Disengage Failure  
+2 P1CB1  Gear Shift Actuator 1 Engage Failure  
+2 P1CB2  Gear Shift Actuator 2 Engage Failure  
+2 P1CB3  Gear Shift Actuator 3 Engage Failure  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 3 of 3 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4558 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com  Diagnos tic Action  
+ 
+Please refer to the diagnostic path  belo w: 
+ 
+1) Read DTCs stored in DCTM (save a complete vehicle scan report DTC+ Parameters)  
+2) If DTCs stored in DCTM are included in the above table, perform the diagnostic procedure.  
+DCTM → Procedures → DCTM Service Fast Learn  
+3) Road test the car and check if the complained anomaly and related DTCs could be reproduced.  
+• If the anomaly does not appear anymore, replace Gearbox oil and filter, road test again the 
+car and in case of good outcome the car could be delivered back to the customer.  
+• If the anomaly and DCTM DTCs appear again, save a complete vehicle scan report DTC+ 
+Parameters.  
+- If DTC stored in DCTM is classified as Type1 (according to the above table), go to Step 4) 
+- If DTC stored in DCTM is classified as Type2 (according to the above table), go to Step 5) 
+4) Replace Mechatronic Assembly + gearbox Oil and filter (component #54 in table 03.10.1 Gearbox 
+housings).  
+After installing the new parts, perform again the diagnostic procedure DCTM → Procedures → DCTM 
+Service Fast Learn.  
+Road test the car and check if the complained anomaly and related DTCs could be reproduced.  
+• If the anomaly does not appear anymore, the car could be delivered back to the customer.  
+• If the anomaly and DTCs appear again, the complete Gearbox needs to be replaced (save 
+a complete vehicle scan report DTC+ Parameters).  
+5) Perform and record in pdf an acquisition of below indicated DCTM parameters to identify the causal 
+component.  
+1F35 - System Pressure Sensor Raw with Zero Correction  
+1EFA - System Pressure Sensor Raw  
+1F37 - System Pressure Target  
+NOTE:  System Pressure should maintain between 20 and 30 bar of pressure when the engine is running 
+or driving the car, the “commanded” pressure will vary in this range depending on torque requirements. 
+For diagnostics we look for pressure oscillation or frequen t pressure drops below 5 bar indicating the 
+system pressure control valve is having trouble maintaining stable pressure.  
+• If the System Pressure is stable, the complete Gearbox needs to be replaced.  
+• If the System Pressure is unstable, go to Step  4) 
+It is required to open a Blue on Line as Support Request by providing evidence and step by step outcome 
+of the above indicated diagnosis.  
+REPAIR NOTE:  In case of Mechatronic Assembly replacement, only screws PN 673016908 (component #55 
+in table 03.10.1 Gearbox housings) they do not necessarily need to be replaced but they can be re 
+installed.  
+Please do not hesitate to contact us for any questions you may have.  
+Kind regards,  
+ 
+TECHNICAL SERVICE OPERATIONS  
+ 

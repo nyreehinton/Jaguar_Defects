@@ -1,0 +1,22 @@
+Hino’s Annual DC206 Buyback Return – The due date to 
+complete entry of the DC206 Buybac k return for Hino dealers is closing 
+in. February 28this the last day for dealers to create the returns, using 
+their annual buyback dollars. The balance of  the eligible return amount is 
+shown at the top right of the screen in DC203. Returns are due at the PDC – Southaven by March 15. Any returns not received by March 15 
+will be zeroed and no credit will be gi ven. The program will re-open for 
+the next year by April 15.
+Core Bank Item Ages – Hino allows for exchange of core items for 
+up to 365 days since date of purchase. To ensure eligibility is not lost, 
+due to expiration of cores, dealers s hould be careful to always select the 
+oldest core credit line listed for eac h core part number requested. DCS-
+XT has made the process easy by allowi ng for users to sort by column in 
+the DC209 Return of Exchange Items screen by clicking on the column 
+header. Sorting by Date Due and then by Core Item organizes the 
+process of creating core return RMA’s.
+Vin Label Request Procedure – The procedure of requesting vin 
+label replacements for Hino units c an be located in Hinonet. There is a 
+quick link to the procedure, which in cludes the form needed for request, 
+in the Hino Genuine Parts section of the site. The procedure is also 
+located in Parts Documents titled “Hino Vin Label Request Form”. If 
+dealers are having a hard time locati ng the link, they can contact 
+partssupport@hino.com for assistance or reac h out to their DPM. DID YOU KNOW?FLASH TRAINING 2025-3

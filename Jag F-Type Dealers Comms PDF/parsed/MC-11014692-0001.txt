@@ -1,0 +1,28 @@
+SIB 16 01 25
+DELIVER Y STOP: INTEGRA TED FUEL  MODULE2025-02-14
+MODEL
+E-Series Model Description Production Date 
+G20 3 Series Sedan April 16, 2024 – February 12, 2025
+G22 4 Series Coupe February 12, 2024 – February 12, 2025
+G23 4 Series Convertible February 13, 2024 – February 12, 2025
+G26 4 Series Gran Coupe June 20, 2024 – February 12, 2025
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  As of February 15, 2025, you can
+see a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (effective February 14, 2025) on certain Model Year 2025 BMW
+vehicles that were produced between February 12, 2024, and February 12, 2025.  
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+The bulletin will be updated when additional information becomes available.  
+ 
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:11 PM 16 01 25_DELIVERY STOP: INTEGRATED FUEL MODULE
+about:blank 1/2
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:11 PM 16 01 25_DELIVERY STOP: INTEGRATED FUEL MODULE
+about:blank 2/2

@@ -1,0 +1,27 @@
+Part Number:
+Part Description:
+Issue
+Description:9100498 02/25/2025MY 22-25 VF 19-25, 20-21 DT  18-25, 18-21
+JL 16-17, 17-25, 20-22, 18-20, 17-20 RU
+16-17, 18-20, 16-20 WK 21-24 WL  20-25 JT
+16-25, 16-17, 18-20 WD
+GPOP  - Issue Review System
+68293286A$, 68361456A$, 6842371 1A$, 68565531A$, 68565534A$
+3.6L PSU Long Block
+Misfire DTC codes and/or rough idle and/or valvetrain noise. These conditions may be
+related to worn intake camshaft high lift lobe(s), and intake rocker arm(s) high lift slider . High
+mileage failure (10,000-60,000 miles). 1. Remove the valve cover(s) per the released
+service procedures. The use of a stethoscope or DTC specific cylinder misfire codes can
+help to locate the condition to the left or right bank. 2. Once it has been visually confirmed
+that there is wear on the high lift intake lobe(s) & rocker arm(s) slider , there is a special
+service kit for this type of repair which should be used, instead of replacing the complete
+engine/long block. This kit contains the parts required for the repair (intake cam, rocker
+arms, sealer and gaskets). Once it is confirmed that the repair will be done using the
+camshaft/Rocker arms kit, it is also important to confirm that the vehicle being repaired has
+the latest calibration/software update for oil pump operation mode (high pressure mode)
+during engine start up. RU, VF , WL & WD vehicles already include the latest oil pump mode
+in all 25MY  and beyond. 24MY  service releases are also available. JL  & JT  were updated as
+a running change in 24MY  and beyond (08/15/24 & 08/19/24 respectively). 24MY  service
+releases available. DT  was updated starting 25MY  and beyond. If the vehicle to be repaired
+is a 24MY  vehicle with a service release available, please follow the released service
+procedures to update to the corresponding calibration/software update.

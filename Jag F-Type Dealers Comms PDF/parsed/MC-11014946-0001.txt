@@ -1,0 +1,142 @@
+Technical Service BulletinTechnical Service Bulletin Transaction No.:  2036935/222036935/22
+00-18-07 - Beipack (Accessory Pack) at Delivery (U.S. Only)
+ConditionCondition
+Model(s)Model(s) YearYear Eng. CodeEng. Code Trans. CodeTrans. Code VIN Range FromVIN Range From VIN Range ToVIN Range To
+All Models 2023-2025 All All All All
+Revision TableRevision Table
+Instance NumberInstance Number Published DatePublished Date Version NumberVersion Number Reason For UpdateReason For Update
+2036935/22 02/17/25 00-18-07 To include additional model and
+model year applicability.
+2036935/21 05/30/23 00-18-07 To include model year applicability.
+2036935/1 6/4/14 V001405 Original publication.
+  NOTICENOTICE
+This This technical bulletin technical bulletin MUSTMUST  be read in its entirety. be read in its entirety.
+––Effective Effective immediately, all claims for Accessories Pack components missing, incorrect or damaged, immediately, all claims for Accessories Pack components missing, incorrect or damaged, MUSTMUST  have an have an
+accompanying Doc-It case uploaded in the Warranty Information and Service Evaluation (WISE) system for a validaccompanying Doc-It case uploaded in the Warranty Information and Service Evaluation (WISE) system for a valid
+warranty claims submission. Please see the warranty section of this technical bulletin for details on uploading thewarranty claims submission. Please see the warranty section of this technical bulletin for details on uploading the
+required information.required information.
+Technical BackgroundTechnical Background
+Accessories Accessories Pack is the term used to describe the bag that is delivered with the vehicle that contains the parts to be installedPack is the term used to describe the bag that is delivered with the vehicle that contains the parts to be installed
+at PDI, i.e. Wheel Center Caps, Lug Caps, Wiper Blades, Etc. Figure 1.at PDI, i.e. Wheel Center Caps, Lug Caps, Wiper Blades, Etc. Figure 1.
+Figure 1.
+Checking the Accessory Pack at DeliveryChecking the Accessory Pack at Delivery
+Accessory Pack components may be missing, incorrect or damaged at delivery.
+Accessory Pack issues should be claimed in one of two ways, Transportation Claim or Warranty Claim.
+•Transportation Claim:Transportation Claim:  At delivery off the truck the Accessory Pack is opened or damaged and component(s) are missing or damaged
+due to Accessory Pack damage.
+•Warranty Claims:Warranty Claims:  Accessory Pack is sealed and component(s) are missing, or there are incorrect component(s) in the Accessory Pack
+for the vehicle the bag is assigned to, or there are damaged component(s) in a sealed undamaged By-pack.
+  NOTICENOTICE
+It is It is very important to check the Accessories Pack at vehicle acceptance off the truck to determine if a transportation claimvery important to check the Accessories Pack at vehicle acceptance off the truck to determine if a transportation claim
+should be filed. should be filed. The Accessory Pack must be inspected and the contents verified within 48 hours (second working day)The Accessory Pack must be inspected and the contents verified within 48 hours (second working day)
+after receiptafter receipt . If this time frame is missed to file a transportation claim, the claim . If this time frame is missed to file a transportation claim, the claim CANNOTCANNOT  be filed under warranty and the be filed under warranty and the
+dealer will have to absorb the cost. If an Accessory Pack claim is filed under warranty that doesn’t meet the requirementsdealer will have to absorb the cost. If an Accessory Pack claim is filed under warranty that doesn’t meet the requirements
+for a warranty claim, the claim will be debited back to the dealer,for a warranty claim, the claim will be debited back to the dealer,
+Production SolutionProduction Solution
+Not applicable.
+ServiceService
+  NOTICENOTICE
+If If applicable, please ensure any one time use part or parts are replaced in accordance with the repair manual informationapplicable, please ensure any one time use part or parts are replaced in accordance with the repair manual information
+in Elsa.in Elsa.
+––Please note that the ePDI form has been updated to include the Accessories Pack condition and content check at vehiclePlease note that the ePDI form has been updated to include the Accessories Pack condition and content check at vehicle
+acceptance off the truck (Figure 2).acceptance off the truck (Figure 2).
+Figure 2.
+Accessory Pack InspectionAccessory Pack Inspection
+At vehicle delivery off the truck at the dealer and at PDI, the Accessory Pack must be inspected for condition and contents.  Please note the
+following:
+•It is very important to check and make note of the condition of the Accessory PackIt is very important to check and make note of the condition of the Accessory Pack   at delivery off the truck. This is dueat delivery off the truck. This is due
+to the 48 hours (second working day) limit to file a transportation claim.to the 48 hours (second working day) limit to file a transportation claim.
+•Most vehicles have contents label(s) affixed to the bag. If the label is not in English the part number can be used as a guide to perform the
+check.
+•Check the VIN on the Accessory Pack to verify that the Accessory Pack is the correct one for the car.
+•Using the content label(s) will help determine the proper contents of the bag (figures 3 and 4). There may be multiple contents labels on
+the bag.
+•For Accessory Pack that do not have English translated contents label or no content label, the Accessory Pack can still be inspected for the
+standard equipment such as, wheel center caps, lug caps, key(s), tow hook covers, license plate bracket(s), wiper blades, etc.
+•For models produced in Mexico (Tiguan LWB, Jetta, Taos) the Accessory Pack is located in the front passenger’s side floor, Figure 5. The
+Accessory Pack has separations (pouches) for the Key(s) and Tow Hook Covers and other components depending on trim level (Figure 6).
+All vehicles produced in Mexico has one key in the Accessory Pack (Figure 7) and one key tether to the wiper stalk (Figure 8).
+•For models produced in the U.S.A (Atlas, Cross Sport and ID.4) the Accessory Pack is located in the luggage compartment (Figure 9).
+•For models produced in Germany (Areton, GTI, Golf R ) the Accessory Pack is located in the luggage compartment (Figure 10).
+Figure 3
+ Figure 4
+Figure 5. Accessory Pack Location for cars produced in
+Mexico
+Figure 6. Separation pouches for key(s) tow hook cover, etc.
+Figure 7. One key in Accessory Pack for cars produced in Mexico.
+ Figure 8. One key tether to the wiper stalk for cars produced in
+Mexico.
+Figure 9. Passat Accessory Pack located in the luggage compartment
+ Figure 10. Tiguan Limited Accessory Pack located in the luggage
+compartment
+  NOTICENOTICE
+Make Make sure to properly document the condition of the Accessory Pack on the transportation delivery form. Documentsure to properly document the condition of the Accessory Pack on the transportation delivery form. Document
+whether the Accessory Pack bag is undisturbed (Sealed, no damages) or disturbed (opened, component(s) missing or thewhether the Accessory Pack bag is undisturbed (Sealed, no damages) or disturbed (opened, component(s) missing or the
+bag is damaged. The transportation delivery form may be requested when a transportation claim is filed.bag is damaged. The transportation delivery form may be requested when a transportation claim is filed.
+In cases where the Accessory Pack is found to be disturbed in any way, the claim should be filed as a transportation claim.
+ONLYONLY  if the Accessory Pack is completely undisturbed and parts are found missing, wrong or damaged, should the claim be filed under
+warranty.
+Accessory Pack Warranty ClaimAccessory Pack Warranty ClaimTo file a warranty claim for Accessory Pack component(s), the requirements will vary based on the issue found with the Accessory Pack.  See
+warranty claim guide and Accessory Pack picture requirement below:
+Warranty Claim GuideWarranty Claim Guide
+Best Practice - At PDI Best Practice - At PDI BEFORE BEFORE opening the Accessory Pack spread out the Accessory Pack on a work bench or tableopening the Accessory Pack spread out the Accessory Pack on a work bench or table
+exposing all the contents as best as possible and take a picture of the front and rear of the Accessory Pack (Figures 11 andexposing all the contents as best as possible and take a picture of the front and rear of the Accessory Pack (Figures 11 and
+12). Make sure that the components labels with VIN is captured in the photo and check for missing components during this12). Make sure that the components labels with VIN is captured in the photo and check for missing components during this
+time.time.
+Figure 11.
+ Figure 12.
+Missing Component(s) - The Accessory PackMissing Component(s) - The Accessory Pack  bag is found completely sealed and items are missing.bag is found completely sealed and items are missing.
+•Take pictures of the sealed Accessory Pack clearly showing that the component is not in the bag. In the case of a part missing from a
+pouch (for example a key or tow hook cover) or packaging inside the bag (for example wheel center cap or lug caps), take a close up
+picture of the pouch or packaging.
+•Take a picture of the component label showing the VIN and parts list. The picture should be legible to read.
+Incorrect Component(s) - At PDI an incorrect part is found in the Accessory Pack.Incorrect Component(s) - At PDI an incorrect part is found in the Accessory Pack.
+•Take a picture of the incorrect part
+•Take a picture capturing the part number on the part (or part package).
+•Take a picture of the component label showing the VIN and parts list. The picture should be legible to read.
+Damaged Component(s)Damaged Component(s)
+•Check the Accessory Pack  bag for signs of damages due to outside influence.
+•Take picture(s) of the damaged part indicating the damage.
+If pictures of the sealed Accessory Pack were taken as indicated in the “Best Practices” tip above, submit the pictures withIf pictures of the sealed Accessory Pack were taken as indicated in the “Best Practices” tip above, submit the pictures with
+the picture of the damaged part.the picture of the damaged part.
+  NOTICENOTICE
+Accessary Pack Picture Requirements.Accessary Pack Picture Requirements.
+––For Accessory Pack related warranty claims for missing, incorrect or damaged components, the pictures taken asFor Accessory Pack related warranty claims for missing, incorrect or damaged components, the pictures taken as
+described in the “Warranty Claims Guides” section above, must be submitted electronically in WISE (Doc-It section) fordescribed in the “Warranty Claims Guides” section above, must be submitted electronically in WISE (Doc-It section) for
+the submission of a valid claim. Please use the pictures in figures 1, 3, 6, 7, 11 & 12 of this bulletin as reference whenthe submission of a valid claim. Please use the pictures in figures 1, 3, 6, 7, 11 & 12 of this bulletin as reference when
+taking pictures. Provide the pictures taken to your Warranty Administrator for upload in WISE when the warranty claim istaking pictures. Provide the pictures taken to your Warranty Administrator for upload in WISE when the warranty claim is
+filed (see Warranty section below). Failure to provide pictures to support a By-pack warranty claim will result in the claimfiled (see Warranty section below). Failure to provide pictures to support a By-pack warranty claim will result in the claim
+being debited back to the dealer.being debited back to the dealer.
+  NOTICENOTICE
+Accessory Pack related issue during new vehicle launch periods.Accessory Pack related issue during new vehicle launch periods.
+––For Accessory Pack issues during new vehicle launch periods, dealers are required to open a Volkswagen TechnicalFor Accessory Pack issues during new vehicle launch periods, dealers are required to open a Volkswagen Technical
+Assistance (VTA) ticket and attach pictures to the VTA. Refer to the guides in this TB for taking Accessory Pack picturesAssistance (VTA) ticket and attach pictures to the VTA. Refer to the guides in this TB for taking Accessory Pack pictures
+for attachment to a VTA ticket. Please note that the requirements for valid Accessory Pack related warranty claimfor attachment to a VTA ticket. Please note that the requirements for valid Accessory Pack related warranty claim
+outlined in this TB also apply during new vehicle launches.outlined in this TB also apply during new vehicle launches.
+WarrantyWarranty
+Information only.
+When filing a warranty claim for missing or incorrect items in the Accessory Pack, all parts should be filed on one claim line.When filing a warranty claim for missing or incorrect items in the Accessory Pack, all parts should be filed on one claim line.
+Wheel Locks are no longer factory installed parts and therefore are not covered under warranty when missing at PDI.  PleaseWheel Locks are no longer factory installed parts and therefore are not covered under warranty when missing at PDI.  Please
+reference service circular VSP-13-02 on Service Net, for info on the procedure for missing wheel locks.reference service circular VSP-13-02 on Service Net, for info on the procedure for missing wheel locks.
+Uploading Technical Bulletin Information In WISEUploading Technical Bulletin Information In WISE
+  NOTICENOTICE
+Starting December 4, 2017 the Doc-It function in WISE has been updated to accept information specific to TechnicalStarting December 4, 2017 the Doc-It function in WISE has been updated to accept information specific to Technical
+Bulletins. Details of the required information is provided in the service section of this bulletin.Bulletins. Details of the required information is provided in the service section of this bulletin.
+
+
+  NOTICENOTICE
+All fields marked with an asterisks (*) must be populated for the Doc-It case to be submitted successfullyAll fields marked with an asterisks (*) must be populated for the Doc-It case to be submitted successfully ..
+The 7 digit technical bulletin instance number remains the same for the life of the bulletin. The seven digits are followed by aThe 7 digit technical bulletin instance number remains the same for the life of the bulletin. The seven digits are followed by a
+“/” and a number that indicate the versions of a technical bulletin. For example 2036935/2 indicates the second version of the“/” and a number that indicate the versions of a technical bulletin. For example 2036935/2 indicates the second version of the
+technical bulletin with instance number 2036935.technical bulletin with instance number 2036935.
+Required Parts and ToolsRequired Parts and Tools
+No Special Parts required.
+No Special Tools required.
+Additional InformationAdditional Information
+All part and service references provided in this Technical Bulletin are subject to change and/or removal. Always check with your Parts Dept. and
+Repair Manuals for the latest information.
+© 2025 Volkswagen Group of America, Inc.© 2025 Volkswagen Group of America, Inc.  All rights reserved. Information contained in this document is based on the latest information
+available at the time of printing and is subject to the copyright and other intellectual property rights of Volkswagen Group of America, Inc., its
+affiliated companies and its licensors. All rights are reserved to make changes at any time without notice. No part of this document may be
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, nor may these materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.

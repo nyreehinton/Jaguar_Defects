@@ -1,0 +1,16 @@
+ 
+Field Action Number  N25-F172AE  
+Release notes  Great News! Your vehicle keeps getting better. 
+This update contains a required software change 
+to help improve the overall software update and 
+diagnostics process.  
+ 
+Be sure to install this update to be able to receive 
+future software updates.  
+ 
+Better Never Stops ™ 
+Model Year  2024 
+2025  
+Make  Chevrolet  
+Model  Blazer EV  
+Components  CGM  (Central Gateway Module ) 

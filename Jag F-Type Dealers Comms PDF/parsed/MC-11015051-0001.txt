@@ -1,0 +1,56 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-156
+Service BulletinDate: February, 2025
+TECHNICAL
+Information on Dealer Installed Accessory Trailer Hitch Installation Concern
+Brand: Model: Model Year: Build Date Breakpoint: Engine: Transmission
+:from to from to
+Cadillac OPTIQ 2025 2025 SOP - All All
+Chevrolet Equinox EV 2024 2024 SOP July 30, 2024 All All
+Involved Region or Country North America
+Additional Options (RPOs)Equipped with Equinox Package Option 1LT, 2LT, or 3LT, RPOs SDE and SDR
+Equipped with OPTIQ Package Options Lux1, Lux2, Sport1, Sport2, RPOs SDE and VLG
+ConditionDuring the installation process, dealers may find that the scribe lines may not be present
+for cutting.
+Cause The supplier removed these necessary lines by mistake.
+Correction If the vehicle is found to not have visible scribe lines, please follow the direction below.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Service Procedure
+Refer to Trailer Hitch Platform Package Installation  for installation under Accessories Manual in SI.
+Page 2 February, 2025 Bulletin No.: 24-NA-156
+Chevrolet Equinox EV
+6692657
+Cadillac OPTIQ
+6851292
+During Installation, on the inside of the rear fascia skid plate, check to see if there is a scribed line (1) present in the
+location shown. If no scribed line is present:
+• For Chevrolet Equinox EV, a new rear fascia skid plate P/N 85629520 must be ordered before proceeding to the
+next step.
+Bulletin No.: 24-NA-156 February, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION• For Cadillac Optiq, a new rear fascia skid plate P/N 85511282 must be ordered before proceeding to the next
+step.
+Dealers will be directed to contact the supplier for both part numbers. Supplier will send them to dealers free of
+charge. Please contact:
+• Chevrolet Equinox EV rear Fascia skid plate PN: 85629520 : Carlos Ortiz at +52-844-318-7613 or email :
+carlos.ortiz@opmobility.com
+• Cadillac Optiq rear Fascia skid plate PN: 85511282 Carlos Ortiz at +52–844–318–7613 or email
+carlos.ortiz@opmobility.com
+Version 4
+Modified Released August 15, 2024
+Revised September 03, 2024 – Updated supplier contact phone number.
+Revised January 29, 2025 – Removed Warranty Information.
+Revised February 20, 2025 – Added Cadillac OPTIQ and supporting information.

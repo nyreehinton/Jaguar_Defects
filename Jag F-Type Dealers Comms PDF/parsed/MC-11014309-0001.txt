@@ -1,0 +1,55 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)9L7
+ConditionA Dealer or Upﬁtter ma y be looking for information on installing
+RPO 9L7 Upﬁtter Auxiliary Switches.  
+The Upﬁtter Auxiliary Switches are located under the climate
+controls in the center of the dash.
+Cause Information not readily available in Service Information (SI.)
+Bulletin No.: PIT6120B
+Published date: 02/14/2025
+Preliminary Information
+PIT6120B Installation of Upﬁtter Auxiliary Switches (RPO 9L7)
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 1500 New (RPO J22,
+VIN Digit 5 = A / D)2022 All AllAll All
+Chevr oletSilverado 15002023 -
+2025All AllAll All
+Chevr oletSilverado 2500HD2024 -
+2025All AllAll All
+Chevr oletSilverado 3500HD2024 -
+2025All AllAll All
+GMCSierra 1500 New (RPO J22, VIN
+Digit 5 = H / U)2022 All AllAll All
+GMC Sierra 15002023 -
+2025All AllAll All
+GMC Sierra 2500HD2024 -
+2025All AllAll All
+GMC Sierra 3500HD2024 -
+2025All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+Reference the latest version of GM Upﬁtter Integration Bulletin 193 or 205 depending on
+trim level.  The information can be found at  http://www .gmupﬁtter .com/  under the
+"Technical Bulletin" T ab and then "Show all bulletins."
+Note: Installation of the Upﬁtter (A UX) Switches and supporting components are NOT a GM
+Warranty or PDI covered labor cost. The installation of the switches/components are
+intended to be performed by the upﬁtter as a part of the overall vehicle upﬁt and the labor
+cost associated with that installation be covered in the upﬁtter ’s estimate to its customer .
+Version 3
+Modiﬁed01/30/2024 - Created on.  
+09/18/2024 - Updated Model Y ear 
+02/14/2025 - Updated Correction InformationInstallation, when performed by a GM dealer , the labor charges associated with that install
+are the responsibility of the customer/vehicle purchaser .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

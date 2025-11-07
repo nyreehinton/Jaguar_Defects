@@ -1,0 +1,75 @@
+Technical Service Bulletin (TSB)
+Hard To Fill With Fuel
+REFERENCE: TSB:  14-005-25
+GROUP:  14 - FuelDate: February 20, 2025 REVISION: 14-001-22
+VEHICLES
+AFFECTED:2018 - 2020 (DS) RAM 1500 Pickup
+This bulletin applies to vehicles built on or before June 09, 2020 (MDH
+0609XX) equipped with a 3.6L V6 24V VVT Engine (Sales Code ERB)
+and a 26 Gallon Fuel Tank (Sales Code NFW) or a 32 Gallon Fuel Tank
+(Sales Code NFX).
+This bulletin applies to vehicles built on or before March 16, 2020
+(MDH 0316XX) equipped with a 5.7L V8 Hemi MDS VVT Engine (Sales
+Code EZH) and a 26 Gallon Fuel Tank (Sales Code NFW) or a 32 Gallon
+Fuel Tank (Sales Code NFX).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience one or more of the following:
+●Hard, difficult, or unable to fill the fuel tank.
+●Fuel nozzle shuts off prematurely before the fuel tank is full.
+●Fuel spits or spills out while filling the fuel tank.
+CAUSE: **Manufacturing issue**
+This bulletin supersedes Technical Service Bulletin (TSB) 14-001-22, date of issue January 15, 2022,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+the addition of a Cause, updated Spare Parts descriptions and updated Repair Procedure steps.
+REPAIR SUMMARY:
+This bulletin involves replacing the fuel tank.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+14-60-01-9G Fuel Tank - Replace
+(1 - Semi-Skilled)1 - Engine Repair and
+Performance1.7 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68323674AC **Tank, Fuel** 32 gallon welded fuel tank
+(3.6L and 5.7L engines)
+1 (AR) 68323675AC **Tank, Fuel** 26 gallon welded fuel tank
+(3.6L and 5.7L engines)
+1 (AR) 68323676AC **Tank, Fuel** 26 gallon welded fuel tank
+(3.6L engine)
+1 55366298AA **O Ring, Fuel Pump and
+Level Unit**Rubber O-ring FDM seal
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs)
+or symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes the symptom/condition listed above, perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. **Refer to the detailed service procedures available in DealerCONNECT / Service Library under: Service
+Info> 14 - Fuel System / Fuel Delivery, Gas / Diagnosis and Testing / Hard To Fill With Fuel.
+2. If the issue is determined to be in the fuel tank, it must be replaced. Refer to the detailed service
+procedures available in DealerCONNECT / Service Library under: Service Info> 14 - Fuel System / Fuel
+Delivery, Gas / Tank, Fuel / Removal.**
+3. Remove all vent lines from the tank assembly.
+4. Remove the vapor canister. Refer to the detailed service procedures available in DealerCONNECT/Service
+Library under: Service Info>25 - Emissions Control / Evaporative Emissions / Canister, Vapor / Removal.
+5. Remove the fuel pump module. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info> 14 - Fuel System / Fuel Delivery, Gas / Module, Fuel Pump / Removal.
+6. Install the fuel pump module. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info> 14 - Fuel System / Fuel Delivery, Gas / Module, Fuel Pump /
+Installation.
+7. Install the vapor canister. Refer to the detailed service procedures available in DealerCONNECT/Service
+Library under: Service Info> 25 - Emissions Control / Evaporative Emissions / Canister, Vapor / Installation.
+8. Install all vent lines on the tank assembly.
+9. Install the fuel tank. Refer to the detailed service procedures available in DealerCONNECT/Service Library
+under: Service Info> 14 - Fuel System / Fuel Delivery, Gas / Tank, Fuel / Installation.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

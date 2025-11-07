@@ -1,0 +1,37 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: 25-NA-035
+Service BulletinDate: February, 2025
+INFORMATION
+2024 Silverado EV RST Sidewinder Available
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Silverado EV 2024 2024 - - All All
+ 
+Involved Region or Country North America
+Additional Options (RPOs) Equipped with Trim Package RST
+Condition Sidewinder is now available for the 2024 Silverado RST.
+CauseSidewinder builds off the already standard four-wheel steering capabilities of RST.
+Accessed through the infotainment screen, Sidewinder enables all four wheels to turn in
+the same direction, allowing the truck to move diagonally at speeds up to 20 mph.
+CorrectionIf a customer comes to a dealer and is requesting the Sidewinder feature be enabled,
+dealer technicians should update the vehicle software per bulletin 24-NA-143.Subject:
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool, and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+ 
+Version 1
+Modified Released February 19, 2025

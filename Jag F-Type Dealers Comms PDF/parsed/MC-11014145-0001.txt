@@ -1,0 +1,28 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: PIE0799A
+Service BulletinDate: January, 2025
+ENGINEERING INFORMATION
+Engineering Information - Whine and/or Chirp Type Noise Heard Coming from
+the Engine Compartment
+This PI has been revised to end the need for gathering information from the field. Please
+discard PIE0799.
+Brand: Model: Model Year: Breakpoint: Engine: Transmission
+:from to from to
+Buick Enclave 2025
+2025 — —Equipped with 2.5L
+(RPO LK0)— Chevrolet Traverse
+2024
+GMC AcadiaSubject:
+If you encounter a vehicle with the above condition, refer to SI for further diagnosis.
+ 
+Version 2
+Modified Released September 16, 2024
+Revised January 27, 2025 - Ended the need for gathering further information from the
+field.

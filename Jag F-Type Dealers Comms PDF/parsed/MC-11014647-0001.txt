@@ -1,0 +1,35 @@
+  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  
+Document Information  
+Location:  Powertrain / Hybrid / Electrical  
+Topic: McLaren P1 Hybrid Warning - Charge Cable Connector Terminals Not Secure  
+Condition:  Permanent  
+Diagnostic Trouble Codes:  P0D5600, P167122, P169122, P175A00, P17B400, P17E900, P17EA00, P181300, 
+P181400, P182F00, U171000  
+Measure  
+In the event of the above DTC’s being stored, they may be caused by loose/unsecure terminals within the 
+connector from the offboard charger harness that plugs in to the HV battery.  
+If relevant, please proceed as below to check the connector:  
+Care Point: Please raise a TR with DTC's, BMS AV's and software reads attached before continuing with 
+the checks and wait for approval to proceed from Technical Support.  
+1. Deactivate the HV system and make the vehicle safe to work on following McLaren Service Portal  
+(MSP) instructions “Disconnect Hybrid Battery – Service Disconnect”  
+2. Gain access to the offboard charger harness connector on the HV battery tray by following MSP 
+instructions for “Hazardous Voltage (HV) Charge Harness” up to the point of disconnecting the HV 
+charge harness (connector 3) in the image below  
+ 
+3. Disconnect connector 3 and check both HV terminals are secure in the plug housing of the offboard 
+charger harness. Please see video  for an example of an unsecured terminal  
+4. If the terminals are secure, no further action required  
+5. If the terminals are not secure and do not lock in the connector, please attach a video and photo 
+evidence showing the loose terminal/s and plug condition to the TR for review and await further 
+instruction  
+
+  
+Parts Information  
+N/A 
+Attachments  
+N/A 
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  

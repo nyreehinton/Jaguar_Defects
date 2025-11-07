@@ -1,0 +1,78 @@
+ 
+Instrument Cluster Message "Park Assist Inoperative" and
+MUST include DTC's in PARK Control Unit: B223263 with
+Bosch-ID: C259 (A+S) AND B223255 Bosch-ID: 1B5D (A+S)
+Topic number LI54.65-P-078762
+Version 3
+Function group 54.65 - Parking assist
+Date 2/25/25
+Validity All model series in production with parking system and
+360° camera. The following list only provides an example
+and is not complete!
+Reason for change Adding hardware part numbers.
+Complaint
+Please note that the exact quick test conditions must be met as seen below. If not exactly as listed below, there is no
+need to create a TIPS case referencing this LI unless further assistance is needed outside of this document.
+Conditions
+Instrument Cluster Message: "Park Assist Inoperative" and
+Hardware part numbers: A0009019716 or A0009016022
+B223263 with Bosch-ID C259; A+S (Active and Stored) and
+B223255 with Bosch-ID 1B5D; A+S (Active and Stored)
+Notes:
+• Other DTC's are permitted but the above three conditions must  be met. If they are not met, this LI is not applica-
+ble.
+• See attachment "LI Criteria" for an example.
+• Attachment portrays a quick test with non-matching criteria and therefore does not require a TIPS case.
+Cause
+Under analysis.
+Attachments
+File Description
+LI Criteria.png Do not create TIPS case under this LI for a quick test wi-
+thout exact matching DTC's and Bosch ID
+26.02.2025   21:12   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 3
+ 
+Remedy
+Please do not make any attempts to repair the park control unit.
+Do not flash or SCN code.
+Open a TIPS case.
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Communication/information  > Assistance and warning systems  > Parking assist  > Active Park Assist  > Parking gui-
+dance  > Incorrect display in instrument cluster during Parking Guidance
+Parts
+Part number ES1 ES2 Designation Quantity Note EPC
+A0009016022 Park ECU, High Variant
+(Park223)1 X
+A0009019716 Park ECU, High Variant (Par-
+k213M)1 X
+Control unit/fault code
+26.02.2025   21:12   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 3
+ 
+Control unit Fault text
+N62/3 - Parking system (PARK) (PARK223) B223255  - PARKTRONIC has a malfunction. The compo-
+nent is not configured.
+B223263  - PARKTRONIC has a malfunction. The durati-
+on of the actuation was exceeded: overload protection is
+active.
+N62 - Parking system (PARK) (PARK213M) B223255  - PARKTRONIC has a malfunction. The compo-
+nent is not configured.
+B223263  - PARKTRONIC has a malfunction. The durati-
+on of the actuation was exceeded: overload protection is
+active.
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+26.02.2025   21:12   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 3

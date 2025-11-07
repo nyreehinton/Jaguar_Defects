@@ -1,0 +1,459 @@
+ 
+ 
+Classification: Reference: Date: 
+EC24-016 NTB24-062 January 30, 2025 
+ 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/20 
+ 
+VOLUNTARY EMISSIONS RECALL CAMPAIGN  
+2018-2019 TITAN DIESEL;  
+PM SENSOR ECM REPROGRAM 
+ 
+CAMPAIGN ID #: PD129  
+APPLIED VEHICLES: 2018-2019 Titan XD (A61) 
+APPLIED ENGINES: Cummins 5.0L Diesel 
+ 
+Check Service COMM or Dealer  Business Systems (DBS)  
+National Service History to confirm campaign eligibility . 
+ 
+ 
+INTRODUCTION 
+ 
+Nissan is conducting this voluntar
+y emission s recall campaign on certain specific model 
+year 2018-2019 Titan XD vehicles equipped with a diesel engine, to reprogram the Engine 
+Control Module (ECM). This service will be performed at no charge to the customer for 
+parts or labor.   
+IDENTIFICATION NUMBER 
+ 
+Nissan has assigned identificat ion number PD129 to this ca mpaign. This number must 
+appear on all communication and documentation of any nature dealing with this campaign
+. 
+  
+DEALER RESPONSIBILITY 
+ 
+It is the dealer’s responsib
+ility to check Serv ice COMM or Dealer Business Systems (DBS) 
+National Service History for the campaign stat us on each vehicle falling within the range of 
+this voluntary emissions recall which for any reason enters the service department. This 
+includes vehicles purchased from private parties  or presented by transient (tourist) owners 
+and vehicles in a dealer’s inventory.  Federal law requires that new vehicles in dealer 
+inventory which are the subject of a safety recall must be corrected prior to sale.  
+Failure to do so can result in civil penalties by the Na tional Highway Traffic Safety 
+Administration .  While federal law applies only to new vehicles, Nissan strongly 
+encourages dealers to correct any used vehicles in  their inventory before they are retailed. 
+2/20 NTB24-062  
+REPAIR OVERVIEW 
+ 
+ 
+ 
+  
+Confirmed through Service COMM or DBS:  
+ 
+Campaign ID # PD129 applies  
+Save Computer Data with 
+CONSULT-III plus and VI3 
+END  
+Write Saved Data with  
+CONSULT-III plus and VI3 
+Reprogram the ECM with 
+CONSULT-III plus and VI3 
+3/20 NTB24-062  
+IMPORTANT 
+ 
+Attention California Dealers 
+ 
+ 
+An Emission Recall Campaign Completion (ERCC) label must be filled ou t by the technician 
+performing the repair, and then attached to the underside of the vehicle hood. A sample of the label is shown below. 
+ 
+                                                                  
+                                                                                                Figure 1  
+  
+ 
+California dealers are now required to issue a proof  of correction certificate to vehicle owners 
+upon completion of emissions related recall work. Please fill out one of the campaign 
+completion forms for each owner that has this  campaign performed. Inst ruct owners to keep 
+this certificate unless they are requested to mail it to the DMV. A sample of the form is shown 
+in Figure 2 below. 
+ 
+ 
+Figure 2  
+ 
+HINT: 
+ 
+ These forms (item number CAEMRC 1-20 ) and labels (item number NIS-UHL-
+16) are available from Nissan Publicat ions (1-800-247-5321) at no charge. 
+ 
+ When either item (form or label) is ordered, you will automatically receive the 
+other item as well. 
+  
+Orange colored NIS-UHL-16 Technician: Fill in here either:  
+ 
+“Inspected ECM per Campaign ID # PD129” 
+or 
+“Reprogrammed ECM per Campaign ID # PD129” 
+(as it applies) 
+Fill in “DEALER CODE” and “DATE”  
+ 
+Put “ARB/EPA” under “CHANGE AUTHORITY” 
+4/20 NTB24-062 SERVICE PROCEDURE 
+ 
+IMPORTANT: Before starting, make sure: 
+ 
+ ASIST on the CONSULT PC has been synchr onized (updated) to the current date. 
+ 
+ All CONSULT-III plus  software updates (if any) have been installed. 
+ 
+Save Computer Data 
+ 
+ 1. Confirm that the CON
+SULT PC is connected to Wi-Fi. 
+  2. Connect the Vehicle Interface (VI3) to the vehicle. 
+ 
+ Connect the provided USB cable to  the VI3 and the CONSULT PC. 
+ 
+ 
+ 
+To prevent insufficient or unstable WI FI connections and potential damage to the 
+ECM during the reprogram procedure, ensure to use th e USB cable between the VI3 
+and the CONSULT PC. 
+ 
+ 3. Turn the ignition ON with the engine OFF (engine not running).   4. Start CONSULT-III plus (C-I II plus) on the CONSULT PC. 
+  5. If prompted, select USA/CANADA Dealers  from the drop-down menu, and then 
+select OK. 
+    
+6. Login using your NNAnet credentials. 
+ 
+IMPORTANT:  If not prompted to enter your username and password, the CONSULT 
+PC may not be connected to Wi-Fi. Close C-III plus, confirm the CONSULT PC is 
+connected to Wi-Fi, and then reopen C-III plus. 
+    
+
+5/20 NTB24-062  
+7. Wait for the VI3 to be recognized. 
+ 
+ The serial number will be displa yed when the VI3 is recognized. 
+  8. Select Diagnosis (One System) . 
+ 
+ 
+Figure 3 
+ 
+  
+VI3 is 
+recognized 
+6/20 NTB24-062  
+9. Navigate C-III plus to ENGINE > Work support ( Figure 4). 
+  10. Select SAVE
+ COMPUTER DATA . 
+  11. Select Start . 
+ 
+ After selecting Start , a screen message may appear that says: “Latest diagnostic 
+tool update must be used before saving the data, otherwise there is a risk that 
+the data entry will not work”. 
+ 
+o If the message above appears, select Continue . 
+  
+ 
+Figure 4 
+  
+  
+
+7/20 NTB24-062 12. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+ 
+ 13. Select Confirm . 
+ 
+ 
+Figure 5 
+  14. Select End. 
+ 
+ 
+Figure 6  
+
+8/20 NTB24-062  
+ 
+Reprogram ECM 
+ 
+ 
+HINT: 
+ 
+ Most instructions for reprogramming with CONSULT-III plus (C-III plus) are 
+displayed on the CONSULT PC screen. 
+ 
+ If you are not familiar with the reprogramming procedure, click here . This will link 
+you to the "CONSULT-III PLUS REPROGRAMMING FOR ENGINE OR 
+TRANSMISSION CONTROL MODULE (ECM  OR TCM)" general procedure. 
+ 
+ For the Titan XD Diesel, the GR8 set to ECM power supply mode can be 
+attached to either 12 volt battery. 
+ 
+ 
+ 
+ 
+Perform the following before st arting the reprogramming proc edure to prevent damage to  
+the control unit. 
+ Connect the AC Adapter  to the CONSULT PC. 
+ 
+ Connect the CONSULT PC to the VI3 via USB cable. 
+ 
+ Ensure ASIST on the CONSULT PC has  been synchronized (updated) to the 
+current date and all CONSULT software updates (if any) have been installed. 
+ 
+HINT:   
+ 
+ When reprogramming is complete, you will be required to perform DTC Erase . 
+ 
+ Turn OFF all external Bluetooth® devices (e.g., cell phones,  printers, etc.) within 
+range   of the CONSULT PC and the VI3. If Bluetooth® signal waves are within 
+range of the CONSULT PC or  VI3 during reprogramming,  the reprogramming may 
+be interrupted. 
+ 
+ Turn the hazard warning lamps ON. 
+ 
+o Turn OFF all other vehicle electrical loads such as exterior lights, interior lights, 
+HVAC, blower, rear defogger, audio, NAV I, seat heater, steering wheel heater, 
+etc. If electrical loads rema in ON, the ECM may be damaged. 
+ 
+ Connect a battery maintainer  or smart charger, set to reflash mode or a similar 
+setting, to ensure the battery volt age stays between 12.0 V and 13.5 V. 
+  
+
+9/20 NTB24-062  
+15. Return to the C-III plus Home screen.   16. Turn the ignition ON with the engine OFF (engine not running). 
+  17. Confirm the plus VI3 is recognized.  
+ 
+ The Serial No. will display when the plus VI3 is recognized. 
+  18. Select Re/programming, Configuration . 
+  
+ 
+Figure 7 
+ 
+
+10/20 NTB24-062  
+19. When you get to the screen shown in Figure 8, confirm reprogramming applies as  
+follows: 
+ 
+a. Find the ECM Part Number and write it on the repair order. 
+ 
+        HINT:  This is the current ECM Part Number (P/N). 
+ 
+ 
+Figure 8 
+  
+A.  
+b. Compare the P/N you wrote down to the numbers in the CURRENT ECM PART 
+NUMBER  column in Table A  below. 
+ 
+ 
+ If there is a match, continue with the reprogra mming procedure. 
+ 
+ If there is not a match, r eprogramming is not needed; skip to CLAIMS 
+INFORMATION  on the last page. 
+ 
+ 
+Table A 
+ 
+MODEL CURRENT ECM PART NUMBER: 23710- 
+2018 Titan XD Cummins Diesel EZ47C,  EZ47D,  EZ47E 
+9FT9A,  9FT9B,  9FT9C 
+2019 Titan XD Cummins Diesel 9FU5C, 9FU5D 
+ 
+ 
+   
+Current ECM P/N 
+xxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxx 
+11/20 NTB24-062 20. Follow the on-screen instructions to navigate C-III plus and reprogram the ECM. 
+ 
+ If the screen in Figure 9 displays, reprogramming is complete. Skip to  
+step 22 on page 14. 
+ If the screen in Figure 
+9 does not display (i ndicating that reprogramming 
+did not complete), continue to step 21 on page 12. 
+ 
+ 
+ 
+ 
+Figure 9  
+   
+
+12/20 NTB24-062 21. Did Error Code “15-2-1-No_Boot_Mode” shown in Figure 10 display, (indicating that 
+reprogramming did not complete)? 
+YES: Select Retry . 
+o If the same Error Code occurs after selecting Retry , restart C-III plus 
+and retry reprogramming by cont inuing the operation log. 
+NO: Refer to ECM Recovery on the next page. 
+ 
+ 
+Figure 10  
+  
+xxxxxxxxxxxx
+23710 -xxxxx 
+23710 -xxxxx 
+13/20 NTB24-062  
+ECM Recovery 
+ 
+Do not disconnect the VI3 or shut down  C
+-III plus if reprogramming does not 
+complete . 
+ 
+If reprogramming does not complete and the “!?”  icon displays as shown in  
+Figure 11:  
+ 
+ 
+ 
+Figure 11  
+ 
+  
+If reprogramming does not complete and the 
+“X” icon displays as shown in  
+Figure 12: 
+ 
+ 
+ 
+Figure 12  
+    
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ External Bluetooth® devices 
+are OFF. 
+ 
+ All electrical loads are OFF. 
+ 
+ Select retry and follow the 
+on screen instructions. 
+ 
+ “Retry” may not go through on 
+first attempt and can be 
+selected more than once. 
+ 
+ 
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ CONSULT A/C adapter is 
+plugged in. 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ Transmission is in Park. 
+ 
+ All C-III plus / VI3 cables are 
+securely connected. 
+ 
+ All C-III plus updates are 
+installed. 
+ 
+ Select Home, and restart 
+the reprogram procedure 
+from the beginning. xxxxxx 
+xxxxxx xxxxxx 
+xxxxxx 
+xxxxxx 
+xxxxxxxxxxxxxxxxx 
+xxxxxx xxxxxx xxxxxx 
+xxxxxx 
+14/20 NTB24-062  
+22. Select Next . 
+  
+ 
+Figure 13
+ 
+ 
+ 
+ 23. Follow the on-screen instructions to Erase DTCs . 
+ 
+ DTC erase is required before C-III plus  will provide the final reprogramming 
+confirmation report. 
+  24. When the entire reprogramming pr ocess is complete, the screen in Figure 14 will 
+display. 
+  25. Verify the before and afte r part numbers are different. 
+  26. 
+Print a copy of this screen and attach it to the repair order for warranty 
+documentation. 
+ 
+ 
+27. Select Confirm . 
+  
+
+15/20 NTB24-062   
+Figure 14  
+  
+xxxxxxx xxxxxx 
+xxxxxxxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxxxxxxxx xxxxxx 
+16/20 NTB24-062  
+28. Return to the C-III- plus Home screen.   29. Confirm the ignition is ON, with engine OFF. 
+  30. Confirm the VI3 is recognized. 
+ 
+ The serial number will be displa yed when the VI3 is recognized. 
+  31. Select Diagnosis (One System) . 
+ 
+ 
+Figure 15 
+ 
+  
+VI3 is 
+recognized 
+17/20 NTB24-062  
+ 32. Navigate C-III plus to ENGINE > Work support. 
+  33. Select WRITE SAVED DATA . 
+  34. Select Start . 
+  
+ 
+Figure 16  
+  35. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+   
+
+18/20 NTB24-062  
+36. Select Confirm . 
+  
+ 
+Figure 17  
+  37. Wait for the procedure to complete.  
+ 
+Figure 18
+ 
+   
+
+19/20 NTB24-062  
+38. Select End. 
+ 
+ 
+Figure 19  
+   39. Close C-III plus by selecting the X in the upper right hand corner (not shown).   40. Turn the ignition OFF.   41. Turn the hazard warning lamps OFF.   42. Disconnect and remove the VI3 from the vehicle.   43. Disconnect the battery maintainer/smart charger.   44. Close the hood.   
+ 
+ 
+  
+
+20/20 NTB24-062  
+   
+CLAIMS INFORMATION 
+ 
+Submit a “CM” line claim using the following claims coding: 
+ 
+CAMPAIGN (“CM”) ID DESCRIPTION OP CODE FRT 
+PD129 Reprogram ECM PD1290 0.7 
+Reprogram Not Needed PD1291 0.3 
+ 
+                  
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+January 30, 2025 NTB24-062 Orig inal bulletin published 
+ 
+  
+ 

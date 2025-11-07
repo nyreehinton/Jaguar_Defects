@@ -1,0 +1,61 @@
+Bulletin No.: PIP5841E
+Published date: 02/27/2025
+Preliminary Information
+PIP5841E Diagnostic Tip: DTC P04FB Due To Possible Condensation
+Freezing In Crankcase Pressure Sensor Assembly
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Envision 2021 - 2025 All All2.0 LSY All
+Cadillac CT4 2020 - 2025 All All2.0 LSY All
+Cadillac CT5 2020 - 2025 All All2.0 LSY All
+Cadillac CT6 2019 All All2.0 LSY All
+Cadillac XT4 2019 - 2025 All All2.0 LSY All
+Cadillac XT5 2020 - 2025 All All2.0 LSY All
+Cadillac XT6 2020 - 2025 All All2.0 LSY All
+Chevr oletBlazer 2020 - 2025 All All2.0 LSY All
+GMC Acadia 2020 - 2024 All All2.0 LSY All
+Involved Region or
+Country:North America 
+Condition: DTC P04FB Failed current or history
+Cause:Possible moisture or condensation freezing in Crankcase Pressure
+Sensor assembly
+Correction
+If you encounter a vehicle setting DTC P04FB in temperatures below freezing that has
+failed current or history complete the published SI diagnostics for the DTC. 
+If unable to establish a root cause. Remove the PCV/Crankcase Pressure Sensor and hose
+assembly and inspect for presence of frozen moisture/condensation in the Crankcase
+Pressure sensor and hose assembly .
+If frozen moisture is present, replacement of the Crankcase Pressure Sensor will not be
+necessary . Please allow the Crankcase pressure sensor and hose assembly to thaw out and
+the moisture to drain completely . Use a combination of light compressed air and a shop
+towel to remove any residual condensation/moisture.
+Note: If the ambient air temperatures have not been below freezing but moisture is still
+present in the Crankcase pressure sensor . Remove the moisture using a combination of
+light compressed air and a shop towel.
+Once completed clear any remaining DTC's using GDS and evaluate.
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor
+operation. Reference the Applicable W arranties section of Investigate V ehicle
+History (IVH) for coverage information.
+Labor
+OperationDescriptionLabor
+Time
+*4088908PCV/Crankcase Pressure Sensor and Hose Assembly Clean and
+Drain.3 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 6
+Modiﬁed02/23/2022 - Created on.  
+05/11/2022 - Updated correction .  
+01/27/2023- Updated to include 2023 Model Y ear. 
+03/15/2023- Updated to include unique labor
+operation  
+01/05/2024 Updated information to include 2024
+Model Y ear. 
+02/27/2025 Updated informaton to include 2025
+Model Y ear 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

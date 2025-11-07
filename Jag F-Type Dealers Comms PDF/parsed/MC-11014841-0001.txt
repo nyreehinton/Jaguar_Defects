@@ -1,0 +1,64 @@
+Subarunet Announcement 
+To: All Subaru Retailers 
+From: Subaru of America, Inc. 
+Date: February 3, 2025 
+UPDATE Safety Recall: WRA-24 ODS Sensor Replacement 
+***PLEASE ENSURE THAT ALL SERVICE AND PARTS PERSONNEL ARE MADE AWARE OF THESE UPDATES*** 
+Phased Final Owner Notification 
+Subaru previously notified all affected vehicle owners of this recall with an interim letter on May 17, 2024 advising 
+owners they would be re -notified with a follow up letter to schedule an appointment once parts are available . 
+As the parts supply arrives to support this recall , we will begin renotifying affected vehicle owners in phases to schedule 
+an appointment to complete th is repair. The first phased mailing will be released today, February 3, 2025 , to the owners 
+of all affected Legacy model vehicles. 
+Listed below is the current phased final owner notification plan . Subaru retailers will be advised as each phased mailing 
+is scheduled. 
+Mailing Date Mailing Group Current VIN status 
+February 3, 2025 All Legacy models Open 
+Q2 2025 (estimate) 2020 MY Outback (manual passenger seat) Open -Remedy not yet available 
+Q3 2025 (estimate) 2020 MY Outback (power passenger seat) Open -Remedy not yet available 
+Q1 2026 (estimate) 2021-2022 MY Outback (manual passenger seat) Open -Remedy not yet available 
+Q3 2026 (estimate) 2021-2022 MY Outback (power passenger seat) Open -Remedy not yet available 
+Q4 2026 (estimate) 2021-2022 MY Outback (power passenger seat) Open -Remedy not yet available 
+VIN status 
+As phased final owner notification letters are released, the status of the VINs included in the mailing will be updated to 
+‘Open ’ in the system. This status change will trigger system ‘push’ notifications, such as in -vehicle notifications, 
+MySubaru alerts, and CareConnect messaging. 
+The WRA -24 recall coverage for the affected VINs not yet included in a phased final owner notification mailing will 
+remain in an ‘Open -Remedy not yet available ’ status until the final owner notification letters are mailed for those VINs . 
+Service, Parts, and Claim Instructions 
+Please refer to the WRA -24 Product Campaign Bulletin for d etailed service, parts, tools, FAQs , and claim submission 
+information which will be available on STIS today . 
+Thank you for your understanding and cooperation as we work through this phased final owner notification process. If 
+you have any questions, please reach out to your DPSM. 
+Background 
+Subaru of America, Inc. (Subaru) has initiated a safety recall for certain 2020 -2022 model year Legacy and Outback 
+vehicles to replace all (four) of the Occupant Detection System (ODS) sensor s on the front passenger seat .  
+Description of the Defect and Safety Risk 
+The affected vehicles may be equipped with defective ODS sensors on the front passenger seat , which over time may 
+result in a short circuit. If the short circuit occurs, the SRS airbag system warning lamp will illuminate, the front 
+passenger’s frontal airbag OFF indicator will illuminate , and the front passenger airbag may not deploy in certain crashes 
+as designed, increasing the risk of injury to an occupant in the seat. 
+Remedy 
+Subaru retailers will replace all (four) of the ODS sensors on the front passenger seat with new ones at no cost to the 
+customer. 
+Affected Vehicles 
+A total of 118,723 U.S. vehicles are affected by this recall, as listed below . Not all vehicles in the production range listed 
+below are affected by this recall. Coverage must be confirmed by using the Vehicle Coverage Inquiry function on 
+subarunet.com  prior to repair. 
+As Subaru obtain s the remedy parts supply for this repair , the WR A-24 recall coverage for the affected VINs not yet 
+included in the phased final owner notifications will remain in an ‘Open -Remedy not yet available ’ status in the system . 
+As phased final owner notification letters are released, the status of the VINs included in each mailing will be updated to 
+‘Open ’ in the system to allow for repairs to be performed on those vehicles . This status change will trigger system ‘push’ 
+notifications, such as in -vehicle notifications, MySubaru alerts, and CareConnect messaging. 
+Retailer Responsibility 
+Please be advised that it is a violation of Federal law for a dealer to deliver a new motor vehicle covered by a recall 
+under a sale or lease until the defect is remedied. Therefore, any Authorized Subaru Retailer failing to perform the 
+applicable service procedures to correct all affected vehicles in their inventory prior to the vehicle being placed in 
+service may be subject to civil penalties of up to $ 27,874 per violation (i.e., for each vehicle), as provided in 49 CFR 
+§578.6 and will also be in breach of the Subaru Dealer Agreement. 
+Any vehicles listed in any recall/campaign that are in retailer stock must be: 
+• Immediately identified 
+• Tagged or otherwise marked to prevent their delivery or use prior to repair 
+• Repaired in accordance with the repair procedures outlined in the Product Campaign Bulletin Model Year Carline Production Date Range Vehicle Count 
+2020 -2022 Outback June 16, 2020 – July 13, 202 1 103,114 
+2020 -2022 Legacy June 16, 2020 – July 12, 2021 15,609 

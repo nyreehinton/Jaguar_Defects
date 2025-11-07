@@ -1,0 +1,72 @@
+BULLETINWARRANTY BULLETIN
+Can-Am On-RoadFEBRUARY 5, 2025
+BULLETIN 2025-1 | REVISION A
+CAMPAIGN N°2025-0001
+ CAUTION
+All involved customers must be notified, all involved units must be corrected as per instruction herein.
+Origin Motorcycle Software Updates
+MODEL YEAR MODEL ENGINE
+MY25 Origin Rotax E-Power
+IMPORTANT
+When receiving a vehicle for service:
+• Always lookup the vehicle identification number (VIN) on the Knowledge Center to ensure all required recalls are performed.
+• Always connect the vehicle to the BRP diagnostic software (BUDS) to ensure all required updates are performed.
+PROBLEM
+The current softwares do not not allow the following features:
+• Vehicle information to be displayed in the BRP GO! app.
+• Heated grips activation.
+The software updates will also implement various improvements for the EV modules.
+SOLUTION
+Perform the following software updates using BUDS3:
+• VCU
+• BMS
+• Cluster (Multifunction Gauge)
+• OBC (Only early production vehicles are affected. If this update is not listed, it means the correct software was installed at the
+factory).
+• INVT (Inverter)
+Printed in Canada (cbg2025-001).
+© All rights reserved.
+®™ and the BRP logo are trademarks of Bombardier Recreational Products Inc. or its affiliates.1/5 Document No. 2025-1
+CORRECTIVE ACTION
+1. Always make sure to have at least the BUDS3 version 1.02.012 installed.
+2. Using the Multifunction Gauge Update Cable, the BUDS3 Hardware V800 VCI and the BUDS3 V800 VCI, connect the vehicle to
+BUDS3.
+MANDATORY TOOL
+Multifunction Gauge Update Cable (P/N 529036598)
+BUDS3 V800 VCI (P/N 529036613)
+BUDS3 Hardware V800 VCI (P/N 529036614)
+3. Select the " Vehicle Update " tab and perform all the required updates.  ORIGIN MOTORCYCLE SOFTWARE UPDATES
+February 5, 2025 2/5 Document No. 2025-1
+Revision A
+  ORIGIN MOTORCYCLE SOFTWARE UPDATES
+February 5, 2025 3/5 Document No. 2025-1
+Revision A
+4. Ensure the operation is successful for all the modules.
+5. After closing the page, an automatic scan will be performed and the updated modules will be removed from the list.
+ NOTE
+The multifunction gauge update is different from the other modules. It is performed with the blue USB cable. When the
+update is launched, your web browser will automatically open and request to download a file which will be installed by
+BUDS3. Ensure the download window is open to monitor the progression.  ORIGIN MOTORCYCLE SOFTWARE UPDATES
+February 5, 2025 4/5 Document No. 2025-1
+Revision A
+WARRANTY
+Submit a warranty claim using the following information.
+For claiming procedure, refer to the online Dealer/Distributor Warranty Guide .
+WITH BOSSWEB
+CLAIM DETAILS
+Product Line Motorcycle
+Unit Model Year 2025
+Campaign/Bulletin/Description 2025-0001 / 2025-1 / SOFTWARE UPDATE
+Total Labor Time Paid 0.3 hour
+Expiration Date January 31, 2027
+WITH WARRANTY ON DEMAND
+CLAIM DETAILS
+Claim Type Unit Campaign
+Serial Number Enter Serial Number
+Warranty Campaign Select SOFTWARE UPDATE / BULLETIN 2025-1 -
+REPAIR-2WV-2025-0001  from the drop-down list
+Date of Repair Repair date
+Total Labor Time Paid 0.3 hour
+Expiration Date January 31, 2027  ORIGIN MOTORCYCLE SOFTWARE UPDATES
+February 5, 2025 5/5 Document No. 2025-1
+Revision A

@@ -1,0 +1,129 @@
+  
+ 
+            
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ 
+ 
+ISSUE  DATE:  1/2/2020 
+SERVICE BULLETIN SUBJECT:  Coolant Reservoir Guard Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Catalyst Buses  
+COMPLETE BY:  Next Service Opportunity  
+SERVICE BULLETIN  #: SC-20-01 
+ 
+COOLANT RESERVOIR GUARD RETROFIT  
+NOTICE! It is expected that this process will require 2  hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit adds a guard to the rooftop to protect the expansion tanks from damage.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Permanent Marker  
+• Power Drill  
+• 1/4-Inch Drill Bit  
+• Ratchet  
+• 10mm Socket  
+• Plexus Gun  
+• Plexus  
+• Plexus Primer  
+• Shop Towels  
+• Isopropyl Alcohol  
+• Tongue Depressor  
+• Calibrated Torque Wrench  
+• Orange Torque Stripe Paint  
+ 
+ 
+Parts Required:  
+ 
+• 050770 KIT, COOLANT RESERVOIR GUARD (Consisting of)   
+o 046438  GUARD, ROOFTOP EXPANSION TANKS    1 EA  
+o 018575  LOCKNUT, HEX, M6 -1.0, SST, DIN 6926 -A2, NYLOCK  4 EA 
+  Additional Parts Required:  
+ 
+• 019737- 005  PLATE, STUD, 1/4 -20X.25, M6- 1.0X25     4 EA  
+  
+   
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+ 
+Procedure  
+ 
+1. Perform the Proterra approved Lockout/Tagout procedure for safety. Refer to the Proterra 
+Catalyst LOTO Safety Guide if you are unsure of the proper procedure.  
+ 
+2. Use the approved procedures and PPE required for safely working on the rooftop of the bus.  
+ 
+3. Working on the rooftop of the bus, locate the coolant expansion tanks shown in the following 
+illustration.  
+ 
+ 
+4. Temporarily place the new Guard ( 046438) on the rooftop as shown in the following 
+illustration s. The tanks should  be centered in the Guard as shown.  The more open side of the 
+Guard faces the center of the bus as shown in the second illustration.  
+  
+
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+5. Using a Permanent Marker, mark the four slotted holes in the Guard (046438) onto the rooftop 
+of the bus for drilling.  
+ 
+6. Set the Guard (046438) aside.  
+ 
+7. Using a Power Drill with a 1/4 -Inch Drill Bit, drill a hole 8mm deep in the center of the four 
+slotted hole marks on the bus body. Use Tape or a Drill Stop to set the drilling depth.  
+ 
+8. Using a Power Drill with a 36 -Grit Sanding Disk, scuff the areas around the newly drilled holes.  
+ 
+9. Using Shop Towels and Isopropyl Alcohol, clean the newly drilled areas on the rooftop.  
+ 
+10. Using a Power Drill with a 36 -Grit Sanding Disk, scuff the bottom su rface of each Stud Plate 
+(019737- 005). 
+ 
+11. Using Shop Towels and Isopropyl Alcohol, clean the scuffed surfaces of each Stud Plate 
+(019737- 005). 
+ 
+12. Using Shop Towels, apply Plexus Primer to the bottom of each Stud Plate ( 019737- 005). 
+ 
+13. Using a Plexus Gun, apply Plexus to the bottom of each Stud Plate ( 019737- 005). 
+ 
+14. Install each Stud Plate ( 019737- 005) into the drilled locations on the rooftop.  Remove any 
+excess Plexus with a Tongue Depressor.  
+ 
+15. Allow one hour of cure time for the Plexus b efore continuing with the installation.  
+ 
+16. Place the Guard ( 046438) on the Stud Plates (019737- 005) as shown in the following 
+illustration.  
+ 
+
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+ 
+17. Using a 10mm Ratchet/Socket, attach the Guard ( 046438) to the Stud Plates (019737- 005) 
+using four Locknuts (018575).  
+ 
+18. Using a Calibrated Torque Wrench with a 10mm Socket, torque the Locknuts (018575) to 60 
+Inch Pounds.  
+ 
+19. Using Orange Torque Stripe Paint, mark the properly torqued fasteners.  
+ 
+20. Remove the Lockout/Tagout devices and return the bus to service.  

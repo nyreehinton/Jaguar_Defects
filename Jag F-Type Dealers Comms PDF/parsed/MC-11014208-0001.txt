@@ -1,0 +1,110 @@
+      
+ 
+ABS Brake Warning Lights On  
+Service 
+Category  Brake   
+ Section    Brake Control/Dynamic Control System  Market   USA  
+  
+Draft - Confidential  © 2025 Toyota Motor Sales, USA  Page 1 of 3 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2017 - 2019  Highlander HV   
+ 
+ 
+Introduction  
+Some 201 7 – 2019 model year Highlander Hybrid vehicles may exhibit a condition in which the 
+brake, ABS, and/or TRAC warning lights are on and/or a Check VSC message displays. One or 
+more of the following specific Diagnostic Trouble Codes (DTCs): C1391, C1252, C1256, and/o r 
+C1253 will be stored in the vehicle memory to be used as verification. This condition may be 
+caused by a small internal brake fluid leak inside the brake actuator. Follow the Repair Procedure 
+in this bulletin to address this condition.  
+ 
+ 
+ 
+Warranty Inf ormation  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BR2408  R & R the Brake Actuator Assy and  
+Brake Booster with Accumulator  2.0 44050 -48320  8C 99 
+ 
+ 
+ 
+ 
+  APPLICABLE WARRANTY  
+ This repair  is covered  under  the Toyota Basic  Warranty.  This warranty  is in effect  for 36 months  
+or 36,000  miles,  whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+       Page 2 of 3 
+ABS Brake Warning Lights On  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Parts Information  
+PART NUMBER  
+PART  NAME  QTY 
+PREVIOUS  NEW  
+44050 -48320  04008 -26448  Actuator Assy, Brake w/ Fluid  1 
+47070 -48060  04008 -51248  Pump Assy, Brake Booster w/ Accumulator  1 
+44598 -50010  Clamp, Brake Actuator Bracket  1 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  QTY 
+DOT 3 Brake Fluid  1 – 2 Liters  
+ 
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+  NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ GTS+ Software version 2024.0 4.004.02 or later is required.  
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techs tream Order Portal . 
+       Page 3 of 3 
+ABS Brake Warning Lights On  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  
+1. Confirm  the condition exists.  
+Are the brake, ABS, and/or TRAC warning lights ON and/or does a Check VSC  
+message display?  
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+2. Using  GTS+ , check for and record ANY stored DTCs.  
+Are ANY of the following DTCs stored: C1391, C1252, C1256, and/or C1253?  
+ YES — Continue to step 3.  
+ NO — This bullet in does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+3. Remove the brake actuator and booster pump assembly.  
+Refer to TIS, applicable model and model year Repair Manual:  
+ 2017 – 2018  / 2019  Highlander HV:  
+Brake – Brake Control / Dynamic Control Systems  – Brake Actuat or – Removal  
+ 
+ 
+4. Install the NEW brake actuator and booster pump assembly . 
+Refer to TIS, applicable  model and model year Repair Manual:  
+ 2017 – 2019 Highlander HV:  
+Brake – Brake  Control / Dynamic Control Systems – Brake Actuator  – Installation  
+ 
+ 
+5. Using  GTS+ , clear ANY stored DTCs and test -drive the vehicle to confirm the conditions  
+are no longer present.  
+ 
+ 
+ 

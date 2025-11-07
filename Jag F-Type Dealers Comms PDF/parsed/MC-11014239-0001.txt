@@ -1,0 +1,126 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-064
+Service BulletinDate: January, 2025
+INFORMATION
+Information on Transportation / Logistics Mode
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+BrightDrop
+Passenger Cars and
+Light/Medium Duty
+Trucks2020 2026 — — All AllBuick
+Cadillac
+Chevrolet
+GMC
+Involved Region or CountryNorth America, Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru,
+Uruguay, Venezuela, Europe, Uzbekistan, Russia, Middle East, Iraq, Israel, Palestine,
+Japan, Cadillac Korea (South Korea), GM Korea Company, China, Taiwan, Thailand,
+Singapore, Philippines, Australia/New Zealand, Egypt, Other Africa, South AfricaSubject:
+Summary
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Transport Mode Feature, also known as Logistics mode, is used to increase the 12V Battery stand time of the
+vehicle during transit and or extended period of stand time at the dealerships. It is used to put modules on the
+vehicle into a low power mode, reducing the electrical parasitic load on the battery when the vehicle is standing for
+extended period of time. In this mode, stand time can be extended up to 70 days by reducing vehicle drain down to
+as low as 10 mA depending on vehicle and content.
+Important: Vehicles that are shipped from the assembly plant with Transport Mode On, turning the feature Off into
+Customer Mode is included in the normal PDI process time. No additional warranty claims should be submitted to
+disable or enable this feature.
+The modules that participate in Transport Mode are the Body Control Module (BCM), Radio, Front Camera Module,
+Running Boards, Onstar, HVAC, Rear Wheel Steering Control Module and more to come in the future. The major
+contributor to transport mode is the BCM; it shortens the Retained Accessory Power (RAP) time down to 1 minute,
+disables Approach Detection, eye catching lighting features, comfort features like heated seats and steering wheel,
+etc.
+Some other features that are disabled in Transport mode if equipped are:
+• HVAC and Radio features (Ignition Off)
+• Passive and remote keyless entry
+• Perimeter lighting
+Page 2 January, 2025 Bulletin No.: 23-NA-064
+• Automatic running boards
+• Liftgate or tailgate
+• eTrunk (if equipped)
+• Active safety features
+• Charging above approximately 30% (program specific value)
+Transport Mode Procedure
+6308497
+To alert the driver that Transport Mode On is enabled, the red battery Tell Tale light will be flashing and if equipped
+with a Driver Information Center (DIC), it will display a Transport Mode On message as shown in the picture above.
+Important: Logistics mode should be left ON while the vehicle is in dealer inventory.
+Transport Mode can be enabled with the scan tool or manually on-vehicle. The method to turn the mode Off is the
+same to turn the mode On.
+Enabling Transport Mode:
+1. Start the vehicle.
+2. Press and HOLD Brake pedal.
+3. Activate the hazard flashers.
+4. Then press and hold the ignition mode switch for more than 15 seconds.
+5. Transport Mode On message will display on the DIC, if equipped and the Battery Warning light will flash.
+Note: Auto Shutdown Disabled may come up on some vehicles. Transport mode state is changed immediately after
+this message.
+6. Repeat steps 1 through 4 to disable into Customer Mode.
+Important: Refer to Service Information for the transport mode procedure as certain vehicles could vary.
+Enabling/Disabling Transport Mode (Corvette)
+1. Press and HOLD Brake pedal.
+2. Activate the hazard flashers.
+3. Then press and hold the ignition mode switch for more than 15 seconds (the engine will start).
+Note: Transport on DIC message will display, and the red battery icon will flash. (Procedure complete)
+4. Repeat the above steps to toggle Transport Mode Off.
+Bulletin No.: 23-NA-064 January, 2025 Page 3
+Enabling/Disabling Transport Mode on EVs with Passive Power Mode (Blazer EV and Silverado EV WT):
+1. Connect the scan tool to the vehicle.
+2. Launch Techline Connect and open GDS2.
+3. GDS2 Path: Module Diagnostics/Body Control Module/Power Mode/Transport Mode
+4. Select the appropriate button at the bottom of the screen:
+6379540
+Disable to turn Transport Mode OFF (1), Enable to turn Transport Mode ON (2) and the parameter Value
+indicates the vehicle current mode (3), as shown in the picture above.
+Page 4 January, 2025 Bulletin No.: 23-NA-064
+6379797
+5. When Transport Mode is enabled, a message will display on the DIC (1), and the Battery Warning light (2), as
+shown in the photo above will flash.
+6. Repeat steps 1 through 4 and select Disable to enter Customer Mode.
+Enabling/Disabling Transport Mode on EVs with Passive Power Mode (Equinox EV / Silverado EV RST /
+Sierra EV):
+1. Place vehicle into START/PROPULSION mode.
+Bulletin No.: 23-NA-064 January, 2025 Page 5
+6614624
+2. In the radio display, find and select the “Settings” app.
+6614628
+3. Select “Vehicle” from the drop-down list.
+Page 6 January, 2025 Bulletin No.: 23-NA-064
+6614630
+4. Scroll down to the “Transport Mode” selection and enable/disable as required.
+5. The desired Transport mode selection will be applied on the next key cycle.
+6614635
+6. When Transport Mode is enabled, a message will display on the DIC (1), and the Battery Warning light (2), as
+shown in the photo above will flash.
+Bulletin No.: 23-NA-064 January, 2025 Page 7
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 8
+ModifiedReleased April 03, 2023
+Revised June 30, 2023 – Added Enabling/Disabling Transport Mode on EVs with Passive
+Power Mode section.
+Revised April 16, 2024 – Added two bulleted items under Summary, updated title to
+Enabling/Disabling Transport Mode on EVs with Passive Power Mode (Blazer EV and
+Silverado EV WT) and added Enabling/Disabling Transport Mode on EVs with Passive
+Power Mode (Silverado EV RST / Sierra EV) section.
+Revised April 29, 2024 – Added BrightDrop Models.
+Revised May 16, 2024 – Added Equinox EV to Enabling/Disabling Transport Mode on
+EVs with Passive Power Mode.
+Revised September 20, 2024 – Added the 2025 Model Year.
+Revised December 05, 2024 – Updated step 2 and added a Note under Enabling
+Transport Mode.
+Revising January 29, 2025 – Added the 2026 Model Year and Enabling/Disabling
+Transport Mode (Corvette) section.

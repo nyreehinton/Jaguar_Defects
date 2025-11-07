@@ -1,0 +1,39 @@
+  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  
+Steering Noise Diagnosis Guide  
+Document Information  
+Location:  Chassis  
+Topic: Guide to diagnosing "clicking" sound when turning lock to lock statically or at low speed 
+Condition:  Permanent  
+Diagnostic Trouble Codes:  N/A  
+Measure  
+When handling a customer concern of "clicking" or "knocking" sound from the steering when turning from lock to lock 
+statically, or when at low speed please follow the below instruction to rectify the symptom.  
+Basic mechanical checks should be carried out initially to verify:  
+- The wheels and tyres are correct for the vehicle, are in suitable road condition with even tread depth wear across the tyre, and do  
+not have signs of kerb damage  
+- Confirm the wheels have NOT been refurbished or painted  
+- The suspension is in good mechanical order with no excessive wear or damage  
+Clicking from the steering can be caused by grease or poor contact at the mounting points of the steering rack as per  Figure 1.1 . 
+With grease or another lubricant present on the mounting faces, slight movement may be present which can produce an audible 
+"click" or "knock" when turning.  
+ 
+It is necessary to gain access to the mounting faces and clean both the subframe and steering rack face so it is free from gr ease or 
+any other lubricant.  
+A product such as Loctite 7063 or similar is recommended to degrease the surfaces, 
+Mounting faces to be cleaned are labelled in  Figure 1.2.  
+Replace the steering rack bolts with new when refitting the steering rack.  
+The relevant working instruction on SIS must be followed for the removal and refit procedure.  
+
+  
+ 
+Parts Information  
+Steering Rack Mounting Bolts - 00RA570 (X2 Required)  
+Attachments  
+N/A  
+Repair Time  
+3.0 hours to complete repair as agreed by McLaren Warranty  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  
+ 

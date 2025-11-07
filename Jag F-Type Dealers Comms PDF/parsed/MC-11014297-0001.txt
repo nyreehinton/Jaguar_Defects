@@ -1,0 +1,84 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment of a hum, buzz, or vibration type
+noise coming from the HV AC when the mode is set to the defrost
+or ﬂoor positions along with higher blower speeds and higher
+temperature settings.  If the HV AC mode is changed to include
+the instrument panel dash vents the noise will be gone. 
+CauseThe cause of this concern could be the HV AC instrument panel
+dash vent door seals (2) vibrating against the HV AC case, shown
+below .  This concern only happens when the HV AC instrument
+panel dash vent doors (2)  are in the closed position along with
+the HV AC set to a higher temperature and blower speed.
+Bulletin No.: PIT6132B
+Published date: 02/11/2025
+Preliminary Information
+PIT6132B Hum Buzz Vibration Type Noise From HVAC When Set To
+Defrost Or Floor Positions
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade Models 2021 - 2025 All AllAll All
+Chevr oletSilverado 1500/2500/3500 2021 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC Sierra 1500/2500/3500 2021 - 2025 All AllAll All
+GMC Yukon Models 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:  
+Apply ﬂocking tape (3) to the forward edge of each HV AC instrument panel dash vent duct
+openings (1) at the door sealing surface (4) where the forward edge of the door contacts
+the HV AC case.  
+ 
+-  Before any disassembly use the HV AC controls to set the mode to the full
+instrument panel dash vent position, this will open the instrument panel
+dash vent doors to allow the installation of the ﬂocking tape. 
+Important: Do not attempt to remove the brack et from the bottom of the passenger's
+airbag.  This brack et has non-serviceable fasteners.  Attempting to remove them will
+damage the passenger's side airbag module.  T o enable removal of the I/P trim with the
+airbag module, it ma y help to remove some fasteners from the I/P structure to allow the
+right side of the structure to be moved out of the wa y.  This will allow the passenger's
+airbag and I/P trim to be removed more easily .
+-  Next, access the left and right instrument panel outer and center air outlet
+ducts, which in most cases can be done by following SI procedure for
+"Instrument P anel Upper T rim P anel Removal and Installation".
+-  When applying the ﬂocking tape, it should be cut to ﬁt the duct opening and in most
+cases about 15mm will need to be trimmed oﬀ the end of each strip before it is installed. 
+-  The tape should be applied to the forward edge of the port with about half of the tape
+width positioned in the door sealing/contact area and then wrap the remaining tape width
+up into the port opening, as shown (4).  Use an alcohol wipe to clean the HV AC case where
+Version 3
+Modiﬁed03/12/2024 - Created on.  
+08/30/2024 - Updates to the Condition, Cause, Correction,
+Warranty and P arts sections.  
+02/11/2025 - Updates to the correction section.the ﬂocking tape will be applied.  Apply the ﬂocking tape to the case and use ﬁrm pressure
+to mak e sure the tape fully adheres to the HV AC case.
+-  Apply the ﬂocking tape to all 4  instrument panel air outlet duct openings.
+-  Reassemble the vehicle.
+ 
+Parts Information
+The ﬂocking tape can be obtained from the W arranty P arts Center (WPC) using the TSP
+Dealer Request F orm
+This form is located on: Global Connect <Service Department<Service F orms
+Application<General Information tab<TSP Dealer Request F orm.
+Instructions for submitting are on the form. 
+Request WPC886.
+Tape will come from the WPC in a card with four strips and enough to repair one vehicle.
+Warranty Information
+For vehicles under warranty , use the following unique labor operation below .
+Labor
+OperationDescriptionLabor
+Time
+4486238*Remove I/P top cover and IP dash vents to allow damping
+tape to applied to the HV AC module ports for the dash vents3.5
+Hrs.
+* This is a unique labor operation for bulletin use only .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

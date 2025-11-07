@@ -1,0 +1,423 @@
+ 
+ISSUE DATE:  1/16/2020  
+SERVICE BULLETIN SUBJECT:  Catalyst 800V  Software  Update  
+VINs or MODELS AFFECTED:  Catalyst 800V  Vehicles  
+COMPLETE BY : Next Available Service Opportunity  
+SERVICE CAMPAIGN  #: SC-20-11 
+NOTICE! It is expected that this process may require up to 1 hour per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+VEHICLE SOFTWARE  UPDATE  
+Description  
+The reason for this software update is to update various controllers  to the latest state of the art 
+software.  This will improve vehicle up -time, reduce driver interactions  with the doors , and improve 
+diagnostic fault handling . All the included Proterra  Catalyst 800V vehicles  require a change to the 
+software/configuration for the following items:  
+• DWP/Dash Software  
+• Body  Controller  
+• Vehicle Controller  
+  
+2 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Summary of Software Changes  
+There are three controll ers that will be updated.  Below are the high level updates.  More detailed 
+information is available in the individual controller s release notes.  
+• Dash Software   
+o New icons per customer requirements.  
+o Additional text displays for Overhead Charging.  
+o Improve ba ckwards compatibility with earlier vehicles.  
+ 
+• Body Controller  
+o New calibrations to facilitate easier configuration of multiple systems  and d eprecated 
+older calibrations that were no longer needed based on the new configuration 
+architecture . 
+o Addition of a ne w feature for secure bus access via a key switch or CAN anti -theft 
+message . 
+o Addition of SWAT functionality to disable the bus and open the doors when the bus 
+needs to be forcefully boarded . 
+o Improvements to the door integration and switch controls to simpli fy door operation and 
+improve driver and passenger experience . 
+o Added EBC4 messaging to transmit brake wear data via CAN . 
+o Bug fixes to improve door response timing, improve switch robustness, and improve 
+diagnostics surrounding inputs . 
+ 
+• Vehicle Controller  
+o Bug fixes to improve vehicle performance . 
+o Improved Air compressor startup stability . 
+o Updated M ultiple fault lamp statuses . 
+o Updated T emperature sensor fault thresholds.  
+o Added functionality around overhead charge including an additional welded contactor 
+check post charging system . 
+3 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Tools /Programs  Required  
+Tools Required:   
+• Laptop Computer  
+• Nexiq USB-Link 2  
+• USB-Serial Adapter  
+• K-Line Communications Adapter  
+• Proterra Diagnostic Port DB9 Breakout Cable (Octopus)  
+Programs Required:   
+• Proterra Diagnostic s Tool 
+• Parametereditor3  
+Software Files Required  / Preparation   
+IMPORTANT!   NEVER  access the software from the USB memory device, ALWAYS  copy the 
+software files to your computer hard drive and access the software from this location.  Secure the 
+bus with the Vehicle Master Disconnect in the rear ON.  
+ 
+Component  Part Number  Version  
+Driver Display Dash  047051  Rev. 10  
+Body Controller  051531  5.5.4  
+Vehicle Controller  051211  2.2.0  
+ 
+It is recomm ended that you copy the entire “ service bulletin  files” folder to your local machine in order 
+to more effectively keep track of the software versions you are deploying:  
+\\bus.local \files\Engineering \Service Bulletins \Service Bulletin Files for SC -20-11\ 
+Service Bulletin Execution  
+1. Update the Dash Soft ware using the process in Appendix A  
+2. Update the Body Controller Software using the process in Appendix B  
+3. Update the Vehicle Controller Software using the process in Appendix C  
+4. Verify software versions using the Proterra Service Tool  
+5. Update each work order in Service Max when complete  
+ 
+
+4 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ Appendix A  
+MOKI DASH SOFTWARE UPDATE PROCEDURE  
+Description  
+This document contains the necessary informat ion to update the Moki Dash on a Proterra Vehicle.  
+The software  provides the low level drivers for the telltales, icons, gauges, and digital display screens 
+to provide driver feedback on vehicle functionality.  
+Tools /Programs  Required  
+Tools Required:   
+• Laptop Computer  
+• USB-Serial Converter  
+• K-Line Communications Adapter  
+• Proterra OBDII breakout cable  
+Programs Required:   
+• ParameterEditor v3.03  
+Software Files Required / Preparation  
+The .zip file should have already been downloaded locally to your machine.   To program the Moki 
+dashboard , you will need a *.zip data file.  This file contains the necessary files and configuration data 
+to provide an operational drivers dash and screen.    
+IMPORTANT!   Do not unzip the file.  The software that flashes the controller is expecting a zipped 
+package to flash.   
+ 
+Preparing the Vehicle to be Programmed  
+When programming a vehicle, it is critical that the low voltage batteries remain charged and 
+connected throughout the process.  Ensure that the LV batteries are ful ly charged before starting the 
+process.  If they are low you can use the vehicle to recharge them by turning on high voltage, or you 
+can place the bus on a low voltage charger for the duration of the process.   
+NOTE:  If using a low voltage charger, connect ed to wall power, please DO NOT connect your laptop 
+computer to wall power at the same time. This can cause adverse effects or interruptions to 
+programming over the K -line protocol.  
+Connecting to the Vehicle  
+1. Power up and login to the Proterra -Supplied lapt op or a comparable PC that has the 
+ParameterEditor software installed.  
+ 
+2. Turn ON the 12/24V rear Vehicle Master Disconnect located at the curbside rear charge port 
+access panel.  
+
+5 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+3. Connect the cabling and adaptors  to the laptop and to the OBDII Diagnostic Port  located in the 
+Street -Side wheel well box . 
+ 
+NOTE : Make sure you have the K -Line adapter connected to the K -Line connection to the 
+OBD Breakout cable and not the PCAN DB9.  
+4. Press the Hazard Light Switch to wake the bus up.  
+Update Using the ParameterEditor Software  
+1. Open the “Parameter Editor”  version 3  software.  If you do not have this version, please contact 
+Proterra Service for customer laptops or Proterra IT for Proterra owned laptops . 
+ 
+2. On the Parametereditor toolba r, select “Extras” and then “Communications Parameter”.  
+ 
+ 
+3. Ensure the communication parameters are correctly set.  Your COM port may be a different 
+number.  
+ 
+  
+
+6 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+4. On the Parametereditor toolbar, select “File” and then “Load Project”.  
+ 
+ 
+5. Open the folder  where the Driver Work  Place configuration is stored, and select the 
+appropriate *.ZIP file from above.  
+ 
+6. Select  “Load All” (the large down arrow with no letter label next to it):  
+ 
+ 
+7. The downl oad should begin and takes approximately  10 minut es. 
+NOTICE:  The vehicle dash may flash on and off a few times during the process.  
+ 
+
+7 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+8. If a “Select Devices” screen appears, select the double arrows to the right and click “OK ”. 
+ 
+ 
+9. An Error screen may appear, which is normal, simply click “OK”.  
+ 
+ 
+10. When the  download is complete, the lights on the dash should stop flashing and the home 
+screen should again appear.  
+ 
+11. Turn off the Hazards and allow the vehicle to go to sleep.  
+  
+
+8 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Appendix B  
+BODY SOFTWARE UPDATE PROCEDURE  
+Description  
+This document contains the neces sary information to update the Body Controller on a Proterra 
+Vehicle.  This controller provides the control algorithms for body functionality on 800V models.  This 
+covers the control logic relating to driver inputs and display, stop requests, doors, interi or and exterior 
+lighting, and ramp control.  
+Tools /Programs  Required  
+Tools Required:   
+• Laptop Computer  
+• Nexiq USB -Link 2  
+Programs Required:   
+• Proterra Diagnostics Tool 
+Software Files Required / Preparation  
+To program the body controller, you will need a *.ZR32A_A data file.  This file contains the necessary 
+firmware files and a baseline configuration to provide an operational bus body.  The bus may need to 
+be configured to match customer specific functionali ty after programming.   
+If the vehicle has already been configured, the Proterra Diagnostics  Tool will attempt to automatically 
+carry the configuration information forward into the new software version.  
+If needed, configuration information is contained in the released customer configuration 
+documentation.  Ensure that you also have the configuration definition for the customer’s vehicle.  
+IMPORTANT!   NEVER  access the software from the USB memory device  or network drive , 
+ALWAYS  copy the software files to you r computer hard drive and access the software from this 
+location.   
+ 
+
+9 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Preparing the Vehicle to be Programmed  
+When programming a vehicle, it is critical that the low voltage batteries remain connected throughout 
+the process.  Ensure that the LV batteries are  fully charged before starting the process.  If they are 
+low you can use the vehicle to recharge them buy turning on high voltage, or you can place the bus 
+on a low voltage charger for the duration of the process.   
+Connecting to the Vehicle  
+This process w ill guide the user to connect to the vehicle with the Proterra Diagnostics Tool.  
+1. Power up and login to the Proterra -Supplied laptop or a comparable PC that has the Proterra 
+Diagnostic s Tool software installed with a valid license.  
+ 
+2. Turn ON the 12/24V rear Vehicle Master Disconnect located at the curbside rear charge port 
+access panel.  
+ 
+ 
+ 
+3. Connect the Nexiq USB Link2 device to the laptop and to the OBDII Diagnostic Port  located in 
+the Street -Side wheel well box . 
+     
+ 
+Vehicle Master 
+Disconnect  
+10 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+4. Turn the  Driver’s Master Switch to the ACC  position . 
+ 
+ 
+5. On the laptop, double -click on the Proterra Diagnostics Tool software icon to start the software.  
+ 
+ 
+6. When the program opens, read and click OK for the high voltage safety prompt.  
+ 
+7. On the Home tab, select the appropriate device from the drop down and click “Connect”.  
+ 
+8. Once the Proterra Diagnostics Tool has connected to the vehicle, you will have a VIN number 
+and connection status displayed on the home screen, and tabs available to navigate .  If you 
+don’t , double check that the low voltage batteries are connected and that the Nexiq tool is 
+plugged in.  
+  
+
+11 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Download and Store Existing Parameters  
+Sometimes you might want to download and store the customer specific parameters from the vehicle.  
+This can be useful when comparing two vehicles that are behaving differently, or if you are replacing 
+the ZR32A controller on a vehicle.  
+1. After the first vehicle has been completed and verified, disconnect the Proterra Diagnostics 
+Tool and then re -connect.   
+2. Navigate to the Configuration tab and click the “Get Parameters” button. This will download the 
+latest parameter set to the “C: \Logs” folder on your machine.  
+ 
+ 
+3. In windows file explorer, navigate to the C: \Logs folder. Copy the latest downloaded *.zip file to 
+a folder for the specific customer and vehicle.  
+ 
+4. Do not rename the file as the tool will follow the naming convention when reloading the file.  
+Copy!  Get Parameters 
+Button  
+12 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Update Using the Proterra Diagnostic Tool  
+1. Navigate to the CONFIGURATION tab in the left menu.  
+ 
+2. If this is a replacement controller, select the “SET VIN” and program the controller to match the 
+vehicle VIN , then proceed to step 3.  If not proceed to step 3.  
+ 
+3. Select the option for Body Firmwa re “START FLASH ”. 
+ 
+ 
+Click 
+CONFIGURATION  
+Beside Body Firmware, 
+Click START FLASH  
+13 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+4. In the pop -up window, select the software flash file to load to the controller.  
+ 
+ 
+5. The Programming window will come up and will take a few minutes to complete.  The process 
+will flash 5 differe nt files to the controller.   
+ 
+6. After the controller is updated the tool will automatically try to copy over the original 
+configuration into the new software.  Since there is a possibility that configuration options 
+change it is important to check the config uration after restarting the vehicle.  
+ 
+7. Once the process has finished, cycle power to the bus  by moving the driver master switch 
+back to the off position before continuing . 
+ 
+  
+
+14 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Appendix C  
+VEHICLE SOFTWARE UPDATE PROCEDURE  
+Description  
+This document contains the necessary information to update the Proterra Vehicle Integration 
+Controller.  This controller provides the electrical integration of ancillary systems on 800V models.  It 
+owns the vehicle operational state control, startup and shutdown, steeri ng, pneumatics, thermal 
+management, and brake interlock controls.  
+Tools /Programs  Required  
+Tools Required:   
+• Laptop Computer  
+• Nexiq USB -Link 2  
+Programs Required:   
+• Proterra Diagnostics  Tool 
+Software Files Required / Preparation  
+It is recommended that you download any files local to your machine.  To program the vehicle 
+controller, you will need a *.hex data file.  This file will contain memory address and data information 
+that will be written to the controller in order to update the user code space.  This will not update the 
+boot loader or other firmware files.  
+IMPORTANT!   NEVER  access the software from the USB memory device, ALWAYS  copy the 
+software files to your computer hard drive and access the software from this locat ion.  
+ 
+  
+
+15 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Preparing the Vehicle to be Programmed  
+When programming a vehicle, it is critical that the low voltage batteries remain connected throughout 
+the process.  Ensure that the LV batteries are fully charged before starting the process.  If they are 
+low, you can use the vehicle to recharge them buy turning on high voltage or you can place the bus 
+on a low voltage charger for the duration of the process.   
+Connecting to the Vehicle  
+1. Power up and login to the Proterra -Supplied laptop or a comparable PC that  has the Proterra 
+Diagnostic s Tool  software installed with a valid license.  
+ 
+2. Turn ON the 12/24V rear Vehicle Master Disconnect located at the curbside rear charge port 
+access panel.  
+ 
+ 
+3. Connect the Nexiq USB Link2 device to the laptop and to the OBDII Diagnostic Port  located in 
+the Street -Side wheel well box . 
+      
+ 
+4. Press and hold the Street -Side Wheel Well WORK LIGHT  switch until the work lights turn on.  
+ 
+5. On the laptop, double -click on the Proterra Diagnostics Tool software icon to start the software.   
+ 
+Vehicle Master 
+Disconnect  
+16 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+6. When the program opens, read and click OK for the high voltage safety prompt.  
+ 
+7. On the Home tab, select the appropriate device from the drop down and click “Connect”.  
+ 
+8. Once the diagnostic tool has connected to the vehicle, you will have a VIN number and 
+connect ion status displayed on the home screen, and tabs available to navigate.  If you don’t  
+see the Home Scree n, double check that the low voltage batteries are connected and that the 
+Nexiq tool is plugged in.  
+Note:  800V Proterra vehicles are equipped with an a utomatic battery disconnect that will 
+protect the low voltage batteries from a deep discharge.  
+ 
+ 
+
+17 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Update Using the Proterra Diagnostic Tool  
+1. Navigate to the CONFIGURATION tab in the left menu.
+ 
+ 
+2. Select the option for Vehicle Controller  “START FLASH”.  
+NOTICE:  The “INITIAL FLASH” button is only for offline programing of the Vehicle Controller 
+with an Offline Programming Kit.  
+ 
+ 
+3. In the pop -up window, select the software flash file to load the controller.  
+ 
+Click 
+CONFIGURATION  
+Beside Vehicle  Controller , 
+Click START FLASH  
+Select the file and 
+Click Open  
+18 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+4. The Programming window will come up and may take a few minutes to complete.  
+ 
+5. After completing the software update, Turn OFF the Work Light switch inside the street side  
+wheel well box . 
+ 
+ 
+6. Turn OFF the 12/24V rear Vehicle Master Disconnect located behind the vehicle curbside rear 
+charge port  access panel , wait 10 seconds, and then turn back to ON.  
+ 
+ 
+7. Verify that the vehicle turns on with no faults and that it is capable of charging.  
+ 
+8. Return the vehicle to service.  
+Vehicl e Master 
+Disconnect  

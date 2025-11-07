@@ -1,0 +1,227 @@
+ 
+Alexander Dennis 
+Dennis Way, Guildford,  
+Surrey, GU1 1AF.  After Market Support Line: 
+0845 358 9988 (U.K.) +44 (0) 1483 571271 Service Bulletin
+Service Manual Heading Rear Suspension 
+Models Affected: Title: 
+ 
+Anti Roll Bar Pin & Mounting Rubbers No: 
+ 
+928 E500 Classic, E500MMC, 
+E500 Super Lo, Enviro 400  
+Date: March 2019  
+Page: 1 of 5  
+ 
+ 
+Introduction 
+The purpose of this Service Bulletin is to info rm Customers of the availability of Service List 
+SL3308 which has been released and can be us ed on Enviro 500 and Enviro 400 should the 
+lower linkage pin is missing or found to be loose, or if you are changing the ARB bushes. 
+ 
+The SL kit contains new Anti Roll Bar (ARB ) Pin and Mounting Rubbers, fixing nuts and 
+washers.  For Enviro 400 this service ki t supersedes previously issued SL3128. 
+ 
+Parts Supplied: Service List SL3308  
+ 
+   
+ 
+ 
+ 
+Installation Instructions Enviro 500 :  Also refer the fig 1 & 2 on following pages  
+ 
+1. All the replacement parts are available in the Service Kit SL3308. 
+ 
+2. Remove and replace shaft ARB lower 477321 with pin anti-roll bar 477424 (Item 1) on both sides. 
+ 
+3.
+ Remove and replace Mounting Rubber ARB 665 403 with Bush, Anti Roll Bar 666385 (Item 
+4).  
+4. Fit washers 423615 (Item 2) and WMA-16SP (Item 5) in positions shown and M16 Nuts 
+MCN-516P (Item 3).  
+ 
+5. Ensure that the suspension set at the correct ride height before tightening the Anti-roll 
+bar linkage and fixing clamps to avoid ‘wi nding up’ the bushes. Tightening Torque = 
+249-275 Nm (184-203 lbsft).  
+ 
+ Item Part number Description QTY_per vehicle 
+1 477424 PIN, ANTI ROLL BAR 2 
+2 423615 WASHER ARB 2 
+3 MCN-515P NUT FULL S/L M16 4 
+4 666385 BUSH, ANTI ROLL BAR 4 
+5 WMA-16SP WASHER PLAIN M16 2 
+Last Bulletin Issued: 927 
+ 
+ Service Manual Heading Rear Suspension  
+Models Affected: Title: 
+ 
+Anti Roll Bar Pin & Mounting Rubbers No: 
+ 
+928  E500 Classic, E500MMC, 
+E500 Super Lo, Enviro 400  
+Date: March 2019  
+Page: 2 of 5  
+ 
+ 
+ 
+ 
+    
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+Service Manual Heading Rear Suspension  
+Models Affected: Title: 
+ 
+Anti Roll Bar Pin & Mounting Rubbers No: 
+ 
+928  E500 Classic, E500MMC, 
+E500 Super Lo, Enviro 400  
+Date: March 2019  
+Page: 3 of 5  
+ 
+ 
+Installation Instructions Enviro 400 : Also refer the fig 3 & 4 on following pages  
+  1. Starting on one side of the ARB, remove the M16 nuts at both ends of the ARB pin 
+(starting with the inner nut). Remove M16 washer and washer (423615). Repeat 
+the operation on other side. 
+ 
+2. Remove the ARB pins (425375) from both ends and discard them. Allow the ARB to 
+swing down under control. Remove the existing ARB mounting rubbers (658973) 
+from the ARB eyes and discard them. Refer to Fig 3 View A. 
+ 3. Assemble the new ARB mounting rubbers supp lied in the SL Kit (666385) into both 
+ends of the ARB eyes. 
+ 
+4. Align the ARB with the mounting plate and insert the new pins supplied in the SL 
+kit (477424) into each end (passing thro ugh the new mounting rubbers). Refer to 
+Fig 4 View B. Assemble the M16 washer and nut and tighten the pins to the housing plate. Torque to 230 – 260Nm. Th is must be done before stage 5. 
+ 
+5. Ensure that the vehicle is at normal ri de height, then assemble the 423615 washer 
+onto one of the ARB pins, refit the M16 nut and torque tighten to 230 – 260Nm. 
+Repeat operation on the other side of the ARB. 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+Service Manual Heading Rear Suspension  
+Models Affected: Title: 
+ 
+Anti Roll Bar Pin & Mounting Rubbers No: 
+ 
+928  E500 Classic, E500MMC, 
+E500 Super Lo, Enviro 400  
+Date: March 2019  
+Page: 4 of 5  
+ 
+ 
+Fig 3 – Enviro 400 Existing Arrangement  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+
+Service Manual Heading Rear Suspension  
+Models Affected: Title: 
+ 
+Anti Roll Bar Pin & Mounting Rubbers No: 
+ 
+928  E500 Classic, E500MMC, 
+E500 Super Lo, Enviro 400  
+Date: March 2019  
+Page: 5 of 5  
+ 
+Fig 4 – After Fitting SL3308 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 

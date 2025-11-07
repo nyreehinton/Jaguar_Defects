@@ -1,0 +1,34 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+Stellantis  US LLC                                           Version 4.5 06/08/2022 
+ 
+ 
+Case Number:  S2508000011  
+ 
+ 
+Release Date:  February  2025 
+ 
+ 
+Symptom/Vehicle Issue : P1CDE -00 - Hybrid/EV Wake -Up Control 2 Output Circuit 
+Short To Batter y Set In The B attery Pack Control Module (BPCM)  
+ 
+Discussion:  The customer may bring their vehicle in for service because the  Red 
+Wrench Service Electrical System lamp is illuminated  in the cluster. Upon scanni ng the 
+vehicle  for DTCs you may find P1CDE -00 - Hybrid/EV Wake -Up Control 2 Output 
+Circuit Short To Battery set in the Battery Pack Control Module (BPCM) . 
+ 
+P1CDE -00 should be ig nored and there will be no effect  on vehicle operation or battery 
+performance . Engineering is developing a BPCM software up date to change the 
+internal diagnostics that are setting this fault. This software update will be released in 
+the form of a TSB or RSU in late Q1 2025.  
+ 

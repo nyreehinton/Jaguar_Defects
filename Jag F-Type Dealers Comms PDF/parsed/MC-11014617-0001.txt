@@ -1,0 +1,44 @@
+Involved Region or
+CountryNorth America
+ConditionA vehicle ma y be encountered with a service high
+voltage message.  
+A customer ma y also state that at times there is no heat
+or cooling in the cabin.  
+When checking for codes B2BAA will be found.
+Cause Software
+Bulletin No.: PIT6346
+Published date: 02/24/2025
+Preliminary Information
+PIT6346 Service High Voltage Message B2BAA
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ 2024 - 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+GMC Hummer EV P ickup2024 - 2025 All AllAll All
+GMC Hummer EV SUV 2024 - 2025 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+Scan vehicle for codes. 
+If B2BAA is found reprogram the K16 Battery Energy Control Module (BECM). 
+If K16 BECM programming is already up to date follow SI diagnostics for the code.
+Warranty Information
+Labor
+OperationDescriptionLabor
+Time
+2810945Battery Energy Control Module Reprogramming with
+SPS.3 Hr
+ 
+Additional SI K eywords
+AC, air, B2BA A, conditioning, heat, high, service, voltage
+Version History
+Version 1
+Modiﬁed 02/24/2025  - Created on.
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

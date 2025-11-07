@@ -1,0 +1,91 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-215
+Service BulletinDate: February, 2025
+WARRANTY ADMINISTRATION
+Warranty Administration – Ultium PowerUP Level 2 Home Charger Warranty
+Claim Information
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission:
+from to from to
+Buick
+All Electric Vehicle
+(BEV) Models2022 2026 — — — —Cadillac
+Chevrolet
+GMC
+Involved Region or Country North AmericaSubject:
+6179034
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+This bulletin ONLY applies to Ultium PowerUP Level 2 Charger Part Numbers 84922762 and 85642869.
+Important: Part Number 85794792 - PowerUp2 Level 2 Stationary Charger 11.5kW is NOT APPLICABLE to this
+bulletin. For warranty concerns, customers must be referred to the General Motors EV Concierge Team. Dealers are
+not permitted to submit parts warranty claims for this part.
+Page 2 February, 2025 Bulletin No.: 22-NA-215
+Ultium PowerUP Level 2 Chargers are Electric Vehicle drive motor battery chargers designed to be installed in a
+customer’s home. The chargers are covered under the terms of a 3-year Limited Parts Warranty from the date of
+purchase. The limited warranty is only valid for the original purchaser and is not transferrable.
+This Warranty does NOT cover:
+• Damage or failure due to negligence, alteration, accident, abuse, improper installation (including software
+updates), operation or storage, faulty wiring or connections, or use for a purpose which the product is not
+designed or approved by GM
+• Normal wear & tear
+• Loss of time, inconvenience, loss of use of the vehicle, or other consequential damages
+• Labor cost for electrical diagnosis, removal or installation
+• Products utilized for vehicles registered and normally operated outside of the United States or Canada
+Note For Canada Customers:  The customer should first contact the EV Concierge team at 1 (833) 382-4389 for
+warranty information prior to removal of the charger. If a replacement charger is required, the EV Concierge team will
+contact the Dealer to advise of the charger replacement.
+ 
+Dealers are to conduct an inspection of the charger for signs of abuse or damage. (Damage or abuse would not be
+considered as a warrantable replacement).
+Dealers are to verify warranty eligibility by requesting from the customer their original receipt or proof of purchase
+which must specify the original purchase of part number 84922762 or 85642869. A copy is to be retained by the
+dealer in order to support the parts replacement transaction.
+Dealers should provide the consumer with a replacement charger of the same model/part number and submit an
+over-the-counter warranty claim (ZPTC Transaction Type) for reimbursement. Subsequent replacements under the
+warranty will receive the balance of the original warranty period but not less than 12 months.
+Chargers replaced under warranty should be retained in accordance with currently published warranty parts handling
+procedures and retention policies.
+GM will be requesting initial failed chargers be returned to the Warranty Parts Center for root cause analysis.
+Dealers will receive a return request upon claim payment. Refer to the latest version of Service Bulletin
+99-00-89-019 (Global Warranty Management (GWM) Warranty Parts Center (WPC) Parts Return Program Infor-
+mation) for further details on the part return process and eligible administrative allowance.
+Parts Information
+This bulletin and warranty ONLY apply to the PowerUp Level 2 chargers listed below and purchased by a customer
+over the counter. They do not apply to any charger that may have been provided with a vehicle at the time of
+purchase.
+Description Part Number Qty
+PowerUp Level 2
+Stationary Charger
+11.5 KW84922762 1
+PowerUp+ Level 2
+Stationary Charger
+19.2 KW85642869 1
+Note: The part numbers listed above were current at time of publication. Refer to the electronic parts catalog for part
+supersession information. As stated at the top of this bulletin, Part Number 85794792 is not applicable to this
+bulletin.
+Warranty Transaction Information
+Important: Part Numbers 84922762 & 85642869 are considered an over-the-counter sale and do not include labor
+for installation, removal or reinstallation. Customers who may have purchased an extended service contract would
+need to follow the guidelines outlined in the contract.
+Bulletin No.: 22-NA-215 February, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONLabor Operation Description Labor Time Net Item Transaction Type
+0603088 Level 2 Charger Replacement N/A N/A ZPTC
+Version 6
+Modified Released October 28, 2022
+Revised November 10, 2022 – Updated the Parts Information.
+Revised February 01, 2023 – Added a Note for Canada Customers statement.
+Revised July 18, 2023 – Added the 2024 Model Year and Important statement at
+beginning of bulletin.
+Revised November 22, 2023 – Updated the Parts Information section.
+Revised February 10, 2025 – Added the 2025-2026 Model Years and updated applicable
+information throughout the bulletin.

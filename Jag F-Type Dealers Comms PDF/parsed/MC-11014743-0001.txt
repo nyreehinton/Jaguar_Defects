@@ -1,0 +1,67 @@
+Technical Service Bulletin (TSB)
+Power Running Board Trim Paint Peeling
+REFERENCE: TSB: 23-010-25
+GROUP: 23 - BodyDate: February 28, 2025 REVISION: –
+VEHICLES
+AFFECTED:2022 - 2024 (WS) Grand Wagoneer/Wagoneer
+This bulletin applies to vehicles equipped with Power Deployable
+Running Boards (Sales Code MY7) and Exterior Accents-Piano Black
+(Sales Code MHY).MARKET APPLICABILITY:
+NA
+EE
+SACH
+IAP
+MEA
+CUSTOMER
+SYMPTOM:The customer may comment on the following:
+●Power running board black trim paint peeling Fig. 1  and Fig. 2 .
+CAUSE: Material defect
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-026,
+date of issue February 28, 2025.
+REPAIR SUMMARY:
+This bulletin involves replacing one or both power running board steps as needed.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+23-09-01-97 Power Running Board
+- Complete Assembly -
+Replace One Side
+(1 - Semi Skilled)6 - Electrical and Body
+Systems0.5 Hrs.
+23-09-01-98 Power Running Board
+- Complete Assembly -
+Replace Both Sides
+(1 - Semi Skilled)6 - Electrical and Body
+Systems0.7 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68614316AA Step, Power Running
+BoardLong Wheel Base
+Right, [MY7], [MHY]
+1 (AR) 68614317AA Step, Power Running
+BoardLong Wheel Base
+Left, [MY7], [MHY]
+1 (AR) 68602296AA Step, Power Running
+BoardShort Wheel Base
+MY7, Right, [MY7], [MHY]
+1 (AR) 68602297AA Step, Power Running
+BoardShort Wheel Base
+MY7, Left, [MY7], [MHY]
+DIAGNOSIS:
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+REPAIR PROCEDURE:
+NOTE: This is not a proactive repair. This Repair Procedure is to only be performed under this RSU if
+the vehicle exhibits the symptom/conditions listed in this document.
+Fig. 1
+Paint Peeling Example
+1 - Evidence Of Paint Peeling
+Fig. 2
+Paint Peeling Example
+1 - Evidence Of Paint Peeling
+1. Replace the power running board step assembly. Refer to the detailed service procedures listed in
+DealerCONNECT> Service Library under: 23 - Body / Exterior / Step, Side / Removal and Installation.J23 FSAR-RSU-5055 -2-
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- J23 FSAR-RSU-5055

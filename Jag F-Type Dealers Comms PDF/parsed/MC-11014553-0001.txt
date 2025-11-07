@@ -1,0 +1,65 @@
+   
+Kia America, Inc.   
+Corporate Headquarters  
+111 Peters Canyon Road, Irvine, CA 92606 -1790 USA  
+ 
+ 
+VOLUNTARY SERVICE CAMPAIGN 
+February 17, 2025  
+ 
+Dear Kia Sportage Hybrid (HEV)  Vehicle Owner:  
+ 
+Kia America, Inc. is conducting a Voluntary Service Campaign to update the battery management system (BMS) to prevent 
+overcharging of the 12V Lithium battery in certain  2023 -2024 MY Sportage Hybrid (HEV)  vehicles .  Our records indicate that 
+you own or lease one of the potentially affected vehicles.  
+ 
+Why is Kia Conducting This Service Campaign ? 
+ 
+Due to a software logic issue, the battery management system (BMS) may inadvertently overcharge the 12V Lithium battery.     
+If the 12V Lithium battery  becomes overcharged, y ou may experience  a reduction  in motive power accompanied by the 
+“Check Hybrid System. Stop Safely” warning  message , Hybrid system warning lamp  , Service warning lamp , 
+Charging system warning lamp , and a rapid beeping  sound for 10 seconds.  
+ 
+What Will Kia Do ? 
+ 
+Kia dealers wil l update the vehicle’s  BMS software to prevent overcharging of the 12V Lithium battery .  This campaign will 
+be performed free of charge  at no cost to you.  
+ 
+What Should You Do?  
+ 
+• IMPORTANT REMINDER:  Your vehicle is not equipped with a regular 12V lead -acid battery that needs periodic 
+replacement.  It is equipped with a lithium- ion polymer type battery which is integrated into the HEV high -voltage battery.  
+The 12V Lithium battery in your vehicle has a protection system that disconnects the battery if it becomes over -charged 
+or under -charged.  If this occurs, you may be able to use your vehicle’s emergency starting procedure to start your 
+vehicle.  Please refer to the “Emergency starting: Using the 12V battery reset button” section of your Owner’s Manual 
+(page 7 -5 for the 2023 model year or page 8 -5 for the 2024 model year).  
+ 
+• Please contact your Kia dealer to schedule a service appointment at your earliest convenience.  The time required to perform the campaign can vary depending on the dealer’s work schedule, so a service appointment is an important way of minimizing your inconvenience.  Please present this notice when you arrive at the Kia dealer.  
+ 
+• To find your nearest dealer, visit www.kia.com and click the “Find Dealer” button in the upper right corner (“Dealers” on a 
+mobile device).   You can also use the QR code below with your mobile device to access this information (see the bottom 
+of this letter for more information about QR code use) :   
+
+SC335A Have You Changed Your Address Or Sold Your Kia?  
+ 
+If you have changed your home address, sold your Kia vehicle, or no longer own your vehicle, please complete the attached 
+prepaid “Change of Address/Ownership” card and mail it to us.  
+ 
+What If You Have Other Questions?  
+ 
+Should you have any questions regarding this Voluntary Service Campaign, or your dealer does not respond to your service request in a timely manner, we suggest that you call Kia’s C ustomer Care Center at 1 -800- 333- 4542 (Monday through Friday, 
+5AM to 6PM, Pacific Time), or visit https://customercare.kiausa. com.  
+ Please accept our apologies for any inconvenience this situation may cause you.  
+ 
+Sincerely,  
+ 
+Customer Care Department  
+ 
+QR Code Use:  
+• A QR Code is a square, 2 -dimensional barcode that can be read by mobile devices loaded with an appropriate barcode or QR Code Reader App .  The app reads the barcode 
+image and then launches/uploads the specific information the code contains, such as URLs, text, photos, videos.  
+• With a mobile device,  download a QR Code Reader App .  With many devices, you can do this through an app store or marketplace.  
+• Open the QR Code Reader App on your mobile device.   The app will utilize your device ’s camera.   Center the code in the camera viewing area.   With some apps, the URL 
+or other information will automatically load when the code is recognized.   For others, you may have to snap or take a picture of the QR code.   Refer to the QR Reader Code 
+App instructions.  
+ 

@@ -1,0 +1,166 @@
+2025-02-20
+This Service Information Bulletin (Revision 2) replaces SI B51 02 24 dated January 2025.
+ 
+What’ s New :
+Model added
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description
+G45 X3 Sports Activity V ehicle
+G60 5 Series Sedan
+G90 M5 Sedan
+G99 M5 Touring
+SITUA TION
+A squeaking sound is heard when folding either of the exterior mirrors assemblies in or out.
+ 
+Note: Please see attached video V51 02 24.
+ 
+CAUSE
+Unfavorable tolerance positions within the exterior mirror assembly .
+ 
+CORRECTION
+Clean and lubricate the sliding surface of the exterior mirror assembly .
+ 
+PROCEDURE
+1. Verify that the customer ’s vehicle has this issue. 
+2. Manually fold the exterior mirror assembly inwards (see photo 1 in the attachment). 
+3. Clean the sliding surface on the exterior mirror assembly and apply PF1 lubricant (see photo 2 in the attachment)
+4. Manually fold the exterior mirror assembly outwards (see photo 3 in the attachment).
+5. Clean the sliding surface on the exterior mirror assembly and apply PFI lubricant (see photo 4 in the attachment). 
+6. If the sound is still present, replace the af fected exterior mirror assembly .
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in either ETK
+or AIR which considers specific equipment and/or options.
+ 
+Part Number Description Quantity
+Refer to ETK/AIR Exterior mirror assembly (Driver) If needed
+Refer to ETK/AIR Exterior mirror assembly (Passenger) If needed
+83 23 0 309 627 Lubricant PF1 (50 gr/1.75 oz) Sublet as
+needed
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 02 24_SQUEAKING SOUND FROM THE EXTERIOR MIRROR ASSEMBLY WHEN FOLDING IN OR OUT
+about:blank 1/4
+Repair Code: 6713053900 Exterior mirror flap motor Unpleasant noises
+ 
+Diagnosis
+ 
+Labor Operation Description Labor Allowance
+51 00 001*Work time to verify that the customer ’s vehicle has the
+issue described in this bulletin (Main or Plusposition)WT
+Or   
+00 58 500* Diagnosis W orktime Flat Rate (Plusposition) 2 FRU
+Or   
+00 58 000* Diagnosis W orktime Flat Rate (Main work) 3 FRU
+ 
+Only one Main work flat rate labor operation code can be claimed per workshop visit. 
+ 
+For applicable centers, if your work time labor operation code 51 00 001 includes Main work, then only use the Plusposition
+labor operation code for any other repairs that are being performed.
+ 
+Exterior Mirror Repair W ork Procedure
+ 
+And, together with the applicable diagnosis above, claim the repair work procedure below that was
+performed.
+ 
+Labor Operation Description Labor Allowance
+51 99 000Clean the sliding surface on the exterior mirror assembly ,
+apply PF1 lubricant and recheck the operation ( one-
+side) 2 FRU
+Or:   
+51 99 000Clean the sliding surface on the exterior mirror
+assemblies, apply PF1 lubricant and recheck their
+operation ( both-sides) 4 FRU
+ 
+Work time labor operation codes 51 00 001, 00 58 500, and 51 99 000 are not considered Main labor operations.
+ 
+And:
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the repair-related bulk supply materials
+(Do not use the BMW part numbers for claim submission)See the sublet
+reimbursement
+calculations below
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk material (BMW part number)
+is at the dealer net price amount for the proportional quantity used plus your center ’s handling.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+Exterior Mirror Replacement (Additional W ork)
+ 
+If following additional work is required after performing the repair work procedure above, obtain and submit for the
+flat rate unit (FRU) allowances that apply .
+ 
+Replacing One Side – Left or Right
+ 
+Labor Operation Description Labor Allowance
+51 16 002Replacing exterior mirror on left or right  front door (Main
+work)As applicable
+Or:   Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 02 24_SQUEAKING SOUND FROM THE EXTERIOR MIRROR ASSEMBLY WHEN FOLDING IN OR OUT
+about:blank 2/4
+51 16 502Replacing exterior mirror on left or right  front door
+(Plusposition)As applicable
+And, if applicable:   
+66 55 900Additional work with Autonomous Parking Camera on left
+or right (UCAP) (Remount Autonomous Parking Camera
+in exterior mirror) (one side)As applicable
+ 
+If you are using a Main labor code for another repair , including the diagnosis above, use the Plus code labor
+operation 51 16 502 instead of 51 16 002.
+ 
+Or:
+ 
+Replacing Both Sides
+ 
+Labor Operation Description Labor Allowance
+51 16 022Replacing both exterior mirrors on the front doors (Main
+work)  As applicable
+Or:   
+51 16 522Replacing both  exterior mirrors on the front doors
+(Plusposition)  As applicable
+And, if applicable:   
+66 55 901Additional work with Autonomous Parking Camera on left
+and right (UCAP) (Remount Autonomous Parking Camera
+in exterior mirror) (Both sides)As applicable
+ 
+If you are using a Main labor code for another repair , including the diagnosis above, use the Plus code labor
+operation 51 16 522 instead of 51 16 022.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (the last seven (7) characters of the VIN, select the
+applicable Model if two or more vehicle choices show), or enter the full VIN (17 characters), click on the
+“Search” button. Next, click on the “Flat Rate Units” button and enter the flat rate labor operation code in the
+field to the right, click “Search” to display the Flat Rate Unit Group detail choices.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Supporting Materials
+picture_as_pdf B51_02_24_Attachment _1 1_25.pdf
+Videos
+51 02 24
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 02 24_SQUEAKING SOUND FROM THE EXTERIOR MIRROR ASSEMBLY WHEN FOLDING IN OR OUT
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:05 AM 51 02 24_SQUEAKING SOUND FROM THE EXTERIOR MIRROR ASSEMBLY WHEN FOLDING IN OR OUT
+about:blank 4/4
+1
+23
+4B51 02 24 Attachment                      January 2025

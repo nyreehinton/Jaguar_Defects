@@ -1,0 +1,441 @@
+ 
+ 
+Classification: Reference: Date: 
+EC24-014 NTB24-060 January 30, 2025 
+ 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/19 
+ 
+VOLUNTARY EMISSIONS RECALL CAMPAIGN  
+2017 TITAN XD DIESEL; ENGINE CONTROL MODULE 
+ 
+CAMPAIGN ID #: PD126  
+APPLIED VEHICLES: 2017 Titan XD (A61) 
+APPLIED ENGINES: Cummins 5.0L Diesel 
+ 
+ 
+Check Service COMM or Dealer  Business Systems (DBS)  
+National Service History to confirm campaign eligibility . 
+  
+INTRODUCTION 
+ 
+Nissan is conducting this voluntar
+y emission s recall campaign on certain specific model 
+year 2017 Titan XD vehicles equipped with a diesel engine, to replace the Engine Control Module (ECM). This service will be performed at  no charge to the customer for parts or 
+labor.   
+IDENTIFICATION NUMBER 
+ 
+Nissan has assigned identificat ion number PD126 to this ca mpaign. This number must 
+appear on all communication and documentation of any nature dealing with this campaign 
+. 
+  
+DEALER RESPONSIBILITY 
+ 
+It is the dealer’s responsib
+ility to check Serv ice COMM or Dealer Business Systems (DBS) 
+National Service History for the campaign stat us on each vehicle falling within the range of 
+this voluntary emissions recall which for any reason enters the service department. This 
+includes vehicles purchased from private parties  or presented by transient (tourist) owners 
+and vehicles in a dealer’s inventory.  Federal law requires that new vehicles in dealer 
+inventory which are the subject of a safety recall must be corrected prior to sale.  
+Failure to do so can result in civil penalties by the Na tional Highway Traffic Safety 
+Administration .  While federal law applies only to new vehicles, Nissan strongly 
+encourages dealers to correct any used vehicles in  their inventory before they are retailed. 
+2/19 NTB24-060  
+REPAIR OVERVIEW 
+ 
+ 
+  
+Confirmed through Service COMM or DBS:  
+ 
+Campaign ID # PD126 applies  
+Save Injector Codes and engine 
+serial number with CONSULT-III 
+plus and VI3 
+Save Computer Data with 
+CONSULT-III plus and VI3 
+END  
+Write Saved Data with  
+CONSULT-III plus and VI3 
+Program ECM to  
+Part Number 23710-EZ46D with  
+CONSULT-III plus and VI3 
+Write Injector Codes and VIN  
+with CONSULT-III plus and VI3 
+Replace the ECM  
+Register VIN with  
+CONSULT-III plus and VI3  
+Complete Campaign PD128 
+to install PM sensor and control 
+unit 
+3/19 NTB24-060  
+IMPORTANT 
+ 
+Attention California Dealers 
+ 
+ 
+An Emission Recall Campaign Completion (ERCC) label must be filled ou t by the technician 
+performing the repair, and then attached to the underside of the vehicle hood. A sample of the label is shown below. 
+ 
+                                                                  
+                                                                                                Figure 1  
+  
+ 
+California law prohibits owners from renewing t heir California registration if emissions related 
+recall work has not been performed. California de alers are now required to issue a proof of 
+correction certificate to vehicle owners upon completion of emissions related recall work. 
+Please fill out one of the campaign completion forms for each owner that has this campaign 
+performed. Instruct owners to keep this certific ate unless they are requested to mail it to the 
+DMV. A sample of the form is shown in Figure 2 below. 
+ 
+ 
+ 
+Figure 2  
+ 
+HINT: 
+ 
+ These forms (item number CAEMRC 1-20 ) and labels (item number NIS-UHL-
+16) are available from Nissan Publicat ions (1-800-247-5321) at no charge. 
+ 
+ When either item (form or label) is ordered, you will automatically receive the 
+other item as well. 
+  
+Orange colored NIS-UHL-16 Technician: Fill in here: 
+ 
+“Replaced ECM per Campaign ID # PD126” 
+Fill in “DEALER CODE” and “DATE”  
+ 
+Put “ARB/EPA” under “CHANGE AUTHORITY” 
+4/19 NTB24-060 SERVICE PROCEDURE 
+ 
+HINT:  Campaign PD128 MUST be completed to install the PM sensor and control unit after 
+the ECM replacement as part of this repair.  IMPORTANT: Before starting, make sure: 
+ 
+ ASIST on the CONSULT PC has been synchr onized (updated) to the current date. 
+ 
+ All CONSULT-III plus  software updates (if any) have been installed. 
+   
+Save Computer Data 
+ 
+ 1. Confirm that the CON
+SULT PC is connected to Wi-Fi. 
+  2. Connect the Vehicle Interf ace (VI) to the vehicle. 
+ 
+ Connect the provided USB cable to  the VI3 and the CONSULT PC. 
+ 
+ 
+  
+To prevent insufficient or unstable Wi -Fi connections and potential damage to the 
+ECM during the reprogram pr ocedure, use the USB cable between the VI3 and the 
+CONSULT PC. 
+ 
+ 3. Turn the ignition ON with the engine OFF (engine not running).   4. Start CONSULT-III plus (C-I II plus) on the CONSULT PC. 
+  5. If prompted, select USA/CANADA Dealers  from the drop-down menu, and then 
+select OK. 
+    
+6. Login using your NNAnet credentials. 
+ 
+IMPORTANT:  If not prompted to enter your username and password, the CONSULT 
+PC may not be connected to Wi-Fi. Close C-III plus, confirm the CONSULT PC is 
+connected to Wi-Fi, and then reopen C-III plus. 
+    
+
+5/19 NTB24-060  
+7. Wait for the VI to be recognized. 
+ 
+ The serial number will be displa yed when the VI is recognized. 
+  8. Select Diagnosis (One System) . 
+ 
+ 
+Figure 3 
+ 
+  
+VI is 
+recognized 
+6/19 NTB24-060  
+9. Navigate C-III plus to ENGINE  > Work support (Figure 4). 
+  10. Select ENTE
+R INJECTOR CODES . 
+  11. Select Start . 
+  
+ 
+Figure 4
+ 
+   
+
+7/19 NTB24-060  
+12. Print the screen in Figure 5 and attach it to the repair order. 
+ HINT:  To make it easier for writing the CURRE
+NT Injector Codes, the Injector Codes 
+can be copied and pasted into a notepad file by highlighting each Injector Code individually and right clicki ng the mouse and selecting Copy . 
+  
+ 
+Figure 5
+ 
+  13. Select End. 
+   
+Injector 
+Codes 
+8/19 NTB24-060  
+14. Select Work support. 
+  15. Select SAVE COMPUTER DATA . 
+  16. Select Start . 
+ 
+ After selecting Start , a screen message may appear that says: “Latest diagnostic 
+tool update must be used before saving the data, otherwise there is a risk that 
+the data entry will not work”. 
+ 
+o If the message above appears, select Continue . 
+  
+ 
+Figure 6 
+  
+  
+
+9/19 NTB24-060 17. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+ 
+ 18. Select Confirm . 
+ 
+ 
+Figure 7 
+  19. Select End. 
+ 
+ 
+Figure 8  
+
+10/19 NTB24-060 20. Turn the ignition OFF. 
+  21. Close C-III plus.   22. Replace the ECM. 
+ 
+ Refer to the ESM: ENGINE > ENGINE CONTROL SYSTEM > CUMMINS 5.0L > 
+REMOVAL AND INSTALLATION > EC M > Removal and Installation  
+ 
+ Torque the ECM retaining bolts to 11 N•m (1.1 kg-m, 8 ft-lb). 
+ 
+ 
+ Program the New ECM to the Part Number Listed in Table A 
+ 
+Table A 
+ 
+MODEL ECM PROGRAM PART NUMBER: 
+Titan XD with diesel engine 23710-EZ46D 
+ 
+ 
+ 
+ 
+Perform the following before st arting the reprogramming proc edure to prevent damage to  
+the control unit. 
+ 
+ If you are not familiar with the reprogramming procedure, refer to the Electronic 
+Service Manual (ESM) and the CONSULT Software Manual to reprogram the 
+ECU. Follow all precautions in both m anuals to prevent possible personal injury 
+and/or damage to the ECU. 
+ 
+ Connect the AC Adapter  to the CONSULT PC. 
+ 
+ Connect the CONSULT PC to the Internet via Wi-Fi. 
+ 
+ Ensure ASIST on the CONSULT PC has  been synchronized (updated) to the 
+current date and all CONSULT software updates (if any) have been installed. 
+ 
+HINT:   
+ 
+ When reprogramming is complete, you will be required to perform DTC Erase . 
+ 
+ Turn OFF all external Bluetooth® devices (e.g., cell phones,  printers, etc.) within 
+range   of the CONSULT PC and the VI. If Bluetooth® signal waves are within range 
+of the CONSULT PC or VI during reprogramming, the reprogramming may be 
+interrupted. 
+ 
+ Turn the hazard warning lamps ON. 
+ 
+ Turn OFF all other vehicle electrical loads such as exterior lights, interior lights, 
+HVAC, blower, rear defogger, audio, NAVI, seat heater, steering wheel heater, etc. If electrical loads rema in ON, the ECM may be damaged. 
+ 
+ Connect a battery maintainer  or smart charger, set to reflash mode or a similar 
+setting, to ensure the battery volt age stays between 12.0 V and 13.5 V. 
+  
+
+11/19 NTB24-060  
+23. Turn the ignition ON with t he engine OFF (engine not running). 
+  24. Start C-III plus  on the CONSULT PC. 
+  25. If prompted, select USA/CANADA Dealers  from the drop-down menu, and then 
+select OK. 
+  26. Login using your NNAnet credentials. 
+ 
+IMPORTANT:  If not prompted to enter your username and password, the CONSULT 
+PC may not be connected to Wi-Fi. Close C-III plus, confirm the CONSULT PC is 
+connected to Wi-Fi, and then reopen C-III plus. 
+  27. Program the new ECM to 23710-EZ46D.   28. After completing Erase All DTCs , print a copy of th e CONSULT screen showing 
+the part number of the control unit and attach it  to the repair order. 
+  
+12/19 NTB24-060  
+ 
+ 
+Write Injector Codes and Saved Data 
+ 
+29. Return to the C-III plus Home screen ( Figure 9). 
+  30. Confirm the ignition is
+ ON wi th the engine OFF (engine not running). 
+  31. Confirm the plus VI is recognized.  
+ 
+ The Serial No. will display when the plus VI is recognized. 
+  32. Select Diagnosis (One System) . 
+  
+ 
+Figure 9 
+ 
+
+13/19 NTB24-060  
+ 33. Navigate C-III plus to ENGINE  > Work support . 
+  34. Select ENTER INJECTOR CODES . 
+  35. Select Start . 
+  
+ 
+Figure 10
+ 
+   
+
+14/19 NTB24-060  
+36. Enter the Injector Codes printed in step 12 on page 7 into the Required column boxes 
+for each cylinder (Figure 11). 
+ 37. Select VALI
+DATE and make sure the Injector Codes in the CURRENT  column boxes 
+match the codes in the Required column boxes. 
+ 
+ If the Injector Codes do not match, try entering the Injector Codes again. 
+  
+ 
+Figure 11
+ 
+  
+Injector 
+Codes 
+15/19 NTB24-060  
+ 38. Select End to return to the Work support  menu. 
+  39. Select WRITE SAVED DATA . 
+  40. Select Start . 
+  
+ 
+Figure 12  
+  41. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+   
+
+16/19 NTB24-060  
+42. Select Confirm . 
+  
+ 
+Figure 13  
+  43. Wait for the procedure to complete.  
+ 
+Figure 14
+ 
+   
+
+17/19 NTB24-060  
+44. Select End to return to the Work support  menu. 
+ 
+ 
+Figure 15  
+  45. Select VIN Registration and follow the on-screen steps to register the VIN (screen 
+not shown). 
+  46. Close C-III plus by selecting the X in the upper right hand corner (not shown).   47. Turn the ignition OFF.   48. Disconnect and remove t he VI from the vehicle. 
+  49. Disconnect the battery maintainer/smart charger.   50. Close the hood.   
+ 
+ 
+  
+
+18/19 NTB24-060 ECM Recovery 
+ 
+Do not disconnect the plus VI or shut down C-III plus if reprogramming does not 
+complete . 
+ 
+If reprogramming does not complete and the “!?”  icon displays as shown in  
+Figure 16: 
+ 
+ 
+ 
+Figure 16  
+ 
+  
+If reprogramming does not complete and the 
+“X” icon displays as shown in  
+Figure 17: 
+ 
+ 
+ 
+Figure 17  
+  
+   
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ External Bluetooth® devices 
+are OFF. 
+ 
+ All electrical loads are OFF. 
+ 
+ Select retry and follow the 
+on screen instructions. 
+ 
+ “Retry” may not go through on 
+first attempt and can be 
+selected more than once. 
+ 
+ 
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ CONSULT A/C adapter is 
+plugged in. 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ Transmission is in Park. 
+ 
+ All C-III plus / VI cables are 
+securely connected. 
+ 
+ All C-III plus updates are 
+installed. 
+ 
+ Select Home, and restart 
+the reprogram procedure 
+from the beginning. XXXXXXXXXXX XXXXXX 
+XXXXXXXXXXX 
+XXXXXXXXXXX XXXXXX 
+XXXXXXXXXXX 
+19/19 NTB24-060  
+  
+PARTS INFORMATION 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+ENGINE CONTROL MODULE, BLANK REMAN 2371M-EZ40A-RE 1 
+ 
+ 
+    
+CLAIMS INFORMATION 
+ 
+Submit a “CM” line claim using the following claims coding: 
+ 
+CAMPAIGN (“CM”) ID DESCRIPTION OP CODE FRT 
+PD126 Replace and Pr ogram ECM PD1260 1.5 
+ 
+           
+ 
+       
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+January 30, 2025 NTB24-060 Orig inal bulletin published 
+ 
+  
+ 

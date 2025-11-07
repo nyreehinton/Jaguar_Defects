@@ -1,0 +1,171 @@
+   
+TECHNICAL SERVICE BULLETIN
+Lower Than Actual Fuel Level Indication On The Fuel Gauge Or Inaccurate
+Distance To Empty (DTE) Displayed In The Instrument Panel Cluster (IPC)
+After Adding Fuel25-2059
+26 February
+2025
+This bulletin supersedes 24-2261. Reason for update: update the Service Procedure, parts list and labor operations
+Model:
+Ford
+2024 ExpeditionBuilt on or before 19-Dec-2023
+Lincoln
+2024 NavigatorBuilt on or before 19-Dec-2023
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit at least one of the following conditions:
+• Lower than actual fuel level indication on the fuel gauge
+• Inaccurate DTE displayed in the IPC after adding fuel to the vehicle
+This may be due to the IPC software and can occur if the vehicle is shut off before placing the GSM in P and then
+partially filling the fuel tank.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+reprogram the IPC.
+Parts - Parts To Inspect And Replace Only If Necessary
+Service Part
+NumberClaim QuantityPackage Order
+QuantityNumber in
+PackageDescription
+BAGM-48H6-760 Only If Necessary (1
+Possible)1Battery
+BAGM-49H8 Only If Necessary (1
+Possible)1Battery
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Only If Necessary indicates the part is not mandatory. Refer to the Service Procedure to determine the
+inspection/inclusion criteria.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2024 Expedition/Navigator - Perform software update for GWM, APIM, TCU and ICP 252059A 3.1 Hrs.
+Additional Time For Further Updates To GWM, APIM, TCU “Refer To Warranty & Policy
+Manual, Section 1.3 For Time Recording Requirements And Procedures For Actual Time.
+Ford Monitors Module Reprogramming Vehicle History Session Data To Compare Against
+Warranty Claiming Activity” (Can Be Claimed With Operation A)AP252059 Actual
+Time Up
+To 2.0
+Hrs.
+Repair/Claim Coding
+Causal Part: 10849
+Condition Code:04
+Service Procedure
+NOTE: The time required to complete this procedure varies depending on several factors including the
+number of module software updates required, available internet bandwidth, USB flash drive variability, and
+the potential that CAN flashing (software update via the DLC with FDRS) may be required. Connect to the
+internet with an ethernet cable, use a USB 3.2 Gen 2 or higher flash drive. When performing USB software
+updates, using high speed USB ports on the laptop is recommended for faster file transfer.
+1. Start an FDRS session and navigate to Toolbox tab > Datalogger > body control module (BCM) and select the
+BATT_SOC PID. Verify the PID reads 50% or higher.
+NOTE: Connecting the battery charger negative clamp directly to the battery negative terminal might result in
+the SOC PID not immediately reflecting the improvement from charging.
+(1). If SOC is less than 50%, charge the battery by attaching the battery charger's negative clamp to the engine or
+chassis ground and not the negative battery terminal. Refer to WSM, Section 414-01.
+(2). If the battery is unable to achieve a 50% SOC, use the Rotunda GRX-3590 or DCA-8000 testers to verify if
+replacement is required.
+• If the battery does not need to be replaced, disconnect the Rotunda charger and perform a BMS reset using
+the FDRS scan tool.
+• If the battery is replaced, fully charge the new battery, disconnect the Rotunda charger and perform a BMS
+reset using the FDRS scan tool.
+2. Reconnect the battery charger and set it to maintain a vehicle voltage of 12.6-13.6 volts. A low battery SOC while
+performing a software update to any module may result in a repeat "Restart Required" message in the vehicle's
+center display screen or a message on the FDRS saying "Part Number Validation Failed" or "DID Validation
+Failed".
+3. Is there a software update available for any of the following modules?
+GWM
+APIM
+TCU
+IPC
+(1). Yes - proceed to Step 4.
+(2). No - this article does not apply.
+4. Prepare to update the software for the GWM, APIM, and TCU.
+(1). A 64GB or larger USB flash drive is required for GWM, APIM, TCU and IPC software updates. USB2 Gen 2 or
+higher is recommended for faster file transfer on both the computer port and the USB drive.
+(2). Make sure the USB flash drive being used is formatted correctly. To see the available drives, hold down the
+Windows icon keyboard key and press the E keyboard key. Right click on the USB flash drive and select
+Properties. If File System under the General tab is not exFAT, the drive must be formatted.
+(3). To format the USB flash drive:
+• Right click on the USB flash drive.
+• Select Format, select exFAT for the File System.
+• Select Default Allocation Size for the Allocation Unit Size.
+(4). De-selecting Quick Format is not necessary and results in a lengthier operation.
+5. Using the FDRS, begin module programming by selecting the "SW Updates" tab. Follow all on-screen instructions
+carefully.
+6. When prompted, connect the USB flash drive to the FDRS.
+7. When prompted by the FDRS, safely remove/eject the USB flash drive from the FDRS. Start the vehicle ( KOER)
+then connect the USB flash drive to the USB media hub to install the software into the module. When the USB
+software update begins, the center display screen displays a message stating "Do Not Remove USB". The update
+may take 10 minutes or longer to complete.
+NOTE: It may take up to 5 minutes for the vehicle to recognize the USB flash drive with software update.
+8. When the vehicle's center display screen prompts to restart the vehicle:
+(1). Turn the vehicle OFF.
+(2). Wait 10 minutes.
+(3). Restart the vehicle (KOER). The update is still in process at this time.
+9. Follow FDRS on-screen prompts to complete the update.
+NOTE: It may take up to 5 minutes before "Update Successful" appears in the vehicle's center display
+screen. After 5 minutes if "Update Successful" pop-up is not shown on the center display screen, remove the
+USB flash drive and select YES on the FDRS prompt stating "Was The USB Update Successful" ( FDRS
+verifies if the module software update was successfully installed on the module).
+10. Perform the software update for the GWM. Follow all update screens. If there is no GWM software update
+available, proceed to Step 11.
+(1). Follow the center display screen prompts.
+(2). Follow FDRS prompts to complete the GWM programming.
+• Once the pop up stating "Update Successful" appears in the center display screen, select Close, remove the
+USB flash drive from the USB media hub, and select Yes on FDRS indicating the update installed successfully.
+This initiates the remaining automated configuration steps and reports the module software part numbers and
+application software levels to the Ford online database. Failure to follow this step results in an inaccurate
+database as well as omitted, improperly installed, or improperly configured applications (features) such as
+navigation (if equipped). It is normal for the module to reset during this step.
+(3). Proceed to Step 11.
+11. Perform the software update for the APIM. Follow all update screens. If there is no APIM software update
+available, proceed to Step 12.
+(1). Follow the center display screen prompts.
+(2). Follow FDRS prompts to complete the APIM programming.
+• Once the pop up stating "Update Successful" appears in the center display screen, select Close, remove the
+USB flash drive from the USB media hub, and select Yes on FDRS indicating the update installed successfully.
+This initiates the remaining automated configuration steps and reports the module software part numbers and
+application software levels to the Ford online database. Failure to follow this step results in an inaccurate
+database as well as omitted, improperly installed, or improperly configured applications (features) such as
+navigation (if equipped). It is normal for the module to reset during this step.
+(3). Proceed to Step 12.
+12. Perform the software update for the TCU. Follow all update screens. If there is no TCU software update available,
+proceed to Step 13.
+(1). Follow the center display screen prompts.
+(2). Follow FDRS prompts to complete the TCU programming.
+• Once the pop up stating "Update Successful" appears in the center display screen, select Close, remove the
+USB flash drive from the USB media hub, and select Yes on FDRS indicating the update installed successfully.
+This initiates the remaining automated configuration steps and reports the module software part numbers and
+application software levels to the Ford online database. Failure to follow this step results in an inaccurate
+database as well as omitted, improperly installed, or improperly configured applications (features) such as
+navigation (if equipped). It is normal for the module to reset during this step.
+(3). Proceed to Step 13.
+13. Perform the software update for the IPC. Follow all update screens. If there is no IPC software update available,
+proceed to Step 14.
+(1). Follow the center display screen prompts.
+(2). Follow FDRS prompts to complete the IPC programming.
+• Once the pop up stating "Update Successful" appears in the center display screen, select Close, remove the
+USB flash drive from the USB media hub, and select Yes on FDRS indicating the update installed successfully.
+This initiates the remaining automated configuration steps and reports the module software part numbers and
+application software levels to the Ford online database. Failure to follow this step results in an inaccurate
+database as well as omitted, improperly installed, or improperly configured applications (features) such as
+navigation (if equipped). It is normal for the module to reset during this step.
+14. Perform a network test using the FDRS scan tool.
+(1). Click on the envelope icon.
+(2). Select "Refresh FDRS Files" (this will close FDRS when completed)
+(3). Launch FDRS.
+(4). Start new FDRS session.
+15. Are there any updates available for the GWM, APIM, TCU and/or IPC?
+NOTE: The option to update a module may not be available until other module(s) are updated to a certain
+level. The network test is a confirmation that all modules are at the latest available software. Some repairs
+may require multiple network tests to reveal all module dependant software.
+(1). Yes - proceed to Step 10.
+(2). No - repair is complete.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

@@ -1,0 +1,28 @@
+Version  1
+Modiﬁed 02/17/2025 - Created on.
+Bulletin No.: PIT6340
+Published date: 02/17/2025
+Preliminary Information
+PIT6340 Integrated Chassis Control Module (ICCM) Parasitic Drain After 12V Battery
+Replacement or Recharge
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletColorado 2024 - 2025 All AllAll All
+GMC Canyon 2024 - 2025 All AllAll All
+Involved Region or Country:  North America
+Condition: Some customers ma y comment on a dead 12V battery after it has been
+replaced or recharged.  Some technicians ma y ﬁnd a parasitic drain of 200+mA
+coming from the ICCM (K38 Chassis Control Module).
+Cause: This ma y be due to software anomalies that ma y be corrected by a reset of the
+ICCM system.
+Correction:
+Do not replace the ICCM (K38 Chassis Control Module).  Instead perform a reset of the system using the procedure below:
+1) Remove the F01 (20A) F use in the Engine Wiring Harness Junction Block.
+2) Wait 5 to 10 seconds.
+3) Install the F01 (20A) F use in the Engine Wiring Harness Junction Block .
+The PI will be updated or replaced with TSB once a determination has been made .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

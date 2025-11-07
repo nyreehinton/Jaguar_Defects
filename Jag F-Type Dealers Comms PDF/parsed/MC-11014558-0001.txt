@@ -1,0 +1,489 @@
+    Issue Date: Feb. 13, 202 5 
+ 
+    
+ 
+    
+  
+NOTE   
+    Revised on Feb. 5  
+2-10．8) on page15; Tightening torque of side cowling screw is revised from 6.0N ･m 
+to 4.5 N･m 
+    Revised on Feb.11  
+Added below sentence: P.9  
+“Perform the same operation as described in 2) to 10) and remove the cowling on the opposite  
+side.”  
+Revise the sentence on P.11: Regarding inserting the rubber sheet between radiator and radiator  
+fan. 
+Added Below sentence: P.16  
+  “Perform the same operation as described in 1) to 9) and remove the cowling on the opposite  
+side.”  
+Deleted below word: P16  
+3) Check that cardboard box is set 
+securely. Check the   
+  Revise 2- 5. Unpacking , 2-11. Final inspection after the work and 2 -12. Repacking procedure.  
+ 
+ 
+ Repair Instruction of Cooling Fan M otor 
+Bolt Ret ightening 
+< GSX800F > 
+ 
+©Suzuki Motor Corporation, 2025 . All rights reserved.  
+1 
+  
+Workflow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 1. Confirmation of Affected Vehicles  ································ ······ Page 2 
+1-1. V.I.N. Location  ·························································· Page 2 
+2. Countermeasure Operations  ································ ··················  Page 3 
+2-1.  Required Tools  ································ ·············································· Page 3 
+2-2. Replacement Parts  ································ ································ ······· Page 3 
+2-3. Countermeasure  ··········································································· Page 4 
+2-4. Preparation  ····················································································· Page 5 
+2-5. Unpacking  ································ ······················································ Page 5 
+2-6. Cowling removal  ································ ···········································  Page 7 
+2-7. Removal of Cooling Fan Assembly  ·········································  Page 9 
+2-8. Retightening of Cooling Fan Motor bolt  ····························· Page 12 
+2-9. Installation of Cooling Fan Assembly  ································ · Page 12 
+2-10.  Installation of Cowling  ································ ·····························  Page 14 
+2-11. Final inspection after the work  ································ ············· Page 16 
+2-12.  Repacking  ································ ···················································  Page 16 
+2 
+ 
+1. Confirmation of Affected Vehicles  
+1-1. V.I.N. Location  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+GSX -8R V.I.N.  
+Location on box  
+V.I.N.  
+Location on vehicle  
+3 
+ 2. Countermeasure Operations  
+2-1. Required Tools  
+Tool Name  Size, Special Tool Number  
+Electric impact wrench  - 
+Box wrench  10mm、12mm  
+Box wrench（Long type 55mm ） 10mm  
+Torque wrench  5N･m、5.5N･m、10N･m 
+Joint  (Extension bar)  L=75mm 、L＝150mm  
+Hexagon socket wrench  4mm、5mm 
+Phillips screwdriver  No.2  
+T-type wrench  - 
+Flat type Spatulas  (Remover)  (To remove fastener)  
+Waste cloth   
+ 
+ 
+Special Tools (Shipped from SMC)  
+No Part Name  
+1 Socket for Radiator Fan Motor Bolt tightening  
+2 Rubber sheet  
+The Qty of shipped parts is depends on the number of affected units.  
+Please refer to shipping information.  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+2-2. Replacement parts  
+No replacement parts for this repair  
+ 
+ 
+No1 No2 
+4 
+  
+2-3. Countermeasure  
+Retightening Cooling  Fan Motor Bolt . 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precautions  
+• When two people work together, confirm what to do next verbally each other for safety.  
+• Disassembled parts should be carefully stored so that they are not damaged until they are 
+assembled,  and organized so that they are not missing.  
+• Absolutely no fire allowed during the work.  
+• When handling flammable materials such as solvents and gasoline, be sure to ventilate and be 
+careful of fire.  
+ 
+ 
+  
+Refer to the service manual and set -up manual for the details not mentioned in the  instructions.  
+ 
+
+5 
+ 2-4. Preparation  
+  
+(A): Packed vehicle  
+(B): Working space  
+ 
+SELF PROTECTION  
+  
+ 
+2-5. Unpackaging 
+1)  Remove a band.  
+   (A): Band  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE:  
+Reuse the band.  
+6 
+ 2) Remove the cardboard.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Remove the bolts (A) of the bracket and bracket  
+4) Remove the bolts of the top frame of packing frame and remove the top frame.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5) Remove the bolts of the packing frame and remove the front struts and side struts.  
+ 
+ 
+ 
+  
+ 
+  
+NOTE:  
+Reuse the c ardboard . 
+NOTE:  
+Protect the vehicle to prevent from 
+damages during unpacking work  
+7 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2-6. C owling removal  
+ 
+ 
+  1) Remove the fasteners  (1) and hook (Only 
+right side).  
+          
+2) Remove the side front cowling screws (1), side 
+cowling screw (2) and under cowling bolts (3).  
+      
+NOTE:  
+Put protective covers on edge of crate to prevent 
+injury during repair work if necessary.  
+ 
+NOTE:  
+To carry out work simultaneously with two persons (one person for each of left and right sides).  
+
+8 
+ 3) Remove the fasteners (1).  
+ 
+       
+ 
+4) Detach the side inner cowling (1) form the front part 
+of side cowling assembly (2) in the direction of the 
+arrow in order of “1” to “2”.  
+       
+5) Detach the rear part of side cowling assembly (1) from the side rear cowling (2) in the direction of the arrow.  
+ 
+ 
+    
+  
+6) Detach the side cowling assembly (1) in the direction of arrow.  
+ 
+       
+
+9 
+  
+7) Disconnect the turn signal light coupler (1) in order of “1” to “2”.  
+ 
+        
+8) Remove the side cowling assembly.  
+9) Remove the fasteners (1).  
+10) Remove the side inner cowling (2) in the direction of arrow.  
+          
+ 
+Perform the same operation as described in 2) to 10 ) and remove the cowl ing on the opposite side.  
+ 
+ 
+2-7. Removal of Cooling Fan Assembly  
+1) Disconnect the cooling fan motor coupler (1).  
+ 
+       
+
+10 
+ 2) Remove Bracket bolt  (1) and radiator mounting bolts  (2). 
+3) Tilt the radiator body forward of the vehicle to open a space on the cooling fan side.  
+ 
+                        
+4) Insert the rubber sheet  between the radiator fan and 
+the radiator  to prevent scratches on the radiator fin 
+as shown in the picture.  
+       
+ 
+NOTE:  
+When removing the bracket bolt, the person on the opposite side 
+should support the radiator . 
+NOTE:  
+The core of the radiator is easily deformed and damaged, so be careful when working. 
+Rubber sheet  
+11 
+ 5) Remove the bolts ( 1) and plate (2).  
+6) Remove the cooling fan assembly mounting bolts ( 3) and cooling fan assembly ( 4) from the radiator  
+and take it from the left side of the vehicle. 
+ 
+ 
+ 
+ 
+      
+
+12 
+ 2-8. Retightening of Cooling Fan Motor bolt  
+1) Retightening of Cooling Fan Motor bolt  (1). 
+ 
+Tightening torque (a) 
+5.0 N·m (0. 51 kgf-m, 3.70 lbf-ft)  
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+2-9. Installation of Cooling Fan Assembly  
+1) Install cooling fan assembly ( 4) and tighten the cooling fan assembly mounting bolts ( 3) to the specified 
+torque.   
+2) Install the plate (2) and tighten the bolts (1).  
+ 
+Tightening torque (a) 
+8.4 N·m ( 0.86 kgf -m, 6.20 lbf- ft) 
+         
+NOTE:  
+When retightening of Cooling Fan Motor bolt, use special tool as 
+shown below picture.  
+
+13 
+ 3) Remove the rubber sheet after installing the cooling fan.  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+4) Tighten the Bracket bolt  (1) and radiator mounting bolts  (2) to the specified torque.  
+ 
+Tightening torque(a)  
+10.0 N·m (1.0 kgf -m, 7.50 lbf- ft) 
+Tightening torque(b)  
+5.5 N·m (0.56 kgf -m, 4.05 lbf- ft) 
+              
+     
+5) Connect the cooling fan motor coupler (1).  
+       
+NOTE:  
+When installing  the bracket bolt, the person on the opposite side 
+should support the radiator . Rubber sheet  
+14 
+ 2-10. Installation of Cowling  
+1) Install the side inner cowling (2) in the direction 
+of arrow.  
+2) Install the fasteners (1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) connect the turn signal light coupler (1) in 
+the direction of arrow.  
+ 
+ 
+ 
+ 
+ 
+ 
+4) Attach the side cowling assembly (1) in 
+the direction of arrow.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5) Attach the rear part of side cowling 
+assembly (1) from the side rear cowling (2) 
+in the direction of the arrow.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15 
+ 6) Attach the side inner cowling (1) form the 
+front part of side cowling assembly (2) in 
+the direction of the arrow in order of “ 2” to 
+“1 
+ 
+ 
+ 
+ 
+7) Install the fast eners (1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8) Tighten the side front cowling screws (1), 
+side cowling screw (2) and under cowling 
+bolts (3)  to the specified torque.  
+Tightening torque (a) 
+10.0 N·m (1.0 kgf -m, 7.50 lbf- ft) 
+Tightening torque (b) 
+6.0 N·m ( 0. 61 kgf-m, 4.45 lbf-ft) 
+4.5 N·m (0. 46 kgf-m, 3.35 lbf-ft) 
+Tightening torque (c) 
+4.5 N·m (0. 46 kgf-m, 3.35 lbf-ft) 
+ 
+9) Install the fasteners  (1) (Only right side).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Perform the same operation as described in 1 ) to 9 ) and install the cowl ing on the opposite side.  
+
+16 
+ 2-11. Final inspection after the work  
+(1) Check that each part is securely set and tightened.  
+(2) Check each parts has no damage  
+(3) Check the radiator core has no deformation or damage.  
+ 
+2-12. Repacking  
+1) Repacking the vehicle with the inverse procedure of 2-5. 
+ 
+    
+2) Check that cardboard box is set 
+securely. Check the  
+    
+ NOTE:  
+Align the vehicle with the illustration 
+on the cardboard.  NOTE:  
+• Confirm that V.I.N. of the cardboard is  matched the vehicle’s one.  
+• Restore all protective material after the work is done.  
+• Confirm that the box containing  parts is stored in the crate.  

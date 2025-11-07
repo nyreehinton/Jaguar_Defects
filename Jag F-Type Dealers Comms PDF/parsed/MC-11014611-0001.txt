@@ -1,0 +1,93 @@
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+ 
+ 
+ ATTENTION : Mercedes -Benz Dealer Principals, General Managers, Sales Managers, Service Managers & Parts Managers  
+ 
+ Service Campaign Notification  
+February 28, 2025  
+Campaign #   Description  Communication Module Software  Update  
+– Mercedes Me Connect OTA    N/A 25P5497839  
+☒ Over -the-Air (“OTA”) Update  
+Campaign Details  
+Total  
+Service Campaign  
+Population  25,329  
+Model(s)/Platform(s)  G-Class  (463 platform ) 
+Model Year(s)  2019 -2023  
+Issue   
+Mercedes -Benz AG, the manufacturer of Mercedes -Benz vehicles , has determined that on certain 
+subject vehicles , the communication module  software  does not correspond to the current series 
+production configuration . The communication module will receive an SCN coding update to improv e 
+system stability  and service accessibility . 
+Remedy  MBUSA will conduct an OTA service campaign. Remote software updates are automatically 
+downloaded and installed in the customer’s vehicle free of charge without an additional workshop 
+visit via the data link of the communication module.   
+Launch D ate The vehicles will not be visible or flagged in VMI or EVA.  
+Warranty Claim Notice  No Service Action is required by the Dealer for this Campaign.  
+ 
+  
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+Dealers can check for a successful OTA update in VeDoc, or the customer can check using 
+the Mercedes me connect App.  Customers can continue to drive their vehicle. Sufficient 
+battery voltage may be required for the OTA update to be initialized. If the vehicle has not 
+been driven in four or more weeks, the ignition should be cycled to initialize the process.  
+ 
+ 
+Instructions to verify a successful OTA update in VeDoc:  
+Dealers  can search the VIN in VeDoc ( Figure 1, A ), then click "Control Units" and "Hermes - 
+control unit" ( Figure 1, B  and C ). If the Software Object Number  (Figure 1, D) is 
+“A2479027815 ” then the OTA update was successful.  
+ 
+ 
+            Figure 1  – Successful OTA update in VeDoc  
+ 
+ 
+ 
+C B
+ A
+ 
+D
+ 
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+Instructions to verify a successful OTA update in Mercedes -me connect 
+App:  
+Using the Mercedes -me connect App on Android or Apple, the customer can check the 
+status of the OTA update by going to the “Vehicle” icon and selecting “Over -the-Air Vehicle 
+Updates” ( Figure 2 ). A successful OTA update will show as “Installed” ( Figure 3 ).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2  – Over -the-Air Vehicle 
+Updates  Figure 3 – 
+A. Pending OTA Update  
+B. Successful OTA Update  
+ 

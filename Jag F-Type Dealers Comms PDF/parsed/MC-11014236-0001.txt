@@ -1,0 +1,672 @@
+  A printed copy is for reference only; publication information can be updated at any time.  
+Always refer to KGIS for the latest information. After logging in kdealer.com, the newest technical 
+publications are listed in ‘Service Releases’ and has the latest service information that has been released.Kia America, Inc.   GROUP  MODEL  
+Voluntary Emissions  
+Service Campaign  2022-2023 MY 
+Multiple Model s 
+Listed  (HEV , PHEV ) 
+NUMBER  DATE  
+SC325 February  2025 
+VOLUNTARY EMISSIONS SERVICE CAMPAIGN  
+AEWP INSPECTION AND REPLACEMENT  (SC325) 
+ 
+This bulletin provides information to inspect and, if necessary, replace the Auxiliary Electric Water Pump (AEWP), 
+control harness wiring, and/or engine room junction box for coolant intrusion and/or corrosion on certain 2022 -
+2023MY Kia Hybrid and Plug -in Hybrid vehicle s listed in the table below. The AEWP in the subject vehicles may 
+crack internally and allow coolant to intrude into the AEWP circuitry. If coolant enters the AEWP circuitry,  the 
+Check Engine Light (CEL) may be illuminated with one or more DT Cs listed on page 2 . If the vehicle continues 
+to be driven in this condition, the Active Air Flap (AAF) warning message can also activate, and coolant may 
+eventually migrate through the wiring harness to the engine room junction block. This may result in a reduction 
+of motive power and may cause the vehicle to release air pollutants which exceeds Federal and California 
+standards. These standards were established to protect the public health and welfare from the dangers of air 
+pollution. Follow th e procedure outlined in this publication to inspect for a related DTC(s) stored and coolant 
+leaking into the AEWP harness wiring connector on the applicable vehicle. Depending on the inspection result, 
+replacement of the AEWP may be required, along with po ssible Control Harness wiring and PCB block assembly. 
+Before conducting the procedure, verify that the vehicle is included in the list of affected VINs.  
+ 
+ 
+ 
+MY Model  Production Date Range  
+2022 -2023  Sorento HEV, PHEV (MQ4 P/HEV)  Gamma II 1.6L T -GDI March 02, 2022 – December 27, 2022  
+2023  Sportage HEV, PHEV (NQ5 P/HEV)  Gamma II 1.6L T -GDI March 02, 2022 – January 04, 2023  
+2023  Niro HEV, PHEV (SG2 P/HEV)  Kappa 1.6L GDI  June 21, 2022 – April 26, 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+SUBJECT:  
+  
+Repair status for a VIN is provided on KDealer+  (Service → Warranty Coverage → Warranty 
+Coverage Inquiry → Campaign Information). Not completed Recall / Service Action reports are 
+available on KDealer+  (Consumer Affairs → Not Completed Recall → Recall VIN → Select Report), 
+which includes a list of affected vehicles.  
+ NOTICE  
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 2 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  Flowchart : 
+Related DTC Description (s): 
+ 
+• P260100  – Coolant Pump Control Circuit Range/Performance  
+• P2B9C00 - Coolant Pump 'A' Stuck/Stalled  
+• U019F00 - Lost Communication with Engine Coolant Pump Control Module  
+• U062300 - Lost Communication with Coolant Pump 'A'  
+• U111200 - LIN Communication Error  
+ 
+Vehicle IN
+Vehicle OUTAEWP
+Replacement
+(pg. 5)Are Related
+DTCs Stored?
+Control
+Harness
+Inspection
+(AEWP Side)
+Control
+Harness
+Inspection
+(PC Block Side)Control Harness +
+AEWP
+Replacement
+(pg. 5 & 6)
+Control Harness +
+AEWP Replacement+
+PCB Block Replacement
+(pg. 5 & 6)YES
+(NG)
+NG
+NGOK
+OK
+NO
+(OK)
+One (1) of the MQ4 HEV  Control Harness Part Numbers is 
+currently unavailable. If an MQ4 HEV vehicle requires the 
+replacement of the unavailable control harness part number, the 
+vehicle will need to be parked  until the replacement part number 
+is available.
+ 
+ 
+Note: A Vehicle Diagnosis Number (VDN)  must be created for DTC’s prior to ordering parts and 
+performing necessary procedure(s), as outlined in this TSB. If a VDN is not created , Parts Ordering and 
+Warranty claim submission issues WILL occur. Any claims for replacement parts are subject to Warranty 
+review and chargeback . 
+  Page 3 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  Inspection Procedure:  
+1. Using KDS, scan the vehicle for related DTC(s):  
+ 
+• U019F00 – Lost Communication with Engine Coolant Pump Control Module  
+• U062300 – Lost Communication with Coolant Pump ‘A’  
+• P260100 – Coolant Pump ‘A’ Control Circuit Performance/Stuck Off  
+• P2B9C00 – Coolant Pump ‘A’ Stuck/Stalled  
+• U111200 – LIN Communication Error  
+2. 
+ 
+ 
+ 
+ Are any related DTC(s) stored?  
+ 
+• No, related DTC(s) are NOT  stored (OK) , 
+no further action is required . Claim Op 
+Code 240222I0 to close this campaign.  
+ 
+• Yes, related DTC(s) ARE stored (NG) , 
+proceed to step 3.  
+3. Disconnect the 12V battery negative ( -) 
+terminal (A).   
+ 
+4. Remove the engine room under cover (B).   
+ 
+
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 4 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  5. 
+ 
+ 
+ 
+6. Locate AEWP and disconnect the control 
+harness connector  (C).  
+ 
+ 
+Inspect the AEWP connector (C)  for moisture  
+and/or coolant residue . 
+ 
+Are moisture and/or coolant  residue present in 
+the connector ?  
+ 
+• NO, moisture and coolant residue were 
+NOT found  (OK) , then replace the  
+following parts to close this campaign : 
+1) AEWP assembly  (Page 5) 
+ 
+• YES, moisture and/or coolant residue 
+WERE found  (NG) , then proceed to step 7.   
+ 
+   
+7. 
+ 
+ 
+8. Lower the vehicle and locate the Process 
+Control Block ( PCB) – Fuse/Junction box  (D). 
+ 
+Disconnect the control harness connector s (E) 
+and inspect the connector for moisture.  
+ 
+Is coolant residue present in the connector ? 
+ 
+• NO, moisture and coolant residue were 
+NOT found  (OK) , then replace the 
+following  parts to close this campaign : 
+ 
+1) AEWP assembly  (Page 5) 
+2) Control Harness wiring  (Page 6) 
+ 
+• YES, moisture and/or coolant residue 
+WERE found  (NG) , take a  picture of the 
+inspection area using KDS warranty 
+attachment picture function to secure 
+proper documentation and warranty 
+compliance , then replace the following 
+parts to close this campaign : 
+ 
+1) AEWP assembly  (Page 5) 
+2) Control Harness wiring  (Page 6) 
+3) Engine Room PCB Block (Page 5)              
+ 
+ 
+ 
+ 
+
+  Page 5 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  Replacement Procedure:  (Auxiliary EWP Assembly and Extension Wiring)  
+1. Replace the AEWP  (A) by referring to “ Heating, 
+Ventilation and Air Conditioning → Heater  → 
+Auxiliary Electric Water Pump ( AEWP) → 
+Repair procedure /Removal and Installation ” in 
+the applicable Shop Manual on KGIS.   
+ 
+Engine Room PCB Block Replacement : 
+1. Replace the PCB Block  (A) by referring to 
+“Body electrical System → Fuses and Relays  → 
+Engine Room Junction Box → Repair 
+procedure  (Engine Room PCB Block) ” in the 
+applicable Shop Manual on KGIS.   
+ 
+NQ5 HEV , MQ4 HEV  
+ 
+ 
+NQ5 PHEV , MQ4 PHEV  
+ 
+ 
+SG2 HEV, PHEV  
+
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 6 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  Control Harness ( Engine Room ) Wiring Replacement : (MQ4 /NQ5 P/HEV)  
+ 
+1. Remove the following parts by referring to the 
+applicable shop manual on KGIS:  
+ 
+• Air Cleaner Assembly  (A)  
+ 
+ 
+ 
+ 
+ 
+ 
+• Hybrid Power Control Unit (HPCU)  (B)   
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+ 
+ 
+4. Remove the control harness (C) (shown in 
+green)  from the engine room by disconnecting 
+all related connectors  and grounds  from the 
+engine components .  
+ 
+ 
+Disconnect the control harness  (C) from the 
+junction block and remove the control harness 
+assembly.  
+ 
+ 
+ 
+Install the new control harness (C) assembly in 
+the reverse order of removal.    
+ 
+ 
+  
+One (1) of the MQ4 HEV Control Harness Part Numbers is currently unavailable. If an MQ4 HEV 
+vehicle requires the  replacement of the unavailable control harness part number, the vehicle will 
+need to be  parked  until the replacement part number is available.  
+ IMPORTANT  
+Tightening torque for HPCU bolts: 
+14.5 – 21.7 lb.ft ( 19.6 – 29.4  N.m)  
+
+  Page 7 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  Control Harness ( Engine Room ) Wiring Replacement : (SG2 P/HEV)  
+1. Remove the coolant reservoir cap  (A).   
+2. Drain the hybrid motor coolant by removing 
+the drain plug  (B).   
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+5. 
+ 
+ 
+ 
+ 
+6. Remove the following parts by referring to the 
+applicable shop manual on KGIS:  
+ 
+• Air Cleaner Assembly  
+• Hybrid Power Control Unit (HPCU)   
+ 
+ 
+Remove the control harness  (C) (shown in 
+green)  from the engine room by disconnecting 
+all related connectors and grounds  from the 
+engine components . 
+ 
+ 
+Disconnect the control harness (C) from the 
+junction block and remove the control harness 
+assembly.  
+ 
+ 
+Install the new control harness assembly  (C) in 
+the reverse order of removal.  
+  
+
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 8 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  ATTENTION: THE PROOF OF CORRECTION CARD AND CAMPAIGN COMPLETION LABEL  ARE 
+RESTRICTED ONLY TO DEALERS IN THE FOLLOWING STATES:  
+California, Connecticut, Delaware , Massachusetts , Maine, Maryland,  New Jersey, New York, Oregon, 
+Pennsylvania, Rhode Island, Vermont, and Washington.  See Parts Information below to order the Proof of 
+Correction Card and Campaign Completion Label from the PDC.  
+VEHICLE EMISSION RECALL - PROOF OF CORRECTION CARD  
+A Vehicle Emission Recall - Proof of Correction card must be filled out for all vehicles registered in California, 
+Connecticut, Delaware , Massachusetts , Maine, Maryland,  New Jersey, New York, Oregon, Pennsylvania, 
+Rhode Island, Vermont, and Washington . Residents of these states, who own an affected vehicle, will be 
+required to possess a Vehicle Emission Recall - Proof of Correction card as evidence of voluntary service 
+campaign completion, when they apply for vehicle registration renewal.  
+WHAT TO DO WITH THE CARD:  
+The Vehicle Emission Recall - Proof of Correction card must be completed by the Dealership's Service Manager 
+using a permanent ink pen . A fine point pen is recommended. When filling in the information, copy the 
+information directly from the vehicle, not the repair order. ALL INFORMATION MUST BE PRINTED AND NEAT.  
+NOTE: DO NOT COMPLETE THE CARD UNLESS THE SERVICE CAMPAIGN WORK IS COMPLETED.  
+The copy of the card shown below indicates the areas to be filled in. Each area must be filled in. The completed 
+card should be given to the owner of the vehicle upon completion of the Campaign and placement of the 
+Campaign Completion Label  outlined below … 
+ 
+FILLING OUT AND APPLYING THE CAMPAIGN COMPLETION LABEL ( CA and S.177 STATES ONLY):  
+The dealer must fill in the Dealer Code and Date information fields on the Campaign Completion Label.  
+Once complete, affix the campaign completion label under the hood of the vehicle, as shown below.   
+CA and S.177 States Only : Apply SC325 Campaign 
+Completion Label onto the body in the area next to 
+the shock tower, as shown.  NOTE: Be sure to clean 
+the mounting surface to ensure proper label 
+adhesion .  
+ 
+ 
+SC325 
+ 
+ Dealer Code:  
+Date:  
+UT160  SC325 SC325  
+SC325  
+  Page 9 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  AFFECTED VEHICLE RANGE : 
+Model  Production Date Range  
+Sorento HEV, PHEV (MQ4 P/HEV)  March 0 2, 2022 – December 27, 2022  
+Sportage HEV, PHEV (NQ5 P/HEV)  March 0 2, 2022 – January 0 4, 2023  
+Niro HEV, PHEV (SG2 P/HEV)  June 21, 2022 – April 26, 2023  
+ 
+REQUIRED PART:  
+Note : PCB Blocks and some configurations of Control Harness ARE NOT provided with QQK. Order those 
+parts by general part number** in case the part needs to be replaced . Mandatory Parts Return is required for 
+inspections resulting in ‘NG’ result.  All claims are subject to Warranty review and chargeback.  Model  Part Name  Part Number  Figure  Qty. 
+MQ4 HEV  
+NQ5 HEV  
+AEWP  Assembly  with 
+Extension Harness  25160 2MHX1QQK  
+ 1 MQ4 PHEV  
+NQ5 PHEV  25160 2MHY1QQK  
+SG2 (P)HEV  25100 08HB0QQK  
+MQ4 HEV  
+Control Harness  91400 P4231QQK  
+91400 P4060QQK  
+91400 P4 061 
+91400 P4 311 
+TBD 
+N/A 1 MQ4 PHEV  91400 P4080QQK  
+91400 P4 261 
+91400 P4 371 
+NQ5  HEV  91400 CH020QQK  
+ 91400 CH050QQK  
+91400 CH0 90 
+91400 CH 100 
+NQ5 PHEV  91410 CH010  
+91410 CH040  
+SG2 HEV  91400 AT100QQK  
+SG2 PHEV  91400 AT130QQK  
+MQ4 (P)HEV  
+PCB Block  91959 P2200  
+ 1 NQ5 (P)HEV  91959 P1200  
+SG2 (P)HEV  91959 AT010  
+ALL Coolant  (Concentrate)  UM022 CH271  N/A 1 
+ALL Campaign  
+Completion Label  UT160 SC3 25 
+ 1 
+Vehicle Emissions  
+Recall  Proof of  
+Correction Card  UT161 SC3 25 
+ 1 
+
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 10 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  WARRANTY INFORMATION:  
+N Code : N99    C Code : C99 
+Continued on page  11. Model  Claim 
+Type  Causal 
+P/N Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+ALL R 25160  
+2MHX1  0 (SC325)  
+DTC Inspection (OK)  240222I0   0.2 
+M/H N/A 0 
+MQ4  
+HEV 
+R 25160  
+2MHX1  
+0 (SC325)  
+DTC Inspection (NG)  
++ AEWP Connector 
+Inspection (OK)  
++ AEWP Replacement  240222R0  
+1.6 
+M/H 25160 2MHX1QQK  
+1 
+UM022 CH271  
+MQ4  
+PHEV  240222 R1 25160 2MHY1QQK  
+1 
+UM022 CH271  
+NQ5  
+HEV 240222R 2 
+1.6 
+M/H 25160 2MHX1QQK  
+1 
+UM022 CH271  
+NQ5  
+PHEV  240222 R3 25160 2MHY1QQK  
+1 
+UM022 CH271  
+SG2 
+P/HEV  25490  
+08HA0  240222R 4 1.5 
+M/H 25100 08HB0QQK  
+1 
+UM022 CH271  
+MQ4  
+HEV  25160  
+2MHX1  0 (SC325)  
+DTC Inspection (NG)  
++ AEWP Connector 
+Inspection (NG)  
++ Control Harness 
+Inspection (OK)  
++ AEWP Replacement  
++ Control Harness 
+Replacement  240222R 5 3.0 
+M/H 25160 2MHX1QQK  1 
+91400 P4231QQK  
+or 
+91400 P4060QQK  
+or 
+91400 P4061  
+or 
+91400 P4311  1 
+UM022 CH271  1 
+  Page 11 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  WARRANTY INFORMATION:  
+N Code : N99    C Code : C99  
+Continued on page  12. Model  Claim 
+Type  Causal 
+P/N Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+MQ4  
+PHEV 
+ 25160  
+2MHX1  
+0 (SC325)  
+DTC Inspection (NG)  
++ AEWP Connector 
+Inspection (NG)  
++ Control Harness 
+Inspection (OK)  
++ AEWP Replacement  
++ Control Harness 
+Replacement  240222R 6 3.0 
+M/H 25160  2MH Y1QQK  1 
+91400 P4080QQK  
+or 
+91400 P4 261 
+or 
+91400 P4 371 1 
+UM022 CH271  1 
+NQ5  
+HEV 240222R 7 3.2 
+M/H 25160  2MHX1QQK  1 
+91400 CH020QQK  
+or 
+ 91400  CH050QQK  
+or 
+91400 CH0 90 
+or 
+91400 CH 100 1 
+UM022 CH271  1 
+NQ5  
+PHEV  240222 R8 3.2 
+M/H 25160 2MH Y1QQK  1 
+91410 CH010  
+or 
+91410 CH0 40 1 
+UM022 CH271  1 
+SG2 
+HEV 
+25490  
+08HA0  240222R 9 
+2.8 
+M/H 25100 08HB0QQK  
+1 91400 AT100QQK  
+UM022 CH271  
+SG2 
+PHEV 240222 RA 25100 08HB0QQK  
+1 91400 AT130QQK  
+UM022 CH271  
+AEWP INSPECTION AND REPLACEMENT  (SC325) Page 12 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest informati on. 
+TSB: SC325 Multiple Models  Februar y 2025 
+SUBJECT:  
+Kia America, Inc.  WARRANTY INFORMATION:  
+N Code : N99    C Code : C99 
+Continued on page  13. Model  Claim 
+Type  Causal 
+P/N Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+MQ4  
+HEV 
+ 25160  
+2MHX1  0 (SC325)  
+DTC Inspection (NG)  
++ AEWP Connector 
+Inspection (NG)  
++ Control Harness 
+Inspection (NG)  
++ AEWP Replacement  
++ Control Harness 
+Replacement  
++ PCB Block 
+Replacement  240222R B 3.1 
+M/H 25160 2MHX1QQK  1 
+91400 P4231QQK  
+or 
+91400 P4060QQK  
+or 
+91400 P4 061 
+or 
+91400 P4 311 1 
+91959 P2200  1 
+UM022 CH271  1 
+MQ4  
+PHEV  240222 RC 3.1 
+M/H 25160 2MH Y1QQK  1 
+91400 P4080QQK  
+or 
+91400 P4 261 
+or 
+91400 P4 371 1 
+91959 P2200  1 
+UM022 CH271  1 
+NQ5  
+HEV 240222 RD 3.2 
+M/H 25160  2MHX1QQK  1 
+91400 CH020QQK  
+or 
+ 91400  
+CH050QQK  
+or 
+91400 CH0 90 
+or 
+91400 CH 100 1 
+91959 P1200  1 
+UM022 CH271  1 
+  Page 13 of 13 
+Printed TSB copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC325 Multiple Models  February  2025  
+AEWP INSPECTION AND REPLACEMENT (SC325) 
+ SUBJECT:  
+Kia America, Inc.  WARRANTY INFORMATION:  
+N Code : N99    C Code : C99  
+Note:  Refer to Warranty Bulletin 2025 -07 for claim submission procedures. Manually enter sublet code 
+‘X2’ for reimbursement of one roundtrip rideshare expense or up to three (3) days of rental expense, 
+with supporting documentation . 
+ 
+Note:  A Vehicle Diagnosis Number (VDN)  must be created for DTC’s prior to ordering parts and 
+performing necessary procedure(s), as outlined in this TSB. If a VDN is not created , Parts Ordering and 
+Warranty claim submission issues WILL occur. Any claims for replacement parts are subject to Warranty 
+review and chargeback.  Model  Claim 
+Type  Causal 
+P/N Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+NQ5  
+PHEV  
+R 25160  
+2MHX1  
+0 (SC325)  
+DTC Inspection (NG)  
++ AEWP Connector 
+Inspection (NG)  
++ Control Harness 
+Inspection (NG)  
++ AEWP Replacement  
++ Control Harness 
+Replacement  
++ PCB Block 
+Replacement  240222R E 3.2 
+M/H 25160 2MH Y1QQK  1 
+91410 CH010  
+or 
+91410 CH040  1 
+91959 P1200  1 
+UM022 CH271  1 
+SG2 
+HEV 
+25490  
+08HA0  240222RF  2.9 
+M/H 25100 08HB0QQK  
+1 91400 AT100QQK  
+91959 AT010  
+UM022 CH271  
+SG2 
+PHEV  240222 RG 2.9 
+M/H 25100 08HB0QQK  
+1 91400 AT130QQK  
+91959 AT010  
+UM022 CH271  
+ 
+  
+  
+VIN inquiry data for this repair is provided for tracking purposes only. Kia retailers should reference 
+SC325 when accessing the KDealer+  system.  
+ 
+ NOTICE  

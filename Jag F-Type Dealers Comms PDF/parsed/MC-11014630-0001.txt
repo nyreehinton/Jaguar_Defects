@@ -1,0 +1,30 @@
+Involved Region or
+CountryNorth America
+Condition Customers ma y have a no movement in drive or reverse.
+Cause This ma y be caused by a brok en transmission chain.
+Version 1
+Modiﬁed04/30/2024 - Created on.  
+02/24/2025 - Updated to add model year
+Bulletin No.: PIP5975A
+Published date: 02/26/2025
+Preliminary Information
+PIP5975A No Movement Caused by Broken Transmission Chain
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Encor e GX 2020 - 2025 All AllAll MRG
+Chevr oletMalibu 2019 - 2025 All AllAll MRG
+Chevr oletTrailblazer 2021 - 2025 All AllAll MRG
+ 
+ 
+ 
+Correction:
+Customers ma y bring their vehicle in with a no drive or no reverse concern.
+This concern ma y occur with or without DTC ’s Setting.
+The T echnician should ﬁrst inspect the chain per bulletin 20-NA-120 .
+If a brok en chain is found, please create a T AC Case and report your ﬁndings prior to
+making any repairs.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

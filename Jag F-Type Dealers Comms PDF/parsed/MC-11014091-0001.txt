@@ -1,0 +1,77 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  1-9-2020 
+SERVICE BULLETIN SUBJECT:  Aux Heat Fuel Drain Plug  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  with Aux Heat  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-14 
+ 
+NOTICE! It is expected that this process will require 1  hour  per bus. Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+AUX HEAT FUEL DRAIN PLUG  RETROFIT  
+Retrofit Description:  
+This procedure replaces the drain plug on the aux heat fuel tank.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Square Key  
+• Catch Pan 
+• 3/8-Inch Combination Wrench  
+• Loctite 567  
+ 
+ 
+ 
+ 
+Parts Required:  
+ 
+• 050926  KIT, SERVICE, AUX HEAT FUEL TANK DRAIN PLUG  (Consisting of)  
+o 050895  PLUG, 1/4" NPT  1 EA  
+  
+   
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Using a Square Key, open the rear hatch to access the a uxiliary  heat fuel tank.  
+ 
+ 
+3. Place a Catch Pan underneath the auxiliary heat fuel tank to contain the fuel in the tank.  
+ 
+4. Using a 3/8- Inch Combination Wrench, remove the drain plug and discard it.  
+  
+ 
+5. Allow all the fuel to drain into the catch pan.  
+ 
+6. Apply Loctite 567 to the threads on the new Plug (050926).  
+ 
+7. Using a 3/8- Inch Combination Wrench, install the new Plug (050926) into the tank.  
+ 
+8. Torque the new Plug (050926) one and one half to three turns past finger tight.  
+ 
+9. Fill the tank with diesel fuel.  
+ 
+10. Using a Square Key, close and latch the rear hatch.  
+Drain Plug  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+11. Remove the Lockout/Tagout devices and return the bus to service.  
+ 
+12. Dispose of or recycle the diesel fuel that was drained from the tank according to Transit 
+Agency procedures.  
+ 

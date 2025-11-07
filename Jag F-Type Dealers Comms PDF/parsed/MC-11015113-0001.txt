@@ -1,0 +1,153 @@
+Technical InformationService
+74/24 ENU WRG26
+WRG2 - Check Power Windows and Replace if  Necessary (Workshop Campaign)
+Model Line: 911 (992)
+Model Year: As of 2024 up to 2025
+Concerns: Front power windows mechanism
+Cause: There is a possibility that a power windows mecha nism was installed in the front doors that does
+not meet the required speci ﬁcations on the affected vehicles.
+If this is the case, the design differences mean that the door window does not fully retract into the door.
+Action: Check the end position of the front left and right door window and replace the respective front power
+windows mechanism depending on the result.
+Affected
+Vehicles:Only the vehicles assigned to the campaign (see also PCSS Vehicle Information).
+AfterSalesJan 15, 2025
+Page 1 of 6
+Service6 WRG2 ENU74/24Technical Information
+Installation
+Position:
+Installation position for front power windows me chanism (shown on the left side of the vehicle)
+R e q u i r e dp a r t sa n dm a t e r i a l sa sn e e d e d
+Information
+Noparts are required for checking the front power windows.
+The forecast failure rate is only0,5% .
+Therefore, please order the required parts for replacing an incorrect front power windows mechanismonly if necessary .
+Parts Info:Part No. Designation
+–L o c a t i o nNumber
+992837461 Y Power windows mechanism without motor, left 1p i e c e
+and/or
+992837462 Y Power windows mechanism without motor, right 1 piece
+AfterSalesJan 15, 2025
+Page 2 of 6
+Technical InformationService
+74/24 ENU WRG26
+PAF909757 Countersunk screw, M5 x 16
+– Door trim panel on door (rear)1 piece per vehicle
+door
+N 90953004 Internal hexagon round/oval-head screw, M5 x 14
+– Door trim panel on door (front)1 piece per vehicle
+door
+N 91176801 Internal hexagon round-head countersunk screw,
+M5 x 10– Cover for pull loop3p i e c e sp e rvehicle door
+Required tools as needed
+Information
+Notools are required for checking the front power windows.
+Tools: • P90999 - PIWIS Tester 4
+• Battery charger with a current rating of at least 90 A ,e . g . V A S5 9 0 89 0Ab a t t e r yc h a r g e r .F o r
+further information about the battery chargers t o be used, see the corresponding Workshop Manual.
+Workshop Manual '270689 Charging battery and vehicle electrical system'
+• Torque wrench, 0.4-2 Nm (0.3-1.5 ftlb.), e.g. VAS 6253A - torque wrench, 0.4-2 Nm
+(0.3-1.5 ftlb.)
+• Torque wrench, 2-10 Nm (1.5-7.5 ftlb.), e.g., V.A.G 1783 - torque wrench, 2-10 Nm (1.5-7.5
+ftlb.)
+• Torque wrench, 6-50 Nm (4.5-37 ftlb.), e.g. V.A.G 1331A - torque spanner, 6-50 Nm (4.5-37
+ftlb.)
+•9842/1 - Hook wrench
+•9842/2 - Hook wrench
+Check power windows and replace if necessary
+Work Procedure: 1 Switch on the ignition.
+2 Check the lower end position of the door windows.
+Assessment Action
+()Both door windows retract completely into the
+door.• Switching off ignition
+• Entering campaign in Warranty and
+Maintenance logbook
+•I n v o i c i n g f o r Scope 1
+(✗) One or both door windows do notfully retract
+into the door.Replace affected front power windows
+mechanism.
+Continue with Step 3.
+AfterSalesJan 15, 2025
+Page 3 of 6
+Service6 WRG2 ENU74/24Technical Information
+3 Switch off ignition.
+4 Remove the front power windows mechanism on the affected side.
+Workshop Manual '645219 Removing and installing front power windows'
+5 Convert power window motor from the previous power windows mechanism to the new power
+window mechanism.
+Workshop Manual '645419 Removing and installing power windows motor'
+6 Install the new front power windows mechanism.
+Workshop Manual '645219 Removing and installing front power windows'
+7 Connect and switch on the battery charger.
+Workshop Manual '270689 Charging battery and vehicle electrical system'
+8 Connect the P90999 - PIWIS Tester 4 , switch on ignition and start the diagnostic application.
+9 Read out and delete all control unit fault memories.10 End the diagnostic application. Switch off ignition. Disconnect P90999 - PIWIS Tester 4 from the
+vehicle.
+11 Switch off and disconnect the battery charger.12 Enter the campaign in the Warranty and Maintenance logbook.
+Warranty processing
+Information
+The specified labor times were determined specifical ly for carrying out this campaign and include all
+necessary preliminary and subsequent rework. The labor times may differ from the labor times published
+in the Labor Operation List in PCSS.
+Scope 1: Check left and right power windows
+Labor time:
+Check left and right power windows Labor time: 27 TU
+Damage number WRG2 066 000 1
+AfterSalesJan 15, 2025
+Page 4 of 6
+Technical InformationService
+74/24 ENU WRG26
+Labor time:
+Replacing front left power window mechanism
+Includes: Check left and right power windows
+Removing and installing front door trim panel
+Removing and installing front power windows mechanism
+Converting power window motorReading out and deleting fault memoriesLabor time: 140 TU
+Required parts:
+Part No. Designation Quantity
+992837461 Y Power windows mechanism without motor, left 1 piece
+PAF909757 Countersunk screw, M5 x 16 1 piece
+N 90953004 Internal hexagon round/oval-head screw, M5 x 14 1 piece
+N 91176801 Internal hexagon round-head countersunk screw,M5 x 103 pieces
+Damage number WRG2 066 000 2
+Scope 3: Check left and right power windows and replace front right power windows mechanism
+Labor time:
+Replacing front right power windows mechanism
+Includes: Check left and right power windows
+Removing and installing front door trim panel
+Removing and installing front power windows mechanism
+Converting power window motorReading out and deleting fault memoriesLabor time: 140 TU
+Required parts:
+Part No. Designation Quantity
+992837462 Y Power windows mechanism without motor, right 1 piece
+PAF909757 Countersunk screw, M5 x 16 1 piece
+N 90953004 Internal hexagon round/oval-head screw, M5 x 14 1 piece
+N 91176801 Internal hexagon round-head countersunk screw,M5 x 103 pieces
+Damage number WRG2 066 000 2
+AfterSalesScope 2: Check left and right power window and replace front left power window mechanism
+Jan 15, 2025
+Page 5 of 6
+Service6 WRG2 ENU74/24Technical Information
+Scope 4: Check and replace the front left and right power windows
+Labor time:
+Replacing front left and right power windows mechanism
+Includes: Check left and right power windows
+Removing and installing front door trim panelRemoving and installing front power windows mechanismConverting power window motor
+Reading out and deleting fault memoriesLabor time: 245 TU
+Required parts:
+Part No. Designation Quantity
+992837461 Y Power windows mechanism without motor, left 1 piece
+992837462 Y Power windows mechanism without motor, right 1 piece
+PAF909757 Countersunk screw, M5 x 16 2 pieces
+N 90953004 Internal hexagon round/oval-head screw, M5 x 14 2 pieces
+N 91176801 Internal hexagon round-head countersunk screw,
+M5 x 106 pieces
+Damage number WRG2 066 000 2
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Po rsche service training
+courses. They are written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special
+tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche reco mmends in these bulletins may be detrimental to the
+safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety ins tructions, and know-how to do the job properly and
+safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic an dt e s t i n gd e v i c et a k ep r e c e d e n c ea n d ,i nt h ee v e n to fa
+discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.© 2025 Porsche Cars North America, Inc.
+AfterSalesJan 15, 2025
+Page 6 of 6

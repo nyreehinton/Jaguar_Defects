@@ -1,0 +1,347 @@
+ 
+Service BulletinAlexander Dennis 
+Dennis Way, Guildford, 
+Surrey, GU1 1AF. After Market Support Line: 
+0845 358 9988 (U.K.) +44 (0) 1483 571271 
+ 
+ 
+  
+ 
+  
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2
+Date: Aug 2011 
+ 
+Page: 1 of 13  
+This bulletin originally issued to advise customers that a radiator upgrade kit is available for the 
+Enviro 500’s fitted with the Cummins EPA07 Engine has been re-issued to include details of 
+the spacer washers to be fitted under the anti vibration mounts. 
+ 
+The upgrade kit is listed under part numbers: 448131. Check with Alexander Dennis Parts for availability. 
+ 
+EPA 07 Engine Radiator Upgrade Kit (448131) 
+ 
+Note:  Software upgrade to be supplied by ADL in 
+Conjunction with initial fit. (see software details paragraph) 
+Item Part Number Qty Description 
+1 441532-2 1 Fan Cowl (*See note 
+below) 
+2 441532-3 1 Top Panel (*See note 
+below) 
+3 448130-7 2 Radiator Rubber 
+4 448130-1 1 Radiator Insert 
+5 448130-2 2 Mount anti vibration 
+lower 
+6 448130-3 1 Panel Lower Rear 
+7 448130-4 1 Panel Lower Front 
+8 448130-5 1 Sealing Plate RH 
+9 448130-6 1 Retaining Angle Top 
+10 MCS 106 16P 2 Setscrew 
+11 WMC 06SP 2 Washer - Spring 
+12 WMA 06SP 2 Washer - Plain 
+13 WMA 08SP 2 Washer - Plain 
+14 WMC 08SP 2 Washer - Spring 
+15 MCN 508P 2 Nut 
+16 443217-17 1 Bulb Seal (*See note 
+below) 
+17 448130-8 4 Rubber Pad 
+ 
+*Note:   Item 1,2 & 16 – shown for reference only 
+They are not included in kit. Adhesive rubber pads (17) are to be fitted on inside of cowl, two on each side. 
+ 
+If replacement radiator Is required, after upgrade has been carried out, radiator insert 448130-1 should be used.  
+ 
+Last Bus Bulletin Issued:  820-2  
+
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 2 of 13  
+ 
+ 
+Position rubber pads as shown in diagram below: 
+      
+ 
+ 
+ 
+    
+ 
+     
+ 
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2 
+Date: Aug 2011 
+ 
+Page: 3 of 13  
+Fitting 
+To ensure the radiator is fitted correctly in the frame; rubbers are supplied with each unit, which must be located in the correct positions around the frame. When re-fitting the cassette radiator 
+you must ensure that all the rubbers are put back in the correct position to avoid any vibration/rubbing issues. 
+ 
+Note: 
+Due to manufacturing tolerances each radiat or can have slightly different dimensions. 
+ 
+Please make sure that the radiator is securely mounted into the frame so all rubbers supplied are holding the radiator firmly in place.  If the radiator is loose; spacer washers need to be fitted under the AV mounts. This will allow the 
+top rubbers to be in contact with the radiator when the bottom tray is in position. 
+ If all rubbers are not in contact with the radiator, the radiator will become loose in the frame and allow too much movement in all directions. This will result in rubbing on the side of the radiator tanks. 
+ 
+Should any movement be observed the following action will need to be carried out: 
+Spacer washers are to be positioned underneath the radiator AV mounts as required, they will 
+locate the radiator into the top rubbers. On t he EPA07 cooling pack the bottom tray is assembly 
+into fixed holes. (See example drawing.) The expec tation is no more than 3 spacer washers will 
+be required per side (6 in total). 
+ 
+ 
+ 
+Spacer Washers Fitted Under Bottom AV Mounts 
+  
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 4 of 13  
+ 
+Software Details 
+New software required to lower fan idle speed. 
+ Files Required: 11044724_S0107_P0107.lhx, 11044724_S0107_D0007.P1D   
+Instructions For Uploading Software 
+ 
+Step 1: 
+When connected to the unit, open the PLUS+1 Service Tool program from the Desktop icon OR 
+locate and double click the file 11044724_S0107_D0007.P1D.  
+Step 2: 
+Wait until the system is scanned automatically  and you are connected (green Connected at the 
+bottom of the Service Screen as below).   
+ 
+ 
+Next, either click the ‘Download File to ECU’ button on the top toolbar as below: 
+ 
+ 
+ 
+  
+ 
+ 
+(continued) 
+ 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 5 of 13  
+ 
+OR go to ‘File – File Download’ from the File menu. 
+ 
+ 
+Step 3: 
+A box like below will appear. This is for you to select the correct hardware for you to download 
+the software to (In your case you only have one cont roller but if you there two controllers on your 
+network then there would be two in the list for example). Click OK. 
+ 
+ 
+ 
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 6 of 13  
+ 
+The standard Windows dialogue box below will open. Locate using the browse facility the 
+location on your laptop of the software (11044724_S0107_P0103.lhx) and then double click this 
+file or select ‘Open’. 
+ 
+ 
+Step 4: 
+The page below will then appear. 
+ 
+ 
+  
+ 
+(continued) 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2013 
+ 
+Page: 7 of 13  
+ 
+Hit ‘Start Download’. You MAY see the message below (indicates that the Operating System 
+inside the controller is different from the Operat ing System used to create the file that you are 
+about to download):  
+ 
+ 
+Always hit ‘Ignore’. Once ‘Ignore’ is pressed the screen will change to the below whilst the file is downloading: 
+ 
+ 
+   The system will again be automatically scanned after the download is complete. Process is the 
+complete. 
+   
+(continued) 
+ 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 8 of 13  
+ 
+Diagnostic File 
+ 
+Step 1: 
+Locate and double click the file 11044724_S0107_D0007.P1D or if you have the Service Tool 
+open, go to ‘File – Open’ and locate the file 11044724_S0107_D0007.P1D  using the Browse 
+facility. 
+ This will automatically launch the Service Tool and then open the diagnostic file interface automatically. You will see the screen below.  Note:  Check the software version is correct (highlighted below): 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 9 of 13  
+ 
+ 
+Step 2: 
+Highlight the parameter function ‘ADL_FanDrive_Param_List’   in the left hand window (as highlighted 
+below). The parameter list (contains all adjustable va lues in software application) will appear in the right 
+hand window (as highlighted below). 
+ 
+  
+ 
+ 
+ 
+   
+ 
+    
+ 
+ 
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 10 of 13  
+Step 3: 
+Click the ‘Set All values to the Default value’   button on the toolbar. This loads the list with the 
+default values which will appear in the Default values column. (highlighted below): 
+  
+ 
+ 
+ 
+ 
+     
+ 
+    
+ 
+  
+(continued) 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 11 of 13  
+ 
+  
+Step 4: 
+Click the ‘Download’  button on the toolbar  (highlighted below). 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+(continued) 
+ 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 12 of 13  
+ 
+Once this has been pressed, you should notice that the values in the ‘ECU Value’  column now 
+match the values in the ‘Default’  column as below: 
+ 
+  
+ 
+ 
+ 
+    
+ 
+  
+   
+(continued) 
+ 
+ 
+Service Manual Heading:  Cooling System 
+Models Affected:  Title: No: 
+Enviro 500 
+ EPA 07 Engine  Radiator Replacement 
+Upgrade 827-2  
+Date: Aug 2011 
+ 
+Page: 13 of 13  
+Step 5: 
+The next step should not be necessary but as a verification the ‘Upload’  button can be pressed 
+to read back from the controllers the values in memory (highlighted below). You can again double check that the two columns match.   
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 

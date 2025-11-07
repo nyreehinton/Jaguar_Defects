@@ -1,0 +1,40 @@
+Technical Service BulletinTechnical Service Bulletin Transaction No.:  2069588/22069588/2
+01-23-02 Standalone Replacements of EVAP Components
+ConditionCondition
+Applicable VehiclesApplicable Vehicles
+VW Model(s)VW Model(s) YearYear Eng. CodeEng. Code Trans. CodeTrans. Code VIN Range FromVIN Range From VIN Range ToVIN Range To
+All Models (except e-
+Golf, ID.4, ID.Buzz)2018 - 2025 All All All All
+Revision TableRevision Table
+Instance NumberInstance Number Published DatePublished Date Version NumberVersion Number Reason For UpdateReason For Update
+2069588/2 2/13/2025 01-23-02 Added additional model year
+applicability.
+2069588/1 2/27/2023 01-23-02 Original publication.
+Technical BackgroundTechnical Background
+Information only document, relating to the replacement of Evaporative Emissions System components e.g. EVAP canister and Leak Detection
+Pump (DMTL , ATLD etc.).
+Production SolutionProduction Solution
+Not applicable.
+ServiceService
+When replacing Evaporative Emissions System components, it is not always necessary to replace the entire EVAP canister system as a complete
+assembly, if the failed components are available as standalone replacement parts.
+If technical diagnosis has determined that only a single component has failed (e.g. the EVAP canister or the Leak Detection Pump ), check
+whether this part may be replaced separately. In the example Figure 1 shown below, the canister can be replaced separately, and the original
+Leak Detection Pump and air filter assembly may be re-used with the new replacement canister. The opposite also applies, where the Leak
+Detection Pump could be exchanged while re-using the original EVAP canister.
+Figure 1.  Example: ETKA indicates that the EVAP Canister is available as a separate component within the complete assembly.
+If it has been determined through technical diagnosis that the entire assembly must be replaced, or if the parts are not separately available per
+current ETKA information, then this bulletin does not apply.
+  NOTICENOTICE
+All All part and service references provided in this bulletin are subject to change and/or removal.  Always refer to your Partspart and service references provided in this bulletin are subject to change and/or removal.  Always refer to your Parts
+Dept., ETKA, and the corresponding repair manual for accurate part and repair information!Dept., ETKA, and the corresponding repair manual for accurate part and repair information!
+WarrantyWarranty
+Information only.
+Required Parts and ToolsRequired Parts and Tools
+Not applicable.
+Additional InformationAdditional Information
+© 2025 Volkswagen Group of America, Inc.© 2025 Volkswagen Group of America, Inc.  All rights reserved.  Information contained in this document is based on the latest information
+available at the time of printing and is subject to the copyright and other intellectual property rights of Volkswagen Group of America, Inc., its
+affiliated companies and its licensors. All rights are reserved to make changes at any time without notice.  No part of this document may be
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, nor may these materials be modified or reposted to other sites, without the prior expressed written permission of the publisher.

@@ -1,0 +1,32 @@
+Parts Information
+AfterSalesJan 28, 2025
+Page 1 of 1©2025 Porsche Cars North America, Inc.Thatcham Wheel Lock InformationAll
+D9  USA
+Replaces Parts Information Group 6, D9 
+published on July 8, 2020.6
+Attention: Parts Manager/Parts Specialist
+Since model year 2015, nearly all new vehicles (SUV's may have Thatcham or 
+previous style wheel lock) come equipped with Thatcham-style wheel locks from the 
+factory.  Each vehicle equipped with Thatcham-style wheel locks uses a unique key.
+For this reason, a master key set is not available. Replacement wheel lock keys and/
+or lug bolts should be ordered by the following process:
+Replacement Instructions:
+If a Thatcham-style wheel lock key is broken, or if a lug bolt is broken or missing, 
+submit a PRMS ticket with the following details:
+1. Classification: Parts Support
+2. Classification: Order Processing
+3. Request Type: Order Creation
+4. Short Problem Description: "TLK"
+Include the code stamped on the wheel lock key (e.g., "ABC P12074"; see Figure 1) 
+or a high-resolution photo (See Figure 2) of the wheel bolt.
+Replacement keys and/ or lug bolt(s) will be shipped directly from the wheel lock 
+manufacturer in Germany to PCNA. PCNA will then forward the key to your Porsche 
+Center and your parts statement will be billed.
+Please note change in procedure to order 
+a coded wheel nut from Thatcham. 
+We hope this process will make for better tracking and improved delivery times.  
+Please use this three-step process, effective immediately.
+Thank you for your business and support of the Porsche brand.
+Porsche Cars North America, Inc. 
+Figure 1
+Figure 2

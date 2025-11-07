@@ -1,0 +1,34 @@
+Bulletin No.: PIC6163D
+Published date: 02/3/2025
+Preliminary Information
+PIC6163D Normal Characteristic - Fasteners Under the Hood Appear
+to be Loose
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletCamar o2016 - 2024 All AllAll All
+Supersession Statement
+This PI was superseded to update model years. Please discar d all copies of PIC6163C.
+Condition / Concern
+Some customers / technicians may comment that several fasteners, located on either side
+of the hood latch, appear to be loose.  
+These two fasteners can be seen in the two photos below . 
+The ﬁrst photo shows both fasteners as a point of reference in relation to the hood latch. 
+The second photo is a close-up of these fasteners to clearly show the gap that exists
+between the head of the fastener and the plastic trim panel underneath.    
+
+Customers ma y request, or technicians may tak e it upon themselves, to tighten these two
+fasteners under the hood until they are fully seated. 
+They ma y believe that they were mistak enly left loose during assembly of the vehicle.
+Recommendations / Instructions
+IMPOR TANT: Do NOT tighten, or otherwise move these two fasteners. 
+These fasteners are part of the front fascia support brack et. 
+They have a preset gap by design, and they have Loctite applied to the threads of the
+fastener so that this preset gap does not change.
+This component actually comes into the assembly plant preadjusted. 
+The plant does not adjust these fasteners when they install the assembly in the car . 
+These two screws are adjustable to allow for hood to fascia alignment, but they should
+only be adjusted if the fascia is too high or too low in reference to the hood.
+When these fasteners are adjusted, the vertical clearance of the front fascia to hood gap
+will be changed.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

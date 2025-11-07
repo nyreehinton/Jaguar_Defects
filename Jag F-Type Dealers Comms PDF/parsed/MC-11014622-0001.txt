@@ -1,0 +1,76 @@
+Bulletin No.: PIP5966A
+Published date: 02/25/2025
+Preliminary Information
+PIP5966A Diagnostic Aids for DTCS Following Transmission
+Replacement
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Cadillac ATS2016 -
+2019All AllAll M5N, MNU
+Cadillac CTS2016 -
+2019All AllAll M5N, M5U
+Cadillac CT62016 -
+2018All AllAll M5N, M5X
+Cadillac CT42020 -
+2024All AllAll M5N, MHA
+Cadillac Escalade2015 -
+2020All AllAll M5U
+Chevr oletCamar o2016 -
+2023All AllAll M5T, M5U
+Chevr oletCorvette2015 -
+2019All AllAll M5U
+Chevr oletColorado (VIN S/T)2017 -
+2023All AllAll M5T
+Chevr oletExpress2017 -
+2024All AllAll M5U
+Chevr oletSilverado2015 -
+2018All AllAll M5U, M5X
+Chevr oletSilverado 1500 (New Model) 2019 All AllAll MQE
+Chevr oletSilverado 15002020 -
+2021All AllAll MQE
+Chevr oletSilverado 1500- L TD (RPO J21,
+VIN Digit 5 = A/D)2022 All AllAll M5X
+Chevr oletSilverado 1500- L TD (RPO J22,
+VIN Digit 5 = W/Y)2022 All AllAll M5X, MQE
+Chevr oletSilverado 15002022 -
+2023All AllAll MQE
+GMC Canyon2017 -
+2023All AllAll M5T
+GMC Sierra2015 -
+2018All AllAll MQE
+GMC Sierra 1500 (New Model) 2019 All AllAll MQE
+GMC Sierra 15002020 -
+2021All AllAll MQE
+GMCSierra 1500 - Limited (RPO J21,
+VIN Digit 5 = 8/9)2022 All AllAll M5X, MQE
+GMCSierra 1500 - New (RPO J22, VIN
+Digit 5 = H/U)2022 All AllAll M5X, MQE
+GMC Sierra 1500 2023 All AllAll MQE
+GMC Savanna2017 -
+2023All AllAll M5U, MQD
+GMC Yukon2015 -
+2020All AllAll M5U
+Involved Region or
+CountryNorth America
+ConditionThe Check Engine light ma y be on and/or the engine ma y not
+start immediately following transmission replacement. 
+Cause Incorrect Range Sensor installed .
+Version 1
+ModiﬁedCreated on 02/06/2025  
+02/25/2025 - Updated Correction. 
+ 
+ 
+Correction:  
+Some T echnicians ma y ﬁnd immediately following the installation of a SR TA transmission,
+the vehicle will not start, the check engine light ma y be on and any or all of the following
+DTC'S ma y be set P182A , P182B, P182D, P182E, P1839, P1840.
+Upon removal of the transmission pan the T echnician my notice a 10 terminal IMS sensor
+installed rather than a 4 terminal range position sensor . 
+If this is found; replace the internal harness and the range sensor to a 4 terminal sensor
+and re-evaluate.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

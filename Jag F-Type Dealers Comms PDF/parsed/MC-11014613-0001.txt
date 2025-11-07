@@ -1,0 +1,28 @@
+WORK DESCRIPTION FOR FIELD MEASURE  
+ 
+ 1/1  Field Measure Management GCSP/TPR  Code: 25P2092014  Version: 2.0  
+ 
+Replace belt -driven starter -alternator (RSG)  
+Model 206 with M139  
+ 
+Work Procedure  
+ 
+1. Replace belt -driven starter -alternator.  
+ For basic information , see AR15.40 -P-5060WTF  
+ 
+ 
+Parts 
+Quantity  Designation   Part no.  
+1 Belt-driven starter -alternator  A 000 900 81 35  
+ Small parts such as screws, lock nuts, sealing rings, cable ties, fluids , sealant, etc. are not listed in 
+the parts list. The required small parts are taken into account in the budgeting.  
+ 
+Operation text and flat rate  
+Operation 
+no. Operation text  Flat rate  Accounting no./  
+damage code  
+12-2352  Replace belt -driven starter -alternator  Time 
+prescribed by 
+foreperson  20 920 14  
+ 
+ 

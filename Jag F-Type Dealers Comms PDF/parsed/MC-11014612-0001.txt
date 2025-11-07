@@ -1,0 +1,74 @@
+WORK DESCRIPTION FOR FIELD MEASURE  
+ 
+ 1/2  Field measure management GSP/TPR  Code: 24P5891230  Version: 2.0  
+ 
+Update Digital Operator's Manual and enclose printed Operator's Manual, replace if necessary.  
+Model 223  
+ 
+ • Always use the latest  XENTRY Diagnosis software release with all available add -ons. 
+ • Make sure to follow the operation steps exactly as described in XENTRY Diagnosis.  
+ • Use a battery charger to ensure sufficient power supply of the vehicle on-board electrical 
+system battery (greater than 12.5  V). 
+ • If XENTRY Diagnosis is already connected to the vehicle, start with Work Procedure  Step 2 . 
+ If two or more software updates or SCN codings are performed during one workshop visit, 
+operation items 02 -4762 and 02 -5058 may be invoiced  only once for each workshop order . 
+ 
+Work Procedure  
+ 
+ Update Digital Operator's Manual.  
+ 
+1. Connect XENTRY Diagnosis.  
+ 
+2. Update Digital Operator's Manual.  
+ To do this, select menu item "Quick test view → A26/17 - MBUX multimedia system (head 
+unit)  → Adaptations → Control unit update → Updat ing of the  control unit software".  
+ Then follow the u ser guidance in XENTRY Diagnosis.  
+ The Digital Operator's Manuals are downloaded automatically via Retail Data Storage to XENTRY 
+Diagnosis to match the affected vehicle.  
+ 
+3. Disconnect XENTRY Diagnosis.  
+ 
+4. Check whether the Operator's Manual in the vehicle document wallet, as well as the supplements and 
+ACCORDION -FOLD DOCUMENT are present and whether the version is correct.  
+ The missing or incorrect Operator's Manual, as well as the supplements and ACCORDION -FOLD 
+DOCUMENT must be replaced or enclosed as an aftermarket measure.  
+The Operator's Manual, supplements and ACCORDION -FOLD DOCUMENT must be determined 
+according to the equipment variant for the vehicle identification number via the parts process in the 
+XENTRY Portal.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Code: 24P5891230  Version: 2.0  
+ 
+ 2/2  Field measure management GCSP/TPR  Parts  
+Quantity  Designation   Part no.  
+As required  Operator's Manual  A2235841015  
+ 
+Operation text and flat rate  
+Operation 
+no. Operation text  Flat rate  Accounting no./  
+damage code  
+02-9445**  Update Digital Operator's Manual  0.1 h 58 912 30  
+02-4762*  Connect/disconnect diagnostic system 
+(XENTRY Diagnosis)  0.1 h 58 912 30  
+02-5058*  Connect/disconnect starter battery 
+charger (with XENTRY Diagnosis 
+connected)  0.1 h 58 912 30  
+02-9471**  Check Operator's Manual, enclose if 
+necessary  0.1 h 58 912 30  
+* Operation item may be invoiced only once for each workshop order.  
+**  Please enter the code and accounting number manuall y in the workshop order as per the work 
+instructions.  
+ 
+ 
+ 

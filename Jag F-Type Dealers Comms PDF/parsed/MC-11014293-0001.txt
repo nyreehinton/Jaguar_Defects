@@ -1,0 +1,53 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-023
+Service BulletinDate: February, 2025
+TECHNICAL
+Buzzing and/or Whirring Type Noise Heard Coming from the Dash Behind the
+HVAC Control
+This Bulletin takes place of PIT5997. Please discard PIT5997.
+ 
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+Buick Envision 2021 2025 — — All All
+ 
+Involved Region or Country North America
+ConditionSome customers may comment on hearing a buzzing and/or whirring type noise coming
+from the dash behind the HVAC control.
+CauseThe condition may be caused by the interior air quality sensor having insufficient grease
+for the induction motor.
+Correction Replace the B357 Inside Ambient Air Quality Particulate Sensor Module.Subject:
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Refer to Inside Ambient Air Quality Particulate Sensor Module Replacement  in SI.
+ 
+Parts Information
+Causal Part Description Part Number Qty
+XB357 Inside Ambient Air Quality
+Particulate Sensor ModuleUse the VIN and refer to the
+GM (EPC) to determine the
+proper part number to order.1
+ 
+Page 2 February, 2025 Bulletin No.: 25-NA-023
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+4420580 Inside Ambient Air Quality Particulate Sensor Module
+ReplacementUse Published Labor
+Operation Time
+ 
+Version 1
+Modified Released February 06, 2025

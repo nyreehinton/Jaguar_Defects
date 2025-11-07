@@ -1,0 +1,60 @@
+Bulletin No.: PIP6008D
+Published date: 02/17/2025
+Preliminary Information
+PIP6008D 10L80 DTC P2714
+Product Investigation Review Required
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac CT5 2021 - 2025 ALL ALLAll MHS
+Cadillac Escalade 2021 - 2025 ALL ALLALL MHS MHO MQC
+Cadillac Escalade ESV 2021 - 2025 ALL ALLALL MHS MHO MQC
+Chevr oletSilverado 2021 - 2025 ALL ALLALL MHO MHU MHS MHT MQB MQC
+Chevr oletSuburban 2021 - 2025 ALL ALLALL MHS MHU MQC
+Chevr oletTahoe 2021 - 2025 ALL ALLALL MHS MHU MQC
+GMC Sierra 2021 - 2025 ALL ALLALL MI2 MHS MHT MQB MQC
+GMC Yukon 2021 - 2025 ALL ALLALL MHS MQC
+GMC Yukon XL 2021 - 2025 ALL ALLALL MHS MQC
+Involved
+Region or
+CountryNorth America
+Condition DTC P2714, with or without reverse engagement.
+CauseThe (500) Input Internal Gear ma y have separated from the (501) Direct Overdrive Sun Gear Shaft due to the (502)
+Input Internal Gear Retainer Ring being dis-lodged on transmission assemblies built at the Romulus Assembly Plant
+between Julian dates 24158 thru 24249.  See SI Doc ID# 4356498.
+Correction:
+Perform an internal trans inspection to determine if the R2S3 retaining ring is dislodged (Item #502)  to replace the retainer if
+found dis-lodged.
+Item # 502 using SI# 4356498.  
+** Applies to replacement transmission assemblies if within the Julian Dates listed.**
+** Note** Refer to the latest version of TSB 25-NA-014  or RPOs MI2, MQB, & MHT for vehicle typically above 2750 miles.
+ 
+Broadcast Code
+Source DUNS Number
+Transmission Unique Number (TUN)
+2D Machine Readable Matrix
+VPPS Code
+Part Sequence Number
+Site ID
+Broadcast Code
+Julian Date
+Year of Build
+Shift ID
+Line Plant ID
+GM P art Number
+Sample above, S3240462BKJX0090 is:
+Plant built location,"S" Silao.
+Julian Date, "24046", 46th day of Calendar year 2024.
+* Suspect transmission assemblies serial number will start with "R" as a Romulus build. * 
+ 
+
+ 
+Version History
+Version 5
+Modiﬁed09/18/2024 - Created on.  
+10/23/2024 - Added model years and for replacement trans assemblies.  
+01/08/2025 - Updated Correction.  
+01/24/2025 - Updated to clarify Julian dates for 2024 Calander year build.  
+02/17/2025 - Updated Correction.
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,35 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250044 Released Date : 27-F eb-2025
+Air Compr essor Malfunction: F ault Code 8174 and 8175
+Air Compressor Malfunction: Fault Code 8174 and
+8175
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+BES CM2450 EV110B
+BES CM2450 EV111B
+Issue Summar y
+Sympt om:
+Fault Code 8174
+Fault Code 8175
+Root Cause:
+Air compr essor has internal high v oltage interlock loop issue.
+Verification
+Confirm unit is equipped with air compr essor .
+Confirm if the following fault codes ar e activ e or ha ve mor e than one inactiv e fault count
+within the last 25 v ehicle oper ating hours: 8174, 8175.
+Verify High V oltage Interlock Loop Resistance Test has been completed.
+Test for continuity on high v oltage interlock loop pins on high v oltage DC cable leading int o air
+compr essor . Verify connect or is r econnected pr operly befor e continuing t o next step.
+If no issues ar e found thr ough the standar d high v oltage interlock loop checks, measur e
+resistance on high v oltage interlock loop pins of low v oltage connect or on air compr essor .
+Resolution
+Document Hist ory
+Last Modified:  27- Feb-2025If measur ed resistance on high v oltage interlock loop pins of low v oltage connect or on air
+compr essor is gr eater than 1 ohm, air compr essor must  be r eplaced.
+If measur ed resistance on high v oltage interlock loop pins of low v oltage connect or on air
+compr essor is less than the 1 ohm, follow the dir ection pr ovided b y 1-800-CUMMINS™, or use
+the local technical escalation pr ocess.
+Date Details
+2025-2-24Module Cr eated

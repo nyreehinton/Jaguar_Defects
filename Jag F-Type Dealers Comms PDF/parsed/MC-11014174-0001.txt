@@ -1,0 +1,354 @@
+T-SB-0112 -24 Rev1  December 5, 2024  
+ 
+Engine Maintenance Required Message with DTC(s) 
+P268111 and/or P268115  
+Service 
+Category  Engine/Hybrid System   
+ Section    Cooling  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 10 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2019 - 2021  Avalon HV, Corolla, Corolla 
+Hatchback, RAV4, RAV4 HV   
+2021  Avalon, RAV4 Prime, Sienna 
+HV, Venza HV   
+2018 - 2021  Camry, Camry HV   
+2020 - 2021  Highlander HV   
+ 
+ 
+ 
+Introduction  
+Some 2018  – 2021 model year Toyota vehicles equipped with an A25A -FKS, A25A -FXS, or 
+M20A -FKS engine may exhibit a condition in which an “Engine Maintenance Required” message is 
+displayed in the Multi -Information Display (MID) . Additionally, the vehicle will exhibit DTC(s) 
+P268111 (Engine Coolant Bypass Valve Circuit Short to Ground) and/or P268115 (Engine Coolant 
+Bypass Valve Circuit Short to Battery or Open).  Follow the Repair Procedure in this bulletin to 
+address this condition.  
+ 
+ 
+  REVISION NOTICE  
+January  07, 2025 Rev1:  
+• The Parts Information and Repair Procedure  section s have been updated . 
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 2 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  
+ 
+ 
+ 
+ 
+ 
+ 
+Parts Information  
+MODEL  PART NUMBER  
+PART NAME  QTY 
+PREVIOUS  NEW  
+Corolla  
+Corolla Hatchback  16671 -F2010  16671 -F2030  Valve, Water  1 
+Avalon  
+Camry  
+RAV4  16260 -F0010  16260 -F0300  
+Hose Assy, Water By -Pass, No.  1 1 Avalon  HV 
+Camry  HV 
+RAV4 HV  
+RAV4 Prime  
+Venza HV  16260 -F0021  16260 -F0310  
+Highlander HV  
+Sienna HV  16260 -F0100  16260 -F0330  
+Sienna HV (Mexico Spec)  16260 -F0140  16260 -F0340  
+All 00272 -SLLC2  Coolant  – Super Long Life  1 
+ 
+ 
+ 
+  NOTE  
+Refer to Campaign Publication 24TE04  for warranty applicability and claim filing instructions.  
+NOTE  
+Parts are vehicle specific. Do NOT order ALL parts listed in this table.  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 3 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+ 
+Repair Procedure  
+1. Confirm the condition  exists.  
+Is the “Engine Maintenance Required” message displayed in the MID ? 
+• YES — Continue to step 2.  
+• NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.   
+ 
+ 
+2. Using GTS+, perform a Health Check and inspect for ANY of the following DTCs : 
+• P268111  – Engine Coolant Bypass Valve Circuit Short to Ground  
+• P268115  – Engine Coolant Bypass Valve Circuit Short to Battery or Open  
+ 
+Does this vehicle contain ANY of the above listed DTCs?  
+• YES — Continue to step 3.  
+• NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+3. Is the vehicle a Corolla or a Corolla Hatchback?  
+• YES — Go to step 5.  
+• NO — Continue to step 4.  
+ 
+ 
+  NOTE  
+• Only ONE of the Techstream units listed above is required.  
+• GTS+ Software version 2024.04.004.02  or later is required.  
+• Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 4 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+4. Is the vehicle a n Avalon, Avalon HV, Camry, Camry HV, Highlander HV, RAV4,  
+RAV4 HV, RAV4 Prime, Sienna HV, or a Venza HV? 
+• YES — Go to step 6 . 
+• NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+5. Remove and replace the water valve.  
+A. Remove the water valve.  
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+• 2019  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2020 (01/2019 – 03/2019)  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2020 (03/2019 – 09/2019)  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2020 (09/2019 – 04/2020)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2021 (04/2020 – 06/2020)  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2021 (06/2020 – 09/2020)  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+• 2021 (09/2020 – 06/2021)  Corolla and Corolla Hatchback : 
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater) – Removal  
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 5 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+B. Install the NEW water valve.  
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+• 2019 (06/2018 – 01/2019)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (01/2019 – 03/2019)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (03/2019 – 09/2019)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (09/2019 – 04/2020)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2021 (04/2020 – 06/2020)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2021 (06/2020 – 09/2020)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2021 (09/2020 – 06/2021)  Corolla and Corolla Hatchback:  
+Engine / Hybrid System  – M20A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+C. Go to step 7.  
+ 
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 6 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+6. Remove and replace the water bypass valve hose assembly  No. 1 . 
+A. Remove the  water bypass valve hose assembly  No. 1 . 
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+• 2021  Avalon : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2019  / 2020  / 2021  Avalon  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2018  / 2019  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2020 (09/2019 – 03/2020)  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2020 (03/2020 – 10/2020)  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2021  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2018  / 2019  / 2020  / 2021  Camry  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  –Flow Shutting Valve  – Removal  
+• 2020  / 2021  Highlander HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 7 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+• 2019 (11/2018 – 02/2019)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2019 (02/2019 – 10/2019)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2020 (10/2019 – 01/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2020 (01/2020 – 06/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2020 (06/2020 – 08/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2021  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Removal  
+• 2019 (11/2018 – 02/2019)  RAV4  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Removal  
+• 2019 (02/2019 – 10/2019)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Removal  
+• 2020 (10/2019 – 01/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2020 (01/2020 – 06/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2020 (06/2020 – 08/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2021  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2021  RAV4 Prime : 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 8 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+• 2021  Sienna  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+• 2021  Venza  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Removal  
+ 
+B. Install the  NEW water bypass valve hose assembly  No. 1 . 
+Refer to TIS, applica ble model  and model  year Repair  Manual: 
+• 2021  Avalon : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2019  / 2020  / 2021  Avalon  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Installation  
+• 2018  / 2019  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (09/2019 – 03/2020)  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (03/2020 – 10/2020)  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2021  Camry : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2018  / 2019  / 2020  / 2021  Camry  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Installation  
+• 2020  / 2021  Highlander HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 9 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+• 2019 (11/2018 – 02/2019)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  –  
+Flow Shutting Valve (for Heater)  – Installation  
+• 2019 (02/2019 – 10/2019)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (10/2019 – 01/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (01/2020 – 06/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2020 (06/2020 – 08/2020)  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2021  RAV4 : 
+Engine / Hybrid System  – A25A -FKS (Cooling)  – 
+Flow Shutting Valve (for Heater)  – Installation  
+• 2019 (11/2018 -02/2019)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2019 (02/2019 -10/2019)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2020 (10/2019 -01/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2020 (01/2020 -06/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2020 (06/2020 -08/2020)  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2021  RAV4 HV:  
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve – Installation  
+• 2021  RAV4 Prime : 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Installation  
+ 
+  
+ T-SB-0112 -24 Rev1  December 5, 2024  Page 10 of 10 
+Engine Maintenance Required Message with DTC(s) P268111 and/or P268115  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+• 2021  Sienna  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Installation  
+• 2021  Venza  HV: 
+Engine / Hybrid System  – A25A -FXS (Cooling)  – Flow Shutting Valve  – Installation  
+C. Continue to step 7.  
+ 
+7. Using GTS+, clear ANY DTCs and test -drive the vehicle to confirm the condition has   
+been resolved.  
+ 
+ 
+ 

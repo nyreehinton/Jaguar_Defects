@@ -1,0 +1,32 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250046 Released Date : 26-F eb-2025
+C70D2RE &C100D2RE HMI CB Butt ons for Non-P aralleling Units
+C70D2RE &C100D2RE HMI CB Buttons for Non-
+Paralleling Units
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+C70D2RE
+C100D2RE
+Issue
+Sympt om:
+“CB Open ” and “CB Close ” butt ons on Human Machine Inter face (HMI) ar e non-functioning on
+non-par alleling models.
+Root Cause:
+Non-par alleling models ha ve manual cir cuit br eakers (CB).
+Verification/Confirmation
+If the unit is a non-par alleling unit and equipped with the 6 butt on HMI, P art Number A050Z029,
+proceed t o the Resolution section .
+Resolution
+If desir ed, cust omers can co ver the “CB Open ” and “CB Close ” butt ons on the HMI, P art Number
+A050Z029 with black outdoor r ated tape t o eliminate confusion and per ception that ther e is an
+issue with the HMI or CB oper ation butt ons.
+Document Hist ory
+Last Modified:  26- Feb-2025Service Instructions
+Using 3M™ Extr eme Sealing Tape 4411B or equiv alent, cut a 57mm (2.25 inch) L x 34mm (1.33
+inch) W piece of tape and apply it o ver the two “CB Open ” and “CB Close ” butt ons on the HMI. See
+Figur e 1 below for r eference.
+Figur e 1, Tape Installation on HMI, Non-P aralleling Model
+Date Details
+2025-2-25Module Cr eated

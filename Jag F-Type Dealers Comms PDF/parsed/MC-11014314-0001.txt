@@ -1,0 +1,46 @@
+Involved Region or
+CountryNorth America
+Condition Service high voltage system message on the DIC along with a P0534 (HV charging not working) 
+Cause Refrigerant system not operating as well as intended 
+Version 4
+Modiﬁed01/17/2024 - Created on.  
+11/08/2024 - Updated Models and correction.  
+11/22/24 - Updated Correction.  
+02/14/2025 removed PCA T instructions and directed towards updated SI
+procedures.  
+Bulletin No.: PIT6112C
+Published date: 02/14/2025
+Preliminary Information
+PIT6112C P0534 Service High Voltage Diagnostic Tips
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ 2023 - 2024 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+1. Are BCM & BECM updates available?
+   - Yes: Update software to the latest version. Then do EVAC & Fill. Measure the recovered refrigerant volume (Fill
+Tolerance is+/-30g). Proceed to step 2.
+   - No: Do EVAC & Fill. Measure the recovered refrigerant volume (Fill Tolerance is+/-30g). Proceed to step 2.
+2. Did you recover full charge?
+   - Yes: Proceed to step 3.
+   - No: Do a visual inspection of the AC Hardware and ﬁnd the source of the leak. Replace the leaking part then reﬁll
+system,then go to step three 
+3.  Perform Air Conditioning (A/C) System Performance T est in Service information.  If problem persists follow
+SI procedures 
+ 
+Additional notes:
+For AC Hardware visual inspections, use a black light to detect refrigerant leaks. Ignore dye traces around the ﬁll valve
+area and clean them with Fluorescent Dye Cleaner when ﬁrst found & monitor the area for bubbling or new dye formed
+after running the system..
+When doing evacuation and recharge, use a clean oil catch bottle in the AC machine to look for any debris in the
+system.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

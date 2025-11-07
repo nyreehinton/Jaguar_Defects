@@ -1,0 +1,50 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-030
+Service BulletinDate: February, 2025
+TECHNICAL
+Squeak Type Noise Heard When Applying the Brake Pedal
+ 
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+Chevrolet Equinox
+2025 2025 — — — —
+GMC Terrain
+ 
+Involved Region or Country North America, Middle East, Argentina (Mercosur), Brazil (Mercosur)
+ConditionSome customers may comment on having a squeak type noise heard when applying the
+brake pedal.
+CauseThe condition may be due to contact between the brake pedal position (BPP) sensor and
+the pin that moves it.
+Correction
+6836897
+Reach up to the top of the brake pedal area and apply Multi-Purpose Lubricant,
+Superlube (GM Part No. 12346241, in Canada 10953474) or equivalent to the contact
+point, As shown in the picture above, and cycle the brake pedal a few times to distribute
+the lubricant.Subject:
+ 
+Page 2 February, 2025 Bulletin No.: 25-NA-030
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONService Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Warranty Information
+For vehicles repaired under warranty, use:
+Labor Operation Description Labor Time
+2486398* Applying Lubricant to Brake Pedal Position (BPP) Sensor Pin 0.3 Hrs.
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 1
+Modified Released February 13, 2025

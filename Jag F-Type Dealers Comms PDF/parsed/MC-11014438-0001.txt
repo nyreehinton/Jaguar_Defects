@@ -1,0 +1,17 @@
+ 
+Field Action Number  N24-248092  
+Release notes  Update Title:  
+Important Update GM N24 -248092  
+Release Notes:  
+Improvements to the rear vision camera 
+system.  
+ 
+During the update process, your radio may 
+stay on up to 5 minutes after you exit the 
+vehicle. This is expected behavior when an 
+update package is onboard the vehicle. Do 
+not service your vehicle during installation.  
+Model Year  2024 
+Make  Chevrolet  
+Model  Equinox  EV 
+Components  VCU ( Virtual Cockpit Unit)  

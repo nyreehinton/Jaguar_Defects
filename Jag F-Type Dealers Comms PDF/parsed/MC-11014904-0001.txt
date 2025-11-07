@@ -1,0 +1,65 @@
+ 
+- 1 - No.: 25CSA -03 
+March  2025 
+ 
+TO: Service Location s 
+ 
+FROM:  Powertrain Service Engineering  
+ 
+SUBJECT:  Gen 5 Cylinder Head Gasket , High No Trouble Found (NTF) Rate and 
+Part Handling  
+ISSUE   
+Detroit Diesel Corporation has identified a significant amount of cylinder head gaskets that are  
+No Trouble Found (NTF) , incorrect parts, or missing parts when  they are  received for 
+inspection.  
+ 
+Detroit Quality has identified an increase in  issue s where  repairing outlets document on their 
+claims, that  the cylinder head gasket is the Primary Failed Part (PFP) when the cylinder head 
+gasket has not actually failed .  This is confirmed during parts inspect ion. Additionally, not all 
+parts are being sent and/or incorrect parts are being sent to Detroit Diesel Corporation .   
+CAUSE  AND REQUIRED ACTION  
+Quality has noted  that 44 percent  of the inspected cylinder head gaskets are No Trouble Found 
+(NTF).  When repair facilities submit claims, it is important to use the correct PFP in OWL.  
+ 
+The NTF number is inflated because of  previous under -repairs  (refer to 23TS -06).  When the 
+compression  seal fails , the upper  liner O-ring(s)  can be damaged.  Following the ‘Inspection of 
+the Cylinder Head Gasket’ procedure, located in the appropriate Gen 5 DD13 or Gen 5 DD15 
+Workshop manual , is key to reducing come backs.  
+ 
+When inspecting cylinder head  gaskets, Detroit Diesel Corporation  has found head gaskets 
+missing the compression  seals and showing  secondary damage. During removal,  ensure the 
+head gasket and compression  seals are in place. If the c ompression seals are decoupled from 
+the head gasket, tie the  seals to the correct cylinder  gasket hole and in the correct orientation 
+with nylon ties.  Refer to figure 1.  
+ 
+ 
+- 2 - 
+ 
+Figure 1:  Cylinder  Head Gasket with Compression Seal tied to the Head Gasket Frame  
+ 
+ 
+Figure 2 : Cylinder  Head Gasket Missing Compression Seal  
+ 
+ 
+ 
+- 3 - Do not fold the cylinder head gasket.  Folding the cylinder head gasket causes secondary 
+damage which impedes the investigation . The cylinder head gasket should be returned in the 
+box from the new head gaske t. Refer to figure s 3 and 4.   
+ 
+ 
+Figure 3 : Folded  Cylinder Head Gasket  
+ 
+ 
+Figure  4: Cylinder  Head Gasket returned flat and in the box  
+ 
+ 
+Figure 5: Example  of a Damaged Compression Seal  
+ 
+- 4 - CLAIM PROCESS  
+Normal in -warranty procedures apply. Proactive removal of properly functioning parts is not allowed 
+under warranty.  
+CONTACT INFORMATION  
+Please contact the Detroit Diesel Customer Support Center at 800-445-1980  or email  
+csc@daimler truck .com if you have any questions.  
+ 
+ 

@@ -1,0 +1,62 @@
+   
+TECHNICAL SERVICE BULLETIN
+Unintended Deceleration Without A Vehicle In Front When Using Adaptive
+Cruise Control Or BlueCruise25-2040
+12 February
+2025
+Model:
+Ford
+2021-2024 Mustang Mach-E
+Markets: Canada, USA
+Issue: Some of the vehicles listed in the Model statement above may exhibit an unintended deceleration without a
+vehicle in front when using ACC or BlueCruise. This may be due to the front bumper affecting both corner radar
+sensor signals.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+install aluminum foil tape to cover/close off the open ends of the front bumper.
+Parts
+Service Part NumberClaim QuantityPackage Order QuantityDescription
+Obtain Locally As Needed As Needed Aluminum Foil Tape
+Obtain Locally As Needed As Needed Alcohol Wipes
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+As Needed indicates the part is necessary but amount of the part may vary and/or is not a whole number. Parts can
+be billed out as non-whole numbers, including less than 1.
+Special Tool(s)
+General Equipment - Interior Trim Remover
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2021-2024 Mustang Mach-E: Install Aluminum Foil Tape On Both Ends Of The Front Bumper
+Following The Service Procedure (Do Not Use With Any Other Labor Operations)252040A 0.5
+Hrs.
+Repair/Claim Coding
+Causal Part: 14C689
+Condition Code:04
+Service Procedure
+1. With the vehicle in N, position the vehicle on a hoist. Refer to WSM, Section 100-02 > Jacking and Lifting >
+Description and Operation.
+2. Remove both stone deflectors and the lower air deflector to gain access to the front bumper from underneath.
+Refer to WSM, Section 501-19 > Removal and Installation > Front Bumper Cover. Perform only Step 3 and Step 8.
+3. Using alcohol wipes, clean both open ends of the front bumper to remove any soil or debris to promote adhesion.
+4. Using a minimum 2 in. wide (50 mm) by a minimum 6 in. long (150 mm) piece of aluminum foil tape, place the
+aluminum foil tape over each of the open ends of the front bumper as shown in Figure 1.
+Figure 1
+5. Cut a long opening into the bottom of each of the aluminum foil tape on each front bumper end to allow a drain
+path for moisture as shown in Figure 2.
+Figure 2
+6. Install both stone deflectors and the lower air deflector. Refer to WSM, Section 501-19 > Removal and Installation
+> Front Bumper Cover. Perform only Step 3 and Step 8.
+7. Lower the vehicle from the hoist.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

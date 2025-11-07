@@ -1,0 +1,147 @@
+ 
+Instrument Cluster Message for Active Emergen-
+cy Stop Assist not active/Active Lane Keep Assist
+Topic number LI46.10-P-078012
+Version 3
+Function group 46.10 - Steering wheel, jacket tube, steering shaft, stee-
+ring lock
+Date 2/3/25
+Validity Vehicles with capacitive steering wheel with code 266
+and manufacturing date as from 2020
+Reason for change Remedy Adjusted
+Complaint
+Hand detection system not operating correctly / vehicles with code 266
+Fault message in instrument cluster:
+"Active Emergency Stop Assist not available"
+"Active Lane Keeping Assist not available"
+Cause
+Possible causes: the hand detection mat, the hand detection control unit, the contacts and the steering wheel har-
+ness.
+Remedy
+Test Procedure:
+Perform an initial quick test with freeze frame data. Save the N179 - Hand detection system (HE) and N62/4 - Driver
+assistance system (SG-FAS) control unit logs. Note the fault frequency of fault codes set.
+Delete the N179 and N62/4 fault memory.
+Using both hands, "scan" the steering wheel all the way round, including the chrome molding at 6 o'clock (see Picture
+1).
+Read out fault memory and follow steps below for any faults set.
+Remedy:
+Vehicles with control unit N179 - Hand detection system (HE):
+B1E7614 :
+Check contacts and wiring harness in steering wheel by carrying out a visual check for damage, pinched areas, loo-
+se connections, etc. (examples in Figs. 2 and 3); If no damage is noted replace the N135 - Steering wheel electronics
+(LRE) and reassess. If fault code returns replace the steering wheel.
+B1E7713 :
+Please check the wires and connections in the steering wheel. Afterwards, please check whether the complaint is
+caused by over torqued screws on steering wheel trim pieces. To do this, please loosen the screws slightly and re-
+evaluate the situation. (Picture 4).
+P164456 :
+Perform SCN coding.
+P1CA000 :
+Perform an initial start-up on the N179 hand detection control unit.
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 5
+ 
+Faults in N62/4 - Driver assistance system (SG-FAS) control unit with U186B29, U0429E0, U042941, U042929,
+U042902, U0429E1:
+If no fault is stored in the N179 control unit:
+Scan steering wheel as indicated in the test procedure and check whether the fault is reproducible.
+If no fault code is stored in the hand detection control unit, the fault codes in the driver assistance systems control unit
+are precautionary messages.
+Software for the N62/4 - Driver assistance system (SG-FAS) is now available for Star 3 vehicles only.
+Fault in IDC223 control unit:
+U186B29:
+Delete fault memory and flash the new IDC (N62/4) software A223 902 75 37. If the software update is not available,
+or the problem persists, create a TIPS case.
+Fault in IDC213 control unit:
+U0429E0, U042941, U042929, U042902, U0429E1:
+If no fault is stored in the HOSWD control unit then scan the steering wheel and check whether the fault is reproducib-
+le.
+If reproducible: Create a TIPS case, adding the note "reproducible".
+If no fault code is stored in the hand detection control unit, the fault codes in the driver assistance systems control unit
+are precautionary messages. New coding parameters (SCN) will be available in Q2/2025 for the HOSWD control unit.
+Attachments
+File Description
+Picture 1.PNG
+ Picture 1 Hand Positions
+Picture 2.PNG
+ Picture 2 Harness damaged
+Picture 3.PNG Picture 3 Harness damaged
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 5
+ 
+Picture 4.jpg
+ Picture 4 Screw connections
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Chassis/suspension  > Brake system  > Brakes/traction regulation system  > Brake assist system BAS  > Display mes-
+sage  > Brake assist - not available
+Lighting  > Exterior lights  > Driving lights  > Adaptive Highbeam Assist  > Warning message in instrument cluster
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 5
+ 
+Communication/information  > Assistance and warning systems  > Active Steering Assist  > Malfunction
+Communication/information  > Assistance and warning systems  > Active Steering Assist  > Warning message in in-
+strument cluster
+Control unit/fault code
+Control unit Fault text
+N179 - Hand detection system (HE) (HOSWD223) P1CA000  - Initial startup was not performed. _
+P164456  - An incorrect variant coding or configuration
+was detected. An incorrect or incompatible configuration
+was detected.
+B1F1F04  - Control unit 'Hand-detection system' has a
+malfunction. There is an internal fault.
+B1E7713  - The ground connection of the control unit
+'Hand detection system' has a malfunction. There is an
+open circuit.
+B1E7614  - The sensor mat of the control unit 'Hand de-
+tection system' has a malfunction. There is a short circuit
+to ground or an open circuit.
+N62/4 - Driver assistance system (SG-FAS) (IDC223) U186B29  - Communication with control unit 'Hand detec-
+tion system' has a malfunction. There is an invalid signal.
+N179 - Hand detection system (HE) (HOSWD213) P1CA000  - Initial startup was not performed. _
+P164456  - An incorrect variant coding or configuration
+was detected. An incorrect or incompatible configuration
+was detected.
+B1F1F04  - Control unit 'Hand-detection system' has a
+malfunction. There is an internal fault.
+B1E7713  - The ground connection of the control unit
+'Hand detection system' has a malfunction. There is an
+open circuit.
+B1E7614  - The sensor mat of the control unit 'Hand de-
+tection system' has a malfunction. There is a short circuit
+to ground or an open circuit.
+N62/4 - Mercedes-Benz Intelligent Drive (SG-FAS)
+(IDC213)U0429E1  - Implausible data were received from the stee-
+ring column module. _
+U042902  - Implausible data were received from the stee-
+ring column module. There is a general signal fault.
+U042929  - Implausible data were received from the stee-
+ring column module. There is an invalid signal.
+U042941  - Implausible data were received from the stee-
+ring column module. There is a general checksum error.
+U0429E0  - Implausible data were received from the stee-
+ring column module. _
+Operation numbers/damage codes
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  4 / 5
+ 
+Op. no. Operation text Time Damage
+codeNote
+46248GI Steering wheel - faulty hand detec-
+tion system
+46803 Hand detection control unit
+5983Z Contacts/line, hand detection control
+unit
+06.02.2025   16:51   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  5 / 5

@@ -1,0 +1,171 @@
+SIB 64 07 23
+DELIVER Y STOP: EKK (eKMV) Circuit Board2025-02-03
+This Service Information Bulletin (Revision 2) replaces SI B64 07 23 dated July 1 1, 2023.
+ 
+What’ s New:
+The Parts and Claim Information sections have been updated.  
+MODEL
+E-Series Model Description Production Date 
+G26i4 eDrive 35
+ i4 eDrive 40 
+ i4 M50 Battery Electric V ehicle (BEV)April 19, 2023 – April 24.2023
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible. As of June 30, 2023, you can see a
+list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (ef fective June 29, 2023) on certain Model Year 2023 BMW i4 vehicles
+that were produced between April 19, 2023, and April 24, 2023. 
+ 
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired. Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.
+ 
+CAUSE
+Contaminants were found on the printed circuit board of the electric A/C compressor (EKK). 
+ 
+CORRECTION
+Removal and replacement of the electric A/C compressor (EKK).
+ 
+PROCEDURE
+The repair instructions RA 64 52 531  is available with IST A version 4.42.1x and are expected to be available
+from 28/06/2023.
+ 
+ 
+Important W arning for W orking on the High-V oltage (HV) systems on BMW Group vehicles:
+ 
+Only properly trained personnel, who passed all applicable HV T echnical T raining Courses, should
+perform repairs which require disconnecting, or removal of High V oltage battery components on any
+Hybrid or Electric V ehicle. W ork performed on High V oltage systems by unqualified persons may
+result in severe injury or damage to the vehicle. Additional safety information is found in Repair
+Instruction 61 00… “Observe safety instructions when handling electric vehicles”.
+ 
+Additional Information:
+ 
+Scheduled Maintenance, or Quality Certification 1 (Pre-Delivery Inspection) on Electric or Hybrid
+vehicles does not require HV technical training.
+ 
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:37 AM 64 07 23_DELIVERY STOP: EKK (eKMV) Circuit Board
+about:blank 1/5
+Prior to disconnecting, or the removal of any HV component, the HV system needs to be disabled
+and secured (by means of the HV Disconnect Switch) by a properly trained technician, who has a
+minimum HV Qualification level after completing the T echnical T raining Course ST1824 (Alternative
+Drive Part 1). Once the vehicle’ s HV system is disabled (the “Blitz” - lightning bolt icon displayed in
+instrument cluster , see below), a technician without HV Certification may remove a HV component
+(e.g., EH Heater , EKK Compressor , EME Control Unit, et.), except for the High V oltage Battery .
+ 
+ 
+ 
+High V oltage Battery removal and rework can be performed ONLY by a HV Specialist T echnician
+(certified by the T echnical T raining Course ST1825 – Alternative Drive Part 2), AND with a HV Battery
+Certification level corresponding to a specific Electric or Hybrid vehicle (e.g., to repair GEN4 battery
+of G05 PHEV , certification from T echnical T raining Course “ST2006 – SP44 HV Battery” is required).
+ 
+Therefore, to perform this  SIB 61 16 22  a GEN5 battery Certification is required from T echnical
+Training Course “ST2205 Generation 5 High-voltage” class).
+ 
+PARTS INFORMA TION
+Only use and invoice the applicable part numbers listed below .
+ 
+Refer to the Parts Matrix for the most up-to-date ordering procedure.
+ 
+Part Number Description Quantity
+64 52 5A84970 Electric air conditioning compressor (EKK) 1 
+Or:   
+64 52 5B31E59 Electric A/C compressor (EKK) 1
+07 12 9909840 ISA screw (M7x37) - i4 M50 4
+07 11 9909846  Hex bolt (M7x46) – i4 eDrive 35/eDrive 40 4 
+64 53 9284019 O ring 1
+64 53 9284018 O ring 1
+ 
+Note:
+Follow the repair instructions and renew bolts (listed above) securing the electric A/C compressor
+(EKK) to the holder . The bolts securing EKK and holder assembly to engine support bracket should
+be reused.  
+Bulk Material - Sublet  
+Part Number Description Quantity
+83 19 2 446 563 BMW Group R-1234YF - (10lb / 160oz) (1oz Billing PN) Sublet as
+needed
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed according to the IST A repairCopyright ©2025 BMW of North America, Inc.
+2/6/25, 5:37 AM 64 07 23_DELIVERY STOP: EKK (eKMV) Circuit Board
+about:blank 2/5
+instructions/ETK, must be selected from the Electronic Parts Catalogue, or other approved BMW resources,
+according to the respective vehicle type. Invoiced these items separately under the Repair Code listed in
+this bulletin.
+ 
+CLAIM INFORMA TION
+Reimbursement for this Action will be via normal claim entry utilizing the applicable work package
+information below and the part numbers listed above that apply .
+Repair
+Code:0064210200 G26 Replacing BEV electric air conditioning compressor
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair . 
+Work PkgLabor
+OperationDescription (Plus work) Labor Allowance
+# 1 00 74 867Replace electric A/C compressor
+(includes 64 50 510 to extract,
+evacuate and fill air conditioning
+system)As applicable
+ 
+Or: 
+The vehicle arrives at your center and this Action shows open (No other Main work will be performed
+or claimed during this workshop visit).  
+Work PkgLabor
+OperationDescription (Main work) Labor Allowance
+# 2 00 74 224Replace electric A/C compressor
+(includes 64 50 010 to extract,
+evacuate and fill air conditioning
+system)As applicable
+ 
+Claim Repair Comments  
+Only reference the SIB number and the work package (Pkg) number performed in the RO technician notes
+and the claim comments (For example: B64 07 23 WP  1), unless otherwise required by State law .
+ 
+Sublet – Bulk Materials (RO and Claim Comments Required)
+ 
+Sublet Code
+4Up to $30.00Reimbursement for the repair-related bulk material (Do not use
+the BMW part number for claim submission)
+ 
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:37 AM 64 07 23_DELIVERY STOP: EKK (eKMV) Circuit Board
+about:blank 3/5
+Sublet reimbursement calculation for claiming the applicable repair-related bulk material (BMW part number)
+is at the dealer net price amount for the proportional quantity (one ounce qty billing PN) plus your center ’s
+handling.  
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section.  
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes  
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR
+application resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and
+click on the “Search” icon. If the “V ehicle Selection” window displays two or more model possible
+vehicle choices, select the applicable Model, or enter the full VIN (17 characters) instead to proceed.
+ Click on the “Flat Rate Units” button and enter a flat rate labor operation code number “without
+spaces” in the field to the right, click on the “Search” icon to display the corresponding listing of “Flat
+rate unit group details” that are available and their corresponding FRU allowances.  
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Action’ s repair qualifies for the Alternative Mobility Solution (AMS) expense reimbursement, claim this
+item under the Repair Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16  for additional information. 
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topics of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the W arranty
+Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:37 AM 64 07 23_DELIVERY STOP: EKK (eKMV) Circuit Board
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:37 AM 64 07 23_DELIVERY STOP: EKK (eKMV) Circuit Board
+about:blank 5/5

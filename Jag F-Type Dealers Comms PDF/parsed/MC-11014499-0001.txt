@@ -1,0 +1,44 @@
+ 
+ 
+WWW.AD24.Direct  
+Alexander Dennis  
+Trident House,  
+2 Voyager Park, Dingley Way  
+Farnborough. GU14 6FF .  
+Aftermarket Support Line:  
+0845 358 9988 (U.K.)  
+ 
+Service Bulletin  
+Operation Guide  Heading: Controls and Instrumentation  Bulletin No:  
+  
+962 Models Affected:   
+ALL models that are fitted with  
+Manual Park Brake Handle . Title:  
+ 
+Park Brake Valve Handle 
+Return  Date:  May 2023  
+Page : 1 of 1  
+Introduction:   
+ 
+This Service Bulletin has been released to remind Operators  of the correct operation of the park brake 
+lever following a recent  increase in reported failures  of these valves .  
+ 
+  
+ 
+The outcome of our investigation has led to the conclusion that misuse of the lever is the cause of the 
+failures, rather than a fault with the valve . 
+ The apparent misuse is caused when drivers are allowing the lever of the parking brake to fly back 
+under the full force of the return spring against the stop . This leads to fatigue in the material of the 
+park brake valve handle and its premature failure.  
+ 
+ 
+Instructions for C orrect  Use: 
+ 
+To release the parking brake, the sleeve on the lever must first be lifted , then the lever guided fully 
+forward in a controlled manner . 
+ 
+ 
+CAUTION: Do not release the lever so that it will be released under the full force of the return 
+spring. This repeated action may cause damage to the park brake valve.  
+Last Bulletin  Issued:    961 
+ 

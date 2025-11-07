@@ -1,0 +1,39 @@
+   
+TECHNICAL SERVICE BULLETIN
+6.7L - Illuminated MIL With DTC P20A5 - Built On Or Before 10-Oct-202425-2032
+12 February
+2025
+Model:
+Ford
+2025 F-650/750Built on or before 10-Oct-2024
+Engine: 6.7L Diesel
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit an illuminated MIL with DTC P20A5
+stored in the PCM. This may be due to the software in the GDM and does not affect vehicle operation. Due to OBD
+functionality, the GDM may be referred to as the SOBDMC in the FDRS scan tool.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+reprogram the SOBDMC.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Emissions Warranty/Service
+Part Warranty (SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior
+approvals are not altered by a TSB. NVLW/Emissions Warranty/SPW/SPNV/ESP coverage limits are determined by
+the identified causal part and verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2025 F-650/F-750 6.7L: Retrieve DTCs And Reprogram The SOBDMC (Do Not Use With
+Any Other Labor Operations)252032A 0.4
+Hrs.
+Repair/Claim Coding
+Causal Part: 12B533
+Condition Code:04
+Service Procedure
+1. Reprogram the SOBDMC using the latest software level of the FDRS scan tool.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

@@ -1,0 +1,70 @@
+  
+ 
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known t hat appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+ 
+ FCA US LLC                                             Version 4. 3 10/28/2020 Case Number:  S200800008 4   REV. C 
+ 
+Release Date:  February   2025 
+ 
+Symptom/Vehicle Issue:  Cluster Warning Lamp is on, Service 4WD Message   
+ 
+Customer Complaint/Technician Observation : Owner complains the 4 -wheel drive service 
+warning lamp turns on. Technician observed , the 4wd warning lamp  on and the vehicle  setting one or 
+multiple of the following Diagnostic Trouble Codes ( DTCs)  
+C147B -92 Front Axle Disconnect  Sensor -Performance  Or Incorrect  Operation  
+C147B -14 Front Axle Disconnect  Sensor -Circuit  Short To Ground  Or Open 
+C1463 -13 Front Axle Disconnect  Control -Circuit  or Short  To Ground   
+C149E -64 Transfer  Case Motor Position  Sensor -Signal  
+C140A -11 Transfer Case Motor Control Shorted To Groun d 
+C140E Transfer Case Motor Blocked  
+U0102 Lost Communication With Drive Train Control Module (DTCM)  
+  
+Repair Pr ocedure:  If any of the above DTCs are present as active or stored, inspect the following 
+locations for any wiring concerns as highlighted  Fig 1 -3.  
+ 
+ 
+Fig 1  
+
+  
+ 
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known t hat appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+ 
+ FCA US LLC                                             Version 4. 3 10/28/2020  
+ 
+ 
+ 
+Fig 2  
+
+  
+ 
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known t hat appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT or eCONTACT ticket if no 
+solution is found  
+ 
+ FCA US LLC                                             Version 4. 3 10/28/2020  
+ 
+Clean, repair and secure any suspect locations.   
+Fig 3  
+G916A  

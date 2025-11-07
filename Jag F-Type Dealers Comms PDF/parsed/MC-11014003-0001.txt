@@ -1,0 +1,215 @@
+SERVICEBULLETIN
+2025-01-14 M1391A
+M1391A (REVR):MIDTRONICS GRX-3110SOFTWAREUPDATE
+Reason forRevision
+Table1
+Table1.Document History
+Revision Description Rev Date
+Remove videolinkR 2025-01-14Updated: Supplemental Procedure Video *
+Added:192-210335N, 192-210335M, 192-
+210335LQ 2024-12-04Updated: Update192-210335N andRe-
+quiredDealerAction*
+AddKBatteryPartNumbersP 2022-04-29Updated: Update192-210335K *
+AddvideoO 2021-05-18Updated: Supplemental Procedure Video *
+Addsoftware update
+N 2021-05-12 Updated NewSoftware Update:Update
+192-210335K ,Required DealerAction*
+Addressing typos
+M 2021-03-18 Updated NewSoftware Update:Update
+192-210335J ,Required DealerAction*
+BatterypartnumberupdateL 2021-02-04Updated Update192-210335J *
+PCoperating systemK 2019-11-04AddedRequired DealerAction:Step1a *
+Change navigation toServiceInformation
+Portal(SIP)J 2019-10-03Updated Required DealerAction:Step
+1*
+Formatting andsoftware update
+I 2019-09-1 1Updated Purpose,Required DealerAc-
+tion*
+AddedNewSoftware Update>Update
+192-210335I*
+Updated navigation toH-Dnet.com
+H 2019-07-10 Updated Required DealerAction:Step
+1a*
+Updated Required DealerAction
+G 2018-05-21 AddedNewSoftware Update>Update192-
+210335H
+AddedNewSoftware Update>Update192-
+210335GF 2018-02-19
+UpdateNewSoftware Update>Update
+192-210335F ,Required DealerAction>
+NOTEE 2018-01-10
+UpdateNewSoftware Update>Update
+192-210335ED 2017-12-01Table1.Document History
+Revision Description Rev Date
+AddedNewSoftware Update>Update192-
+210335F
+C 2017-11-10AddedPrevious Software Updates,New
+Software Update>Update192-210335E ,
+NewSoftware Update>Update192-
+210335D
+UpdateRequired DealerAction
+Updated Software Update192-210335E B 2016-11-09
+Updated Software Update192-210335D A 2014-11-06
+Initialrelease - 2014-10-21
+Purpose
+Thepurpose ofthisbulletinistoinformthedealernetworkthat
+asoftware updatetotheGRX-3110isnowavailable.
+HDBATTERYDIAGNOSTIC STATION(PARTNUMBER:
+GRX-3110HD)
+Markets Affected
+Allmarkets areaffected.
+NewSoftware Update
+NOTE
+Allsoftware updates mustbeperformed byallmarkets toavoid
+warranty issuesbythedatestatedinRequired DealerAction.
+Update192-210335N
+Thisupdateaddsnewbatterypartnumber.
+•HD96100P410000
+Algorithm update.
+Update192-210335M
+Thisupdateaddsnewbatterypartnumbers.
+Modified Selection inPowerSupplyMode.
+Batterylistupdate:
+•66000134
+•66000368
+•66000369
+•66000370
+•66000356
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE
+•66000357
+•66000358
+•HD96100P160000
+Update192-210335L
+Thisupdateaddsnewbatterypartnumbers.
+Batterylistupdate:
+•HD96100P160000
+•66000356/ CHNmarket:66000368
+•66000357/ CHNmarket:66000369
+•66000358/ CHNmarket:66000370
+•66000134
+Previous Software Updates
+Update192-210335K
+Inaddition tothechangefromWarrantyCodetoTestCode
+thatwasintroduced inversion“J”,thisupdatemakesyourGRX
+machine capable oftestingandcharging thePartsand
+Accessories LiFebatteries (4Ah,6Ah,8Ah).TheTestCode
+replaces theWarrantyCodeandmustbeincluded inthenotes
+sectionofeveryclaimwhereabatteryisbeingreplaced under
+warranty ,withtheexception oftheLivewire 12Vbattery.If
+testingbatteries fornon-warranty situations, simplydisregard
+theTestCode.
+Thisupdateaddresses newbatterypartnumbers for2021
+modelsandrevisedmenuselections.
+Table2.UpdateKBatteryPartNumbers
+CurrentBrazil(OE) NewInternational Current United
+States
+66000065A 66000207A 65989-97E
+66000066A 66000212A 66010-97E
+66000064A 66000208A 65958-04C
+66000206A 65948-00C
+66000209 65991-82B
+6600021 1 65989-90B
+66000210 66010-82B
+66000171
+66000174
+66000175
+66000301
+66000302
+66000303
+Update192-210335J
+Thisupdateaddresses newbatterypartnumbers for2021
+modelsandrevisedmenuselections.
+Update192-210335I
+Thisupdateaddresses theadditional partnumbers forbatteries.
+Update192-210335H
+Thisupdateaddresses anissueintheJapanese language
+menu.
+Update192-210335G
+Thisupdateaddresses aprintissuediscovered intheJapan
+market.Also,thereisanupdatetothealphanumeric keypadtomakeitmoreconsistent whenenteringaVehicleIdentification
+Number (VIN)andbatterydatecode.
+Update192-210335F
+Thisupdatehasbeencreatedtoimprove testingalgorithms to
+ensurehigherqualityresults.
+•Extended batterytestingtimefromamaximum of90minutes
+to3hours.
+•Batteryclaimsarerequired tohavetheprintoutusingthe
+latestsoftware revisioninordertoreceivecredit.
+Update192-210335E
+Thisupdatewascreatedtoincludethreebatterypartnumber
+revisions. TheSportster/Street batterywasrevisedin2015.
+Theothertwobatterypartnumbers wererevisedinDecember
+of2016.RefertoTable3.
+Table3.UpdateEBatteryPartNumbers
+PartNo. Platform
+65989-97D Dyna
+65989-97D Softail
+65958-04B Sportster
+65958-04B Street
+66010-97D Touring
+66010-97D Trike
+65989-97D V-Rod
+Update192-210335D
+Thisupdatewascreatedtoimprove theaccuracy ofwarranty
+claimsonbatteries. Thisupdatealsoallowsforthetechnician
+tocomplete thetestingprocedure andproduce aprintoutwith
+warranty codeifabatterybecomes toohot,emitsodorsduring
+loadtestingorissuddenly removed fromthecharger.
+NOTE
+Withthisupdate, chargetimeswillincrease duetoamore
+aggressive chargeroutine.
+Required DealerAction
+Table4.Required DealerAction
+Required Description Category
+MustPerform Repair 1
+RepairIfPresenting Symptom 2
+FeaturePack-
+Customer/Dealer Paid3
+Informational Purposes Only 4
+NOTE
+•Complete software updatetotheGRX-3110byJanuary 1,
+2025.
+•Ittakesabout45–90minutes tocomplete theupdate.
+•ContactMidtronics Customer Servicewithanyissuesrelated
+tothisprocess at630-323-2800 inNorthAmerica. Outside
+theU.S.,call00-1-630-323-2800.
+•Thesoftware updaterequirestheUniversal SerialBus(USB)
+cableprovided withtheGRX3110.ThisUSBcableisa
+"TypeAMaletoTypeAMale"cable.
+2/3 M1391A
+•Seewarranty manualforyourregiononretention lengthof
+batteries andthecorresponding printoutrequirements.
+1.Todownload thelatestfileclickGRX-3110_Software .
+NOTE
+LoginintoSIPthroughGoogleChrome toview.
+a.ThePCoperating systemmustbeWindows 7orlater
+toworkwiththeGRX3110.
+2.Whenthedownload iscomplete, rightclickthefileand
+selectExtractAlltounzipthefile.
+3.Whenthefilehasbeendownloaded andunzipped, double
+clickittobegintheinstallation process.
+4.Verifythatthecomputer hastheauxiliary powerconnected
+topreventlossofpowerduringdownload.
+5.FollowtheInstallation Wizardtocomplete installation of
+theupdate.
+6.VerifytheGRX-3110software hasbeenupdated by
+selecting:
+a.PRINT/VIEW >VERSION INFO
+7.Theversiondisplayed shouldbe192-210335N.
+Supplemental Procedure Video
+WARNING
+Alwaysreviewtheappropriate serviceprocedure priorto
+performing it.Thisvideoisintended tosupplement, not
+replace, documented service procedures. Attempting
+service procedures without thepropertraining, tools,
+equipment, andmanuals couldresultindeathorinjuryto
+youorothers.Thiscouldalsodamage themotorcycle or
+causethemotorcycle tooperate improperly .(10406a)
+Thereisnovideoavailable atthistime.
+M1391A 3/3

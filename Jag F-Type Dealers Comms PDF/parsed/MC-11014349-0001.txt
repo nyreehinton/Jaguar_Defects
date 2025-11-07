@@ -1,0 +1,273 @@
+THIS ITS DOCUMENT SHOULD BE RETAINED AND REFERRED TO FOR FUTURE MAINTENANCE UNTIL 
+THE NEW FLYER PARTS AND/OR SERVICE MANUAL IS UPDATED TO REFLECT WORK DONE AS A 
+RESULT OF THIS DOCUMENT. ENSURE THAT THIS DOCUMENT IS AVAILABLE FOR PARTS AND 
+MAINTENANCE STAFF GOING FORWARD. 
+ 
+ 
+  
+This document and the contents discussed herein are the confidential and proprietary information of New Flyer Industries Canada 
+ULC and New Flyer of America Inc. and are disclosed by New Flyer in confidence. This document and the contents herein are not 
+to be disclosed by the intended recipient without the prior written authorization of New Flyer. Any unauthorized disclosure, 
+reproduction or other distribution of this document or information strictly prohibited and may result in action being taken against 
+the party making the unauthorized disclosure. This document and all copies hereof must be returned to New Flyer upon request.   
+INSTRUCTION TO SERVICE  
+ 
+ITS-61250  01/24/2025  
+SECTION: 260 - Battery System 
+SUBJECT: Retrofit duckbill drains to the ESS units & modify breathers. (6 String Bus) 
+ISSUE: Existing drains deploy under high humidity. 
+SUMMARY: Remove ESS drains, remove internal mechanism, re-install and add duckbill. 
+Remove the ESS breather, extract the internal mechanism, remove the three 
+desiccant bags and reinstall the breather. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ITS-61250 
+ 
+ 
+Ref. NHTSA Recall No. Ref. Transport Canada Recall No. 
+Not Applicable Not Applicable 
+  
+
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 2 of 9 01/24/2025  
+PROCEDURE: 
+1. Set the parking brake and chock wheels. 
+2. Turn the main battery disconnect and HV interlock switch to the “OFF” position. 
+  WARNING: The work detailed in this ITS involves working near exposed High Voltage (HV) 
+compartments, even after the bus has been locked out and tagged out. It is recommended that the service 
+personnel be trained in NFI HV safety practices, such as those included in Appendix A – NFIL Spec 
+532295 - High Voltage Safety Guidelines & Procedures for New Flyer Battery Bus.  
+3. Perform the Lock Out Tag Out and De-Energizing procedures found in the Electrical System Section of the 
+New Flyer Service Manual. Reference Figure 1 below. 
+  WARNING: ENSURE MSD DUMMY PLUGS AND ARC FLASH GLOVES ARE AVAILABLE PRIOR TO 
+STARTING ANY HV DISASSEMBLY 
+  NOTE: Use commercially available lock out equipment and tags being sure to follow any local laws or 
+workplace procedures. 
+ 
+  
+ 
+ 
+Figure 1: HV and LV Disconnect Switch Location and Arc Flash Glove Reference  
+ WARNING: ARC FLASH GLOVES MUST BE USED ANYTIME THE ESS HAS AN 
+UNCOVERED HOLE 
+4. Access the roof of the bus and locate the ESS enclosures. 
+  WARNING:  Working on the ESS drains and breathers involves working on the roof of the bus. 
+Always wear approved fall protection equipment and follow all applicable safety 
+protocols when working on the roof of the bus. 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 3 of 9 01/24/2025  
+5. Each ESS enclosure will have four drains, there will be a drain near each corner on the long sides of the ESS 
+enclosure. 
+                     NOTE: 
+On ESS enclosures supplied by ABS, the drains will be found within openings in the 
+corner mounting brackets. Figure 3B. 
+  
+ 
+Figure 2: ESS Drain and Breather Locations 
+ 
+                                        
+      Figure 3A: ESS Drain     Figure 3B: ESS Drains on ABS ESS 
+ 
+6. Remove the rubber insulation sleeve if present on the ESS drain. 
+7. Using an appropriate wrench or socket, remove the drain cartridge from the ESS enclosure. 
+8. On the bench, push out the internal piston in the drain cartridge and cut the tether. Discard the piston 
+components. 
+9. Install a new -12 ORB o-ring NF P/N 1017312 from the service kit NF P/N 6501524 on the cartridge body 
+prior to reinstallation. 
+ESS Enclosure Drains  
+ESS Breather  ESS Enclosure  
+Corner Mounting Bracket Opening Insulation Sleeve  
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 4 of 9 01/24/2025  
+ 
+Figure 4: Removal of Drain Cartridge Piston Components 
+ 
+10. Reinstall the cartridge in the ESS enclosure and torque to 40 Ft-Lbs  maximum. Take care not to over torque 
+the cartridge as damage to the ESS enclosure could occur. 
+11. Once the cartridge has been installed, slide the rubber drain body adaptor NF P/N 1079298 from the kit over 
+the hex fitting on the cartridge. You should feel the rubber lip on the drain body adapter snap into place on 
+each side of the hex fitting when the drain body adaptor is properly seated. 
+ 
+Figure 5: Installing Rubber Drain Body Adaptor over Cartridge Hex Fitting 
+ 
+12. Dip the rubber duckbill NF P/N 1086435 in some soapy water for lubrication. 
+13. Install the wave seal clamp NF P/N 553163 over the duck bill prior to installing the duckbill. 
+14. Install the duckbill over the rubber drain body adaptor previously installed on the cartridge hex fitting. Push 
+and twist the duckbill to achieve a 6 o’clock orientation on the duckbill. You will feel the duckbill snap into 
+place over the ridge on the rubber drain body adaptor when it is correctly seated. 
+15. Torque the screw on the wave seal clamp. Tighten the clamps at 75 RPM or less to 80 In-Lbs then wait 30 
+min and retighten to 80 In-Lbs. 
+Tether 
+Piston Parts  -12 ORB O -Ring 
+Rubber Drain Body Adaptor 
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 5 of 9 01/24/2025  
+ 
+Figure 6: Rubber Adapter, Duckbill & Wave Seal Clamp 
+ 
+16. Repeat Steps #6 to #15 on the other three drains on the ESS enclosure. 
+ 
+Figure 7: Duckbill Installation (Prior to Torquing Wave Seal Clamp) 
+ 
+17. Locate the ESS breather on the ESS enclosure. Figure 2. 
+18. Remove the large hexagonal gore plug on the ESS breather and set it aside. 
+ 
+ 
+Figure 8:  Hexagonal Plug on Breather 
+ 
+Hexagonal Gore Plug 
+Tether Wave Seal Clamp 
+Duckbill Rubber Adaptor Wave Seal Clamp 
+Duckbill 
+ESS Enclosure 
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 6 of 9 01/24/2025  
+19. Twist the ESS breather cover counterclockwise to release the cam locks and remove the breather cover. 
+20. Disconnect the tether cable. Bend the bracket so that the cable end will clear the bracket screw and allow the 
+cable end to slip through the hole in the bracket releasing the tether. 
+ 
+Figure 9: Tether Bracket Detail 
+ 
+ 
+Figure 10: Breather Cover Removed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Desiccant Basket 
+(Bags Shown Removed) 
+Tether Bracket Bend the Bracket so Tether will clear 
+mounting screw and fit through hole Screw 
+Bracket 
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 7 of 9 01/24/2025  
+21. Hold the body of the breather with a vice-grip pliers with rounded jaws taking care not to crush the body and 
+using an impact driver with an extractor tool in NF P/N 6501646 remove the aluminum collar that retains the 
+spring and piston. 
+ 
+ 
+ 
+Figure 11: Using an Extractor Tool to Remove the Aluminum Collar in the Breather  
+ 
+22. Once the  aluminum collar is removed the spring will pop out. Use a needle-nose pliers to remove the piston 
+from the breather or use a small screwdriver to push the piston out from the other side. Discard the piston and 
+aluminum collar.  
+23. Prior to reinstalling the breather, remove the three white desiccant bags in the basket inside the breather 
+opening in the ESS enclosure. Discard the three desiccant bags. 
+ 
+Figure 12: Desiccant Bags to be Removed 
+Extractor Tool  Spring 
+Vice Grip Pliers (Note rounded jaw shape 
+Extractor Tool  Aluminum Collar  
+Piston 
+Impact Driver 
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 8 of 9 01/24/2025  
+24. Reinstall the breather cover by aligning the tangs on the cover with the slots on the breather body then twist 
+the collar clockwise to lock the collar in place. Reinstall the large hexagonal gore plug hand tight. 
+25. Re-attach the breather cover tether and tap the bracket with a hammer to secure the tether end. 
+26. Clean the area on the ESS enclosure above the gore plug to ensure the surface is free of dirt and debris, 
+using a 50/50 mix of isopropal alcohol and water, allow a minimum of 10 min of flash off time. Install a “No 
+Desiccant Required” label NF P/N 1114663 on the ESS enclosure directly above the gore plug. 
+27. This completes the ESS drain and breather retrofit on one ESS enclosure. Repeat Steps #6 to #26 to retrofit 
+the drains and breather on each of the ESS enclosures on the roof of the bus. 
+28. Open the access door on the rear of the bus. 
+29. Locate the gore plugs on the two ESS enclosures at the lower rear compartment. 
+ 
+Figure 13: Location of Rear Compartment ESS Gore Plugs. 
+ 
+30. Perform steps #18 - #26 to rework the gore plugs on the two ESS enclosures in the rear compartment. 
+31. Remove all tools and debris from work area to return coach to service. 
+32. Close and secure the rear compartment access door. 
+33. Remove the tags and lockouts from the HV lockout and main battery switches. Turn HV lockout switch and 
+the main battery disconnect switch to the “ON” position. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61250 
+ 
+ 
+ITS-61250 Page 9 of 9 01/24/2025  
+ 
+ 
+LABOUR ESTIMATE 
+ Operation Number of 
+Technician(s) Hours Labor Time 
+T X HR 
+1 Remove ESS drain internal parts and install duckbills, 
+four per ESS enclosure. Remove breather piston and 
+desiccant bags, one per ESS enclosure (6 ESSs). 1 1.67 1.67 
+ 
+PARTS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. 
+per 
+Coach  
+Units  
+Notes 
+1 6501524 KIT-DRAIN DUCKBILL, FRP ESS XMOD 16 EA 4 Kits required per ESS 
+enclosure 
+2 1114663 DECAL – “NO DESICCANT REQUIRED” 6 EA  
+ 
+SPECIAL TOOLS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. Units Notes 
+1 6501646 1.18 – 1.19 Extractor Tool 1 EA  
+ 
+ 
+ 

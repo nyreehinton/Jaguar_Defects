@@ -1,0 +1,50 @@
+1 
+ 
+ 
+ 
+Units:  TriPac 3  (Non ATD Units Only ) 
+Description:  Thermo King has updated the engine RPM to the  max limit  of 2540 RPM at no 
+engine load for Non ATD units only .  
+ 
+Note:  This update should be completed with CB776E,  
+As of 12/2/24 units from the factory are set at end stop . 
+ 
+Engine Speed Adjustment (Non ATD Units Only) : 
+1. Turn the unit off.  
+2. Open the APU front access door  and turn the engine switch to OFF . 
+3. The governor lever and low speed limiting bolt are located on the side of the engine and 
+accessible through the front access door.  
+ 
+4. Loosen the jam nut (A) on the low speed limiting bolt (B).  Date:  January 13, 2025  
+Subject:  TriPac 3 Engine RPM  Adjustment  for Non ATD Units Only  
+Location:  e-Tech Library    Service  Bulletin  
+  SB954-1 
+ 
+
+2 
+ 5. Thread the low speed limiting bolt (B) inwards until the governor lever (C) gently touches the 
+tamper -proof high speed limiting screw (D).  
+Important :  
+• DO NOT overtighten and preload the governor lever (C)  
+  into the high speed limiting screw (D).  
+ 
+• DO NOT tamper with the high speed limiting screw (D).  
+ 
+6. Tighten the low speed limiting bolt jam nut (A)  to 5 ft-lbs (7 Nm).  
+ 
+A. Jam N ut 
+B. Low Speed Limiting Bolt  
+C. Governor Lever  
+D. Tamper -proof High Speed Limiting Screw (DO NOT ADJUST HERE)  
+E. Thread Low Speed Bolt Inward Until the Governor Leve r Gently Contacts High Speed Limiting Screw  
+ 
+7. Turn engine switch ON and c lose the front access door.  
+8. Verify proper unit function when installation or service is complete:  
+• Start the unit.  
+• Verify engine RPM does NOT exceed 2540 +/ - 25 RPM. View the engine RPM using the 
+HMI display or the WinTrac® Service Tool.  
+• If RPMs exceed 2540 +/ - 25 RPM, loosen jam nut A, thread the low speed limiting bolt (B) 
+outwards until the RPM  is 2540 +/ - 25 RPM.  
+• Torque the low speed limiting bolt jam nut (A) to specification: 5 ft -lbs (7 Nm).  
+Important:  Verify engine RPM at no load does NOT exceed 2540 +/ - 25 RPM. View the 
+engine RPM using the HMI  display or the WinT rac® Service Tool.  

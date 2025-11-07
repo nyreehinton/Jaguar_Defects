@@ -1,0 +1,88 @@
+ 
+ 
+BULLETIN NOTES
+APPLICABLE MODEL(S)/VINS  
+2024-2025 CX-90 H3T (Inline 6)  
+2025 CX-70 H3T (Inline 6)   
+ 
+DESCRIPTION
+Some customers may experience an inacurrate fuel gauge:
+Rapid fuel level drop when fuel guage is below 1/4.•
+Distance to empty reading (DTE) is incorrect.•
+DTC P0462:00 (Fuel gauge sender unit system: Low input) may be stored.•
+Engine no start and fuel guage shows vehicle has fuel, but engine starts after adding fuel.•
+This may be caused by a faulty Fuel Gauge Sender Unit (Sub).  
+ 
+Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Perform FUEL DRAINING PROCEDURE [H3T] . 
+3. When the fuel stops draining, remove the fuel 
+pump relay jumper and wait 5 minutes.  
+4. Reinstall the fuel pump relay jumper and allow 
+the fuel to drain again.  
+5. When the fuel stops draining, remove the fuel 
+pump relay jumper and wait 5 minutes.  
+6. Reinstall the fuel pump relay jumper and allow 
+the fuel to drain again.  
+7. When the fuel stops draining, remove the fuel 
+pump relay jumper and go to the next step.
+ 
+Page 1 of
+3
+03/02/2025 08:08 AM tlawrenc
+8. Check the Fuel Gauge Sender Unit (Sub) resistance using MDARS. Go to Toolbox --> Datalogger --> BCM --> FUEL_
+GAUGE_RES_SUB. 
+PID Data Results Action
+Example
+Good  
+ 
+197—203 Ω: This Service Information does 
+not apply. Go to normal MGSS 
+troubleshooting.
+Example
+No Good  
+ 
+Outside of 197—203 Ω: Go to the next step.
+ 
+9. Replace the fuel tank.
+CX-90 - FUEL TANK REMOVAL/INSTALLATION [H3T] •
+CX-70 - FUEL TANK REMOVAL/INSTALLATION [H3T] •
+10. Verify the repair.
+Page 2 of
+3
+03/02/2025 08:08 AM tlawrenc
+ 
+ 
+PARTS INFORMATION
+Part Number Description Qty. Notes
+****-42-110* Tank ,Fuel 1Refer to GEPC and order by VIN (Includes Fuel Gauge Sender Unit (Sub)).  
+Only replace if PID data test results are No Good
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+ Drain fuel, check Fuel Gauge Sender Unit (Sub) 
+PID resistance and Replace Fuel Tank  
+PID data test results are No GoodDrain fuel and check Fuel Gauge 
+Sender Unit (Sub) PID resistance  
+PID data test results are Good
+Warranty Type A A
+Symptom Code 65 65
+Damage Code 93 8W
+Part Number Main 
+Cause****-42-110* ****-42-110*
+Qty 1 0
+Operation Number / 
+Labor Hours:F0008XDX 0.4 hrs. (Check resistance w/ MDARS)  
+F0501XRX / 3.6 – 3.7 hrs. (Fuel Tank R&R)*  
+*Depends on trim - Refer to Warranty WizardF0333XRX / 0.7 hrs. (CX-70)  
+F0333BRX / 0.7 hrs. (CX-90) 
+ 
+Page 3 of
+3
+03/02/2025 08:08 AM tlawrenc

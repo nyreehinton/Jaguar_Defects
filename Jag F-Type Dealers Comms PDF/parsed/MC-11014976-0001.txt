@@ -1,0 +1,165 @@
+ 
+ 
+BULLETIN NOTES
+This Service Alert supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-002/25 01/16/25
+ 
+APPLICABLE MODEL(S)/VINS  
+2024-2025 CX-90 PHEV  
+2025 CX-70 PHEV   
+ 
+DESCRIPTION
+Some customers may experience the MyMazda App Remote Climate Control and the In-Vehicle Climate Control 
+Timer functions are inoperative after DASH_ESU software update to "H" level.
+MyMazda App Remote 
+Climate ControlRemote control request cannot be executed due to a system error, please try again later.
+Page 1 of
+12
+03/02/2025 08:09 AM tlawrenc
+In-Vehicle Climate Control 
+TimerClimate Control Timer Function Inoperative
+ 
+Customers having this concern should have their vehicle repaired using the following repair procedure.
+NOTE: This is a temporary repair and will only recover heat (warm air). Final repair information to fix both heat and cold 
+air will be available at a later date.
+ 
+ 
+REPAIR PROCEDURE
+Index
+Preparation•
+Repair Procedure•
+Repair Confirmation•
+Preparation
+1. Is the vehicle a PHEV or 3.3L HT3?
+PHEV - Go to next step.•
+3.3L HT3 - This Service Alert does not apply.•
+2. Check DASH_ESU software version using 
+MDARS.
+a. Select Toolbox  
+b. Select Vehicle icon  
+c. Select Software update  
+d. Select "Run"
+Page 2 of
+12
+03/02/2025 08:09 AM tlawrenc
+e. Select DASH_ESU
+f. Document DASH_ESU software 
+version
+KMV6-66S11-G•
+This Service Alert does not apply. 
+Go to SA-017/24  troubleshooting.
+KMV6-66S11-H•
+Go to next step.
+3. Is the Production Date after 11/15/2024?
+Yes - Vehicles with factory DASH_ESU "H" level software cannot configured back to "G" level using MDARS. 
+Contact the Technical Hotline for additional support.•
+No - Perform - Repair Procedure •
+ 
+ 
+Page 3 of
+12
+03/02/2025 08:09 AM tlawrenc
+Repair Procedure
+1. Using MDARS:
+a. Select Toolbox  
+b. Select Vehicle icon  
+c. Select Configuration
+2. Select Dash_ESU
+3. Ignition ON Ready, then Select Next
+Page 4 of
+12
+03/02/2025 08:09 AM tlawrenc
+4. Select "Continue"
+5. Confirm DASH-ESU Required Version is 
+KMV6-66S11-G, then select "Next"
+6. Check items, then select "Next"
+Page 5 of
+12
+03/02/2025 08:09 AM tlawrenc
+7. Wait for Update Process to Complete. May 
+take about 5 minutes.
+8. Wait for diagnostic information to be 
+collected.
+9. When Update Process is Complete, select 
+"Next".
+Page 6 of
+12
+03/02/2025 08:09 AM tlawrenc
+10. Follow the instructions on the screen.
+11. Select "Next".
+12. Confirm the software version is at "G" level 
+after the Configuration is complete, then select 
+"Finish".
+Page 7 of
+12
+03/02/2025 08:09 AM tlawrenc
+13. Check for DTCs and clear them, close the 
+driver/passenger front doors, and perform 
+liftgate configuration by manually opening the 
+liftgate and then pressing the close button.
+14. After the DTCs have been cleared, all boxes 
+will turn green.
+15. Collect Diagnostic Information.
+Page 8 of
+12
+03/02/2025 08:09 AM tlawrenc
+16. Verify the software version and Collect 
+Diagnostic Information (Manual) is successful.
+17. Go to Repair Confirmation
+NOTE : Some customers may experience a Check Engine Light On with DTC P0531 (Refrigerant pressure sensor No.1 
+Page 9 of
+12
+03/02/2025 08:09 AM tlawrenc
+system: Function malfunction) stored. Erase the DTC and inform the customer that Mazda is aware of this DTC and is 
+currently working on a resolution.
+ 
+Repair Confirmation
+1. Select "Settings"
+2. Select EV Settings
+3. Select Climate Control Timer
+4. Select a schedule
+Page 10 of
+12
+03/02/2025 08:09 AM tlawrenc
+5
+a. Set "Departure Time" 30 minutes after 
+current time.
+Example : Image shows current time is 
+4:20pm, so Departure time is set to 4:50pm
+b. Repeat set to Once
+c. Set Temperature to 83 f as shown  
+d. Select "Save"
+6. Check the schedule "Once" box.
+7. Exit and lock the vehicle.  
+Make sure not to leave the key in the vehicle.---
+8. 10 minutes before "Departure Time", feel the 
+outside of the windshield. 
+(A) windshield should feel cool  
+(B) windshield should feel warm
+ 
+NOTE : At customer pickup, the customer 
+can also confirm operation using the 
+MyMazda App Remote Climate Control 
+Heat operation.
+ 
+Page 11 of
+12
+03/02/2025 08:09 AM tlawrenc
+ 
+WARRANTY INFORMATION
+Use the following claim information below.  
+NOTE:  If the vehicle has more than 36K miles use DSA or submit the claim "Authorized By" Warranty Department and 
+refer to the Service alert in the text.
+Warranty Type A
+Symptom Code 60
+Damage Code 9W
+Part Number Main Cause KMV6-61-590
+Quantity 0
+Operation Number / Labor Hours: U0308XRX / 0.4 Hrs
+Text: Backdated software from “H” level to “G” level   
+ 
+ 
+Page 12 of
+12
+03/02/2025 08:09 AM tlawrenc

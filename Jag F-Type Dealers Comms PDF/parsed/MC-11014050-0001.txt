@@ -1,0 +1,32 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)  UKL
+ConditionSome customers ma y state, w hile using Supercruise, the vehicle
+may not sta y centered in the lane at times. This ma y be
+described as movement back and forth between the left and
+right side of the lane or "ping ponging" behavior
+Cause  Anomaly in the lateral control calibration 
+Version 1
+Modiﬁed 02/05/2025 Created On
+Bulletin No.: PIT6331
+Published date: 02/5/2025
+Preliminary Information
+PIT6331 Supercruise - Not Staying Centered In The Lane.
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado EV RST 2025 All AllAll All
+GMC Sierra Denali EV 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+Engineering is currently working on a software improvement and the PI will be updated or
+replaced with a TSB once a determination has been made
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

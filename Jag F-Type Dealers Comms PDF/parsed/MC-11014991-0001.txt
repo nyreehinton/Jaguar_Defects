@@ -1,0 +1,847 @@
+ 
+ 
+BULLETIN NOTES
+This service alert supersedes the previously issued service alert listed below. The changes are noted in Red text.
+Previous Service Alert: Date(s) Issued: Previous Service Alert: Date(s) Issued:
+SA-006/2409/10/24, 08/05/24,  02/12/2
+4 and 02/01/24SA-027/2112/21/21,  09/28/21, 06/24/2
+1 and  04/07/21
+SA-005/23 05/31/23 and 01/19/23 SA-027/2010/16/20,  09/22/20, 09/11/2
+0, 07/16/20, 06/23/20, 04/08
+/20, 03/19/2020 and 02/11/2
+0
+SA-004/2212/14/22, 10/04/22,  09/08/2
+2, 08/24/22,  06/09/22, 05/12
+/22, 04/04/22 and  02/01/22SA-042/19 12/12/19  and 09/25/19
+APPLICABLE MODEL(S)/VINS:
+2019-2025 Mazda3 2021-2023 CX-9 2024-2025 CX-90
+2020-2025 CX-30 2022-2023 MX-30 2024 MX-5
+2021-2025 CX-5 2023-2025 CX-50 2025 CX-70
+ 
+ 
+DESCRIPTION
+Customers having MAZDA CONNECT concerns should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+NOTE: Before proceeding:
+Document the vehicle's current MAZDA CONNECT CMU software version.•
+2019-2022 Models - Go to TSB 16-003/23  and confirm the CMU Serial Number is not within the affected range. •
+Document customer device Brand/Model/Model Number/software version on the repair order.•
+Confirm that the Connectivity Master Unit (CMU) is updated to the latest software version.
+Go to MGSS -> Infotainment -> MAZDA CONNECT Updates ○
+MAZDA CONNECT CMU software fix list is available at:
+16-008/23  - 2019-2021 Mazda3 and 2020-2021 CX-30 Non-Turbo vehicles built before July 1, 2021 ○
+16-007/23  - 2021 Mazda3 and CX-30 Turbo vehicles built before July 1, 2021 ○
+16-006/23  - 2021- current Mazda3 and CX-30 built after July 1, 2021 ○○•
+Page 1 of
+22
+03/02/2025 08:06 AM tlawrenc
+16-002/23  - 2021-current CX-5 and 2021-2023 CX-9 ○
+16/001/23  - 2023-current CX-50 ○
+16-005/23  - 2022 MX-30 ○
+16-004/23  - 2023 MX-30 ○
+16-009/23  - 2024-current CX-90 ○
+If possible, complete any one of the Microsoft Forms Questionnaires. Go to MGSS -> Infotainment ->  MAZDA 
+CONNECT Questionnaire .•
+Confirm that the customer's device is compatible. Go to connect.mazda.com  -> Support -> Compatibility . •
+Confirm that the customer's device is updated to the latest software version.•
+If CMU log data collection is necessary, collect the data and continue troubleshooting using this document. If no 
+failure is found, release the vehicle to the customer and inform them that the infotainment system data is being 
+analyzed. Hotline will contact you at a later date with the results.
+IMPORTANT NOTE:
+Date and Time of the concern is required for data analysis.
+Document Date and Time of the concern on the Repair Order and Siebel Hotline file.○○
+If Date and Time of the concern is unknown, please provide an approximate date (within a 5-day 
+period).○
+If Date and Time of the concern cannot be obtained, no need to collect CMU log data. ○
+Customer MAZDA CONNECT Questionnaire  is available to assist you in obtaining Date and Time of 
+the concern (provide link to the customer).○○•
+Apple Carplay/Android Auto FAQ, go to SA-026/22 . •
+If you suspect a counterfeit Navi SD card, ask the customer for proof of purchase.
+IMPORTANT NOTE:  If it cannot be determined to be counterfeit by visually looking at the label (the 
+counterfeit label is perfect) and Mazda Toolbox  is used, the VIN may be  locked-out  if a counterfeit 
+SD card is detected and NNG will need to be contacted to unlock the VIN when a genuine Mazda SD 
+card is purchased. See  No. 12 How to update the Navigation SD Card Map .○•
+Index:
+No. 1 Blank Screen  
+No. 2. Rear View Camera is not displayed  
+No. 3 Rebooting  
+No. 4 Infotainment System Has No Sound  
+No. 5 Commander Switch Does Not Work  
+No. 6 Bluetooth device will not pair  
+No. 7 Incorrect GPS position  
+No. 8 Voice Recognition Does Not Work  
+No. 9 Cannot Make a Hands-Free Call  
+No. 10 Cannot Play Bluetooth Audio  
+No 11 How to Check VIN  
+No. 12 How to check the Navigation SD Card Map Software Version  
+No. 13 How to update the Navigation SD Card Map   
+No. 14 How to Check Navi SD Card VIN Lock  
+No. 15 How to Report Navigation Map Error or Missing Location  
+No. 16 Over the Air (OTA) CMU Software Update
+Page 2 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 1 Blank Screen
+Step Inspection Result Action
+Yes Go to step 2.
+1Is the Rear View Camera displayed?NoRefer to  No. 2. Rear View Camera is 
+not displayed .
+Yes Normal Operation. Press and hold the Power Button. Is the screen 
+displayed correctly?
+Mazda3, CX-30, MX-30 CX-5, CX-9
+2
+No Go to step 3.
+Yes Normal Operation.3Press the "HOME" button. Is the HOME screen 
+displayed correctly? No Go to step 4.
+Yes Go to MGSS for DTC diagnosis.
+4Using M-MDS, are any infotainment system DTC's 
+stored? No2019-2020 vehicles - Go to step 7.  
+2021-2022 vehicles - Go to step 5.
+YesReplace the CMU per 16-004/22
+ instructions. Update the replacement 
+CMU to the latest software version (see 
+MGSS -> Infotainment/TCU ->  MAZDA 
+CONNECT Updates ).
+5Except CX-50 - Go to 16-004/22 . Is the CMU Serial 
+Number within the affected range?  
+ 
+CX-50 - Go to Step 8
+No2021-2022 CX-5 and CX-9 - Update 
+CMU software version to  7000C0A-
+NA03_11040  or later, then go to step 6.  
+2021-2022 Mazda3, CX-30 and MX-30 
+- Retrieve CMU log data  and contact 
+Hotline for additional support.
+Important Note
+Yes Repair complete.
+62021-2022 CX-5 and CX-9 - Did CMU software 
+version 7000C0A-NA03_11040  or later correct 
+customer concern?NoRetrieve CMU log data  and contact 
+Hotline for additional support.
+Important Note
+Yes Repair as necessary.
+72021-Current CX-5 - Inspect connector C-16 for 
+corrosion due to liquid spill. Is corrosion found at 
+C-16?  
+Other models - Go to next step.No Go to next step.
+Yes Go to step 9. 8Is there a device connected to the USB port?No Go to step 10.
+Yes USB device is not compatible. Disconnect the USB device. Does the display 9
+Page 3 of
+22
+03/02/2025 08:06 AM tlawrenc
+function properly after USB device is 
+disconnected?No Go to step 10.
+Yes Go to step 11.10Is the connector for the Center Display inserted 
+correctly? No Insert the connector correctly.
+Yes Go to step 12.11Are the connectors for the CMU inserted correctly?No Insert the connectors correctly.
+Yes Go to step 13.12Is the CMU voltage out (PWR CTRL OUT) at 0920-
+101A Terminal 1S, SB wire, of the CMU normal? No Go to step 14.
+Yes Check / Replace the Center Display.13Swap the Center Display with good known vehicle. 
+Is the screen display normal? No Go to step 14.
+YesCheck / Replace the CMU.
+Retrieve CMU log data  if 
+possible before replacing the 
+CMU.
+Important Note○•
+Document date and time of the 
+condition.•
+Document customer device 
+Brand/Model/Model Number/
+software version on the repair 
+order.•
+See Warranty Information Note.•14Swap the CMU with good known vehicle. Is the 
+screen display normal?
+NoRepair / Replace wiring harness. Go to 
+MGSS View Content -> Wiring Diagram 
+-> Body and Accessories -> 
+Entertainment System.
+Page 4 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 2 Rear View Camera is not displayed
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis.
+1Using M-MDS, are any 
+infotainment system DTC's 
+stored?No Go to step 2.
+Yes Go to step 3.2Is the vehicle equipped with 360 
+View Monitor? No Go to step 4.
+Yes Check / Replace the 360 View Monitor control unit.3Is the Front Camera and Side 
+Cameras displayed normally? No Go to step 4.
+Yes Go to step 5.4Are images other than the Rear 
+View Camera displayed? No Go to No. 1 Blank Screen .
+Yes Go to step 6.
+5Go to No 11 How to Check VIN  
+Does the VIN match to customer 
+vehicle VIN?No Swap CMU(s) to correct vehicle(s) or replace CMU.
+Yes Go to step 7.6Is the connector for the Rear View 
+Camera Inserted correctly? No Insert the connector correctly.
+Yes Go to step 8.7Is the connector for the Center 
+Display Inserted correctly. No Insert the connector correctly.
+Yes Go to step 9.8Are the connectors for the CMU 
+Inserted correctly. No Insert the connectors correctly.
+YesCheck / Replace the Rear View Camera  
+See TSB 09-021/19 . 9Swap the Rear View Camera with 
+good known vehicle. Is the screen 
+display normal? No Go to Step 10.
+YesCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+See Warranty Information Note.•10Swap the CMU with good known 
+vehicle. Is the screen display 
+normal?
+NoRepair / Replace wiring harness. Go to MGSS View 
+Content -> Wiring Diagram -> Body and Accessories -> 
+Entertainment System.
+Page 5 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 3 Rebooting
+Step Inspection Result Action
+YesUpdate CMU software version to 7000C0A-NA01_
+11006  or later.
+1Is the customers device a Doro 7050, 
+7060 phone that is connected by 
+bluetooth?
+No Go to next step.
+Yes Go to MGSS for DTC diagnosis.2Using M-MDS, are any infotainment 
+system DTC's stored? No Go to step 3.
+Yes2019-2020 vehicles - Go to step 6.  
+2021-2022 vehicles - Go to step 4.3Does the reboot continue after 
+removing the Navigation SD card?NoCheck / Replace the Navigation SD card.  
+Go to SA-014/21  if applicable.
+YesReplace the CMU per 16-004/22  instructions. 
+Update the replacement CMU to the latest software 
+version (see MGSS -> Infotainment/TCU ->  MAZDA 
+CONNECT Updates ).
+4Except CX-50 - Go to 16-004/22 . Is 
+the CMU Serial Number within the 
+affected range?  
+ 
+CX-50 - Go to Step 6 No2021-2022 CX-5 and CX-9 - Update CMU software 
+version to  7000C0A-NA03_11040  or later, then go 
+to step 5.  
+2021-2022 Mazda3, CX-30 and MX-30 - Retrieve 
+CMU log data  and contact Hotline for additional 
+support.
+Important Note
+Yes Repair Complete.
+52021-2022 CX-5 and CX-9 - Did CMU 
+software version  7000C0A-NA03_
+11040  or later correct customer 
+concern?NoRetrieve CMU log data and contact Hotline for 
+additional support.
+Important Note
+Yes Go to step 7. 6Is there a device connected to the 
+USB port? No Go to step 8.
+Yes USB device is not compatible.
+7Disconnect the USB device. Does the 
+reboot stop after USB device is 
+disconnected?No Go to step 8.
+Yes Go to step 9.
+Check / Replace the CMU.8Does the reboot continue after ignition 
+key OFF then back ON? No
+Page 6 of
+22
+03/02/2025 08:06 AM tlawrenc
+Retrieve CMU log data  if possible before 
+replacing the CMU.•
+Document date and time of the condition.•
+Document customer device Brand/Model/
+Model Number/software version on the repair 
+order.•
+YesCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.•
+Document date and time of the condition.•
+Document customer device Brand/Model/
+Model Number/software version on the repair 
+order.•9Does the reboot continue after vehicle 
+battery disconnect?
+No No repair needed.
+Page 7 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 4 Infotainment System Has No Sound
+Step Inspection Result Action
+YesDTC U3000:49 stored, Mazda3, CX-30 built 
+after 7/1/2021 - Update CMU to CMU_
+7000C0A-NA06_12012  or later.•
+DTC U3000:49 stored, MX-30 - Update CMU 
+to CMU_7000C0A-NA02_11036  or later.•
+Except DTC U3000:49 - Go to MGSS for DTC 
+diagnosis.•
+1Using M-MDS, are any infotainment 
+system DTC's stored?
+No2021-2022 CX-5 and CX-9 - Update CMU 
+software version to  7000C0A-NA03_11040  or 
+later, then go to step 2.•
+2021-2022 Mazda3 and CX-30 built after July 
+1, 2021 - Update CMU software version to  
+7000C0A-NA06_12012  or later, then go to 
+step 2.•
+2022 MX-30 - Update CMU software version to  
+7000C0A-NA02_11036  or later, then go to 
+step 2.•
+Except vehicles listed above - Go to step 3.•
+Yes Repair Complete.
+22021-2022 CX-5 and CX-9•
+2021-2022 Mazda3 and CX-
+30•
+2022 MX-30•
+Did CMU software  correct customer 
+concern?No Go to step 3.
+Yes Go to step 4.3Is sound normal other than 
+navigation guidance? No Go to step 5.
+Yes Normal Operation.4Can you hear the voice after raising 
+the navigation volume? No Go to step 6.
+Yes Normal Operation.5Can you hear sound after turning on 
+audio mode? No Go to step 7.
+Yes Repair complete.
+Check / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○• 6Replace the Navigation SD Card. 
+Can you hear voice after Navigation 
+SD Card replacement?No
+Page 8 of
+22
+03/02/2025 08:06 AM tlawrenc
+Document date and time of the condition.•
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•
+Yes Normal Operation.7Can you hear sound after raising the 
+volume of audio? No Go to step 8.
+Yes<< Source: USB/iPod >>  
+Check the media and the compatible files.  
+<< Source: Radio >>  
+Check the antenna, the reception, and the Remote 
+Tuner side.  
+<< Source: Bluetooth Audio >>  
+Check the Bluetooth connection and the Bluetooth 
+device.8<< Source: USB/iPod >>  
+Are there any problems with the 
+media and the music files?  
+<< Source: Radio >>  
+Are there any problems with the 
+antenna and the reception?  
+<< Source: Bluetooth Audio >>  
+Are there any problems with 
+Bluetooth? No Go to step 9.
+PassCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+Document customer device Brand/Model/
+Model Number/software version on the repair 
+order.•
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•9Go to MGSS "DIAGNOSTIC ASSIST 
+FUNCTION [CONNECTIVITY 
+MASTER UNIT (US)]" and  
+perform Functional Inspection/
+Adjustment -> Active Speaker Check 
+Function -> Speaker Inspection.  
+Did the Speaker Inspection Pass?
+Fail Go to step 10.
+Yes Go to step 11.10Is the connector for the Speaker(s) 
+that failed inserted correctly? No Insert the connector correctly.
+Yes Go to step 12.11Is the connector for the amplifier 
+inserted correctly? No Insert the connector correctly.
+Yes Go to step 13.12Are the CMU connectors inserted 
+correctly? No Insert the connectors correctly.
+Yes Check / Replace the speakers.13Swap speakers from good known 
+vehicle. Can you hear sound? No Go to step 14.
+Yes Check / Replace the Amplifier.14Swap the Amplifier from known good 
+vehicle. Can you hear sound? No Go to step 15.
+Check / Replace the Remote Tuner  
+Review the following for possible cause of Remote 
+Tuner failure.15Swap the Remote Tuner from known 
+good vehicle. Can you hear sound?Yes
+Page 9 of
+22
+03/02/2025 08:06 AM tlawrenc
+CX-30 - Review SA-035/21  and 09-020/21 . •
+Mazda3 - Review 09-020/21 . •
+CX-5 and CX-9 - Inspect Remote Tuner for 
+external water corrosion. Contact the Mazda 
+National Technical Hotline before attempting 
+any repairs.•
+No Go to step 16.
+YesCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+Document customer device Brand/Model/
+Model Number/software version on the repair 
+order.•
+See Warranty Information Note.•16Swap the CMU from known good 
+vehicle. Can you hear sound?
+NoRepair/Replace wiring harness. Go to MGSS View 
+Content -> Wiring Diagram -> Body and Accessories -
+> Entertainment System.
+No. 5 Commander Switch Does Not Work
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis.1Using M-MDS, are any infotainment 
+system DTC's stored? No Go to step 2.
+Yes Go to step 3.2Does the Commander Switch work 
+correctly? No Go to step 4.
+Yes Normal Operation.3Does the Steering Wheel Switch work 
+correctly? No Go to step 5.
+Yes Go to SA-025/19 .4Is fuse F13 missing?No Go to step 8.
+Pass Go to step 6.
+5Go to MGSS "DIAGNOSTIC ASSIST 
+FUNCTION [CONNECTIVITY MASTER 
+UNIT (US)]"  
+Perform Functional Inspection/
+Adjustment -> Steering SW Inspection - 
+> Did the Steering SW Inspection Pass?Fail Go to MGSS STEERING SWITCH INSPECTION.
+Yes Go to step 7.6Is the connector for the CMU inserted 
+correctly? No Insert the connector correctly.
+Swap the CMU from known good vehicle. Check / Replace the CMU. 7 Yes
+Page 10 of
+22
+03/02/2025 08:06 AM tlawrenc
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+See Warranty Information Note.•Does the Steering Wheel Switch work 
+correctly?
+NoRepair/Replace wiring harness. Go to MGSS 
+View Content -> Wiring Diagram -> Body and 
+Accessories -> Entertainment System.
+PassCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•8Go to MGSS "DIAGNOSTIC ASSIST 
+FUNCTION [CONNECTIVITY MASTER 
+UNIT (US)]"  
+Perform Functional Inspection/
+Adjustment -> Touch Pad/Commander 
+Inspection -> Commander switch 
+inspection.  
+Did the Commander switch 
+inspection Pass?Fail Go to step 9.
+Yes Go to step 10.9Is the connector for the Commander 
+Switch inserted correctly? No Insert the connector correctly.
+Yes Go to step 11.10Are the CMU connectors inserted 
+correctly? No Insert the connectors correctly.
+Yes Check / Replace the Commander Switch.
+11Swap the Commander Switch with good 
+known vehicle. Does the Commander 
+Switch work correctly?No Go to step 12.
+YesCheck / Replace the CMU.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+See Warranty Information Note.•12Swap the CMU from known good vehicle.  
+Does the Commander Switch work 
+correctly?
+NoRepair/Replace wiring harness. Go to MGSS 
+View Content -> Wiring Diagram -> Body and 
+Accessories -> Entertainment System.
+ 
+Page 11 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 6 Bluetooth device will not pair
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis.1Using M-MDS, are any 
+infotainment system DTC's stored? No Go to step 2.
+Yes Go to step 3.2Is Bluetooth enabled on the 
+customers device? No Enable Bluetooth on the customers device.
+Yes Go to step 4.3Is the customers device paired to 
+the vehicle? No Pair the customers device to the vehicle.
+Yes Go to step 5.4Is the customers device selected in 
+MAZDA CONNECT settings? No Select the customers device from Bluetooth settings.
+Yes Normal Operation.
+5Delete the device from MAZDA 
+CONNECT and then re-pair it.  
+Does Bluetooth work correctly?No Go to step 6.
+Yes Go to step 7.
+6Go to connect.mazda.com  -> 
+Support -> Compatibility .  
+Is the customers device 
+compatible?No The customers device is not compatible.
+Yes Go to step 8.
+7Does the same symptom occur on 
+another same model/year vehicle? NoCheck / Replace the CMU. 
+Document customer device Brand/Model/Model 
+Number/software version/occurrence of the 
+condition on the repair order.•
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•
+Yes Vehicle operation is normal.
+Check / Replace the CMU.
+Document device model, software version and 
+occurrence of the condition.•
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+Document customer device Brand/Model/Model 
+Number/software version on the repair order.•8Reboot the customers device. 
+Does Bluetooth work correctly? No
+Page 12 of
+22
+03/02/2025 08:06 AM tlawrenc
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•
+ 
+No. 7 Incorrect GPS position
+Step Inspection Result Action
+Yes Normal Operation.
+1Go to MAZDA CONNECT -> Navi menu, Travel 
+Information -> Where Am I? -> Settings -> GPS 
+information -> Check Available Satellites.  
+or 
+Go to MGSS "DIAGNOSTIC ASSIST FUNCTION 
+[CONNECTIVITY MASTER UNIT (US)]" and  
+perform Functional Inspection/Adjustment -> Navi 
+System Inspection -> Check GPS Received Level.  
+ 
+Does the Navi system show correct vehicle position?No Go to step 2.
+Yes Go to step 4.
+2Using M-MDS, are any of the following DTC's 
+stored?  
+ - B119F:13, GPS antenna signal circuit malfunction 
+(short to power or open circuit)  
+ - B119F:2B, GPS antenna signal circuit malfunction 
+(short to ground)No Go to step 3.
+Yes Go to step 9.
+3Is the wheel and tire size correct according to the tire 
+label? NoSwap wheels/tires with correct size. If 
+issue is fixed, inform the customer.
+Yes Go to step 5.4Is the GPS antenna connector secured properly?No Insert the connector correctly.
+YesRepair / Replace GPS wiring 
+harness. 5Is the GPS wiring harness open or shorted?
+No Go to TSB  09-021/20 .
+Yes Repair Complete.6Did TSB 09-021/20 resolve the concern?No Go to step 7.
+Yes Go to step 8.7Are the CMU connectors secured properly?No Insert the connectors correctly.
+YesRepair / Replace CMU wiring 
+harness. 8Is the CMU wiring harness open or shorted?
+No Go to step 9.
+Yes Repair completed.
+Check / Replace the CMU.9Replace GPS antenna. Does the Navigation system 
+show correct position? No
+Page 13 of
+22
+03/02/2025 08:06 AM tlawrenc
+Document date and time of the 
+condition.•
+Retrieve CMU log data  if 
+possible before replacing the 
+CMU.
+Important Note○•
+Retrieve CMU backup data  if 
+possible before replacing the 
+CMU.•
+Yes Go to step 11.10Using M-MDS, is DTC B119F:49 stored?  
+(Communication error with GNSS) No Go to step 13.
+Yes Go to step 12.11Are the CMU connectors secured properly?No Insert the connectors correctly.
+YesRepair / Replace CMU wiring 
+harness.
+12Is the CMU wiring harness open or shorted?
+NoCheck / Replace the CMU.
+Document date and time of the 
+condition.•
+Retrieve CMU log data  if 
+possible before replacing the 
+CMU.
+Important Note○•
+Retrieve CMU backup data  if 
+possible before replacing the 
+CMU.•
+If necessary, contact Hotline 
+for additional support.•
+See Warranty Information 
+Note.•
+Yes Repair completed.
+13Check / Replace the CMU.
+Document date and time of the condition.•
+Retrieve CMU log data  if possible before 
+replacing the CMU.•
+Retrieve CMU backup data  if possible before 
+replacing the CMU.•
+Did DTC B119F:49 clear?No Repair / Replace GPS antenna.
+NOTE:  Remove aftermarket GPS devices that may interfere with vehicle GPS antenna.  
+Example: Some radar detectors may emit radio waves that interfere with the vehicle GPS antenna.
+Page 14 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 8 Voice Recognition Does Not Work
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis.1Using M-MDS, are any infotainment system DTC's 
+stored? No Go to step 2.
+Pass Go to step 3.
+2Go to MGSS "DIAGNOSTIC ASSIST FUNCTION 
+[CONNECTIVITY MASTER UNIT (US)]" and  
+perform Functional Inspection/Adjustment -> 
+Steering SW Inspection -> Did the Steering SW 
+Inspection Pass?FailGo to MGSS STEERING SWITCH 
+INSPECTION.
+PassCheck / Replace the CMU.
+Retrieve CMU log data  if 
+possible before replacing the 
+CMU.
+Important Note○•
+Document date and time of the 
+condition.•
+If necessary, contact Hotline for 
+additional support.•
+See Warranty Information Note.•3Go to MGSS "DIAGNOSTIC ASSIST FUNCTION 
+[CONNECTIVITY MASTER UNIT (US)]" and  
+perform Functional Inspection/Adjustment -> 
+Microphone Inspection ->  
+Did the Microphone Inspection Pass?
+FailGo to MGSS MICROPHONE 
+INSPECTION.
+ 
+No. 9 Cannot Make a Hands-Free Call
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis.
+1Using M-MDS, are any 
+infotainment system DTC's 
+stored?No Go to step 2.
+Yes Go to step 3.2Is Bluetooth enabled on the 
+customers device? No Enable Bluetooth on the customers device.
+Yes Go to step 4.
+3Is the customers device data 
+service strength good? NoMove to a location where data service strength is good 
+and retest.
+Yes Go to step 5.4Is the customers device paired to 
+the vehicle? No Pair the customers device to the vehicle.
+Yes Go to step 6.5Is the customers device selected 
+in MAZDA CONNECT settings? No Select the customers device from Bluetooth settings.
+Yes Normal Operation.
+6Delete the device from MAZDA 
+CONNECT and then re-pair it.  
+Does Bluetooth work correctly?No Go to step 7.
+Yes Go to step 8. Go to connect.mazda.com  -> 7
+Page 15 of
+22
+03/02/2025 08:06 AM tlawrenc
+Support -> Compatibility .  
+Is the customers device 
+compatible?No The customers device is not compatible.
+Yes Go to step 9.
+8Does the same symptom occur 
+on another same model/year 
+vehicle?No Go to step 10.
+Yes Vehicle operation is normal.9Reboot the customers device. 
+Does Bluetooth work correctly? No Go to step 10.
+Yes Move the Bluetooth device away from hidden location.
+10Is the Bluetooth device in a place 
+where radio waves may be 
+blocked?  
+(Behind or under a sheet, in a 
+box, in a purse/bag, ext.)No Go to step 11.
+Yes Move the Bluetooth device away from metal objects.11Is the Bluetooth device contacting 
+or blocked by metal objects? No Go to step 12.
+Yes Disconnect other USB device.
+12Is a Bluetooth device and a USB 
+device connected at the same 
+time?No Go to step 13.
+YesMove to a different location.  
+This may be caused by electrical interference by radio 
+stations, specific small power radio stations, or amateur 
+radio stations for mobile identification used in industrial, 
+scientific and medical devices.13Does the problem occur in a 
+specific geological location only?
+No Go to step 14.
+Yes Go to step 15.14Does the same symptom occur 
+on another Bluetooth device? No The customers device is not compatible.
+YesCheck / Replace the CMU.
+Document customer device Brand/Model/Model 
+Number/software version/occurrence of the 
+condition on the repair order.•
+Retrieve CMU log data  if possible before replacing 
+the CMU.
+Important Note○•
+Document date and time of the condition.•
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•15Does the voice recognition 
+system operate using other 
+functions such as Bluetooth 
+Audio?
+No Go to No. 8 Voice Recognition Does Not Work .
+Page 16 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 10 Cannot Play Bluetooth Audio
+Step Inspection Result Action
+Yes Go to MGSS for DTC diagnosis1Using M-MDS, are any 
+infotainment system DTC's stored? No Go to step 2.
+Yes Go to step 3.2Is Bluetooth enabled on the 
+customers device? No Enable Bluetooth on the customers device.
+Yes Go to step 4.
+3Is the customers device data 
+service strength good? NoMove to a location where data service strength is good 
+and retest.
+Yes Go to step 5.
+4Is the customers device battery 
+strength good? NoConnect the customers device to a charger or recharge 
+the device, then retest.
+Yes Go to step 6.5Is the customers device paired to 
+the vehicle? No Pair the customers device to the vehicle.
+Yes Go to step 7.6Is the customers device selected in 
+MAZDA CONNECT settings? No Select the customers device from Bluetooth settings.
+Yes Normal Operation.
+7Delete the device from MAZDA 
+CONNECT and then re-pair it.  
+Does Bluetooth work correctly?No Go to step 8.
+Yes Go to step 9.
+8Go to connect.mazda.com  -> 
+Support -> Compatibility .  
+Is the customers device 
+compatible?No The customers device is not compatible.
+Yes Go to step 10.9Does the same symptom occur on 
+another same model/year vehicle? No Go to step 11.
+Yes Vehicle operation is normal.10Reboot the customers device. 
+Does Bluetooth work correctly? No Go to step 11.
+Yes Move the Bluetooth device away from hidden location.
+11Is the Bluetooth device in a place 
+where radio waves may be 
+blocked?  
+(Behind or under a sheet, in a box, 
+in a purse/bag, ext.)No Go to step 12.
+Yes Move the Bluetooth device away from metal objects.12Is the Bluetooth device contacting 
+or blocked by metal objects? No Go to step 13.
+Yes Disconnect other USB device.
+Check / Replace the CMU.
+Document customer device Brand/Model/Model 
+Number/software version/occurrence of the •13Is a Bluetooth device and a USB 
+device connected at the same 
+time?No
+Page 17 of
+22
+03/02/2025 08:06 AM tlawrenc
+condition on the repair order.
+Retrieve CMU log data  if possible before 
+replacing the CMU.
+Important Note○•
+Document date and time of the condition.•
+If necessary, contact Hotline for additional 
+support.•
+See Warranty Information Note.•
+ 
+No. 11 How to Check VIN
+1Use MGSS DIAGNOSTIC ASSIST 
+FUNCTION and select Diagnostic Test.
+2Select Vehicle Information verification.
+3Document the VIN.
+Yes Inspection Complete.
+4Does the VIN match the vehicle?NoSwap CMU(s) to correct vehicle(s) or 
+replace CMU.
+Page 18 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 12 How to check the Navigation SD Card Map Software Version
+2024 CX-90 Example shown below:
+Navigation Map Software Version 21Q2 07082C  
+Website shows available map software version 23Q2  and release date 
+Dec, 2023.
+ 1. From main infotainment 
+screen, select "Navigation"  
+2. Select "Menu"  
+3. Select "Travel Information"  
+4. Select "About"  
+5. Navigation Map Software 
+Version is displayed
+Navigation Map Software Version Updated to 23Q2
+ 
+Page 19 of
+22
+03/02/2025 08:06 AM tlawrenc
+No. 13 How to update the Navigation SD Card Map
+Go to Mazdausa.com  
+Select Owners → How to Use → Add vehicle year/model → VEHICLE RESOURCES → NAVIGATION 
+SYSTEM → Map Update Guide
+Note:
+Gen 7 Infotainment uses 2 different Mazda Toolboxes. Go to MGSS --> Infotainment/TCU  --
+> Navigation Map Updates  to select the correct Mazda Toolbox.•
+No map update available for CX-70, 2024-Current MX-5. Navi SD Card replacement only.
+These vehicles are equipped with a Hybrid Navigation system.○•
+ 
+Customer is locked out of map update on Mazda Toolbox due to unauthorized or 
+counterfeit navigation SD card.   
+ License Error 
+message in Mazda 
+Toolbox
+Page 20 of
+22
+03/02/2025 08:06 AM tlawrenc
+How to unlock the customer account in Mazda Toolbox   
+1. Purchase a Genuine Mazda Navigation SD card.  
+2. Install new Genuine Mazda Navigation SD card.
+Free map update 
+period has expired
+Customer needs to go to "Buy content" to purchase map update.
+No. 14 How to Check Navi SD Card VIN Lock
+Go to:
+Except CX-70, CX-90, 2024-Current MX-5 - Mazda Toolbox  (Version 5) •
+CX-90  - Mazda Toolbox
+NOTE:  No map update available for CX-70, 2024-Current MX-5. Navi SD Card replacement 
+only.
+These vehicles are equipped with a Hybrid Navigation system.○○•
+Navi SD Card VIN 
+Unlocked  
+(VIN is blank)
+Page 21 of
+22
+03/02/2025 08:06 AM tlawrenc
+Navi SD Card VIN 
+Locked  
+(VIN is present)
+ 
+No. 15 How to Report Navigation Map Error or Missing Location
+Navigation system does not contain a road that I know it exists and I am certain I have the most recent 
+map update available.
+1. Advise the customer to go to mapcreator.here.com  
+2. Customer will need to create a mapcreator.here.com  Log In
+3. Customer can use the HERE website to report map error or missing location. Point, click and report 
+missing address.  
+Note : Inform the customer that the map correction may take up to 6 months to appear on the latest 
+map update.
+ 
+No. 16 Over the Air (OTA) CMU Software Update
+CX-50 only (other models will 
+follow)•
+Available after MGSS CMU 
+software 7000C0A-NA05_
+11014  update.•
+MAZDA CONNECT OTA 
+Update Instructions•
+Requires a clear view of the 
+sky•
+Soft Update Only    •
+Software fix details are not 
+provided (Details provided on 
+MGSS)•Push notification (Information icon “i”) - System checks every 7 days  
+ 
+ 
+ 
+WARRANTY INFORMATION
+NOTE : CMU replacement with older software version and/or without proper troubleshooting documentation may result in 
+a warranty claim debit.
+ 
+Page 22 of
+22
+03/02/2025 08:06 AM tlawrenc

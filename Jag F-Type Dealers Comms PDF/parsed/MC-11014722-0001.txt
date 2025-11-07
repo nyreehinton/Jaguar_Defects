@@ -1,0 +1,73 @@
+To: Mercedes -Benz Dealers, General 
+Managers, Sales Managers, Service Managers, 
+Parts Managers  From:  Anthony Washington, Senior Manager, 
+Regulations and Certifications  
+Re: Service Campaign Notification  
+Model: eSprinter  
+Model Year: 2024  
+Install  NACS Adapt er Information  Label Date: February 2025  
+IMPORTANT SERVICE CAMPAIGN INFORMATION  
+Please see the attached documents related to the campaign listed above.  
+Please refer all customer inquiries to the Customer Care  Center at 1 -800-FOR-MERCEDES.  
+
+Campaign No.:  Campaign Desc.:  NHTSA ID:  Install  NACS Adaptor Info Label 2025 020008  V3EAUFLAD  N/A 
+This is to notify you of a Service Campaign to install a North American Charging Standard (“NACS”)  adapt er information  label on 
+approximately  1,157 MY 2024 eSprinter  Vans.  All affected VINs will be flagged as " OPEN " in VMI . 
+Background
+Issue  Mercedes -Benz AG , the manufacturer of Mercedes -Benz eSprinter vans , has determined that a new 
+NACS adapter informational label is required for the use of an approved Mercedes -Benz DC Fast 
+Charging Adapter.   
+What We’re Doing  MBUSA is conducting a service campaign. An authorized Mercedes -Benz Sprinter dealer will affix the 
+information label in the area of the charging socket.  
+Parts  Part is available.  
+Vehicles Affected  
+Model Year(s)  2024  
+Vehicle Model  eSprinter
+Vehicle Populations  
+Total Vehicles  1,157 
+Dealer Inventory  618 
+Next Steps/Notes
+AOMS/SOMS  Please ensure your dealers have read and understand this notice  
+While we regret any inconvenience this may cause, MBUSA are determined to maintain a high level of vehicle quality and 
+customer satisfaction.  
+Model 907
+with code M1E (Electric vehicle)
+with code ZU8 (National version for USA)
+Operation no. of the operation texts or standard texts and flat rates
+Category Op. no. Operation text Time Damage Code Codeword
+L 12 1553 Operations: Install information label on vehicle 0.1 h 21 954 38 V3EAUFLAD
+D00.00-A139-79
+1 Information label 2 Socket recess
+aDanger Risk of death when working on
+component parts and systems with U >=
+30 V alternating voltage (AC) or U >= 60 V
+direct voltage (DC)Do not touch damaged or defective live
+component parts and lines or non-
+insulated electrical connections and lines.AS00.00-Z-0035-01A
+Notice General information on vehicles with high-
+voltage on-board electrical system and/or
+lithium-ion battery and/or gaseous-fuel
+drive system as well as personal protective
+equipmentAH00.00-Z-0300-01A
+1 V-SC-2025020008Canada 
+ONLY
+gCheck
+1 Check if vehicle is affected by measure.
+Retrofit
+2 Open socket flap
+3 Clean socket recess (2) in hatched area.
+4 Attach new information label (1).p 
+The bonding area at the socket recess (2) 
+must be absolutely free of dust and grease.
+Otherwise, there may be adhesion 
+problems.
+i Code ZU8 (National version for USA)
+See picture "B".
+i 
+Position information label (1) to be clearly 
+legible.
+5 Close socket flap.
+Parts ordering note
+Part no. Designation Quantity
+A 000 817 79 10 "NACS Adapter" information label (USA) 1
+2 V-SC-2025020008

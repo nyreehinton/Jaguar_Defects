@@ -1,0 +1,155 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-014
+Service BulletinDate: February, 2025
+TECHNICAL
+No Reverse, No Shift Past Third Gear - DTC P2732 Set
+Brand: Model: Model Year: Build Date: Engine: Transmission:
+from to from to
+Chevrolet Silverado 1500
+2024 2024     L84 MHT, MI2
+GMC Sierra 1500
+ 
+Involved Region or Country North America
+ConditionSome customers may comment on one or more of the following conditions:
+• No reverse
+• No shifting past third gear
+Some technicians may find P2732 (Transmission Control Solenoid Valve 6 Stuck Off)
+set in the Transmission Control Module (TCM).
+CauseThis condition may be caused by a mis-stamped spacer plate and worn check ball
+internal of the control valve.
+Correction Replace the spacer plate and check balls in the control valve.Subject:
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+1. Remove the control valve Control Valve Body Replacement .
+Page 2 February, 2025 Bulletin No.: 25-NA-014
+6804421
+2. Remove the bolts that secure the auxiliary body to the solenoid cover.
+3. Remove the bolt that secures the wiring harness to the control valve body.
+Bulletin No.: 25-NA-014 February, 2025 Page 3
+6804426
+4. Position the wiring harness aside.
+5. Remove the remainder of the bolts that secure the solenoid cover.
+Page 4 February, 2025 Bulletin No.: 25-NA-014
+6804446
+6. Separate the Auxiliary and Auxiliary plate.
+Bulletin No.: 25-NA-014 February, 2025 Page 5
+6804481
+Note: Lower the valve body keeping the worm trail face pointing up.  There are 5 check balls in the control valve
+body that are loose and can fall out.
+7. Separate the control valve body and thick plate from the solenoid body.
+Page 6 February, 2025 Bulletin No.: 25-NA-014
+6804487
+Note: Use care not to damage or bend the solenoids.
+8. Stand valve body on its side with the solenoids on the base.
+9. Using care, begin separating the valve body from the solenoid body.
+⇒Lower the valve body keeping the worm trail face pointing up.  There are 5 check balls in the valve body that
+are loose and can fall out.
+Bulletin No.: 25-NA-014 February, 2025 Page 7
+6804509
+10. Once body is partially split, twist thermocouple and pull to remove from the valve body assembly.
+Page 8 February, 2025 Bulletin No.: 25-NA-014
+6804511
+11. Split the assembly in half.
+12. Verify that the 5 check balls remain in the control valve body.
+Bulletin No.: 25-NA-014 February, 2025 Page 9
+6804467
+13. Ensure solenoid body is lying flat on table with spacer plate up.
+− There are check balls/check valves that can fall out once removed.
+14. Remove the 2 bolts holding the spacer plate to solenoid body.
+15. Once spacer plate is removed, discard Spacer Plate.
+Page 10 February, 2025 Bulletin No.: 25-NA-014
+6804538
+Note: The parts section indicates to order 5 check balls. Replacement of the undersized check ball is all that is
+required. The extras were suggested in the event some are misplaced or damaged in the disassembly process. .
+16. Utilizing a pick or equivalent, remove the undersized check ball from the seat and discard.
+− If needed, press the check ball out from the solenoid body cover side using caution when doing this to
+prevent parts from falling out of the solenoid body.
+17. Install the new check ball into the solenoid housing.
+Bulletin No.: 25-NA-014 February, 2025 Page 11
+6804538
+18. Ensure all check balls, spring check valves, and VFS damper are in place in solenoid body prior to putting on
+replacement spacer plate.
+Page 12 February, 2025 Bulletin No.: 25-NA-014
+6804467
+19. Place new spacer plate on solenoid body and run down spacer plate bolts.
+⇒Torque the fasteners to 9 Y (80 lb-in).
+Bulletin No.: 25-NA-014 February, 2025 Page 13
+6804511
+20. Take solenoid body half and set on top of valve body half – make sure harness is out of the way.  There are 2
+locating dowels on the valve body used for alignment.
+21. Stand valve body on its side with the solenoids on the base.
+22. Place thermistor back into cover side and rotate until anti-rotation feature is aligned into cast slot.
+23. Place thick plate and thick plate spacer plate back on top of solenoid body cover side. 
+− There are 3 locating dowels to align.
+Page 14 February, 2025 Bulletin No.: 25-NA-014
+6814198
+24. Place aux body spacer plate and aux body back on top of thick plate.
+− There are 2 locating dowels to align.
+Bulletin No.: 25-NA-014 February, 2025 Page 15
+6837102
+Important: Torque the fasteners to 9 Y (80 lb-in).Torque the aluminum fastener (1) to 3 Y (27 lb-in) plus 30°
+(angle).
+25. Reinstall all bolts following the bolt sequence and torque diagrams.
+Reinstall aux pump O ring seal and cover.
+Install the control valve assembly. Refer to Control Valve Body Replacement .
+ 
+Parts Information
+Note: Follow the procedure in SI for additional parts that may be required for the repair.
+Causal
+PartDescription Part
+NumberQty
+XPLATE ASM-
+C/VLV BODY
+SPCR (W/ GSKT)24299519 1
+N/ASEAL-A/TRNS
+AUX FLUID
+PUMP OTLT
+PIPE24271818 1
+N/ABOLT/SCREW-
+C/VLV BODY24050764 1
+N/ASEAL-A/TRNS
+FLUID PUMP24290889 1
+N/ASEAL-A/TRNS
+FLUID PUMP24270191 1
+Page 16 February, 2025 Bulletin No.: 25-NA-014
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONCausal
+PartDescription Part
+NumberQty
+N/ASEAL-EXH
+MANIF PIPE (L)15035747 1
+N/ASEAL - EXH
+MANIF R15077362 1
+N/ASEAL-A/TRNS
+AUX FLUID
+PUMP24047734 1
+N/AVALVE-C/VLV
+BODY BALL CHK96020431 5
+N/AFluid A/Trans
+(ULV) USA19352619
+(U.S.)
+19352620
+(Canada)As Required
+ 
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+8486498* Spacer Plate and Check Ball Replacement for L84 3.5
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 1
+Modified Released February 12, 2025
+ 

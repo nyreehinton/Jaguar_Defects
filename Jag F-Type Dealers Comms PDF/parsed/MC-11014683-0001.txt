@@ -1,0 +1,742 @@
+ 
+Page 1 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+Authored Date  27/01/2025  
+Doc No.  IATSB003368 v5 
+Title  Software Update for Fuel Plausibility – US/Mexico /Canada  MY24.1 only   
+Affected Vehicle(s)  Grenadier  RF005988  - RF017814  
+This Technical Service Bulletin (TSB) should only apply to vehicles that demonstrate the described issue 
+below.  
+ 
+**This is for MY24.1vehicles only. The TSB only applies to vehicles in the stated 
+VIN range.**  
+ 
+Reason for this document  
+Issue:  An issue has been identified on a small percentage of the affected vehicle s where the Engine 
+Management Light turns on after the vehicle has been re -fuelled . The DTC shown for this is P193208  
+Cause:  The a ctual fuel level is not available within the specified time  frame from DME for leakage detection. 
+This results in a fuel level un -plausibility after refuelling and puts a n Engine  Management Light  on TTC.  
+Action:  Follow the procedure below.  
+ 
+Workshop Procedure  
+ 
+Software Update – US/Mexico/Canada  Vehicles only.  
+Operation : SRO  Repair Time : 
+Update  XTSBSWUUSA2  0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- The procedure contains illustrations showing certain components removed to provide 
+extra clarity.   
+- This procedure contains some variati on in the illustrations depending on the vehicle 
+specification, but the essential information is always correct.  
+ 
+Page 2 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+Procedure – Updating Head Unit.  
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Flash the Head unit with the latest ‘update’ via USB.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cautions:  
+- Store all Head Unit flash data into a folder called " update " directly in the root of the 
+USB stick: (minus Caps sensitive) " Update " WILL NOT WORK  
+- Use a known good USB A stick of the following specification  – USB in FAT32 format 
+(generic USB format), Minimum of 1 GB Storage capacity, no more than 128G, Free 
+from other documents or data on USB stick.  
+ 
+Note:  
+- Ensure a dynamic battery charger, capable of outputting 40 Amps is installed to the 
+vehicle B+ and earth, do NOT use a trickle charger, the amperage input is not dynamic, 
+errors can occur.  
+- Do NOT adjust or delete any files in the ‘update’ folder.  
+- The latest software version is SW -0000000 773 (HU)  
+- If you have an issue while flashing HU, please use a "Branded USB stick".  
+ 
+Page 3 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the head unit is flashed. Write down the service interval information.  
+o Distance (Miles/Kilometres).  
+o Date.  
+o Engine running time.  
+ 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+• Place the vehicle on charge.  
+• Ensuring the battery charger can output up to 40 amps to support the vehicle power supply during 
+the process.  
+
+ 
+Page 4 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert the USB stick into USB -A connection in the center console storage area with Head Unit (HU) ’update’ 
+software data from software pack  SW-0000000 773 (HU). A notification will display stating ‘USB connected’  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 5 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- On the central display select ‘SETTINGS – GENERAL’ . 
+- On the touchscreen, press and hold the area to the right of the ‘GENERAL' title for approximately 8 
+seconds.  A screen will appear for PIN input.  
+ 
+ 
+6. 
+ 
+ 
+ 
+ 
+On the PIN screen, input the PIN number: 46367308  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+The last 2 digits will not change the display ‘dots’ as there are only 6.  
+ 
+Page 6 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) Select ‘System Update’.  
+2) Select ‘Start’.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 7 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+ 
+8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select  ‘ONE KEY UPDATE’  
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- The software update takes approximately 40 minutes to complete.  
+- Place the vehicle on charge ensuring the vehicle battery charger can output up to 40 
+Amps.  
+- The technician is NOT required to be with the vehicle during this time.  
+- The software update no longer requires each application to be selected individually.  
+- Do not switch off the ignition or stop the process unless there is a notification is 
+displayed in the central display.  
+- The ONE KEY UPDATE will flash all applications of the Head unit (i.e., IVI UPDATE / 
+MCU UPDATE / IPC UPDATE / IVI SCREEN UPDATE)  
+
+ 
+Page 8 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+9. 
+ 
+ 
+ 
+ 
+ 
+Connect the vehicle to Grade -X using the VCI connected to the OBD port in the driver’s footwell.  
+1) Select  ‘VIN READ’.  
+2) Select ‘NEXT’.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- See VCI connection documentation for VCI self -help.  
+- Ensure the connection is NOT  in simulation.  
+
+ 
+Page 9 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+10. 
+ 
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+- Open the vehicle summary page.  
+- Select ‘PART NUMBERS’.  
+- Select ‘HU- Head Unit’.  
+- Review the ‘ F188 - Manufacturers ECU software part numbe r’ check and ensure SW-0000000 773 
+(HU) is displayed as the part number.  
+ 
+11. 
+ 
+- Select the coding tab  
+- Select ‘HU – Head Unit’.  
+
+ 
+Page 10 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+12. 
+ 
+ 
+- Select ‘VOD’  and the ‘OK’.   
+- Code the VOD to the Head Unit with Grade -X  
+- Repeat this step for ‘CDS’  on the Head Unit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 11 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+13. 
+ 
+ 
+ 
+ 
+- Click ‘Hard Reset’  
+- Click ‘OK’ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+The head unit will reboot. This will take a few minutes. Allow the head unit to complete 
+the reboot process.  
+
+ 
+Page 12 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+14. 
+- Select ‘DTC Memory’ tab. 
+- Grade -X will start to read the ECU DTCs.  
+- Select ‘CLEAR ALL’.  
+- Grade – X will clear and read the vehicles DTCs.  
+ 
+ 
+15. 
+Complete a full and comprehensive check on the head unit functionality to ensure there is no operational 
+concerns. Ensuring the Head Unit (HU) is functioning as intended, and the software aligns, the Head Unit 
+(HU) Flash has been successful . 
+Select ‘VERSIONINFO ’ and check that all 3 dates are exactly the same.  
+To identify the dates, the information is written in the below format (Image shown for illustration purposes)  
+IpcVersion:Softversion: XXXXXX. YYMMDD .0hardversion:1.1A  
+McuVersion: XXXXXX.XXXXXX. YYMMDD .X 
+IviVersion: XXXXXX.XXXXXX. YYMMDD .X 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 13 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If an update fails, without functional faults, attempt the Head Unit (HU) flash of the application again. If the 
+software application fails after 3 attempts, a Technical Support ticket should be raised. Provide the relevant 
+information from the process step(s) to the INEOS technical support team to provide efficient support.  
+In the unlikely situation that a Head Unit (HU) software flash has not been deployed fully or flashed 
+correctly, a Technical Support ticket must be raised. Provide the relevant information from the process 
+step(s) to the INEOS technical support team to sup port.  
+ 
+ 
+16. 
+ 
+Proceed to – Procedure – Updating Control Units.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 14 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+Procedure – Updating Control Units.  
+1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect the vehicle to Grade -X using the VCI connected to the OBD port in the driver’s footwell.  
+1) Select  ‘VIN READ’.  
+2) Select ‘NEXT’.  
+Cautions  
+- An internet connection is required through the process. Coding will fail if the internet 
+connection is not available.  
+ 
+- Before starting the  vehicle software update make sure the following conditions are 
+met – 
+ 
+- Dynamic battery charger ON, fitted to the engine compartment B+ and earth.  
+- Lights set to OFF. 
+- Cabin fan OFF. 
+- Vehicle audio OFF. 
+- All external devices disconnected (i.e. USB sticks, B+ auxiliary connection etc.) . 
+- All doors, except the drivers, are closed . 
+- Vehicle on a flat even ground . 
+- The vehicle must NOT  be disturbed during the process . 
+ 
+Note:  
+- See VCI connection documentation for VCI self-help.  
+- Ensure the connection is NOT  in simulation.  
+
+ 
+Page 15 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+Within the ‘Vehicle Summary’ check all installed ECUs have an open communication displaying a green tick.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- If an installed ECU is not listed as communicating, carry out a battery rest for 10 
+minutes.  
+- Ignore FCM, and other ECUs not installed as these will display as red crosses.  
+
+ 
+Page 16 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+3. 
+ 
+• Select ‘Fault Memory’ Tab.  
+• Select ‘CLEAR + Refresh All’ once all DTCs have been read.   
+ 
+ 
+4.  
+- Select ‘Automated Flash Tool ’ tab.  
+- Select ‘Automated Flash Tool ’ action.  
+ 
+
+ 
+Page 17 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Grade -X Automated Flash will assess the ECU software part numbers of the ECUs, displaying the 
+ECUs requiring a software update.  
+- Select ‘ YES’ to update the ECUs software to the latest level . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- There should be a list of ECUs requiring update that include ECALL.  If the ECUs are 
+not displayed, the software of the ECU is up to date.  
+- Image above is an example only, each vehicle might show different ECUs requiring to 
+be updated.  
+ 
+Page 18 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Allow Grade -X to update all ECUs until the update is completed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+- There should be a list of ECUs requiring update that include ECALL.  If the ECUs are 
+not displayed, the software of the ECU is up to date.  
+- Image above is an example only, each vehicle might show different ECUs requiring to 
+be updated.  
+ 
+Page 19 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If the flash fails due to the following reason, carry out the check, and attempt the update again:  
+- Checksum error  
+- Pre-conditions failed – check preconditions in step 1.  
+ 
+If the flash fails more than twice, raise a technical support ticket  in the INEOS portal  providing the following  
+information:  
+- VIN number  
+- ECU the failure was against  
+- ECU responding / not responding  
+- The notification from Grade -X on the error  
+- Any DTCs stored after the flash  
+ 
+ 
+8. 
+Release the vehicle.  
+ 
+ 
+ 
+ 
+Change History  
+
+ 
+Page 20 
+ 
+Technical Service Bulletin  
+INEOS Automotive Limited, 15 -19 Britten St, London SW3 3TY, UK  
+© Copyright INEOS Automotive Limited, 2022  
+ IATSB003368 v5 
+Reference No.  Date  Description  
+IATSB003368  02/09/2024  First Release  
+IATSB003368v2  03/10/2024  Second Release  
+IATSB003368v3  11/12/2024  Third Release  
+IATSB003368v4  31/12/2024  Forth Release  
+IATSB003368v5  27/01/2025  Fifth Release  
+  

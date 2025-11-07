@@ -1,0 +1,80 @@
+2025-02-20
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+F02 7 Series Sedan Vehicles produced up to July 201 1.
+F04 7 Series Sedan Active Hybrid
+F10 5 Series Sedan
+SITUA TION
+Vehicle has the air bag warning lamp on after a body shop has made repairs. 
+ 
+There is a fault code stored in the air bag control module ACSM3:
+930A5B airbag sensor , door , front left: open circuit 
+30A65 airbag sensor , door , front right: open circuit   
+ 
+CAUSE
+Air bag sensor and/or door from later model vehicle was installed. 
+ 
+Replacement of driver or passenger front doors on vehicles up to 7/201 1 requires use of original air bag
+sensor with the new design door . If the new style from 7/201 1 sensor is used it will set an air bag fault for
+open circuit since it is pinned dif ferently in the electrical connector . 
+ 
+The only door design available from parts is designed for vehicles produced from 7/201 1 but fits the earlier
+vehicles.
+ 
+CORRECTION
+Install correct door pressure sensor for vehicles produced up to July 201 1.
+ 
+If a new design door is used with the original sensor seal the gap between round sensor and square hole in
+door.
+ 
+PROCEDURE
+If body shop or technician repair the air bag door sensor , make sure to follow the repair instruction: 
+REP 65 77 740 Removing and installing left front door sensor
+REP 65 77 745 Removing and installing right front door sensor
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:04 AM 65 04 25_AIR BAG SENSOR FAULT AFTER DOOR REPLACMENT
+about:blank 1/4
+ 
+ 
+ 
+The sensor on the left is for vehicles UP TO
+7/201 1
+The sensor on the right is for vehicles FROM
+7/201 1
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:04 AM 65 04 25_AIR BAG SENSOR FAULT AFTER DOOR REPLACMENT
+about:blank 2/4
+The new design door for vehicles from 7/201 1
+has a square hole for the pressure sensor .
+When using this door on vehicle produced up to
+7/201 1 you must use the original pressure
+sensor .
+ 
+Use dynamat or other adhesive mat to seal air
+gap between round grommet on sensor and
+square hole in door .
+ 
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in either ETK
+or AIR which considers specific equipment and/or options.
+ 
+CLAIM INFORMA TION
+Information Only .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+ 
+Technical Feedback To submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts Feedback To submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Supporting Materials
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:04 AM 65 04 25_AIR BAG SENSOR FAULT AFTER DOOR REPLACMENT
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:04 AM 65 04 25_AIR BAG SENSOR FAULT AFTER DOOR REPLACMENT
+about:blank 4/4

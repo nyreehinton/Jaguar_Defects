@@ -1,0 +1,81 @@
+TECHNICAL INSTRUCTIONS 
+PAGE 1 OF 2
+CUSTOMER SATISFACTION PROGRAM 24B39
+CPR  ©  2024 FORD MOTOR COMPANY
+DEARBORN, MICHIGAN 48121
+08/2024
+CERTAIN 2020-2024 MODEL YEAR TRANSIT ALL-WHEEL-DRIVE (AWD) 
+VEHICLES — ALL WHEEL DRIVE MODULE (AWDM) SOFTWARE UPDATE 
+SERVICE PROCEDURE
+IMPORTANT! The Service Technician Specialty Training (STST) Competency 10 certification   
+              requirement, for U.S. market only, will be enforced starting with repair orders
+             opened on or after April 1, 2024. Field Service Action (FSA) repairs will reject if
+             the repairing technician is not certified in STST Competency 10 FSA. See
+             Electronic Field Communication (EFC) 14251 for more details.
+Module Programming
+NOTE: Program appropriate vehicle modules before performing diagnostics and clear all Diagnostic   
+            Trouble Codes (DTCs) after programming. For DTCs generated after programming, follow normal 
+  diagnostic service procedures. 
+1. Connect a battery charger to the 12 Volt (V) battery.
+ • Use of a heavy-duty charger is recommended to maintain proper battery voltage during this   
+   procedure.
+NOTE: Verify the negative cable of the charger is installed on a chassis or engine ground and not 
+  the 12V battery negative terminal to prevent the battery saver mode from activating on the 
+  vehicle.
+NOTE: If the diagnostic software does not load or if the vehicle cannot be identified properly , make sure  
+  there is a good internet connection and the Vehicle Communication Module (VCM) is properly 
+  connected to the Data Link Connector (DLC). 
+2. Log into Ford Diagnostic and Repair System (FDRS).
+NOTE: Vehicle information is automatically retrieved by the diagnostic software and a Network Test is   
+  run. Vehicle identification data appears on the screen when this is complete. 
+3. Click Read VIN from Vehicle or manually enter the Vehicle Identification Number (VIN). 
+NOTE: Available modules are shown on the left hand (LH) side of the screen and available procedures   
+  are listed on the right hand (RH) side of the screen. Modules that are communicating are 
+  highlighted in green. 
+4. Select Toolbox  tab.
+5. From the list on the LH side of the screen, select the AWD Module .
+6. From the list on the RH side of the screen, select AWD - All Wheel Drive Module Software update.
+7. Click RUN. Follow all on-screen instructions carefully. 
+TECHNICAL INSTRUCTIONS 
+PAGE 2 OF 2
+CUSTOMER SATISFACTION PROGRAM 24B39
+CPR  ©  2024 FORD MOTOR COMPANY
+DEARBORN, MICHIGAN 48121
+08/2024
+8. From the list on the RH side of the screen, select Self-Test and click RUN.
+9. Click the Run Selected Tests button in the lower right.
+10. Click the Clear & Retest button at the top of the screen to clear DTCs in all modules.
+11. Disconnect the battery charger from the 12V battery once the programming has completed.
+Important Information for Module Programming
+              
+NOTE: When programming a module, use the following basic checks to ensure programming completes   
+  without errors.
+• Make sure the 12V battery is fully charged before carrying out the programming steps and connect    
+  FDRS/scan tool to a power source.
+NOTE: A good internet connection is necessary to identify the vehicle and to load the diagnostic software.  
+ 
+• Inspect the Vehicle Communication Module II (VCM II)/Vehicle Communication Module III (VCM III) or      
+   the Vehicle Communication and Measurement Module (VCMM) and the cables for any damage. Make            
+   sure scan tool connections are not interrupted during   programming.
+• A hardwired connection is strongly recommended.
+• Turn off all unnecessary accessories (radio, heated/cooled seats, headlamps, interior lamps, HVAC       
+  system, etc.) and close doors.
+• Turn the accessories back on after programming has completed.
+• Disconnect/depower any aftermarket accessories (remote start, alarm, power inverter , CB radio,etc.).
+• Follow all scan tool on-screen instructions carefully.
+• Disable FDRS/scan tool sleep mode, screensaver, hibernation modes.     
+• Create all sessions key on engine off (KOEO). Starting the vehicle before creating a session will cause   
+   errors within the programming inhale process.
+Recovering a module when programming has resulted in a blank module
+a. Disconnect the VCM II/VCM III or the VCMM from the data link connector (DLC) and your computer .
+b. After ten seconds, reconnect the VCMII/VCMIII or the VCMM to the DLC and the PC. Launch FDRS.   
+    The VCMII/VCMIII or the VCMM icon should turn green in the bottom right corner of the screen. If it 
+    does not, troubleshoot the FDRS to VCM connection.  
+c. If you are using the same FDRS as the initial programming attempt, select the appropriate VIN from   
+    the Vehicle Identification menu. If you are using a different FDRS, select “Read VIN from Vehicle”  
+    and proceed through the Network Test. 
+d. In the Toolbox menu, navigate to the failed module and Download/Run Programmable Module    
+    Installation (PMI). Follow the on-screen prompts. When asked if the original module is installed,         
+    select “No” and continue through the installation application.
+e. Once programming has completed, a screen may list additional steps required to complete the         
+    programming process. Make sure all applicable steps are followed in order .

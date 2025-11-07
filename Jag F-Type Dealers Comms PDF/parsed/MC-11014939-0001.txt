@@ -1,0 +1,46 @@
+   
+  VOLKSWAGEN DEALER COMMUNICATION    
+      
+Ensure all dealer personnel are aware of this notice so they are able to address customer questions. Contact Warranty if you require additional 
+assistance. Direct press inquiries to Volkswagen Public Relations.  
+ 
+Volkswagen Customer Protection                                                                                                                                   24LW _DLR_LAUNCH  
+  
+Repair Available – Emissions Service Action 24LW  / Engine Control Module (ECM) Software 
+This notice is for:  All Dealer Personnel  
+Date:  February 12, 2025  
+About this Service 
+Action : Volkswagen is providing a software update to the Engine Control Module (ECM) that will 
+improve diagnostic accuracy of the vehicle emissions monitoring systems. This software 
+update has no direct impact on vehicle tailpipe emissions.  
+Repair:  • REPAIR AVAILABLE – February 13, 2025   
+• See ELSA and Service References  in Elsa2Go for complete repair & 
+claiming instructions   
+• Check both the daily Campaign Open Inventory report and OMD for affected 
+vehicles in inventory . Verify OPEN status in ELSA on the day of repair . 
+• Repair  every affected inventory vehicle before delivery to consumers .      
+Parts Department : Software update only; no parts needed.  
+Affected Vehicles Country  Beginning 
+Model Year  Ending 
+Model Year  Vehicle  Vehicle 
+Count  
+USA 2025  2025  TAOS  46 
+CAN  2025  2025  TAOS  1 
+*Counts reflect overall population ; some vehicles may have already been repaired . Check Campaigns/Actions 
+screen in Elsa on the day of repair  to verify that a VIN qualifies for repair under this action.  Elsa is the only valid 
+campaign inquiry & verification source.  
+Notes:  
+  • Schedule owner repairs immediately  
+• Owner mailing – February 2025 
+• Loaner/rental coverage – see campaign circular
+  
+Requirements for Emissions Campaigns Having Customer Notification (CALIFORNIA ONLY )  
+The California Air Resources Board and the Department of Motor Vehicles (DMV) require emissions -
+related campaigns to be completed prior to vehicle registration renewal.  When campaign work is done 
+you must provide the owner with a signed “Vehicle Emission Recall – Proof of Correction” 
+certificate (RC EMISCAVWAU).  Certificates can be ordered at no cost online via the Compliance Label 
+Ordering portal.  
+    
+ 
+ 
+-END OF MESSAGE - 

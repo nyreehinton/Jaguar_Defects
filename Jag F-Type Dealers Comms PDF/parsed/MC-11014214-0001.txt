@@ -1,0 +1,282 @@
+1 
+  
+TECHNICAL INSTRUCTIONS  
+ 
+FOR  
+ 
+SPECIAL SERVICE CAMPAIGN 24TC08 TI ver. 1  
+ 
+FUEL TANK FILLER CLAMP AND VAPOR LEAK DETECTION  
+ 
+CERTAIN 2023 -2024  MODEL YEAR Corolla HV 
+CERTAIN 2023 MODEL YEAR PRIUS  
+ 
+ 
+The repair quality of covered vehicles is extremely important to Toyota.   All dealership technicians 
+performing this recall are required to successfully complete the most current version of the E -
+Learning course “Safety Recall and Service Campaign Essentials”. To ensure that all vehicles have 
+the repair performed correctly; tec hnicians performing this recall repair are required to have 
+completed the following courses : 
+ • 852 Engine Controls 1  
+  It is the dealership’s responsibility to select technicians with the above certification level or greater to perform this recall repair.   Carefully review    your resources, the technician skill level, and ability 
+before assigning technicians to this repair.   It is important to consider technician days off and 
+vacation schedules to ensure there are properly trained technicians available to perform this repair at all times.  
+ 
+ 
+ 
+2 
+  
+I. OPERATION FLOW CHART  
+The flow chart is for reference only. DO NOT use it in place of the full technical  instructions. Follow 
+ALL steps as outlined in the full technical instructions to confirm the campaign is completed correctly.  
+ 
+ 
+ 
+ 
+ 
+  
+
+3 
+  
+II. IDEN TIFICATION OF AFFECTED VEHICLES  
+ 
+1. CHECK VEHICLE FOR CAMPAIGN ELIGIBILITY  
+a) Compare the vehicles VIN to the VIN listed on the Repair Order to ensure they match.  
+b) Check the TIS Vehicle Inquiry System to confirm the VIN is involved in this Campaign, and 
+that it has not already been completed.  
+HINT : 
+TMNA warranty will not reimburse dealers for repairs completed on vehicles that are not affected 
+or were previously completed, even by another dealer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ III. PREPARATION  
+ 
+A. PARTS  
+Part Number  Part Description  Quantity  
+04004 -33147  FUEL TANK  CLAMP  SET 1 
+*The kit above includes the following parts.  
+Part Number  Part Description  Quantity  Remarks  
+- FUEL TANK  CLAMP  1 - 
+77169 -47040  FUEL SUCTION TUBE SET  GASKET NO.1  1 - 
+72693 -12080  REAR SEAT CUSHION LOCK HOOK  2 - 
+ 
+ 
+ 
+The necessary part numbers are indicated by each vehicle in VIN list. Please refer to the VIN list with  
+Part Number for order.  
+ 
+B. TOOLS & EQUIPMENT  
+• GTS＋(Global TechStream ＋) 
+• Standard Hand Tools  
+• Protective Glasses  • Tray 
+• boroscope  
+• Torque Wrench  • Gas Caddy  
+ 
+SST:  
+Part Number  Part Name  Quantity  
+09808 -1403 1 Fuel Pump Retainer Tool*  1 
+ 
+*The set above includes the following tools.  
+Part Number  Part Name  Quantity  
+09808 -01010  Handle  1 
+09808 -01020  Bolt 1 
+09808 -01030  Plate  1 
+09808 -01071  Claw No.3  1 
+ 
+C. MATERIALS   
+• Protective Gloves  
+• Protective Tape  • Cloth  
+• Marker Pen  • Hose (Inner diameter: Φ 6mm ） 
+ 
+5 
+ IV. WORK PROCEDURE  TABLE OF  CONTENTS  
+ 
+COMPONENTS  ························································································ SECTION VI 
+REMOVE FUEL PUMP ·············································································· SECTION VII  
+INSTALL FUEL TANK CLAMP ※REFER TO THE VIDEO  ······························· SECTION  VIII 
+RESTORE THE VHICLE ············································································· SECTION IX 
+APPENDIX  ································································································ SECTION X 
+ 
+ 
+V. BACKGROUND  
+ 
+In the subject vehicles, the vapor leak detection monitor system may not detect a vapor leak from the fuel filler cap 
+and illuminate the malfunction indicator lamp (MIL).  If fuel vapor leaks from the filler cap, it is possible that there could be a fuel s mell.   
+ 
+ 
+   
+
+6 
+  
+VI. COMPONENTS  
+ 
+ 
+ 
+ 
+ 
+  
+
+7 
+ VII. REMOVE FUEL PUMP 
+ 
+1. CHECK FOR DTCS  TO CONFIRM VEHICLE ORGINAL CONDITION 
+  NOTICE:  
+      When DTC is output, check and record the code and freeze frame to repair it if necessary . 
+ 
+2. DRAIN ALL FUEL FROM THE TANK.  
+ 
+NOTICE:  
+      The tank must be drained completely  so your hand is not submerged in fuel 
+when installing the clamp on the interior of the tank.  
+ 
+3. REMOVE FUEL PUMP 
+a) COROLLA 
+ 2ZR-FXE (FUEL): FUEL PUMP (w/ Canister Pump Module): REMOVAL; 2023 -  2025 MY 
+Corolla Corolla HV [11/2022 -         ] 
+b) PRIUS  
+M20A -FXS (FUEL): FUEL PUMP (for HEV Model): REMOVAL; 2023 -  2024 MY Prius [12/2022 
+-        ] 
+ 
+VIII. INSTALL FUEL TANK CLAMP  (Interi or of Tank)  
+ 
+ 1. ELIMINATE STATIC ELECTRICI TY 
+a) Since there is a risk of igniting gasoline due to 
+static electricity, touch the door lock striker with your bare hands before work to release the static electricity.  
+ 
+  HINT:  
+・Install FUEL TANK CL AMP on FUEL TANK FILLER 
+PIPE SUB- ASSY LWR to prevent the metal valve 
+from closing completely.  
+・FUEL TANK FILLER PIPE SUB- ASSY LWR is  
+mounted approximately 12 inches from the fuel tank opening to the driver ’s side.  
+ 
+
+8 
+  2. INSTALL  FUEL TANK CLAMP  
+REFER TO THE VIDEO  HERE  
+a) Put your arm in the tank and set the c lamp in 
+groove of FUEL TANK FILLER PIPE SUB- ASSY 
+LWR with your index and middle fingers.  
+Note: Cutaway image of tank  used for example.  
+ 
+ 
+ 
+ 
+b) Hold the metal valve  open with your thumb and 
+ring finger.  
+NOTICE:  
+Do not open the metal valve too much beyond 
+the position of the stopper, because it may deform.  
+ 
+ 
+ 
+ 
+ 
+c) Push the cl amp with your index finger and middle 
+finger and insert it.  
+HINT:  
+If you perform the work with your right hand, 
+access the inside of the fuel tank from the luggage compartment.  
+  
+
+9 
+ 3. INSPECT THE CLAMP INSTALLATION CONDITION.  
+ a) Perform the following inspections to check the clamp is installed in 
+the correct position.  
+ Item Confirmation Method  
+INSPECTION:1  Valve opening  with your fingers  
+INSPECTION:2  Clamp installation position  with boroscope , etc 
+ 
+ 
+ 
+ 
+Judgment  
+criteria  OK NG 
+<INSPECTION:1>  
+Valve opening  Can be opened
+  Cannot be opened
+ 
+Will cause fuel to splash back 
+during refueling.  
+<INSPECTION:2>  
+Clamp 
+installation 
+position  Fully inserted  
+※Rotation direction can be any position 
+within the red range.  
+ Half-inserted  
+ 
+ 
+Opposi te 
+ 
+Action  Double  check clamp installation 
+condition and restore the vehicle.   
+(Go to next page)  Remove the clamp and reinstall it in the 
+correct position.  
+4. DOUBLE -CHECK THE  CLAMP INSTALLATION CONDITION.  
+
+10 
+  
+a) Have a second technician confirm the clamp is properly installed . 
+ 
+ 
+IX. RESTORE THE VEHICLE  
+ 
+1. INSTALL  FUEL PUMP  
+a) COROLLA 
+2ZR-FXE (FUEL): FUEL PUMP (w/ Canister Pump Module): INSTALLATION; 2023 -  2025 MY 
+Corolla Corolla HV [09/2022 -         ]  
+b) PRIUS  
+M20A -FXS (FUEL): FUEL PUMP (for HEV Model): INSTALLATION; 2023 -  2024 MY Prius 
+[12/2022 -        ] 
+ 
+2. REFILL  REMOVED FUEL  INTO TANK   
+ 
+3. CHECK FOR DTCS  
+ 
+  
+
+11 
+ ◄ VERIFY REPAIR QUALITY ►  
+ 
+- Confirm clamp  is installed exactly as instructed . 
+- If you have any questions regarding this update, please contact your area representative.  
+ 
+ 
+ 
+X. APPENDIX    
+  
+Examples:   
+20TA01 = Launched in 2020 , Toyota, Safety Recall Remedy Phase, 1st Safety Recall Launched in 20 20 
+21TC02 = Launched in 202 1, Special Service Campaign, 2nd Special Service Campaign Launched in 2021  
+22TE05 = Launched in 202 2, Customer Support Program, 5th Customer Support Program Launched in 2022   
+ 
+  
+  

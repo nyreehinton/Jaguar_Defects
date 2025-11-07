@@ -1,0 +1,33 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250021 Released Date : 03-F eb-2025
+Fault Code P1201-FF W ater Pump 2 RPM Mismatch F ault
+Fault Code P1201-FF Water Pump 2 RPM Mismatch
+Fault
+Warranty Statement
+ContentsThe information in this document authoriz es specific changes t o the r epair pr actice for failur es
+covered under pr oduct warr anty co verages.
+Product Aff ected
+BES CM0196 EV114B
+Issue Summar y
+Sympt om:
+Service telltale (Amber W rench Light) light on cold star tup or cer tain cold weather conditions.
+Fault P1201-FF W ater pump 2 RPM mismatch fault will go activ e.
+Root Cause:
+In cer tain cold weather conditions, coolant pump #2 ma y be commanded b y the System
+Contr ol Module (SCM) t o run below the minimum allowable speed of the pump r esulting in
+fault code P1201-FF becoming activ e.
+Verification
+Verify ser vice telltale (Amber W rench Light) comes on during cold star t, and fault code P1201-FF
+is pr esent. It is expected that once v ehicle is at oper ating temper ature, this fault should go
+inactiv e.
+Resolution
+If no other activ e fault codes ar e present, inform driv er to keep driving v ehicle until new softwar e
+update is a vailable. If other activ e fault codes ar e present, diagnose and r epair using QSOL.
+Cust omer Communication
+Document Hist ory
+Last Modified:  03- Feb-2025If a ser vice telltale (Amber W rench Light) is on during cold star t up, or under cer tain cold weather
+conditions, it might be possible t o ha ve this condition. It is ok t o driv e the v ehicle until ther e’s a
+softwar e fix a vailable. If the st op engine light, or other dash telltales ar e illuminated, r efer to the
+oper ator’s manuals.
+Date Details
+2025-2-3Module Cr eated

@@ -1,0 +1,66 @@
+Bulletin Number: 09-130-25R;  Revised: 02/18/25         Page 1 of 3
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 09-130-25R
+ DATE:  02/11/25
+ REVISED:  02/18/25APPLICABILITY: 2019-24MY Ascent 
+  2020-24MY Outback & Legacy 2.4L
+ SUBJECT: Exhaust Manifold Flange Nut / Torque &   
+  Design Change
+INTRODUCTION: 
+This bulletin announces the design change made to the exhaust manifold flange nuts. The material has 
+been changed from a medium carbon steel to stainless steel. This change also necessitates a revised 
+tightening torque specification. When replacement of the flange nuts is required, follow the part and 
+service procedure information outlined in this bulletin. 
+PRODUCTION CHANGE INFORMATION:
+The NEW flange nuts have been incorporated into vehicle production as per the VIN table below. 
+Model Starting VIN
+ASCENT R3440123
+OUTBACK R3295292
+LEGACY R3028785
+DESCRIPTION OF DESIGN CHANGE:
+ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2024 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 09-130-25R;  Revised: 02/18/25         Page 2 of 3
+Continued...PART INFORMATION: 
+REMINDER:  Always order the most up-to-date replacement parts based on the specific VIN being         
+repaired.
+Part Name Part Number
+FLANGE NUT 902370029
+NOTE: The new and old flange nuts should not be interchanged and always replaced as a set. 
+SERVICE PROCEDURE / INFORMATION:
+The torque procedure has been changed from a one-time torque of 65 Nm (6.6 kgf-m, 47.9 ft-lbs) to 
+a two-step procedure with an initial torque of 55 Nm (5.6 kgf-m, 40.6 ft-lbs) then a final torque of 65 
+Nm (6.6 kgf-m, 47.9 ft-lbs).  A section of the Service Manual is pictured below. The added service 
+procedure (4.) has been outlined in RED and will be added to the applicable Service Manual in the 
+future. 
+WARRANTY / CLAIM INFORMATION:
+There have been no changes made to the Labor Time Guide for this repair. 
+Bulletin Number: 09-130-25R;  Revised: 02/18/25         Page 3 of 3
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

@@ -1,0 +1,55 @@
+Technical Service Bulletin (TSB)
+Rear Defroster Inoperative
+REFERENCE: TSB: 23-007-25
+GROUP:  23 - BodyDate: February 13, 2025 REVISION: 23-089-23
+VEHICLES
+AFFECTED:2018 - **2025** (JL) Jeep Wrangler
+This bulletin applies to vehicles equipped with Rear Window Defroster
+(Sales Code GFA).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience one or more of the following:
+●Rear window is not defrosting.
+●The rear window glass left or right side defrost solder terminal is detached from the defrost grid.
+CAUSE: The rear defroster electrical connector is a one time use design. If it comes loose or is removed for any
+reason, it must be replaced
+This bulletin supersedes Technical Service Bulletin (TSB) 23-089-23, date of issue August 08, 2023,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+additional model years and updated Spare Parts table.
+REPAIR SUMMARY:
+This bulletin involves replacing the Electric Backlite (EBL) wire connector repair and re-securing the electrical
+connector(s) to the rear window.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+08-90-35-92 Rear Window Electrical
+Connector - Repair
+(One Side)
+(1 – Semi-Skilled)23 - Body 0.2 Hrs.
+08-90-35-93 Rear Window Electrical
+Connector - Repair
+(Both Sides)
+(1 – Semi-Skilled)23 - Body 0.3 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68499001AA **Wiring, 1 Way-Pigtail** **Connector, Rear Defrost
+- EBL**
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes a symptom/condition above, perform the repair procedure.
+REPAIR PROCEDURE:
+1. Remove and replace the rear window defroster electrical connector(s). Refer to the detailed
+service procedures available in DealerCONNECT> Service Library under: Service Info>29 - Non-DTC
+Diagnostics / Circuit Testing Procedures / Standard Procedure>Wire Splicing.
+2. Push the connector onto the rear window glass terminal.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

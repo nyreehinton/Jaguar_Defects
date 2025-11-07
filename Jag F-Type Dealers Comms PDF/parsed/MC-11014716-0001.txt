@@ -1,0 +1,519 @@
+    Issue Date: Feb. 13, 202 5 
+ 
+    
+ 
+      
+ 
+NOTE   
+Added below sentence: P .12 
+“Perform the same operation as described in 3) to 12) and remove the cowling on the opposite  
+side. ” 
+Revise the sentence on P.13: Regarding inserting the rubber sheet between radiator and radiator  
+fan. 
+Added Below sentence: P.18 
+ “Perform the same operation as described in 3) to 12) and remove the cowling on the opposite  
+side. ” 
+ Deleted below word: P .20 
+3) Check that cardboard box is set 
+securely. Check the  
+ Revise 2- 5. Unpacking and 2 -11. Repacking procedure.  
+ 
+   Repair Instruction of Cooling Fan M otor 
+Bolt Reti ghtening 
+< GSX 1300R  > 
+©Suzuki Motor Corporation, 2025 . All rights reserved.  
+1 
+  
+ 
+ 
+ 
+Workflow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. Confirmation of Affected Vehicles  ································ ······ Page 2 
+1-1. V.I.N. Location  ·························································· Page 2 
+2. Countermeasure Operations  ································ ··················  Page 3 
+2-1.  Required Tools  ································ ·············································· Page 3 
+2-2. Replacement Parts  ································ ································ ······· Page 4 
+2-3. Countermeasure  ··········································································· Page 4 
+2-4. Preparation  ····················································································· Page 5 
+2-5. Unpacking  ································ ······················································ Page 5 
+2-6. Cowling removal  ································ ···········································  Page 8 
+2-7. Retightening of Cooling Fan Motor bolt  ····························· Page 12 
+2-8. Installation of  radiator assembly bolt  ································ ·· Page 14 
+2-9. Installation of Cowling  ································ ·····························  Page 15 
+2-10. Final inspection after the work  ································ ············· Page 19 
+2-11. Repacking  ··················································································· Page 19 
+2 
+ 
+1. Confirmation of Affected Vehicles  
+1-1. V.I.N. Location  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ V.I.N.  
+Location  
+GSX -1300 R V.I.N.  
+Location on vehicle  
+3 
+ 2. Countermeasure Operations  
+2-1. Required Tools  
+Tool Name  Size, Special Tool Number  
+Electric impact wrench  - 
+Box wrench  10mm、12mm  
+Box wrench（Long type 55mm ） 10mm  
+Torque wrench  1.8N･m - 10N･m 
+Joint  (Extension bar)  L=75mm 、L＝150mm  
+Hexagon socket wrench  4mm、5mm  
+Phillips screwdriver  No.2 
+T-type wrench  - 
+Flat type Spatulas  (Remover)  (To remove fastener)  
+Waste cloth   
+Tape  For protection  
+ 
+Special Tools (Shipped from SMC)  
+No Part Name  
+1 Limit wrench  (Spanner type)  
+2 Limit wrench  (Ring spanner type)  
+3 Rubber sheet  
+The Qty of shipped parts is depends on the number of affected units.  
+Please refer to shipping information.  
+  No.1                  No.2  
+ 
+ 
+ 
+ 
+ 
+ 
+No.3 
+ 
+ 
+ 
+ 
+ 
+
+4 
+ 2-2. Replacement parts  
+No replacement parts for this repair  
+ 
+2-3. Countermeasure  
+Retightening Cooling  Fan Motor Bolt . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precautions  
+• When two people work together, confirm what to do next verbally each other for safety.  
+• Disassembled parts should be carefully stored so that they are not damaged until they are 
+assembled,  and organized so that they are not missing.  
+• Absolutely no fire allowed during the work.  
+• When handling flammable materials such as solvents and gasoline, be sure to ventilate and be careful of fire.  
+ 
+ 
+  
+Refer to the service manual and set -up manual for the details not mentioned in the  instructions.  
+ 
+
+5 
+ 2-4. Preparation 
+  
+(A): Packed vehicle  
+(B): Working space  
+ 
+SELF PROTECTION  
+  
+ 
+2-5. Unpackaging 
+1)  Remove a band.  
+   (A): Band  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE:  
+Reuse the band.  
+6 
+ 2) Remove the cardboard.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Remove the bolts (A) of the bracket and bracket  
+4) Remove the bolts of the top frame of packing frame and remove the top frame.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5) Remove the bolts of the packing frame and remove the front struts and side struts.  
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+NOTE:  
+Reuse the c ardboard . 
+NOTE:  
+Protect the vehicle to prevent from 
+damages during unpacking work  
+7 
+  
+ 
+ 
+6) Remove Protective material  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protective material  
+ NOTE:  
+Put protective covers on  edge of crate to prevent injury during 
+repair work  if necessary.  
+8 
+ 2-6. Cowling removal  
+ 
+ 
+  
+1) Put waste cloth on brake pedal to protect injury.  
+ 
+  
+ 
+ 
+ 
+2) Put tape on cowling to protect injury  as shown below picture. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Remove the fasteners and bolt from the meter panel (1)  
+ 
+      
+4) Remove the meter panel (1) in the direction as shown in the figure with unhooking the hooks.  
+       
+ 
+Waste cloth  
+NOTE:  
+To carry out work simultaneously with two persons (one person for 
+each of left and right sides).  
+9 
+ 5) Remove the fastener, screws and bolt from the side cowling assembly (1).  
+ 
+                                    
+NOT ICE: 
+To prevent damage to the frame when 
+removing the side cowling assembly(1), 
+remove the nut (2) from the side cowling assembly.  
+10 
+ 6) Remove the under cowling bolt (1)  
+ 
+         
+7） Remove the fasteners (1).  (Right side only)  
+                 
+8) Remove the fastener shown in below pictures.  
+        
+
+11 
+ 9) Unhook the hooks inserting the remover in the hatched area.  
+ 
+         
+10) Unhook the hook, protrusion and fasteners (1) 
+as shown in the figure.  
+           
+11)  Tilt the side cowling assembly (1).  
+             
+
+12 
+ 12) Pull the side cowling assembly (1) backward to unhook the hooks and remove it.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+Perform the same operation as described in 3 ) to 1 2) and remove the cowl ing on the opposite side.  
+ 
+2-7. Retightening of Cooling Fan Motor bolt  
+1) Remove the radiator assembly bolts (1), oil cooler bolts (2) and t ilt the radiator body forward of the 
+vehicle to open a space on the cooling fan side.  
+ 
+        
+ [A] Left side                   [B] Right side  
+ 
+  
+NOTE:  
+The core of the radiator is easily deformed and damaged, so be careful 
+when working.  
+13 
+  
+    
+ 
+ 
+ 
+ 
+ 
+2) Insert the rubber sheet  between the radiator fan 
+and the radiator  to prevent scratches on the 
+radiator fin as shown in the picture.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Retightening of Cooling Fan Motor bolt . 
+ 
+Tightening torque (a) 
+5.0 N·m (0. 51 kgf-m, 3.70 lbf-ft)  
+ 
+           
+  
+Since there are two types of limit wrench, spanner type and Ring spanner type, choose the appropriate 
+one for re tightening work.  
+To tighten the motor nut on the left side, insert the limit wrench in the direction of the black arrow.  
+To tighten the motor nut on the right side, insert the limit wrench in the direction of the blue arrow.  
+Rubber sheet  NOTE:  
+Put waste cloth as shown below picture to 
+protect from damage by contacting with the 
+parts, when tilt the radiator body.  
+14 
+ 2-8. Installation of  radiator assembly bolt 
+1) Remove the rubber sheet . 
+ 
+       
+2) Remove waste cloth put.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Install the radiator body  and then tighten the radiator assembly bolts (1) and oil cooler bolts (2) to the 
+specified torque.  
+ 
+Tightening torque  
+Radiator assembly bolt (a): 10 N·m (1.0 kgf -m, 7.5 lbf- ft) 
+Oil cooler bolt (b): 5.5 N·m (0.56 kgf -m, 4.05 lbf -ft) 
+        
+[A] Left side                        [B] Right side  
+    
+Rubber sheet  
+15 
+ 2-9. Installation of Cowling  
+1) Install the body cowling and under inner cowling 
+in the reverse order of removal. Hook the hooks 
+of the under  center cowling and attach the 
+fasteners .  
+ 
+                 
+2) Install the side cowling assembly in the 
+reverse order of removal.   
+             
+NOTE:  
+When installing the under inner cowling, pass 
+the projection of the radiator (1) through the 
+hole of the under inner cowling (2).  
+16 
+ 3) Pass the reservoir tank over flow hose to hole of 
+side cowling assembly (2).  
+ 
+      
+4) After installing the side cowling assembly (1) 
+on vehicle, attach the nut (2) to side cowling 
+assembly.  
+          
+5) Attach the fasteners  (1) of under center cowling.  
+  
+ 
+             
+
+17 
+ 6) Tighten the under cowling bolt (1) and screw (2) to 
+the specified torque.  
+ 
+Tightening torque  
+Under cowling bolt (a):  
+10 N·m (1.0 kgf -m, 7.5 lbf- ft) 
+ 
+ 
+ 
+7) Tighten the side cowling assembly bolt (1) and 
+screws (2) to the specified torque. And attach the 
+fastener.  
+ 
+Tightening torque  
+Side cowling assembly bolt (a):  
+10 N·m (1.0 kgf -m, 7.5 lbf- ft) 
+Side cowling assembly screw (b):  
+1.8 N·m (0.18 kgf -m, 1.35 lbf- ft) 
+ 
+                   
+
+18 
+ 8) Install the meter panel (1).  
+ 
+                    
+9) Install the fasteners and bolt  (a) to the meter panel (1).  
+ 
+Tightening torque  
+bolt (a): 4.0  N·m (0. 41 kgf-m, 2.95 lbf-ft) 
+      
+Perform the same operation as described in 1 ) to 9 ) and install the cowl ing on the opposite side.  
+ 10) Remove tapes.  
+ 
+  
+
+19 
+ 11) Remove waste cloth on brake pedal.  
+ 
+      
+2-10. Final inspection after the work  
+(1) Check that each part is securely set and tightened.  
+(2) Check each parts has no damage  
+(3) Check the radiator core has no deformation or damage.  
+ 
+2-11. Repacking  
+1) Repacking the vehicle with the inverse procedure of 2-5. 
+      
+ 
+2) Check that cardboard box is set 
+securely. Check the   
+     
+ 
+NOTE:  
+• Confirm that V.I.N. of the cardboard is  matched the vehicle’s one.  
+• Restore all protective material after the work is done.  
+• Confirm that the box containing  parts is stored in the crate.  
+NOTE:  
+Align the vehicle with the illustration 
+on the cardboard.  

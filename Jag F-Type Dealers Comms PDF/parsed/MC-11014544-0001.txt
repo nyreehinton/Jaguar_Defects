@@ -1,0 +1,141 @@
+GENERAL MOTORS  
+DCS 7155  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 26 , 2025 
+  
+Subject:  N242482640  - Service Update  
+ Left Front Shock Rod  
+  
+Models:  2024 Chevrolet Colorado  
+ 2024 GMC Canyon  
+   
+  
+General Motors is releasing  Service Update N242482640  today.    
+What Should Dealers Do:  Dealers should review IVH  or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+A Stock VIN list is not included as our records show there are no vehicles in 
+dealer new inventory . 
+ 
+ 
+END OF MESSAGE  
+Service Update  
+N24248 2640 Left Front Shock Rod   
+ 
+ Page 1 of 3 
+ 
+Release Date : February  2025 Revision : 00  
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.  
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Colorado  2024  2024  GMC  Canyon  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above  may have a condition in which  the left front shock was assembled to a 
+higher torque specification.  
+Correction  Dealers are to replace the left front shock rod and nut.  
+Parts  
+Quantity  Part Name  Part No.  
+1 ABSORBER, FRT SHK  (WT & 2WD)  85639231  
+1 ABSORBER, FRT SHK  (Z71 & 4WD)  85639232  
+1 ABSORBER, FRT SHK  (Z21 & 2WD)  85639233  
+1 ABSORBER, FRT SHK  (Z21 and 4WD)  85639234  
+1 NUT, FRT S/ABS SHK ROD MT  11601789  
+1 NUT, FRT WHL DRV SHF  (4WD Only)  11612295  
+Note:  Use the VIN and the GM Electronic Parts Catalog (EPC) to determine which Front Shock Absorber to order .  
+Reminder:  Reminder: Parts may be removed from SPRINT and Retail Inventory Management (RIM) and be non -
+returnable.  Dealers should review the affected parts to confirm RIM managed status.  Parts may have quantity limiters in 
+effect.  There is a small number of vehicl es anticipated that will need this fix.   Due to the limited initial parts availability, 
+dealers are encouraged not to order these parts for use as shelf stock .   
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107740  LH Front Shock Absorber Replacement  
+2WD  
+4WD   
+1.6 
+1.9 ZFAT  N/A 
+Service Procedure  
+Warning:  To prevent personal injury and/or component damage, use the proper tools to support and compress the coil 
+spring prior to removal of the strut shaft nut when removing the coil spring. The coil spring is under extreme pressure and 
+can become a projectile sh ould the spring separate from the strut before all of the tension is relieved . 
+Important:  After the LH Front Shock Absorber is replaced, e nsure the Front Shock Absorber Nut is torqued to between 
+38-41 N•m (29 -31 lb ft.). FAILURE TO DO SO COULD RESULT IN POTENTIAL DAMAGE TO THE SHOCK ABSORBER.  
+Replace the LH Front Shock Absorber. Refer to Shock Absorber, Shock Absorber Component, or Spring Replacement in 
+SI. 
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the serv ice update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, o r any other purpose.  
+ 
+Service Update  
+N242482640 Left Front Shock Rod   
+ 
+  Page 2 of 3 
+  
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Managem ent (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+ 
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the intent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be compl eted when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Service Update  
+N242482640 Left Front Shock Rod   
+ 
+  Page 3 of 3 
+  
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that con dition.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

@@ -1,0 +1,54 @@
+Technical Service Bulletin (TSB)
+Front Lower Control Arm Stabilizer Link Noise
+REFERENCE: TSB:  02-001-25
+GROUP:  02 - Front SuspensionDate: February 25, 2025 REVISION: –
+VEHICLES
+AFFECTED:2019 - 2024 (DT) RAM 1500 Pickup
+This bulletin applies to vehicles that are not equipped with Front
+Active Perf Shock Absorbers (Sales Code SFE).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●Rattle or clunk noise coming from the front end of the vehicle when driving over bumps, performing turns or
+during normal operation.
+CAUSE: Loose stabilizer link attachment to lower control arm nut
+REPAIR SUMMARY:
+This bulletin involves road testing and possibly tightening the stabilizer link attachment to lower control arm
+nut.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+02-20-10-9C Nut, Stabilizer Link to
+Lower Control Arm -
+Retorque
+(1 - Semi-Skilled)4 - Chassis 0.4 Hrs.
+Failure Code ZZ Service Action
+DIAGNOSIS:
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+REPAIR PROCEDURE:
+1. Perform road test to verify the customer concern.
+2. Was a rattle or clunk noise coming from the front end of the vehicle when driving over bumps, performing
+turns or during normal operation?
+● YES>>> Proceed to Step 3 .
+● NO>>> This bulletin does not apply.
+3. Raise and support the vehicle. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info> 04 - Vehicle Quick Reference / Hoisting / Standard Procedure.
+4. Inspect the stabilizer link attachment to lower control arm nut for the proper tightening torque of 110 N·m
+(81 Ft. Lbs.) Fig. 1 .
+Fig. 1
+Lower Stabilizer Link Nut
+1 - Stabilizer Link Attachment To Lower Control Arm Nut
+5. Is the stabilizer link attachment to lower control arm nut properly tightened to the torque specification?
+● YES>>> This bulletin does not apply. Perform further diagnosis. Refer to the detailed service
+procedures available in DealerCONNECT/Service Library under: Service Info> 02 - Front Suspension /
+Front, Independent Front Suspension / Diagnosis and Testing.
+● NO>>> Proceed to Step 6 .
+6. Tighten the stabilizer link attachment to lower control arm nut to 110 N·m (81 Ft. Lbs.).
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

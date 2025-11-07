@@ -1,0 +1,192 @@
+GENERAL MOTORS  
+DCS 7149  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 19 , 2025 
+  
+Subject:  N242480200  - Service Update  
+ Water Leaks Due to Missing Sealer  
+  
+Models:  2025 Chevrolet Silverado 1500/2500  HD/3500  HD 
+   
+  
+General Motors is releasing  Service Update N242480200  today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+The Stock VIN list of vehicles in dealer inventory is attached to this message. 
+Note: this list is only accurate at the time of report creation and all VINs should 
+be validated in IVH prior to repair.   
+END OF MESSAGE  
+Service Update  
+N242480200  Water Leaks Due to Missing Sealer   
+ 
+ Page 1 of 5 
+ 
+Release Date : February  2025 Revision : 00  
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.   
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Silverado 1500/2500HD/3500HD  2025  2025  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above  may have a condition in which  the seam sealer is not fully installed.  
+Correction  Dealers are to inspect the right front side floor panel  seam and apply seam sealer if necessary.  
+Parts  
+Quantity  Part Name  Part No.  
+As 
+Required  Kent® High -Tech Seam Sealer Clear  or equivalent  *P10200  
+* Contact Kent Automotive : 
+USA: 1-888-937-5368  or www.kent -automotive.com . 
+Canada: 1-800-563-1717  or www.kent -automotive.c a.   
+Dealers that do not have a Kent Automotive account or representative must advise the Customer Service 
+Representative that the part(s) is being used for this GM bulletin to obtain special bulletin pricing.   Do not order from 
+GMCCA.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107853  Inspect Seam for Missing Sealer – No Further Action Required  0.3 ZFAT  N/A 
+9107854  Apply Seam Sealer (includes inspection)  0.5 ZFAT  * 
+**9107855  Dry Front Floor  Panel  Carpet  ST ZFAT  N/A 
+*The amount identified in “Net Item” should represent the actual sum total of the current GMCC&A Dealer net price for 
+Clear Seam Sealer needed to perform the required repairs, not to exceed $ 4.00 USD, $ 5.81 CAD, plus applicable Mark -
+Up or Landed Cost (for Export).   
+**Important : If drying the Front Floor Panel Carpet is necessary, claim this Labor Code BEFORE claiming Labor Op 
+9107854 . DO NOT Submit  for Labor Code 91 07854  until the Drying Labor Code has  been Accepted/Paid. Failure to do 
+so will result in having to “H” route the claim.  
+Service Procedure  
+1. Remove the RH Front Side Door Sill Garnish Molding . Refer to Front Side Door Sill Garnish Molding Replacement  
+in SI.  
+Service Update  
+N242480200 Water Leaks Due to Missing Sealer   
+ 
+  Page 2 of 5 
+  
+ 6830769  
+2. Pull back the RH Front Floor Panel Carpet away from the Upper RH corner of the Front Floor Panel, underneath 
+the Instrument Panel.  
+3. Remove the Multifunction Power Supply Converter Bracket. Refer to Multifunction Power Supply Converter Bracket 
+Replacement  in SI.  
+6830780  
+Note:  The Multifunction Power Supply Converter Bracket must be removed to pull the carpet covering back enough to 
+access the seam for inspection.  
+6830773  
+4. Pull aside the carpet covering  under the Instrument Panel  on the bulkhead to gain access the seam.  
+
+Service Update  
+N242480200 Water Leaks Due to Missing Sealer   
+ 
+  Page 3 of 5 
+  
+6830775  
+5. Inspect the sealer bead for complete coverage of the seam as pictured above.  
+• If the seam is completely covered by the seam sealer, Proceed to Step 1 2. 
+• If the seam in NOT completely covered by the seam sealer and is exposed, Proceed to Step 6. 
+Note : Ensure there is no loose dirt or debris on and around the area to be sealed.  
+6. Clean and prep the area using general purpose adhesive cleaner.  
+6830776  
+Important:  Ensure the area being sealed is clean and dry before applying the sealer.  
+7. Wearing a glove, apply the seam sealer to fingers and apply the sealer to the exposed seam, including good 
+coverage around the area of exposed seam.  
+8. Allow the sealer to dry and cure per the manufacturer’s instructions.  
+6830794  
+
+Service Update  
+N242480200 Water Leaks Due to Missing Sealer   
+ 
+  Page 4 of 5 
+  
+6830795  
+9. Verify there are no leaks coming from the seam by spraying water  with a garden hose  at the bulkhead from 
+underneath the Air Inlet Grille Panel for 1 minute, as shown above.  
+• If there are no leaks detected inside of the vehicle at the area of the repaired seam, proceed to Step 1 0. 
+• If the seam is still leaking inside the vehicle, repeat Steps 6-8. 
+10. Inspect the RH section of the Front Floor Panel Carpet for signs of water intrusion . 
+• If the Front Floor Panel Carpet has signs of water intrusion, proceed to Step 1 1. 
+• If the Front Floor Panel Carpet DOES NOT show any signs of water intrusion, proceed to Step 1 2. 
+Note : Follow the 3 -step drying method below, regardless of the type of carpet equipped in the vehicle.  
+11. Dry the RH section of the Front Floor Panel Carpet using the steps below.  
+• If you observe puddles of liquid on the carpet face, use a wet vacuum to remove the excess moisture.  
+• Blot the face of the carpet with a towel in order to absorb as much moisture as possible.  
+• Point a fan at the affected area and air dry the carpet.  
+12. Reposition the carpet covering on the bulkhead to its original positioning.  
+13. Reinstall the Multifunction Power Supply Converter  Bracket. Refer to Multifunction Power Supply Converter Bracket 
+Replacement  in SI. 
+14. Reposition the RH Front Floor Panel Carpet  to its original positioning . 
+15. Reinstall the RH Front Side Door Sill Garnish Molding. Refer to Front Side Door Sill Garnish Molding Replacement  
+in SI. 
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the serv ice update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, o r any other purpose.  
+ 
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Managem ent (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+ 
+ 
+ 
+
+Service Update  
+N242480200 Water Leaks Due to Missing Sealer   
+ 
+  Page 5 of 5 
+  
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the intent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be compl eted when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condi tion.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

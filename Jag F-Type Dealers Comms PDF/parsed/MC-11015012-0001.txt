@@ -1,0 +1,41 @@
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do- it-yourselfers,” and you should not 
+assume this bulletin applies to your vehicle, or that your vehicle has the condition described. To determine whether this information applies, contact 
+an authorized Honda automobile dealer. 
+© 2025 American Honda Motor Co., Inc. – All Rights Reserved Page 1 of 1  Service Bulletin  25-021 
+February 19, 2025 Version 1
+Media Source Freezes Screen  
+APPLIES TO  
+Year  Model Trim  Level  VIN Range  
+2024  Prologue  ALL  ALL 
+SYMPTOM 
+When switching to Sirius XM media source, the center display screen could freeze. The screen will remain frozen  with a 
+“Loading” message displayed.  
+POSSIBLE CAUSE  
+The software within the radio unit may need an update. 
+CORRECTIVE ACTION  
+Check the software code, if needed, perform a software  update for: 
+Controller Code: A11 
+Controller Name:  Radio Control Module 
+WARRANTY CLAIM INFORMATION  
+Operation 
+Number  Description Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+0100A1  Inspect software  - no update  0.2hr 
+03265  03217  A25021A  85044400  
+C Update software & do an all 
+DTC clear - Add 0.2hr 
+TOOL INFORMATION  
+Tool Name  Tool  Number  Quantity  
+Multiple  Diagnostic  Interface  2 (MDI2)  07-EL-52100 1 
+Tech Line Connect  (TLC)  Software  
+Application Tool With Honda Diagnostic  Package  N/A N/A 
+DCA -8000  Dynamic  Diagnostic  Charging  System  MTRDCA8000PA  1 
+NOTE: Make sure the latest version of the Tech L ine Connect (TLC) Software Application Tool with Diagnos tic Package is 
+installed on your computer.  
+INSPE CTION  AND REPAIR PROCEDURE  
+1.Follow  the steps outlined in the Job Aid:  Honda Updating Control Units Modules with TECHLINE CONNECT  to
+determine if an update is needed for the A11 Radio Control Module  and, if needed, how to perform the update.

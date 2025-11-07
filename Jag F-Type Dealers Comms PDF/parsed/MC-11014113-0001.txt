@@ -1,0 +1,67 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Vehicle/Connectivity report checklistRef. No.
+TJ 37175.1.1
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/27/24Status Date
+1/15/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+0983
+Function Description
+TECHNICAL REPORTINGPage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+To provide timely and high-quality feedback to the appropriate department or factory, this journal 
+with a checklist has been created for the reporter.
+Always submit the Vehicle/Connectivity report in VIDA. Related DTCs and vehicle log files will be 
+added automatically, saving a lot of time.
+Checklist:
+• Ensure that the vehicle and apps are on the latest released software version when the symptom 
+occurs.
+• Provide a clear description of the problem.
+• Include the relevant customer symptom code.
+• Provide the part number of the failing part.
+• Specify the relevant function group.
+• Include relevant DTC and log files.
+• Note the timestamp when the issue occurs.
+• Describe the condition when the issue occurs (e.g., driving, idling, parked, charging, road 
+condition).
+• If speed-related, specify the speed at which the symptom occurs.
+• Attach photos 
+• Include a photo of the production label and QR code when needed.
+• Provide a video clearly recording the symptom.
+• Include a sound recording if the symptom involves noise.
+• State the vehicle software version when the issue occurred and whether the software was 
+downloaded via OTA or VIDA/PDS upgrade.
+• Provide the app software version when the issue occurred.
+• Specify the device (phone, tablet, watch) and operating system (OS).
+• Include the location with Global Positioning System (GPS) coordinates.
+• Provide the workshop/repair history.
+• Indicate whether the fault was detected by the customer or during a workshop visit 
+(maintenance, other repair).
+• Describe what solved the issue.
+• If you have more vehicles with the same symptom and platform, add them to the same report.
+• Keep replaced material for at least 2 weeks.
+Page 2 of 2 2025-01-15
+Technical Journal 37175.1.1Note: Check the Volvo Cars support site for available software release information and TIE news for 
+Google services updates.
+CSC   Customer Symptom Codes
+Code Description
+3L Technician information/Repair information/Not for warranty use
+2V Technician information/Software/Vehicle communication/Not for warranty use
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+1XX 0-0 - 0-0
+2XX 0-0 - 0-0
+3XX 0-0 - 0-0
+4XX 0-0 - 0-0
+5XX 0-0 - 0-0
+8XX 0-0 - 0-0
+ 

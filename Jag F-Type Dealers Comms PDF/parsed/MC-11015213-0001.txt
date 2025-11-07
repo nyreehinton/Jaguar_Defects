@@ -1,0 +1,184 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-015
+Service BulletinDate: February, 2025
+INFORMATION
+Hybrid/EV Charging Issue Information and Data Collection Worksheet
+Brand: Model: Model Year: VIN: Propulsion: Transmission:
+from to from to
+BrightDropZevo 400 2023
+2024
+— — Hybrid/EV AllZevo 600 2024
+CadillacEscalade IQ 2024 2025
+LYRIQ 2024 2025
+OPTIQ 2025 2025
+VISTIQ 2026 2026
+ChevroletBlazer EV 2024 2025
+Bolt EV 2017 2023
+Bolt EUV 2022 2023
+Equinox EV 2024 2025
+Silverado EV 2024 2025
+BrightDrop 400 2025 2025
+BrightDrop 600 2025 2025
+GMCHUMMER EV Pickup 2022 2025
+HUMMER EV SUV 2024 2025
+Involved Region or CountryNorth America, Argentina, Brazil, Chile, Colombia, Ecuador, Peru, Uruguay, Europe,
+Middle East, Israel, Palestine, Japan, Cadillac Korea (South Korea), Egypt
+InformationThis bulletin and worksheet within are to assist with data collection, diagnosis, and repair
+for Hybrid/EV charging issues.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have
+met all specific training, tool and equipment requirements pertaining to the vehicle Brand and Model
+serviced. Repairs must be performed by a technician who has successfully completed the required training.
+Information Collection
+For diagnostic information, please reference Service Information (SI). Contact the GM Technical Assistance Center
+(TAC) via Dealer Case Management (DCM) or @ 877-446-8227 (U.S.). Canada 1-800-263-7740 (English) or
+1-800-263-7960 (French) AFTER  all relevant information is collected to review case details. Please submit a photo
+of the worksheet below, session log (if applicable), and any other relevant information. Reference the latest version
+of PIP5632 for session log data collection.
+GDS2 Charging Information
+Note: Specific GDS verbiage may differ depending on application.
+Page 2 February, 2025 Bulletin No.: 24-NA-015
+Ultium Vehicles
+K16 Battery Energy Control Module – Data Display – AC Charge History Data
+K16 Battery Energy Control Module – Data Display – DC Charge History Data
+K16 Battery Energy Control Module – Data Display – Charge Port- Data
+K16 Battery Energy Control Module – Data Display – Hybrid/Electric Vehicle Battery AC Charger Data
+K16 Battery Energy Control Module – Data Display – Hybrid/Electric Vehicle Battery DC Charger Data
+K16 Battery Energy Control Module – Data Display – Thermal Management Propulsion, Battery, and Electronics
+K16 Battery Energy Control Module – Data Display – Hybrid Battery Pack Contactor Open Reasons
+K16 Battery Energy Control Module – Identification Information – Identification Information
+Bolt EV / EUV
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – Battery Charger Control Module Data
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – Charge History Data
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – Contactor Data
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – Hybrid Battery Pack Contactor Open Reasons
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – DC Battery Charger Data
+K114B Hybrid/EV Powertrain Control Module 2 – Data Display – DC Charge History Data
+K114B Hybrid/EV Powertrain Control Module 2 – Identification Information - Identification Information & Control
+Module ID Information
+Diagnostic Tips
+AC and DC charging utilizes different circuits and components; therefore, testing should focus on the applicable
+charging type.
+Hybrid / EV Charging Analysis Worksheet
+Hybrid / EV Charging Analysis Worksheet
+VIN:______________________________________ Year:___________ Make:__________________
+Model:_______________________
+Date:________________ Odometer:_____________ Ambient Temp:_____________
+Customer Issue
+Description:______________________________________________________________________________________
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+DTCs:_________________________________________________________________________________________________
+_
+K16 or K114B Application S/W Part Number
+1:________________________________________________________________________
+K16 or K114B Calibration Part Number
+1:____________________________________________________________________________
+Can the issue be duplicated:_________________________ Issue
+Occurrence:______________________________________________
+Has any diagnosis or repair attempts been performed to
+date?:___________________________________________________________
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+Bulletin No.: 24-NA-015 February, 2025 Page 3
+Hybrid / EV Charging Analysis Worksheet
+L1-120v (AC), L2-220v (AC), L3-440v+
+(DC)Charge:___________________________________________________________________
+Issue Location (Public/
+Home):_____________________________________________________________________________________
+Vehicle Charge Indicator Light (Flashing, pulsating, On, Solid, Off,
+Color:___________________________________________________
+Color or Sequence of LEDs on
+Charger:______________________________________________________________________________
+______________________________________________________________________________________________________
+_
+Is the issue limited to one charger or multiple?:__________________
+Charge kW:__________________________________________
+EVSE/Charger
+information:________________________________________________________________________________________
+Station Provider & Station
+ID:_____________________________________________________________________________________
+Messages or Errors displayed on the IPC or Charge
+Station:______________________________________________________________
+Does this happen at a specific State of Charge or time (If so provide
+details):________________________________________________
+______________________________________________________________________________________________________
+_
+Was the vehicle Preconditioned prior to DC Fast Charging (If so, how
+long):_________________________________________________
+Was the vehicle charging in Propulsion Ready:___________ Was the heat or air conditioning used at time of
+issue:______________________________
+Home Target Charge Level:___________________________ Away Target Charge
+Level:______________________________________
+Charge Now (Y/N):_______________________ Time of Day Charging:________________ Home Location enabled(Y/
+N):____________
+Vehicle to Vehicle Charging(Y/N):______________________ Vehicle to Home Charging(Y/
+N):___________________________________
+Is an CCS NACS adaptor being used?
+________________________________________________________________________________
+Aftermarket Accessories/
+Other:____________________________________________________________________________________
+Ask for p/n on CCS NACS adapter ___________________________________
+Is vehicle experiencing slow or derated/reduced charging? ___________________________________
+Any Debris in charging inlet? ____________________________
+Is the Ultium power bar working? ____________________________
+Has the charge inlet manual release cable been pulled? ____________________________
+Verify charge settings on infotainment screen are accurate with customer ____________________________
+Verify coolant level ____________________________
+Additional
+Notes:________________________________________________________________________________________________
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+Page 4 February, 2025 Bulletin No.: 24-NA-015
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONHybrid / EV Charging Analysis Worksheet
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+______________________________________________________________________________________________________
+_
+Please provide any photos, videos, session log(s) or any other relevant information.
+Note: Please provide any photos, videos, session log(s) or any other relevant information.
+Version 4
+Modified Released January 23, 2024
+Revised September 25, 2024 – Added Models and the 2025 Model Year and added
+additional questions to worksheet.
+Revised December 12, 2024 – Removed Cadillac CELESTIQ and added Cadillac
+OPTIQ.
+Revised February 26, 2025 – Added Cadillac VISTIQ and updated Involved Region or
+Country section.

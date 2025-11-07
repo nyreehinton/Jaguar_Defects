@@ -1,0 +1,800 @@
+  Copyright 2025 Ford Motor Company  
+ 
+Service Engineering Operations        Ford Motor Company  
+Customer Service Division         PO Box 1904  
+          Dearborn, Michigan 48121  
+ 
+February 20 , 2025 
+TO: All U.S. Ford and Lincoln Dealers  
+SUBJECT:  Customer Satisfaction Program 24B57  
+Certain 2024 Model  Year F-150 Vehicles  
+Trailer Towing Capacity  
+PROGRAM TERMS  
+This program will be in effect through February  28, 2026. There is no mileage limit for this program.  
+AFFECTED VEHICLES  
+Vehicle Model Year  Assembly Plant Build Date Range 
+F-150 2024 Dearborn December 15, 2023 through September 13, 2024 
+F-150 2024 Kansas City  January 6, 2024 through September 3, 2024 
+U.S. population of affected vehicles: 34,189. Affected vehicles are identified in OASIS and FSA VIN 
+Lists.  
+REASON FOR THIS PROGRAM  
+Some of the original marketing material for the affected vehicles include incorrect information: 
+• Vehicles ordered with the Tow/Haul package are only equipped with an “upgraded rear 
+bumper” when also equipped with the Max Trailer Tow Axle. This “upgraded rear bumper” does not change vehicle operation or appearance and is only unique to allow fitment of the 
+Max Trailer Tow Axle feature and related components.  
+• For vehicles equipped with 3.5L Hybrid powertrains, the original marketing material may have 
+incorrectly stated the Gross Combined Weight Rating (GCWR) and the maximum conventional 
+towing capacity for a vehicle with this trim series. The correct GCWR for a vehicle with this trim 
+series is 17,100 lbs., with a maximum conventional towing capacity of 10,800 lbs., when properly equipped. Ford notes that these numbers vary based on each specific vehicle configuration. 
+SERVICE ACTION  
+Customers are eligible to receive a credit toward the purchase of Ford Accessories, up to the 
+following amounts:  
+• Vehicles equipped with 5.0L and 3.5L gas -only powertrains: $100 
+• Vehicles equipped with 3.5L Hybrid powertrains : $785 
+This credit can be applied toward products, shipping, taxes, and installation. 
+ 
+For Dealers located in Arizona, Oklahoma, and Vermont:  
+Dealers should assist affected vehicle owners with their Ford Accessories purchase and provide a credi t up to the amount shown above. Dealers can then submit a warranty claim to be reimbursed for 
+the credited amount, plus an administrative allowance. If the total  purchase price exceeds the 
+provided amount, the difference would be at the customer’s expense.  
+  Copyright 2025 Ford Motor Company  NOTE:  The credit can only be used one time. If the total purchase price is less than the provided 
+amount, any unused balance will be forfeit.  
+ 
+For all other Dealers:  
+No action is required by dealers at this time. Owners will be mailed a letter containing a unique 
+discount code that can be used at www.Ford.com/Accessories . If the owner does not receive a letter 
+or requires assistance with their order, please direct them to the Ford Accessories team at 1-844-589-
+0060. Business hours are Monday through Friday, 8:30AM - 5:30PM EST. 
+OWNER NOTIFICATION MAILING SCHEDULE  
+Owner letters are expected to be mailed the week of February 24, 2025 or sooner . 
+ATTACHMENTS  
+• Administrative Information 
+• Labor Allowances and Parts Ordering Information 
+• Owner Notification Letters  
+QUESTIONS & ASSISTANCE  
+For questions and assistance, contact the Special Service Support Center (SSSC) via the SSSC Web 
+Contact Site. The SSSC Web Contact Site can be accessed through the Professional Technician System (PTS) website using the SSSC link listed at the bottom of the OASIS VIN report screen or listed under the SSSC tab. 
+  
+Customer Service Division 
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 1 of 2 
+Customer Satisfaction Program 24B57 
+MOBILE SERVICE REPAIR ASSESSMENT LEVEL  
+ - Not a Mobile Service Repair  
+OASIS ACTIVAT I ON  
+OASIS will be activated on February 20 , 2025.  
+FSA VIN LIST S ACTIVAT ION  
+FSA VIN List s will be a vailable through https://web.fsavinlists.dealerconnection.com  on Febr uary 20 , 
+2025.  Owner names and addresses will be available by  March 14 , 2025.  
+NOTE:  Yo ur FSA VIN L ists may contain owner names and addresses obtained from motor vehicle 
+registration records. The use of such motor vehicle registration data for any purpose other than in 
+connection with this program  is a violation of law in several states, provinces, and countries. 
+Accordingly, you must limit the use of this listing to the follow -up necessary to complete this service 
+action.  
+BRANDED / SALVAGED TITLE VEHICLES  
+Affected branded / salvaged title vehicles  are eligible for this service action. 
+OWNER REFUNDS   
+Refunds are not approved for this program.  
+ 
+ 
+ 
+  
+  Copyright 2025 Ford Motor Company  Administrative Information 
+Page 2 of 2 
+Customer Satisfaction Program 24B57 
+CLAIMS PREPARATION AND SUBMISSION  
+Only for Dealers and Customers located in Arizona, Oklahoma, and Vermont  
+• Claim Entry : Enter claims using Dealer Management System (DMS) or One Warranty 
+Solution (OWS) online.  
+o When entering claims:  
+ Claim type 31: Field Service Action  
+ Sub Code: 24B57 
+ Customer Concern Code (CCC): A99 
+ Condition Code (CC): 82  
+ Causal Part Number: OPTIONCR , Quantity 0  
+o For additional claims preparation and submission information, refer to the Recall and 
+Customer Satisfaction Program (CSP) Repairs in the OWS User Guide. 
+• Related Damage/Additional labor and/or parts: Must be claimed as Related Damage on a separate repair line from the FSA with the same claim type and subcode as described in Claim 
+Entry above. 
+IMPORTANT:  Click the Related Damage Indicator radio button.  
+• Provision for Ford Accessories Purchase and Installation:  
+Only for Dealers and Customers in Arizona, Oklahoma, and Vermont 
+Dealers should claim the total purchase price, inclusive of the products , any  shipping 
+expenses , taxes, and installation labor (if requested by the customer), up to the amounts 
+outlined below . 
+o Claim on the same RO line as the administrative allowance.  
+o Program Code: 24B57 
+o Misc. Expense Code: “OTHER”  
+ Vehicles equipped with 5.0L and 3.5L gas -only powertrains: claim actual 
+amount up to $100 
+ Vehicles equipped with 3.5L Hybrid powertrains: claim actual amount up to 
+$785 
+   
+  Copyright 2025 Ford Motor Company  Labor Allowances and Parts Ordering Information 
+Page 1 of 1 
+ 
+Customer Satisfaction Program 24B57 
+LABOR ALLOWANCES  
+Only for Dealers and Customers located in Arizona, Oklahoma, and Vermont  
+Description  Labor Operation  Labor Time  
+Administrative Allowance - Vehicles equipped with 5.0L and 
+3.5L gas -only powertrains  
+This closes this Customer Satisfaction Program.  24B57AA 0.2 Hour(s) 
+Administrative Allowance - Vehicles equipped with 3.5L 
+Hybrid powertrains  
+This closes this Customer Satisfaction Program.  24B57AB 0.2 Hour(s) 
+ 
+PARTS REQUIREMENTS / ORDERING INFORMATION   
+Only for Dealers and Customers located in Arizona, Oklahoma, and Vermont  
+Dealers should assist affected vehicle owners with their Ford Accessories purchase and provide a 
+credit up to the amount shown below . Order accessories through normal order processing channels.  
+• Vehicles equipped with 5.0L and 3.5L gas -only powertrains: $100 
+• Vehicles equipped with 3.5L Hybrid powertrains: $785 
+This credit can be applied toward products, shipping, taxes, and installation.  
+For claiming instructions, reference the Claims Preparation and Submission section earlier in this 
+document. 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February 2025 
+Customer Satisfaction Program 24B57 
+ 
+Mr. John Sample 
+123 Main Street 
+Anywhere, USA 12345  
+ 
+VIN: 12345678901234567 
+ 
+At the time of your vehicle order or  purchase, s ome of the original marketing material for your vehicle,  
+with the VIN shown above, in clude d incorrect information. We apologize if this caused any 
+inconvenience,  and we corrected the material immediately . Our commitment, together with your 
+dealer, is to provide you with the highest level of service and support. We want to show our 
+appreciation to you as a customer by providing you with a credit that you can use to purchase Ford 
+Accessories . 
+ 
+Why are you receiving 
+this notice? Some of t he original marketing material  for your vehicle may have incorrectly 
+stated the Gross Combined Weight Rating (GCWR) and the maximum 
+conventional towing capacity for a vehicle with this trim series . The correct 
+GCWR for a vehicle with this trim series is 17,100 lbs., with a maximum conventional towing capacity of 10,800 lbs., when properly equipped. Ford 
+notes that these numbers vary based on each specific vehicle configuration. 
+Additionally, vehicles ordered with the Tow/Haul package are only equipped 
+with an “upgraded rear bumper” when also equipped with the Max Trailer 
+Tow Axle. This  “upgraded rear bumper” does not change vehicle operation 
+or appearance and is only unique to allow fitment of the Max Trailer Tow Axle feature and related components. 
+Please note that all of the information contained on the door jamb label on 
+your vehicle is accurate.  
+  
+What will Ford and 
+your dealer do?  
+ In the interest of customer satisfaction, Ford Motor Company is offering a 
+$785 credit toward the purchase and installation of Ford Accessories.  
+This credit can be applied toward products, shipping, taxes, and installation 
+by a participating Ford dealer . 
+This offer will be in effect until February 28, 2026  regardless of mileage.  
+  
+What should you do?  Contact your local Ford dealer  to use your $785  credit  toward the purchase 
+of Ford Accessories for your F-150 Truck .* Your dealer can assist you with 
+the purchase and appl ication of the credit. Rules and restrictions apply. 
+Please have your Vehicle Identification Number (VIN) available for your dealer and reference program number 24B57. Your VIN is listed near  the top 
+of this letter . 
+ Copyright 202 5 Ford Motor Company  *Please note that t his credit can only be used one time and cannot be used 
+across multiple orders, any unused balance will be forfeit.  
+To find a Ford dealer near you, you can go to Ford.com/Support for 
+addresses, maps, and driving instructions.  
+  
+Can we assist you 
+further?  
+ If you have questions or concerns, please contact our Ford Concierge 
+Team at 1-833 -807-3673 and one of our representatives will be happy to 
+assist you. Business hours are Monday through Friday, 8:30AM – 5:30PM 
+(Eastern Time). TTY/TDD users, please call  at the number listed using the 
+Telecommunication Relay Service by dialing 711. 
+If you wish to contact us through the internet, our address is 
+Ford.com/Support.  
+Thank you for your continued loyalty to Ford Motor Company.   
+Customer Service Division 
+ 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B57 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345 
+ 
+VIN: 12345678901234567 
+ 
+Al hacer el pedido o la compra de su vehículo, parte del material de marketing original de su vehículo, 
+con el VIN indicado anteriormente, incluía información incorrecta. Nos disculpamos si esto causó 
+algún inconveniente y corregimos el material inmediatam ente. Nuestro compromiso, junto con el 
+de su distribuidor, es ofrecerle servicio y apoyo de alto nivel. Queremos mostrarle nuestro 
+agradecimiento como cliente proporcionándole un crédito que puede utilizar para comprar 
+accesorios  Ford. 
+ 
+¿Por qué recibe este 
+aviso? Es posible que parte del material de marketing original de su vehículo haya 
+indicado incorrectamente el peso bruto combinado nominal (GCWR) y la 
+capacidad máxima de remolque convencional para un vehículo con esta 
+serie de equipamiento. El GCWR correcto par a un vehículo con esta serie 
+de equipamiento es de 17,100 libras, con una capacidad máxima de 
+remolque convencional de 10,800 libras, cuando está debidamente 
+equipado. Ford señala que estos números varían según la configuración 
+específica de cada vehículo.  
+Además, los vehículos solicitados con el paquete de Remolcar/Arrastrar solo están equipados con un "parachoques trasero mejorado" cuando 
+también están equipados con el eje de arrastre de remolque máximo. Este 
+"parachoques trasero mejorado" no cambia el funcionamiento o la 
+apariencia del vehículo y solo es exclusivo para permitir la instalación de la 
+función de eje de remolque máximo y los componentes relacionados.  
+Tenga en cuenta que toda la información contenida en la etiqueta de la 
+jamba de la puerta de su vehículo es precisa.  
+  
+¿Qué medidas 
+adoptarán Ford y su 
+concesionario?  
+ Con el fin de satisfacer al cliente, Ford Motor Company ofrece un crédito de 
+$785 para la compra e instalación de Accesorios Ford. 
+Este crédito se puede aplicar a productos, envío, impuestos e instalación 
+por parte de un concesionario Ford participante.  
+Esta oferta estará vigente hasta el 28 de febrero de 2026 independientemente del kilometraje.  
+  
+ Copyright 2025 Ford Motor Company  ¿Qué debe hacer?  Póngase en contacto con su concesionario local Ford para utilizar su crédito 
+de $785 en la compra de Accesorios Ford para su Camión F- 150.* Su 
+concesionario puede ayudarlo con la compra y aplicación del crédito. Se 
+aplican reglas y restricciones. Tenga a la mano el número de identificación del vehículo (VIN) para su concesionario y haga referencia al número de 
+programa 24B57. Su VIN aparece cerca de la parte superior de esta carta. 
+*Tenga en cuenta que este crédito solo se puede utilizar una vez y no se 
+puede aplicar a varios pedidos, cualquier saldo no utilizado se anulará.  
+Para encontrar un concesionario Ford cerca de usted, puede visitar Ford.com/Support para obtener direcciones, mapas e indicaciones de cómo 
+llegar.  
+  
+¿Podemos hacer algo 
+más por usted? 
+ Si tiene preguntas o inquietudes, comuníquese con nuestro equipo de 
+conserjería de Ford al 1-833-807-3673 y uno de nuestros representantes 
+estará encantado de ayudarlo. El horario comercial es de lunes a viernes, 
+de 8:30 a. m. a 5:30 p. m. (hora del Este). Usuarios de TTY/TDD, llamen al 
+número que aparece utilizando el Servicio de retransmisión de 
+telecomunic aciones marcando 711.  
+Si desea contactarnos por internet, nuestra dirección es Ford.com/Support.  
+Gracias por su continua lealtad a Ford Motor Company.  
+División de Servicio al Cliente 
+ 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February  2025 
+Customer Satisfaction Program 24B57 
+ 
+Mr. John Sample 123 Main Street 
+Anywhere, USA 12345  
+ 
+VIN: 12345678901234567 
+ 
+At the time of your vehicle order or purchase, s ome of the original marketing material for your vehicle,  
+with the VIN shown above, in clude d incorrect information. We apologize if this caused any 
+inconvenience,  and we corrected the material immediately . Our commitment, together with your 
+dealer, is to provide you with the highest level of service and support. We want to show our 
+appreciation to you as a customer by providing you with a credit that you can use to purchase Ford 
+Accessories . 
+ 
+Why are you receiving 
+this notice? Some of t he original marketing material  for your vehicle may have incorrectly 
+described the Tow/Haul package contents. V ehicles ordered with the 
+Tow/Haul package are only equipped with an “upgraded rear bumper” when 
+also equipped with the Max Trailer Tow Axle. This  “upgraded rear bumper” 
+does not change vehicle operation or appearance and is only unique to allow fitment of the Max Trailer Tow Axle feature and related components.  
+  
+What will Ford and 
+your dealer do?  
+ In the interest of customer satisfaction, Ford Motor Company is offering a 
+$100 credit toward the purchase and installation of Ford Accessories.  
+This credit can be applied toward products, shipping, taxes, and installation by a participating Ford dealer . 
+This offer will be in effect until February 28, 2026  regardless of mileage.  
+  
+What should you do?  Contact your local Ford dealer  to use your $100 credit  toward the purchase 
+of Ford Accessories for your F-150 Truck .* Your dealer can assist you with 
+the purchase and appl ication of the credit. Rules and restrictions apply. 
+Please have your Vehicle Identification Number (VIN) available for your dealer and reference program number 24B57. Your VIN is listed near  the top 
+of this letter . 
+*Please note that this credit can only be used one time and cannot be used 
+across multiple orders, any unused balance will be forfeit.  
+To find a Ford dealer near you, you can go to F ord.com/Support for 
+addresses, maps, and driving instructions.  
+  
+ Copyright 202 5 Ford Motor Company  Can we assist you 
+further?  
+ If you have questions or concerns, please contact our Ford Concierge 
+Team at 1-833 -807-3673 and one of our representatives will be happy to 
+assist you. Business hours are Monday through Friday, 8:30AM – 5:30PM 
+(Eastern Time). TTY/TDD users, please call  at the number listed using the 
+Telecommunication Relay Service by dialing 711. 
+If you wish to contact us through the internet, our address is 
+Ford.com/Support.  
+Thank you for your continued loyalty to Ford Motor Company.   
+Customer Service Division 
+ 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B57 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345 
+ VIN: 12345678901234567 
+ 
+Al hacer el pedido o la compra de su vehículo, parte del material de marketing original de su vehículo, 
+con el VIN indicado anteriormente, incluía información incorrecta. Nos disculpamos si esto causó algún inconveniente y corregimos el material inmediatam ente. Nuestro compromiso, junto con 
+el de su distribuidor, es ofrecerle servicio y apoyo de alto nivel. Queremos mostrarle nuestro 
+agradecimiento como cliente proporcionándole un crédito que puede utilizar para comprar 
+accesorios  Ford. 
+ 
+¿Por qué recibe este 
+aviso? Es posible que parte del material de marketing original de su vehículo haya 
+descrito incorrectamente el contenido del paquete Tow/Haul. Los vehículos 
+solicitados con el paquete de Remolcar/Arrastrar no solo están equipados 
+con un "parachoques trasero mejor ado", sino que también cuentan con el 
+eje de arrastre de remolque máximo. Este "parachoques trasero mejorado" 
+no cambia el funcionamiento o la apariencia del vehículo y solo es exclusivo 
+para permitir la instalación de la función de eje de remolque máximo y los 
+componentes relacionados. 
+  
+¿Qué medidas 
+adoptarán Ford y su 
+concesionario?  
+ Con el fin de satisfacer al cliente, Ford Motor Company ofrece un crédito de 
+$100 para la compra e instalación de Accesorios Ford. 
+Este crédito se puede aplicar a productos, envío, impuestos e instalación 
+por parte de un concesionario Ford participante.  
+Esta oferta estará vigente hasta el 28 de febrero de 2026 independientemente del kilometraje.  
+  
+¿Qué debe hacer?  Póngase en contacto con su concesionario local Ford para utilizar su crédito 
+de $100 en la compra de Accesorios Ford para su Camioneta F-150.* Su concesionario puede ayudarlo con la compra y aplicación del crédito. Se 
+aplican reglas y restricciones. Tenga a la mano el número de identificación 
+del vehículo (VIN) para su concesionario y haga referencia al número de 
+programa 24B57. Su VIN aparece cerca de la parte superior de esta carta. 
+*Tenga en cuenta que este crédito solo se puede utilizar una vez y no se 
+puede aplicar a varios pedidos, cualquier saldo no utilizado se anulará.  
+ Copyright 2025 Ford Motor Company  Para encontrar un concesionario Ford cerca de usted, puede visitar 
+Ford.com/Support para obtener direcciones, mapas e indicaciones de cómo 
+llegar.  
+  
+¿Podemos hacer algo 
+más por usted? 
+ Si tiene preguntas o inquietudes, comuníquese con nuestro equipo de 
+conserjería de Ford al 1-833-807-3673 y uno de nuestros representantes 
+estará encantado de ayudarlo. El horario comercial es de lunes a viernes, 
+de 8:30 a. m. a 5:30 p. m. (hora del Este). Usuarios de TTY/TDD, llamen al 
+número que aparece utilizando el Servicio de retransmisión de 
+telecomunic aciones marcando 711.  
+Si desea contactarnos por internet, nuestra dirección es Ford.com/Support.  
+Gracias por su continua lealtad a Ford Motor Company. 
+División de Servicio al Cliente 
+ 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February 2025 
+Customer Satisfaction Program 24B57 
+ 
+Mr. John Sample 123 Main Street 
+Anywhere, USA 12345  
+ 
+VIN: 12345678901234567 
+ 
+At the time of your vehicle order or  purchase, some of the original marketing material for your vehicle,  
+with the VIN shown above, included incorrect information. We apologize if this caused any 
+inconvenience,  and we corrected the material immediately. Our commitment, together with your 
+dealer, is to provide you with the highest level of service and support. W e want to show our 
+appreciation to you as a customer by offering you $100. 
+ 
+Why are you receiving 
+this notice? Some of t he original marketing material  for your vehicle may have incorrectly 
+described the Tow/Haul package contents. V ehicles ordered with the 
+Tow/Haul package are only equipped with an “upgraded rear bumper” when 
+also equipped with the Max Trailer Tow Axle. This “upgraded rear bumper” 
+does not change vehicle operation or appearance and is only unique to allow fitment of the Max Trailer Tow Axle feature and related components.  
+  
+What will Ford do?  
+ In the interest of customer satisfaction, Ford Motor Company is offering you 
+a payment of $100.  
+This offer will be in effect until February 28, 2026  regardless of mileage.  
+Rules and restrictions apply.  
+  
+What should you do?  
+ 
+Website  QR Code : 
+ Visit  FordOwnershipCare.com  or scan the QR code to register and 
+request your payment. The unique PIN below will be needed to submit 
+your request . Please keep this document until the process is complete. 
+ 
+PIN: <PIN>  
+  
+  
+
+ Copyright 202 5 Ford Motor Company  Can we assist you 
+further?  
+ If you have questions or concerns, please contact our Ford Concierge 
+Team at 1-833 -807-3673 and one of our representatives will be happy to 
+assist you. Business hours are Monday through Friday, 8:30AM – 5:30PM 
+(Eastern Time). TTY/TDD users, please call  at the number listed using the 
+Telecommunication Relay Service by dialing 711. 
+If you wish to contact us through the internet, our address is 
+Ford.com/Support.  
+Thank you for your continued loyalty to Ford Motor Company.   
+Customer Service Division 
+ 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B57 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345 
+ 
+VIN: 12345678901234567 
+ 
+Al hacer el pedido o la compra de su vehículo, parte del material de marketing original de su vehículo, 
+con el VIN indicado anteriormente, incluía información incorrecta. Nos disculpamos si esto causó 
+algún inconveniente y corregimos el material inmediatam ente. Nuestro compromiso, junto con el de 
+su distribuidor, es ofrecerle servicio y apoyo de alto nivel. Queremos mostrarle nuestro agradecimiento como cliente ofreciéndole $100.  
+ 
+¿Por qué recibe este 
+aviso? Es posible que parte del material de marketing original de su vehículo haya 
+descrito incorrectamente el contenido del paquete Tow/Haul. Los vehículos 
+solicitados con el paquete de Remolcar/Arrastrar no solo están equipados 
+con un "parachoques trasero mejor ado", sino que también cuentan con el 
+eje de arrastre de remolque máximo. Este "parachoques trasero mejorado" 
+no cambia el funcionamiento o la apariencia del vehículo y solo es exclusivo 
+para permitir la instalación de la función de eje de remolque máximo y los 
+componentes relacionados. 
+  
+¿Qué medidas 
+adoptará Ford?  
+ Con el fin de satisfacer al cliente, Ford Motor Company le ofrece un pago de 
+$100. 
+Esta oferta estará vigente hasta el 28 de febrero de 2026 
+independientemente del kilometraje. Se aplican reglas y restricciones.  
+  
+¿Qué debe hacer?  
+ 
+Código QR del sitio web:  
+ Visita FordOwnershipCare.com  o escanea el código QR para 
+registrarte y solicitar tu pago. Necesitará el PIN único que se indica a 
+continuación para enviar su solicitud. Conserve este documento hasta que 
+finalice el proceso.  
+ 
+PIN: <PIN>  
+  
+  
+
+ Copyright 2025 Ford Motor Company  ¿Podemos hacer algo 
+más por usted? 
+ Si tiene preguntas o inquietudes, comuníquese con nuestro equipo de 
+conserjería de Ford al 1-833-807-3673 y uno de nuestros representantes 
+estará encantado de ayudarlo. El horario comercial es de lunes a viernes, 
+de 8:30 a. m. a 5:30 p. m. (hora del Este). Usuarios de TTY/TDD, llamen al 
+número que aparece utilizando el Servicio de retransmisión de 
+telecomunic aciones marcando 711.  
+Si desea contactarnos por internet, nuestra dirección es Ford.com/Support.  
+Gracias por su continua lealtad a Ford Motor Company.   
+División de Servicio al Cliente 
+ 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February 2025 
+Customer Satisfaction Program 24B57 
+ 
+Mr. John Sample 123 Main Street 
+Anywhere, USA 12345         
+ 
+VIN: 12345678901234567 
+ 
+At the time of your vehicle order or  purchase, some of the original marketing material for your vehicle, 
+with the VIN shown above, included incorrect information. We apologize if this caused any inconvenience,  and we corrected the material immediately. Our commitment, together with your 
+dealer, is to provide you with the highest level of service and support. We want to show our appreciation to you as a customer by providing you with a credit that you can use to purchase Ford 
+Accessories.  
+ 
+Why are you receiving 
+this notice? Some of the original marketing material  for your vehicle may have incorrectly 
+stated the Gross Combined Weight Rating (GCWR) and the maximum 
+conventional towing capacity for a vehicle with this trim series. The correct 
+GCWR for a vehicle with this trim series is 17,100 lbs., with a maximum 
+conv entional towing capacity of 10,800 lbs., when properly equipped. Ford 
+notes that these numbers vary based on each specific vehicle configuration. 
+Additionally, vehicles ordered with the Tow/Haul package are only equipped 
+with an “upgraded rear bumper” when also equipped with the Max Trailer 
+Tow Axle. This “upgraded rear bumper” does not change vehicle operation 
+or appearance and is only unique to al low fitment of the Max Trailer Tow 
+Axle feature and related components. 
+Please note that all of the information contained on the door jamb label on 
+your vehicle is accurate.  
+  
+What will Ford and 
+your dealer do?  
+ In the interest of customer satisfaction, Ford Motor Company is offering a 
+$785 credit toward the purchase and installation of Ford Accessories.  
+This credit can be applied toward products, shipping, taxes, and installation 
+by a participating Ford dealer . 
+This credit  is good through February 28, 2026,  regardless of vehicle 
+mileage.  
+  
+  
+ Copyright 202 5 Ford Motor Company  What should you do?  Visit Ford.com/Accessories  to use your $785  credit  toward the purchase of 
+Ford Accessories for your F-150 Truck .* 
+Enter your unique discount code at checkout: <CODE>  
+Please keep this document until your order is complete.   
+ 
+*This discount code can only be used one time and cannot be used across 
+multiple orders, any unused balance will be forfeit. This credit cannot be 
+combined with any other offers or discounts or with the redemption of 
+FordPass Reward Points . Only one discount code can be used per order 
+and per account. Fleet customers or customers with multiple vehicles 
+included in this program will receive multiple discount codes (one per 
+vehicle). These customers should use the guest checkout feature and are 
+still limited t o only one discount code per order . An account is not required to 
+place an order. For additional terms and conditions visit Ford.com/Accessories . 
+  
+Can we assist you 
+further?  
+ For questions about this program, please contact our Ford Concierge 
+Team  at 1-8 33-807-3673 and one of our representatives will be happy to 
+assist you. Business hours are Monday through Friday, 8:30AM – 5:30PM 
+(Eastern Time).  
+For assistance with your Accessories order , please contact our Ford 
+Accessories team  at 1-844-589-0060 and one of our representatives will be 
+happy to assist you. Business hours are Monday through Friday, 8:30AM - 
+5:30PM (Eastern time).  
+TTY/TDD users, please call at the number s listed using the 
+Telecommunication Relay Service by dialing 711. 
+If you wish to contact us through the internet, our address is 
+Ford.com/Support.  
+Thank you for your continued loyalty to Ford Motor Company. 
+Customer Service Division 
+ 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B57 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345        
+ VIN: 12345678901234567 
+ 
+Al hacer el pedido o la compra de su vehículo, parte del material de marketing original de su vehículo, 
+con el VIN indicado anteriormente, incluía información incorrecta. Nos disculpamos si esto causó algún inconveniente y corregimos el material inmediatam ente. Nuestro compromiso, junto con 
+el de su distribuidor, es ofrecerle servicio y apoyo de alto nivel. Queremos mostrarle nuestro 
+agradecimiento como cliente proporcionándole un crédito que puede utilizar para comprar 
+accesorios  Ford. 
+ 
+¿Por qué recibe este 
+aviso? Es posible que parte del material de marketing original de su vehículo haya 
+indicado incorrectamente el peso bruto combinado nominal (GCWR) y la 
+capacidad máxima de remolque convencional para un vehículo con esta 
+serie de equipamiento. El GCWR correcto par a un vehículo con esta serie 
+de equipamiento es de 17,100 libras, con una capacidad máxima de 
+remolque convencional de 10,800 libras, cuando está debidamente 
+equipado. Ford señala que estos números varían según la configuración 
+específica de cada vehículo.  
+Además, los vehículos solicitados con el paquete de Remolcar/Arrastrar 
+solo están equipados con un "parachoques trasero mejorado" cuando 
+también están equipados con el eje de arrastre de remolque máximo. Este 
+"parachoques trasero mejorado" no cambia el funcionamiento o la 
+apariencia del vehículo y solo es exclusivo para permitir la instalación de la 
+función de eje de remolque máximo y los componentes relacionados.  
+Tenga en cuenta que toda la información contenida en la etiqueta de la 
+jamba de la puerta de su vehículo es precisa.  
+  
+¿Qué medidas 
+adoptarán Ford y su concesionario?  
+ Con el fin de satisfacer al cliente, Ford Motor Company ofrece un crédito de 
+$785 para la compra e instalación de Accesorios Ford. 
+Este crédito se puede aplicar a productos, envío, impuestos e instalación 
+por parte de un concesionario Ford participante.  
+Este crédito es válido hasta el 28 de febrero de 2026, independientemente del kilometraje del vehículo.  
+  
+  
+ Copyright 2025 Ford Motor Company  ¿Qué debe hacer?  Visite Ford.com/Accessories  para usar su crédito de $785 en la compra de 
+accesorios Ford para su camioneta F-150.*  
+Ingrese su código de descuento único al hacer el pago: <CÓDIGO>  
+Conserve este documento hasta que su pedido esté completo. 
+ 
+*Este código de descuento solo se puede utilizar una vez y no se puede 
+aplicar a varios pedidos, cualquier saldo no utilizado se anulará. Este crédito 
+no se puede combinar con ninguna otra oferta o descuento ni con el canje 
+de puntos de recompensa FordPass . Solo se puede utilizar un código de 
+descuento por pedido y por cuenta. Los clientes de flotas o clientes con 
+múltiples vehículos incluidos en este programa recibirán múltiples códigos 
+de descuento (uno por vehículo). Estos clientes deben utilizar la func ión de 
+pago como invitado y aún están limitados a un solo código de descuento por 
+pedido. No es necesario tener una cuenta para realizar un pedido. Para 
+conocer los términos y condiciones adicionales, visite 
+Ford.com/Accessories . 
+  
+¿Podemos hacer algo 
+más por usted? 
+ Si tiene preguntas sobre este programa, comuníquese con nuestro 
+equipo de conserjería de Ford al 1- 833-807-3673 y uno de nuestros 
+representantes estará encantado de ayudarlo. El horario comercial es de 
+lunes a viernes, de 8:30  a. m. a 5:30 p. m. (hora del Este).  
+Para obtener ayuda con su pedido de accesorios, comuníquese con 
+nuestro equipo de accesorios Ford al 1-844-589-0060 y uno de nuestros 
+representantes estará encantado de ayudarlo. El horario comercial es de 
+lunes a viernes, de 8:30  a. m. a 5:30 p. m. (hora del Este).  
+Los usuarios de TTY/TDD pueden llamar a los números indicados a través del Servicio de Retransmisión de Telecomunicaciones al 711. 
+Si desea contactarnos por internet, nuestra dirección es Ford.com/Support.  
+Gracias por su continua lealtad a Ford Motor Company. 
+División de Servicio al Cliente 
+ 
+ Copyright 202 5 Ford Motor Company  
+ 
+Ford Motor Company  
+Customer Service Division  
+PO Box 1904  
+Dearborn, Michigan 48121  
+February 2025 
+Customer Satisfaction Program 24B57 
+ 
+Mr. John Sample 123 Main Street 
+Anywhere, USA 12345         
+ 
+VIN: 12345678901234567 
+ 
+At the time of your vehicle order or  purchase, some of the original marketing material for your vehicle, 
+with the VIN shown above, included incorrect information. We apologize if this caused any inconvenience,  and we corrected the material immediately. Our commitment, together with your 
+dealer, is to provide you with the highest level of service and support. We want to show our appreciation to you as a customer by providing you with a credit that you can use to purchase Ford 
+Accessories.  
+ 
+Why are you receiving 
+this notice? Some of the original marketing material  for your vehicle may have incorrectly 
+described the Tow/Haul package contents. Vehicles ordered with the 
+Tow/Haul package are only equipped with an “upgraded rear bumper” when 
+also equipped with the Max Trailer Tow Axle. This “upgraded rear bumper” 
+does not change vehicle operation or appearance and is only unique to allow 
+fitment of the Max Trailer Tow Axle feature and related components.  
+  
+What will Ford and 
+your dealer do?  
+ In the interest of customer satisfaction, Ford Motor Company is offering a 
+$100 credit toward the purchase and installation of Ford Accessories.  
+This credit can be applied toward products, shipping, taxes, and installation by a participating Ford dealer . 
+This credit  is good through February 28, 2026,  regardless of vehicle 
+mileage.  
+  
+What should you do?  Visit Ford.com/Accessories  to use your $100 credit  toward the purchase of 
+Ford Accessories for your F-150 Truck .* 
+Enter your unique discount code at checkout: <CODE>  
+Please keep this document until your order is complete. 
+ 
+*This discount code can only be used one time and cannot be used across 
+multiple orders, any unused balance will be forfeit. This credit cannot be 
+combined with any other offers or discounts or with the redemption of 
+FordPass Reward Points . Only one discount code can be used per order 
+and per account. Fleet customers or customers with multiple vehicles 
+included in this program will receive multiple discount codes (one per 
+vehicle). These customers should use the guest checkout feature  and are 
+ Copyright 202 5 Ford Motor Company  still limited to only one discount code per order . An account is not required to 
+place an order. For additional terms and conditions visit 
+Ford.com/Accessories . 
+  
+Can we assist you 
+further?  
+ For questions about this program, please contact our Ford Concierge 
+Team  at 1-8 33-807-3673 and one of our representatives will be happy to 
+assist you. Business hours are Monday through Friday, 8:30AM – 5:30PM 
+(Eastern Time).  
+For assistance with your Accessories order , please contact our Ford 
+Accessories team  at 1-844-589-0060 and one of our representatives will be 
+happy to assist you. Business hours are Monday through Friday, 8:30AM - 
+5:30PM (Eastern time).  
+TTY/TDD users, please call at the number s listed using the 
+Telecommunication Relay Service by dialing 711. 
+If you wish to contact us through the internet, our address is 
+Ford.com/Support.  
+Thank you for your continued loyalty to Ford Motor Company. 
+Customer Service Division 
+ 
+ Copyright 2025 Ford Motor Company  
+ 
+Ford Motor Company  
+División de Servicio al Cliente  
+PO Box 1904  
+Dearborn, Michigan 48121  
+Febrero 2025 
+Programa de satisfacción del cliente 24B57 
+ 
+Sr. Juan Pérez  
+Calle Principal 123  
+Ciudad, EE. UU. 12345        
+ VIN: 12345678901234567 
+ 
+Al hacer el pedido o la compra de su vehículo, parte del material de marketing original de su vehículo, 
+con el VIN indicado anteriormente, incluía información incorrecta. Nos disculpamos si esto causó algún inconveniente y corregimos el material inmediatam ente. Nuestro compromiso, junto con 
+el de su distribuidor, es ofrecerle servicio y apoyo de alto nivel. Queremos mostrarle nuestro 
+agradecimiento como cliente proporcionándole un crédito que puede utilizar para comprar 
+accesorios  Ford. 
+ 
+¿Por qué recibe este 
+aviso? Es posible que parte del material de marketing original de su vehículo haya 
+descrito incorrectamente el contenido del paquete Tow/Haul. Los vehículos 
+solicitados con el paquete de Remolcar/Arrastrar no solo están equipados 
+con un "parachoques trasero mejor ado", sino que también cuentan con el 
+eje de arrastre de remolque máximo. Este "parachoques trasero mejorado" 
+no cambia el funcionamiento o la apariencia del vehículo y solo es exclusivo 
+para permitir la instalación de la función de eje de remolque máximo y los 
+componentes relacionados. 
+  
+¿Qué medidas 
+adoptarán Ford y su 
+concesionario?  
+ Con el fin de satisfacer al cliente, Ford Motor Company ofrece un crédito de 
+$100 para la compra e instalación de Accesorios Ford. 
+Este crédito se puede aplicar a productos, envío, impuestos e instalación 
+por parte de un concesionario Ford participante.  
+Este crédito es válido hasta el 28 de febrero de 2026, independientemente 
+del kilometraje del vehículo.  
+  
+¿Qué debe hacer?  Visite Ford.com/Accessories  para usar su crédito de $100 en la compra de 
+accesorios Ford para su camioneta F-150.*  
+Ingrese su código de descuento único al hacer el pago: <CÓDIGO>  
+Conserve este documento hasta que su pedido esté completo.  
+*Este código de descuento solo se puede utilizar una vez y no se puede aplicar a varios pedidos, cualquier saldo no utilizado se anulará. Este crédito 
+no se puede combinar con ninguna otra oferta o descuento ni con el canje 
+de puntos de recompensa FordPass . Solo se puede utilizar un código de 
+descuento por pedido y por cuenta. Los clientes de flotas o clientes con 
+ Copyright 2025 Ford Motor Company  múltiples vehículos incluidos en este programa recibirán múltiples códigos 
+de descuento (uno por vehículo). Estos clientes deben utilizar la función de 
+pago como invitado y aún están limitados a un solo código de descuento por 
+pedido. No es necesario tener  una cuenta para realizar un pedido. Para 
+conocer los términos y condiciones adicionales, visite 
+Ford.com/Accessories . 
+  
+¿Podemos hacer algo 
+más por usted? 
+ Si tiene preguntas sobre este programa, comuníquese con nuestro 
+equipo de conserjería de Ford al 1- 833-807-3673 y uno de nuestros 
+representantes estará encantado de ayudarlo. El horario comercial es de 
+lunes a viernes, de 8:30  a. m. a 5:30 p. m. (hora del Este).  
+Para obtener ayuda con su pedido de accesorios, comuníquese con nuestro equipo de accesorios Ford al 1-844-589-0060 y uno de nuestros 
+representantes estará encantado de ayudarlo. El horario comercial es de 
+lunes a viernes, de 8:30  a. m. a 5:30 p. m. (hora del Este).  
+Los usuarios de TTY/TDD pueden llamar a los números indicados a través 
+del Servicio de Retransmisión de Telecomunicaciones al 711. 
+Si desea contactarnos por internet, nuestra dirección es Ford.com/Support.  
+Gracias por su continua lealtad a Ford Motor Company. 
+División de Servicio al Cliente 
+ 

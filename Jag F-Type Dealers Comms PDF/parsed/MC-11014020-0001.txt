@@ -1,0 +1,119 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+7ISSUE DATE:  6/8/2020 
+SERVICE BULLETIN SUBJECT:  800 Volt Rear Interlock Solenoid  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SB-20-81 
+ 
+800 VOLT REAR INTERLOCK SOLENOID RETROFIT  
+NOTICE! It is expected that this process will require 2  hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit  updates the rear interlock solenoid to an environmentally  sealed version for improved 
+reliability . 
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/P arts Required 
+Tools  and Supplies  Required:  
+• Ratchet  
+• 3mm Allen Socket  
+• Calibrated Torque Wrench  
+• Loctite 567  
+ 
+ 
+  
+Parts Required:  
+• 053722 KIT, RETROFIT, INTERLOCK SOLENOID  (Consisting of)  
+o 053693  SOLENOID VALVE, 24V, 3 -WAY, NC, 2 -PIN BAYONET   1 EA  
+o 004744  FITTING, NYLON, MUFFLER, PNEUMATIC, 1/4 M PT"   1 EA  
+o 053985  HARNESS, REAR BRAKE INTERLOCK JUMPER    1 EA  
+o 004302  FITTING, BRASS, PTC, 90 DEG. SWIVEL, 1/4 MPT X 3/8 TUBE"  2 EA 
+o 016328- 009 SCREW: SHC: M4 -0.7X35X20      2 EA 
+  
+ 
+  
+Parts Required but not included in the kit:  
+ 
+• 001911  CABLE TIE, STANDARD CROSS SECTION, 7.5 BLACK"    10 EA  
+ 
+ 
+    
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure : 
+1. The Valve (053693) may be assembled before accessing the customer bus.  
+ 
+2. Apply a sm all amount of Loctite 567 to the threads on the Fittings (004302) and the Muffler 
+(004744) . 
+ 
+3. Assemble  the Valve (053693) , Fittings (004302), and Muffler ( 004744) as sho wn in the 
+following illustration.  
+ 
+ 
+4. Using a n 11/16 -Inch Combination Wrench, torque the F ittings (004302) two to three turns 
+past finger tight.  
+ 
+5. Using a n 16mm Combination Wrench, torque the Muffl er (004744) two to three turns past 
+finger tight.  
+ 
+6. Perform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+7. Using Wheel Lifts of other ap proved lifting devices, lift the bus to access the Rear Air Tank 
+assembly.  
+ 
+8. Locate the Rear Interlock Solenoid shown circled in red  in the following illustration.  
+ 
+Fitting  
+Muffler  
+ 
+Valve  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+9. Make a note showing which Valve  Port each air lines is connected to.  
+ 
+10. Disconnect the two 3/8 -Inch Air Lines from the original V alve. 
+ 
+11. Disconnect the original Valve  from the wiring harness.  
+ 
+12. Using a Ratchet with a 3mm Allen Socket, remove the original Valve  from the bracket.  
+ 
+13. Using a Ratchet with a 3mm Allen Socket, attach the new Valve ( 053693) with its installed 
+components onto the bracket where the o riginal Valve  was installed using two new M 4 Screws 
+(016328- 009). 
+Note: The new Valve should  be installed with the coil pointing upwar d on Roadrunner buses. 
+All other buses shoul d have the Valve installed in the same orientation as the origi nal valve.  
+ 
+14. Using a Calibrated Torque Wrench with a 3mm Allen Socket, torque the M4 Screws  to 22 
+inch pounds.  
+ 
+15. Connect the 3/8- Inch Air Lines  that were removed earlier to the correct port on the new Valve 
+(053693).  
+ 
+16. Connect the new Harness ( 053985) to the Valve (053693).  
+ 
+17. Connect the free end of the Harness ( 053985)  to the bus harness  where the original Valve  was 
+connected.  
+ 
+18. Using Wire Ties (001911) neat ly secure the new harness  and any other wiring that needs it . 
+ 
+19. Safely lo wer the bus.  
+ 
+20. Remove the Lockout/Tagout devices and pow er on the bus.  
+ 
+21. Return the bus to service after confirming that no air leaks are present . 
+ 

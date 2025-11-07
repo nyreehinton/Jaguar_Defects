@@ -1,0 +1,53 @@
+Polestar   Service and Parts Business
+ T echnical Journal
+TITLE:
+Seat Adjustments not saved in Driver Profiles
+REF NO:
+TJ 37164.1.0ISSUING DEPARTMENT:
+T echnical ServiceCAR MARKET:
+United States and Canada
+PARTNER:
+3 US 7515 PolestarISSUE DATE:
+2024-12-10STATUS DATE:
+2025-01-07
+FUNC GROUP:
+8526FUNC DESC:
+Adjustment device, assembly 
+partsPage 1 of 3
+Produced and printed in the USA and available as an electronic document.
+© Polestar 2025Attachment
+File Name File Size
+TJ_37164_1 (1).jpg 0.1709 MB
+DESCRIPTION:
+If the seat adjustments are not saved in the driver profiles, follow advice under “Service”.
+CSC   Customer Symptom Codes
+Code Description
+UO Front seat/Automatic adjustment (memory) does not work
+DTC   Diagnostic Trouble Codes
+Vehicle T ype
+T ype EngEng 
+DescSales Body Gear Steer Model Y ear Plant Chassis rangeStruc Week 
+Range
+359 2024-9999 - 202402-999952
+SERVICE:
+Perform a seat calibration as instructed in the attached image (TJ_37164_1.jpg), this will ensure that the 
+seat adjustments are saved in the driver profiles.
+  
+Warranty claim info:
+T o get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP number 
+stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+Page 2 of 3 2025-01-07
+T echnical Journal 37164.1.0VST   Operation Number
+VST Operation Number Description
+36050-2 Calibrating/Identifying with VIDA
+LABOR TIME:
+Labor time subject to change without notice.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report Polestar” and sub concern area “Support not needed Polestar”, use 
+function group 8526.
+ 
+T o view TJ attachment continue to next page.  This TJ has one attachment.
+2025-01-07 Page 3 of 3
+T echnical Journal 37164.1.0

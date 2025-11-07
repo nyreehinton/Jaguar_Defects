@@ -1,0 +1,69 @@
+   
+TECHNICAL SERVICE BULLETIN
+Rear Parking Aid - Continuous Or Intermittent Tone When No Obstacles Or
+DTCs Are Present25-2033
+12 February
+2025
+This bulletin supersedes 24-2300. Reason for update: update the parts list
+Model:
+Ford
+2024 Ranger
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit all of the following conditions:
+• An intermittent condition of a continuous audible tone present from the rear parking aid system with no
+obstacles around the vehicle
+• No DTC stored in the IPMA
+This may be due to the IPMA software, IPMA hardware, the rear parking sensors and/or sensor wiring.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+update the IPMA and diagnose further if necessary.
+Parts - Parts To Inspect And Replace Only If Necessary
+Service Part
+NumberClaim QuantityPackage Order
+QuantityNumber in
+PackageDescription Note
+14G647 Only If
+Necessary (Up
+to 1)Only If
+Necessary (Up
+to 1)1Image Processing
+Module ARefer To The Parts Catalog
+For The VIN Specific
+Application
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+Only If Necessary indicates the part is not mandatory. Refer to the Service Procedure to determine the
+inspection/inclusion criteria.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2024 Ranger: Retrieve DTCs And Update The IPMA Includes Time To Perform
+Pinpoint Test And Replace The IPMA If Necessary (Do Not Use With Any Other
+Labor Operations)MT252033Actual Time up
+to 3.0 Hrs.
+Repair/Claim Coding
+Causal Part: 14G647
+Condition Code:04
+Service Procedure
+1. Update the IPMA software to the latest level using the FDRS.
+2. Did this correct the concern?
+(1). Yes - repair is complete.
+(2). No - proceed to Step 3.
+3. Perform Pinpoint Test AK. Refer to WSM, Section 413-13.
+4. Did this correct the concern?
+(1). Yes - repair is complete.
+(2). No - proceed to Step 5.
+5. Replace the IPMA module. Refer to WSM, Section 419-07.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

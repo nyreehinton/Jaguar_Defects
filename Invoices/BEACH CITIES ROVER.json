@@ -1,0 +1,217 @@
+{
+  "invoice_number": "9361",
+  "document_type": "INVOICE",
+  "vendor_name": "BEACH CITIES ROVER",
+  "vendor_address": "529 N. PACIFIC COAST HWY, REDONDO BEACH, CA. 90277",
+  "vendor_phone": "(310) 921-8393",
+  "vendor_email": "JBULEN@BEACHCITIESROVER.COM",
+  "customer_name": "NYREE HINTON",
+  "customer_address": "6401 WILSHIRE BOULEVARD, LOS ANGELES, CA. 90048",
+  "customer_phone": "(732) 979-6264",
+  "writer": "ALEX DALZIEL",
+  "dates": {
+    "in": "10/29/2025",
+    "out": "11/4/2025"
+  },
+  "vehicle_details": {
+    "year": "2020",
+    "make_model": "JAGUAR F-TYPE P300 COU",
+    "vin": "SAJDD1GX4LCK67497",
+    "engine": "2.0L L4 DOHC 16V",
+    "transmission_drive": "8-SPEED AUTOMATIC/",
+    "license_state": "9PCM313/CA",
+    "mileage_in": 30294,
+    "mileage_out": 30295
+  },
+  "measurements": {
+    "air_pressure_in_psi": [
+      37,
+      37
+    ],
+    "air_pressure_out_psi": [
+      37,
+      37
+    ],
+    "brake_measurements_mm": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "service_details": [
+    {
+      "issue_number": 1,
+      "description": "CUSTOMER STATES CHECK ENGINE LIGHT ON. CHECK AND ADVISE **NOTE** CUSTOMER PROVIDED DATA/SEE ATTACHED",
+      "tech_report": "VERIFIED CONCERN. MULTIPLE CODES/SOME STORED PRIOR TO CHECK IN TODAY. P25A9-13 PISTON COOLING JET FAILURE/MULTI MISFIRE DETECTED. PERFORMED VISUAL INSPECTION OF SPARK PLUGS (WORN STATE) ADVISE TO REPLACE PISTON OIL JET AND REPLACE SPARK PLUGS TO START. **NOTE** PENDING CAT EFFICIENCY CODE BANK 1",
+      "line_items": [
+        {
+          "item_type": "New Part",
+          "part_number": "AJ813393",
+          "description": "VALVE CONTROL JET",
+          "quantity": 1,
+          "unit_price": 354.43,
+          "amount": 354.43
+        },
+        {
+          "item_type": "Labor",
+          "technician": "GUTIERRE",
+          "description": "CHECK ENGINE LIGHT DIAGNOSIS // PISTON OIL JET REPLACEMENT",
+          "quantity": 4,
+          "unit_price": 0.00,
+          "amount": 780.00
+        }
+      ],
+      "total": 1134.43
+    },
+    {
+      "issue_number": 2,
+      "description": "U/I SPARK PLUGS FOULED, CUSTOMER AUTH TO REPLACE",
+      "tech_report": "REMOVE AND REPLACED FOULED SPARK PLUGS. CLEANED AREA. REINSTALLED ALL REMOVED COMPONENTS. TEST OPERATION. WORKING AS DESIGNED AT THIS TIME.",
+      "line_items": [
+        {
+          "item_type": "New Part",
+          "part_number": "JDE38685",
+          "description": "SPARK PLUG",
+          "quantity": 4,
+          "unit_price": 31.24,
+          "amount": 124.96
+        },
+        {
+          "item_type": "Labor",
+          "technician": "GUTIERRE",
+          "description": "SPARK PLUG REPLACEMENT",
+          "quantity": 2,
+          "unit_price": 0.00,
+          "amount": 390.00
+        }
+      ],
+      "total": 514.96
+    },
+    {
+      "issue_number": 3,
+      "description": "CUSTOMER AUTH TO PERFORM OIL AND FILTER CHANGE SERVICE",
+      "tech_report": "PERFORMED OIL CHANGE SERVICE",
+      "line_items": [
+        {
+          "item_type": "New Part",
+          "part_number": "JDE37128",
+          "description": "INGENIUM OIL FILTER KIT",
+          "quantity": 1,
+          "unit_price": 27.95,
+          "amount": 27.95
+        },
+        {
+          "item_type": "New Part",
+          "part_number": "OIL SYNTHETIC 0W20",
+          "description": "CASTROL SYNTHETIC 0W20",
+          "quantity": 7,
+          "unit_price": 11.57,
+          "amount": 80.99
+        },
+        {
+          "item_type": "Labor",
+          "technician": "GUTIERRE",
+          "description": "OIL & FILTER CHANGE (ENGINE)",
+          "quantity": 0.5,
+          "unit_price": 0.00,
+          "amount": 50.00
+        }
+      ],
+      "total": 158.94
+    },
+    {
+      "issue_number": 4,
+      "description": "MPI",
+      "total": 0.00
+    },
+    {
+      "issue_number": 5,
+      "description": "TPS",
+      "total": 0.00
+    },
+    {
+      "issue_number": 6,
+      "description": "REAR BRAKES @ 1MM. CUSTOMER AUTH TO REPLACE",
+      "tech_report": "CUSTOMER AUTH TO REPLACE REAR BRAKES W/ AFTERMARKET \"BREMBO\" OPTION. TEST OPERATION. WORKING AS DESIGNED AT THIS TIME.",
+      "line_items": [
+        {
+          "item_type": "New Part",
+          "part_number": "10081",
+          "description": "BRAKE CLEANER",
+          "quantity": 1,
+          "unit_price": 3.95,
+          "amount": 3.95
+        },
+        {
+          "item_type": "New Part",
+          "part_number": "STOP SQUEEK",
+          "description": "STOP SQUEEK",
+          "quantity": 1,
+          "unit_price": 8.11,
+          "amount": 8.11
+        },
+        {
+          "item_type": "New Part",
+          "part_number": "T2R61946",
+          "description": "REAR BRAKE PAD **BREMBO**",
+          "quantity": 1,
+          "unit_price": 100.00,
+          "amount": 100.00
+        },
+        {
+          "item_type": "New Part",
+          "part_number": "C2D29140",
+          "description": "REAR BRAKE SENSOR",
+          "quantity": 1,
+          "unit_price": 40.00,
+          "amount": 40.00
+        },
+        {
+          "item_type": "New Part",
+          "part_number": "T2R5941",
+          "description": "BRAKE DISC **BREMBO**",
+          "quantity": 2,
+          "unit_price": 240.00,
+          "amount": 480.00
+        },
+        {
+          "item_type": "Labor",
+          "technician": "GUTIERRE",
+          "description": "REPLACE REAR BRAKE PADS AND ROTORS",
+          "quantity": 2.5,
+          "unit_price": 0.00,
+          "amount": 437.50
+        }
+      ],
+      "total": 1069.56
+    },
+    {
+      "issue_number": 7,
+      "description": "LEFT REAR TIRE HAS NAIL. PERFORMED TIRE REPAIR PER COURTESY.",
+      "total": 0.00
+    }
+  ],
+  "recommended_repairs": [
+    {
+      "description": "ENGINE MOUNTS WORN, REC TO REPLACE",
+      "estimated_cost": 1830.00
+    },
+    {
+      "description": "RADIATOR LEAKING, REC TO REPLACE",
+      "estimated_cost": 2005.00
+    }
+  ],
+  "summary": {
+    "labor_jobs": 1657.50,
+    "parts": 1220.39,
+    "sublet": 0.00,
+    "total_fees": 0.00,
+    "subtotal": 2877.89,
+    "tax_rate": "9.75%",
+    "total_tax": 118.99,
+    "total_amount": 2996.88,
+    "payments": 0.00,
+    "balance": 2996.88
+  }
+}

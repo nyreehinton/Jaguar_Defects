@@ -1,0 +1,52 @@
+ 
+Fault code P06DA00 Current or Stored in engine control unit
+Topic number LI07.70-N-078824
+Version 1
+Function group 07.70 - Gasoline injection and ignition system direct injec-
+tion
+Date 2/11/25
+Validity 447 and 907 with engine M274
+Reason for change
+Complaint
+Fault code P06DA00 is found current or stored in engine control unit. Check engine light may be activated.
+Cause
+Various causes
+Remedy
+Up to Model year 2018
+Fault code P06DA00 can be disregarded if not activating the check engine light , unless otherwise specified in the gui-
+ded test. The vehicle continues to operate as designed. Further causes should be investigated if complaint of check
+engine light is received.
+Model year 2019 and later
+Fault code P06DA00 will activate check engine light as of model year 2019. No driveability concerns will be observed,
+only illumination of the CEL.
+This fault code indicates high resistance or open in the circuit to Y130 oil pump control valve.
+Perform guided test for component Y130 under list of tests in ME. Diagnose location of high resistance or open in
+Y130 circuit and repair as necessary.
+Warranty claims submitted without supporting guided test results may be subject to debit.
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+28.02.2025   21:58   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Engine management  > Indicator lamp  > Engine diagnosis  > lit
+Control unit/fault code
+Control unit Fault text
+N3/34 - Motor electronics 'MED40' for combustion engine
+'M274' (ME) (MED40)P06DA00  - The actuation of the valve of the oil pump in
+the combustion engine has an electrical fault or open cir-
+cuit. _
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+28.02.2025   21:58   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

@@ -1,0 +1,67 @@
+TECHTIP
+2025-01-30 TT405
+TT405(RevA):HeatedHandGripFunction
+SYMPTOMS APPLIES TO
+Reason forRevision
+Table1
+Table1.Document History
+Revision Description Date
+Remove sentence: Therearenoheatedhandgrips offeredthroughP&A
+thatarecompatible withinternally wiredhandlebars. 2025-01-30
+Updated Title *
+Initialrelease 2009-03-26
+HEATEDHANDGRIPFUNCTION
+Harley-Davidson heatedgripsaresimplecomponents thatareeasytodiagnose ifyouunderstand
+howtheywork.Justlikeanyotherelectrical component, theyneedacomplete circuittofunction.
+Weknowthatacircuitismadeupoffourparts.Itisagoodideatoidentifythesefourpartsof
+anycircuityouarediagnosing.
+1.Sourcepower(Battery)
+2.Path(wires)
+3.Load(internal coils)
+4.Control(switch)
+Whether youareworkingwithaCVOorP&Akit,theCVOUltraServiceManualSupplement and
+heatedgripinstruction sheetsaregreatresources fortroubleshooting heatedgripconcerns.
+Youwillseeinthediagram belowthatHarley-Davidson heatedgripsconnecttothreewiresfrom
+thevehicle.Oneofthemisaground,andtheothertwoprovidepower.Tofunction properly,the
+gripswillneedagoodpathtogroundandpoweronbothofthepowerwires.
+1/3
+6
+7
+153
+4
+2258765Figure1.HeatedHandGripSchematic
+TIPSTODIAGNOSE COMMON HEATEDGRIPSYMPTOMS
+LoworNoHeat-Both HandGrips
+•Disconnect thegroundwire,andtwopowerwires,fromthevehicleandcarefully inspectthe
+fuses,connectors, andpinsfordamage, corrosion, andtightness.
+•TurntheignitionswitchONanduseyourtestlighttoverifypowerfromthemotorcycle's battery
+connector andaccessory wire.Ifyouareusingthegroundwiretosupplygroundtoyourtest
+light,youareeffectively verifying thegroundcircuitaswell.
+•Wedonotprovideanytemperature specification forourheatedgrips;however,thegripsshould
+drawatotalof1-3amps.Thatcaneasilybeverifiedwithaninductive amperage clampwhile
+thegripsareon.Youcanalsoseethatthegripsmustbeconnected toeachotherinorderto
+complete thecircuit.
+•Ifthemotorcycle isproviding goodpowerandground,andtheconnections aregood,theissue
+maybewithoneorbothoftheheatedgrips.
+LoworNoHeat-Right GripOnly
+•Ifonlytheright-hand gripisnotheating,disconnect therightgripfromtheleftandtestcontinuity
+ontheblackandblack/white wiresfromtherightgrip.IfthevehicleisaCVOtouringmodel
+thatutilizesinternally wiredgripswithelectronic throttlecontrol,youwillneedtoleavethegrip
+connected totheTwistGripSensor(TGS)forthistest.TheTGScontains thewiresforthese
+rightgrips.Youshouldmeasure 1to9ohmsthroughtheRHgrip.Iftheresistance ishigher,
+thegripshouldbereplaced.
+LoworNoHeat-Left GripOnly
+•Ifonlytheleft-hand gripisnotheating, followthestepsdescribed in"lowornoheat-both grips".
+TipsForInstallation AndReplacement
+Usecautionwheninstalling heatedhandgrips.Damage tothewiresfromimproper installation
+ormodifications tothepartscouldresultinarejected warranty claim.(seeimagesbelow)
+Donotmodifyheatedgripsforfitments thatarenotrecommended.
+2/3
+HeatedHandGripsreturned tothewarranty department withsevered ordamaged leadswillnot
+beconsidered warrantable.
+1977961
+Figure2.Physical Damage (NotWarrantable)
+1977962
+Figure3.GoodReturnPartWithWires
+Alwaysincludethecomplete gripwithitsattached wireswhenreturning partsforwarranty .
+3/3

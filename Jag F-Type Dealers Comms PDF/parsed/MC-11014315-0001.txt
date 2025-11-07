@@ -1,0 +1,67 @@
+Bulletin No.: PIT6105C
+Published date: 02/14/2025
+Preliminary Information
+PIT6105C LCDD Data Provisioning Message On Replacement Radio
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+Buick Envision 2024 - 2025 All AllAll All
+Cadillac CT5 2025 All AllAll All
+Cadillac Lyriq 2023 - 2025 All AllAll All
+Cadillac Escalade IQ 2025 All AllAll All
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Cadillac Optiq 2025 All AllAll All
+Cadillac XT4 2024 - 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletColorado 2023 - 2024 All AllAll All
+Chevr oletEquino x 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+Chevr oletTraverse 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+GMC Acadia 2024 - 2025 All AllAll All
+GMC Canyon 2023 - 2024 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+GMC Terrain 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)IVD and IVE
+ConditionWhen installing a replacement radio, the technician ma y notice
+the LCDD Data Provisioning message. 
+Cause Normal condition.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+Before performing USB programming and SPS programming, press "Start" on the radio
+displa y. 
+After it completes, proceed with published Service Information programming for the A11
+Radio. 
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+3486008 Perform LCDD Data Provisioning on radio 0.2 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+ 
+Version History
+Version 4
+Modiﬁed01/04/2024 - Created On.   
+01/17/2024 - Updated for labor op and added IVE RPO . 
+03/19/2024 - Updated to add additional models.  
+02/14/2025 - Model years and cause.
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

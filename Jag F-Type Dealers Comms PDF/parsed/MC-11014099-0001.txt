@@ -1,0 +1,76 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Rumbling Noise From ERAD / TVDCRef. No.
+TJ 37140.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/20/24Status Date
+1/2/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4601
+Function Description
+Rear axle, completePage
+Page 1 of 3Attachment
+File Name File Size
+TJ-37140_1.mp3 0.8486 MB
+TJ_37140_1.pdf 0.1380 MB
+Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+*Adding attachment, VST operation No, and updates under service.
+A customer may experience a rumbling noise from the rear of the vehicle when driving.  This noise 
+may be most noticeable at full steering angle and low speeds.
+Listen to the attached sound file TJ-37140_1.mp as an example of this noise. (The noise is heard at 
+5 and 26 seconds in the recording)
+Please follow the advice under “Service” .
+ERAD - Electrical Rear Axle Drive
+TVDC - Torque Vectoring by Dual Clutch
+CSC   Customer Symptom Codes
+Code Description
+8N Driving/Unusual noise/Unsure when/at all times
+D2 Front/rear axle/Unusual noise
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis rangeStruc Week Range
+356 EE E400V7 2025-9999 - 202417-999952
+356 EV E400V3 2025-9999 - 202417-999952
+Page 2 of 3 2025-01-02
+Technical Journal 37140.2.0SERVICE:
+Note: Follow this journal and the steps below before replacing any parts.
+1. Perform an oil change of the TVDC according to VIDA instructions. If the noise is gone 
+afterward, release the vehicle to the customer. If the noise remains, continue to step 2.
+*2. Test drive according to the illustration in attachment TJ_37140_1.pdf and then follow steps a-e 
+in the text below:
+a. 1 minute 15-30 km/h (10-20 mph)
+b. 1 minute 15 km/h (10 mph)
+c. 1 mnute 15 km/h (10 mph)
+d. 1-time light acceleration 0-80 km/h (0-50 mph)
+e. 1-time light acceleration 0-80 km/h (0-50 mph)
+If the noise is gone afterward, release the vehicle to the customer. If the noise remains, continue 
+to step 3.
+3.  Submit a TIE Vehicle Report with the sub-concern area “Support Needed” for further assistance.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36100-2 Test drive acc. to Technical Journal
+46562-2 TVDC, replacement
+98588-2 oil change TVDC acc. to TJ
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report per TJ 37195.
+If the service solution described in this TJ has no effect use the sub-concern area “Support 
+Needed”, and use function group 4601.
+If the service solution described in this TJ is effective use the sub-concern area “Support Not 
+Needed”, and use function group 4601.
+ 
+To view TJ attachments continue to next page.  This TJ has one attachment and 
+one sound file.
+2025-01-02 Page 3 of 3
+Technical Journal 37140.2.0
+100mE DTJ 37140

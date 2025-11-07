@@ -1,0 +1,54 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-048
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Unwanted Rear Automatic Braking (RAB)
+ 
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+Buick
+All GM Vehicles with
+(RPO UVZ)2023 2025 — — — —Cadillac
+Chevrolet
+GMC
+ 
+Involved Region or CountryNorth America, Uzbekistan, Middle East, Israel, Palestine, Argentina (Mercosur), Brazil
+(Mercosur), Bolivia (West), Chile (West), Colombia (West), Ecuador (West), Peru (West),
+Uruguay (West), Japan, Cadillac Korea (South Korea), China - SGM
+Additional Options (RPOs)Equipped with SENSOR-COLLISION AVOIDANCE & MITIGATION, VEHICLE REVERSE
+MOVEMENT (RPO UVZ)
+ConditionSome customers may comment that the rear automatic braking may brake unwantedly,
+usually when reversing out of a garage or driveway.
+CauseThe cause of the condition may be due to the design sensitivity with the rear virtual
+bumper. The system is calibrated to catch as many possible scenarios as it can.
+CorrectionIf a customer has this condition with their vehicle, dealer technicians can show the
+customer that there are different settings that the customer can select in their personali-
+zation menu to either set an audible alert only or audible alert with braking. Customers
+are also encouraged to refer to the owner’s manual section on reverse automatic braking
+(RAB) and the warnings that are noted.Subject:
+ 
+Service Procedure
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Page 2 February, 2025 Bulletin No.: 24-NA-048
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 5
+ModifiedReleased March 11, 2024
+Revised July 10, 2024 - Updated Involved Region or Country and added Enclave,
+Equinox EV, Silverado EV, Traverse, and Acadia.
+Revised July 19, 2024 - Updated the Warranty Information.
+Revised October 15, 2024 - Removed the Warranty Information.
+Revised February 06, 2025 - Added Vehicles and 2025 Model Year.

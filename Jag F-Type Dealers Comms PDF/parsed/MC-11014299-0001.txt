@@ -1,0 +1,73 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)F47 Air Ride Adaptive Suspension
+ConditionSome customers ma y comment on following concerns:
+-  Air leveling suspension is inoperative   
+-  Service Leveling System message displa yed in the DIC  
+-  DTC: C1197 SYM 92
+ 
+CauseThis condition ma y be caused by a plugged or pinched air inlet
+hose to the air suspension compressor assembly . 
+Bulletin No.: PIT6144E
+Published date: 02/12/2025
+Preliminary Information
+PIT6144E Diagnostic Tip for Service Leveling System Message And
+DTC: C1197 SYM92
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade Models 2021 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC HUMMER EV 2022 - 2025 All AllAll All
+GMC HUMMER EV SUV 2024 - 2025 All AllAll All
+GMC Yukon Models 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+If you experience one of the conditions above, please check the following as this ma y be
+causing your concern:   
+Inspect the air suspension compressor air inlet hose for being pinched or twisted and
+preventing air from entering the air suspension compressor . The air inlet hose assembly is
+shown as #17 below . If you ﬁnd the air inlet hose pinched or twisted, repair as needed.
+ 
+Example of twisted hoses on the 2024 Hummer EV SUV
+ 
+Example of a pinched hose on a 2023 Cadillac Escalade below:
+ 
+ 
+ 
+The 2024 Hummer EV Pickup ma y have a kink ed hose due to an air inlet hose
+fastener that is located in an incorrect mounting hole that restricts the air inlet
+hose. See Below:
+Locate the air suspension line assembly brack et in the right rear of the vehicle and mak e
+sure the air inlet line retainer is attached to the brack et as shown above in the locator hole
+mark ed by # 2.   
+If the hose retainer is in location #1, it will restrict the air inlet hose and you will need to
+remove the retainer clip and install it in location #2.  
+ 
+Note: Engineering is reviewing the diagnostic for C1197 SYM 92 in SI which instructs
+technicians to replace the Air Suspension Control Module Manifold or the Automatic Level
+Control Module. Unless there is visual evidence that there is an issue with either of these
+components, do not replace them until the suspension air compressor is replaced and the
+vehicle is re-evaluated for the C1197 SYM 92 DTC. 
+Version History
+Version 6
+Modiﬁed03/28/2024 - Created on.  
+06/21/2024- Updated the correct ﬁeld to add photo of
+Hummer EV Pick up.  
+08/08/2024- Updated the correction ﬁeld to add 2024
+Silverado and Sierra EV vehicles.  
+12/13/2024- Updated the correction ﬁeld to remove 2024
+Silverado and Sierra EV vehicles  
+01/27/2025- Updated to add statement in the end of the
+correction ﬁeld.  
+02/12/2025- Updated to add 2025 model year .
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

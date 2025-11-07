@@ -1,0 +1,60 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment of a hoot, howl, whistle type
+wind noise coming from either the left or right side of the dash
+/ front end while driving at highwa y speeds.  This noise ma y
+change depending on the HV AC setting being set to either fresh
+air or recirculation mode.  In some cases, the complaint could be
+a squeak, rattle, or creak  noise from the I/P dash, which could
+occur while driving at any speed.  
+CauseThe cause of these concerns could be either of the following:
+1.  Either the left or right body harness pass-through (1) not
+fully seated into the cowl (2), as shown below . 
+2.  Either the left or right I/P tie bar bolts loose or missing (4),
+shown below .  
+Bulletin No.: PIT5990C
+Published date: 02/5/2025
+Preliminary Information
+PIT5990C Hoot Howl Whistle Type Wind Noise From the Front End or
+Interior While Driving At Highway Speeds Or Squeak Rattle Noise
+From IP Dash
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade Models 2021 - 2025 All AllAll All
+Chevr oletSilverado 1500 (New Model) 2019 All AllAll All
+Chevr oletSilverado 2020 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC Sierra 1500 (New Model) 2019 All AllAll All
+GMC Sierra 2020 - 2025 All AllAll All
+GMC Yukon Models 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+To correct these concerns:
+1.  Fully seat the body harness pass-through so that each of the 4 retainers (3) are lock ed
+into position, as shown below . 
+2.  Install and/or tighten the I/P tie bar bolts to 22 Nm (16 lb. ft).
+ 
+Warranty Information
+For vehicles repaired under warranty , please use the appropriate warranty labor operation
+based on the actual cause and repair .
+ 
+Additional SI K eywords
+creak, cr eaking, cr eek, buzz, buzzing, rattle, rattling,
+Version History
+Version 4
+Modiﬁed02/27/2023 - Created on.  
+07/12/2023 - Update to the model years.  
+07/08/2024- Update to the model years.  
+02/05/2025 - Update to the title and condition
+sections
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

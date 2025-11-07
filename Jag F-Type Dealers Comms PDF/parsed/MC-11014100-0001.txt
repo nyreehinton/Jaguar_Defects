@@ -1,0 +1,64 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Volvo Cars app, unpaired vehicle - Profile tabRef. No.
+TJ 37179.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/12/24Status Date
+1/2/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3975
+Function Description
+Mobile data services, generalPage
+Page 1 of 3Attachment
+File Name File Size
+TJ_37179_1.jpg 0.1403 MB
+DESCRIPTION:
+Note! This Technical Journal is only valid for vehicles equipped with Android Automotive Operating 
+System.
+If the customer complains of the Volvo Cars app sending push notifications from a previously paired 
+vehicle, and having an unpaired vehicle in the Garage - Profile tab (see attachment TJ 37179.jpg), 
+then follow the advice under Service.
+This may occur if a user:
+• Just uninstalled the app from a device without unpairing the device - relation remains in cloud.
+• Installs the app again on a different device - the vehicle will be shown as “incomplete pairing” in 
+the app.
+If a push notification is generated, it will be sent to all user devices including “incomplete pairings” .
+See information and inform customer how to remove the Volvo Cars app in Volvocars.com/support/
+Volvo Cars app/Getting started/Removing a car in the Volvo Cars app.
+CSC   Customer Symptom Codes
+Code Description
+6N Mobile app Volvo Cars/Other communication problems
+DTC   Diagnostic Trouble Codes
+Page 2 of 3 2025-01-02
+Technical Journal 37179.1.0Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 2023-9999 - 202222-999952
+225 2023-9999 - 202222-999952
+227 2023-9999 - 202252-999952
+236 2022-9999 - 202122-999952
+238 2022-9999 - 202122-999952
+246 2022-9999 - 202122-999952
+256 2023-9999 - 202222-999952
+536 ED E400V6 2021-9999 - 202037-999952
+536 2023-9999 - 202222-999952
+539 2022-9999 - 202139-999952
+SERVICE:
+1. Create a TIE Report. Use concern area “Connectivity” and sub concern area “Support needed” .
+2. State the VIN, Volvo ID, and “THIS RELATION SHOULD BE DELETED” clearly in the 
+description field.
+  
+Warranty claim info:
+No warranty claim is accepted for this TJ.
+VEHICLE REPORT:
+Yes, please submit a TIE Report if the service solution described in this TJ has no effect. Use 
+concern area “Connectivity” and sub concern area “Support needed” , use function group 3975.
+ 
+To view TJ attachments continue to next page.  This TJ has one attachment.
+2025-01-02 Page 3 of 3
+Technical Journal 37179.1.0

@@ -1,0 +1,98 @@
+ 
+ 
+BULLETIN NOTES
+This bulletin supersedes the previously issued bulletin(s) listed below. The changes are noted in Red.
+Previous TSBs: Date(s) Issued:
+16-001/24 07/24/24 and 04/20/24
+ 
+APPLICABLE MODEL(S)/VINS  
+2024 Mazda3 (Japan built)  
+2024 Mazda3 (Mexico built) with VINS lower than 3MZBP******434025 (produced before July 24, 2024)  
+2024 CX-30  with VINS lower than 3MVDM******717571 (produced before July 24, 2024)   
+ 
+DESCRIPTION
+Some vehicles may experience the symptoms mentioned below, which can be fixed with the latest software update.
+Software versionSpec. FactoryCMU part 
+number Old New
+Japan BJFN-66-9C0* US spec.  
+with NAVI Mexico DRVP-66-9C0*7230C1A-NA03_
+*****7230C1A-NA03_
+10026
+Japan BJFP-66-9C0* US spec.  
+without 
+NAVIMexico DRVR-66-9C0*7230C5B-NA03_
+*****7230C5B-NA03_
+10026
+Japan BJFR-66-9C0* Mexico 
+spec.  
+with NAVIMexico DNBJ-66-9C0*7230C2A-NA03_
+*****7230C2A-NA03_
+10026
+Japan BJHF-66-9C0* Mexico 
+spec.  
+without 
+NAVIMexico DRVT-66-9C0*7230C6B-NA03_
+*****7230C6B-NA03_
+10026
+NOTE:  ***** is less than 10026.
+Page 1 of
+3
+02/19/2025 11:06 AM tlawrenc
+(Ver. 7230C**-NA03_10026) fixes these software errors (bugs):  
+• The CarPlay icon may not be displayed.  
+• Mazda Connect may not be operable.  
+• The speed limits guidance may be incorrectly displayed while using navigation.  
+• Traffic information in the SiriusXM® may not be updated.  
+• Iincorrect time may be displayed while synchronizing with GPS.  
+• Exit information may not be displayed while using navigation.  
+• Guidance message for Congestion Charge Zone may be spoken where not applicable.  
+ 
+(Ver. 7230C**-NA03_10022) fixes these software errors (bugs):  
+• The person on the line may hear low voice when using a Bluetooth ® connected smartphone and talking with handsfree 
+function on a vehicle with the standard amplifier and 6 speakers.  
+  
+(Ver. 7230C**-NA03_10008 [Mexico Built]) and (Ver. 7230C**-NA03_10006 [Japan Built]) fixes these software 
+errors (bugs):  
+• The Automatic 911 dialing function may not be available when using CarPlay and moved from the mobile device list 
+screen to the CarPlay screen.  
+  
+Trademarks
+iPhone and CarPlay are trademarks of Apple Inc., registered in the U.S. and other countries and regions.•
+Android and Android Auto are registered trademarks of Google LLC.•
+The Bluetooth ® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. •
+ Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Verify if MSP61 has been completed for the vehicle.
+If MSP61 is closed or not applicable, continue with this TSB.•
+If MSP61 is open, perform MSP61 with this latest software to close it.•
+3. Update MAZDA CONNECT with software version 7230C**-NA03_11026  or later with a USB memory stick using 
+the 7TH GEN MAZDA CONNECT Update Instructions.  
+CAUTION:  More than one software version can be placed on a memory stick, but Mazda recommends placing only one 
+version on a memory stick to avoid updating the system with the wrong version.  
+4. Verify the repair.  
+ NOTE: After the update, check DTC with the Mazda Modular Diagnostic System (M-MDS), using Mazda Diagnostic And 
+Repair Software (MDARS). If any or present, clear the DTC.
+Page 2 of
+3
+02/19/2025 11:06 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+If MSP61 is open, submit the claim using MSP61 warranty information.•
+If MSP61 is closed or not applicable, submit the claim using this TSB warranty information.•
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 64
+Damage Code 9W
+Part Number Main Cause 5555-RP-CMU
+Quantity 0
+Operation Number / Labor Hours: XXWN5XFX / 0.3 Hrs.
+ 
+Page 3 of
+3
+02/19/2025 11:06 AM tlawrenc

@@ -1,0 +1,56 @@
+Involved Region or
+Country North America
+Additional Options
+(RPO) UKL
+Condition Supercruise engages, but eventually the green bar on the
+steering wheel starts to ﬂash.
+ Supercruise then disengages with a message on the displa y
+that states "Supercruise Disengaging - Looking Awa y Too Long".
+ If the driver tries to engage supercruise again it ma y engage, or
+the problem ma y still be present through the k ey cycle.
+Cause  Anomaly in the Driver Monitoring Module System.
+Bulletin No.: PIT6229A
+Published date: 02/27/2025
+Preliminary Information
+PIT6229A Driver Monitoring - Supercruise Disengaging - Looking
+Away Too Long
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado EV RST 2024 - 2025 All AllAll All
+Chevr oletSilverado EV L T2025 All AllAll All
+GMC Sierra Denali EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+Engineering is currently investigating the issue, do not replace any parts at this time.
+Make sure the following are not a cause of this issue.
+Objects obstructing the camera's view of the driver ’s face.
+Steering column is positioned too high or low , obstructing the camera's view of the
+driver ’s face.
+See Service Information Super Cruise Description and Operation for Issues that are
+considered normal characteristics for “Looking Awa y Too Long message” and “Can’t see
+face clearly”.
+Labor Operation Description Labor Time
+* 2887928Diagnose "SuperCruise Disengaging -
+Looking Awa y Too Long"0.2 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 2
+Modiﬁed08/30/2024 - Created on.  
+02/27/2025 - Added Model Y ear 2025.Glare on the driver ’s face, more prevalent at dawn or dusk.
+Driver not focusing on the road ahead.
+Sun shining into the drivers monitoring camera.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

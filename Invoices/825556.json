@@ -1,0 +1,91 @@
+{
+  "document_type": "INVOICE",
+  "invoice_number": "825556",
+  "page_number": 1,
+  "dealer_information": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. La Brea Avenue Los Angeles CA 90036",
+    "phone": "(310) 274-5133",
+    "bar_reg_number": "ARD303078",
+    "epa_number": "CAL000470554"
+  },
+  "customer_information": {
+    "customer_number": "10012996",
+    "name": "NYREE HINTON",
+    "address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "home_phone": "732-979-6264",
+    "cell_phone": "732-979-6264"
+  },
+  "vehicle_information": {
+    "year": "20",
+    "make_model": "JAGUAR F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "tag": "T4466",
+    "mileage_in": 23915,
+    "mileage_out": 23915,
+    "options": "ENG:2.0_Liter_Supercharged"
+  },
+  "service_details": {
+    "service_advisor_id": "3391",
+    "service_advisor_name": "Danny Sanchez",
+    "ro_opened_date": "30SEP24",
+    "promised_date": "18NOV24",
+    "promised_time": "13:00",
+    "ready_date_time": "16:34 14NOV24",
+    "invoiced_date_time": "14:41 15NOV24",
+    "invoice_date": "15NOV24",
+    "payment_rate": 299.00,
+    "payment_type": "CASH"
+  },
+  "repair_items": [
+    {
+      "line_number": "A",
+      "op_code": "26",
+      "technician": "3259 REYES, ALVARO LIC#: 3259",
+      "type": "ISPJ",
+      "description": "CLIENT STATES LOW COOLANT WARNING LIGHT IS ON CLIENT REQUEST GOOD WILL BE SENT FOR REPAIRS VEHICLE WARRANTY EXPIRED 11/08/24 CLIENT ATTEMPTED TO BRING THE VEHICLE IN ON 11/07/24 BUT WAS UNABLE TO GET AN APPT UNTIL 11/18/24 CRC 8001315826 26 COOLING SYSTEM 23915 NO DIAG COMPLETED CLIENT ELECTED TO TAKE THE VEHICLE",
+      "parts_amount": 0.00,
+      "labor_amount": 0.00,
+      "other_amount": 0.00,
+      "total_line_amount": 0.00,
+      "notes": "N/C"
+    },
+    {
+      "line_number": "B",
+      "op_code": "TP",
+      "technician": "3259 REYES, ALVARO LIC#: 3259",
+      "type": "ISPJ",
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "parts_amount": 0.00,
+      "labor_amount": 0.00,
+      "other_amount": 0.00,
+      "total_line_amount": 0.00,
+      "notes": "N/C"
+    },
+    {
+      "line_number": "C",
+      "op_code": "99PJ",
+      "technician": "3259 REYES, ALVARO LIC#: 3259",
+      "type": "ISPJ",
+      "description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION",
+      "parts_amount": 0.00,
+      "labor_amount": 0.00,
+      "other_amount": 0.00,
+      "total_line_amount": 0.00,
+      "notes": "N/C"
+    }
+  ],
+  "summary_and_totals": {
+    "estimate_total": 299.00,
+    "estimate_date_time": "14NOV24 16:34",
+    "labor_amount": 0.00,
+    "parts_amount": 0.00,
+    "gas_oil_lube": 0.00,
+    "sublet_amount": 0.00,
+    "waste_disposal_costs": 0.00,
+    "total_charges": 0.00,
+    "less_insurance": 0.00,
+    "sales_tax": 0.00,
+    "please_pay_this_amount": 0.00
+  }
+}

@@ -1,0 +1,127 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-144
+Service BulletinDate: February, 2025
+TECHNICAL
+Service Door Latch, Power Windows, Door Locks and Outside Mirrors
+Inoperative, Unwanted Theft Alarm Activation, Random Messages Displayed on
+Driver Information Center (DIC), Water Leak
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission:
+from to from to
+GMCHUMMER EV P/UP 2022 2025
+       
+HUMMER EV SUV 2024 2025
+ 
+Involved Region or Country North America
+ConditionSome customers may comment on various Inoperative component issues resulting from
+pushing any of the buttons on the driver’s or passenger front door switch bank:
+• Power windows
+• Door locks
+• Outside mirror control
+Some customers may also report unwanted activation of the theft alarm system, or
+random messages on the DIC such as “service door latch.”Subject:
+Page 2 February, 2025 Bulletin No.: 22-NA-144
+Cause
+6103692
+Note: The image above depicts a close-up of a failed seal below the driver side (1) and
+passenger side (2) windshield area.
+This condition may be caused by the driver’s front door X500 in-line electrical connector
+and/or the passenger front door X600 in-line electrical connector, that may have corroded
+terminals due to a water leak entering inside the upper A-pillar through the panels not
+sealed properly.
+CorrectionOpen the X500 and X600 to inspect for corroded terminals. Perform a water leak test on
+suspected sheet metal area, reseal, and re-test for leaks.
+Repair and/or replace the X500 and/or X600 terminals as required.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+1. Open the driver or passenger side door.
+Bulletin No.: 22-NA-144 February, 2025 Page 3
+5599057
+2. Remove the bolt (1) that secures the doors check strap to the A-pillar.
+Page 4 February, 2025 Bulletin No.: 22-NA-144
+5793985
+3. Remove the X500 or X600 connector cover (1).
+4. Disconnect the electrical connector.
+5. Inspect the door side connector terminals for corrosion.
+6104518
+6. Utilizing a mirror or equivalent, inspect the A-pillar side connector terminals for corrosion.
+Bulletin No.: 22-NA-144 February, 2025 Page 5
+6103827
+Note: The graphics above are an example of what the corrosion may look like in the X500 connectors, X600 similar.
+• If corrosion is found at the door side connector (1) or the instrument side connector (2), continue to step 7.
+• If corrosion is not found on the connectors, refer to step 14.
+7. Remove the driver or passenger side door. Refer to Front Side Door Replacement .
+Note: Clean the terminals if at all possible. Only replace the terminals if corrosion has entered the wire.
+8. Clean or repair the terminals that only require attention. Refer to Connector Repairs .
+Page 6 February, 2025 Bulletin No.: 22-NA-144
+6103429
+9. From inside the vehicle, separate the instrument panel side wiring harness (3) from the A-pillar panel (4).
+10. Disconnect the instrument panel side electrical connector (2).
+11. Disconnect the electrical connector (1).
+12. Remove the A-pillar side X500 or X600 electrical connector.
+13. Clean or repair the terminals that only require attention. Refer to Connector Repairs .
+14. Remove the air inlet grille panel. Refer to Air Inlet Grille Panel Replacement .
+Bulletin No.: 22-NA-144 February, 2025 Page 7
+6103868
+15. Locate the seams where the A-pillar merge to the plenum panel and inner fender as indicated in the graphic
+above.
+Page 8 February, 2025 Bulletin No.: 22-NA-144
+6056039
+16. Wipe the surfaces with Kent Acrysol, P20005, or equivalent, to remove any residual sealer or urethane.
+6103840
+17. Apply a liberal amount of Kent® Quick Seal MSP Seam Sealer, or equivalent, to All the seams.
+Bulletin No.: 22-NA-144 February, 2025 Page 9
+6104524
+18. Apply a liberal amount of sealer to the seams at the A-pillar.
+19. Water test area to ensure the leak has been fixed.
+Page 10 February, 2025 Bulletin No.: 22-NA-144
+6103893
+20. Repeat the process for the passenger side panels.
+21. Install the air inlet grille panel. Refer to Air Inlet Grille Panel Replacement .
+22. Install the driver side door. Refer to Front Side Door Replacement .
+Parts Information
+Causal Part Description Part Number Material Allowance Qty
+N/AKent® Quick Seal MSP
+Seam Sealer KitP10200$12.50 USD
+$16.46 in Canada1
+N/AACDelco Dielectric
+Lubricant*12377900 (U.S.)
+10953529 (Canada)— 1
+Warranty Information
+Note: Only select the labor operation that coincides with the repair performed.
+Bulletin No.: 22-NA-144 February, 2025 Page 11
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONFor vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+1481658*X500 Terminal Testing/Inspection and Dielectric Lubricant
+Application and A-pillar Seal1.5 hr
+AddX600 Terminal Testing/Inspection and Dielectric Lubricant
+Application and A-pillar Seal1.5 hr
+Add Drivers Side Door Removal and Install 1.2 hr
+Add Passenger Side Door Removal and Install 1.2 hr
+Add X500 Terminal Cleaning and Repair** 0.5 hr
+Add X600 Terminal Cleaning and Repair** 0.5 hr
+*This is a unique Labor Operation for bulletin use only.
+**For additional repairs, use the labor operation associated with this bulletin. All parts and labor associated should be claimed on
+the same transaction, using OLH as necessary to cover the labor for repair/replacement of the subsequently damaged part(s).
+Version 5
+ModifiedReleased July 19, 2022
+Revised August 19, 2022 – Updated the VIN Breakpoint Information.
+Revised December 15, 2022 - Add Passenger Door Information and X600 Information to
+Cause, Correction, Service Procedure, and Parts Information sections.
+Revised March 01, 2024 - Add 2023 and 2024 Model Year, Added Passenger and X600
+to Service Procedure section.
+Revised February 20, 2025 - Added 2025 Model Year.

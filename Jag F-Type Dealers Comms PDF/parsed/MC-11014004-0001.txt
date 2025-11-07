@@ -1,0 +1,167 @@
+TECHNICAL SERVICE BULLETIN  
+ 
+PSW -WI-TFTSB004    Page | 1  
+Rev 0  
+SUBJECT   
+Rear Axle Shock Absorber Incorrectly Installed  Bulletin No.:  TFTSB004  
+Issue Date:  1/27/202 5 
+ 
+APPLICABLE MODELS/VINS  
+Model : MY 2024 TRE FCEV  
+VINs:  R2393001  thru S2393247  
+ 
+OVERVIEW  
+Certain TRE FCEV vehicles may have had rear axle shock absorbers incorrectly installed.  Reinstalling the shock absorbers correctly 
+will ensure proper vehicle performance.  
+ 
+PARTS REQUIRED  
+Part No.  Description  Qty.  
+N/A    
+COMMENTS  
+N/A  
+ 
+MATERIALS REQUIRED  
+Part No.  Description  Qty.  
+N/A    
+COMMENTS  
+N/A  
+ 
+LABOR INFORMATION  
+Labor Code  Labor Operation  Labor Time  
+05-500940100 E-Axle  Shock Absorber  0.4 hours  
+05-500950100 Tag Axle Shock Absorber  0.4 hours  
+Applicable Warranty 
+This repair is covered under the Nikola Tre FCEV New Vehicle Limited Warranty. This warranty is in effect for 24 months or 200,000 
+miles, whichever occurs first, from the vehicle’s in- service date.  
+Warranty application is limited to occurrence of the specified condition described in this bulletin.  
+COMMENTS  
+N/A  
+ 
+DISPOSITION INFORMATION  
+N/A  
+  
+Nikola
+Corporation
+—
+Proprietary
+&
+Confidential
+Printed
+copies
+of
+this
+document
+must
+be
+verified
+for
+current
+revision
+-
+Ref:PSW-WI-TFTSB004 Rev: 0, Printed: 2/7/2025 
+Page1of 4 
+TECHNICAL SERVICE BULLETIN  
+ 
+PSW -WI-TFTSB004    Page | 2  
+Rev 0  
+PROCEDURE    
+Preliminary Steps  
+1. Inspect all four rear axle shock absorber s for incorrect installation.  
+Note:  Incorrect installation is defined as the shock absorber’s protective tube located on the bottom and the reservoir tube on 
+top when installed.  See Figure 1. 
+ 
+ 
+Figure 1, Example of Shock Absorber Installed Incorrectly  
+2. If a shock absorber  is found to be installed incorrectly , continue to Removal and Reinstallation  on page  3. 
+3. If all shock absorber s are installed  correctly , the inspection is complete, and no further action is necessary.  
+  
+Nikola
+Corporation
+—
+Proprietary
+&
+Confidential
+Printed
+copies
+of
+this
+document
+must
+be
+verified
+for
+current
+revision
+-
+Ref:PSW-WI-TFTSB004 Rev: 0, Printed: 2/7/2025 
+Page2of 4 
+TECHNICAL SERVICE BULLETIN  
+ 
+PSW -WI-TFTSB004    Page | 3 
+Rev 0  
+PROCEDURE    
+Removal and Reinstallation  
+Note:  If a shock absorber  is found to be installed incorrectly, do the following procedure . See Figure 2 on page 4. 
+1. Remove the nut  (1) from the upper bolt ( 2). 
+2. Remove the upper bolt ( 2) from the shock absorber ( 5). 
+3. Remove the nut  (3) from the lower bolt ( 4). 
+4. Remove the lower bolt ( 4) from the shock absorber  (5). 
+5. Remove the shock absorber  (5) from the vehicle.  
+6. Position the shock absorber  (5) correctly into place on the vehicle.  
+7. Install the lower bolt ( 4) to the shock absorber ( 5). 
+8. Install the nut  (3) to the lower bolt ( 4). 
+9. Install the upper bolt ( 2) to the shock absorber  (5). 
+10. Install the nut  (1) to the upper bolt ( 2). 
+11. Use a torque wrench to torque the two nuts (1, 2) to 169 ± 15 lb-ft (230.0 ± 20.0 N·m ). 
+PROCEDURE IS COMPLETE 
+ 
+  
+Nikola
+Corporation
+—
+Proprietary
+&
+Confidential
+Printed
+copies
+of
+this
+document
+must
+be
+verified
+for
+current
+revision
+-
+Ref:PSW-WI-TFTSB004 Rev: 0, Printed: 2/7/2025 
+Page3of 4 
+TECHNICAL SERVICE BULLETIN  
+ 
+PSW -WI-TFTSB004    Page | 4 
+Rev 0  
+PROCEDURE    
+ 
+ 
+Figure 2, Rear Axle Shock Absorber Removal and Reinstallation  
+ 
+Nikola
+Corporation
+—
+Proprietary
+&
+Confidential
+Printed
+copies
+of
+this
+document
+must
+be
+verified
+for
+current
+revision
+-
+Ref:PSW-WI-TFTSB004 Rev: 0, Printed: 2/7/2025 
+Page4of 4 

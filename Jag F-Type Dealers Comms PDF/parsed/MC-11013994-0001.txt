@@ -1,0 +1,150 @@
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                     770.705.0600  News Channel Update | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+IMPORTANT SERVICE CAMPAIGN LAUNCH 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Please note that all customer inquiries should be directed to the Customer Care  Center at 1 -800-FOR-MERCEDES  (1-
+800-367-6372) . 
+ 
+Sincerely,  
+Gregory Gunther  
+Senior  Manager, Vehicle Compliance & Analysis 
+  TO: Mercedes -Benz Dealer Principals, General Managers, 
+Sales Managers, Service Managers, Parts Managers  FROM:  Gregory Gunther, Senior  Manager, Vehicle 
+Compliance and Analysis, Engineering Services  
+RE:   Service Campaign Launch Notification  
+Update Drivetrain Control Unit Software 
+MY16-19 E -Class  and S -Class  (213, 217, 222, 238 
+platform)  DATE:  February 7, 2025  
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                     770.705.0600  News Channel Update | 
+ Vehicle Compliance & Analysis  
+ 
+Service Campaign Launch  Notification  February 7, 2025  
+Campaign No. :  Campaign Desc. :       Update Drivetrain Control Unit Software  2025 010006  18P5496116  
+This is to notify you of the Service Campaign Launch to update the drivetrain control unit software  in 114,144 Model Year (“MY”) 
+2016-2019 E-Class and S -Class ( 213, 217, 222, 238  platform) vehicles.  The vehicles will be visible and flagged in VMI as “OPEN” 
+on February 7, 2025.  
+Background  
+Issue  Mercedes -Benz AG, the manufacturer of Mercedes -Benz  vehicles , has determined 
+that on certain MY 20 16-2019 E- Class (213 and 238 platform)  and S -Class (217 and 
+222 platform) vehicles, the drivetrain control unit software  does not correspond to 
+current  production  specifications. The drivetrain control unit will receive a software 
+update that improves vehicle diagnostics.  
+What We’re Doing  MBUSA will conduct a service campaign. An authorized Mercedes -Benz dealer will   
+update the drivetrain control unit software . 
+Parts The remedy  is available and can be performed as necessary.  
+Vehicles Affected  
+Vehicle Model Year(s)  2016-2019 
+Vehicle Model  E-Class and S -Class 
+Vehicle Populations  
+Total Campaign  Population  114,144  
+Next Steps/Notes  
+Customer Notification Timeline  Customer letters will not be mailed.    
+AOMS/SOMS  AOMs – This campaign may generate questions from your dealers.  
+While we regret any inconvenience this may cause, MBUSA is determined to maintain a high level of vehicle quality and custome r 
+satisfaction. Please refer all customer inquiries to the Customer Care  Center at 1 -800-FOR-MERCEDES.  
+ 
+ 
+ 
+ 
+February 2025  
+Rev. January 31, 2025   
+TO: ALL MERCEDES -BENZ CENTERS  
+ 
+CAMPAIGN N O. 202501000 6  
+CAMPAIGN DESC.  18P5496116  
+SUBJECT  Update Drivetrain Control Unit Software  
+MODEL(S)  E-Class and S -Class  (213, 238, 217 & 222  platform)  
+MODEL YEAR(S)  2016 – 2019 
+CAMPAIGN POPULATION  114,144   
+ 
+ 
+ 
+ 
+Campaign Technical Instructions  
+  
+ 
+Prior to performing this Campaign: 
+Check the Vehicle Master Inquiry (VMI) to verify this  campaign applies to the  specific vehicle.  
+Always check for other open campaigns and perform them accordingly ! 
+Review the entire campaign bulletin  first, and perform the procedures exactly as described.  
+ 
+Revision  Note(s):  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+Order No. P -SC-2025010006  
+
+Update Drivetrain Control Unit Software  2 
+Model(s): 213, 238, 217 & 222
+ 
+ 
+ 
+P-SC-2025010006  
+ 1  
+ 
+  
+• Always use the latest  XENTRY Diagnosis software release with all available add -ons. 
+ • Follow the operation steps exactly as described in XENTRY Diagnosis.  
+ • Use a charger to ensure sufficient power supply to the vehicle’s on-board electrical battery system 
+(greater than 12.5  V). 
+ • If XENTRY Diagnosis is already connected to the vehicle, start with Work Procedure Step 2 . 
+ 
+  
+If two or more software updates or SCN codings are performed during a single workshop visit, operation items 02-4762 and 02- 5058 may be invoiced only on one of the workshop orders . 
+ 
+ 
+Work Procedure  
+ 
+1. Connect XENTRY Diagnosis.  
+ 
+2. Update software of P owertrain (PTCU) control unit.  
+ To do this, select menu item "Quick test view → N127 - ''Powertrain'' control unit (PTCU) → Adaptations 
+→ Control unit update → Updat ing of the control unit software".  
+ Then follow the user guidance in XENTRY Diagnosis.  
+ 
+3.  Disconnect XENTRY Diagnosis.  
+ 
+ 
+ 
+Warranty Information  
+ 
+Note: The following allowable labor operation should be used when submitting a warranty claim for this repair : 
+ 
+Damage 
+Code  Operation 
+Number  Description  Labor Time 
+(hrs.)  
+54 961 16  02-9334  Update Powertrain  control unit (PTCU)  software  
+(with XENTRY Diagnosis connected)  0.1 
+02-4762*  Connect/disconnect diagnosis system  
+(XENTRY Diagnosis)  0.1 
+02-5058*  Connect/disconnect starter battery charger  
+(with XENTRY Diagnosis connected)  0.1 
+ 
+* Invoice operation item only once for each workshop order.  
+ 
+Note: Always check Xentry Operation Time (XOT) for the current OP -Code times. Labor times are subject to change 
+and updates may not be reflected in this document.  

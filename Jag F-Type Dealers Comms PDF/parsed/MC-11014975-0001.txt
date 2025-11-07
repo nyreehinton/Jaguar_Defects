@@ -1,0 +1,85 @@
+Less Info
+Countries: CANADA, UNITED STATESDocument ID:IK2501987
+Availability: ISIS, NotSIR Revision: 2
+Major System: UPTIME Created: 7/2/2024
+Current Language:English Last Modified:2/20/2025
+Other Languages:NONE Author: Mujtaba Aidroos
+Viewed: 168
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 2
+ 0
+Title: Missing ground for XVIEW mirror light
+Applies To: Vehicles Marked In Service Portal
+DESCRIPTION
+ 
+This document will guide the user through splicing existing wire on the right side jumper (U07-010-CGA) to the existing ground on the jump from the Forward Chassis Harness (U07-
+010-AXA).
+ 
+SYMPTOMS
+DTC/Light Description
+ N/A  N/A
+ 
+ 
+SPECIAL TOOLS / SOFTWARE
+ 
+Tool Description Tool Number Comments  Instructions
+ N/A N/A  N/A  N/A
+   
+ 
+SERVICE PARTS INFORMATION
+ 
+Kit Description Part NumberQty.
+RequiredNotes 
+N/A    
+    
+ 
+ 
+DIAGNOSTIC STEPS
+N/A 
+ 
+REPAIR STEPS
+1. Bring vehicle into shop and park on a flat surface
+ 
+2. Shift transmission into park or neutral, set parking brake and install wheel chocks
+ 
+3. Please update cicuit to the "UPDATE TO" using the schematic below
+ 
+NOTE: Both the Driver Side and the Passenger Side should be inspected and updated based on
+the diagram below . 
+ 
+4. When checking functionality , be sure the headlights are on, and the stop arm is extended
+5. Remove wheel chocks
+ 
+6. Return vehicle back to service 
+ 
+ 
+WARRANTY INFORMATION
+ 
+Repair SRT  Hrs
+Hide Details Feedback Information
+Viewed: 167
+Helpful: 2
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc. REWORK GROUND IN HARNESS  A40-24A31-1  0.4
+ 
+ADMINISTRATIVE PROCEDURE
+Expense is to be charged to Warranty. Claims are to be submitted in the normal manner, making reference to Proactive Field Change Number.
+It is important that the coding be completed properly to assist in processing the warranty claim. Complete instructions will be found in the Warranty Policy Manual, Section 10.
+As with all claim submissions, items acquired locally must be submitted in the Other Charges tab. The cost of any bulk items (such as a bag of cable tie straps, roll of wire, barrel of oil,
+or tube of silicone) should be prorated for the cost of the individual pieces / amount used during each repair.
+Sales Policy repairs have a 10% markup on parts
+ 
+To ensure this important improvement is made in a timely manner, all claims for this Proactive Field Change Number must be submitted within 12 months from the release of this
+document or within the normal warranty period for the vehicle, if after 12 months from the release date
+ 
+ 
+ 
+If a feedback case is required, please select feedback type as 600/MRC/FSC and case type as feedback.
+This will ensure the case file goes to the correct correspondents
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 

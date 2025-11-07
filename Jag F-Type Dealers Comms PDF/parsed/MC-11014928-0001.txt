@@ -1,0 +1,237 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+Technical Service Bulletin  GROUP  NUMBER  
+CAMPAIGN  25-01-018H 
+DATE  MODEL (S) 
+FEBRUARY  2025 SEE BELOW  
+SUBJECT:  DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET  
+(SERVICE CAMPAIGN 9C0) 
+This TSB supersedes 25-BE-003H to update  the TSB to a Service Campaign, to add IONIQ 5 
+(NEA EV) models to Applicable Vehicles,  to add an Initial Verification of Connect ion section , 
+and to update Warranty information  on page 2 . 
+ 
+ 
+Description:  Some vehicles may exhibit a loss of connectivity or interruptions in the middle of using  
+Bluelink  functions. This may be due to an occasional disconnection on Verizon’s  communication 
+network. Follow the procedures in this bulletin to verify Bluelink Data Communication Unit (DCU) 
+network connection and if needed, reset the DCU in Dealer Mode to resolve the connection.  
+ 
+ 
+Applicable Vehicles  (Certain) : 
+• 2025MY IONIQ 5 (NEA EV) (VIN starts with 7YA)  
+• 2025MY IONIQ 5 N (NE EV N)  
+• 2024 - 2025MY Kona  (SX2)  
+• 2024 - 2025MY Kona  Electric  (SX2 EV )  
+• 2025MY Santa Cruz (NXT)  
+• 2024 -2025MY Santa Fe (MX5 A) 
+• 2024 -2025MY Santa Fe Hybrid  (MX5 A HEV) 
+• 2024-2025MY  Sonata (DN8)  
+• 2024 -2025MY Sonata  Hybrid  (DN8 HEV)   
+• 2025MY Tucson (NX4/NX4A/NX4M)  
+• 2025MY Tucson Hybrid  (NX4  HEV) 
+• 2025MY Tucson PHEV (NX4  PHEV ) 
+ 
+ 
+ 
+NOTE:  Modem Network Reset via ccNC & ccNC  Lite Head Unit Operation  
+  
+ 
+Dealers must perform this service campaign on all affected vehicles prior to customer retail delivery 
+and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ 
+Access the “Vehicle Information” screen via WebDCS to identify open campaigns.  
+ IMPORTANT  
+Any affected IONIQ vehicles must have repairs  performed at IONIQ certified dealers to avoid any 
+potential damage.  
+NOTICE  
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 2 of 7 
+ SUBJECT:  
+SUBJECT:  Warranty Information:   
+Model  Op. Code  Operation  Op. 
+Time  Causal  Part Nature 
+Code  Cause 
+Code  
+IONIQ 5  
+(NEA EV)    50D052R0  Initial Verification 
+of Connection  0.2 
+M/H NTF00 -00000  M73 ZZ3 
+IONIQ 5 N  
+(NE EV N)  
+50D052R1  Rese tting the 
+DCU Network in 
+Dealer Mode  
++ 
+Verification of 
+Connection After 
+Resetting DCU  0.3 
+M/H NTF00 -00000  M73 ZZ3 Kona (SX2)   
+Kona Electric  
+(SX2 EV)  
+Santa Cruz (NXT)  
+Santa Fe (MX5 A) 
+Santa Fe Hybrid  
+(MX5 A HEV ) 
+Sonata (DN8)  
+Sonata Hybrid  
+(DN8 HEV)  
+Tucson  
+(NX4 /NX4A /NX4M ) 
+Tucson Hybrid   
+(NX4  HEV) 
+Tucson  Plug-in 
+Hybrid  (NX4  PHEV ) 
+NOTE 1: Submit claim on Claim Entry Screen as “Campaign” type.  
+NOTE 2: If a part is found in need of replacement while performing this campaign and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwi ll consideration prior to performing the 
+work.  
+ 
+  
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 3 of 7 
+ SUBJECT:  
+SUBJECT:  Service Procedure:   
+Initial Verification of Connection  
+1.  Turn ON the ignition (A).   
+ 
+ 
+ 
+2. Select Setup  (B)  
+ 
+3. Select Bluelink  (C).  
+  
+ 
+A 
+B 
+C 
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 4 of 7 
+ SUBJECT:  
+SUBJECT:  4. Select Activate  (D) or Reconfigure  (E) to 
+activate Bluelink.   
+ 
+ 
+ 
+ 
+ 
+5. Verify Bluelink activation success:  
+• Select OK (F) if Bluelink is activated.  
+ 
+ 
+6. If the message “ Bluelink has been activated ” 
+is shown, submit with Op Code 50D052R0 . 
+The service procedure is complete.  
+ 
+If NOT , proceed with Resetting the DCU 
+Network  on the next page.   
+A loading screen will appear while 
+Bluelink activation is in progress.  
+   Information  
+  i 
+F 
+D 
+E 
+
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 5 of 7 
+ SUBJECT:  
+SUBJECT:  Resetting the DCU Network  
+1.  Turn ON the ignition (A).   
+ 
+ 
+ 
+2. Select Setup  (B). 
+ 
+Select General  (C).   
+ 
+ 
+3. Perform the following steps with the radio FM 
+mode ON:  
+1. Set the volume to 7.  
+2. Tap once on the designated area (D).  
+3. Set the volume to 3. 
+4. Tap once  on the designated area ( D). 
+5. Set the volume to 1. 
+6. Tap once on the designated area ( D).  
+4. Enter 2400  as the password  then select 
+OK (E) to enter Dealer Mode .  
+ 
+ 
+ 
+Password 2400  applies to all models.  
+   Information  
+  i 
+A 
+B 
+C 
+D 
+E 
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 6 of 7 
+ SUBJECT:  
+SUBJECT:  5. Select Connected Car Service  (F).  
+ 
+6. Select Reset Network  (G) and wait  
+30 seconds . 
+ 
+  
+7. Exit Dealer Mode  by selecting the Home   
+icon (H).   
+ 
+8. Select Setup  (I).  
+ 
+9. Select Bluelink  (J).  
+ 
+Proceed with Verification of Connection 
+After Resetting DCU in the next section.  
+ 
+ 
+After selecting Reset Network you will 
+NOT  see any confirmation . The module 
+will reset in the background and will not 
+show any status on the screen.  
+   Information  
+  i 
+F 
+H 
+G 
+I 
+J 
+DCU (MODEM) NETWORK INSPECTION AND BLUELINK RESET (SERVICE CAMPAIGN 9C0) 
+  
+TSB #: 25-01-018H Page 7 of 7 
+ SUBJECT:  
+SUBJECT:  Verification of Connection After Resetting DCU  
+1. Select Activate  (A) or Reconfigure  (B) to 
+activate Bluelink.   
+ 
+ 
+ 
+ 
+ 
+2. Verify Bluelink activation success:  
+• Select OK (C) if Bluelink is activated.  
+ 
+  
+3. The service procedure is now complete.  
+ 
+  
+ 
+A loading screen will appear while 
+Bluelink activation is in progress.  
+   Information  
+  i 
+If the DCU does NOT  reset and Bluelink 
+does NOT  show activated, please contact 
+Techline.  
+   Information  
+  i 
+C 
+A 
+B 

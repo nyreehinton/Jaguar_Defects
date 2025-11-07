@@ -1,0 +1,107 @@
+Involved Region or
+CountryNorth America and Canada
+Additional Options
+(RPO)X0C X0B X0E K28 K2O
+ConditionEngineering is currently investigating causes for P0D22
+that may not be related to hardware failures with the
+T18 Battery Charger . 
+The PI will be updated or replace with a TSB once a
+determination has been made. 
+The concerns under investigation at this time happen
+speciﬁcally when charging using level 2 charge
+equipment. 
+Aﬀected vehicles ma y experience a MIL with P0D22 set
+as current or history at the time the vehicle is being
+diagnosed.
+The customer ma y also notice the vehicle fails to
+charge, the MIL comes on after a charge event has
+concluded or once the T arget Charge Level (TCL) has
+been reached.
+ 
+CauseThe cause of these conditions ma y be related to
+software anomalies. 
+Bulletin No.: PIP6048
+Published date: 02/27/2025
+Preliminary Information
+PIP6048 P0D22- Possible Software Anomalies on BEV3 Vehicles and
+Diagnostic Information
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac LYRIQ 2023 - 2025 All AllN/A X0E
+Cadillac Optiq 2025 - 2025 All AllN/A X0C
+Chevr oletBlazer EV 2024 - 2025 All AllN/A X0C X0B X0E
+Chevr oletEquino x EV 2024 - 2025 All AllN/A X0C X0B
+ 
+ 
+ 
+ 
+Correction:  
+If an aﬀected vehicle presents with this DTC or these symptoms, reprogram the
+K16 Battery Energy Control Module (BECM). 
+If one of these conditions persists after reprogramming, the condition was not
+corrected by the suspected software concern in the BECM engineering is
+investigating.
+Follow SI Diagnostic procedures for the DTC or symptom that remains after
+reprogramming and repair the vehicle according to SI. 
+P0D22 Diagnostic Information
+While the possible software concerns under investigation occur with level 2
+charging only , here is some other information that ma y be useful during P0D22
+troubleshooting and testing.
+ 
+General Diagnostic Information
+P0D22 sets when diﬀerence between the AC Input Current and the
+commanded current value from the battery energy control module is
+greater than 4 A for 10 seconds. 
+P0D22 diagnostics can run while level 1 charging (110 V AC) or level 2
+charging (240 V AC)
+P0D22 diagnostics do not run when DC fast charging.
+P0D22 diagnostics can also run while the charger is being used in "W all
+power" mode.
+ 
+Level 1 and 2 AC Charging Diagnostic Information
+When the vehicle is connected to any form of EVSE (Electric V ehicle Supply
+Equipment) that provides level 1 or level 2 charging for the HV battery ,
+diagnostics for P0D22 can run if the conditions for running the DTC in SI
+are met. 
+Usually level 1 chargers are connected to a 110 V AC outlet. (example: an
+outlet you would use to charge your phone)
+Usually level 2 chargers are connected to a 240 V AC outlet. (example: an
+outlet you would use to plug in an oven or dryer)
+Both types of AC chargers can be portable or built-in.
+When portable, there is usually a swappable plug that allows the
+equipment to change between level 1 and level 2 charging. 
+Most consumer level charge equipment that is permanently installed is a
+level 2 charger
+ 
+"Wall power" Diagnostic Information
+When a vehicle is plugged into a wall charger but does not require HV
+battery charging, the energy from the wall charger can be used to support
+certain vehicle systems lik e the HV AC, battery pack heater , etc.
+This is done to increase occupant comfort and vehicle readiness without
+depleting EV range. 
+Note- If a customer experiences this failure, they will usually report
+that the MIL is on after charging the vehicle for an extended period,
+but the State of Charge (SOC) matches what they have programmed
+for their TCL.
+ 
+If you wish to mak e a charger operate in this wa y for testing or diagnostics, you
+can perform these steps:
+1. Check the HV battery SOC percentage on the vehicle
+2. Make note of its current level.
+3. Using the infotainment displa y (see the vehicle owners manual) set the TCL
+to a level below your current SOC. 
+Version 1
+Modiﬁed 02/27/2025 - Created on.Labor Operation Description Labor Time
+4089488* P0D22 K16 BECM Re-programming w/SPS2 0.4Hr .
+*This is a unique Labor Operation for Bulletin use only .4. After selecting a TCL lower than your SOC, leave the vehicle plugged in for
+an extended period of time on an AC charger based on the customers
+description and see if the fault resets. 
+Warranty Information
+For vehicles repaired under the EV coverage, use the following labor operation. Reference
+the Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

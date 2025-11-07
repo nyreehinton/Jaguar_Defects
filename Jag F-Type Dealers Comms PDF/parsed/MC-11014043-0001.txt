@@ -1,0 +1,51 @@
+Involved Region
+or CountryNorth America
+Condition
+Waves, wrinkles or ripples ma y be seen in the ﬁnish of the
+charge port door . 
+This ma y also appear to be discoloration of the paint or indents
+in the paint.  
+ 
+ 
+Bulletin No.: PIT6330
+Published date: 02/3/2025
+Preliminary Information
+PIT6330 Waves - Wrinkles or Ripples in Charge Port Door Finish
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac OPTIQ 2025 All AllAll All
+CauseWater trapped in the clear coat of the paint under the wrap
+that is applied to vehicle to protect ﬁnish during transport.
+Version 1
+Modiﬁed 02/03/2025 - Created on. 
+ 
+ 
+Correction:  
+It is advisable to remove the protective wrap as soon as possible after the vehicle is delivered. 
+The vehicle should be placed inside and allowed to reach room temperature before removal. 
+Once the wrap is removed if the vehicle is parked in the sun the marks will normally disappear
+within 2-3 hours. 
+After removing the dirt from the area, application of 91% Isopropyl alcohol will assist in
+drawing out the moisture.  
+If it is not possible to park the vehicle in the sun or the marks have not cleared up a heat lamp
+or heat gun can be used. 
+Place a halogen heat lamp near the area to draw the moisture out. LED lamps will not produce
+enough heat. 
+If using a heat gun take care not to overheat the area, hold the heat gun about 3" from the
+surface and use a circular motion over the aﬀected area until the marks are gone. 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Labor
+OperationDescriptionLabor
+Time
+* 5086098Remove Waves, W rinkles or Ripples in Charge Port Door
+Finish0.3 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

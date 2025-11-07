@@ -1,0 +1,1161 @@
+ 
+ 
+BULLETIN NOTES
+This Service Alert supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-064/24 09/23/24
+ 
+APPLICABLE MODEL(S)/VINS
+2019-2025 Mazda3 2021-2023 CX-9 2024-2025 CX-90 2025 CX-50 Hybrid
+2020-2025 CX-30 2022-2023 MX-30 2024- 2025 MX-5  
+2021-2025 CX-5 2023-2025 CX-50 2025 CX-70  
+ 
+ 
+DESCRIPTION
+Some customers may experience a Connected Vehicle failure. The MyMazda App may display an Error Code. This 
+document provides Error Code description and recovery information to assist with repairs.  
+ 
+Index
+System Structure Outline•
+MYMAZDA App Connected Vehicle (CV) Error Codes•
+Vehicle Confirmation Instructions•
+Troubleshooting Instructions•
+Resources•
+ 
+System Structure Outline
+Page 1 of
+40
+02/19/2025 11:03 AM tlawrenc
+Main Function
+A - MyMazda App
+User interface about operation / information•
+(1) - Data
+Communication through customer network•
+B - System Center
+User / Contract information management system operation•
+C - Local Carrier
+Communication network provider•
+Data, SMS and Voice•
+D - Vehicle
+System operation based on order by Telecommunication Module (TCU)•
+TCU with SIM, works like smartphone•
+E - Service Provider (Canada)
+Additional service provider•
+Workflow Outline
+Page 2 of
+40
+02/19/2025 11:03 AM tlawrenc
+>Remote control function  
+(engine start, door lock, EV A/C, 
+location confirmation, ...)
+A - MyMazda App
+(1) - Request  
+(2) - Operation result
+B - System Center
+C - Local Carrier
+D - Vehicle Operation
+E - Service Provider (Canada)
+>Notification function  
+(door unlock, EV charging status, 
+burglar-alarm, ...)
+A - MyMazda App
+(1) - Detected information  
+B - System Center
+C - Local Carrier
+D - Vehicle Detection
+E - Service Provider (Canada)
+Page 3 of
+40
+02/19/2025 11:03 AM tlawrenc
+Private e-call  
+Canada only  
+ 
+>Connection to 3rd party service  
+(Private e-call, ...)
+A - MyMazda App
+(1) - Call  
+(2) - Response  
+B - System Center
+C - Local Carrier
+D - Vehicle Operation
+E - Service Provider (Canada)
+ 
+ 
+MYMAZDA App Connected Vehicle (CV) Error Codes  
+ 
+Index
+Error Codes
+200S00 400S04 400S15 401C00
+400C00 400S05 400S16 403C00
+400C01 400S06 400S17 409C00
+400C02 400S07 400S18 500C00
+400C03 400S08 400S19 500C01
+400C04 400S09 400S20 500C02
+400C05 400S10 400S21 500C03
+400C06 400S11 400S22 500C06
+400S00 400S12 400S23 500C07
+400S01 400S13 400S24 E401005
+400S03 400S14 400S25 E900500
+Error Messages
+Internal Usher SDK error
+Multiple devices detected
+Page 4 of
+40
+02/19/2025 11:03 AM tlawrenc
+Enrollment in Progress
+Vehicle Confirmation Instructions
+ 
+Description The request was completed successfully [200S00]
+Customer No action needed 200S00
+Dealer No action needed
+DescriptionThis occurs when the customer's input information contains an invalid value 
+or a required value does not exist.
+MyMazda App Message Please check the input and try again. [400C00]
+Process Flow
+CustomerConfirm input data (ex. input alphabet into 
+the area which is required number)  
+Check that there are no blanks in required 
+input fields.400C00
+Confirmation/Recovery
+DealerIf there are no abnormalities in the input 
+values, there may be a problem with the 
+system center -> Go to " Troubleshooting 
+Instructions ".
+DescriptionIt occurs when customer's input contains invalid value or there is blank at 
+required items.
+MyMazda App MessagePlease check the input and try again. (400C01)
+400C01
+Page 5 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerWait several minutes and try again.  
+Review the input data and try again.
+Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description It occurs when the request (date information) is incorrect.
+MyMazda App Message Please check the date input and try again. [400C02]
+Process Flow
+Customer Review the input data and try again.400C02
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description This occurs when the customer's input information contains invalid values.
+MyMazda App Message Please check the input and try again. [400C03]400C03
+Page 6 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerReview the input data and try again.
+Wait about 5 minutes and try the operation 
+again.Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis occurs when there is no data matching the conditions in the process of 
+checking the vehicle status using services such as Remote Control or 
+Vehicle Status.  
+Main factors;
+When adding VIN or searching from MCVV, a VIN that was not 
+registered at the center was specified due to a VIN input error.•
+Files are not uploaded from the onboard device (time lag in ofn files, 
+etc.).•
+MyMazda App Message Please check the input and try again. [400C04]
+Process Flow
+Wait about 5 minutes and try the operation 
+again.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  400C04
+Confirmation/Recovery Customer
+Page 7 of
+40
+02/19/2025 11:03 AM tlawrenc
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Dealer Go to Vehicle Confirmation Instructions .
+DescriptionOccurs when there is no data matching the conditions during processing (ex. 
+inbox update process)
+MyMazda App Message Please check the input and try again. [400C05]
+Process Flow
+Customer Review the input data and try again.400C05
+Confirmation/RecoveryDealerIf there are no abnormalities in the input 
+values, there may be a problem with the 
+system center -> Go to " Troubleshooting 
+Instructions ".
+DescriptionOccurs due to a processing error at the system center (call processing 
+error).
+MyMazda App MessagePlease check the input and try again. (400C06)  
+400C06
+Page 8 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerReview the input data and try again.  
+Wait about 5 minutes and try the operation 
+again.
+Confirmation/Recovery
+DealerIf there are no abnormalities in the input 
+values, there may be a problem with the 
+system center -> Go to " Troubleshooting 
+Instructions ".
+DescriptionThis occurs because "Cancel" was selected in response to a push 
+notification for an approval request.
+MyMazda App MessagePlease wait for a while and try again. If the error error continues, please 
+contact the call center. [400S00]
+Process Flow
+Customer Retry the operation again.400S00
+Confirmation/RecoveryDealerThis is a system error and may or may not 
+be resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when the next remote operation is performed before the previous 
+remote operation request has completed.  
+In addition, it occurs in the following cases;
+All steps were not completed when replacing the TCU, and keys 
+could not be exchanged.400S01
+Page 9 of
+40
+02/19/2025 11:03 AM tlawrenc
+MyMazda App MessageRemote operation is in progress. Please wait for a while and try again. 
+(400S01)  
+ 
+Only one remote request can be completed per 60-second period.
+Cause Multiple execution of remote control.
+Process Flow
+CustomerWait for a response to the previous request, 
+or wait 5 minutes and try again.  
+Make sure that the vehicle keys are not left 
+inside the vehicle. → If it remains, it cannot 
+be executed.  
+Check to see if any operations, such as 
+opening a door, are being performed 
+between the time the operation is performed 
+and the response is received from the 
+vehicle. → Cannot be executed if there is an 
+operation.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Confirmation/Recovery
+Page 10 of
+40
+02/19/2025 11:03 AM tlawrenc
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionThis occurs when the data in question does not exist, has already been 
+deleted, or the input data is incorrect when deleting a user.
+MyMazda App MessageTarget data is not available. This data has already been deleted or is 
+incorrect. [400S03]
+CauseBecause there are cases where conditions are not met, and where even if 
+conditions are met, it may be deleted depending on the timing of processing.
+Process Flow
+Customer Review the input data and try again.400S03
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when a remote engine stop request is made when the vehicle is in 
+one of the following conditions;
+Remote engine start is not requested•
+Remote engine start is requested, but the engine is stopped•
+Main factors;
+The signal condition at the parking place is poor.•
+Necessary information is not properly transmitted from the vehicle to 
+the center.•
+MyMazda App MessageA remote engine stop request cannot be executed unless the vehicle was 
+started with a remote engine start request. [400S04]
+CauseUser sent Remote Engine Stop request when in either of following status
+Having no request history of Remote Engine Start•
+Having a request of Remote Engine Start, but its engine was stopped 
+then.•400S04
+Page 11 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerCheck if remote engine start has 
+been requested•
+Check the vehicle and make sure the 
+engine is started•
+Turn on IG-on, check the reception 
+strength icon at the bottom right of 
+the center display.  
+ 
+If the reception is poor, the function 
+cannot be executed.  
+•
+Confirmation/Recovery
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionIt occurs when the remote door unlock cannot be executed because the 
+previous request is being processed.
+MyMazda App MessageRemote operation is in progress. Please wait for a while and try again. 
+[400S05]
+Cause Multiple execution of remote control.
+Process Flow
+400S05
+Page 12 of
+40
+02/19/2025 11:03 AM tlawrenc
+CustomerWait for a response to the previous 
+request, or wait about 5 minutes 
+before attempting the operation 
+again.•
+Turn on IG-on, check the reception 
+strength icon at the bottom right of 
+the center display.  
+ 
+If the reception is poor, the function 
+cannot be executed.  
+•
+If the information file cannot be sent 
+to the system center when IG-off, the 
+vehicle status may not be updated.•Confirmation/Recovery
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionThis occurs when location information cannot be obtained when logging in, 
+performing a service that obtains location information, such as displaying a 
+map or Vehicle Finder.    
+Main factorsThe signal condition at the parking place is poor.
+MyMazda App Message The location data is not available. [400S06]
+CauseThe signal condition at the parking place is poor.  
+Occurs in the case of specific conditions of in-vehicle data.
+Process Flow
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  400S06
+Confirmation/Recovery Customer
+Page 13 of
+40
+02/19/2025 11:03 AM tlawrenc
+Dealer Follow the Vehicle Confirmation Instructions .
+Description It occurs if code generation for authentication is locked temporally.
+MyMazda App Message N/A
+Cause Passcode generation is temporarily locked.
+Process Flow
+Customer Wait at least 60 minutes and try again.400S07
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis occurs when the OTP expiration time (10 minutes) has expired.    
+*OTP = one time passcode
+MyMazda App Message N/A
+Process Flow
+Customer Resend a new verification code.400S08
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description This occurs when the one-time passwords entered does not match.
+MyMazda App Message Please check the verification code and try again. [400S09]400S09
+Page 14 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerReview the input data and try again.  
+Wait about 5 minutes and try the operation 
+again.Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis occurs when the input OTP has already been accepted.
+ OTP = one time passcode
+MyMazda App Message N/A
+Process Flow
+Customer Resend a new verification code400S10
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when a request is executed exceeding the limit for consecutive 
+executions of remote control engine start (2 times).      
+Main factors;
+Vehicle location information and mileage information are not updating 
+properly, and the number of executions is not updated.•
+Necessary information cannot be sent from the vehicle to the center•
+Remote Engine Start can only be executed two consecutive times in a row. 400S11
+MyMazda App Message
+Page 15 of
+40
+02/19/2025 11:03 AM tlawrenc
+(400S11)  
+ 
+If Remote Engine Start is used, the engine will stop running automatically 
+after 15 minutes for safety, security and emissions.  
+Remote Engine Start can only be used 2 consecutive times while the vehicle 
+is not driven.  
+After the vehicle has been driven, the use count is reset.
+Cause Exceeded the number of times the remote engine start.
+Process Flow
+Check whether the request operation has 
+been performed more than 3 times.  
+Check whether the following conditions 
+(required conditions for execution) are met.
+The vehicle has stopped after driving 
+for more than 100 meters.•
+24 hours have passed since the last 
+execution•
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display. 
+ Confirmation/Recovery Customer
+Page 16 of
+40
+02/19/2025 11:03 AM tlawrenc
+  
+If the reception is poor, the function cannot 
+be executed.  
+  
+If the information file cannot be sent to the 
+center when IG-off, the vehicle status may 
+not be updated.
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionThis occurs when a request is accepted again during the contract/
+cancellation process for a connected service.
+MyMazda App Message"The enrollment process may take a few minutes. Once it is completed, you 
+will be notified in the MyMazda app.  
+Thank you for your patience. [400S12]"
+Cause Enrollment request is being processed.
+Process Flow
+CustomerWait a few hours (up to 24 hours) and after 
+receiving a push notification that OTP 
+display is possible, execute the OTP request 
+again.  
+Processing is only performed between 6:00 
+a.m. and 10:00 p.m. Eastern time, so it may 
+take more than 24 hours.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Follow the Vehicle Confirmation Instructions . 400S12
+Confirmation/Recovery
+Dealer
+Page 17 of
+40
+02/19/2025 11:03 AM tlawrenc
+What happens when you open the 
+Communication Line Status screen on 
+MCVV and search for the target VIN;
+→ "Status" = "Open Requested" or 
+"Open Flag Setting Requested"  
+"Status Detail" = "Processing"  
+The service contract process is 
+proceeding normally. Wait for the 
+push notification to proceed.  
+          
+"Status" = "Close Requested"  
+"Status Detail" = "Processing"  
+In this case, the cancellation process 
+is in progress, so you will need to 
+wait several hours (up to 12 hours).  
+After that, check that "Status Detail" = 
+"Close Completed" for the target VIN 
+on MCVV and perform the 
+cancellation process again.  
+          
+"Status" = "Open Requested"  
+"Status Detail" = "Request failed" or 
+"Open failed"  
+In this case, the line opening request 
+has failed → Go to " Troubleshooting 
+Instructions ".  
+          
+"Status" = "Open Requested"  
+"Status Detail" = "Request failed" or 
+"Flag setting failed"  
+In this case, the request to start using 
+the service has failed → Go to " 
+Troubleshooting Instructions ".  
+          
+"Status" = "Close Requested"  
+"Status Detail" = "Request failed" or 
+"Close failed"  
+In this case, the line blockage 
+request has failed → Go to " 
+Troubleshooting Instructions ".
+          
+*Please note that if you perform TCU 
+exchange when "Status" is in a state other 
+than "Opened" or "Closed", contract 
+execution processing will not be possible.
+DescriptionThis occurs when a contract (agreement to terms) request is accepted when 
+a connected service contract is already in place.
+MyMazda App MessageYour connected services enrollment is complete. If you still see the 
+"ENROLL" button, please logout of the app and login again. [400S13]400S13
+Page 18 of
+40
+02/19/2025 11:03 AM tlawrenc
+Cause Enrollment processing has already been completed.
+Process Flow
+CustomerIf the "ENROLL" button continues to be 
+displayed, sign out and log in again.
+Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center. -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis occurs when either the date of initial registration or the vehicle 
+registration number cannot be obtained.
+Cause Registration of vehicle information is incomplete.
+Process Flow
+Customer ---400S14
+Confirmation/RecoveryDealerIt is suspected data registration problem at 
+system center. -> Go to " Troubleshooting 
+Instructions ".
+DescriptionThis occurs when the next contract cannot be processed because the 
+cancellation process is in progress.
+MyMazda App MessageWe are processing your request and it may take up to 5 minutes. You will be 
+notified within the app once it is complete. If you do not see a confirmation 
+message, please contact the call center. [400S15]
+Cause Unsubscribe request is being processed.400S15
+Page 19 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+Customer ---
+Confirmation/RecoveryDealerRecovery work is required at the system 
+center. -> Go to " Troubleshooting 
+Instructions ".
+DescriptionOccurs when remote control operation is performed while battery power 
+consumption is exceeding (power saving mode).      
+Main factors
+12V battery is weak or insufficiently charged•
+The necessary information file cannot be sent from the vehicle to the 
+system center.•
+MyMazda App MessageRemote control request cannot be executed because the vehicle's battery is 
+too low.  Please start your vehicle to charge the battery and try it again. 
+ [400S16]
+CauseBecause of power saving mode.  
+12V battery discharged.
+Process Flow
+Run the engine for more than 5 minutes or 
+start the EV system to charge the 12V 
+battery.Turn on IG-on, check the reception 
+strength icon at the bottom right of the 
+center display.  400S16
+Confirmation/Recovery Customer
+Page 20 of
+40
+02/19/2025 11:03 AM tlawrenc
+  
+If the reception is poor, the function cannot 
+be executed.  
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionThis issue occurs when performing Add VIN on a vehicle that does not have 
+a connected contract (occurs only for destinations that do not have a 
+function that supports vehicle identification).
+MyMazda App Message N/A
+Cause Target vehicle is not eligible for CV service
+Process Flow
+CustomerConfirm the status of connected service 
+contract400S17
+Confirmation/Recovery
+DealerConfirm the status of connected service 
+contract by MCVV
+If service activated is confirmed, it is 
+suspected that registered information 
+is incorrect. -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when updating the geofence settings and the previous settings 
+request is still in progress.
+MyMazda App MessageIgnition On Setting / Guest Driver Alert is in progress. Please try again 
+shortly. [400S18]
+Cause IG-ON notification settings/geofence settings are in progress.400S18
+Page 21 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerPerform IG-on operation on the vehicle 
+(complete the previous setting execution 
+process).  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Confirmation/Recovery
+Dealer Follow the Vehicle Confirmation Instructions .
+DescriptionThis occurs when an OTP display request is made when the vehicle is not 
+ready for OTP display (opening process/blocking process/blockage error).
+*OTP = one time passcode
+Main factors:
+TCU exchange is being performed while the usage start process is 
+being executed.•
+The WiFi contract (In-Car WiFi) is interfering and line operation is 
+failing.•
+The Authorization Code could not be sent because vehicle connectivity has 
+not been established yet. Please try again after connectivity is established. 
+(400S19)  400S19
+MyMazda App Message
+Page 22 of
+40
+02/19/2025 11:03 AM tlawrenc
+ 
+18PF  
+OPENING COMMUNICATION LINE HAS NOT BEEN COMPLETED  
+(OTP request before line opening completed)
+CauseTCU replacement during OTP process  
+In-Vehicle WiFi Contract interfenence
+Process Flow
+CustomerWait a few hours (up to 12 hours) and after 
+receiving a push notification that OTP 
+display is possible, execute the OTP request 
+again.  
+Processing is only performed between 6:00 
+a.m. and 10:00 p.m. Eastern time, so it may 
+take more than 12 hours.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Follow the Vehicle Confirmation Instructions . 
+What happens when you open the 
+Communication Line Status screen on 
+MCVV and search for the target VIN;
+→ "Status" = "Open Flag setting Confirmation/Recovery
+Dealer
+Page 23 of
+40
+02/19/2025 11:03 AM tlawrenc
+Requested"  
+"Status Detail" = "Processing"  
+The process is progressing normally, 
+so you can proceed as per the 
+procedure or wait for the push 
+notification to proceed.  
+                
+If the status is other than the above, 
+the request to start using the service 
+has not been processed correctly → 
+Go to " Troubleshooting Instructions ".
+*Please note that if you perform TCU 
+exchange when "Status" is in a state other 
+than "Opened" or "Closed", contract 
+execution processing will not be possible
+Description This occurs if not subscribed to the base plan.
+MyMazda App MessageConnected Services cannot be executed at this time because {base plan} 
+has not been purchased. Please purchase {base plan} from the subscription 
+website and try again. [400S20]
+Process Flow
+CustomerPerform the operation again after 
+subscribing to the base plan..400S20
+Confirmation/Recovery
+DealerIf the error continues even after subscribing 
+to the base plan -> Go to " Troubleshooting 
+Instructions ".
+DescriptionThis occurs when the connected contract cancellation process is executed 
+while the line is being opened or blocked.      
+Main factors
+The TCU was replaced during the start of use.•
+The WiFi contract (In-Car WiFi) is interfering and line operation is 
+failing.•
+Please wait for a while and try again. If the error continues, please contact 
+the call center. (400S21)  400S21
+MyMazda App Message
+Page 24 of
+40
+02/19/2025 11:03 AM tlawrenc
+ 
+CV cancelation has failed. Update TCU to the latest software.
+CauseTCU replaced during TCU cancellation process  
+Acitve In-Car WiFi contract
+Process Flow
+CustomerWait several hours (up to 12 hours) and 
+perform the CV cancellation process again.  
+Processing is only performed between 6:00 
+a.m. and 10:00 p.m. Eastern time, so it may 
+take more than 12 hours.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Follow the Vehicle Confirmation Instructions . 
+What happens when you open the 
+Communication Line Status screen on 
+MCVV and search for the target VIN;
+-> "Status" = "Close requested"  
+"Status Detail" = "Processing"  
+The process is progressing normally, Confirmation/Recovery
+Dealer
+Page 25 of
+40
+02/19/2025 11:03 AM tlawrenc
+so you can proceed as per the 
+procedure or wait for the push 
+notification to proceed.  
+ 
+"Status" = "Open requested" or 
+"Open Flag setting Requested"  
+The line has not been opened or the 
+request to start using it has not been 
+completed. -> Go to " 
+Troubleshooting Instructions ".  
+ 
+"Status Detail" = "Request failed" or 
+"Close failed"  
+Line state change request is failing -> 
+Go to " Troubleshooting Instructions ".
+DescriptionOccurs when remote control is performed on a car model that is not 
+compatible with remote exterior light flash.
+MyMazda App Message An unexpected error has occurred, please try again later. [400S22]
+Process Flow
+CustomerCheck whether the target vehicle is 
+compatible.400S22
+Confirmation/Recovery
+DealerIf the error continues despite the vehicle 
+being affected -> Go to " Troubleshooting 
+Instructions ".
+DescriptionThis occurs when you try to use a paid service without a subscription service 
+contract.
+MyMazda App Message This feature cannot be used under the contract status of your car.[400S23]400S23
+Page 26 of
+40
+02/19/2025 11:03 AM tlawrenc
+Process Flow
+CustomerMake a contract of subscription service first 
+and request again.
+Confirmation/Recovery
+DealerIf the error continues even after subscribing 
+to the subscription service -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when a contract application form (registration completed) PDF 
+display is requested from Menu when the PDF has not yet been generated, 
+or when the PDF cannot be obtained.
+MyMazda App Message please try again later [400S24] 
+Process Flow
+Customer Wait about 5 minutes and operate again.400S24
+Confirmation/RecoveryDealerIf the error persists -> Go to " 
+Troubleshooting Instructions ".
+DescriptionOccurs when an OTP display request is made when the vehicle is not ready 
+for OTP display (before push notification is sent).
+*OTP = one time passcode
+Main factors;
+OTP display on vehicle side is not ready (takes up to 12 hours)•
+Service flag download failed•
+Authorization Code Request is processing. This may take up to 12 hours to 
+complete. You will be notified when the process is completed.(400S25)  400S25
+MyMazda App Message
+Page 27 of
+40
+02/19/2025 11:03 AM tlawrenc
+ 
+User will receive push notification to continue with OTP request.
+Cause TCU is not in "Open" status
+Process Flow
+CustomerWait a few hours (up to 12 hours) and after 
+receiving a push notification that OTP 
+display is possible, execute the OTP request 
+again.  
+Turn on IG-on, check the reception strength 
+icon at the bottom right of the center display.  
+ 
+If the reception is poor, the function cannot 
+be executed.  
+Follow the Vehicle Confirmation Instructions . 
+What happens when you open the 
+Communication Line Status screen on 
+MCVV and search for the target VIN;
+-> "Status" = "Open Flag setting 
+Requested"  
+"Status Detail" = "Processing"  
+The process is progressing normally, 
+so you can proceed as per the 
+procedure or wait for the push Confirmation/Recovery
+Dealer
+Page 28 of
+40
+02/19/2025 11:03 AM tlawrenc
+notification to proceed.  
+ 
+"Status Detail" = "Request failed" or 
+"Flag setting failed"  
+In this case, the request to start using 
+the service is not processed 
+correctly -> Go to " Troubleshooting 
+Instructions ".
+Description Occurs when an error occurs during processing within the system center.
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [401C00]
+Process Flow
+CustomerWait about 5 minutes and try the operation 
+again.401C00
+Confirmation/Recovery
+DealerSystem error and may or may not be 
+resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description Occurs when the target service is unavailable.
+MyMazda App MessageThe primary driver has not set the permission of this service so it is not 
+available. [403C00]
+Cause This is a permission error and cannot be resolved by retrying.
+Process Flow
+403C00
+Page 29 of
+40
+02/19/2025 11:03 AM tlawrenc
+CustomerCheck the permission settings for the target 
+service from the "Manage Drivers" screen.Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description This occurs when attempting to register duplicate data.
+MyMazda App MessageThe registration data has already been saved. Please confirm the 
+registration details. [409C00]
+CauseData to be registered violated unique constraints.  
+MC IT to check: details explanation of this error case  
+-> User tries to register the favorite POI that has already been registerd.
+Process Flow
+Customer Review the input data and try again.409C00
+Confirmation/RecoveryDealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description This is caused by a processing error at the system center.
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [500C00]
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.
+System error and may or may not be 500C00
+Confirmation/Recovery
+Dealer
+Page 30 of
+40
+02/19/2025 11:03 AM tlawrenc
+resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis is caused by a processing error at the system center (reprocessing 
+status unknown)
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [500C01]
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.500C01
+Confirmation/Recovery
+DealerSystem error and may or may not be 
+resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description Occurs when the system center fails to access the database.
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [500C02]
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.
+System error and may or may not be 500C02
+Confirmation/Recovery
+Dealer
+Page 31 of
+40
+02/19/2025 11:03 AM tlawrenc
+resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description Occurs when the system center fails to access the database.
+MyMazda App Message An unexpected error has occurred. Please contact the call center. [500C03]
+Cause This is a system error and cannot be resolved by retrying.
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.500C03
+Confirmation/Recovery
+DealerIf the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionThis occurs due to a processing error at the system center (exceeding the 
+number of reprocessing times).
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [500C06]
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.
+System error and may or may not be 
+resolved by repeated retries.  
+If the error continues to occur, there may be 500C06
+Confirmation/Recovery
+Dealer
+Page 32 of
+40
+02/19/2025 11:03 AM tlawrenc
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+Description This occurs due to a file access error during system center processing.
+MyMazda App MessagePlease wait for a while and try again. If the error continues, please contact 
+the call center. [500C07]
+Process Flow
+CustomerWait about 30 minutes and try the operation 
+again.500C07
+Confirmation/Recovery
+DealerSystem error and may or may not be 
+resolved by repeated retries.  
+If the error continues to occur, there may be 
+a problem with the system center -> Go to " 
+Troubleshooting Instructions ".
+DescriptionDue to the app’s specifications, if there is a 2+ hour difference or lag with the 
+actual/correct time, an error could occur.    
+MyMazda App MessagePlease check the time / time zone settings. (E401005)  
+Customer to check and verify their Date & Time settings on their phone 
+(note: most phones will have the correct time automated based on their time 
+zone).  
+iPhone Example  E401005
+Customer
+Page 33 of
+40
+02/19/2025 11:03 AM tlawrenc
+DescriptionIn case KINTARO cannot get a response from a system outside KINTARO.  
+KINTARO is working well, and the network fault may be fixed after some 
+minutesE900500
+MyMazda App Message It is taking longer than normal to respond. Please try again later. [E900500]
+DescriptionCustomer inadvertently texted “Stop” to 1-949 518-0058  
+(Twilio SMS)  
+MyMazda App MessageMyMazda App - Internal Usher SDK error.  
+1. Text “Start” to 1-949 518-0058 (Twilio SMS)  
+2. Retry to create a MyMazda account.  
+Note: USA and Canada only  Internal Usher 
+SDK error.
+Customer
+Page 34 of
+40
+02/19/2025 11:03 AM tlawrenc
+DescriptionUsually occurs if the same login credentials were used on different devices.  
+Example, iPhone and Android.
+MyMazda App MessageNotification Center  
+Multiple devices detected  
+Our records indicate that your MyMazda account is being accessed across 
+multiple devices.  
+Multiple 
+devices 
+detected
+Customer No action needed
+Description Enrollment in Progress
+MyMazda App MessageAnother Connected Services enrollment request is currently in process 
+already. Please try again later.  
+Enrollment in 
+Progress
+Dealer CV cancelation has failed. Update TCU to the latest software.
+ 
+Vehicle Confirmation Instructions
+Step Inspection Items Result Action
+Yes proceed to step21 Is the concern related to a remote control function?No proceed to step3
+Page 35 of
+40
+02/19/2025 11:03 AM tlawrenc
+Yes proceed to the next step 2 Check whether the vehicle requirements for remote operation are met (
+example : key left in vehicle during remote start function).  
+Does the customer's smartphone MyMazda App have a failure message 
+at the time of occurrence?
+NoCheck the remote 
+operation condition again 
+and confirm if it works 
+properly ( example : key 
+left in vehicle during 
+remote start function).
+Yes proceed to the next step
+3Check MAZDA CONNECT settings.  
+Confirm Connected Services in System Settings is Enabled.  
+No Select Enable and retry.
+YesGo to normal MGSS 
+DTC troubleshooting 4Using M-MDS, are there any DTC's stored?  
+DTC INSPECTIONNo proceed to the next step
+Yes proceed to the next step
+5Is the TCU and CMU at the latest software version?
+CMU Software Update•
+TCU Software Update•NoUpdate software to the 
+latest version, then 
+recheck concern.
+Good 
+Reception  
+proceed to the next step
+Weak 
+Reception  
+Move vehicle outside 
+with a clear view of the 
+sky and then retry. 6Does the CV reception strength icon show good or weak reception?  
+ 
+Does the CV reception strength icon show no contract?  
+ 
+No 
+Contract  
+Disconnect/Reconnect 
+the 12V battery, retry 
+registering  the vehicle 
+from the MyMazda app, 
+and repeat from Step 1. 
+If the retry result is NG, 
+proceed to the next step.
+1101 proceed to the next step
+Disconnect/Reconnect 
+the 12V battery, retry 
+registering  the vehicle 
+from the MyMazda app, 
+and repeat from Step 1. 7Check Remote Service Flag Information  
+DIAGNOSTIC ASSIST FUNCTION [CMU]  -> Telematics communication 
+system linked information verification -> Flag Information  
+Is the remote service flag 1101 or 0000?0000
+Page 36 of
+40
+02/19/2025 11:03 AM tlawrenc
+If the retry result is NG, 
+proceed to the next step.
+Open 
+Completedproceed to the next step
+8Go to Mazda Connected Vehicle Viewer (MCVV)  and check 
+communication line status.  
+Example of Open Completed  
+ 
+Example of Closed Completed  
+ 
+If a MyMazda App error code is displayed, go to the " MYMAZDA App 
+Connected Vehicle (CV) Error Codes " table and perform Confirmation/
+Recovery.Closed 
+CompletedDisconnect/Reconnect 
+the 12V battery, retry 
+registering  the vehicle 
+from the MyMazda app, 
+and repeat from Step 1. 
+If the retry result is NG, 
+proceed to the next step.
+Yes proceed to the next step
+9Check the harness (including connectors / terminals) between TEL 
+antenna No. 1 and TCU.
+Check the relevant circuit. (Reference: Circuit inspection) 
+(Reference: Connector inspection)•
+Is the circuit normal?•NoRepair or replace the 
+defective part and verify 
+repair.
+Yes proceed to the next step
+10Check the harness (including connectors / terminals) between TEL 
+antenna No. 2 and TCU.  
+• Check the relevant circuit. (Reference: Circuit inspection) (Reference: 
+Connector inspection)  
+• Is the circuit normal?NoRepair or replace the 
+defective part and verify 
+repair.
+Yes Replace the TCU.
+11Check for SIM abnormality  
+Move the vehicle outside with a clear view of the sky.  
+Check M-MDS PID values
+  TEL1_ANT_6LVL•
+  TEL2_ANT_6LVL•
+Are both values 0 (0 means out of service)?  
+ 
+*Note: Depending on the vehicle, ***6 LVL or ***3 LVL may be 
+displayed."No proceed to the next step
+Yes Replace anntena no.1.
+12Check anntena no.1.  
+Move the vehicle outside with a clear view of the sky.  
+Check M-MDS PID value
+  TEL1_ANT_6LVL•
+Does TEL1_ANT_6LVL indicate 0?"No proceed to the next step
+Yes Replace anntena no.2. Check anntena no.2.  
+Move the vehicle outside with a clear view of the sky.  "proceed to the next step  13No
+Page 37 of
+40
+02/19/2025 11:03 AM tlawrenc
+Check M-MDS PID value
+  TEL2_ANT_6LVL•
+Does TEL2_ANT_6LVL indicate 0?"(in case of both anntena 
+value is not equal to 0)"
+Yes Repair Complete. 
+Verify 
+RepairInstall/connect parts that were removed / disconnected during 
+fault diagnosis.•
+Has the problem been resolved?•NoGo to MGSS  
+MALFUNCTION 
+DIAGNOSIS FLOW 
+[CONTROLLER AREA 
+NETWORK (CAN)]  
+If CAN communication 
+has no problem, repeat 
+from step1 again.  
+If the problem is not 
+resolved, contact Hotline 
+for technical support.
+ 
+Troubleshooting Instructions
+Step Inspection Result Action
+ 
+Good 
+receptionGo to next step
+ 
+Weak 
+receptionMove vehicle 
+outside with a clear 
+view of the sky and 
+then retry1. Check CV reception strength icon
+ 
+No ContractCV enrollment 
+needed.  
+Go to Online 
+Enrollment
+OK Go to next step Perform CMU/TCU Communication Connectivity Test.  
+Go to MGSS -> Diagnostic Assist Function -> Service Information -> TCU 
+Linked Information.  
+Perform:
+CMU Communication Connectivity Test (CMU, TCU Connection)•
+TCU Communication Connectivity Test (TCU, Carrier Connection)•2.NG Go to Step 5.
+Page 38 of
+40
+02/19/2025 11:03 AM tlawrenc
+Yes Go to next step.
+3.Is the TCU software at the latest software version?  
+(2019 Mazda3, Confirm CMU software is at the latest version)  
+Go to MGSS Diagnostic Assist Function -> Service Information -> TCU Linked 
+Information -> TCU Software Version
+Go to MGSS -> Infotainment/TCU ->  Telematics Communication Unit (TCU) 
+Updates  and confirm at latest software version.NoUpdate TCU 
+software
+Open 
+CompletedGo to next step
+4.Check TCU CV Contract Status  
+a. Go to MCVV -> Select " Vehicle Communication Line Status Reference " 
+b. Enter VIN and then select "Search"  
+c. Is the Status Detail "Open Completed" or "Closed Completed"?  
+Example of Open Completed  
+ 
+Example of Closed Completed  
+Closed 
+CompletedCV enrollment 
+needed  
+Go to Online 
+Enrollment
+5.If possible, complete the Dealer Connected Vehicle Questionnaire  
+Go to MGSS -> Mazda Connect Questionnaires -> Dealer Connected Vehicle Questionnaire
+6. If the problem is not resolved, contact Hotline for technical support.
+ 
+Resources  
+Connected Vehicle Online Enrollment Information
+1. Installing the MyMazda APP   
+2. Registering Your User Information   
+3. Registering Vehicle Information   
+4. Registering Connected Service
+Page 39 of
+40
+02/19/2025 11:03 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Actual time beyond 0.9 hours will require DSA or Preauthorization for non DSA dealers.  Actual time over 3 hours 
+for DSA dealers will require Preauthorization.•
+ 
+ Dealer Confirmation/Recovery
+Warranty Type A
+Symptom Code 64
+Damage Code 99
+Part Number Main Cause 5555-24-003A 
+Quantity 0
+Operation Number / Labor Hours: YY844XRT
+ 
+Page 40 of
+40
+02/19/2025 11:03 AM tlawrenc

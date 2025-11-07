@@ -1,0 +1,51 @@
+Involved Region or
+CountryNorth America
+ConditionA customer ma y comment of the following messages
+displa ying: Service Power Steering, Service Stabilitrak, Service
+Rear Drive, Service Restraint System. Upon investigation U0075
+and one or more of the following DTC's will be set, U0131,
+U0151, U0420, U0452, B197D.
+CausePossible Can 1 circuits 4986 or 4987 shorting on passenger seat
+frame.
+Bulletin No.: PIC6597
+Published date: 02/24/2025
+Preliminary Information
+PIC6597 Diagnostic Tip - Service Power Steering, Service
+Stabilitrak, Service Rear Drive, Service Restraint System U0075 and
+one or more of the following DTCs set U0131, U0151, U0420, U0452
+B197D
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac CT5 2020 - 2024 All AllAll All
+Cadillac CT5-V2020 - 2024 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+Inspect the passenger seat harness for chaﬃng on the seat frame, repair any
+damaged circuits  and reroute harness to avoid contact. 
+ 
+Harness contacting seat frame.   
+
+ 
+CAN 1 circuit 4987 BU cut. 
+ 
+Harness routing to prevent contact. 
+Version 1
+Modiﬁed 02/24/2025 - Created on.Labor Operation Description Labor Time
+5430902 Wire-to- Wire RepairUse Published Labor
+Time
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+Additional SI K eywords
+can, can1, CT5, CT5- V, D2, drive, power, r ear, r estraint, r estraints, service, stabilitrak,
+steer, steering, system, U0075, U0131, U0151, U0420, U0452
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

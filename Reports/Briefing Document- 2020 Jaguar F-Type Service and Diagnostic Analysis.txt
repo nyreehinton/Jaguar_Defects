@@ -1,0 +1,105 @@
+Briefing Document: 2020 Jaguar F-Type Service and Diagnostic Analysis
+
+Executive Summary
+
+This document synthesizes the service history and diagnostic data for a 2020 Jaguar F-Type, VIN ending in K67497. The analysis reveals a pattern of significant and recurring failures in the vehicle's electrical and cooling systems between October 2024 and August 2025.
+
+A comprehensive vehicle scan conducted on August 27, 2025, at 28,812 miles identified 33 distinct Diagnostic Trouble Codes (DTCs) across 18 electronic control modules. The most critical finding is a permanent internal fault in the Gateway Module (GWM), the central communication hub of the vehicle. This fault is the likely root cause of widespread communication errors observed across multiple critical systems, including the high-speed CAN bus.
+
+The service history details multiple repair attempts at two different Jaguar dealerships to address electrical shorts that rendered driver-side electronics inoperable. These were followed by a cooling system failure in November 2024, which required the replacement of the expansion tank and a bleed pipe. Less than 5,000 miles later, in August 2025, a similar cooling system issue recurred, necessitating another repair at an independent facility. The diagnostic report also flags historical faults related to the engine's variable coolant pump, indicating a persistent vulnerability in this area.
+
+In conclusion, the vehicle exhibits evidence of a systemic electrical issue, likely originating from the compromised Gateway Module, which severely impacts vehicle-wide network communication. This is compounded by a recurring failure within the engine cooling system, pointing to multiple areas of significant concern regarding the vehicle's reliability.
+
+Vehicle and Service Overview
+
+Detail	Information
+Vehicle	2020 Jaguar F-Type
+VIN	SAJDD1GX4LCK67497
+Engine	2.0L Liter Supercharged Petrol
+Customer	Nyree Hinton
+
+Chronological Service Log
+
+Date(s)	Mileage (In/Out)	Service Provider	Key Issues Addressed
+Oct 2024	23,278 / 23,279	Jaguar Land Rover Los Angeles	Inoperable driver electronics (fuse replaced), failed battery test, recurring electrical short (harness repair).
+Oct 2024	23,072 / 23,073	Jaguar Land Rover South Bay	Inoperable driver side window (fuse replaced due to short to ground).
+Nov 18-21, 2024	23,963 / 23,964	Jaguar Land Rover Los Angeles	Low coolant warning light; replaced expansion tank and bleed pipe due to leak.
+Aug 25-26, 2025	28,812	West Adams Radiator	Recurring low coolant warning; replaced expansion tank and hose.
+Aug 27, 2025	28,812	Diagnostic Scan (Autel MaxiSys)	Comprehensive scan revealed 33 DTCs, including critical permanent GWM fault.
+
+
+--------------------------------------------------------------------------------
+
+
+Comprehensive Diagnostic Analysis (August 27, 2025)
+
+A vehicle diagnostic scan performed at 28,812 miles revealed a total of 33 faults across 18 separate electronic control modules. The findings point to critical failures in core communication systems and historical issues with the powertrain.
+
+Critical Permanent Faults
+
+Two modules reported permanent, active faults that require immediate attention:
+
+* Gateway Module 'A' (GWM):
+  * DTC B1412-96 (Permanent): Quiescent relay box - Component internal fault.
+  * Analysis: The diagnostic report identifies this as the "most critical fault." The GWM is the vehicle's central communication hub. An internal failure can cause unpredictable behavior across all vehicle networks and is the likely source of the numerous communication errors logged by other modules.
+* Passenger Front Seat Module (PSM):
+  * DTC U3001-46 (Permanent): Control module improper shutdown (voltage related) - Calibration/parameter memory fault.
+  * Analysis: This code indicates the module experienced an improper power loss, potentially from a low-voltage event, a wiring issue, or an internal module fault. This aligns with the vehicle's history of battery issues.
+
+Widespread Communication Failures
+
+Numerous modules reported communication errors ('U' codes), confirming a network-level problem.
+
+* High-Speed CAN Bus Errors (U0001-xx): Found in the Anti-Lock Brake System (ABS), Chassis Control Module (CHCM), Parking Assist Control Module (PAM), and Image Processing Module 'A' (IPMA). This bus is critical for safety, powertrain, and chassis functions.
+* Inter-Module Communication Errors: The Powertrain Control Module (PCM) and Gear Shift Module (GSM) reported receiving invalid data from the Transmission Control Module (TCM) (U0402-xx).
+* Other Network Errors: The HVAC module reported the LIN bus was off (B1088-88), and both Headlamp Control Modules logged errors on "communication bus C" (U0046-81).
+
+Conclusion: The diagnostic report concludes that these widespread errors "strongly suggest the Gateway Module (GWM) fault is the primary issue, disrupting communication across the entire vehicle."
+
+Powertrain and Cooling System Faults
+
+The Powertrain Control Module (PCM) logged three historical faults, two of which are directly related to the engine cooling system:
+
+* P2B61-73 (History): Engine coolant flow control valve stuck closed.
+* P26CB-72 (History): Variable coolant pump performance/stuck off - Actuator stuck open.
+
+Analysis: The presence of these codes, even as "History," indicates a past or intermittent malfunction in the engine's variable cooling system. This is a significant concern that corroborates the vehicle's service history of recurring coolant leaks and could lead to overheating.
+
+
+--------------------------------------------------------------------------------
+
+
+Detailed Service History and Repair Chronology
+
+October 2024: Recurring Electrical Failures
+
+The vehicle was taken to two separate Jaguar dealerships for nearly identical electrical issues within the same month.
+
+* Jaguar Land Rover Los Angeles (Invoice #824373):
+  * Initial Complaint: "CLIENT STATES THAT THE DRIVERS SIDE DOOR ELECTRONICS DO NOT OPERATE."
+  * First Repair Attempt (Tag T4566): Technician found blown fuse RF 08 in the rear junction box and replaced it. This temporarily restored function to the window and door lock operations. During this visit, a battery test was performed and the "BATTERY FAILED."
+  * Second Repair Attempt (Tag T4591): The same issue recurred. Further diagnosis revealed "LEFT ENGINE JUNCTION BOX TO REAR JUNCTION BOX CIRCUIT SHORT CIRCUIT TO GROUND." A "PERFORMED HARNESS REPAIR FROM C131B-15 TO C8B01B-15" was conducted, and the technician noted "DIVER DOOR ELECTRONICS ARE NOW WORKING CORRECTLY."
+* Jaguar Land Rover South Bay (Invoice #908960):
+  * Complaint: "CUSTOMER STATES DRIVERS SIDE WINDOW DOES NOT ROLL UP."
+  * Diagnosis: Technician confirmed the window switch was not working and found "GROUND FROM JUNCTION BOX TO LEFT DOOR CONTROL MODULE AND THERE WAS A SHORT TO GROUND."
+  * Repair: The fuse was replaced, and the window was reported as "NOW WORKING AS IT SHOULD."
+
+November 2024: Cooling System Failure
+
+* Jaguar Land Rover Los Angeles (Invoice #825649):
+  * Complaint: "A COOLING SYSTEM CLIENT STATES LOW COOLANT WARNING LIGHT IS ON."
+  * Diagnosis: The technician found a leak and documented the necessary repair: "REPLACE EXPANSION TANK TO BLEED PIPE DUE TO LEAK FROM PIPE."
+  * Repair: The expansion tank (Part # not listed) and bleed pipe (T2R47919) were replaced, and the system was refilled with antifreeze (T2H59152).
+  * Cost: The customer was charged $294.62.
+  * Multi-Point Inspection: During this visit, a vehicle inspection recommended several items for "immediate attention," including replacement of rear brake pads and rotors (linings at 3mm).
+
+August 2025: Recurring Cooling System Failure & Independent Repair
+
+Less than 5,000 miles after the dealership repair, the low coolant warning light returned.
+
+* Jaguar Land Rover Los Angeles (Workorder #100821):
+  * The vehicle was brought in on August 20, 2025, with the complaint "CUSTOMER STATES LOW COOLANT WARNING COMING ON." A preliminary estimate of $325.88 was provided.
+* West Adams Radiator (Invoice #14845):
+  * Diagnosis & Repair: The vehicle was serviced on August 26, 2025. The final invoice shows the "REMOVE AND REPLACE JAGUAR-JDE41599-SUPERCHARGER WATER PUMP" and "REMOVE AND REPLACE T2R47919 EXPANSION TANK HOSE." The parts were noted as "CUSTOMER PARTS NO WARRANTY."
+  * Cost: The total cost for the repair was $681.16.
+  * Parts Procurement: Receipts show that parts, including the T2R47919 hose, were purchased from Jaguar Land Rover Los Angeles for 445.68** on August 26, 2025. Subsequently, a "WARRANTY SWAP REFUND" was issued by the same dealer for the hose (T2R47919) in the amount of **-121.57 on August 29, 2025.

@@ -1,0 +1,98 @@
+1 
+ 
+ 
+ 
+Units:  TriPac 3  
+Description:  Due to supply issues the Tri Pac 3 fuel pump  426469 may be out of stock. A 
+temporary solution is to order the older Tri Pac pump kit 401525. Order  quantity  
+will be subject to manual review. You must also order connector 425803 and 
+terminal pins 425396.  
+ 
+ Additional Parts needed:  425803    Connector (2 pin)      qty 1  
+   425396    Terminal pin              qty 2  
+ 
+Tools Required:  Crimping tool part number 640160133 available online through 
+outside vendors.  
+ 
+Service Procedure:  
+1. Turn the unit off using the HMI.  
+2. Open the front access door and turn the engine ON/OFF switch to the OFF position.  
+3. Disconnect battery power and all external power sources to the APU unit.  
+4. Remove the front access cover from the unit.  
+5. Clean the fuel pump area.  
+ Factory install ed fuel pump.  
+ 
+ 
+ 
+ 
+ 
+ Date:  January 31, 2025  
+Subject:  Fuel Pump Option for TriPac 3  
+Location:  e-Tech Library    Parts  Bulletin  
+  PB1771  
+ 
+Unplug 
+connector  
+Remove  
+fuel pump  
+2 
+ 6. Disconnect the fuel pump harness connection.  
+7. Remove the fuel line and fitting from the left -hand side of the fuel pump. Cap the fuel line to 
+prevent debris contamination. Make note of fuel flow arrow on the pump.  
+8. Remove the three (3) fasteners that secure the fuel pump and strainer to the unit.  
+9. Pull the fuel pump and strainer slightly outwards to allow pump removal.  
+IMPORTANT:  DO NOT pull excessively on the assembly to prevent damage to the fuel line 
+connected to the back the strainer.  
+10. Secure the 90- degree strainer fitting in position with plyers or vice- lock plyers. Unscrew the 
+pump from the 90- degree strainer fitting.  
+11. Remove the fuel pump from the unit and clean any e xcess  fuel. Dispose of the pump 
+according to local regulations . 
+12. Fuel Pump Kit 401525  you will only use the fuel pump and discard other items in kit.  
+13. Cut off existing connector at connector leaving wires as long as possible.  
+14. Strip red and black wires on fuel pump for new terminal pins . 
+15. Install new terminal pins 425396 qty 2 (ordered separately) and crimp onto fuel pump wires. 
+Use crimping tool part number 640160133 available online through outside vendors.  
+16. Install red wire into Pin 1 on connector  and install black wire into Pin 2 on connector.  
+ 
+17. Clean the threads of the 90- degree fitting on the strainer. Apply thread sealing or locking 
+compound to the threads of the 90- degree fitting.  
+18. Make note of fuel flow direction arrow on the new fuel pump. The arrow must be pointing 
+away from the strainer when installed.  
+Pin 2  
+Black wire  
+Pin 1 
+Red wire 
+3 
+ 19. Secure the 90- degree strainer fitting in position with plyers or vice- lock plyers. Thread the 
+fuel pump inlet port onto the 90- degree fitting. Tighten the fuel pump 2- 3 revolutions after 
+initial finger -tight installation to ensure proper mounting orientation and prevent fuel leaks.   
+20. Place the fuel pump and strainer assembly into its mounting location s. Install and torque the 
+three (3) mounting fasteners to specification:  
+ Two Fuel Pump Screws:  63 in -lbs (7 Nm)  
+ Single strainer Screw:      22 in -lbs (2.5 Nm)  
+21. Attach the fuel line and fitting to the left -hand side of the fuel pump. Tighten the fitting 2- 3 
+revolutions after initial finger -tight installation to ensure proper sealing and prevent fuel leaks.  
+22. Reconnect the fuel pump harness connection.  Secure fuel pump connector and harness with 
+bandwrap to harness as shown below.   
+Note:  Fuel pump harness is shorter, connector must be remove from fir tab like shown 
+below and fuel pump connector along with harness secured with bandwrap.  
+ 
+ 
+      Fuel Pump from Kit 401525 installed   
+ Harness  
+Disconnect 
+connector from 
+fir tab  
+4 
+              Fuel Pump harness and connector secured.  
+ 
+ 
+23. Restore power to the unit.  
+24. Turn the engine ON/OFF switch to the ON position.  
+25. Bleed the fuel system as shown in the TriPac 3 Installation Manual: TriPac 3 Bleeding the 
+Fuel Lines Procedure.  
+26. Inspect the fuel system for fuel leaks and verify proper unit operation . 
+27. Reinstall the unit front cover.  Secure  fuel pump  
+connector and wires  
+with bandwrap to 
+harness  

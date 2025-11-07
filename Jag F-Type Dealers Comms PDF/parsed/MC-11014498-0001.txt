@@ -1,0 +1,100 @@
+  
+Page 1 of 3  TI-NA001  August 2021   
+  
+Technical Instruction TI-NA001 
+ 
+Drag Link Clamp Pinch            Nut Torques   
+ 
+Introduction:   
+This Technical Instruction has been issued to  advise suitably qualified and experienced personnel on the 
+correct procedure to ensure that the clamp pinch nuts have been  correctly torqued. 
+ 
+Preparation:  
+Due to the location of the drag link, the vehicle will need to  be either over a pit or in the air by using a 
+suitable set of vehicle lifts.  The draglink is located to the drivers‐side of the front axle. ( Figure 1).   
+All relevant workshop safety procedures should be followed  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+Instruction:  
+1. The full procedure should be carried out on both ends of the dr ag link. (See Figure 2 ) 
+2. With a calibrated torque wrench  set to 70Nm, with appropriately  sized attachment torque the nut.   
+3. If the nut is found to rotate prior to reaching 70Nm, then the complete drag link arm should be 
+replaced.   
+4. The removed drag link should then be quarantined and made avail able for collection by ADI. 
+5. If the nut does not    rotate at the 70Nm setting, repeat with  the wrench reset to 90Nm.  
+6. Once the nut has been torqued to 90Nm, the draglink installatio n will be at design intent.  A blue 
+paint strike must be added across the bolt and thread to visual ly demonstrate the relative position 
+of the nut and bolt at design intent torque.   
+7. Upon completion of Step 6, the draglink should have a date appl ied using the same paint marker in 
+the format YY/MM/DD 
+8. A blue “dot” mark should then be added to the inside of washer  bottle refill flap, to allow ease of 
+identification. Figure 1 Side “A”Side “B”Drag Link  • ALEXANDER 
+DENNIS 
+  
+Page 2 of 3  TI-NA001  August 2021  9. The attached record of inspectio n sheet must then be completed  for each vehicle , in full, and 
+scanned/electronically submitted to  Anthony.Fasano@alexander‐dennis.com  for records. 
+ 
+ 
+ 
+    
+Note: To ensure the front and rear drag link clamps are correctly tor qued, secure the head of the bolt 
+with a  spanner when the torque wrench is used. 
+                          
+ 
+ Figure 2 Side “A” Pinch Bolt Side “B” Pinch Bolt 
+The Torque Check should be 
+carried out on both Pinch Nuts 
+fitted to the Drag Link. 
+  
+Page 3 of 3  TI-NA001  August 2021  INSPECTION SHEET 
+Drag Link Clamp Pinch Nut Torque 
+ 
+NOTE:  This Sheet should be photocopied so one sheet is filled  in for each vehicle inspected 
+ 
+Inspection Date:    
+ 
+Fleet Number:    
+ 
+Operator Name:    
+ 
+Vehicle Mileage:     
+ 
+Technician Name:    
+ 
+Position Held: 
+ 
+Employer:    
+ 
+Torque Check Pinch Nut Side A: 
+Did Nut Turn at 70Nm     Y or N? 
+Torqued to 90Nm     Y or N? 
+If Turned at 70Nm, was drag Link replaced?     Y or N? 
+   
+Torque Check Pinch Nut Side B:   
+Did Nut Turn at 70Nm     Y or N? 
+Torqued to 90Nm     Y or N? 
+If Turned at 70Nm, was drag link replaced?     Y or N? 
+   
+Markings Completion   
+Added Torque Stripe to Pinch Nut A and B     Y or N? 
+Added Completion date to drag link     Y or N? 
+Added “Dot” marking to washer filler flap    Y or N? 
+    
+ 
+ Signed:_______________________  Date: _________________ 
+ 
+ 
+ 
+ 

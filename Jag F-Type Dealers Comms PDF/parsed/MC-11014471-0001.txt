@@ -1,0 +1,297 @@
+ 
+ 
+Classification: Reference: Date: 
+DA19-005G NTB19-033G February 20, 2025 
+ 
+1/7 
+ 
+ 
+INTELLIGENT CRUISE CONTROL INOPERATIVE AND  
+AEB/FEB WARNING LIGHT ON  OR RADAR OBSTRUCTION 
+MESSAGE DISPLAYED WITH DTC C1A16 OR C2582  
+ 
+ 
+ 
+ 
+APPLIED 
+VEHICLES: 2016-2024 Altima (L33, L34) 2023-2024 ARIYA (FE0) 2017-2024 Armada (Y62) 2022-2024 Frontier (D41) 2018-2024 Kicks (P15) 2018-2024 LEAF (ZE1) 2016-2023 Maxima (A36) 2015-2024 Murano (Z52) 2016-2017 Murano Hybrid (Z52H) 2017-2024 Pathfinder (R52, R53) 2015-2023 Rogue (T32, T33) 2016-2018 Rogue Hybrid (T32H) 2017-2022 Rogue Sport (J11) 2016-2024 Sentra (B17, B18) 2020-2024 Titan/Titan XD (A61) 2020-2024 Versa (N18) 2023-2024 Z (Z34) 
+ 
+IF YOU CONFIRM 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+IMPORTANT:  The purpose of ACTION  (on the next page) is to gi ve you a quick idea of the 
+work you will be performing. You MUST closely follow the entire SERVICE PROCEDURE  
+as it contains information that is essent ial to successfully completing this repair. 
+ 
+Nissan Bulletins are intended for use by qualified technician s, not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE: If you believe that a des cribed condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle.  
+The customer states that the ICC stopped working while driving, 
+ 
+OR 
+ 
+The customer states t hat the AEB/FEB warning light is ON, or turned 
+ON, while drivin g (Figure 1 ), 
+ 
+OR 
+ 
+The message “Unavailable Front  Radar Obstruction”  
+or “Forward Driving Aids Temporarily Disabled Front Sensor Blocked See Owner's Manual” has displayed while driving ( Figure 2). 
+ 
+AND 
+ 
+DTC C1A16, C1A16-97, C 2582, or C2582-97 is the 
+ONLY  DTC stored. 
+ Figure 1  
+Figure 2  This bulletin has been amended. See AMENDMENT HISTORY on the last page.  
+Please discard previous versions of this bulletin. 
+Forward Driving Aids  
+Temporarily Disabled 
+Front Sensor Blocked 
+See Owner’s Manual Unavailable 
+Front Radar Obstruction  
+
+2/7                                                                                            NTB19-033G ACTION 
+ 
+Refer to Flow Chart, below. 
+ 
+ 
+Flow Chart 
+ 
+Is DTC C1A16, C1A16-97, C2582, or 
+C2582-97 the ONLY DTC stored? 
+YES  
+Are there any obstructions  in front of the ICC 
+distance sensor on the bum per fascia, or on the 
+sensor itself? (Bugs, dirt, mud, slush, ice, etc.) 
+Was the ICC distance sensor 
+manufactured before 01.09.2018? 
+(DD.MM.YYYY). 
+See step 6 on page 4. 
+Remove 
+obstructions 
+Do not immediately replace the 
+distance sensor . Refer to the ESM 
+for further diagnos tic information. 
+Does the incident occur repeatedly 
+(multiple times during multiple 
+trips)? 
+NO 
+YES  
+YES  
+NO 
+NO 
+YES  
+ NO 
+YES  
+YES  
+NO 
+NO 
+Replace the ICC 
+distance sensor.  
+Perform ICC distance sensor 
+alignment. Refer to the ESM for 
+alignment procedure.  
+Do not immediately replace the 
+distance sensor . Reassemble the 
+vehicle and refer to the ESM for 
+further diagnostic information. 
+This bulletin does not apply.  
+Does the incident ONLY  occur 
+during bad weather or when the 
+distance sensor is obstructed? 
+(Rain, sleet, snow, slush, etc.) 
+Is the vehicle listed in Table A  on 
+page 3? 
+3/7                                                                                            NTB19-033G SERVICE PROCEDURE 
+ 
+1. Is DTC C1A16, C1A16-97, C2582, or C2582-97 the ONLY  DTC stored? 
+ 
+YES:  Continue to step 2. 
+ 
+NO: This bulletin does not apply. Do not immediately replace the distance  
+sensor . Refer to the ESM for furt her diagnostic information. 
+  2. Are there are any obstructions in front of  the ICC distance sensor ? This can include, 
+but is not limited to, bugs, di rt, mud, slush, ice, etc. 
+ 
+YES:  Remove the obstruction, and then proceed to step 3. 
+ 
+NO: Proceed to step 3. 
+  3. 
+Does the incident ONLY  occur during bad weather? This can include, but is not 
+limited to, rain, sleet, snow, slush, etc. 
+ 
+YES:  Do not immediately replace the distance sensor . Refer to the ESM for 
+further diagnostic information. 
+ 
+NO: Proceed to step 4. 
+  4. 
+Is the vehicle listed in Table A ? 
+ 
+YES:  Continue to step 5. 
+ 
+NO: Do not immediately replace the distance sensor . Refer to the ESM for further 
+diagnostic information. 
+ 
+        Table A 
+ 
+2016-2018 Altima 
+2018 Kicks 
+2016-2018 Maxima 
+2015-2018 Murano 
+2016-2017 Murano Hybrid 
+2017-2019 Pathfinder built before November 2018 
+2016-2019 Sentra built before December 2018 
+ 
+ 5. Does the incident occur repeatedly (mu ltiple times during multiple trips)? 
+ 
+YES:  Proceed to step 6. 
+ 
+NO: Do not immediately replace the distance sensor . Refer to the ESM for further 
+diagnostic information. 
+ 
+  
+4/7                                                                                            NTB19-033G 6. Locate and then write down the ICC distance sensor manufacturing date code  
+(see Figure 3). 
+ 
+   HINT:  In some cases the ICC distance sens or may need to be removed from the  
+   vehicle to see the date c ode. If so, refer to the ESM: CRUISE CONTROL & DRIVER   
+   ASSISTANCE > DRIVER ASSISTAN CE SYSTEM > DRIVER ASSISTANCE  
+   SYSTEM > REMOVAL AND INSTALLATION > ICC  SENSOR (or DISTANCE  
+   SENSOR) 
+ 
+ 
+   Decoding the manufacturing date code: 
+ 
+ 
+ The date code will be displayed as DD.MM.YYYY on the back side of the ICC 
+distance sensor. 
+ 
+ A date code of 01.09.2018 translates to the 1st day of the 9th month of 2018 , or 
+September 1, 2018. 
+ 
+ 
+Figure 3  
+ 7. Is the date of manufacture on the ICC distance sensor before 01.09.2018? 
+  
+YES:  Proceed to step 8 on page 5. 
+ 
+NO: Re-install the ICC distance sensor in the reverse order of disassembly, and  
+   then proceed to step 9 on page 5. 
+ 
+IMPORTANT:  The nuts and bolts of the ICC distanc e sensor, and its bracket, must be  
+torqued in a specific sequence. 
+ 
+ Refer to the ESM: CRUISE CONTROL & DRIVER ASSISTANCE > DRIVER 
+ASSISTANCE SYSTEM > DRIVER ASSISTANCE SYSTEM > REMOVAL AND INSTALLATION > ICC SENSO R (or DISTANCE SENSOR) 
+  
+Date code Back side of ICC distance sensor 
+5/7                                                                                            NTB19-033G  
+ 8. Install a new ICC distance sensor from PARTS INFORMATION . 
+ 
+   IMPORTANT:  The nuts and bolts of the ICC distanc e sensor, and its bracket, must be 
+   torqued in a specific sequence. 
+ 
+ Refer to the ESM: CRUISE CONTROL & DRIVER ASSISTANCE > DRIVER 
+ASSISTANCE SYSTEM > DRIVER ASSISTANCE SYSTEM > REMOVAL AND 
+INSTALLATION > ICC SENSOR (or DISTANCE SENSOR) . 
+ 
+ 9. Perform distance sensor alignment. 
+ 
+ Refer to the ESM: BRAKES > BRAKE CONTROL SYSTEM > AUTOMATIC 
+EMERGENCY BRAKING > BASIC INSPECTION > ADDITIONAL SERVICE 
+WHEN REPLACING ICC SENSOR (or DISTANCE SENSOR).  
+ 
+   
+PARTS INFORMATION 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+SENSOR UNIT-DISTANCE 
+(ICC Distance Sensor) (1) 1 
+As Needed 
+ 
+(1) Refer to the Electronic Parts Cata log (EPC) for the correct part number. 
+A.  
+ 
+  
+CLAIMS INFORMATION 
+ 
+Submit a Primary Part (PP) type line cl aim using the following claims coding: 
+ 
+DESCRIPTION PFP OP CODE SYM DIA FRT 
+Replace SENSOR UNIT-DISTANCE 
+(ICC Distance Sensor) (1) RD45AA HC 32 (2) 
+ 
+(1) Reference the Electronic Parts Catalog (EPC) and use the Distance Sensor as the 
+Primary Failed Part (PFP). 
+(2) Reference the current Niss an Warranty Flat Rate Manual and use the indicated Flat 
+Rate Time (FRT). 
+ 
+HINT: FRT includes all wheel alignment; no ot her alignment op code is required. DO 
+NOT claim the alignment op code with this claim. 
+ 
+ CLAIMS INFORMATION continues on page 6. 
+ 
+  
+6/7                                                                                            NTB19-033G OR 
+ 
+Submit a Primary Part (PP) type line cl aim using the following claims coding: 
+ 
+DESCRIPTION MODEL PFP OP CODE SYM DIA FRT 
+Remove and 
+reinstall original 
+sensor  
+(ICC Distance 
+Sensor)  
+ Maxima with AVM   
+2016-2018 
+(1) RX8EAA HC 32 2.9 
+Pathfinder with AVM 
+2017-2019 built before 
+11/2018 3.0 
+      
+Maxima without AVM   
+2016-2018 
+(1) RX8DAA HC 32 2.5 
+Pathfinder without AVM 
+2017-2019 built before 
+11/2018 2.6 
+Sentra built before 12/2018 2.4 
+Altima 2016-2018 2.9 
+Kicks 2018 2.0 
+Murano 2015-2018 
+including Murano Hybrid 
+2016-2017 2.6 
+ 
+(1) Reference the Electronic Parts Catalog (EPC) and use the Distance Sensor as the 
+Primary Failed Part (PFP). 
+(2) Reference the current Ni ssan Warranty Flat Rate Manual  and use the indicated Flat 
+Rate Time (FRT). 
+ 
+ 
+HINT: FRT includes all wheel alignment; no ot her alignment op code is required. DO 
+NOT claim the alignment op code with this claim. 
+   
+7/7                                                                                            NTB19-033G  
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+April 15, 2019 NTB19-033 Or iginal bulletin published 
+August 13, 2020 NTB19-033a Latest models and model years applied, and 
+CLAIMS INFORMATION  revised 
+October 30, 2020 NTB19-033b Latest models and model years applied, DTCs C2582 and C2582-97 added, IF YOU CONFIRM  and 
+Figure 1 and Figure 2 on page 1 revised 
+February 3, 2021 NTB19-033c Classification number updated 
+February 4, 2022 NTB19-033D Publication date revised to include the latest models and model years 
+June 22, 2023 NTB19-033E Publication date revised to include the latest models and model years, and “NOTE” references changed to “HINT” 
+December 19, 2023 NTB19-033F Flow Chart  on page 2 revised, Steps 3, 4, and 5 
+updated. 
+February 20, 2025 NTB19-033G APPLIED VEHICLES revised 
+    
+ 

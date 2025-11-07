@@ -1,0 +1,148 @@
+GENERAL MOTORS  
+DCS 7164  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  March 4 , 2025 
+  
+Subject:  N242486200 - Service Update  
+ Sunroof Pigtail Wire Undersized for Fuse  
+  
+Models:  2024 Chevrolet Equinox EV  
+   
+  
+General Motors is releasing  Service Update N242486200 today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+A Stock VIN list is not included as our records show there are no vehicles in 
+dealer new inventory . 
+ 
+ 
+END OF MESSAGE  
+Service Update  
+N242486200  Sunroof Pigtail Wire Undersized for Fuse   
+ 
+ Page 1 of 4 
+ 
+Release Date : March  2025 Revision : 00  
+ 
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.  
+For EV Involved Vehicles: The repairs outlined in this bulletin must only be completed at an authorized 
+EV dealer and repairs must be performed by a technician who has successfully completed the 
+applicable  technical training required to perform this repair.   
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Equinox EV  2024  2024  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs . 
+Condition  Certain vehicles listed above may have a condition in which the Sunroof Jumper Harness is not fully 
+protected by the fuse.  
+Correction  Dealers will inspect and verify that the fuse and fuse cover ar e correct and replace the fuse and fuse 
+cover as necessary.  
+Parts  
+Quantity  Part Name  Part No.  
+As Req’d  COVER, ENG WRG HARN J/BLK  85721128  
+As Req’d  25A Fuse  84490336   
+Note:  Use the VIN and the GM Electronic Parts Catalog  (EPC) to determine which cover  to order.  
+Reminder:  Parts may be removed from SPRINT and Retail Inventory Management (RIM) and be non -returnable.  Dealers 
+should review the affected parts to confirm RIM managed status.  Parts may have quantity limiters in effect.  There are a 
+small number of vehicles antic ipated that will need this fix.   Due to the limited initial parts availability, dealers are 
+encouraged not to order these parts for use as shelf stock.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107848  Inspect Only – No Further Action Required  0.2 ZFAT  N/A 9107849  Replace Fuse and Fuse Block Cover  0.3 
+Service Procedure  
+ 
+1. Locate the X50A Engine Wiring Harness Junction Block, refer to Electrical Component Locator and Harness Routing 
+Views in SI for component location.  
+Service Update  
+N242486200 Sunroof Pigtail Wire Undersized for Fuse   
+ 
+  Page 2 of 4 
+  
+6836651  
+2. Remove the Fuse Block Cover and verify the cover lists a 25A fuse in location F63. If 40A is listed as shown above, 
+the Fuse Block Cover MUST be replaced.  
+
+Service Update  
+N242486200 Sunroof Pigtail Wire Undersized for Fuse   
+ 
+  Page 3 of 4 
+  
+6836650
+6836655  
+3. Inspect the fuse located in the F63 position of the fuse block. If there is a 40A fuse at location F63, it MUST be 
+replaced with a 25A fuse.  
+4. If F63 contains a 25A fuse and the cover correctly lists a 25A fuse for F63, no further action is required.  
+5. Reassemble the fuse block and verify the sunroof operates as designed.  
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the serv ice update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, o r any other purpose.  
+ 
+
+Service Update  
+N242486200 Sunroof Pigtail Wire Undersized for Fuse   
+ 
+  Page 4 of 4 
+  
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Managem ent (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+ 
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the intent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be compl eted when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condi tion.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

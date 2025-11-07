@@ -1,0 +1,46 @@
+ 
+System Inoperative on MBUX Headunit 6 Display High
+(Code 549) and Augmented Reality Camera (Code U19)
+Topic number LI54.71-P-078802
+Version 1
+Function group 54.71 - Camera and radar-assisted assistance systems
+Date 2/3/25
+Validity This LI is valid for all NTG6 vehicles.
+Reason for change SA code added
+Complaint
+MBUX headunit display with red text box "System Inoperative".
+ONLY  for vehicles with SA code (549+21U) or (549+U19).
+Cause
+Under analysis.
+Remedy
+For chassis 118, 167, 177, 213, 238, 243, 247, 253, and 293 use Xentry to update headunit (A26/17).
+Target software number is 247 904 6600 (E905.4).
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Communication/information  > Assistance and warning systems  > Parking assist  > 360° camera  > Cannot be activa-
+ted
+06.02.2025   16:50   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+Communication/information  > Assistance and warning systems  > Parking assist  > 360° camera  > No image
+Communication/information  > Assistance and warning systems  > Parking assist  > Reversing camera  > Without pictu-
+re
+Control unit/fault code
+Control unit Fault text
+A26/17 - MBUX multimedia system (Head unit) (HU6) B1E7B00  - The picture from the reversing camera or the
+Parking Pilot is missing or faulty. _
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+06.02.2025   16:50   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

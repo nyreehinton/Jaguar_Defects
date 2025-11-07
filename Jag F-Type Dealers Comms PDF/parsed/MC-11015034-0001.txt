@@ -1,0 +1,180 @@
+1 of 9 Service Bulletin  SB629 Issue 1
+Service Bulletin  SB629
+Issue 1 - 01.2025
+Subject: Front Brake Hose Alignment
+Bulletin Number Models Affected VIN Range Markets Affected
+629 Tiger Sport 800 From CE7729 to CG6198 Canada , North
+America , Japan
+Markets Only
+Background Information
+Dealers are requested to check and, if necessary, reroute the front brake master cylinder hose and front
+brake caliper hose at the ABS modulator as described in the procedure below.
+Customer Contact Instructions
+Motorcycles in the affected VIN range must have this Service Bulletin completed prior to delivery to the
+customer.
+Identification of Affected Motorcycles
+Tiger Sport 800 motorcycles in the above VIN range.
+NOTICE
+Some affected motorcycles listed in the VIN range will have been reworked by Triumph prior to their
+release from the factory.
+Unmodified motorcycles can be identified by checking the ‘VIN Enquiry’ on www.triumphonline.net.
+Warranty Claim Instructions
+Bulletin Number Fault Code Repair Code Description Repair Time
+Allowance
+629 020295929 996291 Check ABS Hose
+Routing0.10 Hrs
+629 020295929 996292 Adjust ABS Hose
+Routing0.40 Hrs
+Genuine Parts Information
+Bulletin Number Part Number Description Quantity
+629 T3550229 Washer, 15.2 x 10 x 1,
+Plated4, required for repair
+code 996292 only
+Parts Ordering Instructions For Triumph Subsidiary and Overseas Distributor
+dealers using Triumph Warranty On-Line with Parts
+Auto Ordering Flag switched on:  Order all repair parts
+by submitting a New Prior through the Warranty On-
+2 of 9 Service Bulletin  SB629 Issue 1Line system. Entering the above repair code in a New
+Prior will automatically add the parts required and
+labour times for this Service Bulletin.
+For Overseas Distributor dealers NOT using Triumph
+Warranty On-Line or for Overseas Distributor dealers
+using Triumph Warranty On-Line with Parts Auto
+Ordering Flag switched off:  Orders should be placed
+using the normal parts ordering procedure.
+Genuine Parts Return Dealer to retain parts for 90 days. All parts must be
+stored in a secure, non-public accessed area and
+correctly identified with a completed warranty label.
+Thereafter, the parts must be rendered unusable
+prior to scrapping.
+Other Instructions
+Once completed, please mark the Service Record Book that the requirements of this bulletin have been
+complied with.
+Before returning the motorcycle to the customer, download the latest calibration using the current version
+of the Triumph diagnostic software to the following:
+•Engine electronic control module
+•Chassis electronic control module (if fitted)
+•Keyless electronic control module (if fitted)
+•Suspension electronic control module (if fitted)
+•Connectivity module (if fitted)
+•Instruments (if applicable).
+Front Brake Hose Alignment Check
+WARNING
+Make sure the motorcycle is stabilised and adequately supported.
+Do not support the motorcycle on any ancillary component, the exhaust system or any other non-
+structural parts of the motorcycle frame.
+A correctly supported motorcycle will help prevent it from falling.
+Failure to follow the advice above could result in serious injury or death.
+1.Remove the seat, refer to the Service Manual.
+NOTICE
+The brake hoses are coloured in the images for visual purposes only,
+Green - front brake caliper to ABS modulator hose.
+Yellow - front brake master cylinder to ABS modulator hose.
+If in doubt contact Triumph Service for clarification.
+1.Visually inspect the brake hoses for correct fitment to the ABS modulator.
+3 of 9 Service Bulletin  SB629 Issue 1
+1
+1
+2
+3•Figure 1
+1.Brake hose swaged joints
+2.Visible gap between front brake master cylinder to ABS modulator hose and locating feature
+3.No visible gap between front brake caliper to ABS modulator hose
+Correct or incorrect fitment of the front brake hoses can be confirmed by comparing brake hose alignment
+images above.
+ Correct front brake hose fitment:
+•Both swaged brake hose joints (1) are visibly misaligned.
+•An air gap is visibly present between the front brake caliper to ABS modulator hose (2) and the locating
+feature.
+ Incorrect front brake hose fitment:
+•Both swaged brake hose joints (1) appear approximately aligned.
+•No air gap is visibly present between the front brake master cylinder to ABS modulator hose (3) and the
+locating feature.
+Correct Brake Hose Alignment
+1.If the two front brake hoses are correct to the visual inspection, as shown in Figure 1 , mark the front
+brake hoses as described below. Adjustment of the ABS hose routing is not required.
+2.Using a paint pen, apply three alignment marks to the front caliper hoses and the corresponding area
+of the locating feature as shown below.
+1.Paint pen marks
+4 of 9 Service Bulletin  SB629 Issue 13.Fit the seat, refer to the Service Manual.
+4.Submit a warranty claim for Check ABS Hose Routing  using repair code 996291.
+Adjust ABS Hose Routing Only
+•If the front brake master cylinder to ABS modulator hose and front brake caliper to ABS modulator hose
+are incorrect and transposed, as shown in Figure 1  continue with Adjust ABS routing.
+NOTICE
+To prevent paint damage, do not spill brake fluid onto any area of the bodywork.
+Spilled brake fluid will damage paintwork.
+1.Disconnect the battery terminals, refer to the Service Manual.
+2.Remove the fixings from one of the front calipers and slide the brake caliper off the brake disc.
+1.Brake caliper
+2.Brake caliper fixings
+NOTICE
+Do not operate the brake lever with the brake caliper removed unless a brake pad spacer is positioned
+between the brake pads.
+5 of 9 Service Bulletin  SB629 Issue 13.Using a 2 millimetre disc brake pad spacer between the brake pads, operate the front brake lever slowly
+until the brake pad spacer pad is held by the brake pads.
+1.Caliper pistons
+2.Brake pads
+3.2 millimetre disc brake pad spacer
+4.Pull the front brake lever towards the handlebar until a small amount of pressure is felt. Cable tie the
+brake lever to this position.
+B02429_212
+1.Brake lever
+2.Cable tie
+6 of 9 Service Bulletin  SB629 Issue 11.Remove the front brake master cylinder hose union and front brake caliper hose union from the ABS
+modulator, collecting any brake fluid. Discard the sealing washers.
+2
+1
+ 3
+1.Front brake master cylinder to ABS modulator
+2.Front brake caliper to ABS modulator
+3.Locating feature
+2.Install a new sealing washer to each side of the unions and connect the brake hoses to the ABS
+modulator in the orientation shown.
+3.Tighten the front brake caliper (1) and front brake master cylinder (2) brake hose unions to 25 Nm .
+1.Front brake caliper to ABS modulator
+2.Front brake master cylinder to ABS modulator
+4.Remove the plastic push rivet from the left fuel tank side panel.
+7 of 9 Service Bulletin  SB629 Issue 15.Pull the right hand fuel tank side panel away from the fuel tank to release the two retaining clips and
+two spigots from the rubber grommets. Note the position of the locking clips for installation.
+1.Plastic push rivet
+2.Fuel tank side panel
+6.Check and if necessary clip the hoses into the clip.
+1.Clip
+2.Front brake caliper to ABS modulator
+3.Front brake master cylinder to ABS modulator
+8 of 9 Service Bulletin  SB629 Issue 17 .Using a paint pen or suitable permanent marker, apply three alignment marks to the front caliper
+hoses and the corresponding area of the locating feature as shown below.
+1.Paint pen marks
+8.Align the fuel tank side panel spigots and locking clips to the fuel tank. Push firmly to engage the panel
+into the fuel tank.
+9.Fit the plastic push rivet.
+1.Plastic push rivet
+2.Fuel tank side panel
+10.Fit the front brake caliper, refer to the Service Manual
+WARNING
+Use only DOT 4 specification brake fluid as listed in the General Information section of this manual.
+The use of brake fluids other than those DOT 4 fluids listed in the General Information section may reduce
+the efficiency of the braking system.
+Failure to follow the advice above may lead to loss of motorcycle control which could result in serious
+injury or death.
+Observe the brake fluid handling warnings given earlier in this section of the manual.
+11.Back bleed the front brake master cylinder, refer to the Service Manual.
+12.Bleed the front brakes, refer to the Service Manual.
+13.Check the front brake caliper unions for any brake fluid leaks. Rectify if necessary.
+14.Connect the battery terminals, refer to the Service Manual.
+15.Fit the seat, refer to the Service Manual.
+9 of 9 Service Bulletin  SB629 Issue 1
+WARNING
+When riding the motorcycle the rider must always wear a safety helmet, eye protection, gloves, boots,
+trousers (close fitting around the knee and ankle) and a brightly coloured jacket.
+Brightly coloured clothing will considerably increase a rider's visibility to other operators of road vehicles.
+Although full protection is not possible, wearing correct protective clothing can reduce the risk of serious
+injury or death when riding.
+16.Carry out a road test. When applying the brakes observe the following:
+•The brakes should have a firm, responsive feel.
+•The brakes should act smoothly and silently without judder.
+•Upon activation of the brakes, the motorcycle should come to rest without deviating from a straight
+line.
+17 .If required, rectify any faults discovered after the brake test.
+18.Submit a warranty claim for Adjust ABS Hose Routing  using repair code 992692.

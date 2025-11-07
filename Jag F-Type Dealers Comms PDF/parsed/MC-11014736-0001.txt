@@ -1,0 +1,92 @@
+Technical Service Bulletin
+                Date:  February 3, 2025
+Bulletin Name:  FDM-TSB-004
+              Model:  Oshkosh S-Series 2.0
+Units Affected:  SN 829379 - 8297662.0 Load-Span Tag Axle (LSTA)  
+Piston Accumulator Pressure Check1
+SAFETY  NOTICE
+Use appropriate Personal Protective 
+Equipment (PPE) as required by your 
+company .
+Purpose:
+This bulletin provides information and instructions for visually inspecting the LSTA piston accumulators to make 
+sure the correct pressure accumulators were installed on the vehicle. A group of incorrect pressure accumulators 
+were sent by the supplier and may have been installed on vehicles built between 8/1/2024 to 10/2/2024. A visual 
+inspection of the accumulator label will determine if the correct accumulators were installed.
+Notice:
+• This bulletin should be read and understood in its entirety before performing this procedure.
+• All procedures outlined in the bulletin must be performed by skilled service personnel. Refer to the product 
+service manual for descriptions of maintenance procedures.
+Procedure:
+Lockout/Tagout
+1. Place unit on a flat surface, block truck tires, and perform your company’ s Lockout/Tagout procedure. If your 
+company does not have a Lockout/Tagout procedure, follow OSHA 1910.147 and 1910.146 Confined Space as 
+appropriate.
+2. The vehicle’s BATTERY DISCONNECT switch is located on the left-hand side of the battery box. Use the 
+battery disconnect switch when performing any maintenance so the vehicle cannot accidentally be started.
+a. Turn the battery disconnect switch (Figure A, Item 1) counterclockwise so the hole on the switch aligns 
+with the hole in the bracket (Figure A, Item 2).
+b. Install the safety lockout device ring (Figure B, Item 1) through the holes on the battery disconnect switch 
+and the bracket.
+c. Install a padlock (Figure B, Item 2) onto the safety lockout device ring, lock it, and put the key in your 
+pocket. If more than one person is working on the vehicle, each person must install his or her own padlock.
+Figure A
+DANGER
+This energy source has
+Unauthorized removal ofthis lock/tag may resultin immediate discharge.Remarks:been LOCKED OUT!
+ Figure B1
+21
+2
+SAFETY  NOTICE
+Perform your company’ s Lockout/T agout 
+procedure. If your company does not have a 
+Lockout/T agout procedure, follow OSHA  
+1910.147 and 1910.146 Confined Space as 
+appropriate.
+2Piston Accumulator Inspection
+3. Locate the two piston accumulators mounted inside the left-hand frame rail at the rear of the vehicle. See 
+Figure 1 .
+Figure 1
+Piston 
+Accumulators
+4. Inspect the piston accumulator labels and make sure one piston accumulator is pre-charged to 1200 PSI and 
+the second is pre-charged to 300 PSI. See Figure 2 .
+If the vehicle has an incorrect PSI piston accumulator installed contact Parker ’s mobile hydraulic account 
+manager. Parker will set up an appointment to have a Parker technician come to your location and correct the 
+piston accumulator pressure at no cost to you.
+ Grant Noll – Mobile Hydraulic Account Manager
+ (440) 226-2537
+ grant.noll@parker.com
+Figure 2
+Correct 
+1200 PSIIncorrect  
+500 PSICorrect  
+300 PSI
+3
+Continuous Improvement:
+The change included in this document is part of the 
+McNeilus Continuous Improvement Process.
+McNeilus ’s quality policy is providing customer satisfaction 
+through innovative products, dedicated service, and a 
+constant focus on continuous improvement.(888) 686-7278
+www.streetsmartparts.com
+5. Remove lockout/tagout and wheel chocks.
+Reimbursement of Costs
+Affected units shall be inspected using the customer’s own qualified service technicians - at no cost to the owner. 
+The inspection should take approximately 30 minutes to complete.
+Labor Reimbursement
+In order to receive inspection credit, claims are to be submitted through the normal warranty claim system. Claims 
+must be received within 30 days of the repair. Claims must include the serial number of the truck, the customer 
+asset number, and the number of this bulletin.
+Parts Reimbursement
+Parker will adjust the accumulator for no cost. Contact Parker’s mobile hydraulic account manager to set up an 
+appointment for a Parker technician to come to your location and correct the piston accumulator pressure.
+ Grant Noll – Mobile Hydraulic Account Manager
+ (440) 226-2537
+ grant.noll@parker.com
+Deadline
+If required, this service update should be performed at the earliest opportunity . For labor reimbursement, a 
+warranty claim form with proof of pressure adjsutment from Parker must be submitted by August 3, 2025 .
+Contacts
+If you have questions or need further information, please contact a McNeilus National Service Representative at 
+888-686-7278.

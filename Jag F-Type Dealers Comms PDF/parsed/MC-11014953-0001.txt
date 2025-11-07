@@ -1,0 +1,26 @@
+Models MY Engine Transmission Topic Customer ComplaintPowertrainAtlas, Cross Sport 24-25 All All MIL-on P0442Customer states MIL-on, P0442 stored in ECM memory
+(leak must be from fuel cap area)
+(Untouched vehicles)
+ID.4 21-24 All All CMCe FaultsCustomer states Electrical System Error Message, U04A1 [42304], 
+U04A5 [42336], and/or U04A9 [42444] stored in DA:008C
+(No other relevant DTCs stored in DA:008C)
+ID.4 23-24 All All No Start (Tow In)Customer states vehicle does not start; key not detected. No 
+communication to J519 active. AW 19: U014000[2170894][2240526], 
+B1248F3[1074443], U17B900[8398624] active DTC’s
+(Untouched vehicles)
+Tiguan 24 All All Striker PlateCustomer states wind noise and or water ingress
+(Untouched vehicles)
+Atlas, Cross Sport 24-25 All All Seat RattleCustomer states middle row seat rattles 
+(Untouched vehicles)
+Atlas / Atlas Cross 
+Sport24 All All Driveshaft VibrationCustomer states vibration from front of the vehicle at highway speeds
+(Untouched vehicles)
+Atlas / Atlas Cross 
+Sport24 All AllAnti-Roll Bar Coupling 
+Link NoiseCustomer states there is a noise from the front of the vehicle
+(Untouched vehicles)
+Atlas / Atlas Cross 
+Sport24-25 All All CV Boot LeakingCustomer states there is a leak from the front of the vehicle
+(Untouched vehicles)On-car analysis list from February 19th, 2025
+please contact VW Helpline before attempting repairE-Mobility Body Chassis
+# Public  

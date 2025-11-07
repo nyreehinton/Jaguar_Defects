@@ -1,0 +1,355 @@
+ 
+ 
+Page 1 of 14  
+ SC-20-076 
+Subject  E2 40FT Ecab Top Bracket Retrofit  
+Issue Date  10/30/23  
+Service Bulletin Number  SC-20-076 
+Models Affected  Service Specified Vehicles  
+Complete By  Next Service Opportunity  
+Labor Operation Code  ID41Z  
+Description  This bulletin details the process to replace brackets supporting the 
+vertical ecab stanchions for increased rigidity.  
+ 
+Labor Table  
+ Operation  Technicians  Hours  Labor Time (T x H)  
+1 Steps 1 -32  1 4 4 Hours  
+  Total Labor Time:  4 Hours  
+Contact the Proterra Customer Service Team with any  
+questions related to the following procedure.  
+864-438-0000   
+Service@Proterra.com   
+ 
+ 
+Page 2 of 14  
+ SC-20-076 Tools Required:  
+• T-30 Torx Driver  • Power Drill  
+• Ratchet  • 10mm Drill Bit  
+• Torque Wrench (foot -pounds and inch -pounds)  • 21/32 -Inch Drill Bit  
+• 13mm socket  • 36-Grit Sanding Disc  
+• 10mm socket  • 36-Grit Sand Paper  
+• 13mm combination wrench  • Isopropyl Alcohol  
+• 10mm combination wrench  • Shop Towels  
+• Permanent Marker    Parts Required:  
+053858  ECAB, 40’ RR, BRACKET RETROFIT KIT   Qty. UOM  
+  005443 -003 BOLT,HEX,FLANGE,STL,YZPL,CLASS 10.9, M8 -1.25X20X20  6 EA 
+  005443 -011 BOLT,HEX,FLANGE,STL,YZPL,CLASS 10.9, M8 -1.25X45X22  4 EA 
+  018221  STEEL OVERSIZE WASHER M12  4 EA 
+  018308 -003 SCREW, PAN, TAP, SS, ST6.3X19  4 EA 
+  018569  LOCKNUT, HEX, M8 -1.25 10 EA 
+  018570  NUT, NYLOK, NON -SERRATED, M10 FLANGE, ZINC  8 EA 
+  046644  PLATE, STUD  2 EA 
+  046744  BRACKET, ECAB, TOP  1 EA 
+  046759  BRACKET, ECAB, TOP  1 EA 
+  053796  BUSHING, PLASTIC ISOLATOR  8 EA 
+ 194-7411  MOUNT, STUD PLATE, ECAB FLOOR  2 EA 
+ 194-9798  BRACKET,ECAB FLOOR  2 EA 
+          
+065287  Service Retrofit Kit, Add -On, Consumables, BODY MATERIAL   Qty. UOM  
+  018362  PLEXUS, MA -530 1 EA 
+  023387  ISOPROPYL ALCOHOL - RUBBING IN GALLON  1 GL 
+  050318  PROMOTED VINYL ESTER RESIN, COMPOSITE, BODY  1 EA 
+  050675  MEKP, COMPOSITE, BODY  1 EA 
+  063493  Composite, Biaxial, 1708  1 M 
+ 
+ 
+Page 3 of 14  
+ SC-20-076 Overview:  
+• Remove original ecab bottom brackets  
+• Bond new stud plates to bus floor  
+• Install new ecab bottom brackets  
+Step 1:  
+Power down the bus and perform the Proterra -approved lockout/tagout procedure before  
+beginning work.  
+ 
+Remove the driver seat, ecab cover, wheel well box, and any other components necessary to gain 
+access to the ecab structure and driver ’s platform, shown below.  
+ 
+Do not remove ecab stanchions.  
+ 
+ 
+  
+Ecab Bottom Brackets  
+ 
+ 
+Page 4 of 14  
+ SC-20-076 Step 2:  
+Using the templates attached to 
+this bulletin (pages 13 and 14) 
+cut out fiberglass sheets needed 
+to bond the stud plate to the bus 
+floor.  
+Make sure to cut out bolt -holes 
+located in the center of the  
+templates.  
+  
+Step 3:  
+Position the floor brackets as 
+shown and draw an outline 
+around each bracket to mark  
+the location of where the stud 
+plates will be installed.   
+Step 4:  
+ 
+Mark the center of the bracket slots onto the bus floor and drill four holes with a diameter of 24 mm 
+and a depth of 3 mm. Recessed holes are needed for the stud plates to sit level on the bus floor.  
+ 
+Step 5:  
+Wrap the threads of the stud 
+plate studs with painter ’s tape to 
+protect them from fiberglass  
+resin.   
+ Fiberglass Sheets  
+Layer  Material  Dimensions  Qty. 
+1 1708  84 mm x 122 mm  2 
+2 1708  134 mm x 172 mm  2 
+3 1708  184 mm x 222 mm  2 
+
+ 
+ 
+Page 5 of 14  
+ SC-20-076 Step 6:  
+Abrade the bonding surfaces 
+(top and bottom) of the two stud 
+plates (194 -7411) with a 36 -grit 
+sanding disc.   
+ 
+Clean the abraded surfaces with  
+Isopropyl alcohol then apply  
+metal primer (020990).  
+ 
+The properly coated surface will  
+have a light pink finish.  
+  
+Step 7:  
+Lightly scuff the bus floor within the area outlined in Step 3 with 36 -grit sanding disc.  
+ 
+Clean abraded surface with isopropyl alcohol to remove dust and debris.  
+ 
+Step 8:  
+Apply a generous portion of 
+Plexus MA -530 to the  
+underside of both stud plates  
+(194-7411) and spread out to 
+achieve full coverage.   
+Step 9:  
+Position both stud plates  
+(194-7411) onto the floor of the  
+bus aligning them with the  
+recessed holes drilled in Step 4.  
+ 
+Apply downward pressure to the 
+plates until level contact is made 
+with the floor.   
+    
+ 
+
+ 
+ 
+Page 6 of 14  
+ SC-20-076 Step 10:  
+Spread the excess Plexus  
+material around the stud plate to 
+create a smooth transition from 
+the stud plate to the floor.   
+Step 11:  
+Allow 90 minutes for Plexus to fully cure and bond stud plates to bus floor.   
+ 
+Step 12:  
+Prepare the resin mix used for 
+coating the fiber glass.  
+ 
+Mix Resin and MEKP in the ratio 
+as shown until fully blended.  
+ 
+Follow all safety guidance  
+provided by chemical  
+manufacturers.   
+Step 13:  
+Apply the resin mixture and install fiberglass sheets.  
+ 
+• Wear gloves and appropriate PPE  
+• Place a piece of clean cardboard on a flat surface to be used as a working area  
+• Place the Layer 1 fiberglass sheets (84 mm x 122 mm) onto the cardboard and use a paintbrush 
+to coat the first side with the resin mixture, brushing from center to outside.  
+• Flip-over the Layer 1 sheets and continue coating the other side until fiberglass is fully saturated.  
+• Position one of the Layer 1 fiberglass sheets over each of the bonded stud plates (194 -7411)  
+• Smooth and flatten the fiberglass sheet, ensuring consistent contact with the bus floor.  
+• Apply an additional layer of resin on top of fiberglass after positioning in place.     
+
+ 
+ 
+Page 7 of 14  
+ SC-20-076 Step 14:  
+Apply additional fiberglass layers 
+two and three using the same 
+process from Step 13 . 
+ 
+After all layers have been  
+applied, roll the layers of fiber-
+glass flush to the stud plate and 
+floor, removing any air  
+bubbles.   
+Step 15:  
+Allow four hours for saturated fiberglass to fully cure.  
+When fiberglass has fully hardened and is no longer tacky, clean up any rough edges by lightly  
+sanding with 36 -grit sandpaper.  
+ 
+Caution: Do not remove any thickness from the outer layer of fiberglass.  
+ 
+Clean work area and dispose of any un -used resin mixture.  
+ 
+Step 16:  
+Fit the ecab floor bracket  
+(194-9798) on the stud plate 
+(194-7411) and ensure the  
+bottom slot is aligned with the 
+top bolt hole in the ecab vertical 
+stanchion.  
+ 
+Mark the center of the top  
+attachment point of the ecab 
+bracket.  
+ 
+Remove the bracket and drill a 
+hole completely through the  
+ecab stanchion with an M10 drill 
+bit.    
+
+ 
+ 
+Page 8 of 14  
+ SC-20-076 Step 17:  
+Install the ecab bracket to the 
+stud plate and vertical stanchion.  
+ 
+Attach fasteners and torque as 
+shown.  
+ 
+Torque stripe M10 and M8 lock-
+nuts.  
+ 
+Repeat for other side.  
+ 
+  
+Step 18:  
+The procedure to install the bottom brackets is now complete.   
+
+ 
+ 
+Page 9 of 14  
+ SC-20-076 Overview:  
+• Remove the original ecab top brackets  
+• Install new ecab top brackets  
+• Install new stud plates to bus body interior.  
+ 
+Step 19:  
+Power down the bus and perform the Proterra -approved lockout/tagout procedure before  
+beginning work.  
+ 
+Before beginning this procedure remove the original brackets and rotolocs located at the top of the 
+ecab vertical stanchions.  
+ 
+ 
+  
+Ecab Top Brackets  
+ 
+ 
+Page 10 of 14  
+ SC-20-076 Step 20:  
+Assemble bracket (046759) and 
+bracket (046744).   
+Step 21:  
+Attach stud plate (046644) to the 
+assembled brackets.  
+  
+Step 22:  
+Attach the assembled bracket to 
+the square tubing on the street 
+side of the bus with original 
+fasteners.  
+ 
+Adjust the bracket for the best fit 
+of the stud plate (046644) for 
+mounting to the bus body.  
+ 
+Draw an outline of the stud plate 
+(046644) onto the bus body 
+interior.   
+
+ 
+ 
+Page 11 of 14  
+ SC-20-076 Step 23:  
+Attach stud plate (046644) to the 
+original curbside bracket 
+(046741) with fasteners.   
+Step 24:  
+Loosely attach assembled 
+bracket to the curbside ecab 
+stanchion using the original 
+fasteners.  
+ 
+Adjust the bracket for the best fit 
+to mount the stud plate to the bus 
+body interior wall.  
+ 
+Using a permanent marker, 
+outline the stud plate onto the 
+bus body interior wall.  
+  
+Step 25:  
+Temporarily remove the assembled brackets from both sides of the vertical ecab stanchions.  
+ 
+Step 26:  
+Using a power drill with a 36 -grit sanding disc, lightly scuff the back side of both stud plates (046644) 
+and the areas of the interior bus body that were outlined in previous steps.  
+Clean the scuffed areas with a shop towel and isopropyl alcohol.  
+ 
+Step 27:  
+Apply Plexus Primer (018362) to the scuffed areas on the back of the stud plates (046644).  
+ 
+
+ 
+ 
+Page 12 of 14  
+ SC-20-076 Step 28:  
+Apply Plexus (018362) to the back of the stud plates (046644) and  
+re-attach to the ecab vertical stanchions.  
+ 
+Step 29:  
+Adjust the re -attached brackets 
+so the stud plates contact the bus 
+body in the outlined locations.  
+ 
+Using a #2 phillips screwdriver 
+secure the stud plates to the bus 
+body with self tapping screws 
+(018308 -003).  
+ 
+Streetside bracket shown in 
+illustration.    
+Step 30:  
+Allow 60 minutes for Plexus to fully cure.  
+ 
+Step 31:  
+Torque fasteners to specifications provided:  
+ 
+  
+Step 32:  
+Re-install all components previously removed to access the ecab brackets and return bus to service.  
+ 
+Fastener Size:  Socket Size:  Torque Value:  
+M6 10 mm  51 inch -pounds  
+M8 13 mm  20 foot -pounds  
+M10 16 mm  46 foot -pounds  
+ 
+ 
+Page 13 of 14  
+ SC-20-076 
+Templates for Fiberglass Sheets  
+ 
+ 
+Page 14 of 14  
+ SC-20-076 
+Templates for Fiberglass Sheets  

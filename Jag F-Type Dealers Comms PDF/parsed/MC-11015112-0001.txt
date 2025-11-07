@@ -1,0 +1,279 @@
+Technical InformationService
+72/23 ENU WPG06
+WPG0 - Rework Roof Module Bonding (Workshop Campaign)
+Model Line: 911 (992)
+Model Year: 2022
+Concerns: Roof assembly
+Cause: On the affected vehicles, there is a possibility that the bonding of the roof module does not
+completely seal against the body due to a production error.If this is the case, a potential water leak cannot be ruled out.
+Action required: Rework roof module bonding.
+Affected
+Vehicles:Only vehicles assigned to the campaign (see also PCSS Vehicle Information).
+Required parts and materials
+Parts Info:Part No. Designation
+— Point of useNumber
+992959214 Roof console trim 1 piece
+Additional required parts for vehicles with the following equipment:
+Without roof insert (full roof) (M-no. 3FA ) or carbon lightweight roof (M-no. 3FF)
+9A700775500 Cheese head bolt M12 x 14 x 18/
+—F r o n ts e a tb e l t2 pieces
+N 98925801 Cheese head bolt with multiple-tooth head 7/16”
+20UNFX42
+— Rear seat belt2 pieces
+N 91026201 Hexagon collar nut, M10
+—R e a rb e l tb u c k l e2 pieces
+Additional required parts for vehicles with the following equipment:
+Full bucket seats (M-no. Q1K)
+9A700748300 External hexagon round-head bolt M10 x 28
+—S e a t8 pieces
+Additional required parts for vehicles with the following equipment:
+Clubsport package (M-no. 6A9)
+PAF912572 Hexagon flange bolt M8 x 22 6 pieces
+AfterSalesJan 15, 2025
+Page 1 of 12
+Service6 WPG0 ENU72/23Technical Information
+PAF104513 Cheese head bolt with internal multiple-tooth head,
+M 1 2x1 . 5x5 52 pieces
+PAF910758 Cheese head bolt with multiple-tooth head M10 x 30 4 pieces
+Material: Required materials
+V04015003C Acoustic foam 0.5 piece
+Required tools
+Tools: • V.A.G 1628 - Hand cartridge gun orVAS 6648 - compressed air gun
+•3438 - Hooks
+• Torque wrench, e.g. VAS 6253A - Torque wrench 0.4-2 Nm (0.3-1.5 ftlb.)
+• Torque wrench, e.g. V.A.G 1783 - Torque wrench 2-10 Nm (1.5-7.5 ftlb.)
+Additional required tool for vehicles with the following equipment:
+Without roof insert (full roof) (M-no. 3FA ) or carbon lightweight roof (M-no. 3FF)
+• Torque wrench, e.g. VAS 5820 - Torque wrench, 20-100 Nm (15-74 ftlb.)
+Additional required tool for vehicles with the following equipment:Clubsport package (M-no. 6A9)
+•VAS 6845 - Scraper/Spatula/Lever set
+Preparatory work
+Only relevant for vehicles with the following equipment:•Electric slide/tilt roof (M-no. 3FD) or electric slide/tilt roof made of glass (M-no. 3FE)
+Work Procedure: 1 Remove sun visors on the left and right.
+Workshop Manual '682319 Removing and installing sun visor'
+2 Remove (upper part of) A-pillar trim panels on the left and right.
+Workshop Manual '70571915 Removing and installing A-pillar trim panel (upper part)'
+3 Remove front roof console.
+Workshop Manual '708319 Removing and installing front roof console'
+Preparatory work
+Only relevant for vehicles with the following equipment:•Without roof insert (full roof) (M-no. 3FA ) or carbon lightweight roof (M-no. 3FF)
+Jan 15, 2025
+Page 2 of 12 AfterSales
+Technical InformationService
+72/23 ENU WPG06
+Work Procedure: 1 On vehicles with Clubsport package (M-no. 6A9):
+Remove rollover protection bar.
+Workshop Manual '69721925 Removing and installing rollover protection bar'
+2 Remove roof trim panel.
+Workshop Manual '708419 Remove and install roof trim panel'
+Reworking roof module bonding
+Only relevant for vehicles with the following equipment:
+•Electric slide/tilt roof (M-no. 3FD) or electric slide/tilt roof made of glass (M-no. 3FE)
+Work Procedure: 1 Fully open the slide/tilt roof.
+2 Move driver’s and passenger’s seat backrest back as far as it will go.
+3 Pull off rubber seal for front door in the work area.
+Sun visor holder4 Remove sun visor holder Sun visor holder -1-.
+4.1 Open the cover Sun visor holder -2-(
+Sun visor holder -Arrow- ).
+4.2 Unscrew screw Sun visor holder -3-under
+the cover Sun visor holder -2-and remove
+sun visor holder Sun visor holder -1-.
+AfterSalesJan 15, 2025
+Page 3 of 12
+Service6 WPG0 ENU72/23Technical Information
+Front screws5U n s c r e w s c r e w s Front screws -1-from the
+headliner Front screws -2-.
+Screws for slide/tilt roof6U n s c r e w s c r e w s Screws for slide/tilt roof -1-in
+the area of the slide/tilt roof.
+Clips for slide/tilt roof7 Unclip Clips for slide/tilt roof -Arrow- headliner in
+the covering frame area by pulling it downwards 
+Clips for slide/tilt roof -1-.
+Jan 15, 2025
+Page 4 of 12 AfterSales
+Technical InformationService
+72/23 ENU WPG06
+Roof trim panel8 Unclip headliner Roof trim panel -1-at the sides
+from front to rear Roof trim panel -2-.
+Information
+Make sure that the roof cover does not buckle.
+9 Carefully pull down the roof trim panel on the front of
+the roof aperture for the slide/tilt roof and secure it
+with suitable wedges so that the adhesive seam of
+the roof module is accessible.
+10 Cover the repair area generously using suitable tools.
+Bonding on roof module11 Fill adhesive void with foam filler body.
+Workshop Manual '5X00IN22 Processing body
+foam ﬁller'
+11.1 Insert the nozzle into the adhesive void, spray
+it briefly and pull the nozzle back until foam
+emerges.
+11.2 Remove fresh foam residues immediately
+using PU cleaner.
+11.3 Allow the foam filler on the body to harden
+and remove excess foam mechanically if
+necessary.
+AfterSalesJan 15, 2025
+Page 5 of 12
+Service6 WPG0 ENU72/23Technical Information
+Roof trim panel12 Clip in headliner Roof trim panel -1-at the sides
+from front to rear Roof trim panel -2-.
+Clips for slide/tilt roof13 Clip roof trim panel upwards in the area of the cover
+frameClips for slide/tilt roof -1-.
+Screws for slide/tilt roof14 Screw in screws Screws for slide/tilt roof -1-in the
+area of the slide/tilt roof and use Tightening torque
+1 . 5N m( 1 . 1f t l b . )+ 0 . 1N m( 0 . 1f t l b . ) .
+15 Screw in screws Front screws -1-in roof
+trim panel Front screws -2-and tighten with
+tightening torque 1 Nm (0.7 ftlb.) .
+Jan 15, 2025
+Page 6 of 12 AfterSales
+Technical InformationService
+72/23 ENU WPG06
+Front screws
+Sun visor holder16 Install sun visors Sun visor holder -1-.
+16.1 Installing sun visor holder Sun visor holder
+-1-
+16.2 Screw in screw Sun visor holder -3-under
+coverSun visor holder -2-and tighten with
+tightening torque 5.5 Nm (4.1 ftlb.).
+16.3 Close cover Sun visor holder -2-.
+17 Push on rubber seal for front door in the work area.
+18 Move driver and passenger seat backrest to its
+original position.
+19 Close the slide/tilt roof.
+Reworking roof module bonding
+Only relevant for vehicles with the following equipment:
+•Without roof insert (full roof) (M-no. 3FA ) or carbon lightweight roof (M-no. 3FF)
+Work Procedure: 1 Cover the repair area generously using suitable tools.
+AfterSalesJan 15, 2025
+Page 7 of 12
+Service6 WPG0 ENU72/23Technical Information
+Bonding on roof module2 Fill adhesive void with foam filler body.
+Workshop Manual '5X00IN22 Processing body
+foam ﬁller'
+2.1 Insert the nozzle into the adhesive void, spray
+it briefly and pull the nozzle back until foam
+emerges.
+2.2 Remove fresh foam residues immediately
+using PU cleaner.
+2.3 Allow the foam filler on the body to harden
+and remove excess foam mechanically if
+necessary.
+Follow-up actions
+Only relevant for vehicles with the following equipment:
+•Electric slide/tilt roof (M-no. 3FD) or electric slide/tilt roof made of glass (M-no. 3FE)
+Work Procedure: 1 Install front roof console.
+Workshop Manual '708319 Removing and installing front roof console'
+2 Install left/right A-pillar (upper) trim panels.
+Workshop Manual '70571915 Removing and installing A-pillar trim panel (upper part)'
+3 Install sun visors at the left and right.
+Workshop Manual '682319 Removing and installing sun visor'
+4 Enter campaign in the Warranty and Maintenance logbook.
+Follow-up actions
+Only relevant for vehicles with the following equipment:•Without roof insert (full roof) (M-no. 3FA ) or carbon lightweight roof (M-no. 3FF)
+Work Procedure: 1 Install roof trim panel.
+Workshop Manual '708419 Remove and install roof trim panel'
+Jan 15, 2025
+Page 8 of 12 AfterSales
+Technical InformationService
+72/23 ENU WPG06
+Install rollover protection bar. Workshop Manual '69721925 Removing and installing rollover
+protection bar'
+3 Enter campaign in the Warranty and Maintenance logbook.
+Warranty processing
+Information
+The specified labor times were determined specifical ly for carrying out this campaign and include all
+necessary preliminary and subsequent rework. The labor times may differ from the labor times published
+in the Labor Operation List in PCSS.
+Scope 1: Reworking roof module bonding
+Only relevant for vehicles with the following equipment:
+• Electric slide/tilt roof (M-no. 3FD) or electric slide/tilt roof made of glass (M-no. 3FE)
+Labor time:
+Reworking roof module bonding
+Includes:
+Removing and installing A-pillar trims
+Removing and installing upper part of A-pillar trim panels
+Removing and installing dashboard trim panelLoosening and fastening front headlinerLabor time: 167 TU
+Required parts and materials:
+992959214 Roof console trim 1 piece
+and
+V04015003C Acoustic foam 0.5 piece
+Damage Number WPG0 066 000 1
+Scope 2: Reworking roof module bonding
+Only relevant for vehicles with the following equipment:
+• Without roof insert (full roof) (M-no. 3FA) or carbon lightweight roof (M-no. 3FF)
+AfterSalesJan 15, 2025
+Page 9 of 122On vehicles with Clubsport package (M-no. 6A9):
+Service6 WPG0 ENU72/23Technical Information
+• Full bucket seats (M-no. Q1K)
+• Clubsport package (M-no. 6A9)
+Labor time:
+Reworking roof module bonding
+Includes:
+Remove and install roof trim panelLabor time: 221 TU
+Required parts and materials:
+992959214 Roof console trim 1 piece
+9A700775500 Cheese head bolt M12 x 14 x 18 2 pieces
+N 98925801 Cheese head bolt with multiple-tooth head 7/16”
+20UNFX422 pieces
+N 91026201 Hexagon collar nut, M10 2 pieces
+and
+V04015003C Acoustic foam 0.5 piece
+Damage Number WPG0 066 000 1
+Scope 3: Reworking roof module bonding
+Only relevant for vehicles with the following equipment:
+• Without roof insert (full roof) (M-no. 3FA) or carbon lightweight roof (M-no. 3FF)
+• Full bucket seats (M-no. Q1K)
+Without:• Clubsport package (M-no. 6A9)
+Labor time:
+Reworking roof module bonding
+Includes:
+Remove and install roof trim panelRemoving and installing front seatsLabor time: 307 TU
+Jan 15, 2025
+Page 10 of 12 AfterSalesWithout:
+Technical InformationService
+72/23 ENU WPG06
+992959214 Roof console trim 1 piece
+9A700775500 Cheese head bolt M12 x 14 x 18 2 pieces
+N 98925801 Cheese head bolt with multiple-tooth head 7/16”
+20UNFX422 pieces
+N 91026201 Hexagon collar nut, M10 2 pieces
+9A700748300 External hexagon round-head bolt M10 x 28 8 pieces
+and
+V04015003C Acoustic foam 0.5 piece
+Damage Number WPG0 066 000 1
+Scope 4: Reworking roof module bonding
+Only relevant for vehicles with the following equipment:• Without roof insert (full roof) (M-no. 3FA) or carbon lightweight roof (M-no. 3FF)
+And:• Full bucket seats (M-no. Q1K)
+• Clubsport package (M-no. 6A9)
+Labor time:
+Reworking roof module bonding
+Includes:
+Remove and install roof trim panel
+Removing and installing front seats
+Removing and installing rollover protection barLabor time: 397 TU
+Required parts and materials:
+992959214 Roof console trim 1 piece
+9A700775500 Cheese head bolt M12 x 14 x 18 2 pieces
+N 98925801 Cheese head bolt with multiple-tooth head 7/16”
+20UNFX422 pieces
+N 91026201 Hexagon collar nut, M10 2 pieces
+AfterSalesJan 15, 2025
+Page 11 of 12Required parts and materials:
+Service6 WPG0 ENU72/23Technical Information
+9A700748300 External hexagon round-head bolt M10 x 28 8 pieces
+PAF912572 Hexagon flange bolt M8 x 22 6 pieces
+PAF104513 Cheese head bolt with internal multiple-tooth head,
+M 1 2x1 . 5x5 52 pieces
+PAF910758 Cheese head bolt with multiple-tooth head M10 x 30 4 pieces
+and
+V04015003C Acoustic foam 0.5 piece
+Damage Number WPG0 066 000 1
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Po rsche service training
+courses. They are written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special
+tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche reco mmends in these bulletins may be detrimental to the
+safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety ins tructions, and know-how to do the job properly and
+safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic an dt e s t i n gd e v i c et a k ep r e c e d e n c ea n d ,i nt h ee v e n to fa
+discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.© 2025 Porsche Cars North America, Inc.
+Jan 15, 2025
+Page 12 of 12 AfterSales

@@ -1,0 +1,69 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Feature Limitations - EX90 Dealer Demo VehiclesRef. No.
+TJ 37159.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/24/25Status Date
+1/24/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3018
+Function Description
+SoftwarePage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+*Structure week range adjusted
+For dealer-demo vehicles some features will have a later introduction or limited function, please see 
+list of features under “Service” .  
+CSC   Customer Symptom Codes
+Code Description
+EG Approach and home safe lighting/Does not work
+VZ Locking/unlocking/Other central locking problems
+64 Pilot assist/Does not work
+35 Power outlet/Wireless phone charger does not work
+4M Bluetooth/Problem to add/pair cellular phone
+6B Buttons/control knobs on centre console (Media, communication and navigation)/No/reduced/incorrect 
+function
+IN Navigation/Bright/dark colors cannot be changed
+48 Parking assistance/Parking Assist Pilot (PAP) does not work
+3I Door mirrors/Folding does not work
+1C Service/repair/Administrative and Factory scheduled maintenance
+3L Technician information/Repair information/Not for warranty use
+2V Technician information/Software/Vehicle communication/Not for warranty use
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-2025 - 202417-202507
+Page 2 of 2 2025-01-24
+Technical Journal 37159.2.0SERVICE:
+The intention with this Technical Journal is to avoid fault tracing or part replacements for known 
+deviations.
+Following features are currently not fully activated/available: 
+• Park Pilot Assist
+• Double lock
+• Automatically lock car when leaving
+• Centre display in light mode (only Dark mode active)
+• Wireless Apple CarPlay 
+• Turn Off the Display to clean the center display
+• Approach light, rear lamps not active
+• Bluetooth might not connect automatically
+• Pilot Assist (Hand detection together with active heated steering wheel)
+Following features might need manual activation first time after central computer restart (once a 
+night): 
+• Approach “front light” 
+• WPC (Wireless Phone Charging)
+• Climate timer (Volvo Cars App can be used)
+• Bluetooth connection
+Following features are currently not planned to be available for EX90: 
+• Light in steering wheel buttons
+• Folding outer mirrors when locking the car 
+  
+Warranty claim info:
+No warranty claim is accepted for this TJ.
+VEHICLE REPORT:
+N/A

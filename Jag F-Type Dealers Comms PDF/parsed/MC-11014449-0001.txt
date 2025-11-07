@@ -1,0 +1,49 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)UD5, UD7, or UK C
+ConditionA customer ma y request the pickup box and rear bumper be
+removed to install an aftermark et bed or body .  If the vehicle is
+equipped with Side Blind Zone Alert (UK C) or P ark Assist
+(UD5/UD7) there will be "Service" messages displa yed on the
+DIC due to missing modules and sensors after the box and rear
+bumper are removed.
+Cause Information not readily available in Service Information (SI.)
+Bulletin No.: PIT5744E
+Published date: 02/17/2025
+Preliminary Information
+PIT5744E Disabling Side Blind Zone Alert and/or Park Assist
+Systems When Removing Pickup Box and/or Bumper
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 1500 (New Model) 2019 All AllAll All
+Chevr oletSilverado 1500 2020 - 2025 All AllAll All
+Chevr oletSilverado 2500HD 2020 - 2025 All AllAll All
+Chevr oletSilverado 3500HD 2020 - 2025 All AllAll All
+GMC Sierra 1500 (New Model) 2019 All AllAll All
+GMC Sierra 1500 2020 - 2025 All AllAll All
+GMC Sierra 2500HD 2020 - 2025 All AllAll All
+GMC Sierra 3500HD 2020 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+Reference the latest version of GM Upﬁtter Integration Bulletin 168. The information can
+be found at http://www .gmupﬁtter .com/  under the "T echnical Bulletin" T ab and then "Show
+all bulletins."
+Additional SI K eywords
+detection, disable, disabled, object, SBZA, SOD,
+Version History
+Version 6
+Modiﬁed05/26/2020 - Created per BQM K evin Minor
+request.  
+03/05/2021 - Added 2021 Model Y ear. 
+01/14/2022 - Added 2022 Model Y ear. 
+02/27/2023 - Added 2023 Model Y ear. 
+02/21/2024 - Added 2024 Model Y ear. 
+02/17/2025 - Added 2025 Model Y ear.
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

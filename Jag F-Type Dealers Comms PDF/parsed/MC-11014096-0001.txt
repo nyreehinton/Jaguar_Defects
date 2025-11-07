@@ -1,0 +1,57 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-003
+Service BulletinDate: January, 2025
+TECHNICAL
+Rattle Type Noise Heard from Brake Pedal Area
+ 
+Brand: Model: Model Year: VIN Breakpoint: Engine: Transmission:
+from to from to
+GMCHUMMER EV
+20242025
+— — — —
+HUMMER EV SUV 2024
+ 
+Involved Region or Country North America, Mexico, Middle East, Israel
+Condition Some customers may comment on a rattle type noise heard from the brake pedal area.
+Cause
+6805453
+This condition may be caused by excess body seam sealer was found extending under
+the brake pedal housing near the sky bolt (single bolt on top of the housing), as shown in
+the picture above.
+Correction Trim back the excess body seam sealer following the procedure below.Subject:
+ 
+Service Procedure
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+Page 2 January, 2025 Bulletin No.: 25-NA-003
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONpreparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+1. Verify brake pedal does rattle and/or produces a noise
+2. Remove the brake pedal assembly. Refer to Brake Pedal Assembly Replacement  in SI.
+3. Locate the excess body seam sealer.
+6805499
+4. Remove the section of sealer that is making contact to the brake pedal, as shown in the picture above, using an
+appropriate scraping tool.
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+2486388* Trim Excess Body Seam Sealer 1.3 Hrs.
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 2
+Modified Released January 10, 2025
+Revised January 29, 2025 - Added 2024 HUMMER EV and HUMMER EV SUV.

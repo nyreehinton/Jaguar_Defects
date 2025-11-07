@@ -1,0 +1,102 @@
+Technical Service Bulletin (TSB)
+Flash: Display Screen Module (DSM) System Updates
+REFERENCE: TSB:  08-051-25
+GROUP:  08 - ElectricalDate: February 22, 2025 REVISION: 08-158-24
+VEHICLES
+AFFECTED:2023 - 2024 (GG) Dodge Hornet
+This bulletin applies to vehicles built on or before **December 27, 2023
+(MDH 1227XX).**MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may comment on the following:
+●Touch screen panel is not working properly after radio software update.
+CAUSE: DSM software update
+This bulletin supersedes Technical Service Bulletin (TSB) 08-158-24, date of issue July 10, 2024, which
+should be removed from your files. All revisions are highlighted with **asterisks** and include an
+updated build date, Claims Data table, Diagnosis statement, Repair Procedure steps, updated LOPs
+and converting the bulletin to an RSU.
+**This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU)
+25-021, date of issue February 21, 2025. All applicable RSU VINs have been loaded. To verify this RSU
+service action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service
+Library. All repairs are reimbursable within the provisions of warranty.**
+REPAIR SUMMARY:
+This bulletin involves updating the DSM with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+**18-60-02-FW Module, Display Screen
+(DSM) - Inspect
+(0 - Introduction)6 - Electrical and Body
+Systems0.2 Hrs.
+18-60-02-FY Module, Display Screen
+(DSM) - Inspect and
+Reprogram
+(0 - Introduction)6 - Electrical and Body
+Systems0.4 Hrs.
+Failure Code RF Required Flash
+CC Customer Concern
+The dealer must choose which failure code to use depending on if this is a Rapid Service Update
+(RSU) or Technical Service Bulletin.
+● The “RF” failure code is required for essential module flash/reprogramming and can only be used after
+confirmation that the VIN is included on the RSU.
+● The failure code “RF” (Required Flash) can no longer be used on Technical Service Bulletin flashes. The
+“RF” failure code must be used on an RSU.
+● If the customer’s concern matches the SYMPTOM/CONDITION identified in the Technical Service Bulletin,
+failure code CC is to be used. When utilizing this failure code, the 3C’s must be supplied.**
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+**If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.**
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+REPAIR PROCEDURE:
+NOTE: Install a battery charger to ensure battery voltage does not drop below 13.2 volts. Do not allow
+the charging voltage to climb above 13.5 volts during the flash process.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+CAUTION!
+Removal of fuse F81 is necessary for this Repair Procedure. Failure to remove fuse F81 may result in
+damage to the Brake Booster Vacuum Pump.
+1. **Is the vehicle on the RSU VIN list?
+● YES >>> Proceed to Step 2 .
+● NO >>> Proceed to Step 3 .
+2. Does the DSM have the latest software already installed?
+● YES >>> This bulletin has been completed, use Inspect LOP (18-60-02-FW) to close the active RSU.
+● NO >>> Proceed to Step 3 .**
+3. Remove the green 30 Amp fuse from cavity F81, for the Brake Booster Vacuum Pump from the Power
+Distribution Center (PDC) located in the engine compartment.
+4. Connect the wiTECH to the vehicle.
+5. Place the ignition in the “RUN” position.
+6. Open the wiTECH 2.0 website.
+7. Enter your “User id” and “Password” and your “Dealer Code”, then select “Sign In” at the bottom of the
+screen. Click “Accept”.
+8. From the “Vehicle Selection” screen, select the vehicle to be updated.
+9. From the “Action Items” screen, select the “Topology” tab.M08 FSAR-RSU-5017 -2-
+10. From the “Topology” tab, select the “DSM” module icon.
+11. From the “Flash” tab, compare the current DSM software level to the "NEW PART NUMBER" listed.
+● If the current DSMs DCSD part number is the same as the “NEW PART NUMBER" listed, proceed to
+Step 16 .
+● If the current DSMs DCSD part number is NOT the same as the “NEW PART NUMBER" listed, proceed
+to Step 12 .
+12. From the DSM tab, select the DSMs DCSD flash part number. Read the flash special instructions page.
+Select “OK” to continue.
+13. Select “Flash ECU” and then follow the wiTECH screen instructions to complete the flash. If issues arise
+when flashing a module using the wiTECH Diagnostic Application, please submit a ticket to the Helpdesk.
+The helpdesk can be found within the Help menu.
+14. Confirm the software is at the latest available calibration level.
+15. Click “View DTCs”, select “Clear All DTCs”, click “Continue” and then click “Close”.
+16. Place the ignition in the “OFF” position and wait at least five seconds for power latch. Then place again the
+ignition in the “RUN” position.
+17. Place the ignition in the “OFF” position.
+18. Install fuse to cavity F81.
+19. Confirm that the DSM is operational before releasing the vehicle to the customer.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- M08 FSAR-RSU-5017

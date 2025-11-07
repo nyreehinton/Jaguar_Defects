@@ -1,0 +1,52 @@
+Technical Service Bulletin (TSB)
+Droning Humming Growling Noise
+REFERENCE: TSB:  08-037-25
+GROUP:  08 - ElectricalDate: February 18, 2025 REVISION: —
+VEHICLES
+AFFECTED:2023 - 2025 (WL) Jeep Grand Cherokee / Grand Cherokee L
+This bulletin applies to vehicles built on or before February 04, 2025
+(MDH 0204XX) equipped with 3.6L V6 24V VVT Engine Upg I w/ESS
+(Sales Code ERC), 9 Amplified Speakers w/Subwoofer (Sales Code
+RC3) and Hidden Exhaust Tip-Single (Sales Code NEH).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may comment on the following:
+●Droning, humming or growling noises while in drive, park or neutral. This condition might disappear if
+the door is opened or a window is lowered down or when covering the Active Noise Cancellation (ANC)
+microphones.
+CAUSE: PROXI configuration misalignment
+REPAIR SUMMARY:
+This bulletin involves performing a PROXI Configuration Alignment.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-19-02-JE Module, Body Control
+(BCM) Restore Vehicle
+Configuration and Proxi
+Configuration Alignment
+Procedure
+(0 - Introduction)6 - Electrical and Body
+Systems0.2 Hrs.
+Failure Code ZZ Service Action
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes a symptom/condition above, perform the repair procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+REPAIR PROCEDURE:
+1. Using the wiTECH, select and perform the routine "Restore Vehicle Configuration". This routine is available
+under the ’Vehicle Preparations’ menu found on the side bar under the ’Activities’ page of wiTECH.
+2. Using the wiTECH, perform the PROXI Configuration Alignment routine. This routine is available under
+the ’Guided Diagnostics’ tab found on the home, ’Vehicle View’ page of wiTECH.
+3. Clear any DTCs that may have set.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

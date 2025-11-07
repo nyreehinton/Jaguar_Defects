@@ -1,0 +1,66 @@
+1/6/22, 2:58 PM TOPIx - SSM75559 - AJ20-P4 engine – Coolant leak from Thermostat
+https://topix.jaguar .jlrext.com/topix/content/document/view?id=1365649 1/2Reference SSM75559
+Models E-PACE / X540 
+F-PACE / X761 
+F-TYPE / X152 
+XE / X760 
+XF / X260 
+Title AJ20-P4 engine – Coolant leak from Thermostat
+Category Driveline
+Last modified 03-Dec-2021 00:00:00
+Symptom 510000 Fluid Concerns
+Content Issue: JLR is investigating AJ20-P4 thermostats with complaints for coolant leaks (on any vehicle) that
+are coming into service with evident leak or with low coolant MIL warning [sometimes associated with
+P0128 DTC] 
+Causes: JLR investigation in progress 
+Action: If you see this issue present on a vehicle, and if you suspect the coolant leak is from
+the thermostat 
+A. Gross leak from thermostat 
+ 
+1. Screenshot of the latest DTCs / warning light
+2. Share video evidence of fresh leak
+3. Check if the housing is sitting properly – refer image (A) attached. If there are signs of incorrect
+assembly, replace the thermostat with a new
+4. If no issue found in step (3), document evidence of location and reason for gross leak and replace the
+part with a new one
+  
+B. Evident fresh leak [not gross] from thermostat. 
+ 
+1. Screenshot of the latest DTCs / warning light
+2. Share video evidence of fresh leak
+3. Clean the fresh leak thoroughly and also ensure the grooves do not hold any residual coolant
+4. Test drive the car for about 30 minutes and check for leak again
+5. If there is a leak, provide video evidence of the leak and proceed with replacing the part with a new
+one.
+6. If there is no leak, perform the standard cooling system pressure test and show evidence that leak is
+observed in thermostat
+7. If the pressure test does not confirm leak on the thermostat, do not change the thermostat. Check
+rest of the coolant circuit for leak
+1/6/22, 2:58 PM TOPIx - SSM75559 - AJ20-P4 engine – Coolant leak from Thermostat
+https://topix.jaguar .jlrext.com/topix/content/document/view?id=1365649 2/2  
+C. No evident fresh leak but only dried up coolant deposit is seen on the body of the thermostat [Image B] 
+ 
+1. Screenshot of the latest DTCs / warning light
+2. Confirm if there was any external coolant spill [either at dealer end or customer end]
+3. Check the coolant pipes on top of / around the thermostats for any leak / damage [pipes which has
+possibility of leaking coolant to the thermostat body]
+4. Clean the thermostat surface and the suspect leak location thoroughly [without removing thermostat
+from the engine]
+5. Make sure the grooves do not contain any residual coolant.
+6. Test drive the car for about 30 minutes and inspect the thermostat again for any fresh leak
+7. If there is no leak, perform the standard cooling system pressure test and show evidence that leak is
+observed in thermostat
+8. If the pressure test does not confirm leak on the thermostat, do not change the thermostat. Check
+rest of the coolant circuit for leak
+NOTES: 
+ 
+If the car comes in for repeat failure, perform the same checks as above. But replace the part with a
+new one and prepare the removed part for return to Engineer.
+Thermostats as a whole is a serviceable part. So, do not manipulate the thermostats in anyway.
+If P0128 DTC Is present, first perform actions as per TOPIX against the DTC prior to performing the
+actions in SSM.
+Please raise an EPQR and attach all the information identified plus the session file(s), photograph(s) and 
+video(s) 
+Thank you for your assistance with this matter. 
+ 
+anBhdHRlcnM7MjA yMi0wMS0wNlQxOT o1Nzo0Mi42NjhaOzEzNi4yMjY uNDguODg7

@@ -1,0 +1,83 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  3-25-2020 
+SERVICE BULLETIN SUBJECT:  Mirror Mount Hardware  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-52 
+ 
+NOTICE! It is expected that this process will require 1  hour  per bus. Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+MIRROR MOUNT HARDWARE  RETROFIT  
+Retrofit Description:  
+This procedure replaces the Streetside  mirror bolts with “Break Away” bolts that were not available at 
+the time of manufacture.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Ratchet  
+• 5/8-Combination Wrench 
+• 5/16 Allen Socket  
+• Calibrated Torque Wrench  
+• Orange Torque Stripe Paint  
+ 
+ 
+ 
+Kit Parts Required:  
+ 
+• 052907  RETROFIT KIT, MIRROR BOLTS, HIGH MOUNT, SS  (Consisting of)  
+o 050698  SCREW, CAP, 3/8 -16 X 4      3 EA 
+o 050697  SCREW, CAP, 3/8 -16 X 3      1 EA 
+ 
+ 
+ Parts Not Included in Kit:  
+• 001912  CABLE TIE, 11.5 BLACK 292MM"     5 EA  
+• 017043  SIKAFLEX, SEALANT (300ML)      1 EA  
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Complete the Proterra approved Lockout/ Tagout  procedure to make the bus safe for work.  
+ 
+2. Using a T -30 Torx Driver, remove any interior panels necessary to reach the Streetside 
+exterior mirror mounting nuts.  
+ 
+3. Using a Ratchet with a 5/16- Inch Allen Socket on the outside of the bus and a 5/ 8-Inch 
+Combination Wrench on the inside of the bus, loosen the four bolts shown in the following 
+illustration.  
+ 
+ 
+4. Replace the Bolt shown above in Position C with a new 3-Inch Bolt (050697).  
+ 
+5. Using a Sikaflex Gun, apply a small amount of Sikaflex around  the interior end of the bolt 
+before adding the Nut that was removed earlier.  
+ 
+6. Replace the three remaining bolts with new 4 -Inch Bolts ( 050698).  
+ 
+7. Using a Sikaflex Gun, apply a small amount of Sikaflex around  the interior end of each bolt 
+before adding the Nuts that were removed earlier.  
+ 
+8. Using a Calibrated torque wrench with a 5/16- Inch Allen Socket and a 5/8- Inch Combination 
+Wrench, torque the bolt s to 89 Inch Pounds.  
+ 
+9. Using Orange Torque Stripe Paint, mark the properly torqued fasteners.  
+ 
+10. Ensure that the bus wiring will not chaff on the new bolts. Reroute or reposition the wiring as 
+necessary. Add Cable Ties (001912) to secure the wiring as necessary.  
+ 
+11. Using a T -30 Torx Driver, re place any interior panels  that were removed earlier.  
+ 
+12. Remove the Lockout/Tagout devices and return the bus to service.  
+ 

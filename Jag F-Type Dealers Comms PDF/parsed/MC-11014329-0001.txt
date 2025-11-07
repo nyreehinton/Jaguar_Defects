@@ -1,0 +1,169 @@
+ 
+ 
+SERVICE ADVISORY # 25-460 
+Coleman Water Heater Switch 
+It has been determined that the water heater switch may be wired incorrectly. The following 
+procedure describes how to identify and repair water heater wiring. 
+Models Included: 2025 Coleman 13B Travel Trailer  
+Serial Number Range : SH939648 - SH940999  
+Note – Check serial number on Key Express to verify the campaign is open. Some vehicles were 
+repaired before they left Keystone. 
+Parts Required:  1 – KRV # 305662- Switch - Dummy/Hole Plug - Monitor Panel - .55" x 1.125" 
+– Medium ( This part may be ordered in bulk without a VIN ) 
+2 – KRV # 267572-Terminal - Bell Cap - Insulated - 16-10 Ga - CE551R 
+Tools Required:   Screw gun with #2 square bit - Wire crimpers 
+When performing warranty or recall service, please make certain that appropriate Personal 
+Protective Equipment (PPE) is used. 
+The remedy is to repair wiring at the switch. Red wire to top of switch and Green/White wires on bottom of 
+the switch. 
+REPAIR INSTRUCTIONS  
+Step 1 
+Locate the trailer on a level, flat, 
+hard surface. Chock the wheels and 
+disconnect all power. 
+Step 2 
+Remove water heater switch and 
+inspect the wiring, see Figures 1 and 
+2. If the wiring is incorrect, proceed to 
+Step 4 to repair wiring.  
+ 
+   Keystone RV Company  2/12/25  
+Fig. 1 
+Incorrect 
+ Incorrect  
+Fig. 2 
+ Service Advisory 25-460 Page 2 of 3 
+Step 3 
+If wiring is correct, proceed to warranty reimbursement. If the 
+wiring is incorrect proceed to Step 4 to repair wiring. Figure 3 
+shows wired correctly using bell cap to protect wires. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 4 
+To repair wiring, ensure red wire is on the top post of the switch. If a red jumper is present, cap it off 
+with a bell cap. Both green/white wires go together on the bottom of the switch. Red/black wire and 
+the two white wires should be capped together as shown in Fig 3. Discard red light and install switch 
+blank. Proceed with warranty reimbursement. 
+  
+Fig. 3 
+Fig. 4 
+ Fig. 5 
+ Service Advisory 25-460 Page 3 of 3 
+ 
+WARRANTY REIMBURSEMENT 
+INSPECTION ONLY 
+Submit the claim on Key Express using Flat Rate Code #  7146042L 
+In the Complaint section note: Service Advisory # 25-460 
+In the Cause section note:   Inspect for correct wiring 
+In the Correction section note:   Verified wiring is correct 
+The amount of time authorized for this repair is 0.2 hour . 
+REPAIR 
+Submit the claim on Key Express using Flat Rate Code #  7146042A  
+In the Complaint section note: Service Advisory # 25-460 
+In the Cause section note:   Incorrectly wired 
+In the Correction section note: Wired switch correctly 
+The amount of time authorized for this repair is 0.3 hour . 
+PARTS DISPOSITION 
+No part return 
+Please call Keystone RV Customer Service at (855) 382-4100  if you have any questions. 
+ 
+PO Box 2000 Goshen, IN  46527-2000 
+www.keystonerv.com   
+RECREATIONAL VEHICLE SERVICE CAMPAIGN 
+February 12, 2025 
+ 
+ 
+SERVICE ADVISORY 25-460 
+«Owner_name» 
+ATTN:  Service Manager 
+«Street» 
+«Street_2» 
+«City», «State»  «Zip» 
+«Country» 
+ 
+ 
+Dear «Owner_name», 
+  
+ 
+It has been determined that the water heater switch may be wired incorrectly. The remedy 
+is to repair wiring at the switch. 
+ 
+The campaign population includes: 
+Model:    2025 Coleman 13B Travel Trailer  
+Serial Number Range:  SH939648 - SH940999 
+ 
+Our records indicate unit(s) sold or in your present lot inventory fall within this range, which will require 
+inspection.  Important:   Please complete the service campaign on these units before retail delivery. Our records 
+indicate the following unit serial number(s) are presently in your inventory or have been sold: 
+«VIN1» «VIN2» «VIN3» «VIN4» 
+«VIN5» «VIN6» «VIN7» «VIN8» 
+«VIN9» «VIN10» «VIN11» «VIN12» 
+«VIN13» 
+--  Serial numbers with ‘*’ have been retail sold  --  
+We apologize for any inconvenience this situation may cause and greatly appreciate your cooperation. Should you 
+have any questions or concerns regarding this correspondence or the enclosed Service Advisory, please contact us 
+at: (855) 382-4100  
+ 
+Sincerely, 
+KEYSTONE RV COMPANY Reason for this 
+campaign  
+
+PO Box 2000 Goshen, IN  46527-2000 
+www.keystonerv.com   
+RECREATIONAL VEHICLE SERVICE CAMPAIGN  
+ 
+February 12, 2025  Service Advisory: 25-460 
+ 
+ 
+SERVICE CAMPAIGN 
+«Owner_name» 
+«Street» 
+«Street_2» 
+«City», «State»  «Zip» 
+«Country» 
+ 
+VIN:  «VIN» 
+Dear «Owner_name»: 
+Keystone RV Company is conducting a service campaign on certain 2025 Coleman Travel Trailers. We 
+apologize for any inconvenience this action may cause you; however your continued satisfaction is of the 
+utmost importance to us. 
+ 
+ 
+It has been determined that the water heater switch may be wired incorrectly. 
+ 
+Keystone has notified our dealers regarding this situation. The remedy is to repair 
+wiring at the switch. The service required for this corrective action will be 
+provided at no charge to you. 
+ 
+At your earliest convenience, please make an appointment to have your RV 
+serviced by your dealership. The labor time to perform this campaign is 
+approximately ½ hour. Please ask your dealer if you wish to know how much 
+additional time will be needed to schedule and process your RV for this repair. 
+ 
+Your dealer is best equipped to obtain parts and provide service to ensure your 
+RV is corrected as promptly as possible. If your dealer is unable to assist or if 
+you take your RV to your dealer on the agreed service date, and the dealer does 
+not remedy the condition within a reasonable amount of time, or without charge 
+to you, please contact Keystone Customer Service by calling 1-866-425-4369. 
+ 
+Thank you for your attention and cooperation in this matter. 
+Sincerely, 
+KEYSTONE RV COMPANY Reason for this 
+campaign 
+What we 
+will do 
+What we need 
+you to do 
+If you have 
+questions 

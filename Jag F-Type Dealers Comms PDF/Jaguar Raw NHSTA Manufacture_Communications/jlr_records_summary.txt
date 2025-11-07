@@ -1,0 +1,524 @@
+Total JLR-Related Records: 27243
+
+Records by Make:
+  LAND ROVER: 15665 records
+  JAGUAR: 10227 records
+  FREIGHTLINER: 221 records
+  UNKNOWN: 180 records
+  MERCEDES BENZ: 171 records
+  NEWMAR: 94 records
+  FCCC: 81 records
+  MERCEDES-BENZ: 81 records
+  WESTERN STAR: 56 records
+  FLEETWOOD: 48 records
+  THOMAS BUILT BUSES: 47 records
+  DODGE: 43 records
+  CHRYSLER: 42 records
+  STERLING: 37 records
+  COACHMEN: 24 records
+  FOREST RIVER: 22 records
+  ALTEC: 17 records
+  DAIMLER: 16 records
+  JEEP: 13 records
+  ISUZU: 13 records
+  CUMMINS: 12 records
+  TIFFIN: 12 records
+  DAIMLERCHRYSLER: 12 records
+  PLYMOUTH: 10 records
+  HOLIDAY RAMBLER: 10 records
+  FORD: 9 records
+  ACURA: 8 records
+  BENDIX: 8 records
+  CHAMPION: 6 records
+  DYNAMAX: 5 records
+  MITSUBISHI FUSO: 4 records
+  MICHELIN: 4 records
+  ALLISON: 4 records
+  EAGLE: 3 records
+  MIDWEST FIRE: 3 records
+  LEGACY SR: 2 records
+  CHAMPION BUS: 2 records
+  BRIDGESTONE: 2 records
+  INFINITI: 2 records
+  FCA: 2 records
+  AMERICAN COACH: 2 records
+  FREIGHTLINER CUSTOM CHASS: 2 records
+  RANGE ROVER: 2 records
+  WYLIE: 1 records
+  MERCEDES ROYALE: 1 records
+  HEIL: 1 records
+  ACE ELECTRIC: 1 records
+  CROSS COUNTRY: 1 records
+  BERKSHIRE: 1 records
+  VOLVO: 1 records
+  AMERICAN LAFRANCE: 1 records
+  KEYSTONE: 1 records
+  MAYBACH: 1 records
+  DUNLOP: 1 records
+  ORION: 1 records
+  DETROIT DIESEL: 1 records
+  THOMAS: 1 records
+  EQUIPMENT: 1 records
+  DETROIT: 1 records
+  MCI: 1 records
+  STARCRAFT BUS: 1 records
+  SETRA: 1 records
+
+Records by Model:
+  RANGE ROVER: 3575 records
+  RANGE ROVER SPORT: 3061 records
+  XF: 1866 records
+  RANGE ROVER EVOQUE: 1802 records
+  DISCOVERY: 1733 records
+  XJ: 1462 records
+  F-PACE: 1208 records
+  DISCOVERY SPORT: 1172 records
+  RANGE ROVER VELAR: 1078 records
+  F-TYPE: 1037 records
+  XE: 921 records
+  DEFENDER: 802 records
+  LR4: 668 records
+  E-PACE: 635 records
+  LAND ROVER: 604 records
+  XK: 534 records
+  I-PACE: 493 records
+  JAGUAR: 436 records
+  LR2: 390 records
+  SEDAN RANGE: 278 records
+  S-TYPE: 276 records
+  XK8: 230 records
+  X-TYPE: 168 records
+  LR3: 161 records
+  UNKNOWN: 155 records
+  DISCOVERY II: 115 records
+  FREELANDER: 100 records
+  RANGE ROVER SPORT PHEV: 94 records
+  RANGE ROVER PHEV: 94 records
+  XJS: 85 records
+  NEW RANGE ROVER: 57 records
+  XJR: 53 records
+  XJ12: 44 records
+  F-PACE PHEV: 38 records
+  CLASSIC: 37 records
+  CASCADIA: 36 records
+  E-PACE PHEV: 34 records
+  XJ SEDAN: 31 records
+  ROVER: 26 records
+  UNKNOWN1: 25 records
+  XFRS: 25 records
+  BUSINESS CLASS M2: 23 records
+  XJ6: 21 records
+  RANGE ROVER VELAR PHEV: 20 records
+  DEFENDER PHEV: 19 records
+  XKR: 19 records
+  VENTANA: 19 records
+  DISCOVERY PHEV: 18 records
+  RANGE ROVER SPORT MHEV: 17 records
+  DEFENDER 90: 17 records
+  VANDEN PLAS: 16 records
+  SPRINTER BUS: 16 records
+  RANGE ROVER L322: 16 records
+  DUTCH STAR: 16 records
+  DEFENDER 110: 16 records
+  XJL: 15 records
+  XK SPORTS: 15 records
+  XK CONVERTIBLE: 15 records
+  XJV8: 15 records
+  DISCOVERY LXE: 15 records
+  XJR-S: 15 records
+  C300: 15 records
+  XJR-S CONVERTIBLE: 14 records
+  SOVEREIGN: 14 records
+  MOUNTAIN AIRE: 14 records
+  VITESSE: 14 records
+  SAF-T-LINER C2: 13 records
+  SUPER V8: 13 records
+  STYLE: 13 records
+  JX8: 13 records
+  CORONADO: 13 records
+  XJ8L: 13 records
+  XJ6L: 13 records
+  XJRS: 13 records
+  XK8 SPORTS: 13 records
+  XJ8: 13 records
+  COLUMBIA: 13 records
+  SUPER V8 PORTFOLIO: 13 records
+  MT55: 12 records
+  XJSHE: 12 records
+  SPRINTER 2500: 12 records
+  4900: 12 records
+  VANDER PLAS: 12 records
+  MAJESTIC: 12 records
+  JX6: 12 records
+  LONDON AIRE: 11 records
+  ESSEX: 11 records
+  SPRINTER 3500: 10 records
+  4700: 10 records
+  MT45: 10 records
+  114SD: 10 records
+  CENTURY CLASS: 9 records
+  MT45G: 9 records
+  ARGOSY: 9 records
+  122SD: 9 records
+  WESTERN STAR: 8 records
+  108SD: 8 records
+  GLK350: 8 records
+  L-LINE: 8 records
+  FREIGHTLINER: 8 records
+  AERIAL DEVICE: 8 records
+  RDX: 8 records
+  5700: 8 records
+  I-PACE PHEV: 7 records
+  MT55G: 7 records
+  DIGGER DERRICK: 7 records
+  FLD: 7 records
+  VENTANA LE: 7 records
+  C250: 7 records
+  BERKSHIRE: 7 records
+  C350: 7 records
+  XCS: 7 records
+  BENDIX: 7 records
+  CHRYSLER: 6 records
+  C180: 6 records
+  XJ6C: 6 records
+  CLS550: 6 records
+  4.2 SEDAN: 6 records
+  6: 6 records
+  NEON: 6 records
+  6900: 6 records
+  PACE ARROW LXE: 6 records
+  XKEV12: 6 records
+  NEW AIRE: 6 records
+  XKE: 6 records
+  XJ12L: 6 records
+  GRAND CHEROKEE: 6 records
+  XCM: 6 records
+  XCP: 6 records
+  XJ12C: 6 records
+  SAF-T-LINER HDX: 5 records
+  ISX: 5 records
+  CONDOR: 5 records
+  PHAETON: 5 records
+  BUSINESS CLASS M2 106V: 5 records
+  300M: 5 records
+  ISATA: 5 records
+  SAF-T-LINER EFX: 5 records
+  XCR: 5 records
+  E550: 5 records
+  XBP: 5 records
+  XBR: 5 records
+  XBS: 5 records
+  XCL: 5 records
+  DURANGO: 5 records
+  CLS63: 5 records
+  C63 AMG: 5 records
+  E250: 4 records
+  CLA250: 4 records
+  SPORTSCOACH: 4 records
+  KOUNTRY STAR: 4 records
+  C400: 4 records
+  S2: 4 records
+  49X: 4 records
+  C36 AMG: 4 records
+  CONSTELLATION: 4 records
+  SL63: 4 records
+  CLS400: 4 records
+  STERLING: 4 records
+  4800: 4 records
+  C200: 4 records
+  GLK250: 4 records
+  C220: 4 records
+  AMG CLA45: 4 records
+  ACTERRA: 4 records
+  CONCORDE: 4 records
+  A-LINE: 4 records
+  E350: 4 records
+  E63: 4 records
+  STRATUS: 4 records
+  SEBRING CONVERTIBLE: 4 records
+  LHS: 4 records
+  INTREPID: 4 records
+  CARAVAN: 4 records
+  ALLEGRO RED: 4 records
+  RAISED AIR INTAKE: 4 records
+  E400 HYBRID: 3 records
+  GL450: 3 records
+  RANGE  ROVER: 3 records
+  DISCOVERY I: 3 records
+  C230: 3 records
+  GL550: 3 records
+  GL63: 3 records
+  S2G: 3 records
+  FS-65: 3 records
+  C63: 3 records
+  F-550 SD: 3 records
+  CLS218: 3 records
+  E400: 3 records
+  ALL-POLY SERIES: 3 records
+  NAVIGATOR: 3 records
+  ENDEAVOR: 3 records
+  C43 AMG: 3 records
+  S550: 3 records
+  VOYAGER: 3 records
+  SPRINTER 906: 3 records
+  PRISM: 3 records
+  GLA 250: 3 records
+  MERCEDES-BENZ: 3 records
+  CARGO: 3 records
+  CUSTOM CHASSIS S2: 3 records
+  CIRRUS: 3 records
+  BULLET: 3 records
+  BREEZE: 3 records
+  CUSTOM CHASSIS: 3 records
+  GL350: 3 records
+  TOWN AND COUNTRY: 3 records
+  N-SERIES: 3 records
+  ISX15: 3 records
+  CENTURY: 3 records
+  HDX: 2 records
+  SEBRING: 2 records
+  MINOTOUR: 2 records
+  SL: 2 records
+  NPR HD: 2 records
+  9500: 2 records
+  RAM PICKUP: 2 records
+  SAF-T-LINER EF: 2 records
+  E320: 2 records
+  E500: 2 records
+  E55: 2 records
+  NEW YORKER: 2 records
+  AMG E63: 2 records
+  RAM VAN: 2 records
+  C240: 2 records
+  NPR XD: 2 records
+  ALL MODELS: 2 records
+  SUPER STAR: 2 records
+  ARMADA: 2 records
+  ALLEGRO BAY: 2 records
+  CUMMINS: 2 records
+  300: 2 records
+  SLF: 2 records
+  CL-100: 2 records
+  CHARGER: 2 records
+  CLASSIC XL: 2 records
+  FORESTER: 2 records
+  NPR: 2 records
+  SUNSEEKER: 2 records
+  AJ20-P6 ENGINE: 2 records
+  SL 450: 2 records
+  F-450 SD: 2 records
+  F-350 SD: 2 records
+  F-250 SD: 2 records
+  C320: 2 records
+  NRR: 2 records
+  NQR: 2 records
+  SL 550: 2 records
+  DAKOTA: 2 records
+  RAM WAGON: 2 records
+  CROSS COUNTRY: 2 records
+  ML350: 2 records
+  E300: 2 records
+  VIPER: 2 records
+  VISION: 2 records
+  CHEROKEE: 2 records
+  X-LINE: 2 records
+  WRANGLER: 2 records
+  C190: 2 records
+  PROWLER: 2 records
+  MERCEDES BENZ: 2 records
+  S600: 2 records
+  TRANSMISSION: 2 records
+  FCCC: 2 records
+  THOMAS BUILT BUSES: 2 records
+  4900 SA: 2 records
+  L: 2 records
+  L LINE: 2 records
+  ML400: 2 records
+  360: 2 records
+  SL550: 2 records
+  ML550: 2 records
+  SL231: 2 records
+  AMG ML63: 2 records
+  SL65: 2 records
+  SL400: 2 records
+  CORONADO GLIDER: 1 records
+  B2 BUS CHASSIS: 1 records
+  HGJAB: 1 records
+  EFFER CRANE: 1 records
+  SUPREME AIRE: 1 records
+  COLUMBIA GLIDER: 1 records
+  SAF-T-LINER ER: 1 records
+  CUSTOM CHASSIS S2G: 1 records
+  FOREST RIVER: 1 records
+  ADB22X: 1 records
+  CL-960: 1 records
+  COUNTY CLASSIC: 1 records
+  DX3: 1 records
+  CUSTOM CHASSIS XB: 1 records
+  INTERNATIONAL DEFENDER: 1 records
+  IC DEFENDER: 1 records
+  COUNTY LWB: 1 records
+  PRESSURE DIGGER: 1 records
+  XC90: 1 records
+  1145D: 1 records
+  S2C 106CAB: 1 records
+  AMG GLA45: 1 records
+  SPORT M2106: 1 records
+  C63S AMG: 1 records
+  S2 106 CH: 1 records
+  MCL: 1 records
+  1085D: 1 records
+  CONVENTIONAL: 1 records
+  MC: 1 records
+  CUSTOM CHASSIS XC: 1 records
+  S CLASS: 1 records
+  ARGOSY GLIDER: 1 records
+  MBC: 1 records
+  C2: 1 records
+  ARGOSY RHD: 1 records
+  ML250: 1 records
+  Q50: 1 records
+  Q60: 1 records
+  COUNTY: 1 records
+  CUSTOM CHASSIS XCP: 1 records
+  CUSTOM CHASSIS XCM: 1 records
+  DEFENDER LTX M/S: 1 records
+  SAF-T-LINER MVP-ER: 1 records
+  SAF-T-LINER MVP-EF: 1 records
+  2000TC: 1 records
+  VENTANA VL: 1 records
+  LSA38C-340: 1 records
+  LSA340BH-340: 1 records
+  DEFENDER 2: 1 records
+  2000 SERIES TRANSMISSION: 1 records
+  TL-960: 1 records
+  1000 SERIES TRANSMISSION: 1 records
+  MAY: 1 records
+  8500: 1 records
+  BE38A-340: 1 records
+  SAF-T-LINER FS65: 1 records
+  CHARLESTON: 1 records
+  LEGACY: 1 records
+  MVP-ER: 1 records
+  3500: 1 records
+  BYWAY: 1 records
+  AMERICAN EAGLE: 1 records
+  ER: 1 records
+  FLD CLASSIC: 1 records
+  DEFENDER SL: 1 records
+  METRIS: 1 records
+  M2: 1 records
+  SOLERA: 1 records
+  47X: 1 records
+  AMERICAN HERITAGE: 1 records
+  7500: 1 records
+  KING AIRE: 1 records
+  5900: 1 records
+  4900EX: 1 records
+  VISTA: 1 records
+  LT8500: 1 records
+  3500S: 1 records
+  MVP-EF: 1 records
+  M2 BUSINESS CLASS: 1 records
+  GLK204: 1 records
+  ISB6.7: 1 records
+  GRAND CARAVAN: 1 records
+  SPIRIT: 1 records
+  STEALTH: 1 records
+  TALON: 1 records
+  GRAND WAGONEER: 1 records
+  ACCLAIM: 1 records
+  SUNDANCE: 1 records
+  ACE: 1 records
+  PT CRUISER: 1 records
+  SEBRING COUPE: 1 records
+  LIBERTY: 1 records
+  S63: 1 records
+  ROVER AT: 1 records
+  S65: 1 records
+  SPRINTER: 1 records
+  CLK CLASS: 1 records
+  CLS CLASS: 1 records
+  C-CLASS: 1 records
+  CL CLASS: 1 records
+  C CLASS: 1 records
+  C: 1 records
+  C230K: 1 records
+  BUSINESS CLASS: 1 records
+  SHADOW: 1 records
+  DYNASTY: 1 records
+  DAYTONA: 1 records
+  AVENGER: 1 records
+  HEIL: 1 records
+  MAGNUM: 1 records
+  COMMANDER: 1 records
+  XC: 1 records
+  CENTURY ST: 1 records
+  CENTURY CLASS S/T: 1 records
+  G500: 1 records
+  G55: 1 records
+  SL500: 1 records
+  SL55: 1 records
+  SL600: 1 records
+  C280: 1 records
+  CLK350: 1 records
+  CLK550: 1 records
+  CLS500: 1 records
+  CLS55: 1 records
+  AMG CLS55: 1 records
+  AMG E55: 1 records
+  FIFTH AVENUE: 1 records
+  IMPERIAL: 1 records
+  LEBARON: 1 records
+  FLC112: 1 records
+  A LINE: 1 records
+  EQUIPMENT: 1 records
+  WATER TRAILER: 1 records
+  FEC7TW: 1 records
+  FEC52: 1 records
+  FEC72: 1 records
+  FEC92: 1 records
+  C 300: 1 records
+  C 350: 1 records
+  CLA 250: 1 records
+  CLS 450: 1 records
+  SPRINTER COACH: 1 records
+  S2RV: 1 records
+  CANYON STAR: 1 records
+  VII: 1 records
+  DUELER A/T 695: 1 records
+  DUELER A/T 693 II: 1 records
+  ALL STAR: 1 records
+  MINOTOUR SRW: 1 records
+  MINOTOUR DRW: 1 records
+  XCA: 1 records
+  XC CHASSIS: 1 records
+  XBA: 1 records
+  XB CHASSIS: 1 records
+  BATTISTI: 1 records
+  J4500: 1 records
+  E63S AMG: 1 records
+  CLS63S: 1 records
+  C204: 1 records
+  EPA07 SERIES 60: 1 records
+  L9500: 1 records
+  S 407: 1 records
+  THOMAS: 1 records
+  DETROIT: 1 records
+  CLS: 1 records
+  E: 1 records
+  E330: 1 records
+  GL166: 1 records
+  GL320: 1 records
+  GLK: 1 records
+  ML320: 1 records
+  ML450: 1 records
+  ML500: 1 records
+  ML63: 1 records
+  AMG CLS63: 1 records
+  AMG E43: 1 records
+  E207: 1 records
+  E212: 1 records
+  E213: 1 records
+  E238: 1 records
+  GALLERIA: 1 records

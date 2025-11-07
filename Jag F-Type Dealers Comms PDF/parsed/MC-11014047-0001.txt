@@ -1,0 +1,46 @@
+Bulletin No.: PIC5808B
+Published date: 02/3/2025
+Preliminary Information
+PIC5808B Normal Characteristic - Pop Or Snap Noise Heard After
+Moving Vehicle When Parking In Low Ambient Temperatures For An
+Extended Period Of Time
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletCamar o ZL1 2012 - 2015 All AllAll All
+Chevr oletCamar o SS 2014 - 2015 All AllAll All
+Supersession Statement
+This PI was superseded to update model years. Please discar d all copies of PIC5808A .
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+Some customers ma y notice that a single audible "pop" or "snap" noise can be
+heard immediately after the vehicle is put into motion.
+This noise ma y originate from the front and/or the rear of the vehicle.
+This is typically noticed ﬁrst thing in the morning after the vehicle has been
+stationary overnight or for an extended period of time.
+This noise is also more pronounced in lower ambient temperatures.
+The noise sounds similar to a brak e pad that has temporarily stuck to a rotor
+due to vehicle inactivity .
+After the initial vehicle movement, this noise can no longer be duplicated until
+the car remains stationary again for an extended period of time.
+Recommendations / Instructions
+This concern is actually a characteristic of the high performance tires that the
+vehicle is equipped with.
+Due to the soft rubber compound used in these tires, they have a natural
+tendency to stick to the pavement.
+When the vehicle is moved, this pop noise is the sound of the tire releasing
+from the pavement.
+This noise will not be able to be duplicated again for the remainder of the drive
+cycle, or even when the vehicle is park ed again for short periods of time.
+If you notice this concern, mak e no repairs, as this is a normal characteristic of
+these high performance tires.
+Customer Information
+Please communicate to the customer that this condition is a normal operating
+characteristic of their vehicle. It will not impact the designed performance or reliability of
+the vehicle. Please share this information with the customer , including a copy of this
+message.
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,58 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  11/11/2021 
+SERVICE BULLETIN SUBJECT:  BCT Horn Mux 1.2 Pin Relocation Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-21-162 
+LABOR OPERATION CODE:  EN50 Z 
+ 
+NOTICE! It is expected that this process may require up to  1/2 hour per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+BCT HORN MUX 1.2 PIN RELOCATION RETROFIT  
+ 
+Description  
+The procedure updates the wiring of MUX 1.2 to be compatible with Body Controller Software version 
+6.10.2.   
+Notic e! Proterra Service Campaign SC -21-142 800V Limited Body Controller Software Release (V 
+6.10.2) must be performed before beginning this work.  
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Pin Extractor Tool for MUX  
+ 
+Kit Parts Required:  
+ 
+• None  
+ 
+ 
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+ 
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Open the Streetside Wheel Well Box and locate MUX 1.2.  
+  
+ 
+3. Locate the connector labeled MUX1.2E shown in the following photograph.  
+  
+ 
+4. Disconnect the connector labeled MUX 1.2E.  
+ 
+5. Using a Pin Extractor Tool , remove the Pin in Cavity 6 of the Connector.  
+ 
+6. Install the Pin that was removed from Cavity 6 into Cavity 8 of the Connector.  
+ 
+7. Reconnect the Connector to the MUX.  
+ 
+8. Remove the Lockout/Tagout devices and return the bus to service.  
+MUX 1.2  MUX 1.2  
+Connector MUX1.2E  

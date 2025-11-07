@@ -1,0 +1,78 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)RPO APD with R6W Power Assisted Doors
+ConditionThis PI is to provide some operational information to
+help understand vehicles equipped with power assist
+doors RPO APD with R6W .
+Cause New feature.
+Bulletin No.: PIT6291D
+Published date: 02/21/2025
+Preliminary Information
+PIT6291D Informational Tips On Power Assisted Door Opening And
+Closing Operation
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+- Vehicles with RPO APD along with R6W CURRENTL Y only have power assisted
+door opening and closing, they do NOT have fully automatic power opening and
+closing doors.  This means the door must be physically opened and closed, but
+the power assist will aid in making it easier to open and close the doors.
+- Power assisted doors include a motorized door check-link assembly that
+provides some limited assist as you open and close the door .  The motorized
+door check-link assembly also acts as the door check link to hold the door in
+position when open, but unlik e a manual door with two detent positions you
+will have inﬁnite detent positions.  When the door is opened the motorized
+door check link assembly will hold the door in any position that you stop the
+door in.  When the door is being held in an open position, if the door needs to
+be moved further open or closed you must apply some additional eﬀort to
+overcome the motorized door check-link and then the door will move with
+assist.  This is normal operation, and no repairs should be made.  
+- The door opening and closing will feel diﬀerently on trucks built with power
+assisted doors (APD with R6W) when compared to a truck without RPO APD. 
+Also, the power assisted front doors will feel diﬀerently than the power
+assisted rear doors because of the size and proportion of the door . This is
+normal.  In the event of a customer complaint regarding door opening and
+closing eﬀorts a comparison can be made between the front left to the front
+right door . Also, the same applies for the rear doors, but the front door eﬀort
+should not be compared to the rear door eﬀort.  If an issue is found with the
+door eﬀort, then contact the T AC 2025 T1 SUV Action Center for additional
+Version 5
+Modiﬁed11/22/2024 - Created on.  
+11/26/2024- Updates to title, condition and
+correction sections  
+12/17/2024 - Updated Administrative Details.  
+01/17/2025 - Update to the correction  
+02/21/2025 - Update to the correctioninformation.    
+- A customer ma y comment that the doors are not closing/ cinching directly to
+primary in comparison to a traditional, non-powered door. The cinch ma y vary
+from door to door even on the same vehicle, some closing completely to
+primary and some closing to secondary , and then fully closing to
+primary .  Variation of cinching from door to door on the same vehicle is
+expected depending on various conditions and build variables. The doors ma y
+close directly to primary , other times the door ma y go to secondary , then fully
+closed.  Depending on the environment and how the door was closed, the doors
+may attempt to cinch in which the strik er is not completely aligned, resulting in
+the door moving slightly in the opening/ closing direction prior to cinching to
+ensure the door is fully closed/ cinched.
+- Do not attempt to reprogram the doors or vehicle unless there is a repeatable
+current DTC.     
+-  If performing a door relearn, an error or failed door learn ma y occur when
+using GDS2.  Currently the relearn procedure in GDS2 is not working properly
+and the door relearn must be done by using SPS/TLC.  Go into TLC/SPS and from
+the supported controller list select the K15 Access Control Module.  Next, under
+Select F unction/Sequence box pick "Setup" and following the screens to
+complete the door relearn.
+- If history DTC's are present and there are no speciﬁc door issues do not
+attempt a repair .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

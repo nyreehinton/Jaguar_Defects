@@ -1,0 +1,51 @@
+AfterSalesFeb 6, 2025
+Page 1 of 29YA, 9YB PHEV- HV Power Electronics SW Update
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne As of 2024 up to 2025 9YAAV1
+9YABN1
+9YACT1
+9YBAV1
+9YBBN1
+9YBCT1N /A N /A
+Revision History
+Revision Release Date Changes
+0 February 6. 2025 Original document
+Condition
+The customer  complains of a MIL in the instrument cluster. The workshop finds one or both of the following codes in 
+High Voltage Power Electronics at software level 0004:
+P060A00 - Contr ol unit – internal fault (00ACC9)
+P060C00 - Funct ion restriction (00ACBE)
+Technical Background
+The afor ementioned fault codes can set during or after a driving cycle in E-mode. A MIL can appear sporadically in 
+relation to these faults.
+Advanced Technical Information 2Bulletin #: 2502
+Part ID: 2791
+AfterSalesFeb 6, 2025
+Page 2 of 2Service Information
+ The occurrence of these faults can be remedied with an automatic programming of the HV power electronics control  
+ unit to version 0005 using the PIWIS tester with SW 43.100.016 or newer. 
+ After performing the automatic programming process according to the instructions in PIWIS tester, faults may   
+ appear in the fault memory. Perform a vehicle bus sleep for at least 5 minutes and ensure all subsequent faults have   
+ cleared before returning the vehicle.
+Warranty
+ For documentation and warranty invoicing, enter the working position and PCSS encryption specified
+ below in the warranty claim: 
+ 
+ PCSS encryption:
+Search Items 
+ Cayenne, PHEV 2.0, MIL, HV power electronics, 9YA, 9YB, E-HybridAPOS Labor operation I No.
+03350050 On board diagnostic
+03350053 On board diagnostic-Create VAL
+27912577 Power electronics program
+Advanced Technical Information 2Bulletin #: 2502
+Part ID: 2791
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+6000018977 6000018147
+©2025 Porsche Cars North America, Inc.Location (FES5) 27910 Power Electronics
+Damage type (SA4) 1614 Function not as specified

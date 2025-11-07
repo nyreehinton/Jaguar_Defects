@@ -1,0 +1,67 @@
+TECH TIP
+ID No. TT-25-002
+Ref. No. SUPERSEDES TT -19-005
+Release Date 2/18/2025
+OVERVIEWTT-25-002 EXHAUST BRAKE ADJUSTMENT  USING DX3
+1This bulletin explains how to properly check and adjust the exhaust brake for 2016 -
+2021MY Conventional and 2013- 2020MY COE Hino trucks 
+SUBJECT VEHICLES
+Certain  16MY -21MY  Conventional  Trucks  equipped  with  a J08 engine  or 13MY -20MY  
+Cab -Over  Engine  (COE) equipped with  a J05 engine
+NOTE : Refer  to the appropriate  Vehicle  Identification  Number  (VIN)  list to 
+determine vehicle  eligibility .
+BEFORE YOU BEGIN
+- Read and  understand  all instructions  and  procedures  before  you  begin  the work .
+- Read and  follow  all WARNINGS  and  NOTICES  set forth  in this  publication . These  
+alerts help  to avoid  damage  to components,  serious  personal injury,  or both .
+- Park  the  vehicle  on a flat, level  and  solid surface .
+- Place  the gear  shift  lever  in "Neutral"  or "Park" .
+- Apply  the  parking  brake  firmly  and  confirm  parking  brake  activation .
+- Turn  off the engine  and  remove  the key  from  the ignition  switch .
+- Always wear  safety  glasses or goggles  to protect  your  eyes .
+- Place  wheel  chocks  in front  of and  behind  all the wheels  to prevent  the vehicle  
+from  moving .
+TT-25-002 EXHAUST BRAKE ADJUSTMENT USING DX3
+1. Start the truck and warm it to 140*F or more, once at the target temperature, turn the 
+engine off. The key should remain ON. 
+2. Open DX3, select Engine > Customization Tab > Engine DPR Deposit Volume 
+(parameter 534) > (Document Current Volume) then change to 2.5g/L > Write > Turn the 
+Ignition off for 60 Seconds > Click OK.
+TT-25-002 2
+REPAIR PROCEDURE
+
+TT-25-002 33. Turn the key on (Engine Off), Select Data Monitor and Active Test then select the 
+following parameters; Engine Coolant Temperature, Engine Speed, Injection Quantity 
+and Exhaust Brake Solenoid Valve
+4. Click Active Test, locate Target RPM and double click. Type in 980 RPMs 
+Conventional or 1100 RPM’s  for COE (but do not press the play button).
+5. Start the truck and the DX3 monitor; verify the engine temp is above 140*F and then 
+press the flashing regen button on the dash (Engine RPMs stabilize at 980 Conventional 
+or 1100 for Cab Over), exhaust brake will display ON and note injection quantity for one 
+minute; document value.
+Active Test1100
+OFF17.04TT-25-002 EXHAUST BRAKE ADJUSTMENT USING DX3
+6. After one minute, verify 980 or 1100 rpms is displayed in the specified value field and 
+click the play button for Active Test.  Monitor injection quantity for one minute; 
+document value. The exhaust brake should turn off during active test.
+TT-25-002 4
+1100 17.04
+OFFTT-25-002 EXHAUST BRAKE ADJUSTMENT USING DX3
+7. Once values are documented, subtract the injection quantity value with the exhaust 
+brake on from the value with the exhaust brake off.  
+Example; 28.25 mm3 (exhaust brake on) –  14.90 mm3 (exhaust brake off) = 13.35 
+mm3 
+Standard Values: 11 -15 mm3 
+Note: If any adjustments are necessary, stop monitor, press the accelerator pedal 
+momentarily to cancel regen. Make adjustments , start truck, press regen button 
+and continue with previous steps to verify adjustment. 
+TT-25-002 5
+TT-25-002 EXHAUST BRAKE ADJUSTMENT USING DX3
+8. Once adjustments are complete, press accelerator to stop regen, stop data monitor 
+and click ECU Customization. Change the soot level to value documented at the 
+beginning of this procedure and write the value. Turn the ignition off for 60 seconds. 
+Click OK.
+9. Turn the ignition back on after 60 seconds, click New Diagnosis to end the DX 
+session. Click OK  (Procedure Complete)
+TT-25-002 6
+TT-25-002 EXHAUST BRAKE ADJUSTMENT USING DX3

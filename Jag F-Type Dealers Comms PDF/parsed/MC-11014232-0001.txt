@@ -1,0 +1,112 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  9-30-2019  
+SERVICE BULLETIN SUBJECT:  Hill Hold Solenoid  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #: SC-19-124 
+ 
+NOTICE! It is expected that this process will require 3  hour s per bus Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+HILL HOLD SOLENOID RETROFIT  
+This campaign updates the hill hold solenoid and associated components for improved performance.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+Tools/Supplies  Required  
+• T-30 Torx Driver  
+• Ratchet  
+• 10mm Socket  
+• Calibrated Torque Wrench  
+• Orange Torque Stripe Paint  
+• Tubing Cutter  
+• Allen Wrenches  
+ 
+  
+Parts Required:  
+ 
+• 048533  PLATE, HILL HOLD, FRONT        1 EA  
+• 048541  FITTING, PTC, BRASS, 90 DEG, RIGID, 1/4 MPT X 3/8 PTC   1 EA  
+• 000650  FITTING, PTC, BRASS 1/4 MPT 3/8" OD TUBE     2 EA  
+• 001162  FITTING, PTC, COMPOSITE, 90 DEG, SWIVEL, 3/8 MPT"X 3/8 TUBE  1 EA  
+• 048555  SPACER, 0.17" ID (#8 SCREW), 5/16" OD, 1/4" LG, NYLON 6/6   3 EA 
+• 000623  TUBING, AIR, RED, 3/8 OD        2 FT 
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Preform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Working inside the Streetside rear compartment, open the three valves shown below to drain 
+the air tanks.  
+  
+ 
+3. Remove any components from the Driver’s workplace necessary to access the lower ECAB panel shown in the following photograph.  
+  
+ 
+4. Using a T -30 Torx Driver,  remove the panel shown in the previous photograph.  
+ 
+5. Working inside the wheel well, disconnect the Air Lines circled in blue in the following 
+illustration.  Also disconnect the harness connections for the Solenoid Valve and the Pressure 
+Transducer shown circled in red.  
+ 
+Open Valves  
+Remove Panel  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+6. Using a 10mm Ratchet/Socket, remove the three locknuts shown circled in green in the 
+previous illustration.  
+ 
+7. Remove the old Hill Hold Plate and the components that are attached to it.  
+ 
+8. Using  the parts from the original Hill Hold Plate with the new parts included in the kit, build the 
+new Hill Hold Pla te as shown in the illustration below. Three Spacers ( 048555) are used 
+underneath the Solenoid to space them above the Plate. All NPT fittings should have Loctite 
+567 applied to the threads before assembly.  
+ 
+ 
+9. Using a 10mm Ratchet/Socket, install the assembled Hill Hold Plate as shown in the illustration 
+below.  Use the Locknuts that were remove earlier.  
+ 
+ 
+10. Using a Calibrated Torque Wrench with a 10mm Socket, torque the locknuts to 60 Inch 
+Pounds.  
+ 
+11. Mark the properly torqued fasteners with Orange Torque stripe Paint.  
+
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+12. Connect the air lines as shown in the illustration above.  The tubing that was disconnected 
+earlier is shown properly connected with size call outs.  
+ 
+13. Connect the wiring harness to the Solenoid Valve and the Pressure Transducer . 
+ 
+14. Using a T -30 Torx Driver, reinstall the lower ECAB Panel.  
+ 
+15. Replace any other components that were removed to access the Hill Hold Plate.  
+ 
+16. Close the valves that were opened to drain the air tanks.  
+  
+ 
+17. Remove the Lockout/Tagout devices and start the bus.  
+ 
+18. Allow the air pressure to build until the compressor stops.  
+ 
+19. Ensure that there are no air leaks before returning the bus to service.  
+Close Valves  

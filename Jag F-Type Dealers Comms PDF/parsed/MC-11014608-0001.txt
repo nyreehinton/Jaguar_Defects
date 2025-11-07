@@ -1,0 +1,61 @@
+ 
+The flap of the reversing camera opens
+and closes by itself during forward travel
+Topic number LI54.65-P-066284
+Version 6
+Function group 54.65 - Parking assist
+Date 2/24/25
+Validity Vehicles with parking control unit Park213M and Park223
+that also still have code 218 (Reversing camera) or code
+501 (360° camera).
+Reason for change Replacing 166 with 167 chassis.
+Complaint
+The flap of the reversing camera opens and closes by itself during forward travel several times during the trip. No ca-
+mera image is displayed in the head unit.
+The reversing camera or the 360° system functions normally when activated manually or by engaging drive range "R".
+Cause
+This is not a malfunction, but an intended system behavior. Calibration of the reversing camera is in progress.
+The calibration is completed by:
+• Opening the camera cover for a maximum of 5 cumulative minutes.
+• If the vehicle speed is < 35 km/h (<22 MPH).
+• The steering wheel angle is < 10°.
+If calibration is aborted by exceeding one of the above conditions, the camera retracts and the calibration will re-at-
+tempt once the conditions are achieved and the speed returns to the range of 18 km/h (~11 MPH).
+Remedy
+SCN code PARK213M on MFA2 facelift vehicles produced after 09/2024 (A-Class, CLA, GLA, etc...) so the complete
+calibration speed window is available.
+For vehicles with PARK213M or PARK223 a calibration is completed successfully by:
+• Driving forward (typically less than 1 minute).
+• Vehicle speed is < 35 km/h (<22 MPH).
+• The steering wheel angle is < 10°.
+• During daylight.
+• Without a vehicle following too closely (camera must be able to see asphalt).
+When calibration has completed successfully, the camera door closes automatically for the rest of the driving cycle.
+The camera will now only open if the customer requests (Example: Engaging reverse gear).
+26.02.2025   21:10   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+The calibration of the camera will re-initiate every drive cycle (ignition change).
+The customer can generally perform calibration at the first attempt while briefly maintaining a speed range of 15 km/
+h (~9 MPH) and 35 km/h (~22 MPH). The customer can therefore play a significant role in reducing the camera door
+noise and actuation frequency.
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Communication/information  > Assistance and warning systems  > Parking assist  > 360° camera  > No image
+Communication/information  > Assistance and warning systems  > Parking assist  > Reversing camera  > Without pictu-
+re
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+26.02.2025   21:10   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

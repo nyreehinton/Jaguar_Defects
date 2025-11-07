@@ -1,0 +1,48 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)RSM
+ConditionOnly vehicles with RPO RSM will have the potential for this
+condition.
+K313 interior object detection module stuck in reboot loop,
+creating a parasitic draw on the battery .
+CauseVehicle dropped below 4 volts.
+Note: This condition will not create the parasitic draw , it will
+only become an issue if the vehicle dropped to 4 volts for
+another reason that must be corrected ﬁrst.
+Bulletin No.: PIT6348
+Published date: 02/25/2025
+Preliminary Information
+PIT6348 K313 Interior Object Detection Module Stuck In Reboot
+Creating Parasitic Draw
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:    
+Test and charge the battery .
+Important: The battery must be fully charged before cycling the fuse. The module must see
+a fully charged battery before cycling the fuse to get it out of the reboot loop.
+Once battery is full voltage, locate the F6DA fuse in the X51A Instrument P anel Wiring
+Harness Junction Block. Remove the fuse to reset the module and plug the fuse back in.
+Important:  The vehicle will still need to be tested / diagnosed to see why the battery went
+low below 4 volts.
+Engineering is currently investigating .
+Warranty Information
+For vehicles repair ed under the Bumper -to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. R eference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage infor mation.
+Labor Operation Description Labor Time
+* 2880087 K313 Reset Reboot Loop 0.3 Hr .
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/25/2025 - Created on. 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

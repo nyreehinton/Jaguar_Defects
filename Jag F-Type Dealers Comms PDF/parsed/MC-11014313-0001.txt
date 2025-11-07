@@ -1,0 +1,53 @@
+Involved Region or
+CountryNorth America
+Condition P06DD with low and erratic engine oil pressure at idle.
+CauseInspect all four piston oil nozzles / squirters for missing the
+center section.
+Bulletin No.: PIP6044
+Published date: 02/14/2025
+Preliminary Information
+PIP6044 Diagnostic Aid - MIL P06DD with Low and Erratic Oil
+Pressure At Idle
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All All2.5 LK0 All
+Chevr oletTraverse (New) 2024 - 2025 All All2.5 LK0 All
+GMC Acadia 2024 - 2025 All All2.5 LK0 All
+ 
+ 
+ 
+Correction:  
+Vehicle ma y have P06DD set as current or history . Verify the engine oil pressure is erratic
+at an idle. F or example, the oil pressure will typically be toggling very rapidly at an idle
+when engine oil temperature is warm. 
+Remove the balancer shaft assembly and inspect the four piston oil nozzles for missing the
+center portion. The center portion parts that came out of the piston nozzle, ma y be sitting
+on top of the balancer shaft assembly , in the oil pick up screen or in the bottom of the oil
+pan. 
+Some of the components from the center portion ma y not be found as they ma y have
+exited the engine through the oil drain plug opening during an oil change. 
+Replace all four piston oil nozzles if any of them are found to be damaged.
+ 
+#1 is pointing to a piston oil nozzle that still has the center portion.
+ 
+ 
+#2 is pointing to a piston oil nozzle that is missing the center portion.  
+ 
+The pictures below , are examples of the components that are the center portion of piston
+oil nozzles.
+ 
+ 
+ 
+Labor Operation Description Labor Time
+4066230 Piston Oil Nozzle ReplacementUse Published Labor
+Time
+Version 1
+Modiﬁed 02/14/2025 - Created on.
+Warranty Information
+ 
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

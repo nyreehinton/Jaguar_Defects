@@ -1,0 +1,80 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+ICUP - Volvo Cars app displays “Vehicle offline” messageRef. No.
+TJ 37105.1.1
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/4/24Status Date
+1/29/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3975
+Function Description
+Mobile data services, generalPage
+Page 1 of 3Attachment
+File Name File Size
+TJ_37105_1.jpg 0.0200 MB
+Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+This Technical Journal is only valid for vehicles equipped with an Android Automotive Operating 
+System (ICUP Vehicles).
+If the Volvo Cars app is displaying a “Vehicle offline” message and the app is greyed out (see 
+attachment TJ_37105_1.jpg), follow the advice under Service.
+CSC   Customer Symptom Codes
+Code Description
+6M Mobile app Volvo Cars/No information from the vehicle
+6N Mobile app Volvo Cars/Other communication problems
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 2023-9999 - 202222-999952
+225 2023-9999 - 202222-999952
+227 2023-9999 - 202252-999952
+234 2023-9999 - 202222-999952
+236 2022-9999 - 202122-999952
+238 2022-9999 - 202122-999952
+246 2022-9999 - 202122-999952
+256 2023-9999 - 202222-999952
+536 ED E400V6 2021-2023 - 202037-202316
+Page 2 of 3 2025-01-29
+Technical Journal 37105.1.1Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+536 2023-9999 - 202222-999952
+539 2022-9999 - 202139-999952
+SERVICE:
+This issue could result from the TCAM going offline during abandon mode due to a low State of 
+Charge (SoC) detected on the 12V battery. 
+Low SoC for 12V= SoC is less than 55% for 3 minutes, or less than 40% for 1 minute.
+For reference, it is the same level of SoC that triggers the infotainment “warning message” when 
+listening to music with the vehicle powered off.  
+To avoid unnecessary fault tracing and repairs the suggestion is to:
+• Ensure that the 12 V battery is fully charged.
+• Check the Volvo Cars app after the car has been parked for 2 hours. If the symptom is gone, then 
+the cause is most likely due to a low 12V battery State of Charge (SoC).
+• If the symptom is repeated frequently, then fault trace the 12 V system according to VIDA.
+Note! The “Vehicle offline” message can be displayed in the Volvo cars app if the app does not 
+have connectivity to the cloud or the car is parked in a bad network area, for example underground 
+parking.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+19119 Administration Allowance
+VEHICLE REPORT:
+Yes, please submit a Connectivity Report if the service solution described in this TJ has no effect. 
+Use concern area “Connectivity Report” and sub concern area “Support not needed” , use function 
+group 3975.
+ 
+To view TJ attachment continue to next page.  This TJ has one attachment.
+2025-01-29 Page 3 of 3
+Technical Journal 37105.1.1

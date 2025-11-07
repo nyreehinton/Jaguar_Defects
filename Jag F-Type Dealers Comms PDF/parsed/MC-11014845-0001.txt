@@ -1,0 +1,88 @@
+Bulletin Number: 05-92-25;  Date: 02/03/25         Page 1 of 3
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 05-92-25
+ DATE: 02/03/25 APPLICABILITY: 2022-25MY WRX
+ SUBJECT: Click/Crack Sound from Front  
+  Lower Control Arm
+INTRODUCTION: 
+This bulletin announces the design change made to the front lower control arms developed to address 
+cases of a click or cracking type sound heard when moving forward or backward at low speed 
+with the steering wheel fully turned position. This is caused by the coarse surface of the lower arm 
+allowing slight movement of the outer portion of the bushing. The new arms have a smooth finish 
+on the contact surface providing an increased fixed positioning of the bushing. If this is reported by 
+a customer and can be duplicated, replace the affected lower control arm using the part information 
+supplied in this bulletin.
+DESCRIPTION OF DESIGN CHANGE:
+PRODUCTION CHANGE INFORMATION:
+The new control arm assemblies have been incorporated into vehicle production as per staring  VIN 
+R9814013.ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 05-92-25;  Date: 02/03/25         Page 2 of 3
+Continued...PART INFORMATION: 
+REMINDER:  Always order the most up-to-date replacement parts based on the specific VIN being 
+repaired
+Part Description  Part Number
+LOWER ARM ASSEMBLY-FRONT, RIGHT 20202VC020
+LOWER ARM ASSEMBLY-FRONT, LEFT 20202VC030
+One-Time Use Parts
+Part Description  Part Number Quantity 
+FLANGE NUT 902380017 1 per side
+FLANGE BOLT 901000182 1 per side
+FLANGE BOLT 901000377 1 per side
+FLANGE BOLT 901000396 1 per side
+SELF LOCKING NUT 902350030 1 per side
+IMPORTANT: There currently have been no changes made to the part numbers. The new parts can 
+be identified in the two following ways.
+1. A painted blue dot has been applied to the control arm adjacent to the bushing. 
+
+Bulletin Number: 05-92-25;  Date: 02/03/25         Page 3 of 3
+2. The design change was implemented on parts with a production date code of 240723 (July 
+23, 2024) and after. The production date code can be located on the part number label. See the 
+example below. 
+SERVICE PROCEDURE / INFORMATION:
+REMINDER:  Customer satisfaction and retention starts with performing quality repairs.
+The service procedures for front lower control arm replacement remain unchanged.  Always refer to 
+the applicable Service Manual and review the full requirements of the repair being performed.  The 
+Service Manual procedures contain information critical to performing an effective repair the 
+first time, every time.  This includes but is not limited to important SAFETY precautions, proper 
+inspection criteria, necessary special tools, required processes and related one-time-use parts needed 
+for a complete and lasting repair.  
+Refer to STIS: Suspension > FRONT SUSPENSION > Front Arm
+NOTE: The Service Manual uses a black star (★) in the component breakdown illustrations to 
+indicate  one-time use parts.
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Basic New Car Limited Warranty period or covered by an active Subaru 
+Added Security Classic or Gold plan, this repair may be submitted using the following claim 
+information:
+Labor Description Labor Operation # Labor Time Fail Code
+ONE L ARM OR BALL JOINT R&R B611-402 0.4
+NBL-25
+BOTH L ARM OR BALL JOINTS R&R B611-403 0.7
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

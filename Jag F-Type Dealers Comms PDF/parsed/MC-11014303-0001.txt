@@ -1,0 +1,34 @@
+Involved Region or
+CountryNorth America
+ConditionCustomers ma y comment that the CEL/MIL is illuminated along
+with a service charging system message.
+Technician ma y ﬁnd DTC P0621 set as current or history .
+Cause Engineering is currently investigating.
+Version 1
+Modiﬁed 02/13/2025 - Created on.
+Bulletin No.: PIC6593
+Published date: 02/13/2025
+Preliminary Information
+PIC6593 DTC P0621 - Service Charging System Displayed
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Encor e GX 2024 - 2025 All AllAll All
+Buick Envista 2024 - 2025 All AllAll All
+Chevr oletTrailblazer 2024 - 2025 All AllAll All
+Chevr oletTrax 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+Please follow the diagnostic test procedures outlined in SI for DTC P0621.
+If the test results do not directly identify a functional fault, other than a warning
+message/light, do NOT replace any parts at this time.  
+Engineering is currently investigating.
+In the meantime, please advise customer they ma y continue to drive the vehicle
+The PI will be updated or replaced with TSB once a determination has been made .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

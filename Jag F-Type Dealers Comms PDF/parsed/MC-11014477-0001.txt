@@ -1,0 +1,397 @@
+ 
+ 
+   
+   
+ CAMPAIGN  
+BULLETIN  
+Rear Door Rear Sash Cover  Inspection  
+ 
+Reference: PMA4 4 
+Date: February 18, 2025  
+Attention: Dealer Principal, Sales, Service & Parts Managers  QUALITY ACTION  
+CAMPAIGN ID: PMA4 4 | Original Document  
+ 
+ 
+*****D ealer Announcem ent*****  
+ 
+To ensure continued customer satisfaction and confidence, Nissan is conducting a dealer  
+inventory quality action on specific model year 2025 Nissan Kicks vehicles  identified in Service 
+Comm and National Service History . On affected  vehicles , one or both  rear door  rear sash covers  
+may be  loose. 
+ 
+Dealers will inspect and , if necessary, replace one or both rear door rear sash covers . 
+ 
+*****What Dealers Should Do*****  
+ 
+PLEASE FOLLOW THE ATTACHED INSTRUCTIONS:  
+ 
+1. Verify if vehicles are affected by this quality action using Service Comm or DBS National 
+Service History – Open Campaigns I.D. PMA4 4 
+• New vehicles in dealer inventory can also be identified using DBS (Sales -> Vehicle 
+Inventory, and filter by Open Campaign).  
+ Refer to NPSB 15- 460 for additional information  
+• Some vehicles may still be in transit.  Please continue to check newly arriving 
+inventory for applicability.   
+ 
+2. Use the attached procedure to remedy any vehicles affected by this quality action prior 
+to sale.  
+ 
+3. The parts for this quality action  are on restriction and can be ordered via DBS  
+ 
+4. The service department should submit the applicable warranty claim for the action 
+performed to close the campaign in Service Comm and release the vehicle.  
+ 
+NISSAN NORTH AMERICA, INC.  
+Total Customer Satisfaction  
+ Affected  
+Models/Years:  Affected 
+Population:  Dealer 
+Inventory: SERVICE COMM 
+Activation date:  Stop Sale  
+In Effect : 
+2025 Kicks  (P16) NA 9,170  February 18, 2025  NO 
+    1/17     PMA44   
+ 
+ 
+TOOL REQUIREMENT:  
+• Essential Tool : (LiB GAP FILLER GUN) PN: NI -53350  
+• 3M Adhesive Single Tube  PN: 999MP -3M08237  
+• 3M Static Mixing Nozzle  PN: 999MP -3M08193  
+ 
+ 
+Figure 1  
+ 
+ 
+ 
+ 
+ 
+PMA44 – 2025 KICKS  
+REAR DOOR REAR SASH COVER  
+INSPECTION  
+    999MP -3M08193 
+3M Static Mixing 
+Nozzle  
+     999MP -3M08237  
+    3M Adhesive Single 
+Tube      NI-53350   
+       LiB Gap Filler Gun  
+    2/17     PMA44  INSPECTION :  
+ 
+1. Locate the left (driver side) and right (passenger side) Rear Door Rear Sash 
+Cover s.  
+ 
+ 
+Figure 2  
+ 
+   Rear Door Rear 
+Sash Cover  
+    3/17     PMA44   
+2. Verify  if the left (driver side) or right (passenger side) Rear Door Rear  Sash 
+Cover is loose or missing  (Figure s 3 & 4 ). 
+ 
+  
+Figure 3                                                  Figure 4  
+ 
+•  Place your finger at the top/forward section  of the sash cover  (Figure 3 ) 
+•  While ONLY bending at the finger joint , use moderate  pulling  pressure  to 
+check if  Rear Door Rear Sash Cover is loose (Figure 4 ) 
+ 
+➢ NO > the sash cover is tight  and pulls away from the body creating an 
+opening that is approximately 4mm or LESS .  
+The part  is GOOD . No further action is required. Submit claim using Op 
+Code and PMA440 per Claims Information.  
+ 
+➢ YES > the sash cover is loose  and pulls away from the body creating an 
+opening  approximately  GREATER  than 4mm  (Figure 4 ). 
+The part is NO GOOD  and must be replace d. Proceed  to Step 3 .  
+ 
+➢ YES>  the sash cover is missing . Replace the missing sash cover. Proceed 
+to Step 4.  
+ 
+NOTICE:  Only replace the loose or missing (NO GOOD ) Rear Door Rear 
+Sash Cover(s).  
+     Left Rear Door 
+Sash Cover       Top/Forward 
+section  
+    Sash Cover is 
+loose and opening 
+is greater than 
+4mm      Bending at t he 
+Finger J oint 
+     Bending at the 
+Finger J oint 
+    4/17     PMA44   
+3. Remove the NO GOOD  Rear Door 
+Rear Sash Cover (s). 
+ 
+•  Using an suitable  trim tool (Figure  
+5), remove the Rear Door Rear 
+Sash Cover (s) 
+ 
+Figure  5 
+ 
+4. Remove all residual adhesive tape (Figure  6) from the vehicle, as shown in 
+Figure  7.  
+ 
+•  Use 91% isopropyl alcohol to clean and remove all adhesive tape and residue  
+ 
+NOTICE:  Use of other cleaning chemicals may damage the paint surface.   
+ 
+  
+Figure 6                                      Figure 7    
+ 
+Suitable  Trim 
+Tool 
+    Residual 
+adhesive tape     All residual 
+adhesive tape 
+and residue 
+removed  Before  After 
+    5/17     PMA44  INSTAL LATION PREPA RATION:  
+ 
+5. Using a suitable tool, c ut the Mixing Nozzle  at the 2nd diameter marking 
+down  from the top to allow for a larger bead of adhesive  during application  
+(Figure 8 & 9 ).  
+ 
+  
+Figure 8                                                 Figure 9  
+    Cut here, at the  2nd 
+Diameter Marking  
+Before c utting Nozzle  After c utting Nozzle  
+    6/17     PMA44   
+6. Assemble the LiB Gap Filler Gun  NI-53350, 3M  Adhesive Tube 999MP -3M08237  
+and the 3M Static Mixing Nozzle  999MP -3M08193  (Figure 10 & 11 ). 
+ 
+•  Remove and discard the red plug from the adhesive  tube by unscrewing  the 
+retaining collar   
+•  Attach the mixing  nozzle by sliding the retaining collar  over the nozzle and 
+screwing  the retaining collar  onto the adhesive  tube 
+•  Place the adhesive  tube with the nozzle attached i nto the LiB Gap Filler Gun  
+NI-53350   
+•  DO NOT  squeeze  the LiB Gap Filler Gun  handle because it will begin  mixing 
+the adhesive   
+ 
+  
+Figure  10                                                Figure 11  
+ 
+IMPORTANT : The preparation of all parts and equipment must happen before 
+mixing the adhesive  in the applicator mixing nozzle.  The adhesive  hardens 
+very quickly.  
+     3M Adhesive 
+Single Tube    Red P lug 
+    Retaining C ollar    Adhesive, Nozzle and LiB 
+Gap Filler Gun  assembled  
+    3M Static 
+Mixing N ozzle 
+    7/17     PMA44   
+7. Preparation for the Rear Do or Rear Sash Cover installation (Figure 12 ).  
+ 
+•  Obtain  the LiB Gap Filler Gun Assembly  
+ 
+•  Obtain the replaceme nt Rear Door Rear Sash cover(s)  
+ 
+•  Obtain a scrap piece of cardboard or appropriate scrap surface for the repair  
+ 
+NOTICE:  All tool and part preparations MUST  be completed before  starting 
+the repair in order to finish the repair before the adhesive starts to harden  
+  
+ 
+Figure 12  
+ 
+LiB GAP FILLER GUN 
+Assembly  
+    Replacement 
+Rear Door Rear 
+Sash Covers      Scrap piece of 
+cardboard  
+    8/17     PMA44  REAR DOOR REAR SASH COVER INSTAL LATION : 
+ 
+8. Remove the clip from the new Rear Door Rear Sash Cove r(s) (Figure 13 ), and 
+then install the clip into the doo r where shown in Figure 14 .  
+ 
+  
+Figure 13                                      Figure 14  
+ 
+     
+Remove Clip 
+   Install Clip  
+    9/17     PMA44   
+ 
+9. Apply a small  amount of the adhesive to a scrap piece of cardboard until it 
+appears that the adhesive exits the nozzle evenly mixed  (Figure 15 ).  
+ 
+ 
+Figure 15  
+ 
+IMPORTANT : In the proceeding  steps , the Rear Door Rear Sash Cover must be 
+aligned and immediately installed  before the adhesive starts to harden.  
+• Please read steps 9-17 before mixing and applying adhesive  
+• Adhesive will begin hardening in 3 minutes  once mixed  
+• Mixing  nozzle will begin to clog in  2-3 minutes after mixing  has stopped  
+    10/17     PMA44   
+ 
+10. Apply a 6mm wide, 30mm long bead of adhesive in a straight line to the area       
+of the Rear Door Rear Sa sh Cover where shown in Figure 16 . 
+ 
+ 
+Figure 16  
+ 
+•  Starting from the lower corner of the upper foam, place a bead of adhesive 
+that is 6mm wide and 30mm long  (Figure 17 )   
+ 
+ 
+Figure 17  
+ 
+Lower corner of 
+the Upper F oam 
+Adhesive is applied 
+in this area  
+Adhesive applied 6mm 
+wide and 30mm long  
+    11/17     PMA44   
+11.  Remo ve the red backing  from the double -sided tape  (Figure 18 ).  
+ 
+•  Pull the available red tabs on the double -sided tape to remove   
+ 
+•  Take care to NOT touch t he tape surface once backing is removed   
+ 
+ 
+ 
+Figure 18  
+ 
+IMPORTANT : The Rear Door Rear Sash Cover must be installed immediately  
+after the adhesive is applied and tape backing is removed. Adhesive will begin 
+to set in 1 min .  
+Red T ape 
+backing  
+    12/17     PMA44   
+12. Align the bottom  Rear Do or Rear Sash Cover tab and bottom  clip to the 
+vehicle door  as shown in Figure 19 & 20 .  
+ 
+  
+Figure 19                                     Figure 20  
+ 
+13. Align the upper  Rear Door Rear Sash Cover tab to the sash m olding end cap         
+(Figure 21 ).  
+ 
+Figure 21  
+     Rear Door Rear 
+Sash Cover       Rear Door Rear 
+Sash Cover 
+bottom  Clip 
+location  
+     Sash M olding 
+endcap  
+     Upper Rear Door 
+Rear Sash Cover 
+tab      Top of the 
+Rear Door Rear 
+Sash Cover  
+     Bottom Rear 
+Door Rear Sash 
+Cover Tab       Rear Door Rear 
+Sash Cover 
+bottom C lip 
+     Bottom Rear 
+Door Rear Sash 
+Cover Tab  
+location  
+    13/17     PMA44   
+14. Once aligned, push the Rear Door Rear Sash Cover lower  clip to snap  into 
+place (Figure 22 ).  
+ 
+15. Once aligned, push the Rear Door Rear Sash Cover upper  clip to snap into 
+place (Figure 22 ).  
+ 
+ 
+Figure 22  
+     Rear Door 
+Rear Sash 
+Cover upper 
+Clip 
+     Rear Door 
+Rear Sash 
+Cover lower  
+Clip  
+    14/17     PMA44   
+16. Apply consistent, even pressure to the Rear Door Rear Sash Cover for at 
+least 1 min ute (Figure 23 ).  
+ 
+•  Using both hands, as shown in Figure  23, apply pressure by leaning at a 
+slight angle in relation to t he vehicle   
+ 
+ 
+ 
+Figure 23  
+ 
+IMPORTANT : If you are repairing more than one Rear Door Rear Sash Cover, 
+clear the nozzle  to prevent clogging immediately  after completing S tep 16  by 
+applying a small amount the adhesive to a scrap piece of cardboard and repeat 
+Steps 8  through 16  for the repair. If the nozzle does not clear, use  a new nozzle 
+and repeat Steps 5  through 16 .  
+• When the repair is complete, allow the glue to harden in the Static M ixing 
+Nozzle to stow the remaining 3M Adhesive  for later use  
+ 
+    15/17     PMA44   
+17. Wait at least three (3) minutes  and c onfirm that the double -sided tape has 
+adhered properly by gently  trying to lift the edge of the Rear Door Rear Sash 
+Cover at the thr ee (3) points shown in Figure 24 .  
+ 
+•  The leading edge of the Rear Door R ear Sash Cover should not lift  
+ 
+•  If the leadin g edge does lift, repeat Step 16  and press hard along the three 
+(3) points  shown in F igure 24   
+ 
+ 
+ 
+Figure 24  
+ 
+ 
+IMPORTANT : Once the repair is completed, do not wash the vehicle. It is 
+recommended that vehicle should avoid excess sun (heat) and water exposure as 
+much as reasonably possible for up to 24 hours as tape a nd adhesive cures.  
+     Lift Point 1  
+     Lift Point 2  
+     Lift Point 3  
+    16/17     PMA44  PARTS INFORMATION :  
+Part Number  Description:  Qty 
+999MP -3M08237  3M Adhesive Single Tube  1 
+999MP -3M08193  3M Static Mixing Nozzle  
+(Bag of six 6) 1 
+82290 -7LF0D  COVER - REAR (RH Gloss)  1 
+If needed  
+82291 -7LF0D  COVER – REAR (LH Gloss)  1 
+If needed  
+82290 -7LF0C  COVER – REAR (RH Matte/Grain)  1 
+If needed  
+82291 -7LF0C  COVER – REAR (LH Matte/Grain)  1 
+If needed  
+   
+CLAIMS INFORMATION :  
+Submit a “CM” line claim using the following claims coding:  
+Campaign (“CM”) 
+ID Description:  Op Code  FRT 
+PMA44  Inspect T wo (2) Rear Door Rear Sash 
+Covers  
+(OK Condition)  PMA440 0.2 Hr  
+Inspect T wo (2) Rear Door Rear Sash 
+Covers and Repair O ne (1)  PMA441 0.4 Hr 
+Inspect T wo (2) Rear Door Rear Sash 
+Covers and Repair T wo (2)  PMA442 0.7 Hr 
+   
+    17/17     PMA44  EXPENSE CODE:   
+Expense Code  Description:  Amount Max  
+068 3M Adhesive Single Tube   
+PN: 999MP -3M08237 (1)  $8.01 
+069  3M Static Mixing Nozzle  
+PN: 999MP -3M08193 (2)  $2.94   
+(1) One 6.75 oz. 3M Adhesive  Single Tube  (PN: 999MP -3M08237) will cover twelve 
+(12) vehicles.  
+(2) Two 3M Static Mixing Nozzle s (PN: 999MP -3M08193) will cover one (1) vehicle.  
+ 
+AMENDMENT  HISTORY  
+ 
+PUBLISHED  DATE  REFERENCE  DESCRIPTION  
+February 18 , 2024  Initial Release   Original Quality Action  
+ 
+ 

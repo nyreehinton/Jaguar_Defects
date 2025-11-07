@@ -1,0 +1,166 @@
+Bulletin Number: 15-322-25R;  Revised: 02/18/25         Page 1 of 4
+SERVICE BULLETIN
+INTRODUCTION: 
+In the interest of customer satisfaction, Subaru of America, Inc. (SOA) is extending the New Car 
+Limited Warranty coverage for the CP1 & Gen 3.1 Head Unit used in the above listed models and 
+model years to (8) eight years / 150,000 miles to cover certain qualifying repairs to the infotainment 
+audio system. Qualifying repairs under the Warranty Extension include a failure in the applicable 
+head unit resulting in a black or blank screen, a loss of audio, repeated rebooting, or/and inability 
+to use one of the following features: CarPlay/Android Auto, Navigation, Bluetooth, or touch screen 
+operation. The extension does NOT cover issues caused by physical damage such as water damage or 
+screen impact. 
+NOTE: In some cases, these issues may occur intermittently. 
+These vehicles are to be repaired with the following service procedures:
+1.	 Reprogramming	is	the	first	option	when	new	software	is	confirmed	to	be	available.	
+2. If the head unit has the latest software available and the fault condition(s) is present, the head 
+unit will require replacement. 
+3. If a qualifying condition is duplicated after head unit replacement, the vehicle is eligible for 
+an additional one-time software reprogramming if new software becomes available within the 
+period covered by the extension. 
+Parts (for replacing) and labor cost will be covered under this Warranty Extension one time ONLY . 
+The repairs are only to be covered after thorough diagnosis as per the applicable Service Manual has 
+confirmed	the	head	unit	to	be	the	fault	source.	Other	audio	components	such	as	amplifiers,	speakers,	
+and wiring will not be covered by this Warranty Extension. 
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 15-322-25R
+ DATE: 01/28/25
+ REVISED: 02/18/25 APPLICABILITY: 2019-23MY Forester w/ Gen 3.1
+  2019-23MY Impreza & Crosstrek w/ Gen 3.1
+  2019-21MY WRX/STI w/ Gen 3.1
+  2022-23MY WRX/STI w/ CP1
+  2019-22MY Ascent w/ Gen 3.1
+  2019MY Outback & Legacy w/ Gen 3.1
+  2020-22MY Outback & Legacy w/ CP1
+ SUBJECT: CP1 & Gen 3.1 Head Unit Warranty ExtensionATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 15-322-25R;  Revised: 02/18/25         Page 2 of 4
+ 
+All diagnosis and repairs MUST be completed prior to the expiration of this Warranty Extension. 
+Subaru of America will reimburse customers who have previously paid for repairs or replacement 
+related to the Warranty Extension due to conditions normally being covered if the vehicle was 
+affected	by	the	terms	of	the	New	 Vehicle	Limited	 Warranty.	
+ALWAYS	perform	a	 Vehicle	Coverage	Inquiry	on	Subarunet	to	determine	eligibility	for	this	 Warranty	
+Extension before proceeding with any repair. See sample vehicle inquiry result below.
+Extensions
+Effective 
+DateExpiration 
+DateCoverage Type- Description Addl Miles Addl Months Status
+XXXXX XXXXXCP1 & Gen 3.1 Head Unit Warranty 
+Extension114,000 60 Active
+All	affected	vehicles	with	a	qualifying	concern,	regardless	of	mileage	and	 Warranty	start	date	will	be	
+covered for these repairs for a period of one year. 
+PART INFORMATION: 
+Due	to	the	vast	variety	of	head	units,	it	is	important	to	confirm	the	applicable	part	based	on	the	
+specific	VIN	being	repaired.	Once	the	applicable	part	is	confirmed,	use	the	table	below	to	proceed	on	
+the part order. 
+Head Unit Type Link
+CP1 Denso Ten
+Harman 3.1 United Radio
+SERVICE PROCEDURE / INFORMATION:
+STEP 1: Confirm	the	customer	concern	is	 with the applicable head unit resulting in a black or blank 
+screen, a loss of audio, repeated rebooting, or/and inability to use one of the following features: 
+CarPlay/Android Auto, Navigation, Bluetooth, or touch screen operation. The extension does NOT 
+cover issues caused by physical damage such as water damage or screen impact.
+STEP 2: Check the head unit software status. If new software is available, reprogram the head unit 
+using the latest software available. For details regarding head unit reprogramming refer to TSB 15-
+236-18 for Harman Gen3.1 or TSBs: 15-261-20 or 15-297-22 or 15-301-22 for Denso CP1 or TSB 
+15-305-22 for Denso CP1.5 as applicable. If the head unit has the latest software available and the 
+fault condition(s) is present, proceed to Step 3.  
+STEP 3: (ONLY required if the current software is the newest available or reprogramming 
+does NOT resolve the customer concern). The service procedures for head unit replacement remain 
+unchanged. Always refer to the applicable Service Manual and review the full requirements of the 
+repair being performed. The Service Manual procedures contain information critical to performing 
+an	effective	repair	the	first	time,	every	time.	 This	includes	but	is	not	limited	to	important	SAFETY 	
+precautions, proper inspection criteria, necessary special tools, required processes and related one-
+time-use parts needed for a complete and lasting repair. 
+Continued...
+Bulletin Number: 15-322-25R;  Revised: 02/18/25         Page 3 of 4
+ADDITIONAL NOTES:
+• Refer to the applicable Service Manual and review: General Description > Repair Contents 
+> Action required before & after Battery Disconnect . Additionally, record any stored seat 
+position(s) before proceeding. Relearn any seat position memory after work is complete. If 
+the power rear gate (PRG) height has been customized, that position must also be noted and 
+relearned.
+•  Refer to the applicable Service Manual: Airbag System & Seat Belt System > 
+ENTERTAINMENT & MONITORING > Audio
+• Whenever reconnecting the ground cable terminal to the battery sensor, torque to 7.5Nm 
+(5.5ft.-lbs. or 66inch-lbs.) while supporting the sensor with the other hand as outlined in the 
+applicable Service Manual under: STARTING/CHARGING SYSTSEMS > Battery Sensor.
+• If a qualifying condition is duplicated after head unit replacement, the vehicle is eligible for 
+an additional one-time software reprogramming if new software becomes available within the 
+period covered by the extension. 
+WARRANTY / CLAIM INFORMATION:
+If head unit replacement is required and the vehicle is within the parameters of this Warranty 
+Extension, use the coding below to submit a Warranty Claim:
+2020-2022MY Outback/Legacy with CP1 
+2022-2023MY WRX/STI with CP1
+Labor Description Labor Operation #Labor 
+TimeFail Code
+DENSO COCKPIT CONTROL UNIT EXCHANGE R&R B810-086 .6
+ZWE-43 SATELLITE RADIO REACTIVATION C031-105 .2
+ELECTRICAL TESTING & DIAGNOSIS C860-001 .4
+2020-2022MY Outback/Legacy with CP1
+2022-2023MY WRX/STI with CP1
+Labor Description Labor Operation #Labor 
+TimeFail Code
+DENSO CENTER INFO DISPLAY EXCHANGE R&R B811-086 .6
+ZWF-43
+ELECTRICAL TESTING & DIAGNOSIS C860-001 .4
+Continued...
+Bulletin Number: 15-322-25R;  Revised: 02/18/25         Page 4 of 4
+Denso CCU replacement claims will require detailed input of the software version PRIOR to 
+replacement. The claim submission for exchange replacements will require the Ten Claim Number 
+from the invoice.
+2019-2022MY Ascent with Harman Gen3.1 
+2019MY Outback/Legacy with Harman Gen3.1 
+2019-2023MY Forester with Harman Gen3.1 
+2019-2023MY Impreza/Crosstrek with Harman Gen3.1 
+2019-2021MY WRX/STI with Harman Gen3.1
+Labor Description Labor Operation #Labor 
+TimeFail Code
+HARMAN AUDIO UNIT EXCHANGE R&R B850-086 .6ZVE-43ELECTRICAL TESTING & DIAGNOSIS C860-001 .4
+The claim submission for exchange replacements will require the MCO number / exchange number.
+2020-2022MY Outback/Legacy with CP1
+2022-2023MY WRX/STI with CP1
+Labor Description Labor Operation #Labor 
+TimeFail Code
+DENSO CP1 SOFTWARE UPDATE  
+(INCLUDES VERSION CHECK)A832-286 .6 ZWB-48
+Claim submission requires customer complaint description & new / installed software version.
+2019-2022MY Ascent with Harman Gen3.1 
+2019MY Outback/Legacy with Harman Gen3.1 
+2019-2023MY Forester with Harman Gen3.1 
+2019-2023MY Impreza/Crosstrek with Harman Gen3.1 
+2019-2021MY WRX/STI with Harman Gen3.1
+Labor Description Labor Operation #Labor 
+TimeFail Code
+HARMAN AUDIO / NAVI UNIT REPROGRAMMING
+(INCLUDES VERSION CHECK)A031-168 .6 ZVG-48
+Claim submission requires customer complaint description & new / installed software version.
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

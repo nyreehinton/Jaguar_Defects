@@ -1,0 +1,88 @@
+Technical Service Bulletin (TSB)
+Headlamp Condensation Clearing Procedure
+REFERENCE: TSB:  23-008-25
+GROUP:  23 - BodyDate: February 14, 2025 REVISION: 23-004-24 REV. A
+VEHICLES
+AFFECTED:2019 - 2023 (KL) Jeep Cherokee
+2021 - **2025** (WL) Jeep Grand Cherokee / Grand Cherokee L
+2021 - **2025** (WK) Jeep Grand Cherokee
+2022 - **2025** (WS) Wagoneer / Grand Wagoneer
+2021 - **2025** (DT) RAM 1500 Pickup
+2021 - **2025** (WD) Dodge Durango
+2021 - **2025** (MP) Jeep Compass
+2021 - **2025** (MV) Jeep Compass
+2021 - **2025** (JT) Jeep Gladiator
+2021 - **2025** (JL) Jeep Wrangler
+2019 - **2025** (BV) Jeep RenegadeMARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Some customers may report that on occasion, vehicle exterior head lamp assemblies are fogged with a
+light layer of condensation on the inside of the lenses.
+CAUSE: Headlamp condensation
+This bulletin supersedes Technical Service Bulletin (TSB) 23-004-24 REV. A, date of issue August 06,
+2024, which should be removed from your files. All revisions are highlighted with **asterisks** and
+include an additional model year.
+DISCUSSION:
+This TSB is to communicate the procedure for headlamp condensation clearing.
+STANDARD PROCEDURE - Lamp Lens Defogging:
+NOTE: Figures are not specific to vehicle and only used for showing the headlamps either good or
+bad, per the TSB.
+Customers may report that on occasion, vehicle exterior headlamp assemblies are fogged with a light layer of
+condensation on the inside of the lenses Fig. 1 .
+This may be reported after the headlamps have been turned on and brought up to operating temperature,
+turned off and then rapidly cooled by cold water (such as rain, or the water from a vehicle wash). Headlamp
+lens fogging can also occur under certain atmospheric conditions after a vehicle has been parked outside
+overnight (i.e. a warm humid day followed by clear cool night).
+This will usually clear as atmospheric conditions change to allow the condensation to change back into a
+vapor. Turning the headlamp ON will usually accelerate this process.
+Fig. 1
+Fogged Headlamp Examples
+A headlamp that exhibits condensation/fogging Fig. 1  should be evaluated in a service bay environment
+according to the following steps:
+1. Dry all water from the outside surface of the headlamp lens.
+2. Operating all outside lamps for 20 minutes by:
+● Starting the vehicle engine.
+● Turning ON the vehicle headlamps and turn ON the hazard warning flashers.
+Evaluation Criteria:
+If the condensation/fogging has begun to clear Fig, 2  from the headlamp lens after 20 minutes with the lamps
+operating, this indicates the lamp sealing has not been breached, and the headlamp does NOT need to be
+replaced.
+Fig. 2
+Condensation/Fogging Beginning To Clear Examples
+If the condensation/fogging has not begun to clear after 20 minutes with the headlamps operating, or the
+headlamp has large amounts of water droplets visible on most internal surfaces, this indicates a problem with
+the headlamp sealing that has allowed water to enter the headlamp. In this instance, the customer is also likely
+to report that moisture in the headlamp is always present and never disappears Fig. 3 .M23 FSAR-TSB-5076 -2-
+NOTE: A headlamp that exhibits internal moisture permanently Fig. 3  should be replaced.
+Fig. 3
+Condensation/Fogging Not Beginning To Clear Examples
+Most Common Causes For Heavy Non-normal Condensation/Fogging In Headlamp Assemblies:
+●Damage:  Breakage on the headlamp housing will allow moisture/water to enter to the headlamp (damage,
+cracks, holes, etc.) Fig. 4 . If this is noticed, the Failure Code must be recorded accordingly: 11/BROKEN
+OR CRACKED .
+Fig. 4
+Cracked, Damaged Or Broken Headlamp Examples
+●Missing Sealing Components:  Missing vent caps, access caps or bulb sockets will allow moisture/ water
+to enter to the head lamp Fig. 5 . If this is noticed, the Failure Code must be recorded accordingly: 1C /
+CONNECTOR LOOSE NOT ATTACHED .
+Fig. 5
+Missing Sealing Components Examples
+1 - Missing Vent Cap
+2 - Missing Access Cap
+3 - Missing Bulb Socket
+4 - Missing Bulb Socket-3- M23 FSAR-TSB-5076
+●Sealing Components:  Missing/damaged vent caps, incorrectly installed access caps and bulb sockets, will
+allow moisture/water to enter to the head lamp Fig. 6 . If this is noticed, the Failure Code must be recorded
+accordingly: 1C / CONNECTOR LOOSE NOT ATTACHED .
+Fig. 6
+Incorrectly Installed Access Caps Examples
+If no obvious causes are observed, proceed using the failure code for leaks (65) and replace the headlamps
+accordingly. Refer to the detailed service procedures available in DealerCONNECT/Service Library under:
+Service Info>08 - Electrical / 8L - Lamps and Lighting / Lamps/Lighting - Exterior / Unit, Front Lamp / Removal
+and Installation.
+POLICY:
+Information Only.

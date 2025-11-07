@@ -1,0 +1,46 @@
+Bulletin No.: PIP6047
+Published date: 02/26/2025
+Preliminary Information
+PIP6047 DTC P05CE P0014 Set As Current Or History
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac CT4 2024 - 2025 1G6DC5RK3P0155360 Current2.0 LSY All
+Cadillac CT5 2024 - 2025 1G6DP5RKXP0155375 Current2.0 LSY All
+Involved Region or
+Country:North America 
+Condition: DTC P05CE P0014 set as current or in history .
+Cause: Potential metal debris in engine oil.
+Correction
+If you encounter of of these vehicles with DTC P05CE P0014 set as current, history or even
+repeat condition inspect the engine oil by placing a sample into a suitable container and
+inspecting for signs of metal. If you ﬁnd an abnormal amount of metal in the engine oil
+sample proceed with the following steps.
+1. Using a soft mallet tap the Harmonic Balancer bolt several times to set the crankshaft
+to the back of the engine.
+2. Set up a dial indicator and place the indicator plunger on the center of the harmonic
+balancer bolt and zero out the dial indicator . Place the clamp base or magnetic base
+to a stationary part of the engine or vehicle for testing. Reference picture below for
+suggested set up.
+3. Gently pry the crankshaft forward in the engine using a suitable pry point and record
+the reading on the dial indicator .
+4. Refer to the latest Service Information to conﬁrm the Crankshaft Axial Clearance is
+outside of speciﬁcation.
+5. If the Crankshaft Axial Clearance is outside of the published speciﬁcation engine
+replacement would be required. Reference latest version of TSB 22-NA-074 .
+6. If no abnormal metal was found in the engine oil and the Crankshaft Axial Clearance
+is within speciﬁcation then proceed with published diagnostics for the related DTCs
+Picture below shows suggested set up for dial indicator .
+Labor Operation: Description Labor Time:
+  * 4089498          Crankshaft Thrust Bearing Diagnosis  
+         1.0 Hr .
+  *This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/26/2025 - Created on.
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor
+operation. Reference the Applicable Warranties section of Investigate V ehicle
+History (IVH) for coverage information.
+ 
+Version History
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

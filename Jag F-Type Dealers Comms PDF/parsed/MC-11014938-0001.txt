@@ -1,0 +1,309 @@
+     
+  
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada. All Rights Reserved.  
+  
+                  38G3    Page 1 of 8 
+   
+ Service Action 
+Code: 38G3       
+  
+ 
+Subject  Transmission Control Module (TCM) Software 
+Document History  Date  Summary  
+02/22/2025 Updated to include additional model years & updated vehicle counts  
+Claiming instructions added to include Criteria 02  
+Owner letters updated to reflect added model years  
+02/21/2025 Original publication  
+ 
+  
+Affected Vehicles  Country  Beginning 
+Model Year  Ending 
+Model Year  Vehicle  Vehicle Count  
+USA 2022  2024  GOLF GTI  16,659  
+USA 2022  2024  GOLF R  5,260  
+CAN  2022  2024  GOLF GTI  4,760  
+CAN  2022  2024  GOLF R  3,599  
+Check Campaigns/Actions screen in ELSA  on the day of repair to verify that a VIN qualifies for repair under this 
+action.  ELSA is the only  valid campaign inquiry & verification source.  
+ Campaign status must show “open.” 
+ If ELSA  shows other open action(s), inform your customer so that the  work can also be completed  at 
+the same time the  vehicle is in the workshop for this campaign.  
+About this Service 
+Action  On certain vehicles built during a limited production period, oversensitive diagnostic software 
+could cause the message, “ Error: selector lever. You can drive on. Please visit workshop” to be 
+displayed in error. To address this condition, Volkswagen is providing a software update for the 
+gearbox control unit. This software will enhance the function of the mechanical “emergency 
+park lock” system with an electric “emergency park lock” system so that unwarranted error messages do not occur.  
+As a reminder, your vehicle owner’s manual contains important information regarding your vehicle’s warning lights and messages. We encourage you and anyone who drives your vehicle to review the owner’s manual to become familiar with the types of vehicle indicators, warnings and messaging you may see.
+ 
+Code Visibility  On February 21 , 2025 , the campaign code was applied  to affected  vehicles.   
+Owner  Notification  Owner notification will take place in March  2025 . Owner letter examples are included in this 
+bulletin for your reference.  
+Campaign Expiration 
+Date  This campaign  expires on December 31, 2029 .  Work  must be performed on or before this date 
+to be eligible for payment. Keep this expiration date in mind when scheduling customers for this action.  If a customer wishes to have this work  performed after the expiration date, your normal 
+parts and labor cost associated with this work  will apply.  
+Additional Information  Please alert everyone in your dealership about this action, including Sales, Service, Parts and Accounting personnel.
+  Contact Warranty if you have any questions.  
+Dealers must ensure that every affected inventory vehicle has this campaign completed before 
+delivery to consumers .   
+Fill out and affix Campaign Completion Label (CAMP 010 000) after work is complete.  
+Labels can be ordered at no cost via the Compliance Label Ordering portal at www.vwhub.com . 
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 2 of 8  Claim Entry Instructions  
+ 
+The labor times listed here may differ from the labor operations and labor times listed in ELSA. 
+After campaign has been completed, enter claim as soon as possible to help prevent work from being duplicated 
+elsewhere. Attach the ELSA screen print showing action open on the day of repair  to the repair order.  
+If a customer declines  campaign work, refer to the “Customer Declines Campaign/Update Repair” section in the 
+Campaign/Update Policy and Procedures Manual.      
+Service Number  38G3  
+Damage Code  0099 
+Parts Vendor Code  WWO  
+Claim Type Sold vehicle: 7 10  
+Unsold vehicle: 7 90  
+Causal Indicator  Mark labor  as causal  
+Vehicle Wash/Loaner  Do not claim wash/loaner under this action. 
+Loaner/rental coverage cannot be claimed under this action. However, loaner/rental 
+may be covered under the current loaner/mobility program. Please refer to the 
+Volkswagen Warranty Policy and Procedures Manual for loaner claims information and 
+reimbursement details.  
+Criteria I.D. ALL 
+ LABOR  
+Labor Op  Time Units  Description  
+0150 00 10  SEE ELSA GFF/Guided Functions  
+(setup + battery charger)  
+0150 00 60  Time stated on 
+diagnostic protocol  GFF/Guided Functions  
+(software update)  
+ 
+ 
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 3 of 8  Customer Letter Example (USA)  
+ 
+ <MONTH YEAR>  
+  <CUSTOMER NAME>  
+<CUSTOMER ADDRESS>  
+<CUSTOMER CITY STATE ZIPCODE>  
+This notice applies to your vehicle:  <MODEL YEAR> <BRAND> <CARLINE>, <VIN>  
+Subject:   Service Action 38G3  - Transmission Control Module (TCM) Software  
+ Dear Volkswagen Owner,  
+As part of Volkswagen's ongoing commitment to customer satisfaction, we are informing you of our decision to conduct a service action on certain 2022- 2024 model  year Volkswagen vehicles. Our records show that you are the owner of a 
+vehicle affected by this action.  
+About this Service Action:  
+On certain vehicles built during a limited production period, oversensitive diagnostic software could cause the message, “Error: selector lever. You can drive on. Please visit workshop” to be displayed in error. To address this condition, Volkswagen is providing a software update for the gearbox control unit. This software will enhance the function of the mechanical “emergency park lock” system with an electric “emergency park lock” system so that unwarranted error messages do not occur. This work will take about an hour to complete and will be performed for you free of charge. Please 
+keep in mind that your dealer may need additional time for the preparation of the work, as well as to accommodate their daily workshop schedule.  
+As a reminder, your vehicle owner’s manual contains important information regarding your vehicle’s warning lights and messages. We encourage you and anyone who drives your vehicle to review the owner’s manual to become familiar with the types of vehicle indicators, warnings and messaging you may see.  
+What should you do?  
+Please contact your authorized Volkswagen dealer without delay to schedule this work. To set up an appointment online, please vi sit www.vw.com/find-a- dealer
+. 
+Additional Information  
+• This service action will be available for you free of charge only until December 31, 2029.  If you wish to have 
+this work performed after that date, your dealer’s normal costs associated with this repair will apply.  
+• If you are the lessor and registered owner of the vehicle identified in this action, please forward this letter immediately via first -class mail to the lessee within ten (10) days of receipt.  
+• If your authorized Volkswagen dealer fails or is unable to complete this work free of charge within a reasonable time, if you have changed your address or no longer own the vehicle identified in this letter, or if you should have any questions about this communication, please reach out to us using your preferred method of communication at www.vw.com/contact
+ or by calling us at 800- 893-5298.   
+• To check your vehicle’s eligibility for repair under this or any other recall/service campaign, please visit 
+www.vw.com/owners/recalls  and enter your Vehicle Identification Number (VIN) into the Recall/Service 
+Campaign Lookup tool.  
+We apologize for any inconvenience this matter may cause; however , we are taking this action to help ensure your vehicle 
+continues to meet and exceed your expectations.   
+Sincerely,  
+Volkswagen Customer Protection  
+ 
+    
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 4 of 8   
+Customer Letter Example (CANADA)  
+ 
+<MONTH YEAR>  
+  <CUSTOMER NAME>  
+<CUSTOMER ADDRESS>  
+<CUSTOMER CITY STATE ZIPCODE>  
+This notice applies to your vehicle:  <MODEL YEAR> <BRAND> <CARLINE>, <VIN>  
+Subject:  Service Action 38G3 - Transmission Control Module (TCM) Software  
+ Dear Volkswagen Owner,  
+As part of Volkswagen's ongoing commitment to customer satisfaction, we are informing you of our decision to conduct a service action on certain 2022- 2024 model  year Volkswagen vehicles. Our records show that you are the owner of a 
+vehicle affected by this action.  
+About this Service Action:  
+On certain vehicles built during a limited production period, oversensitive diagnostic software could cause the message, “Error: selector lever. You can drive on. Please visit workshop” to be displayed in error. To address this condition, Volkswagen is providing a software update for the gearbox control unit. This software will enhance the function of the mechanical “emergency park lock” system with an electric “emergency park lock” system so that unwarranted error 
+messages do not occur. This work will take about an hour to complete and will be performed for you free of charge. Please 
+keep in mind that your dealer may need additional time for the preparation of the work, as well as to accommodate their 
+daily workshop schedule.  
+As a reminder, your vehicle owner’s manual contains important information regarding your vehicle’s warning lights and messages. We encourage you and anyone who drives your vehicle to review the owner’s manual to become familiar with the types of vehicle indicators, warnings and messaging you may see.  
+What should you do?  
+Please contact your authorized Volkswagen dealer without delay to schedule this work.   
+Additional Information  
+• This service action will be available for you free of charge only until December 31, 2029.  If you wish to have 
+this work performed after that date, your dealer’s normal costs associated with this repair will apply.  
+• If you are the lessor and registered owner of the vehicle identified in this action, please forward this letter 
+immediately via first -class mail to the lessee within ten (10) days of receipt.  
+• If your authorized Volkswagen dealer fails or is unable to complete this work free of charge within a reasonable 
+time, if you have changed your address or no longer own the vehicle identified in this letter, or if you should have any questions about this communication, please contact Customer Relations, Monday through Friday from 8AM 
+to 8PM EST by phone at 1- 800-822-8987 via our “Contact Us” page at www.vw.ca
+.   
+ We apologize for any inconvenience this matter may cause; however , we are taking this action to help ensure your vehicle 
+continues to meet and exceed your expectations.   
+Sincerely,  
+Volkswagen Customer Protection  
+ 
+ 
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 5 of 8  Required Tools  
+ 
+ Battery Tester/Charger  
+-VAS5908 -  
+(or equivalent charger with 
+a current rating of at least 
+70A) 
+ Diagnostic Tester  
+-VAS6150X/VAS6160X - 
+(or equivalent)  
+ 
+Repair Instruction  
+ 
+Section A - Check for Previous Repair  
+ 
+  TIP 
+If Campaign Completion label is present, no further work is required.  
+ 
+ 
+ 
+  
+• Enter the VIN in Elsa and proceed to the 
+“Campaign/Action” screen.  
+ TIP 
+On the date of repair, print this screen and keep a 
+copy with the repair order.  
+• Confirm the Campaign/Action is open <arrow 1>. If the status is closed, no further work is required.  
+• Note the Applicable Criteria ID <arrow 2> for use in determining the correct work to be done and corresponding parts associated.  
+ CRITICAL REPAIR STEP  
+  STOP !   
+All campaigns/actions with a repair available must be performed in order of the Start date <arrow 3>. 
+The oldest should be performed first (unless 
+otherwise noted in the repair instructions).  
+Proceed to Section B.  
+ WARNING  
+Radiator Fan(s) may cycle ON high speed during the Update Process!  There is a serious risk that personal injury 
+may result if contact is made with spinning fan blades.  Keep hands and all objects away from Radiator Fan(s) during 
+Update Process!  
+  
+
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 6 of 8  Section B – Update Transmission Control Module   
+ 
+  NOTE  
+ 
+ 
+Prior to launching the VAS Diagnostic Tester and starting an update, ensure the following conditions are met;  
+ 
+ The ODIS software is completely up to date.  
+ 
+• Refer to the “Alerts” section on ServiceNet home page for the current ODIS version.  
+ 
+ The battery charger is connected to the vehicle battery and remains connected for the duration of the software update.  
+ 
+• Battery voltage must remain above 12.5 v olts (or higher, if directed in the work instructions)  for 
+the duration of the software update. Failure to do so may cause the update to fail, which could result 
+in damage to the control module. Control modules damaged by insufficient voltage will not be 
+covered.  
+ 
+ The screen saver and power saving settings are off.  
+ 
+• Failure to do so may result in the tester entering power save mode during the software update, 
+which could result in damage to the control module.  
+ 
+ The VAS Diagnostic Tester is plugged in using the supplied power adapters.  
+ 
+• Under no circumstances should the tester be used on battery power alone during the software update. Failure to do so may result in the tester powering off during the update, which could 
+result in damage to the control module.  
+ 
+ The VAS Diagnostics Interface MUST ONLY be  connected to the tester with a USB cable.  
+ 
+• Performing a software update using a Bluetooth or WiFi connection increases the risk of losing 
+connection during the update, which could result in damage to the control module.  
+It also greatly increases the time required to perform the update. Requests for additional time or parts will be denied if the GFF log shows the update was performed using Bluetooth or WiFi . 
+ 
+ 
+  NOTE  
+ 
+• Damages resulting from improper repair or failure to follow these work instructions are the dealer’s 
+responsibility and are not eligible for reimbursement under this action.  
+• Diagnosis and repair of pre -existing conditions in the vehicle are not covered under this action.  
+ 
+  NOTE  
+ 
+• All campaign software updates must be completed during a single, standalone ODIS Diagnostic Session. 
+You must fully complete this campaign and send all logs before beginning any other campaigns or 
+operations.   
+• If there are any ODIS “Hot -Fix” patches installed, they must be removed from the scan tool before beginning 
+this operation.  ODIS “Hot -Fix” patches may affect the update process.  
+  
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 7 of 8   IMPORTANT  
+To Update- Programming using SVM,  review and follow instructions in Technical Bulletin 2014603 : Software 
+Version Management (SVM) Operating Instructions . 
+The SVM Process must be completed in its entirety so the database receives the update confirmation response. A 
+warranty claim may not be reimbursed if there is no confirmation response to support the claim.  
+ 
+• Switch off all consumers, air conditioning, heater blower motor, lights, heated seats, etc.  
+• Connect battery charger.  
+• Ensure the latest version of ODIS is downloaded.  
+• Ensure diagnostic head is connected to ODIS tester via USB cable.  
+• Move selector lever to P.  
+• Use operating mode, DIAGNOSIS.  
+• Select “SVM – Code Input”.  
+• Enter SVM code FDQP  and follow the on screen prompts.  
+• Ensure the diagnostic log is sent to GFF Paperless  after completion.  
+ 
+Proceed to Section C   
+ IMPORTANT  
+If the software update fails for any reason, ODIS feedback must be sent  prior to further diagnosis. This ensures the 
+failure/error is reported. Failure to do so may result in non- payment of consequential requests for additional time or 
+parts.   
+  
+
+ 
+The repair information in this document is intended for use only by skilled technicians who have the proper tools, equipment and training to correctly and safely maintain your vehicle.  These 
+procedures are not intended to be attempted by “do- it-yourselfer s,” and you should not assume this document applies to your vehicle, or that your vehicle has the condition described.  To 
+determine whether this information applies, contact an authorized Volkswagen dealer.   2025 Volkswagen Group of America, Inc.  and Volkswagen Canada.   All Rights Reserved.  
+  
+                      38G3  Page 8 of 8  Section C – C ampaign Completion Label  
+ 
+ 
+ 
+ 
+ 
+ • Fill out and affix Campaign Completion Label, part number CAMP 010 000, next to the vehicle emission control information label.  
+  TIP  
+Ensure Campaign Completion Label does not cover any existing label(s).  
+ 
+ 
+ 
+ 

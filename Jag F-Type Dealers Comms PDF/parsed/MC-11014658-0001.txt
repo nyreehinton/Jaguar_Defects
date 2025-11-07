@@ -1,0 +1,80 @@
+SIB 52 03 25
+DRIVER SEA T HEA TER INOP  REPLACEMENT  HARNESS 74147012025-02-28
+ 
+☒ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+G20 (3 Series Sedan) G22 (4 Series Coupe)G23 (4 Series
+Convertible)G26 (4 Series Gran
+Coupe)
+G42 (2 Series Coupe)
+SITUA TION
+The driver ’s seat heater doesn’t work after the installation of a replacement seat harness part number (P/N)
+52 10 7 414 701.
+ 
+CAUSE
+Seat harness P/N 52 10 7 414 701 applies to the both the front driver ’s and the front passenger ’s seat. 
+ 
+This harness is designed to pass the seat heater wiring through the CIS seat occupancy seat mat, even
+though the CIS seat occupancy seat mat is only installed on the passenger side front seat. 
+ 
+When this seat harness part number is used on the driver's side, the 10-pin electrical connector ’s A125*1B
+doesn't plug into anything.
+ 
+CORRECTION
+For the driver ’s seat, jump the wires to simulate the CIS seat mat wiring as described in this Service
+Information Bulletin.
+ 
+PROCEDURE
+1. When installing replacement seat harness 52 10 7 414 701 in the driver's seat, the harness must be modified for
+the seat heater to function. 
+ 
+2. Two jumper wires must be installed, or the wires can be removed from the connector , spliced, soldered together
+and protected with heat shrink tubing.
+ 
+See attached wiring diagram B52 03 25 Attachment
+ 
+a. Install a jumper between pins 9 and 10 connector A125*1B. 
+b. Install a jumper between pins 7 and 8 connector A125*1B.  
+ 
+PARTS INFORMA TION
+To determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN / Chassis
+number into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the
+vehicle.
+ 
+CLAIM INFORMA TION
+This Service Information Bulletin provides technical and repair-related information.
+ 
+Eligible and Covered W ork/Repairs
+ 
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:52 AM 52 03 25_DRIVER SEAT HEATER INOP REPLACEMENT HARNESS 7414701
+about:blank 1/3
+This additional work/retrofit solution procedure when done in conjunction with a repair that addresses a
+verified defect in materials and/or workmanship is covered under the terms of the BMW New V ehicle Limited
+Warranty for Passenger Cars and Light Trucks.
+ 
+To submit a claim, please follow the established and applicable warranty policy and procedures
+(Labor/Part/Sublet – Bulk supply materials) that apply to the repair being performed.
+ 
+Additional W ork in conjunction with another Repair
+ 
+Labor Operation DescriptionLabor
+Allowance
+52 99 000Work time to fabricate/install two jumper wires or remove
+the applicable wires from the connector and splice them
+together as described in this Service Information Bulletin.3 FRU
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the W arranty
+Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS ticket
+to the Parts Department
+Supporting Materials
+picture_as_pdf B520325 Attachment.pdf
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:52 AM 52 03 25_DRIVER SEAT HEATER INOP REPLACEMENT HARNESS 7414701
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:52 AM 52 03 25_DRIVER SEAT HEATER INOP REPLACEMENT HARNESS 7414701
+about:blank 3/3

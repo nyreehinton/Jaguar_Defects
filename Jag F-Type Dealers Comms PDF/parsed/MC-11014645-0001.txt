@@ -1,0 +1,128 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on a "Service Door Latch
+System" message.
+CauseThe cause of this concern could be that the rear child
+door lock safety feature is out of sync or a mismatch
+between the left rear door and right rear door . 
+Bulletin No.: PIT6288D
+Published date: 02/28/2025
+Preliminary Information
+PIT6288D Service Door Latch System
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+-  On Cadillac and Chevrolet models, try to resync the rear door child safety
+locks by opening all doors and leave open.  Then go into the radio displa y and
+cycle the child safety locks on and oﬀ.  There are two diﬀerent areas, within
+the radio, where the Child Safety Locks can be cycled on and oﬀ.  It is
+important that you are at the screen shown above or it will not cycle the child
+safety lock actuators and show it is greyed out.  T o get to this screen go to the
+radio displa y home screen > select Controls > See More Controls > Doors &
+Windows > Child Safety Locks > On and Oﬀ.  This will cycle both rear door child
+safety lock actuators, which if out of sync will bring them back into sync with
+each other and clear the message.
+If cycling the child safety locks on and oﬀ does NOT correct the concern, use
+GDS2 and go into the BCM> Data Displa y > V ehicle Access Data and monitor
+the following two parameters:  Right Rear Child Security Lock - Lock Command
+and the Left Rear Child Security Lock - Lock Command to see if they both are
+synced with each other .  Here are some reasons that the rear child safety
+locks ma y not be synced with each other:   
+1.  An issue with the feedback circuits 3269 or 3268, see example doc ID
+6614043.
+2.  A fault with the child safety lock actuator circuits 3266, 2679, 2680, see
+example SI doc ID 6614044.   
+3.  For more information, please follow normal SI diagnostics for "Power Door
+Child Lock Malfunction". 
+After the fault is found and corrected then cycle the Child Safety lock feature
+on and oﬀ to resync and clear the service door latch message. 
+NOTE:  The child safety lock feature will not operate properly IF there is
+preload on the door latch from the inside door handle/cable. This could be
+caused by the inside door handle cable being
+misinstalled/binding/kink ed/etc causing a slight preload on the door latch.  This
+slight preload from the cable ma y not allow the child safety locks to move when
+being cycled on and oﬀ.  
+ 
+ - On GMC models, unlik e the Cadillac and Chevrolet models, when cycling the
+Child Safety Locks On and Oﬀ it is not actually cycling the child safety lock
+actuators, and because of that it will not bring a door mismatch back into sync.
+  Use GDS2 and go into the BCM> Data Displa y > V ehicle Access Data and
+monitor the following two parameters:  Right Rear Child Security Lock - Lock
+Command and the Left Rear Child Security Lock - Lock Command to see if both
+rear door child locks show to be synced with each other and if so skip to step
+4.  If not, then listed below are some reasons the rear door child locks ma y be
+out of sync with each other:  
+1.  Previous repair work to a door , door panel, or a latch which was
+disconnected or replaced could cause the left and right rear door child lock
+actuators to become out of sync with each other .  If this were to occur one
+additional symptom that would be noticed, in addition to the GDS2 parameters
+showing them out of sync,  is that one rear door would open from the inside
+door handle and the other rear door will not open from the inside door handle.
+ To resync both rear door child lock actuators, pick one of the rear doors
+and disconnect the door connector (X700 or X800).  Next, manually provide
+momentary power and ground to the child lock actuator circuits 3266 and 2679
+or 2680 to the door side of the connector , example SI doc ID 6615130. 
+Providing power and ground one wa y will enable the child lock and reversing
+the leads will disable the child locks.  Mak e sure to use a 1 amp fused jumper
+lead and jumper the child lock actuator so it matches the opposite side door .
+ When completed properly both rear doors will operate the same from the
+inside door handles (either enabled or disabled) and the GDS2 data parameters
+listed above will be synced/match.    
+2.  An issue with the child lock feedback circuits 3269 or 3268, see example doc
+ID 6615129  
+3.  An issue with the child lock actuator circuits 3266, 2679, 2680 see example
+SI doc ID 6615130.    
+For more information, please follow normal SI diagnostics for "Power Door Child
+Lock Malfunction".
+Labor Operation Description Labor Time
+* 6486278Cadillac/Chevrolet Models - Cycle the
+child safety door locks.    
+GMC Models - Contact T AC Action
+Center0.3 Hrs.
+*This is a unique Labor Operation for Bulletin use only .
+Version 5
+Modiﬁed11/22/2024 - Created on.  
+12/05/2024 - Update correction.  
+12/13/2024 - Update to the correction section.  
+01/08/2025 - Update to the correction and
+warranty sections.  
+02/27/2025 - Update to the correction section.NOTE:  The child safety lock feature will not operate properly IF there is
+preload on the door latch from the inside door handle/cable. This could be
+caused by the inside door handle cable being
+misinstalled/binding/kink ed/etc causing a slight preload on the door latch.  This
+slight preload from the cable ma y not allow the child safety locks to move when
+being cycled on and oﬀ. 
+4.  Once both rear doors operate the same from the inside door handles (both
+rear doors will open or not open from the inside door handles, must be the
+same) and the GDS2 parameters Right Rear Child Security Lock - Lock
+Command and the Left Rear Child Security Lock - Lock Command both indicate
+each rear door is synced to each other , then if the "Service Door Latch System"
+message is still displa yed the BCM will need to be replaced.  The reason the
+BCM needs to be replaced is only to clear the message and nothing more.  In
+the future, the GMC will clear the message when the child door locks are cycled
+on and oﬀ, lik e the Chevy and Cadillac models.  
+NOTE:  Do not replace the BCM until both rear doors are synced.  
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+ 
+Additional SI K eywords
+DTC B11A2 B171C B1804 B11A4 B125D B1805
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

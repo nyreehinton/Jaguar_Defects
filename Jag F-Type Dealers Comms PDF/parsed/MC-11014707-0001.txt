@@ -1,0 +1,339 @@
+Service Campaign S4312                   December  2024                   Release  02 
+                                                                                                           
+VMCU Replacement and Software Update   
+Revised 2/19/202 5 Added the replacement of battery sensors.  
+ 
+Service Category Service  
+ 
+Section  Function Group 365 
+ 
+Technician Skill Level  A        Market  North America  
+   
+Applicability   
+VOLVO  
+Years  Models   
+2025 VN (4)  
+   
+Introduction  
+Certain Volvo VN (4) model trucks may experience accelerated battery drain due to continuous 
+power consumption by the Vehicle Master Control Unit (VMCU) and other modules. Depleted 
+batteries can lead to starting issues and trigger erroneous warning lamps and fault codes ac ross 
+various truck modules. Follow the instructions below to replace the VMCU, verify the correct pin 
+location on the blue VMCU connector , use PTT to program the control modules , and replace  the 
+battery sensor s (if applicable) . 
+ 
+Production Change Information  
+This bulletin applies to vehicles built within the specified production changes below.  
+Brand  Engine  Emission Level  Starting Build Date  Ending Build Date  
+Volvo  13L EM-USA2 4 8-Janu ary-2024 15-November -2024 
+ 
+Warranty Information  
+When claiming the campaign,  the main labor operation 3650 -03-02-03 will cove r the 
+replacement  and programming  of the VMCU .  
+Labor code 1700 -22-03-11 will cover all other  module programming.  
+Labor code 3111 -16-02-01 will cover the first battery sensor replacement  and cali bration . 
+Labor Code 1720 -16-09-01 will cover addition al battery sensor replacement and calibration.  
+If the campaign has already been completed on a truck, do not go back and replace battery 
+sensors . 
+ 
+This repair is covered by an authorized Service Program. Reimbursement is 
+obtained through the normal claim handling process.  
+Claim Type (used only when uploading from the Dealer Bus. Sys.)  B 
+Main Labor Code  Description  Hours  
+3650 -03-02-03 Battery, Vehicle Master Control Unit 
+(VMCU), Replace  1.1 
+1700-22-03-11 Campaign,  Programming  (9 x 0.2) 1.8 
+3111-16-02-01 Battery sensor,  Replacement  (first sensor)  0.5  
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+1720 -16-09-01 General, Campaign (additional battery 
+sensor replacement ) 0.1 x 3 (Per 
+additional sensor)  0.3-0.6 
+Causal Part  23685627  
+SCC Authorization Code  S4312  
+Expiration Date  December  31, 2025  
+ 
+Required tools  
+• Use PTT Version  2.8.301.0 or later . 
+• Vocom II Tough: 88894000 . 
+• USB cable: 8889031 3. 
+• 16-pin OBD cable: 88894001 (blue end) . 
+ 
+Supporting Documents  
+• See Service News  SNV24 -002 Vehicle Communication with the New VNL ( 4).  
+• CBR-2404 Volvo Chassis - All-New VNL, VN (4) - Jump Charging Procedure and Precautions for 
+12V and 24V Systems - Model Year 2025  
+• CBR-2435 Volvo Chassis - Battery Sensor Diagnostic and Calibration Procedure - Model VN ( 4) 
+• VMCU Ca mpaign Video  
+o The Campaign Video can be  viewed  via the following website  
+https://devguide.volvotrucks.us/video -library/ , In the Search box type VMCU 
+Campaign . 
+Parts Information  
+ The VMCU and Batte ry sensors must be ordered  VOR.  
+                                                                                                                                                                                       
+Repair Procedure  
+Important Note!  
+Before starting any repairs ensure  the batteries are fully charged. The truck must 
+not be connected to shore power while performing the repairs or programming.  
+ 
+1. Park the vehicle on a level surface.  
+2. Apply the  parking brake.  
+3. Place  the gear lever in neutral.  
+4. Install wheel ch ocks.  Part Numbers  Part Names  Quantity  
+24767242  Vehicle Master Control Unit (VMCU)  1 
+24787102  Battery senso r Reference Impact  
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+5. Connect to the truck using the la test ve rsion of  Premium Tech Tool ( PTT) . 
+6. Ensure  the use of the approved Vocom II  box, USB ca ble, and  16 pin (Blue) connector.  
+7. Once connection to the trucks is established.  
+8. Navigate to the Programming Tab.  
+9. Run operation 1700 -22-03-06 Accessory  Kit.  
+10. Enter Accessory Kit number 85171320 . 
+ 
+11. The accessory kit will prompt you to replace the VMCU with  order ed replacement 
+module  P/N 24767242 .  
+ 
+Important Note!  
+The old control unit must remain connected until the parameters have been 
+read out before replacing it with the new one.  Leave PTT connected to the 
+truck for the remaining steps.  
+ 
+12. Unlatch  the fairing.  
+13. Remove the te ther.  
+14. Remove the fairing.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+15. Remove the screws.  
+16. Remove the splash shield.  
+ 
+17. Remove the screws.  
+18. Remove the battery cover.  
+ 
+19. Turn off the Maintenance Disconnect Switch (MDS).  
+ 
+20. Remove fuse and relay cover  panel.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+21. Release the c lips. 
+22. Move the fuse holder aside.  
+ 
+23. Disconnect the connector  (if applicable) . 
+24. Remove the screws.  
+25. Move aside the assembly.  
+ 
+26. Remove the cable tie.  
+27. Disconnect the connectors.  
+28. Remove the nut.  
+29. Release the cable terminal.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+30. Loosen the screws.  
+ 
+31. Release the locks  and pry up on the module simultaneously.  
+ 
+32. Remove the control module.  
+33. Locate the Blue  VMCU  connector.  
+34. Cut the tie cable.  
+ 
+35. Unlatch and slide the housing off the connector.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+ 
+36. Once the cover has been removed from the connector.   
+a. If Pin 17 is populated with a wire no action is required , continue  to step 40. 
+b. If Pin 17 is not populated with a wire, Continue to Step 37. 
+37. Remove the pin from cavity 13 by  releasing  the locking tab on the pin . 
+ 
+Important Note!  
+The locking  tab must  be pressed twice to remove the pin from the connector. 
+Press the locking tab on the pin and pull back on the wire , press the locking tab 
+again and finish pulling out the pin and wire.  
+ 
+38. Insert the pin removed from cavity 13 into cavity 17 ensuring it locks fully into place.   
+ 
+39. Install the cover into the connector . 
+40. Install a new cable tie.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+41. Remove the  battery insulator tab from the new module.  
+ 
+42. Install the new module , press down firmly  making sure it is fully seated.  
+43. Install the screws.  
+ 
+ 
+Tighten torque  
+Control unit, screw  1.5 ±0.5 Nm  (1 ±0.4  lbf⋅ft 
+ 
+44. Connect the connectors.  
+45. Install the cable tie.  
+46. Position the cable terminal.  
+47. Install the nut and torque.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+Tighten torque  
+Power supply, nut  11 ±2 Nm (8 ±1 lbf⋅ft) 
+ 
+48. Install the assembly.  
+49. Connect the connector (if applicable).  
+50. Install the screws and torque.  
+ 
+Tighten torque  
+Control unit, screw  7 ±1 Nm (5 ±1 lbf⋅ft) 
+ 
+51. Position the fuse holder ensuring the clip are locked properly.  
+ 
+52. Ensure all factory fuse locations are maintained and populated.  
+53. Install fuse and relay cover  panel . 
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+54. Turn on the (MDS) switch .  
+ 
+ 
+Important Note!  
+The truck will appear off until the new VMCU programming has completed. PTT 
+will auto connect  to the truck after the MDS is turned to  the on position .  
+• For trucks with a Push button Ignition this will be an automatic process.  
+• For truck that have a key ignition the switch should be turned to the 
+Acc position.  
+ 
+Important Note!  
+Before continuing with programming ensure the batteries are fully charged. If 
+needed connect a battery charger at this time . Refer to CBR -2404 for charging 
+information.  
+ 
+55. Continue  performing operation 1700 -22-03-06 to completion , which  will complete the 
+program ing the VMCU .  
+ 
+Important Note!  
+On certain trucks, the hazard lights may flash continuously after completing 
+the accessory kit . If this occurs, proceed with programming the remaining 
+modules, and the hazard lights will function as expected . 
+ 
+56. Under the programming tab.  
+57. Run operation 1700 -08-03-39 Program  Electro nic Control Unit . 
+58. Click on t he software package . This will program all the available control  units 
+automatically.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+ 
+Important Note!  
+Before continuing to the next step battery chargers and all other external 
+power sources MUST be disconnected from the truck.  
+ 
+Important Note!  
+Steps 59-65 are only required if your truck is equipped  with  battery sensors.  
+ 
+59. Decommission the low voltage system following impact operation 3100 -09-01-06 Low 
+voltage system, Decommission.  
+60. Replace the battery sensors  following impact operation 3111-16-02-01 Battery Sensor , 
+Replacement . 
+61. Commission the low voltage system following impact operation 3100 -09-01-05 Low 
+voltage system , Commission . 
+62. Under the programming tab, run operation 1700-22-03-12 Replace Hardware , to 
+change the Battery Sensor part number in the CCIOM . 
+63. Click on the CCIOM and then Program button.  
+ 
+64. Once the  CCIOM  replace hardware  has complete d, the battery sensors will require 
+Calibration  Only . 
+ 
+ 
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+65. Under the Calibration tab, run operation 1700 -08-03-33 Function Parameter Reset  to 
+calibrate the battery sensors. Click on the battery sensor module and then click 
+continue. Once complete d. 
+ 
+Important Note!  
+Per your configuration, vehicle may be equipped with 2 – 6 sensors. Ensure 
+when performing the function  param eter reset the  sensor  modules  must be 
+calibrated  one at a time.  
+ 
+ 
+66. Under the programming tab.  
+67. Run operation 1700 -22-03-02 System Time and Date .   
+ 
+68. Set vehicle time zone in the Instrument Cluster or the Infotainment touch screen 
+depending on the truck’s configuration. See steps below.  
+• Navigate to system settings . 
+• Date and time . 
+• Options . 
+• Edit time zone . 
+• Select proper time zone . 
+• Click OK.  
+ 
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+69. Clear any DTC’s caused by programming.  
+70. In the Product Tab, refresh the product connection.  
+71. Ensure  no active DTCs  are present.  
+72. Install the battery cover.  
+73. Install the brackets.  
+74. Install the screws . 
+ 
+75. Position the splash  shield.  
+76. Install the screws.  
+ 
+77. Install the fairing and tether.  
+78. Shut and latch the fairing.  
+ 
+79. Remove the wheel chocks.  
+
+Service Campaign S4312 December  2024  
+ 
+VMCU Replacement and Software Update     
+ 
+ 
+80. Release the vehicle back into service.  
+ 
+Important Note!  
+If the flashers continue to flash after all programming is complete and will not 
+deactivate with the flasher switch, you will need to verify Pin 17 of the VMCU 
+blue connector is populated.  
+ 
+ 
+ 
+ 

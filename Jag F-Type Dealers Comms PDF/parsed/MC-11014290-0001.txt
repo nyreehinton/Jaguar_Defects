@@ -1,0 +1,120 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+BODY ELECTRICAL  25-BE-003G  
+FEBRUARY  2025 SEE BELOW  
+ DCU (MODEM) NETWORK AND CONNECTED SERVICES RESET  
+ 
+Description:  Some vehicles may exhibit a loss of connectivity or interruptions in the middle of using  
+Connected Car Service (CCS) functions. This may be due to an occasional disconnection on Verizon’s  
+communication network. Follow the procedures in this bulletin to reset the Connected Car Data  
+Communication Unit (DCU) in Dealer Mode to resolve the connection.  
+ 
+Applicable Vehicles :  
+• 2025MY G80 (RG3)  
+• 2023 -2025MY G90 (RS4)  
+• 2023 -2025MY GV60 (JW1  EV) 
+• 2025MY GV80 ( JX1)  
+ 
+ 
+Warranty Information:  
+G80 (RG3)  
+CONSRES1   Resetting the DCU 
+Network in Dealer Mode  0.3 M/H  NTF00 -00000  M73 ZZ3 G90 (RS4)  
+GV60  
+(JW1 EV)  
+GV80 (JX1)  
+NOTE  1: Normal warranty applies.  
+NOTE  2: Submit claim on Claim Entry Screen  as “Warranty ” type.  
+  
+For GV60  ONLY : To avoid potential damage to Genesis EVs, Genesis EV repairs can only be 
+performed by EV Certified Genesis Retailers . 
+NOTICE  
+  
+TSB #: 25-BE-003G  Page 2 of 5 
+ 
+SUBJECT:  Service Procedure:  
+ 
+1. Turn ON the ignition (A) .  
+ 
+2. Select Home  (B). 
+ 
+Select  Setup (C), or press SETUP  (D).  
+ 
+ 
+3. Tap the designated area (E) at the top of the 
+Device Connection s card 5 – 10 times .   
+ 
+4. Enter 0929  as the password then select 
+OK (F).  
+ 
+  
+If the password screen does NOT 
+display, try again from step 1. 
+The password screen requests a 9 -digit 
+password but will accept the 4 -digit 
+password given above.  
+   Information  
+  i 
+A 
+B 
+C 
+D 
+E 
+F 
+
+  
+TSB #: 25-BE-003G  Page 3 of 5 
+ 
+SUBJECT:  5. From Dealer Mode, s elect Connected Car 
+Service  (G).  
+ 
+6. Select Reset DCU  (H).  
+ 
+7. After selecting Reset DCU, confirmation pop 
+up will be seen  Modem Reset Command 
+send!  (I). 
+ 
+ 
+8. Select Home  (J) to exit Dealer Mode.   
+ 
+Select  Setup (K) or SETUP  (L).  
+ 
+ 
+ 
+H 
+J 
+K 
+L 
+I 
+G 
+
+  
+TSB #: 25-BE-003G  Page 4 of 5 
+ 
+SUBJECT:  9. Select Connected Services  (M). 
+ 
+1. Select Activate  (A) or Reconfigure  (B). 
+ 
+ 
+ 
+  
+M 
+A 
+B 
+  
+TSB #: 25-BE-003G  Page 5 of 5 
+ 
+SUBJECT:  2. Verify Genesis Connected Services  activation 
+success  Connected Services Activated  (C) 
+or Connected Services bas been 
+reconfigured  (D). 
+ 
+ 
+ 
+ 
+ 
+   
+3. The service procedure is now complete.   
+ 
+C 
+D 

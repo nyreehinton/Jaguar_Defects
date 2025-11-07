@@ -1,0 +1,137 @@
+{
+  "document_type": "Multi Point Inspection",
+  "total_approved_amount": 681.64,
+  "vendor_name": "JAGUAR LAND ROVER LOS ANGELES",
+  "video_summary": {
+    "findings": [
+      "The rear tires have 6/32\" of tread depth, and the front tires have 8/32\" of tread depth.",
+      "The rear brake pads have 1 mm of thickness remaining.",
+      "Rotors require replacement as they have hot spots and grooves.",
+      "The voltage surface monitor is on.",
+      "An oil change is recommended.",
+      "The cabin filter is reported to be dirty."
+    ],
+    "services_completed": [
+      "Inspection of the vehicle",
+      "Measurement of tire tread depth",
+      "Inspection of brake pads"
+    ],
+    "recommendations": [
+      "Replacement of rotors",
+      "Oil change",
+      "Replacement of cabin filter"
+    ]
+  },
+  "customer_concerns_and_estimates": [
+    {
+      "concern": "COMPLIMENTARY LAND ROVER MULTI POINT INSPECTION",
+      "status": "Original Approved",
+      "credit": 0.00,
+      "debit": 0.00
+    },
+    {
+      "concern": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "status": "Original Approved",
+      "credit": 0.00,
+      "debit": 0.00
+    },
+    {
+      "concern": "PROVIDE COURTESY VEHICLE FOR 24 HOURS UNLESS OTHERWISE EXTENDED BY JAGUAR LAND ROVER LOS ANGELES. $75/DAY LATE RETURN FEE; FUEL, TOLL VIOLATIONS AND DAMAGES WILL BE AT THE CUSTOMERS EXPENSE. VALID DRIVERS LICENSE AND INSURANCE REQUIRED.",
+      "status": null
+    },
+    {
+      "concern": "CUSTOMER STATES LOW COOLANT WARNING COMING ON. PLEASE ADVISE.",
+      "comments": "Topped up cooling system. Pressure tested cooling system to 15 psi. Inspected cooling system. recommend replacing leaking coolant hose from reservoir to top radiator hose.",
+      "status": "APPROVED BY ADVISOR",
+      "total_approved_credit": 681.64,
+      "total_approved_debit": 661.79
+    },
+    {
+      "concern": "Inspect air cleaner element at 15k or 1 year intervals",
+      "comments": "Replace dirty air filter and clean air box assembly. To help improve fuel economy.",
+      "status": "DECLINED",
+      "additional_repair_estimate_credit": 489.04,
+      "additional_repair_estimate_debit": 474.80
+    },
+    {
+      "concern": "Inspect cabin air/HEPA micro filter(if equipped) at 15k or year intervals",
+      "comments": "Replace dirty cabin air/HEPA micro filter and clean air box assembly. To increase cabin air quality",
+      "status": "Awaiting Decision",
+      "additional_repair_estimate_credit": 316.46,
+      "additional_repair_estimate_debit": 307.24
+    },
+    {
+      "concern": "Brake Linings Thickness - Rear (1 mm)",
+      "comments": "Replace rear pads, rotors and sensor. Rotors are worn and have grooves and hot spots.",
+      "status": "DECLINED",
+      "additional_repair_estimate_credit": 2446.97,
+      "additional_repair_estimate_debit": 2375.70
+    },
+    {
+      "concern": "TBS (Throttle Plate Service)",
+      "comments": "Throttle plate service. Recommended with air filter replacement. To remove carbon deposits from throttle plate.",
+      "status": "DECLINED",
+      "additional_repair_estimate_credit": 188.80,
+      "additional_repair_estimate_debit": 183.30
+    },
+    {
+      "concern": "ACD (A/C Deodorizing)",
+      "comments": "Perform a/c deodorizing and disinfecting. Recommended with filter replacement.",
+      "status": "DECLINED",
+      "additional_repair_estimate_credit": 256.00,
+      "additional_repair_estimate_debit": 248.54
+    },
+    {
+      "concern": "LOF (Lube Oil Filter)",
+      "comments": "Service maintenance required warning is on. Recommend oil change. Reset service indicator.",
+      "status": "DECLINED",
+      "additional_repair_estimate_credit": 581.48,
+      "additional_repair_estimate_debit": 564.54
+    },
+    {
+      "concern": "BFS (Brake Fluid Service)",
+      "comments": "Brake flush. Recommended with brake replacement. Remove air and moisture from system.",
+      "status": "DECLINED"
+    },
+    {
+      "concern": "*CUSTOMER STATES BRAKE PAD WARNING ON. PLEASE ADVISE.",
+      "comments": "see estimate.",
+      "status": "Needs Estimate"
+    },
+    {
+      "concern": "*CUSTOMER STATES WOULD LIKE ESTIMATE TO REPLACE AIR FITLERS",
+      "comments": "See estimate.",
+      "status": "Needs Estimate"
+    }
+  ],
+  "inspection_details": {
+    "passed_inspection_count": 42,
+    "measurements": {
+      "tread_depth_fronts": {
+        "front_left": "8/32+/32nds",
+        "front_right": "8/32+/32nds"
+      },
+      "tread_depth_rears": {
+        "rear_left": "6/32/32nds",
+        "rear_right": "6/32/32nds"
+      },
+      "brake_linings_front": "8 mm",
+      "brake_linings_rear": "1 mm"
+    },
+    "additional_inspections": [
+      {
+        "item": "Windshield washer fluid",
+        "status": "filled as needed - YES"
+      },
+      {
+        "item": "Check and adjust tire pressures",
+        "measurements": {
+          "front_left": "37 psi",
+          "front_right": "37 psi",
+          "rear_left": "37 psi",
+          "rear_right": "37 psi"
+        }
+      }
+    ]
+  }
+}

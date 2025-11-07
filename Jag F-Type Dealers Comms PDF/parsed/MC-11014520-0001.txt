@@ -1,0 +1,58 @@
+Technical Service Bulletin (TSB)
+Telematics Box Module (TBM) Firmware Over The
+Air (FOTA) Software Updating from 4.37 to 4.38
+REFERENCE: TSB:  08-039-25
+GROUP:  08 - ElectricalDate: February 19, 2025 REVISION: —
+VEHICLES
+AFFECTED:2021 - 2024 (RU) Chrysler Pacifica
+2021 - 2024 (WD) Dodge Durango
+2021 - 2024 (MP) Jeep Compass
+This bulletin applies to vehicles equipped with Global Telematics Box
+Module (Sales Code RDG).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may not experience the following:
+●Update URL’s for ADA’s whitelist – to collect data from ADAS customer. No customer impact. No customer
+symptoms.
+Other Software Enhancements included:
+●Improves vehicle data communication with server for App data management performance.
+CAUSE: TBM Software
+Fig. 1
+Uconnect Box Error Message
+Message display on the radio screen, “Uconnect Box requires service. Please visit an authorized dealer.” Fig.
+1, with no active or stored Diagnostic Trouble Codes (DTCs) set by the TBM.
+NOTE: “Uconnect Box requires service.” message can be triggered by different reasons. For an
+issue on a new vehicle recently switched to customer mode, please follow the New Vehicle
+Preparation procedure to resolve the issue. For the customer vehicle with intermittent
+concerns, please check the TBM, antenna and instrument panel harness connections to fix
+related DTC issues.
+REPAIR SUMMARY:
+This bulletin provides information regarding the latest Firmware Over The Air (FOTA) update and provides the
+service technician an overview of the steps a customer will need to take to complete the update. The TBM
+software will be updated from 4.37 to 4.38.
+NOTE: The national launch for the FOTA is expected to begin February 22, 2025.
+DISCUSSION:
+Vehicles sold in the U.S. and Canada can now receive software updates “over-the-air”. Updates to software
+will occur in a phased roll-out. The software is updated through a builtin cellular modem in the vehicle.
+Customers will see a notification on their radio screen when new software is available for their TBM . The
+owner will have the option to update the radio or schedule the update for later. There is not an option to
+decline the update indefinitely, the update must be performed.
+NOTE: This is an Information Only Technical Service Bulletin to inform the dealer how the FOTA
+update is performed. This document does not contain a LOP for reimbursement.
+Fig. 2
+Software Acceptance Screen
+1. The vehicle needs to be in ‘Park’. The ignition needs to be in the off position.
+2. If the customer selects “Update Now” Fig. 2  they can shut off the vehicle and leave. The update will be
+completed automatically.
+NOTE: This step may take several minutes to complete.
+3. Upon completion of update, the radio will display a confirmation message Fig. 3 .
+Fig. 3
+Software Update Confirmation ScreenB08 FSAR-TSB-4975 -2-
+POLICY:
+Information Only
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- B08 FSAR-TSB-4975

@@ -1,0 +1,57 @@
+ Page 1 of 2 Published: February 2025
+TB-25-94-01
+Karma Automotive Bulletins and service documents are intended for use by experienced and trained Technicians. If you lack the skills, tools, equipment 
+and a suitable workshop for any procedure described in this document, we suggest you leave such repairs to a Karma retailer and service provider . See 
+your service provider for advice on whether your vehicle may benefit from the information contained within this document. The information contained in the 
+Karma Bulletin is accurate at the date of publication. However, Karma Automotive regularly updates technical information. Please check with your Karma 
+Automotive Retailer and Karma Automotive service provider that the bulletin you intend to use contains the latest available information.
+Title:  BL1075/BL1076 update
+Applicability: Revero GT and GTS, GS-6 vehicles  
+Market Region:  All                                                                                      Type: Technical Service Bulletin
+Year: 2025
+System: Infortainment (94)
+Sequence: 01PRIORITY:  All
+PURPOSE:  A software update for Karma Vehicles to connect to the current servers for future over-the-air -updates
+Vehicles in the field will all receive this update over the air. Should this update not be accepted, create  
+a TSS case and follow the representative guidance to update the vehicle manually. The software 
+installed for the CIU is K1-21-1075.RC1 for Revero GT and GS-6  and K1-21-1076.RC1 for Revero 
+GTS/ GS-6 Sport motor variants.
+When the prompt is received accept the download and wait for the vehicle to complete the process.
+The new CIU ID should now read 21.35.52.2.
+ 
+
+ Page 2 of 2 Published: February 2025
+TB-25-94-01
+Karma Automotive Bulletins and service documents are intended for use by experienced and trained Technicians. If you lack the skills, tools, equipment 
+and a suitable workshop for any procedure described in this document, we suggest you leave such repairs to a Karma retailer and service provider . See 
+your service provider for advice on whether your vehicle may benefit from the information contained within this document. The information contained in the 
+Karma Bulletin is accurate at the date of publication. However, Karma Automotive regularly updates technical information. Please check with your Karma 
+Automotive Retailer and Karma Automotive service provider that the bulletin you intend to use contains the latest available information.
+Title:  BL1075/BL1076 update
+Applicability: Revero GT and GTS, GS-6 vehicles  
+Market Region:  All                                                                                      Type: Technical Service Bulletin
+Year: 2025
+System: Infortainment (94)
+Sequence: 01PARTS REQUIRED:
+PART NUMBER DESCRIPTION QUANTITY
+N/A N/A N/A
+Please contact the parts department (parts@karmaautomotive.com) and order this part by email if 
+not available in on-line at time of repair. 
+SHOP SUPPLIES:
+DESCRIPTION
+N/A
+SPECIAL TOOLS:
+DESCRIPTION
+N/A
+CAUSAL PART: (use one of the parts for the complaint)
+PART NUMBER DESCRIPTION
+N/A N/A
+LABOR CODES:  (use one appropriate for the part(s) replaced)
+CODE DESCRIPTION TIME DEFECT CODE
+00-99-20-72 BL1075 Update 0.5 99-20-20-68
+SUBLET:
+CODE DESCRIPTION AMOUNT
+N/A   
+WARRANTY DISPOSITION:  This repair is covered under the New Vehicle Limited Warranty, in effect 
+for four (4) years from the in-service date with unlimited mileage limitation for Revero GT  and GTS, 4 
+years/50K miles for GS-6. 

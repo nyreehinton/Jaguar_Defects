@@ -1,0 +1,72 @@
+Technical Service Bulletin (TSB)
+Flash: Powertrain Control Module (PCM) Updates
+REFERENCE: TSB:  18-004-25
+GROUP:  18 - Vehicle PerformanceDate: February 8, 2025 REVISION: ––
+VEHICLES
+AFFECTED:2023 (GA) Alfa Romeo Giulia
+This bulletin applies to vehicles equipped with the 2.9L V6 Twin Turbo
+PDI Engine (Sales Code EEC).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers must experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle must exhibit
+the following Diagnostic Trouble Code (DTC):
+●P0606 - Control Module Processor.
+Customers may also experience the following:
+●Vehicle goes into limp-in mode.
+CAUSE: PCM software
+REPAIR SUMMARY:
+This bulletin involves reprogramming the PCM with the latest available software.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-19-06-BQ Module, Powertrain
+Control (PCM) -
+Reprogram
+(0 - Introduction)1 - Engine Repair and
+Performance0.7 Hrs.
+Failure Code CC Customer Concern
+The dealer must use failure code CC with this Technical Service Bulletin.
+● If the customer’s concern matches the SYMPTOM identified in the Technical Service Bulletin, failure code
+CC is to be used.
+● When utilizing this failure code, the 3C’s (customer’s concern, cause and correction) must be provided for
+processing Technical Service Bulletin flash/reprogramming conditions.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If DTCs or symptom conditions, other
+than the ones listed above are present, record the issues on the repair order and repair as necessary before
+proceeding further with this bulletin.
+If the customer describes a symptom/condition or if the technician finds a DTC listed above, perform the
+Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+REPAIR PROCEDURE:
+NOTE: This vehicle has two ECMs (Primary and Secondary). Both must be updated to the latest
+available software. The Primary ECM must be programmed first then the Secondary ECM2
+(both known as PCMs).
+NOTE: Install a battery charger to ensure battery voltage does not drop below 13.2 volts. Do not allow
+the charging voltage to climb above 13.5 volts during the flash process.
+NOTE: If this flash process is interrupted/aborted, the flash should be restarted.
+1. Reprogram the PCM (Primary) with the latest software. If issues arise when flashing a module using the
+wiTECH Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within
+the Help menu.
+2. Reprogram the PCM (Secondary) with the latest software. If issues arise when flashing a module using the
+wiTECH Diagnostic Application, please submit a ticket to the Helpdesk. The helpdesk can be found within
+the Help menu.
+3. Perform the "Control unit reprogramming" routine in wiTECH located in the ECM “Misc. Functions” menu
+tab.
+4. Perform the "Control unit reprogramming" routine in wiTECH located in the ECM2 “Misc. Functions” menu
+tab.
+NOTE: Before performing the next two steps, the ignition must be in the on position, engine off
+and engine temperature must be above 80 °C (176 °F).
+5. Perform the "Oil level sensor replacement" routine in wiTECH located in the ECM2 “Misc. Functions” menu
+tab.
+6. Clear any DTCs that may have been set in any modules due to reprogramming. The wiTECH application
+will automatically present all DTCs after the flash and allow them to be cleared.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

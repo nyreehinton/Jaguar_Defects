@@ -1,0 +1,24 @@
+CUSTOMER LOVE UNITY INTEGRITY GROWTH IMPACT 44 POWERTRAIN
+P0A78 CODE IN GENERATION 4 TRANSMISSION
+Customer Voice:
+•'Stop Safely Electric al Fault Detected' warning message comes on
+Technical Description:
+•Diagnostic Trouble Code (DTC) P0A7 8-49 is found to be stored  in the Electric Power 
+Inverter Converter (EPIC).
+Status:
+•Complete the following TOPIx Cloud Test Pl ans by entering the below symptoms. 
+•Electric Vehicle > Warning Lamps > Hi gh Voltage > Battery Warning Lamp 
+Illuminated, P0A78-49 stored in the EPIC.
+•P0A78-49 Part 1:This Test Plan will check and update the EP IC software as required. 
+Once complete, it will instruct yo u to complete Te st Plan Part 2.
+•P0A78-49 Part 2:This Test Plan will validate if the software update  was successful in 
+rectifying the concern. Further guidance will be provided as required if the software 
+update was unsuccessful.
+  R Refer to SSM 76229
+ 
+ Range Rover
+•24MY+ Range Rover 
+•24MY + Range Rover Sport
+Defender
+•25MY  Defender 
+OCTA

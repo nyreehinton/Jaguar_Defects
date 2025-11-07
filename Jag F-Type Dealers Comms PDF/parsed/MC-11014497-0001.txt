@@ -1,0 +1,25 @@
+ 
+Field Action Number  N24-245063  
+Release notes  Certain 2022 model year Chevrolet Silverado 
+1500 and GMC Sierra 1500 vehicles equipped 
+with a 2.7L engine (RPO L3B), may have an 
+Engine Control Module (ECM) that does not 
+sufficiently control fuel injector flow rate 
+under certain driving conditions. This u pdate 
+will complete the remedy for GM Recall No. 
+N242450630 and no additional steps are 
+needed after a successful update. You will 
+also receive a letter providing additional 
+details regarding this issue.  
+ 
+During the update process, your radio may 
+stay on up to 5 minutes after you exit the 
+vehicle. This is expected behavior when an 
+update package is onboard the vehicle. Do 
+not service your vehicle during installation.  
+Model Year  2022 
+Make  Chevrolet  
+GMC  
+Model  Silverado 1500  
+Sierra 1500  
+Components  ECM (E ngine  Control Modul e) 

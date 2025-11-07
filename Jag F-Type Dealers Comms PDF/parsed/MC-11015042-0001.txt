@@ -1,0 +1,184 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 19-NA-129
+Service BulletinDate: February, 2025
+TECHNICAL
+Squeak and/or Clunking Noise from Rear of Vehicle
+Brand: Model: Model Year: Date Breakpoint: Engine: Transmission:
+from to from to
+ChevroletSilverado 1500
+(New Model)
+2019 2019
+    All AllSilverado 1500
+(New Model - 12th
+VIN Digit = 7) -
+4WD
+Silverado 1500 2020 2021
+Silverado 1500 -
+LTD (RPO J21, VIN
+Digit 5 = W/Y)
+2022 2022Silverado 1500 -
+2WD New (RPO
+J22, VIN Digit 5 =
+A/D)
+Silverado 1500 2023 2025
+GMCSierra 1500 (New
+Model)2019 2019
+Sierra 1500 2020 2021
+Sierra 1500 -
+Limited (RPO J21,
+VIN Digit 5 = 8/9)
+2022 2022
+Sierra 1500 - 2WD
+New (RPO J22, VIN
+Digit 5 = H/U)
+Sierra 1500 2023 2025
+ 
+Involved Region or CountryNorth America, Middle East, Paraguay, Uruguay, Chile, Thailand, Europe, Argentina,
+Brazil, Bolivia, Columbia, Ecuador, Peru, S. Korea, Thailand, Philippines, Australia/NZ,
+Africa
+Condition 1Important: Do not add any lubricant to the inserts or springs. Lubricant can attract dirt
+and debris which can lead to noise and premature insert wear. Some lubricants can also
+chemically attack the insert material.
+Some customers may comment on a squeak type noise heard from the rear of the
+vehicle.
+Upon further investigation, the technician may diagnose the noise is coming from the rear
+suspension leaf spring area.
+Condition 2Some customers may comment on a clunking type of noise heard from the rear of the
+vehicle.
+Upon further investigation, the technician may diagnose the noise is coming from the rear
+suspension leaf spring area.
+CauseThis condition may be caused by debris getting between the leaf springs and/or loose U-
+Bolts.Subject:
+Page 2 February, 2025 Bulletin No.: 19-NA-129
+Correction 1Note: 2020 vehicles built at Silao after March 17, 2020, or built at Fort Wayne after
+June 11, 2020, are possible candidates for torque relaxation at the U-bolt to axle and the
+1610 km (1000 miles) break-in period but should NOT  have new inserts installed. The
+service inserts are the same as the production inserts.
+For earlier built vehicles, install new rear leaf spring inserts, following the Service
+Procedure below.
+Correction 2Note: Vehicles built after the 2020 breakpoints noted above, may still have torque relaxa-
+tion at the U-bolt to axle and should have the re-torque performed.
+Re-torque the U-bolts of the leaf spring assembly, following the Service Procedure below.
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure (Condition 1)
+Prior to performing this bulletin, follow the procedure for Noise Diagnosis - Rear Suspension in SI to determine the
+source of the noise. Jounce the rear of the vehicle utilizing J 39570  Chassis Ear or equivalent, to aid in locating the
+source of the noise.
+If necessary, road test the vehicle.
+1. Raise the vehicle on a frame lift-type hoist. Refer to Lifting and Jacking the Vehicle,  in SI.
+2. Inspect the rear leaf springs and shackles for damage.
+• If damage has been found, refer to Rear Spring Shackle Replacement or Leaf Spring Replacement (1500),  in
+SI.
+• If damage has NOT been found, proceed to the next step.
+5341853
+3. Install new Rear Leaf Spring Inserts using the following procedure:
+3.1. Clean the springs using high-pressure water or a steam cleaner to remove any lubricant or contamination
+from between the leaf elements, paying special attention to the tip contact areas.
+Bulletin No.: 19-NA-129 February, 2025 Page 3
+5341854
+Caution: Do NOT damage the finish on Leaf Springs.
+3.2. On the spring assembly, insert a plastic trim tool or plastic wedge in between the #1 and #2 leaf springs,
+to access the old insert.
+5341855
+3.3. Push up on insert until it hits the bottom of the spring above it. Then use a suitable cutting tool to cut the
+stem off from the insert.
+Page 4 February, 2025 Bulletin No.: 19-NA-129
+5341856
+3.4. Remove the top portion of the insert, and then remove the bottom portion of the remaining stem.
+5341857
+3.5. Using a rag and degreaser, clean any dirt or grease from between the leaf springs at the insert location.
+Bulletin No.: 19-NA-129 February, 2025 Page 5
+5341859
+Caution: Do NOT damage the surface of the new insert when trimming.
+3.6. Cut the stem of the new insert with a hacksaw or suitable cutting tool. Make sure to leave 6 mm (0.240 in)
+of the stem.
+5341861
+3.7. Apply a small amount of RTV sealer around the remaining portion of the stem.
+3.8. Install the new insert into the leaf spring. Make sure the stem portion lines up with the slot in the spring.
+Remove the plastic trim tool or plastic wedge to close the spring and seat the new insert.
+4. Repeat step #3 for the 3 remaining inserts.
+Important: After a new vehicle is delivered to a customer, or new spring tip inserts are installed per this bulletin, new
+inserts have a break-in period of up to 1610 km (1000 miles), where some noise can be expected. The gray spring
+inserts are designed to work with absolutely no lubricant. Lubricants of any kind must never be used on the
+gray spring tip inserts and any remaining lubricant must be completely removed when installing new tip
+inserts.
+5. Lower the vehicle to the ground and test drive to verify the repair.
+Page 6 February, 2025 Bulletin No.: 19-NA-129
+Note: If the vehicle returns with noise after this procedure, and there is no loss of torque at the U-Bolts, thoroughly
+clean the spring contact points with high pressure water or a steam cleaner to remove contaminants from between
+the spring elements. Contaminants, grease, undercoating or any substance in the leaf interface will cause noise
+when the spring elements move over each other.
+Important: If the Spring Tip Inserts have been replaced and 1000 miles (1610 km) has not elapsed, proceed to
+Service Procedure (Condition 2).
+Service Procedure (Condition 2)
+1. Support the vehicle at curb height to relieve the tension on the leaf springs, when re-torquing the leaf spring U-
+bolt nuts.
+5357922
+2. Loosen the anchor plate U-bolts (1).
+Caution: Ensure that the proper torque procedure for the U-Bolts is followed in SI. Excessive fastener torque will
+extrude, and damage, the spring isolators making the condition worse.
+3. Re-torque the anchor plate U-bolts (1). Refer to Fastener Specifications in SI.
+4. Repeat steps 2 and 3 for the opposite side leaf spring.
+5. Re-test the vehicle for the same clunking noise. If the issue remains, follow the regular repair procedure.
+ 
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+N/AINSERT-RR SPR
+LEAF878288274 (Base)
+12 (ZRX)
+RTV Sealer88864346 (In
+Canada,
+88861418),
+(In S.
+America,
+98552043)1
+ 
+Bulletin No.: 19-NA-129 February, 2025 Page 7
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+8080598* Replacement of 4 Rear Leaf Spring Inserts for Base (Condition
+1)0.5 hr
+Add Replacement of 12 Rear Leaf Spring Inserts for ZRX (Condition
+1)0.3 hr
+8080608* Re-torque U-Bolts / Road Test (Condition 2) 0.6 hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 12
+ModifiedReleased August 06, 2019
+Revised March 02, 2020 – Added 2019 Silverado 1500 (New Model - 12th VIN Digit = 7) -
+4WD model and 2020 Model Year, Added Breakpoint and Updated Insert Part Number.
+Revised February 08, 2021 – Updated Breakpoints, Separated Repair Procedures to
+Address Condition #1 and Condition #2, Updated Warranty Information.
+Revised May 05, 2021 – Added 2021 Model Year, Information to Clarify the Breakpoint
+Strategy and to Emphasize that the Inserts (GM P/N 84855893) Have a Break-in Period
+of Approximately 1610 km (1000 miles).
+Revised August 30, 2021 – Removed 2021 Model Year and all 2021 Model Year
+references.
+Revised July 28, 2023 - Added 2021–2024 Model Year.
+Revised August 17, 2023 - Added Note to Correction 1 section, Added Additional Inserts
+for ZRX in Parts Information section, and Added Labor Operation Time for Inserts.
+Revised May 14, 2024 - Added Additional Countries to Involved Region or Country
+section.
+Revised May 28, 2024 - Removed Reference to ZRX in the Correction 1 section.
+Revised July 08, 2024 - Added 2025 Model Year.
+Revised September 09, 2024 - Updated Left Spring Insert and Added S. America Part
+number.
+Revised February 20, 2025 - Add Important Statement to Condition 1 section.

@@ -1,0 +1,127 @@
+{
+  "document_type": "Multi Point Inspection",
+  "vendor": "JAGUAR LAND ROVER LOS ANGELES",
+  "date": "Oct 26, 2025 1:09 AM",
+  "vehicle": {
+    "year": "2020",
+    "model": "Jaguar F-Type"
+  },
+  "video_summary": {
+    "findings": [
+      "Front tires have a tread depth of approximately 7/32 inches, which is nearing the recommended replacement threshold.",
+      "Front brake pads have a thickness of around 9-10 millimeters, indicating they are still in good condition.",
+      "Technician has identified a fault with the Vehicle Stability Control Module.",
+      "Vehicle is shaking significantly at idle.",
+      "Both motor mounts are not holding vacuum properly, requiring replacement."
+    ],
+    "services_performed": [
+      "Inspection of tires, brakes, and vehicle Module fault"
+    ],
+    "recommendations": [
+      "Replacement of Vehicle Stability Control Module",
+      "Replacement of both motor mounts"
+    ]
+  },
+  "concerns_and_estimates": [
+    {
+      "concern": "COMPLIMENTARY LAND ROVER MULTI POINT INSPECTION",
+      "status": "Original Approved",
+      "credit": 0.00,
+      "debit": 0.00
+    },
+    {
+      "concern": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "status": "Original Approved",
+      "credit": 0.00,
+      "debit": 0.00
+    },
+    {
+      "concern_type": "Needs Immediate Attention",
+      "total_approve_remaining": 3472.03,
+      "items": [
+        {
+          "description": "GUEST REPORTS CHECK ENGINE LIGHT IS COMING ON AND VEHICLE WILL NOT GO OVER 40MPH",
+          "comments": "CHECK ENGINE LIGHT WAS NOT ON. CONNECTED TOPIX CLOUD AND HAVE FAULT CODE FOR QUIESCENT RELAY MODULE. RECOMMEND [Implied VSC Module Replacement]",
+          "additional_repair_estimate_credit": 1199.05,
+          "additional_repair_estimate_debit": 1164.13
+        },
+        {
+          "description": "Inspect windshield wiper blades",
+          "comments": "FRONT WIPER BLADES STREAKING RECOMMEND REPLACEMENT",
+          "additional_repair_estimate_credit": 245.52,
+          "additional_repair_estimate_debit": 238.37
+        },
+        {
+          "description": "Inspect engine mounts",
+          "comments": "BOTH MOTOR MOUNTS ARE NOT HOLDING VACUUM CAUSING EXCESSIVE VIBRATIONS AT IDLE. RECOMMEND REPLACEMENT OF BOTH MOTOR MOUNTS",
+          "additional_repair_estimate_credit": 2027.45,
+          "additional_repair_estimate_debit": 1968.40
+        }
+      ]
+    },
+    {
+      "concern_type": "Needs Attention Soon",
+      "items": [
+        {
+          "description": "Tread Depth Measurements - Rears",
+          "measurements": {
+            "rear_left": "4/32 / 5/32nds",
+            "rear_right": "4/32 / 5/32nds"
+          }
+        },
+        {
+          "description": "Inspect overall tire wear and condition"
+        }
+      ]
+    }
+  ],
+  "inspection_details": {
+    "passed_inspection_count": 26,
+    "passed_inspections": [
+      "Inspect wiper and washer operation",
+      "Perform visual battery inspection",
+      "Inspect battery terminal and cables",
+      "Inspect heat and air conditioning operation",
+      "Instrument cluster warning lamps",
+      "Inspect headlights, low and high beam operation",
+      "Inspect fog/driving lights (if applicable)",
+      "Inspect taillight, turn signal, side marker and license plate lights",
+      "Inspect taillight, turn signal and side marker assemblies for cracks and damage",
+      "Inspect brake light operation",
+      "Inspect reverse light operation",
+      "Inspect dash and interior lights",
+      "Check horn operation",
+      "Inspect brake system components",
+      "Inspect brake system for leaks",
+      "Inspect engine cooling system for leaks",
+      "Inspect transmission for leaks",
+      "Inspect steering components",
+      "Inspect sway bar components",
+      "Inspect rear suspension components",
+      "Inspect axles, driveshaft(s), u-joints and CV joints/boots"
+    ],
+    "measurements_passed": {
+      "tread_depth_fronts": {
+        "front_left": "7/32/32nds",
+        "front_right": "7/32/32nds"
+      },
+      "brake_linings_front": "10+mm",
+      "brake_linings_rear": "10+mm"
+    },
+    "additional_inspections": [
+      {
+        "item": "Windshield washer fluid",
+        "status": "filled as needed - NO"
+      },
+      {
+        "item": "Check and adjust tire pressures",
+        "measurements": {
+          "front_left": "NO psi",
+          "front_right": "NO psi",
+          "rear_left": "NO psi",
+          "rear_right": "NO psi"
+        }
+      }
+    ]
+  }
+}

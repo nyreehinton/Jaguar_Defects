@@ -1,0 +1,83 @@
+SERVICEBULLETIN
+2025-01-20 M1668
+M1668:2025SOFTAILINITIAL CARE
+Reason forRevision
+RefertoTable1.
+Table1.Document History
+Revision (Rev)Description Rev Date
+Initialrelease - 2025-01-20
+Purpose forService Bulletin
+Thisbulletininformsdealersaboutthe2025SoftailInitialCare
+program.
+Required DealerAction
+Table2.Required DealerAction
+Required Description Category
+MustPerform Repair 1
+RepairIfPresenting Symptom 2
+FeaturePack-
+Customer/Dealer Paid3
+Informational Purposes Only 4
+Harley-Davidson InitialCareprogram fortherecentlyintroduced
+2025SoftailMotorcycles.
+WarrantyPre-authorization fromTechnical Serviceisrequired
+forWarrantyrelatedtorepairswithpartnumbers listedinthe
+belowtable.
+Decisions concerning repairversusreplacement orrequests
+forfurtherdiagnostic labortimewillbedetermined byTechnical
+ServiceRepresentatives atthattime.
+InitialCaresupport canberequested intwoways:
+•eService Technical ServiceRequests canbesubmitted using
+theeService toolonh-dnet.com. TheeService Request is
+available 24/7andourgoalistorespond withinonebusiness
+day.Additional benefitsoftheeService Request includethe
+abilitytoattachdocuments, filesandimagesaswellas
+receiveaServiceRequest number sentbye-mailshortly
+aftersubmitting therequest. TheServiceRequest number
+allowsforfasterandeasierfollow-up shouldyouneedit.•IntheeventyouneedmoreurgentInitialCaresupportcall
+800-664-7762 forassistance andapproval. Thisnumber
+allowsdirectaccess fortechnical support, diagnostic
+assistance andwarranty pre-approval decisions. Selectthe
+InitialCarepromptforthespecificvehiclefeaturerequiring
+repair.
+Beprepared withthefollowing information:
+•VehicleIdentification Number (VIN)
+•Vehiclemileage
+•VehicleSummary Report(VSR)
+•Problem condition, diagnostic procedures performed and
+thetestresults
+•Otherpertinent information, suchasvehiclemaintenance
+orrepairhistory,vehiclecondition, detailofanymodifications,
+etc.
+Thisprogram hasanintended lifespanofJanuary 20,2025
+throughApril20,2025.Itmaybeterminated earlyduetolow
+callvolumes.
+VehiclesAffected
+2025:FatBoy(FLFB), Heritage Classic(FLHC), StreetBob
+(FXBB), Breakout (FXBR), LowRiderS(FXLRS), LowRider
+ST(FXLRST)
+Markets Affected
+Allmarkets affected.
+Affected PartNumbers
+RefertoTable3.
+Table3.Affected PartNumbers
+ItemDescription PartNo.
+MainHarness 69203225
+EngineHarness 69203213
+RightHandControlModule(RHCM) 71500636A
+LeftHandControlModule(LHCM) w/FOG 71500643A
+LeftHandControlModule(LHCM) 71500637A
+5inchInstrument Module, DOM 70901208
+5inchInstrument Module, HDI 70901209
+5inchInstrument Module, England 70901210
+4inchInstrument Module, DOM 70901218
+4inchInstrument Module, HDI 70901219
+4inchInstrument Module, England 70901220
+LEDTailLightw/license platemount 67801441
+Manifold, ThrottleBody,Intake,58mm 27200090
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE

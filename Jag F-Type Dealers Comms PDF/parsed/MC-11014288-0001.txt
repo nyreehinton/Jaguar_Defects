@@ -1,0 +1,181 @@
+ 
+Technical Service Bulletin  GROUP  NUMBER  
+CAMPAIGN  25-01-011H 
+DATE  MODEL (S) 
+FEBRUARY  2025 IONIQ 5 (NE A EV) 
+SUBJECT:  KEY FOB  INSPECTION/ REPLACEMENT  
+(SERVICE CAMPAIGN  9B9) 
+ 
+ 
+Description:  Certain IONIQ 5 (NE A EV) vehicles may have come with the incorrect key fob  for the trim 
+level. Follow the procedure in this bulletin to inspect and, if necessary, replace  with the correct key fob . 
+ 
+  
+ 
+Applicable Vehicles  (Certain) : 
+• 2025MY IONIQ 5 (NEA EV) produced from 12/10/2024 – 01/24/2025  
+ 
+ 
+ 
+ 
+ 
+ 
+Dealers must perform this service campaign on all affected vehicles prior to customer retail delivery and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ Access the “Vehicle Information” screen via W ebDCS to identify open campaigns.  
+ IMPORTANT  
+To avoid  any potential damage to IONIQ vehicles , this service campaign can only be performed 
+at IONIQ certified dealers.   
+NOTICE            
+Parts  Information:    
+Model  Part  
+Name  Trim  
+Level  Part Number  Image Remarks  
+IONIQ 5 
+(NEA EV)    FOB – 
+Smart 
+Key SE 95440- GI300  
+  • No Side Buttons  
+• Yellow Part Number 
+Label  
+• Qty: 2 /vehicle  
+SEL 95440- GI120  
+  • 1 Side Button  
+• Gray Part Number Label  
+• Qty: 2 /vehicle  
+XRT & 
+Limited  95440- GI130  
+  • 3 Side Buttons  
+• Blue Part Number  
+Label  
+• Qty: 2/vehicle  
+ 
+
+Warranty Information:   
+Model  Op. Code  Operation  Op. 
+Time  Causal  Part Nature 
+Code  Cause 
+Code  
+IONIQ 5 
+(NEA EV)  50250A01 Key Fobs Inspection  
+(SE Trim)  0.2 
+M/H 95440 -GI300  
+ 
+B1B ZZ7 50250A02 Key Fobs Inspection  
+(SEL  Trim)  0.2 
+M/H 95440- GI120  
+50250A03 Key Fobs Inspection  
+(Limited and XRT Trims)  0.2 
+M/H 95440-GI130  
+50250A04 Key Fobs Inspection and 
+Replacement  
+(SE Trim)  0.6 
+M/H 95440- GI300  
+50250A05 Key Fobs Inspection and 
+Replacement  
+(SELTrim)  0.6 
+M/H 95440- GI120  
+50250A06 Key Fobs Inspection and 
+Replacement  
+(Limited & XRT Trims)  0.6 
+M/H 95440-GI130  
+NOTE 1:  Submit claim on Claim Entry Screen as “Campaign” type.  
+NOTE 2:  If a part is found in need of replacement while performing this campaign and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the work.  
+NOTE 3:  This TSB includes Repair validation photos. Op times include VIN, Mileage , and Repair 
+validation photo(s) as outlined in the Digital Documentation Policy.  
+NOTE 4:  The incident parts will be  called back through the normal Warranty Technical Center (WTC) 
+parts return process. Claim is subject to debit if the part is not returned.   
+           
+Service Procedure:  
+  
+ 
+Key Fob Inspection  
+1. Examine the key fob to see if it matches the 
+vehicle trim level according to the 
+specifications listed in the table shown at right . 
+ 
+• If key fob matches,  then it is the correct 
+one. Proceed with taking a picture as 
+directed in step 2. Service Procedure is 
+complete.  
+ 
+• If key fob does NOT  mat ch the 
+specifications listed, then proceed to Key 
+Fob Replacement & Programming. 
+ 
+ 
+  Vehic
+le  
+Trim Key Fob Part 
+Number Label 
+Color  Key Fob Side  
+Button  
+SE 95440- GI300  
+ 
+(Yellow)  0 Button  
+ 
+SEL 95440- GI120  
+ 
+(Gray) 1 Button  
+ 
+XRT  
+and  
+LIMITED  95440- GI130  
+ 
+(Blue)  3 Buttons  
+ 
+ 
+This TSB includes Repair validation photos. Refer to the latest Warranty Digital Documentation Policy for requirements.  
+DIGITAL DOCUMENTATION  
+The part number label color is for reference when applicable. Not all key fobs will have this label as it could have been removed by the customer or technician. 
+   Information  
+  i         
+2. 
+ 
+ 
+Key Fob Replacement & Programming  
+1. Order the correct key fob part number for the 
+vehicle trim level.   
+2. Program the new key fob s to the vehicle.  
+ 
+• Follow TSB # 19 -BE-006H, “Key Fob 
+Code Saving/Programming 
+Information” or latest version. 
+ 
+ 
+Using STUI, take a photo of the Smart Key Fob with the VIN Plate.  Ensure the photo is in focus to capture the VIN information, and side view of the Smart Key Fob.   
+ 
+Upload the photo to STUI.  
+ 
+DIGITAL  
+DOCUMENTATION  
+3. After key fob programming is complete, verify 
+all features function normally on both key 
+fobs, such as : 
+• Remote Sta rt 
+• Lock/U nlock  
+• Horn Honk  
+• Remote Smart Parking Assist ( RSPA) 
+• Liftgate (if applicable)  
+ 
+  
+4. 
+ 
+ 
+5. Save the original key fobs for parts return 
+request.   Do NOT  discard them.  
+   
+ 
+ 
+Using STUI, take a photo of both Smart Key Fobs with the VIN Plate.  Ensure the photo is in focus to capture the VIN information, and side view of the Smart Key Fobs.   
+ Upload the photo to STUI.  
+DIGITAL  
+DOCUMENTATION  
+Key fob for XRT/Limited trim shown.  
+   Information  
+  i 
+The request for the original parts will be 
+sent upon successful claim submission.  
+   Information  
+  i 

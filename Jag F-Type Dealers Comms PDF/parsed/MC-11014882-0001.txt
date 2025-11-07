@@ -1,0 +1,1160 @@
+11.0 DESCRIPTION
+The Bendix™ FLC-20™ camera is a component used in 
+many Bendix safety systems, including:
+•   The Lane Departure Warning (LDW) System; and
+•   The Bendix® Fusion™ Active Safety System.
+For more information about the Bendix Fusion System, 
+refer to SD-61-4963, Bendix® Fusion™ FLR-21™ Radar 
+Sensor, on B2Bendix.com. 
+This document covers installation, troubleshooting, and 
+replacement for this camera.
+ 
+Bendix safety technologies complement safe driving 
+practices. No commercial vehicle safety technology 
+replaces a skilled, alert driver exercising safe driving 
+techniques and proactive, comprehensive driver 
+training. Responsibility for the safe operation of the 
+vehicle remains with the driver at all times.Bendix™ FLC-20™ Camera
+SD-64-20124
+The camera bracket 
+is attached to the 
+windshield, and the 
+camera snaps into it. 
+Refer to Section 3.1. 
+Camera Lens
+Radar SensorCamera
+Figure 1 – Bendix FLC-20 Camera
+Figure 2 – Operational View
+Detected Forward 
+Vehicle
+RADAR BeamRoad Lane 
+Markings Vehicle Equipped with the 
+Bendix® Fusion™ System
+Bendix FLC-20 Camera Windshield-
+mounted Visible Light CameraRoof-mounted  
+Telematics AntennaFront Bumper-Mounted 
+Radar Sensor
+NOT TO SCALECamera View
+2GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following guidelines should be observed AT ALL TIMES :
+ ▲ Park the vehicle on a level surface, apply the 
+parking brakes, and always block the wheels.  
+Always wear personal protection equipment.  
+ ▲Stop the engine and remove the ignition key 
+when working under or around the vehicle.  
+When working in the engine compartment, 
+the  engine  should  be  shut  off   and  the  ignition 
+key should be removed. Where circumstances 
+require that the engine be in operation, EXTREME 
+CAUTION  should be used to prevent personal 
+injury resulting from contact with moving, 
+rotating, leaking, heated, or electrically charged 
+components.
+ ▲Do not attempt to install, remove, disassemble, 
+or assemble a component until you have read, 
+and thoroughly understand, the recommended 
+procedures. Use only the proper tools and 
+observe all precautions pertaining to use of those 
+tools.
+ ▲If the work is being performed on the vehicle’s 
+air brake system, or any auxiliary pressurized air 
+systems, make certain to drain the air pressure 
+from all reservoirs before beginning ANY  work 
+on the vehicle.  If the vehicle is equipped with 
+a Bendix® AD-IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD-9si®, 
+AD-HF®, or AD-HFi® air dryer, be sure to drain the 
+purge reservoir.
+ ▲Following the vehicle manufacturer’s 
+recommended procedures, deactivate the 
+electrical system in a manner that safely removes 
+all electrical power from the vehicle.
+ ▲Never exceed manufacturer’s recommended 
+pressures.   ▲Never connect or disconnect a hose or line 
+containing pressure; it may whip and/or cause 
+hazardous airborne dust and dirt particles. Wear 
+eye protection. Slowly open connections with 
+care, and verify that no pressure is present. Never 
+remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement 
+parts, components, and kits. Replacement 
+hardware, tubing, hose, fittings, wiring, etc. 
+must be of equivalent size, type, and strength as 
+original equipment and be designed specifi  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged 
+parts should be replaced rather than repaired.  
+Do not attempt repairs requiring machining or 
+welding unless specifi  cally stated and approved 
+by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make 
+certain all components and systems are restored 
+to their proper operating condition.
+ ▲ For vehicles with Automatic Traction Control 
+(ATC), the ATC function must be disabled (ATC 
+indicator lamp should be ON) prior to performing 
+any vehicle maintenance where one or more 
+wheels on a drive axle are lifted off   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected 
+from the radar sensor whenever any tests USING 
+A DYNAMOMETER are conducted on a vehicle 
+equipped with a Bendix® Wingman® system.
+ ▲ You should consult the vehicle manufacturer's operating and service manuals, and any related literature, 
+in conjunction with the Guidelines above.
+ 
+Improper use and/or maintenance of the Bendix® Fusion™ Active Safety System can result in a collision causing 
+property damage, serious injuries, or death. Be sure to read, understand, and carefully follow the instructions 
+in the Operator’s Manual, BW2681.
+ 
+Due to the inherent limitations of image recognition technology, camera-based safety technology — on rare 
+occasions — may not be able to detect or may misinterpret lane markings. At these times, alerts may not 
+occur, or erroneous alerts may occur.
+ IMPORT ANT
+It is the responsibility of the driver to remain vigilant and change driving practices depending on traffic and 
+road conditions.1.1
+3SERVICE DATA SHEET INDEX
+1.0 Description  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 General Safety Guidelines  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.0 Troubleshooting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1 Safety Guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Bendix™ Driver Interface Unit (DIU™) Lane Departure Warning System Icons  . . . . . . . . . . . . 4
+2.3 Temporarily Disable the Lane Departure Warning (LDW)  . . . . . . . . . . . . . . . . . . . . . . 5
+2.4 Setting Diagnostic Trouble Codes (DTCs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.5 Bendix® ACom® Diagnostic Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.6 Diagnostic Trouble Codes (DTCs)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+2.7 Table of Diagnostic Trouble Codes (DTCs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-9
+2.8 Table of Service Action Codes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10-13
+2.9 Troubleshooting Diagnostic Trouble Codes: Power Supply  . . . . . . . . . . . . . . . . . . . . 14
+2.10 Serial Data (Private Communications) Troubleshooting Procedure  . . . . . . . . . . . . . . . . 15
+2.11 Power Troubleshooting Procedures  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.12 Communications (J1939) Test and Troubleshooting Procedures . . . . . . . . . . . . . . . . . . 16
+2.13 Clearing Diagnostic Trouble Codes (DTCs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+3.0 Typical Installation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17-20
+3.1 Camera Removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+3.2 Bracket Removal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3.3 Dash Switches and Lamps  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3.4 Maintenance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3.5 Camera Interchangeability  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Appendix A - Bendix Fusion System Component Schematic  . . . . . . . . . . . . . . . . . . . 22How to identify your FLC-20  
+Camera Part Number:
+Look for the Bendix® 
+brand logo on the 
+camera label. Refer 
+to Section 3.1  for how 
+to remove the camera 
+from the bracket to view 
+the label.
+42.0 TROUBLESHOOTING
+2.1 SAFETY GUIDELINES
+Read and follow the General Safety Guidelines shown in 
+this document.
+ IMPORT ANT
+All vehicle Diagnostic Trouble Codes (DTCs) related 
+to the engine, transmission, instrument cluster, 
+engine cruise control, and Bendix® Antilock Braking 
+System (ABS), Automatic Traction Control (ATC), or 
+Electronic Stability Program (ESP®) systems must first 
+be resolved, with no DTCs present during the vehicle 
+operation while in cruise control, before trying to 
+resolve camera DTCs.
+ IMPORT ANT
+If a problem with the Bendix FLC-20 camera is detected, 
+it should be serviced as soon as possible to restore 
+full functionality.
+2.2  BENDIX™ DRIVER INTERFACE 
+UNIT (DIU™) LANE DEPARTURE 
+WARNING SYSTEM ICONS
+See Figure 3 and Figure 4.  In the case of vehicles that use 
+a Bendix™ Driver Interface Unit (DIU™), the top right corner 
+of the display is used to show an icon. For other Original 
+Equipment Manufacturer (OEM) displays, see the vehicle 
+manual to find the method used to show the system status.During Start-Up – System Busy
+The first symbol shows when the LDW 
+system is initializing.
+Camera Impaired
+If the system experiences 
+problems detecting objects 
+(for example, due to severe 
+weather conditions, a dirty 
+windshield, obstructions, etc.), 
+a full DIU screen message will 
+briefly be displayed.
+The screen will revert to displaying 
+the icon shown, until the problem is 
+resolved.
+Normal Operation
+The LDW system is actively seeking 
+lane-markings.
+The LDW system is actively tracking 
+lane-markings on both sides of the 
+current lane.
+The system is actively tracking only 
+lane-markings on the left.
+The system is actively tracking only 
+lane-markings on the right.
+Figure 3 – Normal Bendix DIU Screens Showing 
+LDW  System Status
+Diagnostic Trouble Code (DTC) Set
+If no LDW status is shown – and the 
+driver has not applied the LDW disable 
+switch – this indicates that the system 
+has detected a DTC.
+Figure 4 – Bendix DIU Screen Showing 
+LDW System Status
+In these cases, the OE vehicle dash display will also alert 
+the operator that there is a DTC present.
+52.3  TEMPORARILY DISABLE THE LANE 
+DEPARTURE WARNING (LDW)
+To avoid erroneous LDW warnings in areas such as 
+construction zones – where the non-standard or overlapping 
+road markings present might cause false alerts – the 
+Bendix® Fusion™ Active Safety System has an enable/
+disable switch. The Bendix switch design or a similar OEM 
+switch may be used. See Figure 5 .
+Figure 5 – Example of an LDW 
+Enable/Disable Switch
+For vehicles that have the LDW switch hard-wired to the 
+SafetyDirect® by Rand McNally® Web Portal Processor, 
+and a functioning On Board Computer (OBC)/Telematics 
+system: The enable/disable switch used by the LDW 
+system also functions – when depressed for six (6) seconds 
+– to activate a manual request to transmit the last five 
+seconds and next five seconds of buffered video data.
+2.4  SETTING DIAGNOSTIC 
+TROUBLE CODES (DTC s)
+If, during operation, the Bendix Fusion system detects a 
+problem with the FLC-20 camera, a DTC will be set and 
+– depending on the OEM – the driver will be alerted on 
+the dash display with an icon or similar method. In these 
+cases, some or all features of the Fusion system or LDW 
+system will not be available. 
+If the system experiences problems detecting objects 
+(for example, due to severe weather conditions, a dirty 
+windshield, obstructions, etc.), a DTC will typically be set. 2.5  BENDIX® ACOM® DIAGNOSTIC 
+SOFTWARE
+Bendix® ACom® Diagnostic Software is a PC-based 
+software program available to purchase from bendix.com. 
+This software provides the technician with access to all 
+the available Electronic Control Unit (ECU) diagnostic 
+information and configuration capability. For Fusion system 
+diagnostics, use the current version of Bendix ACom 
+Diagnostic Software. 
+ IMPORT ANT
+Bendix®-brand Electronic Control Units (ECUs) are 
+not designed to store data for purposes of accident 
+reconstruction and Bendix® ACom® Diagnostic Software 
+is not intended to retrieve data for purposes of accident 
+reconstruction. Bendix makes no representations as to 
+the accuracy of data or video retrieved and interpreted 
+from ECUs for purposes of accident reconstruction. 
+Bendix does not offer accident reconstruction services 
+or interpretation of stored data. Bendix ECUs are not 
+protected from fire, loss of power, impact damage, 
+or other conditions that may be sustained in a crash 
+situation and may cause data to be unavailable or 
+irretrievable.
+2.6 DIAGNOSTIC TROUBLE CODES
+Use a J1939 detection software to find the DTC(s) and 
+refer to Table 1 to find the service action code to use. The 
+service actions to take may then be found in Table 2.
+62.7 TABLE OF DIAGNOSTIC TROUBLE CODES (DTC s) AND SERVICE ACTION CODES
+Refer to Table 1 for Diagnostic Trouble Codes (DTCs) and  Table 2  for each DTC’s corresponding service action. 
+SPN FMI DTC Diagnostic Trouble Code (DTC) DescriptionService 
+Action Code
+(Refer to Table 2)
+709 64 J1939: Engine controller message missing - CCVS1 M
+19 149 J1939: Engine controller signal error - CCVS1 Parking Brake N
+842 200 J1939: Engine controller signal invalid - CCVS1 Vehicle Speed N
+964 J1939: Engine controller message missing - CCVS1 M
+201 J1939: Engine controller signal missing - CCVS1 Vehicle Speed M
+1964 J1939: Engine controller message missing - CCVS1 M
+73 J1939: Brake controller signal error - EBC2 Wheel Speed N
+1902 179 J1939: Engine controller signal invalid - Engine Speed N
+9 172 J1939: Engine controller signal invalid - EEC1 Engine Speed N
+19 152 J1939: Engine controller signal error - EEC1 Engine Speed N
+234 12 142 Internal Error D
+597274 J1939: Brake controller signal error - EBC1 Brake Switch N19
+625 9 72 Private CAN: Error frame threshold exceeded V
+628 211 Internal Error D
+36 Image Processor software version error I
+630219 Calibration not complete Q
+47 SPC Calibration not complete Q
+50 Dynamic Calibration out of range Q
+51 Dynamic Calibration not complete Q
+59 Vehicle Calibration not complete Q
+19 198 Brake controller mismatch - Fusion I
+639918 J1939 Bus FaultM
+31 M
+879 9 184 J1939: Vehicle controller signal invalid - Left Turn Signal N
+881 9 185 J1939: Vehicle controller signal invalid - Right Turn Signal N
+9042 178 J1939: Brake controller signal error - EBC2 Front Axle Speed N
+9 131 J1939: Brake controller message missing - EBC2 M
+19 151 J1939: Brake controller signal error - EBC2 Vehicle Speed N
+917 9 78 J1939: Vehicle controller message missing - VDHR M
+NOTE: The system will not report newly active J1939 DTCs until the engine has been 
+running for 15 seconds. Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 1 – Diagnostic Trouble Codes (DTCs)
+7SPN FMI DTC Diagnostic Trouble Code (DTC) DescriptionService 
+Action Code
+(Refer to Table 2)
+11219132 J1939: Brake controller message missing - EBC1 M
+196 J1939: Brake controller signal invalid - EBC1 Brake Switch N
+19 150 J1939: Brake controller signal error - EBC1 Brake Switch N
+16242 181J1939: Vehicle controller signal invalid - TCO1 Tachograph 
+Vehicle SpeedN
+9130 J1939: Vehicle controller message missing - TCO1 M
+197 J1939: Vehicle controller signal invalid - TCO1 Vehicle Speed N
+19 163 J1939: Vehicle controller signal error - TCO1 Vehicle Speed N
+17053 1 High Battery Voltage B
+4 2 Low Battery Voltage B
+7 146 Camera lens blocked C
+1705 11 133 Brake Controller Mismatch - Incorrect Camera Lens Angle Q
+1705123, 4, 7-10, 12, 
+14-16, 21-35, 
+37-42Internal Error D
+13 Internal Error D
+17, 20 Internal Error D
+43 Calibration data corrupt Q
+44-46, 48, 49, 
+52-57Internal Error D
+60 Image Processor Calibration error Q
+61, 77, 81-86, 
+128, 129Internal Error D
+140 Incompatible software version - Image Processor I
+141, 143-145 Internal Error D
+1319 Calibration not complete Q
+47 SPC Calibration not complete Q
+50 Dynamic Calibration out of range Q
+51 Dynamic Calibration not complete Q
+58 Internal Error D
+59 Vehicle Calibration not complete Q
+1411 Internal Error D
+36 Image Processor software version error I
+15 147 Camera temperature too high A
+NOTE: The system will not report newly active J1939 DTCs until the engine has been 
+running for 15 seconds. Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 1 – Diagnostic Trouble Codes (DTCs)
+8SPN FMI DTC Diagnostic Trouble Code (DTC) DescriptionService 
+Action Code
+(Refer to Table 2)
+1705 313, 4, 7-10, 12 Internal Error D
+13 Internal Error D
+14-16 Internal Error D
+17, 20 Internal Error D
+21-35, 37-42 Internal Error D
+43 Calibration data corrupt Q
+44-46, 48,  
+49, 52-57Internal Error D
+58 Internal Error D
+60 Image Processor Calibration error Q
+61, 77, 81-86, 
+128-129Internal Error D
+140 Incompatible software version - Image Processor I
+141, 143-145 Internal Error D
+147 Camera temperature too high A
+18072 182J1939: Brake controller signal invalid - VDC2 Steering Wheel 
+AngleN
+9 176J1939: Brake controller signal invalid - VDC2 Steering Angle 
+SensorN
+19 69 J1939: Brake controller signal error - VDC2 Steering Wheel N
+18082 189 J1939: Brake controller signal invalid - VDC2 Yaw Rate N
+963 J1939: Brake controller message missing - VDC2 M
+190 J1939: Brake controller signal invalid - VDC2 Yaw Rate N
+19 70 J1939: Brake controller signal error - VDC2 Yaw Rate N
+18092 191 J1939: Vehicle controller signal invalid - VDC2 Lateral Accel N
+9 192 J1939: Brake controller signal missing - VDC2 Lateral Accel M
+19 71 J1939: Brake controller signal error - Lateral Accell N
+2347 19 156J1939: Vehicle controller signal error - LCMD High Beam 
+HeadlampN
+2348 19 158 J1939: Vehicle controller signal error - LD High Beam Headlamp N
+2349 19 155J1939: Vehicle controller signal error - LCMD Low Beam 
+HeadlampN
+2350 19 157 J1939: Vehicle controller signal error - LD Low Beam Headlamp N
+2367 19 76 J1939: Vehicle controller signal error - LCMD Left Turn N
+23682 164 J1939: Vehicle controller signal error - VP37 Left Turn Signal N
+19 68 J1939: Vehicle controller signal error - LD Left Turn N
+23699 79 J1939: Vehicle controller message missing - LCMD M
+19 75 J1939: Vehicle controller signal error - LCMD Right Turn N
+NOTE: The system will not report newly active J1939 DTCs until the engine has been 
+running for 15 seconds. Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 1 – Diagnostic Trouble Codes (DTCs)
+9SPN FMI DTC Diagnostic Trouble Code (DTC) DescriptionService 
+Action Code
+(Refer to Table 2)
+23702 165 J1939: Vehicle controller signal error - VP37 Right Turn Signal N
+9 62 J1939: Vehicle controller message missing - LD M
+19 67 J1939: Vehicle controller signal error - LD Right Turn N
+2550 9 139 J1939: Brake controller message missing - Prop FLC Status M
+286314 199 J1939: Vehicle controller message missing - OWW M
+19 187 J1939: Vehicle controller signal error - OWW Wiper N
+2874 19 160J1939: Vehicle controller signal error - OEL High-Low Beam 
+SwitchN
+28759 194 J1939: Brake controller signal invalid - OEL Hazard Switch N
+19 80 J1939: Vehicle controller signal error - OEL Hazard Switch N
+28762 180 J1939: Vehicle controller signal invalid - OEL Turn Signal Switch N
+965 J1939: Vehicle controller message missing - OEL M
+195 J1939: Vehicle controller signal invalid - OEL Turn Signal N
+19 66 J1939: Vehicle controller signal error - OEL Turn Signal N
+35644 153J1939: Vehicle controller signal error - FLIC LDW Enable 
+CommandN
+9 173J1939: Vehicle controller signal invalid - FLIC LDW Enable 
+CommandN
+14 134 J1939: Vehicle controller message missing - FLIC M
+19 153J1939: Vehicle controller signal error - FLIC LDW Enable 
+CommandN
+4011 9 183J1939: Vehicle controller signal invalid - OEL High Beam 
+HeadlampN
+516096 19 148 J1939: Vehicle controller signal error - LDW Enable Switch N
+5160972 193 J1939: Vehicle controller signal invalid - FLIC Prop Speaker N
+9 174 J1939: Speaker controller signal invalid - FLIC Prop Speaker N
+18 193 J1939: Vehicle controller signal invalid - FLIC Prop Speaker N
+19 154J1939: LDW Speaker controller signal error - FLIC Prop 
+SpeakerN
+5160982 188 J1939: Vehicle controller signal error - OEL High Beam N
+19 161 J1939: Vehicle controller signal error - OEL High Beam Status N
+5160999 186 J1939: Vehicle controller signal invalid - Windshield Wiper N
+19 162 J1939: Vehicle controller signal error - OEL Wiper N
+516100 19 164 J1939: Vehicle controller signal error - VP37 Left Turn Signal N
+516101 19 165 J1939: Vehicle controller signal error - VP37 Right Turn Signal N
+516102 19 166 J1939: Vehicle controller signal error - VP37 High Headlamp N
+516103 19 167 J1939: Vehicle controller signal error - VP37 Hazard Lamp N
+516104 19 168 J1939: Vehicle controller signal error - VP37 Wiper Status N
+NOTE: The system will not report newly active J1939 DTCs until the engine has been 
+running for 15 seconds. Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 1 – Diagnostic Trouble Codes (DTCs)
+10Service 
+Action 
+CodeRecommended Service
+AThis DTC is rarely an indicator of a malfunctioning camera. 
+Possible Causes:
+• Some error conditions may occur at extreme high temperatures. These DTCs must be diagnosed 
+with the ambient temperature above 32°F (0°C) and below 100°F (38°C).
+Perform the following:
+• Clear the camera’s DTCs . 
+• If possible, swap the camera with a sister vehicle that has no DTCs to see if the fault follows the 
+part or the vehicle. 
+• If the DTCs will not clear or the DTCs return while the camera is within the operating temperatures 
+specified above, replace the camera. 
+BThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera unless the 
+following tests are performed and verified to be accurate per defined tests.
+Possible Causes:
+These DTCs result from incorrect ignition, battery supply voltage, or wiring harness issues as 
+measured at the camera. 
+Review Section 2.9 Troubleshooting Diagnostic Trouble Codes.
+Perform the following:
+• Using an 1157 stop lamp bulb to create a load, verify ignition supply voltage to the camera is 14 
+Volts DC (VDC).
+• Visually check for damaged or poorly crimped connectors.
+• Visually check for damaged wiring.
+• Clear the camera’s DTCs .
+• If possible, swap the camera with a sister vehicle that has no DTCs to see if the fault follows the 
+part or the vehicle. 
+CThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• These DTCs may arise from infrequent conditions that could occur normally.
+Perform the following:
+• Check for lens obstruction. Clean dirt, packed snow, or ice from the windshield in front of the lens, 
+if present. 
+• Clear the camera’s DTCs .
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service2.8 TABLE OF SERVICE ACTION CODES
+Refer to Table 2  for the recommended service actions for the Diagnostic Trouble Code(s) (DTC) found. 
+11Service 
+Action 
+CodeRecommended Service
+DThis DTC is potentially an indicator of a malfunctioning camera. 
+Perform the following before replacing the camera: 
+• Repair and clear all other vehicle DTCs. 
+• Check the power and ground (use the steps identified in service action code B or Section 2.9 ). 
+• Clear the camera’s DTCs. 
+• Confirm the camera’s DTCs will not clear when installed in a “sister truck.” 
+• If all previous steps do not clear the DTCs, replace the camera. 
+IThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• The system has detected an incompatibility in the system configuration or between the intended 
+rake angle stored in the EC-80 and the FLC-20 hardware rake angle.
+ »0: Not Available
+ »1: -22.5° Connector Down
+ »2: -10.3° Connector Down
+ »3: 17° Connector Up
+ »4: 23.9° Connector Up
+ »5: 29.2° Connector Up
+ »6 to 255: Reserved
+Perform the following:
+• Check the hardware version of the FLC-20 camera to confirm it is correct for the vehicle; if 
+necessary, replace the camera with the correct version. If the FLC-20 hardware is correct for the 
+vehicle, contact the Bendix Tech Team. 
+• Clear the camera’s DTCs .
+MThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• The camera is missing the J1939 messages it is expecting from one or more sources. This could 
+be accompanied by other active DTCs from the same source.
+Review Section 2.10 Serial Data (J1939) Troubleshooting Procedure.
+Perform the following:
+• Check the expected source(s) of the signal to identify why the messages are not being transmitted. 
+A communication link may be disconnected, the power fuse disconnected or blown, or a change 
+was made to the controller supplying the message that was incorrect.
+• Confirm there were no software updates on suspect sources that could have impacted the 
+broadcast of the missing message.
+• Once the source of the missing information has been corrected, clear the camera’s DTCs .
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+12Service 
+Action 
+CodeRecommended Service
+NThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible causes:
+• The system using the camera has found J1939 signal(s) it is expecting, but the values are invalid 
+or erroneous, indicating that there is a malfunctioning component and/or wiring error.
+• Some examples of components, cameras, or switches that produce J1939 signals are: brake 
+pressure switches; steering angle sensors; lighting indicators (high/low beam lights, turn signals); 
+windshield wiper status; various engine torque signals; Bendix Fusion Active Safety System 
+components; and wheel speed sensors.
+Perform the following:
+• Check the Bendix Fusion components or the ABS for DTCs. 
+• Check the engine and cab/body controllers for active DTCs using the manufacturer’s diagnostic 
+procedures. NOTE: If the controller that broadcasts the signal or wiring is faulty, these issues must 
+be addressed prior to attempting to clear the camera DTCs. 
+After addressing the possible causes, perform the following: 
+• Clear the camera’s DTCs .
+QThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• The camera is indicating that it is either not calibrated or an error has occurred. Camera calibration 
+is learned at the ignition cycle of the vehicle. This calibration is stored in the ABS controller and is 
+a message broadcast at system start-up.
+• Camera mounting is improper and the camera on-road alignment learned an out-of-range value.
+• The ABS controller may be disconnected or configuration from the ABS controller may be sending 
+invalid information.
+Perform the following:
+• Remove battery power to the vehicle to confirm that power is being removed.
+• Cycle the ignition power. Confirm all system components are turning off (there should be no 
+ignition voltage with the key in the off position). Turn the key back on. Repeat the key cycle up to 
+15 times, giving adequate time for all components to fully shut down between cycles. 
+• Verify proper mounting per section 3.0. Measure and see if the camera was mounted properly 
+on the windshield. If an improper mounting arrangement is discovered, follow the instructions 
+included in this document to remove the camera. The adhesive cannot be re-used. Order the 
+approved bracket with adhesive per the OE build sheet to install and re-mount the camera onto the 
+windshield. 
+ NOTE:  If both the camera and ABS controller are being replaced at the same time, a Single 
+Pole Target Auto-Calibration (SPTAC) will be required to configure the camera (SPTAC target 
+part number K159472). It is not necessary to perform an SPTAC when a camera is replaced 
+and the ABS controller has not been replaced. 
+• Clear the camera’s DTCs .
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+13Service 
+Action 
+CodeRecommended Service
+VThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• The FLC-20 camera has detected that the private Fusion CAN has errors. This could be caused 
+by an ECU on the private Fusion CAN incorrectly broadcasting information or other CAN bus 
+corruption.
+Review Section 2.10 Serial Data (Private Communications) Troubleshooting Procedure.  
+Perform the following:
+• Check the expected source(s) of the signal to identify why the signals have invalid data. The 
+private communications link may be disconnected, have improper terminations, power fuse 
+disconnected or blown, or a change was made to the controller that was incorrect.
+• Clear the camera’s DTCs .
+WThis DTC is not an indicator of a malfunctioning camera. Do not  replace the camera.
+Possible Causes:
+• The camera is indicating that a calibration generated out-of-range values due to an improperly 
+mounted camera.
+Perform the following:
+• Check to ensure the camera is properly installed into the bracket with no movement.
+• If the bracket has been damaged or adhesive has been reused, replace with a genuine Bendix 
+replacement part.
+• Clear the camera’s DTCs. 
+• If the DTC returns, perform the SPTAC calibration using the SPTAC target part number K159472.
+• If the DTC does not return, perform a test drive until speed signs are recognized.
+NOTE: The system will not report newly active J1939 DTCs until the engine has been running for 15 seconds. 
+Do not attempt to diagnose J1939 DTCs without the engine running.
+Call the Bendix Tech Team at 1-800-AIR-BRAKE (1-800-247-2725), option 2, for troubleshooting assistance.
+Table 2 – Service Action Codes to Recommended Service
+142.9  TROUBLESHOOTING DIAGNOSTIC 
+TROUBLE CODES: POWER SUPPLY
+All wire harness connectors must be properly seated to 
+maintain electrical connectivity. Push the mating connectors 
+until they click. When replacing a Bendix Fusion FLC-20 
+camera, check that the wire harness connectors are free 
+of damage, including corrosion, before plugging into a new 
+camera. Check for corroded or damaged wiring connector 
+problems such as opens or shorts to voltage or ground.
+If the connector terminals are corroded, this may be 
+an indication of water intrusion into the wiring system 
+and possibly into the camera (presumably from a 
+cracked windshield). Replacement of the entire harness 
+is recommended. If the terminals of the camera are 
+corroded, replacement of the camera is recommended. 
+CONNECTOR PIN-OUT AND 
+POWER REQUIREMENTS
+The camera has two connectors. See Figure 6.  
+Pin # Description Nominal Voltage Nominal Current
+1 Module Power 14V/28V (9~32V) 200mA/100mA
+2 Not Used — —
+3 J1939 Low 2.1-2.4V 85mA
+4 J1939 High 2.6-2.9V 85mA
+5 Not Used — —
+6 Private Communications Low 5V 85mA
+7 Private Communications High 5V 85mA
+8 Ground GND (-) 0.000V 200mA/100mA
+9 Ignition Wake-Up 14V/28V (9~32V) 20mA/10mA
+Table 3 – Harness Connector PinsPOWER SUPPLY AND IGNITION 
+VOLTAGE TESTS
+1.  Take all measurements at the camera’s harness 
+connector.
+2.  Place a load (e.g. 1157 stop lamp) across the supply 
+voltage and ground connection. Measure the voltage 
+with the load. The supply voltage on pin 1 to ground 
+should measure between 10 to 16 VDC (Volts DC).
+3.  Repeat Step 2 for ignition voltage on pin 9.
+4.  Check for damaged wiring, damaged or corroded 
+connectors, and loose connections.
+5.  Check the condition of the vehicle battery and 
+associated components. Ensure the connection to 
+ground is secure and tight.
+6.  Using the procedures described by the vehicle 
+manufacturer, check the alternator output for excessive 
+noise.
+Figure 6 – Camera and Harness Connector ViewsThe rectangular connector is a 
+JST [P/N SM09B-HCHK-TB(LF)(SN) 
+(9-pin)]. It mates with a JST harness 
+connector HCHFB-09-KE  
+ that uses female pins 
+JST [P/N SHCM-A03T-P025  
+(tin-plated)].This connector is an Amphenol 
+[P/N HSD-NARP-PCB-12B] 
+(4-pin shielded connector). 
+1 234 56 78 9
+(Looking into the Back of the Harness Connector)Power Supply Pin Codes (4.5)
+152.10  SERIAL DATA (PRIVATE 
+COMMUNICATIONS) 
+TROUBLESHOOTING PROCEDURE
+The Bendix™ FLC-20™ camera requires private network 
+messages to and from the Bendix Fusion system. The 
+camera will set a DTC if these messages are not present, 
+or if there is a problem with the private communications 
+system. Refer to SD-61-4963, Bendix® Fusion™ FLR-21™ 
+Radar Sensor, on B2Bendix.com for full troubleshooting 
+information.
+NOTE:  Confirm there are no DTCs on other components. 
+If there are active DTCs, they should be addressed prior to 
+performing additional troubleshooting procedures. 
+1. Take all measurements at the harness connector unless 
+otherwise indicated.
+ 
+Do not insert any probe into the pin on the mating 
+connector of the sensor that is greater than the width 
+of a terminal. Damaged connector pins will require the 
+replacement of the harness.
+2.  Check for damaged or reversed Private Communications 
+wiring.
+  If the Private Communications HIGH, or Private 
+Communications LOW, wiring circuits are damaged, 
+such as shorting together, the entire Private 
+Communications link will be lost. The problem may be 
+intermittent, enabling the Private Communications link 
+to operate normally sometimes. In this event, multiple 
+diagnostic trouble codes may be logged in the camera 
+and radar.
+  If the Private Communications HIGH, and Private 
+Communications LOW, wiring circuits are reversed, 
+communication over the entire Private Communications 
+link will be lost. Devices that use the affected network 
+will not be able to transmit or receive messages on that 
+network.
+3.  Check for corroded or damaged wiring connector 
+problems such as opens or shorts to voltage or ground.
+4.  If the connector terminals are corroded, this may be 
+an indication of water intrusion into the wiring system 
+and possibly the camera sensor. Replacement of the 
+entire harness is recommended. If the terminals of the 
+camera sensor are corroded, replacement of the sensor 
+is recommended.5.  Check for other Private Communications devices 
+which may be inhibiting communication. The service 
+technician should consult the procedures for Private 
+Communications troubleshooting. The device’s power 
+should be removed and measurements made at the 
+FLC-20 pins for shorts to ground and power pins and 
+resistance between the Private Communications HIGH 
+or Private Communications LOW input circuits.
+6.  Unplug the camera harness. With the ignition switch 
+off, measure the resistance (ohms) using a multimeter 
+between harness pins 6 and 7. The reading should be 
+approximately 120 ohms. If it is not, the vehicle wiring 
+should be investigated.
+2.11  POWER TROUBLESHOOTING 
+PROCEDURES
+1.  Unplug the camera. With the ignition switch ON, using 
+a multimeter, measure the voltage between harness 
+pin 9 and ground. The measurement should indicate 
+10 to 16 VDC (Volts DC). If this is not the case, the 
+vehicle wiring should be investigated using procedures 
+described by the manufacturer.
+2.  Unplug the camera. With the camera ignition switch 
+OFF, using a multimeter, measure the voltage between 
+harness pin 9 and ground. The measurement should 
+indicate zero VDC . If this is not the case, the vehicle 
+wiring should be investigated using procedures 
+described by the manufacturer.
+3.  Unplug the camera. With the ignition switch OFF, using 
+a multimeter, measure the voltage between harness 
+pin 1 and ground. The measurement should indicate 
+10 to 16 VDC. If this is not the case, the vehicle wiring 
+should be investigated using procedures described by 
+the manufacturer.
+  If the connector terminals are corroded or damaged, this 
+may be an indication of water intrusion into the wiring 
+system and possibly into the sensor. Replacement of 
+the entire harness is recommended. If the terminals of 
+the sensor are corroded, replacement of the sensor is 
+recommended.
+4.  Check for other J1939 devices which may be inhibiting 
+J1939 communication. The service technician should 
+consult the vehicle manufacturer’s procedures for 
+other J1939 troubleshooting procedures. The device’s 
+power should be removed and measurements made at 
+the ECU pins for shorts to ground and power pins and 
+resistance between the J1939 HIGH or J1939 LOW 
+input circuits.
+5.  Unplug the camera harness. With the camera ignition 
+OFF, measure the resistance (ohms) using a multimeter 
+between harness pins 3 and 4. The reading should 
+be approximately 60 ohms. If this is not the case, the 
+vehicle wiring should be investigated.
+162.12  COMMUNICATIONS (J1939) 
+TEST AND TROUBLESHOOTING 
+PROCEDURES
+NOTE:  Confirm there are no DTCs on other components. 
+If there are active DTCs, they should be addressed prior to 
+performing additional troubleshooting procedures. 
+The FLC-20 camera requires several J1939 messages 
+from various ECUs. The camera will set a DTC if one of the 
+messages from one of the expected ECUs is not present. 
+Go to the Service Data Sheet listed below for the particular 
+ECU for full troubleshooting information.
+Reference Documents:
+•  Bendix® Fusion™ FLR-21™ Radar Sensor (SD-61-4963) 
+• Bendix® ESP® EC-80™ Controller (SD-13-4986)
+•  SafetyDirect® by Rand McNally® Web Portal 
+Processor (SD-65-21025)
+•  Bendix® Fusion™ FLR-25™ Radar Sensor  
+(SD-29-50022)
+1. Take all measurements at the harness connector unless 
+otherwise indicated.
+ 
+Do not insert any probe into the pin on the mating 
+connector of the sensor that is greater than the 
+dimension of the mating connector. Damaged connector 
+pins will require the replacement of the harness.
+2. Check for damaged or reversed J1939 wiring.
+  If the J1939 HIGH, or J1939 LOW, wiring circuits are 
+damaged, such as shorting together, the entire J1939 
+link will be lost. The problem may be intermittent, 
+enabling the J1939 link to operate normally sometimes. 
+If this occurs, multiple diagnostic trouble codes will 
+be logged in multiple engine and vehicle controllers.  
+ 
+If the J1939 HIGH, and J1939 LOW, wiring circuits are 
+reversed, communication over the entire J1939 link will 
+be lost. Devices that use the affected network will not be 
+able to transmit or receive messages on that network.
+3.  Check for poorly-crimped, corroded, contaminated, or 
+damaged wiring connector problems such as opens or 
+shorts to voltage or ground.2.13  CLEARING DIAGNOSTIC 
+TROUBLE CODES (DTCS)
+Cycle the ignition power, or use the Bendix ACom 
+Diagnostic Software to clear DTCs after troubleshooting – 
+and correcting – any problem with the system.
+173.0 TYPICAL INSTALLATION
+The Bendix FLC-20 camera is installed on the windshield at a position determined by Bendix engineering and the OEM. 
+See Figure 8 and refer to Table 4a for cameras mounted from the top of the windshield. See Figure 9 and refer to Table 
+4b for cameras mounted from the bottom of the windshield. 
+NOTE:  When replacing a camera bracket, temporarily mark the location of the top of the original bracket to help position 
+the replacement.
+ IMPORT ANT
+Use only Bendix-approved windshield adhesive when re-mounting a camera bracket (included with the bracket kit). 
+Bendix recommends replacing the bracket if the bracket and camera have been dislodged from the windshield.
+TOP AND CENTER  OF WINDSHIELD  
+VIEWED FROM INSIDE
+A
+Center line of
+the windshield
+SPECIAL NOTES FOR DISTANCE “A”
+Figure 8 – Bracket Installation Coordinates from Top of Windshield
+TOP AND OFFSET OF CENTER  OF WINDSHIELD  
+VIEWED FROM INSIDE
+A
+BCenter line of
+the windshieldA small “Torpedo” Level is used to 
+make sure the top of the bracket 
+is level. The torpedo level has an 
+angular tolerance of +/-1º
+Center line of
+the windshield
+ACenter line of
+the windshield
+NOTE: Kenworth® T680/880 and Peterbilt® 
+579/567 models do not have a rubber seal.
+Measure down (at the center line mark) from 
+where the printed “frit” pattern’s solid black 
+part ends. NOTE: International® vehicles (except HX® 
+Series models) must measure Distance “A” 
+from the bottom edge of the lower black trim 
+at the top of the windshield.  
+Refer to Table 4a. 
+A
+Center 
+Line MarkB
+18Camera Mounting from the Top of the Windshield
+Vehicle OEM*Vehicle 
+ModelDistance “A” Distance “B” Comments
+Kenworth®T280, T380, 
+T480, T680, 
+T880, W9901.4 in. + 1/8 in. 
+(35 mm + 3 mm)0Windshields have a mark at the center line. The camera 
+bracket is located Distance “A”  downward from the 
+lower edge of the printed border.
+T3702.38 in. + 1/8 in. 
+(60.3 mm + 3 mm)6 in. + 1/8 in. 
+(152 mm + 3 mm)The camera bracket is offset to the passenger’s side 
+of the vehicle by Distance “B”  from the center of the 
+windshield. The camera bracket is located Distance 
+“A” downward from the interior seal of the windscreen.
+Mack®CHU / CXU2 in. + 1/8 in.  
+(51 mm + 3 mm)6 in. + 1/8 in. 
+(152 mm + 3 mm)The camera bracket is offset to the passenger’s side 
+of the vehicle by Distance “B”  from the center. The 
+camera bracket is located Distance “A”  downward from 
+the lower edge of the rubber seal.
+International® HX® Series1.97 in. + 3/16 in.  
+(50 mm + 5 mm) 5.9 in. + 3/16 in.  
+(150 mm + 5 mm)
+The camera bracket is offset to the passenger’s side 
+of the vehicle by Distance “B”  from the center of the 
+windshield. The camera bracket is located Distance 
+“A” downward from the bottom edge of the inner black 
+trim at the top of the windshield.ProStar®,  
+LT® Series, 
+RH™ Series, 
+LoneStar®, 
+DuraStar®1.26 in. + 3/8 in.  
+(32 + 10 mm)5.9 in. + 3/16 in.  
+(150 mm + 5 mm)
+International® 
+IC Bus™CE Series7.125 in. + 1/8 in. 
+(180 mm + 3 mm)6 in. + 1/8 in. 
+(152 mm + 3 mm)
+Peterbilt®536, 537, 
+548, 579, 
+5671.4 in. + 1/8 in. 
+(35 mm + 3 mm)0Windshields have a mark at the center line. The vertical 
+location is between the bracket’s uppermost surface 
+and the nearest surface of the windscreen seal. The 
+camera bracket is located Distance “A”  downward from 
+the lower edge of the printed border.
+337, 3481.18 in. + 1/8 in.  
+(30 mm + 3 mm)0The camera bracket is located Distance “A”  downward 
+from the bottom of the windscreen seal.
+5208.625 in. + 1/8 in. 
+(219 mm + 3 mm)6 in. + 1/8 in.  
+(152 mm + 3 mm)The camera bracket is offset to the passenger’s side 
+of the vehicle by Distance “B”  from the center of the 
+windshield. The camera bracket is located at Distance 
+“A” from the interior upper seal of the windscreen.
+Volvo®VNM / VNL1.3 in. + 1/8 in. 
+(34 mm + 3 mm)0The camera bracket is located Distance “A”  
+downward from the lower edge of the rubber seal. 
+FCCC Utilimaster19.5 in.  
+(495 mm)3.15 in.  
+(80 mm)The camera bracket is located Distance “A”  downward 
+from the lower edge of the aluminum windshield support 
+and the top part of the camera bracket. Distance “B” is 
+taken from the interior face of the middle windshield 
+support to the closest point of the camera to the 
+support.
+* All trademarks shown here are the property of their respective owners and are used for reference only.
+Table 4a – Camera Mounting from Top of Windshield Specifications
+19Camera Mounting from the Bottom of the Windshield
+Vehicle 
+OEM*Vehicle 
+ModelDistance “C” Distance “D”
+Comments
+± ⅛ in. (3 mm) ± ⅛ in. (3 mm)
+Prevost®H3-453.15 in.  
+(80.0 mm)5.12 in.  
+(130 mm)The camera bracket is offset to the passenger’s side of the vehicle by 
+Distance “D”  from the center of the windshield. The camera bracket is 
+located Distance “C”  upward from the inner seal surface.
+Mack®TE7.125 in  
+(181 mm)6 in.  
+(152 mm)The camera bracket is offset to the passenger’s side of the vehicle by 
+Distance “D”  from the center of the windshield. Distance C is taken 
+from the horizontal edge of the seal.
+LR5.125 in  
+(130 mm)6 in.  
+(152 mm)The camera bracket is offset to the passenger’s side of the vehicle by 
+Distance “D”  from the center of the windshield. The camera bracket is 
+located Distance “C”  upward from the lower seal edge. 
+Temsa™TS356.75 in.  
+(171 mm)6 in.  
+(152 mm)The camera bracket is offset to the passenger’s side of the vehicle by 
+Distance “D”  from the center of the windshield. The camera bracket is 
+located Distance “C”  upward from the external rubber seal.
+TS457.375 in.  
+(187 mm)6 in.  
+(152 mm)The camera bracket is offset to the passenger’s side of the vehicle by 
+Distance “D”  from the center of the windshield. The camera bracket is 
+located Distance “C”  upward from the external rubber seal.
+FCCCMorgan 
+Olson5.98 in.  
+(152 mm)2.4 in.  
+(61 mm)The camera bracket is located Distance “A” upward from the dashboard 
+to the lowest part of the camera bracket. Distance “B”  is taken from the 
+middle plane of the windshield to the middle plane of the camera toward 
+the passenger side.
+*NOTE: All measurements are along the surface of the windscreen
+Table 4b – Camera Mounting from Bottom of Windshield SpecificationsFigure 9 – Bracket Installation Coordinates from Bottom of Windshield
+BOTTOM AND CENTER OF WINDSHIELD - VIEWED FROM INSIDE
+CCenter line of
+the windshield
+DA small “Torpedo” Level is used to make sure 
+the top of the bracket is level. The torpedo 
+level has an angular tolerance of +/-1º
+ 
+Whenever re-installing or replacing a camera – 
+for example, after a windshield is replaced – the 
+recommended position for the vehicle must be used. 
+Failure to install the camera in the correct position can 
+result in system Diagnostic Trouble Codes being set, 
+system performance degradation, and/or a collision 
+causing property damage, serious injuries, or death .
+The ambient temperature must be in the range of 50-100º F 
+(10-38º C). Thoroughly clean the area of the windshield 
+where the camera will be installed with a lint-free cloth and 
+a 50-50 water/isopropyl alcohol solution. Make certain that there is no grease or contamination 
+present and that the windshield is completely dry before 
+installing the bracket. 
+Use removable tape or a non-permanent marker to indicate 
+where the top of the bracket will be installed. Remove the 
+protective film from the tape covering the adhesive on the 
+bracket and, using a small “torpedo” level to be sure that 
+it is level, install the bracket on the glass, holding firmly [a 
+minimum of 62 lb. (28.1 kg.) pressure] in place for ten (10) 
+seconds. Wait at least 20 minutes before installing 
+the camera,  at which point a 50% bond strength is 
+created.  The full bond between the bracket and windshield 
+is achieved after 72 hours.
+201. Engage the top of 
+the camera into the 
+bracket2. Rotate the camera 
+into the bracket3. Listen for the click as 
+the bracket engages the 
+cameraIMPORTANT: Double-check that the 
+camera is fully engaged into the 
+bracket. 
+Hinge 
+Point
+ WRONG - TOO WIDEO
+Verify that the channel between 
+them has the same gap all the 
+way around, and pull gently on 
+the camera to check that the 
+tabs at the top and bottom are 
+engaged and that there is no 
+play. 
+Figure 10 – Camera Installation
+To install the camera into the bracket, see Figure 10. 
+1.  Engage the top of the camera into the bracket. There 
+are two channels in the camera that need to line up 
+with the bracket housing, so check to be sure that both 
+sides engage into the bracket.
+2.  While maintaining the engagement at the top of the 
+camera, rotate the rest of the camera body towards 
+the bracket.
+3.  When the camera and bracket meet, there are retaining 
+clips built into the bracket that will snap into place, 
+holding the camera in position.
+ IMPORT ANT
+Double-check that the camera is fully engaged into the 
+bracket by verifying that the channel between them has 
+the same gap all the way around. Pull gently on the 
+camera to check that the tabs at the top and bottom 
+are engaged and that there is no play . See Figure 10. 
+4.  Remove any tape, or temporary marks made, during 
+the installation.3.1 CAMERA REMOVAL
+ 
+Do not use a twisting action when releasing the tabs. 
+Insert the screwdrivers and pry by moving the handles 
+towards each other a small amount. Never twist the 
+screwdrivers as the tabs may break! Replace the 
+bracket if the tab is broken.
+(Two 
+Locations)
+Figure 11 – Camera Release
+See Figure 11. If a camera needs to be removed, locate 
+the two locations at the lower corners where the camera 
+and bracket meet. 
+1.  Insert two medium-sized flat-blade screwdrivers into 
+the slots, fully seating them. 
+2.  Then – gently prying by moving the screwdriver 
+handles away from the windshield a small amount 
+– push against the retaining clips to release the camera. 
+213.2 BRACKET REMOVAL
+The camera must be removed prior to this procedure. The 
+preferred method for removing a bracket ideally requires 
+two technicians. Using a heat-gun, one of the technicians 
+gradually applies heat to the outside of the windshield at 
+the location of the adhesive, while the other gently applies 
+a prying force to the bracket while being careful not to 
+damage the windshield. 
+As soon as the ideal temperature is reached, the bracket 
+will release. Allow the windshield to completely cool down 
+before cleaning the glass and installing a replacement 
+bracket.
+When replacing brackets, use only replacements with the 
+same part number or a direct superceding replacement 
+number supplied by the OEM. 
+NOTE:  Some OEMs may offer the windshield with 
+the bracket pre-installed. Contact the dealer for more 
+information. 
+3.3 DASH SWITCHES AND LAMPS
+Each OEM has their own method for displaying the system 
+status to the driver, and typically there will be a switch on 
+the dash board to allow the driver to temporarily disable the 
+system. Refer to the OEM Operator’s Manual for system 
+indicator lamp(s) used for the FLC-20 camera, and whether 
+there is a bulb-check illumination at vehicle power-up. See 
+Figure 12 for some examples of OEM icons used at the 
+time this document was published.  
+Dash/Switch 
+Icon.
+(The design will 
+vary by vehicle 
+OEM. In some 
+cases, the switch 
+and lamps may be 
+separate.)International®Kenworth®
+Mack®Peterbilt®Volvo®
+* All trademarks shown here are the property of their respective owners and are used for reference only.
+Figure 12 – Dash Switch Icons
+Additionally, the system self-monitors and will set a 
+Diagnostic Trouble Code (DTC) that will typically alert 
+the driver using a similar icon on the dash display or by 
+a status lamp. See Section 2.0,Troubleshooting, for more 
+information.3.4 MAINTENANCE
+In normal use, the Bendix FLC-20 camera needs proper 
+mounting and a clean, properly maintained windshield to 
+ensure a clear view of the road ahead . Protect the camera 
+lens whenever the inside of the windshield is cleaned. You 
+may check that the camera’s view is clear by taking a test 
+image.
+3.5 CAMERA INTERCHANGEABILITY
+When replacing cameras only, use replacements with the 
+same part number (or a direct superceding replacement 
+number supplied by Bendix). After replacing the camera, 
+run the engine for two (2) minutes and verify no faults 
+are present. Once confirmed no faults are shown with 
+the engine running, drive the vehicle for 5 – 20 miles  
+(8 – 32 km) or until a speed sign is displayed by the system. 
+ 
+Cameras of different vehicle models and model years 
+must not be interchanged. The use of an incorrect 
+camera can lead to Diagnostic Trouble Codes (DTCs) 
+being set, and performance degradation – including 
+unnecessary system interventions and the potential 
+for situations where interventions do not occur when 
+they would normally.
+Cameras are designed specifically for a particular vehicle 
+and model. DTCs caused by relocating cameras to an 
+incorrect vehicle may result in the vehicle system using 
+the camera to be partially or fully unavailable.
+If you have questions, contact the Bendix Tech Team at 
+1-800-AIR-BRAKE (1-800-247-2725), option 2.
+Bendix FLC-20 cameras are powered by the 
+Mobileye® System-on-Chip EyeQ® processor with  
+state-of-the-art-vision algorithms. 
+22
+Bendix™ FLR-20™ Radar Sensor 
+Speakers
+Vibrating Seat 
+MotorsRadio 
+Mute
+Video
+Telematics
+ConnectionBendix® 
+ESP® EC-80™ 
+Controller Vehicle 
+SensorsBendix™ Driver 
+Interface Unit 
+(DIU™)
+Battery 12VIgnition 12VGroundJ1939J1939SafetyDirect® by Rand McNally® Web Portal Processor
+4 - J1939 High / 3 - J1939 Low
+8 - LSD Out (Radio Mute Request)
+5 - J1939 High
+6 - J1939 Low
+3 - RS232 TX
+4 - RS232 RX
+11 - Speaker Right (-)
+2 - Speaker Common (+)
+10 - Speaker Left (-)
+15 - Haptic Left
+14 - Haptic Right7 - Switch Input1 - Battery
+1 - BatteryGND (A)9 - Ignition
+9 - IgnitionRS232 TX (B)3
+8 - Ignition
+5 - Ground
+7 - Fusion Private Com. High / 2 - Fusion Private Com. Low
+4
+9
+106 - J1939 Low 
+1 - J1939 High
+8 - Ground
+16 - GroundRS232 RX (C) 6 - Fusion™ Private Com. Low
+13 - Fusion Private Com. Low7 - Fusion Private Com. High
+12 - Fusion Private Com. High2
+5Bendix™ FLC-20™ Camera
+Appendix AAPPENDIX A - BENDIX® FUSION™ SYSTEM COMPONENT SCHEMATIC 
+Mating Connector
+TE 2-174046-2LDW 
+(Enable/
+Disable) Switch
+Disconnect Harness Here if 
+OBC/T is Not in Use. 
+(See SD-65-21025, 
+Section 1.4 )
+On Board Computer/
+Telematics (OBC/T) 
+SystemOBC/T
+23
+24SAFETYDIRECT  is a trademark of RAND MCNALLY .  
+Any references in this document to DURASTAR, EYEQ, HX SERIES, IC BUS, INTERNATIONAL, KENWORTH, LONESTAR,  
+LT SERIES, MACK, MOBILEYE, PETERBILT, PREVOST, PROSTAR, RH SERIES, TEMSA, VOLVO,  
+and any other company or trademark are solely for identification and cross reference purposes. 
+The trademarks are the property of their respective companies. 
+Unless otherwise indicated, the trademarks used in this document, including Bendix, are United States trademarks  
+owned by, or licensed to, Bendix Commercial Vehicle Systems LLC.
+SD-64-20124 Rev 011 ©  2/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr-Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST 

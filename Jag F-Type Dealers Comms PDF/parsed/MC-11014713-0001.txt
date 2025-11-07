@@ -1,0 +1,364 @@
+ 
+Service Campaign  S4437  Febr uary  2025
+ 
+  
+ 
+Mack MMDE GVCU Software       
+ 
+Service Category Service Department   
+ 
+Section Function Group 360 
+ 
+Technician Skill Level  A                           Market : North America    
+ 
+Applicability   
+Mack  
+Model Years                                  Models   
+ 2024-2025                                  MMDe  
+   
+Introduction  
+Mack Trucks has identified that certain  MMDE model trucks may encounter charging 
+issues when using a Heliox brand charger. To address this, a General Vehicle  Control Unit 
+(GVCU ) software update has been developed . Please refer to the instructions in this 
+document to install the update.          
+ 
+Production Change Information  
+This bulletin applies to vehicles built within the specified production changes below.  
+Brand  Engine  Emission Level  Starting Build Date  Ending Build Date  
+Mack  BEV EM-ZE 21-June -2023 24-October -2024 
+ 
+Warranty Information  
+ 
+This repair is covered by an authorized Service Program.  
+Reimbursement is obtained through the normal claim handling process.  
+Claim Type (used only when uploading from the Dealer Bus. Sys.)  B 
+Main Labor Code  Description  Hours  
+1720-16-09-01 Campaign, Gen eral 0.1x10 1.0 
+Causal Part  24444477  
+SCC Authorization 
+Code  S4437  
+Expiration Date  February 28 , 2026 
+ 
+ 
+ 
+ 
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+Required Software Application  
+To update the GVCU software, you’ll need an application called cvFlash . If you haven’t 
+already downloaded it to your PC, please access the cvFlash file and download 
+instructions in the Trucks Dealer Portal. The images below show where to find the files 
+in TDP.   
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+Required Tools and Equipment  
+All tools and equipment listed below  are essential tools for BEV dealers. If you do not 
+already have them, they  can be ordered through Parts  LinQ.  Dealer is responsible  for 
+essential  tool cost and will NOT be covered by th is campaign.   
+  
+Description  Part Number  Image  
+ 
+ 
+ 
+CV Flash License   
+ 
+ 
+88800874  
+ 
+    
+ 
+ 
+ 
+PCAN USB Dongle   
+ 
+ 
+ 
+88800873  
+ 
+ 
+ 
+ 
+PCAN Harness   
+ 
+ 
+88800876  
+ 
+ 
+ 
+ 
+ 
+ 
+SEA Diagnos tic Harness   
+ 
+ 
+ 
+ 
+88800877  
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+eService  Case  
+To receive the software file for the G VCU you will need to create an eService case  under 
+Emo bility  Technical Support . Please include the following   
+• Campaign number SXXXX  and title (Mack MMD E GVCU Software) .  
+•  VIN number.  
+Important Note  
+An eService case is required for every truck, even if  your dealer is perform ing t his campaign 
+on multiple trucks . 
+ 
+Important Note  
+Note the title of the  received file  and save  to a know n location on you PC where you can 
+easily access.  
+ 
+Repair Procedure  
+Important Note  
+Before proceeding with the repair, ensure you have the cvFlash application , all needed 
+equipment,  and have received the software file from eService.  
+ 
+1. Park the vehicle on a level surface.  
+2. Apply parking brake.  
+3. Place the transmission in park or neutral.  
+4. Turn off the ignition.  
+5. Install wheel chocks.   
+ 
+ 
+ 
+ 
+ 
+ 
+6. Connect the cvFlash license flash drive to your PC.  
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+7. Connect the PCAN USB dongle to your PC.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Connect the PCAN harness to the PCAN box.  
+ 
+ 
+ 
+ 
+ 
+ 
+9. Connect the  other side of the  PCAN harness to the  connector labeled CAN 1 on  SEA 
+diagnos tic harness .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+10. Remove the access panel.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Locate the 12 pin SEA diagnostic plug  located inside of the access panel .  
+ 
+Important Note  
+If you cannot locate the SEA diagnostic connector via the access panel, removal of the kick 
+panel may be necessary.  
+ 
+12.  Connect the diagnostic plug to the SEA diagnostic harness.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+13. Open cvFlash on your PC.  
+14. Open the File tab and click on Open Project Package.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+15. Locate and select the save file received from eService.  
+16. You should now see the ‘Flash Run’ sub -menu populated with information.  If no 
+information is populated, repeat steps 14 and 15.  
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+17. Confirm that the drop -down  menu  next to “Initial ” (Outlined in red below) is set to 
+500000.   
+18. Select the Comm. Config tab.  
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+19. Ensure that UDSonCAN  is selected in the “Protocol” drop -down, and PCAN USBBUS is 
+selected in the “Port” drop -down.  
+20. Click “Refresh Ports”.  
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+21. Check to ensure that the canDeviceTxID and canDeviceRxID values in the “Driver” tab 
+are correct. They should both begin with 0x18. If you see 0x98, change the nine to a 
+one.  
+22. Select the Flash Run tab.  
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+23. Turn the ignition key to the “ON” position.  
+24. Select “Start” in the Flash Run tab.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+25. Once the flash procedure has started, a progress bar will appear. Pictured below.  
+26. Once the status bar has reach 100% the message “Validating Download” will appear 
+above the status bar  (Image One ). DO NOT  exit at this point. The flashing procedure is 
+not complete until the status bar goes away and the message “ Download completed 
+Successfully” appears in the bottom lefthand corner  (Image Two ).  
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+27. Exit cvFlash.  
+ 
+28. Turn  ignition key  off. 
+ 
+29. Wait 10 seconds.  
+ 
+30. Turn ignition key on.   
+ 
+ 
+
+ 
+Service Campa ign S4437  February  2025  
+ 
+Mack  MMDE GVCU Software  
+ 
+31. Remove the wheel chocks.  
+ 
+ 
+ 
+ 
+ 
+ 
+32. Release the truck.  

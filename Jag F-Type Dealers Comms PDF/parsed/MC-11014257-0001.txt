@@ -1,0 +1,136 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  10/26/2021 
+SERVICE BULLETIN SUBJECT:  Forty Foot Compressor Snorkel Intake  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-21-151 
+LABOR OPERATION CODE:  N/A 
+ 
+NOTICE! It is expected that this process may require up to  1 hour per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+FORTY FOOT COMPRESSOR SNOKEL INTAKE  RETROFIT  
+Description  
+The procedure adds a snorkel to the input of the air compressor to reduce contamination of the 
+compressor.  
+ 
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• Ratchet  
+• 10mm Socket  
+• 10mm Combination Wrench  
+• Phillips Screwdriver  
+• Side Cutting Pliers  
+ 
+    
+ 
+Kit Parts Required:  
+ 
+• 059515  RETROFIT KIT, AIR COMPRESSOR INTAKE ( Consisting of)  
+• 054841  KIT, AIR FILTER HOUSING RELOCATION TUBE  1 EA  
+• 012138  CABLE TIE, HEAVY DUTY .5WIDE 9.1" BLACK 6 EA 
+• 012108  SWIVEL BUNDLE, SPACER    3 EA 
+ 
+ 
+ 
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+ 
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. This procedure will remove the Compressor Air Intake shown in the first illustration and extend 
+it with a Snorkel as shown in the second illustration.  
+  
+ 
+3. This procedure shows all steps for installing the Snorkel on a 40- foot bus with Aux Heat. This 
+represents the most complex installation. Some steps may be omitted if the Compressor Air Intake is more easily accessible than it is on the bus with Aux Heat shown in this procedure.  
+ 
+4. Open the Trunk Hatch and the Curbside Rear hatch to access the Air Compressor.  
+ 
+ 
+5. Inspect the bus to determine if the Air Compressor Intake Worm Drive Clamp can be loosened with the Compressor Air Filter  Assembly installed.  
+  
+6. If the Intake Worm Drive Clamp is accessible, proceed to step 14 . Otherwise proceed to step 7  
+Intake  
+Clamp  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+7. Using a 10mm Ratchet/Socket and a 10mm Combination Wrench , remove the bolt shown in 
+the following photograph.  
+  
+ 
+8. Using a Flat Blade Screwdriver, loosen the Worm Drive Clamp shown in the Previous 
+Photograph.  
+ 
+9. Remove the Filter Assembly from the bus.  
+  
+ 
+10. Using an 8mm Ratchet/Socket, remove the Compressor Air Intake.  
+ 
+  
+Bolt 
+Clamp  
+Air Intake  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+11. Place the large end of the Hose inside the intake as shown in the following photograph.  
+ 
+ 
+12. Using a #2 Phillips Screwdriver, Secure the Intake to the Hose with a Worm Drive Clamp from 
+the kit.  
+ 
+ 
+13. Using a Flat Blade Screwdriver  and 10mm Wrenches , reinstall the Filter Assembly onto the Air 
+Compressor without the Intake.  
+ 
+
+6 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+14. Test fit the Snorkel and Hose to find the best location for mounting them. The mounting 
+location should be as high as possible  without interfering with any other components.  
+ 
+ 
+15. Using a #2 Phillips Screwdriver, connect the Hose to the Compressor Filter Assembly using a 
+Worm Drive Clamp from the Kit.  
+  
+ 
+  
+ 
+Clamp  
+7 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+16. Using Cable Ties ( 012138) and Swivel Spacers ( 012108), secure the hose along its route.  
+ 
+ 
+17. Using Side Cutting Pliers, trim the ends of the Cable Ties (012138).  
+ 
+18. Close the Side Panel and the Trunk.  
+ 
+19. Remove the Lockout/Tagout devices and return the bus to service.  
+ 

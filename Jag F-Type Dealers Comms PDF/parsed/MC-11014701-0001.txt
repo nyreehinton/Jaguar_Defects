@@ -1,0 +1,181 @@
+GENERAL MOTORS  
+DCS 7163  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  March 3 , 2025 
+  
+Subject:  N242478850  - Service Update  
+ Active Noise Cancelling System Malfunction  
+  
+Models:  2025 Chevrolet Equinox  
+   
+  
+General Motors is releasing  Service Update N242478850  today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow.    
+A Stock VIN list is not included as our records show there are no vehicles in 
+dealer new inventory.  
+ 
+ 
+END OF MESSAGE  
+Service Update  
+N242478850 Active Noise Cancelling System Malfunction   
+ 
+ Page 1 of 4 
+ 
+Release Date : March  2025 Revision : 00 
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.  
+ 
+Make  Model  Model Year  
+From  To 
+Chevrolet  Equinox  2025  2025  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above  may have a condition in which  the active noise cancelling system may 
+malfunction.  
+Correction  Dealers will reprogram the radio control module.  
+Parts  
+No parts are required for this repair.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107769 * Verified Module Software or Calibration Level: Module Is 
+Programmed with Same Level Software or Calibration  0.2 
+ZFAT  N/A 
+9107770 * A11 Radio  Control Module Reprogramming with SPS  
+Add: USB File Transfer for RPO IVD/IVE  
+Add: USB File Transfer for non RPO IVD/IVE  0.3 
+1.0 
+0.5 
+Please Note:  The above labor time(s) are published direct from the Labor Time Guide.  
+Important : * To avoid warranty transaction rejections, carefully read and follow the instructions below:  
+ 
+ 6125814  
+• The Warranty Claim Code from the programming event must be accurately entered in the “Warranty Claim 
+Code” field of the transaction.  
+• When more than one Warranty Claim Code is generated for a programming event, it is required to document all 
+Warranty Claim Codes in the “Correction” field on the job card.   Dealers must also enter one of the codes in the 
+“Warranty Claim Code ” field of the transaction, otherwise the transaction will reject.   It is best practice to enter 
+the FINAL code provided by SPS2.  
+ 
+ 
+ 
+ 
+ 
+
+Service Update  
+N242478850 Active Noise Cancelling System Malfunction   
+ 
+  Page 2 of 4 
+  
+Warranty Claim Code Information Retrieval  
+6125774  
+If the Warranty Claim Code was not recorded on the Job Card, the code can be retrieved in the SPS 2 system as 
+follows:  
+1. Open TLC on the computer used to program the vehicle.  
+2. Select and start SPS2.  
+3. Select Settings  (1). 
+4. Select the Warranty Claim Code tab  (2). 
+The VIN, Warranty Claim Code and Date/Time will be listed on a roster of recent programming events.   If the code is 
+retrievable, dealers should resubmit the transaction making sure to include the code in the SPS Warranty Claim Code 
+field.  
+Service Procedure  
+Caution:  Before downloading the update files, be sure the computer is connected to the internet through a network cable 
+(hardwired). DO NOT DOWNLOAD or install the files wirelessly. If there is an interruption during programming, 
+programming failure or control mod ule damage may occur.  
+Note:  Carefully read and follow the instructions below.  
+• Ensure the programming tool is equipped with the latest software and is securely connected to the data link connector. 
+If there is an interruption during programming, programming failure or control module damage may occur.  
+• Stable battery voltage is critical during programming. Any fluctuation, spiking, over voltage or loss of voltage will 
+interrupt programming. Install a GM Authorized Programming Support Tool to maintain system voltage.   Refer to 
+www.gmdesolutions.com  for further information.    If not available, connect a fully charged 12 V jumper or booster 
+pack disconnected from the AC voltage supply. DO NOT connect a battery charger.  
+• Follow the on -screen prompts regarding ignition power mode, but ensure that anything that drains excessive power 
+(exterior lights, HVAC blower motor, etc) is off.  
+• Please verify that the radio time and date are set correctly before inserting USB drive into vehicle for programming, 
+otherwise an error will result.  
+• Clear DTCs after programming is complete. Clearing powertrain DTCs will set the Inspection/Maintenance (I/M) 
+system status indicators to NO.  
+Important:  The service technician always needs to verify that the VIN displayed in the TLC left side drop down menu and 
+the top center window match the VIN plate of the vehicle to be programmed prior to using Service Programming System 
+2 (SPS2) for programming or re programming a module.  
+
+Service Update  
+N242478850 Active Noise Cancelling System Malfunction   
+ 
+  Page 3 of 4 
+  
+• For the TLC application, service technicians need to always ensure that the power mode (ignition) is “ON” before 
+reading the VIN from the vehicle’s VIN master module and that they do not select a VIN that is already in the TLC 
+application memory from a pre vious vehicle.  
+• If the VIN that shows up in the TLC top center window after correctly reading the VIN from the vehicle does not match 
+the VIN plate of the vehicle, manually type in the VIN characters from the vehicle VIN plate into the TLC top center 
+window and use these for programming or reprogramming the subject module with the correct vehicle VIN and 
+software and/or calibrations.  
+• The Body  Control Module ( BCM) is the  primary  module (for VIP EV vehicles) that TLC reads to determine the VIN of 
+the vehicle.  If the VIN read from the vehicle by TLC does not match the VIN plate of the vehicle, the BCM  also needs 
+to be reprogrammed with the correct VIN, software and calibrations that match the vehicle’s VIN plate.   
+Caution:   Be sure the VIN selected in the drop down menu (1) is the same as the vehicle connected (2) before beginning 
+programming.   
+5743643  
+Important:  If the vehicle VIN DOES NOT match, the message below will be shown.  
+ 5877000  
+5644477  
+ 
+ 
+
+Service Update  
+N242478850 Active Noise Cancelling System Malfunction   
+ 
+  Page 4 of 4 
+  
+Important: Techline Connect screens shown above.  
+Important:  If the same calibration/software warning is noted on the TLC Summary screen, select OK and follow 
+screen instructions. After a successful programming event, the WCC is located in the Service Programming System 
+dialogue box of the SPS Summary screen. No fu rther action is required. Refer to the Warranty section of the bulletin.  
+1. USB programming MUST be performed FIRST before SPS programming 1 and 2. Errors will result if performed in 
+the wrong order . 
+2. Reprogram the Radio Control Module (USB and SPS Programming Part 1 and Part 2). Refer  to A11 Radio: 
+Programming and Setup in SI.  
+5644478  
+Note:  The screensho t above is an example of module programming and may not be indicative of the specific module 
+that is being programmed. Module selection and VIN information have been blacked out.  
+Important:  To avoid warranty transaction rejections, you MUST record the warranty claim code provided on the 
+Warranty Claim Code (WCC) screen shown above on the job card. Refer to callout 1 above for the location of the 
+WCC on the screen.  
+3. Record SPS Warranty Claim Code on job card for warranty transaction submission.  
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the service update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, o r any other purpose.  
+ 
+All GM Certified Pre -Owned (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Managem ent (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the intent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be completed when the 
+customer is in for a regularly scheduled visit.  
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condition.  See your dealer for informa tion on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

@@ -1,0 +1,154 @@
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+IMPORTANT SERVICE CAMPAIGN  INFORMATION  
+No Action Required by Dealer  
+Over -the Air (“OTA”) Information Only  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Please note that all customer inquiries should be directed to the Customer Care  Center at 1 -800-FOR-MERCEDES  (1-
+800-367-6372) . 
+ 
+Sincerely,  
+Gregory Gunther  
+Senior  Manager, Vehicle Compliance & Analysis  
+  TO: Mercedes -Benz Dealer Principals, General Managers, 
+Sales Managers, Service Managers, Parts Managers  FROM:  Gregory Gunther, Senior  Manager, Vehicle 
+Compliance and Analysis, Engineering Services  
+RE:  Service Campaign OTA Notification  
+Communication Module Software  Update  – 
+Mercedes  Me Connect OTA  
+MY20-25 A-Class, C -Class, CLA, CLS, E -Class, 
+EQB, GLB, GLE, GLS, AMG GT 4 -Door , S-Class  
+(118, 167, 177, 205, 213, 222, 238, 243, 247, 
+257, 290  platform ) DATE:  February 7, 2025  
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ Service Campaign OTA Notification  February 7, 2025  
+Campaign No. :  Campaign Desc. :  Communication Module Software  Update  
+– Mercedes Me Connect OTA  N/A 24P54977 45 
+This is to notify you of the Service Campaign OTA  update for the communication module  software  in 230,420  Model Year (“MY”)   
+20-25 A-Class, C -Class, CLA, CLS, E -Class, EQB, GLB, GLE, GLS, AMG GT 4-Door , and S-Class (118, 167, 177, 205, 213, 222, 238, 
+243, 247, 257, 290 platform)   vehicles. The vehicles will not be visible or flagged in VMI or EVA.  
+Background  
+Issue  Mercedes -Benz AG, the manufacturer of Mercedes -Benz  vehicles , has determined 
+that on certain  MY20 -25 A-Class, C -Class, CLA, CLS, E -Class, EQB, GLB, GLE, GLS,  
+AMG GT 4-Door , and S-Class (118, 167, 177, 205, 213, 222, 238, 243, 247, 257, 
+290 platform)  vehicles , the communication software  does not correspond with the 
+latest series production configuration . The communication module will receive an 
+OTA update which includes quality -enhancing optimizations and improve s the system 
+stability and accessibility of Mercedes me services.  The update is downloaded and 
+installed in the background. During installation, the system can be used without 
+restrictions. The new software will become active after the vehicle has been 
+resta rted. 
+What We’re Doing  MBUSA will conduct a n OTA service campaign. Remote software updates are 
+automatically downloaded and installed in the customer ’s vehicle free of charge 
+and do not require  a dealer  visit.  No customer  letter  will be mailed for this OTA 
+software update .   
+Parts  Parts are not required for repair. Remedy software will be pushed via OTA.  
+Vehicles Affected  
+Vehicle Model Year(s)  2020 - 2025  
+Vehicle Model  A-Class, C -Class, CLA, CLS, E -Class, EQB, GLB, GLE, GLS, AMG GT 4-Door , S-Class  
+Vehicle Populations  
+Total Campaign  Population  230,420  
+Next Steps/Notes  
+AOMS/SOMS  AOMs – This OTA  campaign  may generate questions from your dealers.  
+While we regret any inconvenience this may cause, MBUSA is determined to maintain a high level of vehicle quality and custome r 
+satisfaction. Please refer all customer inquiries to the Customer Care  Center at 1 -800-FOR-MERCEDES.  
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+No Service Action is required by 
+the Dealer for this Campaign  
+Over -the-Air (“ OTA”) updates  are performed remotely and do not require 
+a dealer visit. Customers can continue to drive their vehicle. Sufficient 
+battery voltage may be required for the OTA update to be initialized. If 
+the vehicle has not been driven in four or more weeks , the ignition 
+should be cycled to initialize the process .  
+ Instructions to verify a successful OTA update:  
+Dealer s can check for a successful OTA update  in VeDoc , or alternatively 
+the customer can check using the Mercedes me connect App. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+VeDoc  
+Dealers  can search the VIN in VeDoc  (Figure 1, A), then click  "Control Units" and 
+"KOM/ Hermes " (Figure 1, B and C). If the Software Object Number (Figure 1, D) is 
+“XXX9022809 ” then the OTA update was successful.  
+ 
+ 
+            Figure 1  – Successful OTA update in VeDoc  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C B
+ A
+ 
+D
+ 
+ 
+  Mercedes -Benz USA, LLC     A Mercedes -Benz  Group  AG Company  
+One Mercedes -Benz Drive          Sandy Springs , GA  30328                      770.705.06 00 News Channel Update  | 
+ Vehicle Compliance & Analysis  
+ 
+ 
+ 
+Mercedes Me Connect App  
+Customers  can alternatively check the status of the OTA update  using  the 
+Mercedes -me connect App on Android or Apple , by going to the “Vehicle” icon and 
+selecting “Over -the-Air Vehicle Updates” (Figure 2). A successful OTA update will 
+show as “Installed” ( Figure 3 ).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2  – Over -the-Air Vehicle  Updates   Figure 3 – 
+A. Pending  OTA Update  
+B. Successful OTA Update  
+ 

@@ -1,0 +1,108 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 17-NA-050
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Mimamori ECU Download (Health Report)
+Brand: Model: Model Year: VIN: Engine: Transmission
+:from to from to
+Chevrolet3500HD Medium Duty
+(LCF)2016 2017
+— —IZ3
+—4500/4500XD
+Medium Duty (LCF)
+2017
+2025I1B
+5500/5500XD
+Medium Duty (LCF)
+6500/7500XD
+Medium Duty (LCF)2018 I1B, LCB
+Involved Region or Country United States
+InformationImportant: Perform the Mimamori ECU download before clearing the DTC and before di-
+agnosing the vehicle.
+In an effort for continuous improvement, there is a need to obtain Mimamori ECU (Health
+Report) information. It is critical to obtain Mimamori ECU information during the repair
+process. This information will be used to help determine "root cause" for customer's
+concerns and develop/validate a field fix.
+4846261
+When a vehicle is presented to a dealer for repair and a DTC is stored in one or more of
+the control modules listed below, GM requests the Mimamori ECU information be
+downloaded and synchronized using the EL-52244 cable.
+Note: Refer to Warranty Information in this bulletin for the labor operation code when per-
+forming the following scan of the modules.
+• Validate the information is synchronized before claim submission. All claims will be re-
+viewed for this data.Subject:
+Page 2 February, 2025 Bulletin No.: 17-NA-050
+⇒ Engine Control Module (ECM)
+⇒ Transmission Control Module (TCM)
+⇒ Diesel Exhaust Fluid (DEF) Control Module
+Note: When replacing the engine or transmission, the Mimamori ECU report labor is al-
+ready incorporated into the repair and the labor operation mentioned in this bulletin
+should not be used.
+• Perform the Mimamori download when replacing the following.
+⇒ Engine repairs/replacements
+⇒ Transmission repairs/replacements
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Creating A MMU Report
+4969575
+1. Without GDS running, connect the MDI to the DLC and laptop.
+2. Connect the MMU cable EL- 52244 to the MMU port and a USB cable on the laptop.
+Bulletin No.: 17-NA-050 February, 2025 Page 3
+6142839
+3. Select LFC Data Capture.
+6143001
+4. Select Mimamori ECU Download.
+Page 4 February, 2025 Bulletin No.: 17-NA-050
+6143003
+5. Follow the direction on the screen.
+6143021
+6. Select Run.
+Bulletin No.: 17-NA-050 February, 2025 Page 5
+6143037
+7. Select J2534 Device.
+8. Choose the device from the drop-down box.
+6143042
+9. Select the MMU Data Download.
+Page 6 February, 2025 Bulletin No.: 17-NA-050
+6143042
+10. Enter the information as needed in the Box.
+6143042
+• When the blue light starts flashing, the download bar will start counting.
+Bulletin No.: 17-NA-050 February, 2025 Page 7
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION
+6143048
+When the report has completed downloading, the blue light will stop flashing and a message will show that the MMU
+information has successfully uploaded.
+Parts Information
+No parts are required for this repair.
+Warranty Information
+Labor
+OperationDescription Labor Time
+T0803 DRM Download and Sync Use
+Published
+Labor
+Operation
+Time
+Version 8
+Modified Released February 23, 2017
+Revised August 2, 2017 - Removed the 3500/4500 model row, updated 4500 and 5500
+Model Years to 2018 and added a graphic.
+Revised January 12, 2018 - Add 6500XD to Model section.
+Revised February 15, 2018 - Added Creating a MMU Report section.
+Revised October 15, 2019 - Added 2019 and 2020 Model Years
+Revised December 22, 2021 – Revised to add 2021-2022 Model Years.
+Revised August 22, 2022 – Added the 2023 Model Year and updated graphics from step
+3 on.
+Revised February 18, 2025 - Added Important statement, 2024-2025 Model Year and
+RPO LCB.
+Additional SI Keywords: MMU

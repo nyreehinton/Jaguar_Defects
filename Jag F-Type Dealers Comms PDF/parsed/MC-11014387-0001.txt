@@ -1,0 +1,69 @@
+Technical Service Bulletin (TSB)
+Valve Body Replacement
+REFERENCE: TSB: 21-016-25
+GROUP: 21 - Transmission and
+TransfercaseDate: February 14, 2025 REVISION: –
+VEHICLES
+AFFECTED:2024 - 2025 (WS) Wagoneer / Grand Wagoneer
+This bulletin applies to vehicles built on and before August 22, 2024
+(MDH 0822XX) equipped with either the:
+●3.0L I6 Hurricane SO Twin Turbo w/ ESS (Sales Code EFH)
+OR
+●3.0L I6 Hurricane HO Twin Turbo w/ ESS (Sales Code EFC).
+and 8-Spd Auto 8HP75 Transmission (Sales Code DFR).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers must experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle must
+exhibit/set one or more of the following Diagnostic Trouble Codes (DTCs):
+●U0101 - Lost Communication With The Transmission Control Module (TCM).
+●U0402 - Implausible Data Received From TCM.
+●U0418 - Implausible Data Received From Brake System Control Module 1.
+Customers may also comment on the following:
+●Vehicle will go in limp-in mode. After limp-in mode, once in park the vehicle will not shift in gear.
+CAUSE: CAN terminals inside the valve body corrode losing communication with the vehicle.
+REPAIR SUMMARY:
+This bulletin involves replacing the Transmission Valve Body.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+08-95-01-90 Valve Body - Replace
+(0 - Intrroduction)2 - Transmission and
+Transfer Case2.0 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68612242AB Transmission Valve Body Vehicles built up to
+02/15/2024
+1 (AR) 68661447AA Transmission Valve Body Vehicles built on and after
+02/15/2024
+7 (AR) 68218925AB Transmission Fluid
+2 (AR) 68649162AA Clamp, Exhaust
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If DTCs or symptom conditions, other
+than the ones listed above are present, record the issues on the repair order and repair as necessary before
+proceeding further with this bulletin.
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+Remover/Installer Guide Sleeve 10377A –
+Pins, Valve Body Alignment 10379A –
+Joint Pliers, PSA Exhaust System 2049500110 –
+REPAIR PROCEDURE:
+1. Replace the transmission valve body. Refer to the detailed service procedures available in
+DealerCONNECT/ Service Library under: Service Info >21 - Transmission and Transfer Case / Automatic -
+8HP75 / valve body/ Removal and Installation.
+2. Program the TCM. Refer to the detailed service procedures available in DealerCONNECT/ Service Library
+under: Service Info >08 - Electrical / 8E - Electronic Control Modules / Module, Transmission Control
+(TCM) / Module Programming.
+3. Clear all DTCs that may have been set.
+4. Road test the vehicle to verify it's functioning properly.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

@@ -1,0 +1,54 @@
+AfterSalesFeb 3, 2025
+Page 1 of 3Cayenne (E3.I) - GTS & Turbo Low Fuel Pressure
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne 2021 9YABG1
+9YACF1
+9YBBG1
+9YBCF1N /A N /A
+Revision History
+Revision Release Date Changes
+0 October 11, 2023 Original document
+1 January 4, 2024 Update of Service Information & Warranty
+2 February 3, 2025 Update of Service Information & Warranty
+Deletion of Information to remove/replace fuel tank
+Condition
+ The customer complains of an activated check engine light, sometimes in combination with a reduction of engine 
+ power. The fault memory of the DME control unit contains the fault codes P014800 (Fuel Delivery Error) and 
+ P310B00 (High Pressure Fuel System, Bank 2, Pressure). 
+Advanced Technical Information 2Bulletin #: 2327.2
+Part ID: 2066
+AfterSalesFeb 3, 2025
+Page 2 of 3Technical Background
+ These faults can result from the low-pressure fuel system operating outside its pressure tolerances. In the 3D 
+ model, there is a clearance of approximately 19 mm (See Figure 1). It is possible for the component to vibrate over 
+ time, which could lead to the fuel line to be damaged, causing a leak in the fuel line (See Figure 2). 
+Service Information
+ In cases with the above mentioned faults, please replace the low pressure fuel pump in accordance with the infor-
+ mation in the table below.
+Advanced Technical Information 2Bulletin #: 2327.2
+Part ID: 2066
+Figure 1 Figure 2
+Part Part number Workshop Manual
+Low-Pressure Fuel Pump PAB919087G WM, 206619 Removing and installing fuel pump
+AfterSalesFeb 3, 2025
+Page 3 of 3Warranty
+ For documentation and warranty invoicing, enter the working position and PCSS encryption specified below in the   
+ warranty claim:  
+ PCSS encryption:
+Search Items
+ Fuel Tank, Fuel Pressure, DME, P310B00, P014800
+Advanced Technical Information 2Bulletin #: 2327.2
+Part ID: 2066
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+©2025 Porsche Cars North America, Inc.A17523APOS Labor operation I No.
+03350050  On board diagnostic - Fault memory reading out
+03350053  On board diagnostic – Create VAL
+20661950   Fuel pump remove and reinstall
+Location (FES5) 20660 Fuel Pump
+Damage type (SA4) 5000 Pressure too low

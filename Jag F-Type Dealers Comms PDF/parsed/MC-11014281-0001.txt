@@ -1,0 +1,30 @@
+1 
+ 
+ 
+ 
+Units : TriPac 3  
+Description : To support the launch of Campaign 776, d ealers received Glyptal 1201 Red 
+Enamel from an alternative supplier, however, this is not the preferred product 
+recommended by Thermo King E ngineering due to its lower viscosity . Glyptal 
+1201 can still be used by applying two coats . Allow 15 minutes of cure time 
+between coats if using Glyptal 1201.  
+Dealers should have now received a second shipment of the correct Glyptal 
+1201B  Red Enamel , which  is approved by Thermo King E ngineering.  Thermo 
+King recommends verifying  Glyptal 1201B is purchased to support Campaign 
+776, and for future service needs when maintaining equipment. Glyptal 1201B 
+can be purchased from our third- party supplier, Vallen.  
+Service Procedure for Units Already Completed in Field Using Glyptal 1201:  
+1. Technicians/Customer should inspect the amount of Glyptal 1201 coating during the next 
+preventive maintenance service.  
+2. If Glyptal 1201 coating is lacking, remove any corrosion present or replace parts and apply new coating of Glyptal 1201B.  
+Glyptal  1201 Single Coat      Glyptal 1201  Second Coat  
+   
+  
+Date:  January 23, 2025  
+Subject:  TriPac 3 Glyptal 1201 vs 1201B Application  
+Location:  e-Tech Library    Service  Bulletin  
+  SB971 
+ 
+2 
+ 3. Glyptal 1201B only needs a single coat as described in CB776 . 
+ 

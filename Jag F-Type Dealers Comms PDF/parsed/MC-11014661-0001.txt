@@ -1,0 +1,27 @@
+SIB 61 02 25
+DELIVER Y STOP: REPLACE POWER CONTROL  UNIT2025-02-14
+MODEL
+E-Series Model Description Production Date 
+F95 X5 M Sports Activity V ehicle August 13, 2024 – September 3, 2024
+F96 X6 M Sports Activity Coupe May 6, 2024 – August 10, 2024
+G06 X6 Sports Activity Coupe August 19, 2024
+G07 X7 Sports Activity V ehicle April 16, 2024 – August 30, 2024
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  As of February 15, 2025, you can
+see a list of af fected vehicles in Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+BMW AG has issued a Delivery Stop (effective February 14) on certain Model Year 2025 BMW vehicles that
+were produced between April 16, 2024, and September 3, 2024.  
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.  
+ 
+The bulletin will be updated when additional information becomes available.  
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:10 PM 61 02 25_DELIVERY STOP: REPLACE POWER CONTROL UNIT
+about:blank 1/2
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:10 PM 61 02 25_DELIVERY STOP: REPLACE POWER CONTROL UNIT
+about:blank 2/2

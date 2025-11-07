@@ -1,0 +1,205 @@
+  A printed copy is for reference only; publication information can be updated at any time.  
+Always refer to KGIS for the latest information. After logging in kdealer.com,  the newest technical 
+publications are listed in  ‘Service Releases’ and has the latest service information that has been released.   GROUP  MODEL  
+ELE 2024-2025 MY 
+EV9 (MV 1, MV1a ) 
+NUMBER  DATE  
+369 (Rev 1, 2/2 5/2025)  January  2025 
+TECHNICAL SERVICE BULLETIN  
+SERVICE ACTION: REAR MOTOR CONTROL UNIT  
+SOFT WARE  UPGRADE  (SA601) 
+ 
+This bulletin provides information to upgrade the rear motor control unit ‘MCU -R’ software on certain 2024 -
+2025MY EV9 (MV1, MV1a) vehicles produced from September 24, 2023 through January 2, 2025, which may 
+unexpectedly end an EV charging session when usin g a Tesla Supercharger station due to signal interference 
+with the vehicle’s inverter. Follow the procedure outlined in this publication to upgrade the software of the 
+‘MCU_R’ system. Refer to SST081  for software upgrade instructions using Kia Diagnostic System (KDS) tablet 
+and VCI -II. Before conducting the procedure, verify that the vehicle is included in the list of affected VINs.  
+ 
+ 
+ 
+ 
+  
+This bulletin has been revised to include additional information.  New/revised sections of this 
+bulletin are indicated by a black bar in the margin area.  
+ NOTICE  SUBJECT:  
+  
+A Service Action is a repair program without customer notification that is performed during the 
+warranty period. Any dealer requesting to perform this repair outside the warranty period will 
+require DPSM approval.  
+Repair status for a VIN is provided on KDealer+  (Service → Warranty Coverage → Warranty 
+Coverage Inquiry → Campaign Information). Not completed Recall / Service Action reports are 
+available on KDealer+  (Consumer Affairs → Not Completed Recall → Recall VIN → Select Report), 
+which includes a list of affected vehicles.  
+This issue number is SA601. 
+ 
+ NOTICE  
+SERVICE ACTION: REAR MCU S OFTWARE  UPGRADE (SA601)  Page 2 of 5 
+Printed document  copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA601  (Rev 1) EV9 (MV1, MV1a)  January  2025 
+SUBJECT:  
+Refer to TSB SST081  for instructions to upgrade the ‘MCU _R’ system:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To correct this condition, the specified system  module  should be reprogrammed using KDS  
+as described in this bulletin  in ‘Auto Mode ’. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect the negative ( -) terminal to the battery as shown below.  
+  
+ Upgrade Event Name  
+809.MV1 R_MCU Upgrade for Inverter AD (Active D amping) Logic  
+810.MV1a R_MCU Upgrade for Inverter AD (Active D amping) Logic  
+  
+The software update may also be available via Over -The-Air (OTA)  upgrade feature through an 
+‘active’ Kia Connect account for customers.  An OTA software upgrade may not be available at the 
+time a TSB publication is released . Dealers can confirm OTA availability by checking for OTA release 
+notes on the Kia Owners Portal :  OTA Software Update Release Notes . If the affected vehicle had 
+the latest software installed via OTA, no further action is required by the dealer . 
+Note : An OTA installed software is time -stamped for each VIN.  
+ IMPORTANT  
+  Page 3 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA601 (Rev 1) EV9 (MV1, MV1a) January  2025 
+SERVICE ACTION: REAR MCU  SOFTWARE  UPGRADE (SA601)  
+ SUBJECT:  
+ROM ID I nformation Table: 
+ 
+Upgrade Event # 809 (MV1)  
+ 
+ 
+ 
+MY Model  System  IMMO  ECU P/No.  ROM ID  
+Previous  New 
+2024 -
+2025  EV9 
+(MV1)  MCU_R  Yes 36601  1XHN0  EMVDE23NERS7  010 
+EMVDE24NERS8  010 EMVDE24NERS9  010 
+To verify the vehicle is affected, be sure to check the Calibration Identification of the vehicle's ECM ROM ID  
+and reference the Information Table as necessary.  
+ 
+ 
+ 
+Upgrade Event  #810 (MV1a)  
+ 
+ 
+ 
+MY Model  System  IMMO  ECU P/No.  ROM ID  
+Previous  New 
+2025  EV9 
+(MV1a)  MCU_R  Yes 36601  1XHN1  EMVAE24NERS0  010 EMVAE24NERS1  010 
+36601  1XHN0  EMVDE23NERS7  010 
+EMVDE24NERS8  010 EMVDE24NERS9  010 
+To verify the vehicle is affected, be sure to check the Calibration Identification of the vehicle's ECM ROM ID  
+and reference the Information Table as necessary.  
+ 
+  
+It is recommended to ALWAYS check the Electronic Parts Catalog (EPC) to locate the ECU Part 
+Number respective to Auto/Manual Mode ROM IDs. DO NOT reference the parts label affixed to 
+the ECU.  
+ IMPORTANT  
+  
+It is recommended to ALWAYS check the Electronic Parts Catalog (EPC) to locate the ECU Part 
+Number respective to Auto/Manual Mode ROM IDs. DO NOT reference the parts label affixed to 
+the ECU.  
+ IMPORTANT  
+SERVICE ACTION: REAR MCU S OFTWARE  UPGRADE (SA601)  Page 4 of 5 
+Printed document  copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA601  (Rev 1) EV9 (MV1, MV1a)  January  2025 
+SUBJECT:  
+Software In formation : 
+ 
+The required software must be installed by selecting  
+the ‘Auto Mode’  ECU Upgrade  option . 
+ 
+Note : In some case s, the ‘Manual Mode’ installation 
+option may be required  ONLY  if the ‘Auto Mode’ 
+function fails  or is otherwise  noted above .  
+ 
+ 
+‘Manual Mode’ passwords.  
+Event  # Menu  Password  
+809 MV1 R_MCU: 36601 -1XHN0  8910  
+810 MV1a R_MCU: 36601 -1XHN1  1001  
+MV1a R_MCU : 36601 -1XHN0  8910  
+ 
+UPGRADE EVENT:   
+ 
+Select the applicable ‘MCU_R ’ ‘system ’ module and 
+‘Event Group’  number in the  ECU Upgrade . 
+ 
+• 2024 -2025MY EV9 (MV1) - Korea Built  
+809.MV1 R_MCU upgrade for inverter AD 
+(Active Dumping) logic  
+ 
+or 
+ 
+2025MY EV9 (MV1a)  – US Built  
+• 810.MV1a R_MCU upgrade for inverter AD 
+(Active Dumping) logic”  
+ 
+Verify the affected vehicle Calibration Identification of 
+the applicable  ECU ROM ID and reference the 
+Information Table on page 3 as necessary.  
+ 
+  
+If the automatic upgrade fails, turn the ignition ‘OFF’ for about 10 seconds then place it back in the 
+‘ON’ position to reset the control unit BEFORE performing the manual upgrade.  
+ NOTICE  
+  Page 5 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA601 (Rev 1) EV9 (MV1, MV1a) January  2025 
+SERVICE ACTION: REAR MCU  SOFTWARE  UPGRADE (SA601)  
+ SUBJECT:  
+AFFECTED VEHICLE RANGE : 
+Model  Production Date Range  
+EV9 (MV1, MV1a)  September 24, 2023 t o January 2, 2025  
+  
+REQUIRED TOOL:  
+  Tool Name  Part Number  Figure  Comments  
+Kia Diagnostic System  
+(KDS)  N/A 
+ KDS + VCI-II 
+Required  
+WARRANTY INFORMATION:  
+N Code : N99    C Code : C99 
+ Model  Claim 
+Type  Causal 
+P/N Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+MV 
+V 36601  
+1XHN0  0 (SA601 A) 
+MCU_R Software 
+Upgrade  SA601 MV1 
+0.3 
+M/H N/A 0 
+MV1a  (SA601 B) 
+MCU_R Software 
+Upgrade  SA601MVA  
+ 
+ 
+ 
+ 
+  
+  
+VIN inquiry data for this repair is provided for tracking purposes only. Kia retailers should reference 
+SA601 when accessing the KDealer+  system.  
+ 
+ NOTICE  

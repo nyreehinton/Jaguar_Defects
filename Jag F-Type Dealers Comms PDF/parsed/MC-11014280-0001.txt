@@ -1,0 +1,538 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-155
+Service BulletinDate: February, 2025
+TECHNICAL
+Radio Software Update Version is W38E-174.4.1-M170-SQBR5-180.4
+This Service Bulletin replaces PIT6047D, PIT6048B, and PIT6174. Please discard all
+previous versions of PIT6047, PIT6048, and PIT6174.
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Cadillac LYRIQ 2023 2023
+— — — — Chevrolet Colorado 2023 2023
+GMC Canyon 2023 2023
+Involved Region or Country North America, Middle East, Cadillac Korea (South Korea)
+Additional Options (RPOs) Equipped with RPO IVD
+ConditionSome customers may comment on software related issues. Continuous improvement
+software updates are being released with improvements made in several areas.
+Cause The causes of the condition may be software anomalies.
+CorrectionA new radio software update, version is W38E-174.4.1-M170-SQBR5-180.4, was
+released to service for vehicles equipped with Infotainment system RPO IVD being
+brought into the service department. In addition to providing general robustness and
+stability enhancements, this update includes all enhancements from previous software
+version releases. Along with the vehicles mentioned above; fleet customers may need
+the dealer to reprogram the radio with the new software package.
+Caution: to avoid potential programming errors, ensure both programming events (Pro-
+gramming and USB File Transfer) are performed.Subject:
+Important: Improvements will vary by model, build configuration, system, and sales region. Not all vehicles have all
+features.
+Most notable improvements contained in this release may include:
+Camera:
+• The screen may go black when in a camera view
+• Camera views may overlap
+• Cargo Bed Camera is not mirrored
+• Cargo Bed Camera may not be available
+• False pedestrian notification on Rear View Camera
+• Intermittently the Rear View Camera will show the no camera icon
+• May not be able to exit the camera app because there is no menu or X button
+• Rear View Camera may not work properly with Quick Start Up on
+• Rear View Camera always on
+• Rear View Camera will not work properly
+• The camera may flicker
+• The cameras may not work after a cold boot
+Page 2 February, 2025 Bulletin No.: 24-NA-155
+• The heated seat screen may overlay the Rear View Camera
+• The Parking Assist may not show indicators
+• The Rear View Camera may be slow to load
+• The side camera angles may be incorrect
+• When the radio loses the speed signal the camera view will go away
+• While using Automated Park Assist there may not be a camera view
+• Delayed camera screen
+• Blank screen with grid lines
+• Rear View Camera image freezes for a short period
+• Green screen
+• Front View Camera has Rear View Camera viewing options
+Displays:
+• "Your Audio will be Muted" message for Teen Driver doesn't display
+• B1D73-04 may set in the radio, along with DTCs in the BCM for the VCD
+• Black screen
+• Drive mode titles and icons overlap
+• Icon changes
+• Not able to switch from Flow theme to V series theme
+• Pop-up message may not have icons
+• Porch view may stop working
+• Radio display may not dim at night
+• SWC audio source change does not show on VCD
+• The screen may be distorted when shifting from Reverse to Drive
+• Volume bar listed as Navigation instead of Voice for OnStar call
+• When switching from Driver to Guest, "tseuG" shows on the status bar
+• User may see "Update Failed. See dealer to restore system" OR Black Screen
+• Brightness adjustment may not change screen brightness
+• Rear HVAC control screen may be brighter than set
+• Radio hard buttons may not work
+• Audio source list stuck on display
+• Audio unavailable message
+• Auto Start Stop icon overlaps speed when there is a pop-up message
+• Blank cluster display
+• Cluster screen may freeze
+• Map view may be slow to load
+• DIC may overlap with gauge
+• Navigation information may not show in Zone 3
+• Cluster flickers
+• Android icon pops up while switching cluster views
+• Prevent ellipsis from showing on cluster
+• Selected cluster view may not be saved after vehicle shutdown
+• Best fuel economy is blank
+• Audio message appears over gauges when creating new user profile
+• The vehicle ahead green telltale may overlap with the speed info
+Bulletin No.: 24-NA-155 February, 2025 Page 3
+• IPC and ICS info mismatch
+• Cluster layout issues
+• Blank Screens and/or Update Failed Screen after low voltage/dead battery
+• Speedometer not updating
+• Both displays black screen
+• No Touch Response on radio display
+• Display illumination improvements
+• Cluster screen flickers
+• Black radio screen at startup
+• Delayed Cluster bring up
+• Blank Cluster display with telltales
+• PRND stuck on reverse
+• eAWD telltale not activating
+• Radio Display Illumination Too Dark Compared to Cluster Display
+• Fuel Economy scale missing
+• Cannot remove Cluster Info tile
+• HUD black screen for key cycle
+• CarPlay maps black screen on Cluster display
+• HUD blank with radio setting B19B0
+• Offroad display stuck on
+• HUD missing info and not responsive
+• Quickly switching between Cluster views causes display failures/hang ups
+• (Cadillac only) Radio display flickers after using MFC
+• HUD not working after deep sleep
+• Radio display loss of touch and erratic dimming
+• HUD settings not remembered
+• Speed Limit icon will not disappear when driver setting set to Hide
+• IPC and HUD info mismatch
+• Cluster navigation option missing
+• Blank Cluster display
+• Transmission temperature gauge color on Cluster shows red hot when vehicle is within operating temperature
+range
+• Cluster reset
+• Lane lines don't show colored in Cluster Assist layout
+• Navigation route on Cluster display is not still shown after ignition cycle with STR
+• Android System message at start up
+• HUD shows cruise at "0" instead of "--" when no speed is set
+• Vehicle info apps show "Add to Driver Display" when already shown
+• Display layout issues
+• Drive mode app flickers when changing modes
+• Pressing "Turn Off Display" can cause the display to get stuck in a flickering/resetting cycle
+• Service Display message and loss of radio screen and virtual controls
+Stability:
+• Lagging
+Page 4 February, 2025 Bulletin No.: 24-NA-155
+• Radio may not fully shut down, but looks off
+• Radio may reset while the camera views keep being switched
+• Slow bootup time
+• Maps and/or audio app may crash
+Phone:
+• Removing the Text play buttons when Alexa is the assistant
+• Text messages might not be seen on display
+• When CarPlay is connected you can't access Alexa
+• With CarPlay the first phone call of every ignition cycle will cause CarPlay to disconnect
+• Voice recognition pass through to the connected phone may not work
+• When trying to exit android auto, display goes black
+• CarPlay disconnects when radio is off and passthrough voice recognition is activated
+• Phone app will not launch while wired android auto is connected
+• Delete paired device confirmation appears twice
+• Apple CarPlay and Android Auto will disconnect after about 5 minutes
+• When Bluetooth is not the audio source there is no audio chime for incoming text messages
+• Wired Android Auto might reconnect instead of Bluetooth
+• Bluetooth may not reconnect
+• Voice Recognition pass through has no audio response
+• An incoming Bluetooth call ringtone might have a sound when answering
+• CarPlay audio still through vehicle when toggled to phone
+• Phone auto-connect not functioning after profile change
+• Incoming call alert not shown when in another call
+• Android Auto shows wireless charging icon incorrectly
+• Text messages pop up not shown in vehicle
+• Bluetooth audio lost after voice assistant long press
+• "Add Phone" button not working
+• No sound when using Android Auto
+• Call Ended shown incorrectly when disabling call profile
+• Phone pairing dialog pops up every key cycle
+• Call timer shows negative value after call reconnect
+• Cannot launch Android Auto/Apple CarPlay
+• Cannot repair Bluetooth devices
+• Text message notification sound not heard
+• CarPlay Siri does not work after SWC long press radio reset
+• Phone screen shows blank when canceling in progress Bluetooth pairing
+• Bluetooth audio start up volume too high
+• Bluetooth crashes when cable is unplugged
+• Bluetooth device listed twice in media
+• Cannot pair device as pair mode stuck OFF
+Virtual Controls:
+• Customer will be unable to rename garage door
+• HVAC virtual controls might not work
+Bulletin No.: 24-NA-155 February, 2025 Page 5
+• May not be able to exit the Virtual Controls app
+• The Virtual Controls app can be opened with the radio off
+• The Virtual Controls app may not open
+• Headlight controls may be covered by HVAC controls
+• Ride height adjustment may not work
+• Virtual controls, such as headlights, may not work
+Other Apps:
+• The MyBrand app may not launch
+• The Owner's Manual may have no information
+• Park Assist does not function
+• Tire pressure missing
+• Trailer app may default to "lite" mode instead of full mode, losing some options
+• Vehicle model may not show on vehicle status screen
+• Vehicle information app crashes when pressing energy info
+• Auto parking app will not show animations and camera video feed
+• Teen Driver volume limit may not be consistent from one key cycle to another
+• Auto Park Assist tells the driver they have to shift when they don't
+Programming:
+• After an OTA update, new features may not be activated
+• During USB updating the process might fail at the 21-minute mark
+• If a customer interrupts an OTA and dismisses the message, every time they shift from Park to Drive the
+message will return until the update is done
+• Radio shows the old part number after programming until it is rebooted
+• Radio stuck on How to Complete This Update Screen after USB update
+• When updating from R3 to R5 any custom pages will be lost
+• Display goes black at 21 minutes remaining in update
+• Wrong firmware version could be displayed in settings
+• "LCDD Data Provisioning failed" message after attempting provisioning
+• The LCDD write can take too long
+• "Update Unsuccessful" message stuck on until full sleep cycle.
+• "Vehicle Software Updates are available" does not show on every ignition.
+• Radio screen shows no icons after programming.
+• Speed limit shows dashes after SW update.
+• Blank screen during USB programming.
+• USB recovery status bar shows on cluster display.
+• Cannot enable Quick Start Up after USB Update.
+• No success pop up or record of USB updates
+Radio:
+• Battery drain from radio of 3A
+• Radio may not leave Quick Start Up mode and go to off
+• Radio may not turn off when RAP is cancelled
+• Radio thinks the vehicle is in Drive so customer is unable to access pages where the vehicle must be in Park
+• The radio may not power back on
+Page 6 February, 2025 Bulletin No.: 24-NA-155
+• Audio distorted
+• Audio pauses during projection
+• No audio
+• Possible noise on startup
+• Two sources playing audio at the same time
+• When switching to the MaxPower drive mode the audio may stop
+• While a traffic announcement comes in while using voice recognition the audio bar name will show
+Announcement
+• Customer may hear turn signal chime/clack without turn signal active
+• No audio after phone call
+• At startup, Bluetooth audio is too loud
+• No Bluetooth audio after starting Nav. Route
+• Stability improvements.
+• RVC does not work or shows red triangle.
+• Delayed RVC bring up.
+• Cannot launch Android Auto/Apple CarPlay.
+• Infotainment lockout while driving not working.
+• HVAC screen missing icons/text.
+• Bad audio quality.
+• (Cadillac only) MFC press not functioning.
+• (Cadillac only) MFC focus issue.
+• CarPlay black screen.
+• No audio.
+• Radio stays on Bluetooth instead of Android Auto/Apple CarPlay.
+• Virtual Controls not responding when pressed during welcome animation.
+• Add Phone button not responding.
+• Welcome animation freezes.
+• Camera view selection not available.
+• Overspeed chime does not continuously play.
+• Pop Up Window layout issues.
+• Welcome animation plays twice after quick door open ignition on.
+• Reset Trip not functioning.
+• Add profile stuck loading.
+• Universal Remote settings do not respond correctly.
+• Ambient Lighting app crashes.
+• Ambient lighting app not working.
+• Ambient Lighting missing audio selection feedback.
+• Forward camera exits at speeds lower than target speed.
+• Radio does not respond/freezes.
+• Driver settings not being saved.
+• Trailering Light Test screen stuck.
+• Android Auto display shifted on the screen.
+• Android Auto/Apple CarPlay won't launch after switch user.
+• Profiles page blank after deleting new profile.
+Bulletin No.: 24-NA-155 February, 2025 Page 7
+• Radio resets after sleep cycle.
+• Audio app crashes.
+• RVC stays on incorrectly.
+• Audio does not lower for notifications.
+• Switching themes not working.
+• (EV only) Audio issues when using MaxPower Mode.
+• Tire pressure not updating (vehicle info).
+• Audio plays during a call.
+• Audio settings page layout errors.
+• Blank screen when pushing back button on teen driver add key pop up.
+• Virtual Lighting controls not functioning.
+• Wrong units shown.
+• Temperature on radio display not updating.
+• OnStar TBT starting audio sometimes does not play.
+• Bluetooth media continues playing after source change.
+• Pop up disappears too quickly.
+• Bluetooth media not shown when phone connected.
+• Presets change order after key cycle.
+• Bluetooth media queue not correctly showing.
+• Radio crashes when long pressing power button.
+• Bluetooth not working.
+• Bluetooth will not reconnect.
+• Button layout errors.
+• Radio sets DTC B1596.82 with no impact to RVC function.
+• RVC launches on its own.
+• Camera app exit and view selection buttons don't come up.
+• Some buttons do not respond.
+• Camera app layout and views distorted.
+• System settings not retained over key cycle.
+• Camera view selection not available.
+• Theme cards missing.
+• Cameras do not close while driving or when in park.
+• Trailer profile notifications persist.
+• Cannot control Ambient Lighting.
+• Trailering total mileage not updating.
+• Turn By Turn error message displays incorrectly.
+• Cannot open virtual controls window.
+• User account name not updating.
+• VCU stuck in GUEST user.
+• Virtual controls do not respond when camera view is up.
+• Can't dismiss pop ups.
+• Voice search not available when driving.
+• Can't sign into Google Play Store.
+• Window position Virtual Controls not working.
+Page 8 February, 2025 Bulletin No.: 24-NA-155
+• CarPlay screen changes to home screen on its own.
+• XM not available.
+• (EV only) Charge battery pop up does not come up when using Max Power below SOC level.
+• Audio stuck on Bluetooth source.
+• Climate app not functioning.
+• Camera DTC B1C47 set incorrectly.
+• Connect Phone list dialog box shows excess material.
+• Crash from SXM Browse Screen.
+• Phone app unresponsive to touch.
+• Podcasts show default album art.
+• Date/Time display errors out when turning off vehicle.
+• Pop ups not appearing.
+• Profile loading repeats.
+• Radio app layout errors.
+• Radio display defaults to Virtual Controls screen on ignition.
+• Radio does not retain last screen after sleep cycle.
+• Driver PIN is not cleared after software update.
+• Radio presets not working.
+• Radio resets during emergency call.
+• Embedded apps not updating.
+• Radio stays on around 20 seconds after vehicle shutdown.
+• Embedded Maps app view distorted.
+• RVC does not brighten in dim settings.
+• Emergency announcement does not interrupt audio from other sources.
+• RVC screen flickering.
+• Exit "X" button not working on some apps.
+• Service tire pressure monitor message shown incorrectly.
+• External Wi-fi password not saved.
+• Favorites window shifting.
+• QuickStartUp fails to resume.
+• Geofencing creation issues.
+• SXM favorites do not play audio.
+• Geofencing positioning errors.
+• Teen driver options not responding.
+• Google Assistant pop up does not display.
+• Third party app not shown on new user profile.
+• Google Maps freezes when editing route during route calculations.
+• Traffic Signal Recognition telltale not following driver setting.
+• Trailering app crashing.
+• Trailering notification missing.
+• HVAC menu doesn't provide feedback when changing fan speed.
+• HVAC Temp Knob doesn't respond.
+• Incorrect Google Map data shown.
+• Incorrect information when on two calls.
+Bulletin No.: 24-NA-155 February, 2025 Page 9
+• Turn signal sounds plays incorrectly.
+• Incorrect pop up for Auto Park Assist cancellation.
+• USB auto-rejected for corrupt song.
+• Incorrect translation.
+• VCU resets and U164E set in multiple modules.
+• Vehicle image missing in Vehicle Info App.
+• Keyboard does not pop up when entering password.
+• Virtual Controls App will not open.
+• LCDD provisioning fails and gets stuck.
+• Virtual controls window sized incorrectly and cuts off some buttons.
+• Loss of all audio and chimes over key cycle.
+• Voice assistant pop up stuck.
+• Welcome animation missing vehicle model.
+• Media app plays incorrect source.
+• Wi-Fi name and password cannot be changed.
+• WOW Mode animation not working.
+• XM Media app shows "Unavailable" but music is playing.
+• (Cadillac only) MFC rotation not functioning.
+• MyBrand won't install.
+• Navigation crashes.
+• No data on connected devices.
+• Radio display start up animation failed.
+• Camera UI not responding after shift from PARK.
+• Camera gridlines incorrectly sized.
+• OnStar call stuck on connecting screen.
+• OnStar missing location notification during calls.
+• Climate app not functioning with pop up "vehicle must be running" when vehicle is already running.
+• Radio loses some connected services function after factory reset.
+• Active Noise Cancellation creating loud droning and other audio abnormalities inside of vehicle
+Charging App (EV only):
+• Charging app does not support Tesla stations
+• IPD may still show charging for 10 seconds after going into propulsion
+• May not be able to open the Charging app
+• May not be able to set the charge level
+• When searching for nearby stations in the energy app it may get stuck on the loading screen
+• When trying to log into a MyBrand account through the Charging app nothing happens
+• Cabin Pre-Conditioning not functioning in energy app
+• Vehicle may not be able to use a DC Fast Charger
+• Charge Scheduling did not work.
+• Screen turns off when launching Charging app.
+• Charge App inoperable.
+• Missing dialogue info for charge complete/stopped.
+• Schedule home screen formatting issues.
+• Charging App cannot access data.
+Page 10 February, 2025 Bulletin No.: 24-NA-155
+• Cannot set charge level
+SXM:
+• No audio
+• “XM Loading” message
+• No XM audio after a USB update
+• French translation may be incorrect
+HUD:
+• During a navigation route the first maneuver may show as a grey box on the HUD instead of an arrow
+• HUD blank
+• Prevent ellipsis from showing on HUD
+• Incoming call notification overlaps distance on HUD
+• HUD is warped
+Settings:
+• Customer will not be able to turn off Lane Assistance
+• The ambient lighting setting no longer has 1216 colors
+• The energy efficiency graph may get stuck
+• Turning blind zone assistant on or off doesn't do anything
+• Radio does not exit demo mode on owner registration screen
+Wi-Fi:
+• Removed Easter Egg page from tapping the QR code button a specific way
+• Vehicle may not have a data connection for embedded apps or connected devices
+• Wi-Fi may not work
+Super Cruise:
+• Super Cruise may not work
+MFC:
+• Multi-function Controller might not work to switch users
+IVE Radio Only:
+• Correcting text alignment in the Front Command Center
+Non-NA:
+• Energy app crashes when language is changed to Chinese
+• In Non-Connected regions, the Cluster might show a map view when it should not
+• May not be able to exit the camera app because there is no menu or X button
+• Radio content may not display on the DIC in Gauge view
+• The DAB Tune screen does not show a station list
+• China Only - Schedule Service button should not be an option
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Bulletin No.: 24-NA-155 February, 2025 Page 11
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Caution: Before downloading the update files, be sure the computer is connected to the internet through a network
+cable (hardwired). DO NOT DOWNLOAD or install the files wirelessly. If there is an interruption during programming,
+programming failure or control module damage may occur.
+• Ensure the programming tool is equipped with the latest software and is securely connected to the data link
+connector. If there is an interruption during programming, programming failure or control module damage may
+occur.
+• Stable battery voltage is critical during programming. Any fluctuation, spiking, over voltage or loss of voltage will
+interrupt programming. Install a GM Authorized Programming Support Tool to maintain system voltage. Refer to
+www.gmdesolutions.com for further information.  If not available, connect a fully charged 12V jumper or booster
+pack disconnected from the AC voltage supply. DO NOT connect a battery charger.
+• Follow the on-screen prompts regarding ignition power mode, but ensure that anything that drains excessive
+power (exterior lights, HVAC blower motor, etc) is off.
+• Please verify that the radio time and date are set correctly before inserting USB drive into vehicle for
+programming, otherwise an error will result .
+• Clear DTCs after programming is complete. Clearing powertrain DTCs will set the Inspection/Maintenance (I/M)
+system status indicators to NO.
+Important: The service technician always needs to verify that the VIN displayed in the TLC left side drop down
+menu and the top center window match the VIN plate of the vehicle to be programmed prior to using Service
+Programming System 2 (SPS2) for programming or reprogramming a module.
+• For the TLC application, service technicians need to always ensure that the power mode (ignition) is “ON”
+before reading the VIN from the vehicle’s VIN master module and that they do not select a VIN that is already in
+the TLC application memory from a previous vehicle.
+• If the VIN that shows up in the TLC top center window after correctly reading the VIN from the vehicle does not
+match the VIN plate of the vehicle, manually type in the VIN characters from the vehicle VIN plate into the TLC
+top center window and use these for programming or reprogramming the subject module with the correct vehicle
+VIN and software and/or calibrations.
+• The Engine Control Module (ECM) is the master module (for VIP vehicles) that TLC reads to determine the VIN
+of the vehicle. If the VIN read from the vehicle by TLC does not match the VIN plate of the vehicle, the ECM
+also needs to be reprogrammed with the correct VIN, software and calibrations that match the vehicle’s VIN
+plate.
+• The Body Control Module (BCM) is the master module (for GEM vehicles) that TLC reads to determine the VIN
+of the vehicle. If the VIN read from the vehicle by TLC does not match the VIN plate of the vehicle, the BCM
+also needs to be reprogrammed with the correct VIN, software and calibrations that match the vehicle’s VIN
+plate.
+Caution: Be sure the VIN selected in the drop down menu (1) is the same as the vehicle connected (2) before
+beginning programming.
+Page 12 February, 2025 Bulletin No.: 24-NA-155
+5743643
+Important: If the vehicle VIN DOES NOT match, the message below will be shown.
+5877000
+Bulletin No.: 24-NA-155 February, 2025 Page 13
+5644477
+Important: Techline Connect screen shown above.
+Important: If the same calibration/software warning is noted on the TLC Summary screen, select OK and follow
+screen instructions. After a successful programming event, the WCC is located in the Service Programming System
+dialogue box of the SPS Summary screen. Record the WCC on the job card. No further action is required. Refer to
+the Warranty Information section of this bulletin.
+1. Reprogram the radio. Refer to A11 Radio: Programming and Setup .
+Page 14 February, 2025 Bulletin No.: 24-NA-155
+5644478
+Note: The screenshot above is an example of module programming and may not be indicative of the specific module
+that is being programmed. Module selection and VIN information have been blacked out.
+Important: To avoid warranty transaction rejections, you MUST record the warranty claim code provided on the
+Warranty Claim Code (WCC) screen shown above on the job card. Refer to callout 1 above for the location of the
+WCC on the screen.
+2. Record the SPS Warranty Claim Code on the job card for warranty transaction submission.
+Warranty Information
+For vehicles repaired under warranty, use:
+Labor Operation Description Labor Time
+2810335* Radio Reprogramming with SPSUse Published Labor
+Operation Time
+Important: *To avoid warranty transaction rejections, carefully read and follow the instructions below:
+Bulletin No.: 24-NA-155 February, 2025 Page 15
+Labor Operation Description Labor Time
+6125814
+• The Warranty Claim Code must be accurately entered in the “Warranty Claim Code” field of the transaction.
+• When more than one Warranty Claim Code is generated for a programming event, it is required to document all Warranty
+Claim Codes in the “Correction” field on the job card.  Dealers must also enter one of the codes in the “Warranty Claim
+Code” field of the transaction, otherwise the transaction will reject. It is best practice to enter the FINAL code provided by
+SPS2.
+Warranty Claim Code Information Retrieval
+6125774
+Page 16 February, 2025 Bulletin No.: 24-NA-155
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONIf the Warranty Claim Code was not recorded on the Job Card, the code can be retrieved in the SPS2 system as
+follows:
+1. Open TLC on the computer used to program the vehicle.
+2. Select and start SPS2.
+3. Select Settings (1).
+4. Select the Warranty Claim Code tab (2).
+The VIN, Warranty Claim Code and Date/Time will be listed on a roster of recent programming events. If the code is
+retrievable, dealers should resubmit the transaction making sure to include the code in the SPS Warranty Claim
+Code field.
+Version 2
+Modified Released August 13, 2024
+Revised February 07, 2025 – Added the Cadillac LYRIQ, RPO IVD, and second
+Important statement under Service Procedure.

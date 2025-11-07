@@ -1,0 +1,74 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Climate system heating performance (HVCH)Ref. No.
+TJ 36257.7.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/3/25Status Date
+1/27/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+8760
+Function Description
+Auxiliary heater, electrically operatedPage
+Page 1 of 3Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+* This Technical Journal is updated in its entirety.
+If customer experiences poor heating performance from the Climate system and it has the 
+permanent DTC listed, please follow advice under service.
+HVCH = High Voltage Coolant Heater        
+CSC   Customer Symptom Codes
+Code Description
+UJ Parking heater/Does not work
+8E Temperature control/Heater not hot enough in front section
+KK Temperature control/Heater not hot enough
+TN Temperature control/Heater does not work
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+CCM U133A93 Permanent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+224 2019-9999 - 201835-999952
+225 2019-9999 - 201817-999952
+227 2019-9999 - 201846-999952
+234 2017-2017 - 201617-999952
+235 2017-9999 - 201624-999952
+236 2017-9999 - 201646-999952
+238 2018-9999 - 201646-999952
+246 2018-9999 - 201717-999952
+256 2016-9999 - 201505-999952
+Page 2 of 3 2025-01-27
+Technical Journal 36257 .7 .0SERVICE:
+Note: 
+Please follow the CSC fault trace in VIDA to define the lock status of the HVCH.
+There may be three different HVCH statuses:
+• Locked until Next Start (follow VIDA fault trace)
+• Locked until Service (follow VIDA fault trace)
+• Locked permanently (proceed with replacement of the HVCH)
+If the Permanent DTC-U133A93 and VIDA HVCH status is confirmed as permanently locked 
+according to the component test, proceed with the replacement of the HVCH according to VIDA.
+*Note: Ensure additional Heater is turned on in the Center Screen Display (CSD), If this is 
+turned off you will have no heat pure mode. 
+  
+Warranty claim info:
+To get warranty claim accepted for the labor part described in this TJ, please use following data:
+VST OP number: 87614-2.
+Note: Warranty claim will only be accepted if the Permanent DTC-U133A93 is set prior repair 
+and the HVCH is Permanently locked.
+VST   Operation Number
+VST Operation Number Description
+31130-2 High voltage disconnect/reconnect
+87614-2 Engine coolant heater electrical remove-install/replace
+31133-3 Isolation testing high voltage system
+36001-2 Diagnostic trouble codes resd / reset / known Diagnostic trouble codes with VIDA
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+8760.
+Improved HVCH introduced in production from structure week 202309, if there is a HVCH failure 
+after this structure week, please submit a TIE Report “Vehicle Report - Support Not Needed” for 
+case building.

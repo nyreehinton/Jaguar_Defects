@@ -1,0 +1,19 @@
+Part Number:
+Part Description:
+Issue
+Description:9100446 02/12/2025 MY 23-25 WL
+GPOP  - Issue Review System
+68617742A$
+Frt Stabilizer assembly
+BSR from the front end due to Smartbar (disconnecting front sway bar). Root cause was
+identified as anti-rotation bracket (connects the actuator to the stabar) coming loose due to
+inadequate clamp load at the joint and weld (holds the bolt shaft and bracket flange) was
+poorly designed. If any vehicle causes BSR because of this Bracket failure (loose joint/
+bracket bends) DO NOT  replace whole stabar assembly , instead replace with the service kit
+(PN#68730602AA). Dealer must need to order the parts from part ordering system for this
+claim. This kit contains 1 bracket (PN 68730603AA), 3 M10 Nut (PN 68730605AA), 2
+M8X1.5 Bolt (PN 68730606AA) and 2 M10X1.5 bolt (PN 06513427AA). 1 M10 Bolt (PN
+68730607AA). This kit will also contain a new torque instruction for the bolt which holds the
+clamp bracket to this failed anti-rotation bracket. DO NOT  apply the old torque (45+/5Nm
+Direct torque). The new torque is Angle controlled torque monitor (20Nm Snug torque, 1 10
+deg Angle, monitor torque within 40-70Nm). Please use Service Library for your reference.

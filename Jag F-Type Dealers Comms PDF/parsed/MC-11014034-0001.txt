@@ -1,0 +1,187 @@
+SIB 12 01 25
+SERVICE ACTION: PROGRAM CONTROL  UNITS (DME)2025-02-06
+ 
+THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description
+F97 X3 M Sports Activity V ehicle
+F98 X4 M Sports Activity Coupe
+G80 M3 Sedan
+G82 M4 Coupe
+G83 M4 Convertible
+G87 M2 Coupe
+ 
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+SITUA TION
+BMW AG has decided on a service campaign for certain vehicles from the F9x and G8x series.
+ 
+Please have the control unit (DME) programmed in the vehicles concerned (according to the vehicle
+identification number selection), if possible, before vehicle delivery .
+ 
+If vehicles have already been delivered, have the measure carried out the next time the vehicles enter the
+workshop.
+ 
+CAUSE
+DME software error . MIL  (malfunction indicator lamp) is not activated by the OBD monitor when fault code
+P15A3 is stored.
+ 
+CORRECTION
+DME software update.
+ 
+PROCEDURE
+Programming via IST A-
+Connect the battery charger to the vehicle 
+Connect the vehicle to IST A. 
+Determine the measures plan
+Accept or work through the entire measures plan with the control units to be
+programmed/encoded and, if necessary , activated 
+Follow the rework list. 
+Depending on the rework list, carry out a vehicle test and delete the fault memory , if required
+ 
+Notice: No further system change is required after the integration of the programming in IST A 4. Please
+check the rework list accordingly!
+ 
+ISTA 4.51.1x with installed service data package is required for the programming/encoding.
+ 
+The solution is included from the following I-level versions:
+•           I-level S18A-24-1 1-550 or later (available from IST A 4.51.1x, released since 01/17/2025)
+•           I-level S15A-24-1 1-550 or later (available from IST A 4.51.1x)
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 12 01 25_SERVICE ACTION: PROGRAM CONTROL UNITS (DME)
+about:blank 1/5
+ 
+Important Note: It is imperative that programming is carried out with the above- mentioned, or a
+more recent I-level!
+ 
+Note that IST A will automatically reprogram and code all programmable control modules that do not have
+the latest software.
+ 
+Please note the programming information in the workshop system and the corresponding notes in the user
+documentation.
+ 
+CLAIM INFORMA TION
+During this workshop visit, the af fected vehicle may also show one or more programming and encoding Technical Campaign
+repairs open, the programming and encoding procedure may only be invoiced one time.
+ 
+Select one of these open T echnical Campaigns to perform and submit for updating the vehicle to the required I-level
+or higher instead when applicable (This includes 00 00 006 or 00 00 556, 61 21 528, and 61 00 730).
+ 
+Please be sure to also perform any additional before and/or after work (including attaching labels) as required by
+the open campaigns on the vehicle. Close any other open programming and encoding Campaign repairs as outlined
+in the corresponding Service Information Bulletin.
+ 
+Reimbursement for this Action will be via normal claim entry , as determined by the above, by selecting and
+submitting for the work package information below that applies.
+ 
+Plusposition (+)Completion before the first vehicle delivery to a customer (New in-stock/No in-
+service date), or the vehicle is already in the workshop for another reason
+and/or repair , identified by the “(Plusposition)”  reference in the descriptions
+below .
+Main workThe vehicle arrives for this Recall, no other Main work will be
+performed/claimed during this workshop visit, identified by the “(Main work)”
+reference in the descriptions below .
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Repair Code: 0012320600 ---
+ 
+Remote Software Upgrade (RSU) Status - Ready to be Installed.
+ 
+Work Package Labor Operation Description Labor Allowance
+# 1 00 78 503Remote Software Upgrade performed
+(Plusposition)2 FRU
+Or:    
+# 2 00 78 003Remote Software Upgrade performed
+(Main work)3 FRU
+ 
+Or:
+ 
+Vehicle Programming and Encoding
+ 
+Work Package Labor Operation Description Labor Allowance
+# 3 00 78 502Programming and encoding the vehicle
+control units, includes Carrying out
+vehicle test (00 00 556/61 21 528)
+(Plusposition)8 FRU
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 12 01 25_SERVICE ACTION: PROGRAM CONTROL UNITS (DME)
+about:blank 2/5
+Or: 
+  
+  
+ 
+# 4 00 78 002Programming and encoding the vehicle
+control units, includes Carrying out
+vehicle test (00 00 006/61 21 528) (Main
+work)10 FRU
+ 
+Or the:
+ 
+Vehicle is already at the Specified T arget Integration Level or Higher
+ 
+Work Package Labor Operation Description Labor Allowance
+# 5 00 78 504Either in conjunction with another
+campaign/repair prior to or during
+this workshop visit (The RSU is
+excluded), the vehicle is already at the
+specified Target integration level or
+higher , no repair is necessary
+(Plusposition)1 FRU
+Or: 
+  
+  
+ 
+# 6 00 78 004Either in conjunction with another
+campaign/repair prior to or during
+this workshop visit (The RSU is
+excluded), the vehicle is already at the
+specified Target integration level or
+higher , no repair is necessary (Main
+work)1 FRU
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission/reimbursement purposes. Also,
+only one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and in the claim
+comments (For example: B12 01 25 WP  3), unless otherwise required by State law .
+ 
+Programming and Encoding – Additional W ork (RO and Claim Comments Required)
+ 
+This procedure automatically reprograms and encodes any vehicle control modules that do not have the latest software I-
+level. 
+ 
+If one or more control modules fail during the reprogramming procedure, claim the required consequential
+repair work procedures to address this issue (including performing the IRAP  Control Unit Recovery first as
+required, refer to the SIB in AIR) under the Repair Code in this bulletin together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that applies.
+ 
+Please explain the additional work procedures that were performed (The why and the what) on the repair order and in the
+claim comments.
+ 
+For covered repairs that addresses preexisting control module failures that occurred prior to performing this
+repair-related programming and encoding procedure, claim this work with the Repair Code listed in AIR
+together with the corresponding labor operation codes and their flat rate unit (FRU) allowance(s), including
+the diagnosis* that applies.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 12 01 25_SERVICE ACTION: PROGRAM CONTROL UNITS (DME)
+about:blank 3/5
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 12 01 25_SERVICE ACTION: PROGRAM CONTROL UNITS (DME)
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.2/10/25, 5:47 AM 12 01 25_SERVICE ACTION: PROGRAM CONTROL UNITS (DME)
+about:blank 5/5

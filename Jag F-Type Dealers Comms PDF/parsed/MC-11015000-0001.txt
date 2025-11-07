@@ -1,0 +1,39 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250024 Released Date : 10-F eb-2025
+Overvoltage F ault Codes: Air Compr essor E quipped Units
+Overvoltage Fault Codes: Air Compressor Equipped
+Units
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+Service Model Name
+BES CM2450 EV107B
+BES CM2450 EV110B
+BES CM2450 EV111B
+Application:
+Air compr essor equipped units only
+Issue Summar y
+Sympt om:
+Recurring, Intermittent F ault Codes indicating the component is seeing an “ overvoltage ” on
+the high v oltage input
+The following fault codes:
+7921
+7966
+7988
+13538
+15235
+15244
+Root Cause:
+Document Hist ory
+Last Modified:  10- Feb-2025System contr ol module (SCM) calibr ation issue causing v oltage spik es in high v oltage
+components during shutdown pr ocess while air compr essor is running.
+Verification
+Confirm unit is equipped with air compr essor .
+Key the v ehicle on and enable high v oltage.
+One or mor e of the following fault codes ar e inactiv e: 7921, 7966, 7988, 13538, 15235, 15244.
+Resolution
+If an SCM calibr ation code update for this fault code is a vailable, the SCM calibr ation code r evision
+must  be that r evision or higher .
+Date Details
+2025-2-6Module Cr eated

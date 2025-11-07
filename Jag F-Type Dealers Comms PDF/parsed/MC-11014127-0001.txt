@@ -1,0 +1,52 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+BEV IHFA Internal Processor Failure DTCsRef. No.
+TJ 36309.13.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/2/24Status Date
+1/29/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3233
+Function Description
+Electric converter, high voltagePage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+*Update in Service
+If a customer experiences a “Propulsion System Performance” message in the DIM in combination 
+with Diagnostic Trouble Code IHFA P060C04 and/or IHFA P060C00 please follow the 
+instructions under “Service” . 
+IHFA: Inverter High Voltage Front Axle
+DIM = Driver Information Module
+DTC = Diagnostic Trouble code
+CSC   Customer Symptom Codes
+Code Description
+AJ Driving/Poor performance/lacks power
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+IHFA P060C04 Permanent
+IHFA P060C00 Permanent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+536 ED E400V6 2021-2023 - 202037-202316
+539 ED E400V6 2022-2023 - 202139-202316
+Page 2 of 2 2025-01-29
+Technical Journal 36309.13.0SERVICE:
+*A software solution is introduced with version 3.3.16. Perform a software upgrade according to TJ 
+31543.
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the VST OP number below.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software Control Module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub-concern area “Support Needed” , use function group 3233.

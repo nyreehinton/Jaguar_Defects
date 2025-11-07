@@ -1,0 +1,168 @@
+AfterSalesFeb 26, 2025
+Page 1 of 7Surround View Camera Intermittent Operation
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+911 As of 2020 up to 2024 992 N /A KA6
+Revision History
+Revision Release Date Changes
+0 March 4, 2024 Original document
+1 April 1, 2024 Update of Service Information & Warranty
+2 August 28, 2024 Update of PartID
+3 February 26, 2025 Update of MY
+Condition
+ Customer complains of intermittent operation for one or multiple surround view cameras. Failed surround camera(s)   
+ appear blank with a crossed-out camera icon. 
+  
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+Figure 1
+AfterSalesFeb 26, 2025
+Page 2 of 7Technical Background
+ Any component failure of the surround view system can lead to a single or a combination of surround camera images  
+ being blank within the PCM display. 
+ Fault codes that may be present include: 
+ - C12**02 - X peripheral camera, video wiring, Signal error  - B127*54 - X camera, calibration
+ - B127*04 - X camera faulty      - B200FFA - Surround View camera - internal   
+            fault
+Service Information
+ The countermeasure currently consists of a two-part repair that should be performed to the vehicle during separate
+  visits to the workshop. Repairs made must be accompanied by supporting diagnostic work with objective evidence
+  of the issue, e.g., pictures or videos. Refer to the steps below for instructions.
+ Vehicle’s first visit for this concern:
+ 1. Create a Pre-VAL.
+ 2. Verify the concern is isolated to the surround view system. 
+ 3. Replace the components listed:
+  a. All four surround view cameras
+  b. Both side view mirror wiring harnesses
+  c. Both door wiring harnesses (containing coax cables)
+  d. Front bumper wiring harness
+  e. Rear bumper camera cable (image below for reference)
+ 4. Verify operation of the surround view system after the repair has been  
+  completed.
+ 5. Create a Post-VAL. 
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+Figure 2
+AfterSalesFeb 26, 2025
+Page 3 of 7 Vehicle’s second visit for this concern:
+ 1. Create a Pre-VAL.
+ 2. Verify the concern is isolated to the surround view system & ensure the previous repair has been performed   
+  correctly and completely.
+ 3. Perform the next repair: 
+  a. Replace zFAS control unit.
+  b. Overlay new coax cables from ZFAS control unit to: (Part Numbers are from VW/ Audi)
+   i. Front bumper wiring harness
+    - zFAS connector housing: 6Q0_035_576
+    - Bumper connector housing: WNK70000004  (Porsche Part Number from Campaign
+        WNK7)
+   ii. Rear bumper cable connection
+    - zFAS connector housing: 6Q0_035_576_B 
+    - Bumper connector housing: 4L0_035_576_A
+   iii. Both door wiring harnesses
+    - zFAS connector housing (driver side): 6Q0_035_576_D
+    - zFAS connector housing (passenger side): 4L0_035_576_C
+    - A-pillar connector housing: 6Q0_035_575_A
+ Recommended using VAS 6720 & Wire Insertion Tool Set  (e.g. Snap-On - WINS1000R).
+ IMPORTANT: Ensure no material is removed from any grommet when piercing and do NOT  drill any holes. Avoid   
+ damaging wires by pointing insertion tool AWAY  from wires while penetrating.
+ 4. Verify operation of the surround view system after the repair has been completed.
+ 5. Create a Post-VAL.
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+Figure 3
+Snap-On - WINS1000R
+AfterSalesFeb 26, 2025
+Page 4 of 7 Additional Service Information:
+ • Pictures above are of driver side camera overlay to zFAS control unit from A-pillar connector. Grommet of   
+  use is for the missing clutch master cylinder. 
+ • If the vehicle is a manual, refer to the pictures below to be used for driver side camera overlay. Passenger   
+  footwell grommet is to also be used for rear and passenger camera overlays. When overlaying wires, ensure
+  wires are secured to existing harnesses and area of piercing is properly sealed. 
+ • Recommended points of piercing are designated by green X’s.
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+Figure 4
+Cabin Side - Clutch Master Cylinder Grommet
+Figure 5
+Exterior Side - Clutch Master Cylinder Grommet
+Figure 6
+Cabin Side - Passenger Footwell GrommetFigure 7
+Tub Side - Passenger Side 
+Grommet
+AfterSalesFeb 26, 2025
+Page 5 of 7
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+Figure 8
+Rear Camera Connection Point (Right Rear Taillight)Figure 9
+Front Camera Connection Point 
+(Front Right Wheel Well)
+Figure 10
+Door Harness Connection Point (1)Figure 11
+Door Harness Connection Point (2)
+AfterSalesFeb 26, 2025
+Page 6 of 7Warranty
+ 
+ For documentation and warranty invoicing, enter the working position and PCSS encryption specified below in the   
+ warranty claim:
+ 1st Workshop Visit:
+ * 50 TU may be claimed for 97591999.
+ 2nd Workshop Visit:
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+APOS Labor operation Option Specific
+03350050                             On board diagnostics
+03350053                             On board diagnostics (Pre-VAL)
+91691900 Front camera remove and reinstall
+91671901 Side camera remove and reinstall (left)
+91671902 Side camera remove and reinstall (right)
+91435500 Reversing camera control unit replace
+97151952 Wire harness front remove and reinstall
+66791905 Rear-view mirror housing remove and reinstall 
+(left)
+66791906 Rear-view mirror housing remove and reinstall 
+(right)
+97321903 Door wire harness remove and reinstall (left)
+97321904 Door wire harness remove and reinstall (right)
+97591999* Rear camera coaxial cable replacement
+03350063     On board diagnostics (Post-VAL)
+APOS Labor operation Option Specific
+03350050                             On board diagnostics
+03350053                             On board diagnostics (Pre-VAL)
+85141900 Air inlet housing remove and reinstall
+97090912 Main wire harness loosen and fasten (engine 
+compartment – right)
+AfterSalesFeb 26, 2025
+Page 7 of 7  
+                 ** Only actual time elapsed up to a maximum of 600 TU, verified by a seperate identifiable time punch, may be 
+                        claimed for 97091999.
+                   *** Option specific to be claimable.
+ PCSS encryption:
+Search Items
+ 992, 911, RTV, surround, camera, reverse
+Advanced Technical Information 9Bulletin #: 2407.3
+Part ID: 9172
+©2025 Porsche Cars North America, Inc. F18079Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.APOS Labor operation Option Specific
+97090901 Main wire harness loosen and fasten (luggage 
+compartment – left)
+97090902 Main wire harness loosen and fasten (luggage 
+compartment – right)
+92191900*** Wiper link remove and reinstall
+68171900*** Console remove and reinstall (PDK) PDK
+68171905*** Console remove and reinstall (Manual) Manual
+70411952 Front floor covering remove and reinstall 
+(right)
+70291900 Trim panel for seat well remove and reinstall
+70851900 Roof trim panel rear remove and reinstall
+97091999** Create and overlay new coaxial cables from 
+zFAS control unit to surround cameras
+97090910*** Main harness loosen and fasten (convertible 
+top – right)Cabriolet
+03350063     On board diagnostics (Post-VAL)
+Location (FES5) 91720 Surround view camera control unit
+Damage type (SA4) 1613 No function occasionally

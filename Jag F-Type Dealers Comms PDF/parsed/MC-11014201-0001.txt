@@ -1,0 +1,275 @@
+L-SB-0001 -24 Rev1  January 24, 2024  
+ 
+Battery Inspection and Maintenance During PDS  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 7 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  ES250, ES300H, ES350, 
+GX550, IS300, IS350, 
+IS500, LC500, LC500C, 
+LC500H, LS500, LS500H, 
+LX600, LX700H, NX250, 
+NX350, NX350H, NX450H+, 
+RC F, RC300, RC350, 
+RX350, RX350H, RX450H+, 
+RX500H, RZ300E, RZ450E, 
+TX350, TX500H, TX550H+, 
+UX300H   
+ 
+ 
+ 
+  REVISION NOTICE  
+January 24 , 2025  Rev1:  
+ Applicability  has been  updated  to include  2025  model year LX 700h  vehicles.  
+ The Introduction and Required Tools & Equipment sections have been updated.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 2 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction  
+A battery in a stored vehicle is subject to conditions that can reduce its performance and service 
+life. These conditions include storage period, temperature, parasitic drain, and battery load. 
+Because of these factors, battery inspection and maintenance a re required in order to ensure 
+proper operation and optimal battery life.   
+ 
+Refer to the table below for a definition of terms used in this bulletin.  
+Table 1.  
+TERM  ACRONYM  DEFINITION  
+Conventional  Vehicle  CV A vehicle with  only a gasoline  engine  for propulsion  
+Electrified  Vehicle  EV A vehicle that utilizes a hybrid, plug -in hybrid, or battery 
+electric system for propulsion  
+Hybrid  Electric  Vehicle  HEV A vehicle with both a gasoline engine and a HV Battery  
+Plug-in Hybrid  Electric  Vehicle  PHEV  A vehicle with both a gasoline engine and a HV Battery that 
+can be charged externally  
+Battery Electric Vehicle  BEV A vehicle with only a HV Battery that can be  
+charged externally  
+State  of Charge  SOC  The remaining capacity available in a battery  
+12-Volt 12V Standard  12V battery  used  to power  electrical  systems  
+separate  from high voltage  components  
+High Voltage  HV HV Battery  used  to power  the electrified  vehicle  
+ 
+Electrified vehicles are equipped with two types of batteries, a  HV battery and a 12V battery. 
+Conventional vehicles are equipped with only a 12 V battery.  
+ 
+As a matter of policy, Lexus does not provide battery warranty coverage for discharged and/or 
+failed batteries due to lack of maintenance. It is the dealer’s responsibility to maintain t he specified 
+SOC of the vehicle’s battery while in stock and ensure proper SOC at delivery.  
+ 
+To reduce customer service concerns due to an undercharged battery, ALL dealers should test 
+the 12V battery and recharge, if necessary, no more than 48 hours befor e delivery to  
+the customer.  
+ 
+ 
+  CAUTION  
+Refer to the precautions listed in the DSS-5000 Instruction Manual  and DCA -8000 Instruction 
+Manual  located at  TIS – Diagnostics – Tools & Equipment – Battery Diagnostics . 
+ 
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 3 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+DSS-5000 Battery Diagnostic Tool*  DSS-5000P T  1 
+DCA -8000 Battery Diagnostic Tool*  DCA -8000P T  1 
+*Essential SST.  
+ 
+ 
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi * 
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+  NOTE  
+Additional SSTs may be ordered by calling 1-800-368-6787  or by visiting  
+Home – Service Resources – Lexus  Special Service Tools (SSTs).  
+NOTE  
+ Only ONE  of the Techstream units listed above is required.  
+ GTS+ software version 2024.04.00 4.02 or later is required . 
+ Additional Techstream  units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787  or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 4 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Battery Inspection Procedure  
+Test the 12V battery using the DSS -5000 Battery Diagnostic Tool’s PDI mode or the DCA -8000 
+Battery Diagnostic Tool’s PDS/PDI  mode. ALWAYS perform the battery test directly on the battery 
+terminals, avoid testing the 12V  battery using alternate charging posts or grounds.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Battery Inspection Results  
+The PDS/PDI mode was developed to confirm the battery's State of Charge (SOC) to ensure  
+the proper operation and optimal battery life. The DSS -5000 will check the battery's SOC and 
+recommend charging when necessary. The DCA -8000 will check the battery's SOC and  
+automatically charge the battery. Once the PDS/PDI mode completes, proceed with o ne of the 
+procedures below according to the battery condition results.   
+ 
+DSS-5000 Results  
+1. “PDI Complete ” – Return the battery to service.  
+2. “PDI Incomplete ” – Fully charge the battery using the DCA -8000 in PDS/PDI mode.  
+3. “PDI Fail” – detected a battery concer n, test the battery using the DCA -8000  in 
+Advanced Battery Test  mode.  
+ 
+DCA -8000 Results  
+1. “PDS/PDI Complete ” – Return the battery to service . 
+2. If the PDS/PDI mode detects a battery concern, test the battery using the DCA -8000 in 
+Advanced Battery Test  mode.  
+ 
+  NOTE  
+ ALL vehicles MUST be inspected and charged no more than 48 hours BEFORE delivery to  
+the customer.  
+ Ensure ALL doors stay closed and lights remain OFF during battery testing and charging . 
+ For details on how to use the battery diagnostic station, refer to the DSS-5000 Instruction Manual   
+and DCA -8000 Instruction Manual  located at TIS – Diagnostics – Tools & Equipment –  
+Battery Diagnostics . 
+ 
+NOTICE  
+In vehicles equipped with both a 12V battery and a hybrid  battery, the DSS -5000 and  
+DCA -8000 Battery Diagnostic Tool is ONLY to be used on the 12V battery.  
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 5 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Battery Replacement Procedure  
+If a ve hicle battery ne eds to be replaced for a 
+warrantable condition, complete a Warranty 
+Battery Label and affix it to the failed battery for 
+proper warranty parts and claim processing. 
+Include the Vehicle Identification Number 
+(VIN) and warranty code on the Warranty  
+Battery Label.  
+  Figure 1. 
+ 
+ 
+ 
+ 
+Periodic  Battery Maintenance  
+In addition to this pre -delivery battery test, periodic battery maintenance  is still  required for stored 
+vehicles. If your dealership is in an area subject to extreme  temperatures (hot or cold), periodic 
+maintenance may need to be performed  more frequently.  
+ 
+If the vehicle is stored for over 30 days, be sure to follow Long -Term Vehicle Storage Guidelines . 
+ 
+To reduce parasitic battery drain on vehicles  that are placed  in storage for one week or more, the 
+negative ( –) battery cable should ALWAYS be disconnected to reduce battery discharge.  
+When the negative  (–) battery cable is reconnected, check and reset electrical  components, such 
+as the clock, radio, etc., and  re-initialize ALL applicable  systems/functions.  
+ 
+Refer to the appropriate model and year Repair M anual for torque specifications : 
+Repair Manual – General – Maintenance – Battery – Installation . 
+ 
+ 
+ 
+  
+
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 6 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Maintenance for HV Battery during PDS (HEV and PHEV  models)  
+The SOC of the HV battery may have gradually decreased during the time the vehicle was being 
+transported to your dealership. To prevent the HV battery from deteriorating, perform the following 
+maintenance service at the time of PDS.  
+Charging the  HV battery  
+1. Park the vehicle in open air or connect the 
+exhaust extraction hose to the exhaust pipe.  
+2. Apply the parking brake.  
+3. With the brake pedal depressed, select the 
+power switch to the “START” mode, and 
+check that the “READY” light in the 
+combination meter illuminates when the 
+hybrid system starts (the “READY” light  
+is ON).  
+4. Turn OFF ALL lights and accessories.  
+5. Check that the shift lever is in the  
+“P” position.  
+6. Keep the “READY” light ON and charge the 
+HV battery for 30 minutes.   Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ If the amount  of charging energy is small,  the display may NOT indicate  the energy flow. 
+ Ensure  there  is a sufficient  amount  of fuel in the vehicle to run for at least 30 minutes.  
+HINT  
+The HV battery can also be charged by driving the vehicle for 30 minutes.  
+ L-SB-0001 -24 Rev1  January 24, 2024  Page 7 of 7 
+Battery Inspection and Maintenance During PDS  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Maintenance for HV Battery during PDS (BEV models)   
+ 
+BEV models store electricity received via an external power source in the HV battery. The SOC of 
+the HV battery may have gradually decreased during the time the vehicle was being transported 
+to your dealership reducing vehicle range. To prevent the HV batt ery from fully discharging, 
+perform the following procedure at the time of PDS to maintain the charge level of the HV battery.  
+ 
+ 
+1. If the warning light is displayed ON within the combination meter, charge the HV battery via the 
+AC charging method.  
+ 
+Table 2. 
+CONNECTED  
+POWER SOURCE  CHARGER  AC 
+CHARGING CABLE  DC CHARGING  AC CHARGING  
+Charging Voltage  Avoid using  
+DC charger  
+for supplementary 
+charging during 
+long-term storage, 
+prefer AC charging  AC 220 – 230 V  
+Charging Current  32 A 16 A 8 – 10 A 
+Charging Time Approximately 
+30 Minutes  Approximately 
+60 Minutes  Approximately 
+90 Minutes  
+ 
+2. After charging has been completed, verify the HV battery warning light is OFF before storing 
+the vehicle long -term. If the HV battery warning light is still ON after charging, repeat the 
+charging process.  
+ 
+ 
+ 
+ 
+ 
+ 
+ NOTE  
+ Model -specific information for charging the HV battery, charging equipment, and charging method  
+can be referenced from the vehicle’s owner’s manual. Avoid using the DC charger for supplementary 
+charging during PDS.  
+ For additional vehicle care points, reference the model specific PDS bulletin and  PDS check sheet.  
+ Refer to Long Term Storage Guidelines  when the vehicle is to be store d for more than 30 days at the 
+dealership.  
+ 

@@ -1,0 +1,63 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)F47 - Air Leveling Suspension
+ConditionSome customers ma y comment on any of the following concerns:
+-  Air leveling suspension is inoperative   
+-  Service Leveling System message displa yed in the DIC  
+-  Air suspension is low or leaning
+When checking for DTC's there ma y be DTC's set in the Air
+Leveling Control Module, but there ma y also be DTCs that
+don't seem to be relevant, such as the following: U0222, U0223,
+U0224, and/or U0225. 
+Also, If performing Short T erm Inﬂates with GDS2, the
+function does not work, but the GDS2 screens ma y indicate that
+it is working.
+CauseThe cause of these concerns could be a loss of communication
+with a power window motor(s), or a door ajar issue.  
+Bulletin No.: PIT5981B
+Published date: 02/27/2025
+Preliminary Information
+PIT5981B Air Suspension Low / Short Term Inﬂates or Deﬂates Inop /
+Service Air Leveling / DTC U0222 U0223 U0224 and/or U0225
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2021 - 2025 All AllAll All
+Cadillac Escalade ESV 2021 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC Yukon 2021 - 2025 All AllAll All
+GMC Yukon XL 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:  
+To correct this concern, repair any loss of communication or door ajar DTC's ﬁrst, and then
+reevaluate the air suspension operation.  
+For proper function of the air leveling suspension, the door ajar status is critical.  Each
+door ajar switch is hard wired to it's respective door window motor .  When there is a
+DTC for no communication with a door window motor , the door ajar status (open/close) is
+Version 3
+Modiﬁed02/10/2023 - Created on.  
+02/23/2024 - Update to model list.  
+02/27/2025 - Update to model list.not reliable.  This will cause the GDS2 door ajar parameter to default to "closed", even
+though the actual door ajar status is unknown due to the no communication issue.  This
+would mislead a tech to believe the system is in good working order , when it is not.   
+Tip:  When monitoring the door ajar parameters, open and close each door and mak e sure
+the data matches the door position.
+Note: This condition has been seen on vehicles that have been upﬁtted, examples armored
+vehicles, limos, etc.
+Warranty Information
+The correction for this concern ma y be one of several repairs described above.  
+For vehicles repaired under warranty , please use the appropriate warranty labor operation
+based on the actual cause and repair .
+Additional SI K eywords
+C1187 C1188 C1189 C118A C118B C118C C118, C118F c1190 c1191 c1192 c1193
+unlevel lean right lef t lo lower fr ont rear
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

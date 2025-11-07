@@ -1,0 +1,281 @@
+  
+ISSUE DATE:  04/25/2018  
+SERVICE BULLETIN SUBJECT:  Bendix ABS ECU Replacement  
+VINs or MODELS AFFECTED:  NYCT  and other Customers with Clever Devices Monitoring  
+COMPLETE BY : Next available service opportunity  
+SERVICE BULLETIN #:  SB-18-28 
+ 
+NOTICE! It is expected that this process will require 2 hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+BENDIX ABS ECU REPLACEMENT  
+Description  
+This replacement is necessary to correct  a bug found in the Bendix ABS ECU software that was 
+causing relative wheel speed messages to be duplicated over CAN.   The Bendix ABS ECU will need  
+to be swapped out and the commissioning/calibration process will have to be completed be fore the 
+vehicle can be returned to service.  
+Tools /Parts Required:  
+Tools Required:  
+• Torx Bit and Driver Set  
+• Allen Bit Socket  (4mm)  
+• Torque Driver for Torx and Allen Bits (capable of up to 50 in-lb) 
+ 
+Parts Require d: 
+• 035864  – ABS ECU  (New Firmware  for Clever Devices interface ) 
+ 
+Programs  Require d: 
+• Bendix ACom Diagnostics 6.8  
+ 
+2 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Bendix ABS ECU Replacement Procedure :  
+The purpose of this procedure is to replace the existing ABS ECU with a unit with new firmware .  
+1. Power off the vehicle and perform Proterra Lockout/Tagout.  
+ 
+2. At the rear of the bus interior, r emove the screws that secure the rear deck cover panel , 
+remove the cover panel and set aside.  
+   
+ 
+3. Locate the  existing  Bendix ABS ECU  at the streetside rear corner of the rear deck plate.  
+ 
+ 
+4. Disconnect the harness from the existing ABS ECU . 
+ 
+Bendix ABS ECU 
+Location  
+3 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+5. Using a 4mm Allen bit socket (or Allen wrench ), remove the four (4) screws, lock washers, and 
+flat washers that secure the ABS ECU to the vertical bracket  on the rear deck plate . 
+ 
+ 
+6. Place the removed ABS ECU  aside  for return to Proterra/Bendix . 
+ 
+7. IMPORTANT ! Document the Serial Number of the new ABS ECU and Vehicle ID (Bus 
+Number) that the new ABS ECU is being installed on.  
+ 
+8. Position the new ABS ECU  (035864 ) in position against the body and using a  4mm  Allen 
+wrench (or bit  and driver ), install  and slightly tighten the four (4) socket head cap  screws , lock 
+washers and flat washers securing the ABS E CU to the vertical bracket on the rear deck plate . 
+ 
+ 
+9. Using a Torque Driver, torque each of the four Socket Head Cap Screws  to 44 in-lb. 
+ 
+Bendix ABS ECU  
+Flat Washer  
+Lock Washer  
+Screws  
+4 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+10. Connect the harness to the newly installed ABS ECU . 
+ 
+ 
+11. Position the rear deck cover panel in place and install the screws that secure the rear deck 
+cover panel to the frame.  
+   
+ 
+12. Remove Lockout/Tagout and power on the vehicle.  
+ 
+13. Completing  the following  Bendix ABS ECU Configuration Procedure . 
+ 
+  
+
+5 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+Bendix ABS ECU Configuration Procedure :  
+The purpose of this procedure is to verify that the Bendix ABS ECU has the appropriate settings for 
+the vehicle .  
+1. Verify that the Vehicle Master Disconnect  switch at the rear of the bus is ON. 
+ 
+2. At the Drivers Workplace , turn the Master Switch  to the ON position to activate switched low 
+voltage power . 
+ 
+ 
+3. Ensure that  the bus has at least 100 PSI of air pressure in the primary and secondary tanks . 
+Note:  If the vehicle does not have air pressure, apply external air to the vehicle to refill the 
+tanks or temporarily turn on high -voltage to air up the tanks and then turn the bus OFF and 
+back ON so that only Low -Voltage is powered.  If using an external air supply, the external air 
+may be left connected during the configuration procedure . 
+ 
+4. Raise the bu s into the air and place jack stands under the frame AND axles . 
+WARNING!  Follow proper site  Safety Procedures for using lifts . 
+ 
+5. With the vehicle fully supported by jack stands, carefully l ower the wheel lifts so that the 
+wheels can spin freely with the parking brake released.  
+ 
+6. Connect NEXIQ USB link adaptor to the rear  deck  OBD port using the pink “Volvo/Mack” 
+adapter  and ensure the green power light illuminates. Connect the USB port to the laptop . 
+ 
+ 
+NEXIQ to 
+OBD 
+adapter  
+Rear 
+Deck 
+OBD Port  
+NEXIQ 
+adapter 
+Green 
+Power 
+Light  
+6 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+7. Open the ACom Diagnostics 6.8  program  on the laptop.  
+ 
+8. Select the first line in the pop -up menu, “EC -60” controller . 
+ 
+ 
+9. Click the “Start with ECU” button, which  should transfer you  through a connection screen to the 
+main unit configuration window . 
+ 
+10. From  the Home screen, click “Installation” . 
+ 
+ 
+11. Click through the Warning  screen.  
+NOTICE!  If the Installation Tests option is not available, then it may need to be unlocked on 
+your laptop  - contact the responsible Engineering party for assistance.  
+ 
+IMPORTANT! : The vehicle frame needs to be set on jack stands since each wheel will need  to 
+be turne d independently to verify sensor function.  
+ 
+  
+
+7 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+12. Verify the installation tests to be performed .  The following Items should be checked from the 
+“Customize” menu of the Installation Tests main screen:  
+ 
+ 
+13. Scroll down on this screen to view the additional tests : 
+ 
+ 
+14. Click “OK” to save these settings and return to the Installation Tests main window , then return 
+to the Home sc reen.  
+ 
+
+8 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+15. From the Home screen c lick the “Controller Configuration” button to configure the system . 
+ 
+ 
+16. Click the “Modify” button . 
+ 
+ 
+17. Set the parameters on this screen to match the screenshot  for the bulleted  items below : 
+• Steer Axle = 522  
+• Drive Axle = 522 
+• ATC Control = Brake  
+ 
+ 
+18. Verify the configuration has the appropriate settings for the vehicle in question . When these 
+settings have been changed , select “Write” option.  
+ 
+BRAKE  522 
+522 
+9 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+19. Close the “Change Configuration” menu, back to the Configuration window, then cl ick the 
+“Broadcast” button.  
+ 
+20. On the J1939 tab, ensure the communication parameters match the following screenshot  and 
+then c lick “Write” to save this configuration.  
+ 
+ 
+21. From the home screen in ACOM Diagnostics 6.8, Click the “DTCs” button to check diagnostic 
+codes from the vehicle ABS system . 
+ 
+ 
+22. Investigate and correct all DTCs. There should be NONE active before proceeding.  
+ 
+ 
+
+10 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+23. Click “Clear” to clear the currently displayed DTCs.  
+ 
+24. Click “Read” to check the system for currently active DTCs.  
+NOTICE!  If any active DTC codes re -appear, investigate and repair the problems before 
+starting the  installation tests in the following section.  
+ 
+25. The “Component tests” screens can be used to diagnose and fix problems with ABS systems.   
+After all the non -standard codes have been corrected, click on the “DTC Ev ents” tab and click  
+“Clear” to clear all historical DTCs left over from the vehicle build process.  
+Note:  Now you are ready to begin the installation tests.  
+ 
+ 
+26. Return to the home screen, click “Installation” . 
+ 
+ 
+27. Click through the Warning  screen.  
+NOTICE!  If the Installation Tests option is not available, then it may need to be unlocked on 
+your laptop  - contact the responsible Engineering party for assistance.  
+ 
+IMPORTANT! : The vehicle frame needs to be set on jack stands , with the wheels fr eely 
+hanging,  since each wheel will need  to be turne d independently to verify sensor function.  
+ 
+  
+
+11 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+28. Click “Start/Next” button at the top of the installation menu. The program will communicate with 
+the controller and set up the system configuration one step at a time. Follow the instructions 
+and ALWAYS have someone watching on the outside of the vehicle for safety.  
+ 
+29. During the “Sensor Sequence test”, one person should manually spin each wheel when called 
+for to allow the ABS sensors to register readings.  
+ 
+30. For the sensor sequence test on the Drive axle, you must get under the vehicle and manually 
+unplug the LEFT wheel speed sensor to get only the RIGHT  side reading. After spinning the 
+axle with one sensor unplugged, plug the sensor back in and spin both whee ls for the “ LEFT ” 
+side sensor reading.  
+Note : If the procedure is stopped in the middle of the test for some reason (fix a sensor, lamp, 
+whatever), you will have to start ALL of the Installation tests over again from the beginning.  
+ 
+ 
+31. At the end of test seq uence, enter the OEM name and vehicle VIN number for that vehicle . 
+ 
+32. YOU MUST Click the “SAVE” button before you close the window or else you will have to start 
+the tests all over again. Once this procedure is finished and the bus has been reset, the ABS 
+amber warning light on the dash should be off.  
+ 
+
+12 | P a g e  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010  
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607  
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+33. Keep a copy of these ABS configuration records . It should be printed off or saved . 
+ 
+34. Close out of the Installation Test window, yo u are finished with the programming.  
+ 
+35. Disconnect from the vehicle ECU by closing out of all dialog boxes.  
+ 
+36. Unplug the NEXIQ unit from the diagnostic port.  
+ 
+37. Reset the bus, by turning it off and then on again.  
+ 
+38. Upon vehicle startup, verify that the amber ABS  light on the dash is no longer lit continuously. 
+Note:  Both the ABS and ATC indications should illuminate for a few seconds on startup and 
+then disappear.  
+ 
+39. Verify the ABS system activates the modulator valves on all front and rear wheels in sequence 
+on 24-Volt Key On.  
+Note:  You should hear sounds like “click, click ”…...”click, click ”. 

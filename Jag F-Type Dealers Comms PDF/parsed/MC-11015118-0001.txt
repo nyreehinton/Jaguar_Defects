@@ -1,0 +1,72 @@
+AfterSalesJan 30, 2025
+Page 1 of 3G2.II PHEV (V6 Variants Only) – Misfires during Engine Warm-up
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Panamera As of 2021 97ABX1
+97ADZ1
+97ANX1
+97BBX1
+97BDZ1
+97BNX1N /A E-Hybrid
+Revision History
+Revision Release Date Changes
+0 September 5, 2023 Original document
+1 August 20, 2024 Update of rpm under Condition
+Update of Technical Background
+Addition of note under Service Information
+2 January 30, 2025 Update of Technical Background
+Update of Service Information
+Update of Warranty
+Condition
+ The presence of DME misfire faults P030X00 occurring during catalytic warm-up (or low engine temperatures), 
+ under low relative load for the internal combustion engine (ICE), at low ICE rpm (1400 - 3000 rpm). If there is a 
+ customer complaint for the check engine light (CEL), then it is likely the Instrument Cluster Fault P162400 (’Engine
+ control indicator light switched on’) results from the misfire fault(s). 
+ If these conditions are present, it is therefore often possible to reproduce such misfires during catalytic warming of 
+ a cold engine as the drivetrain load supported by the electrical motor shifts to the ICE. A CEL requires two sequential
+ drive-cycles with entered misfire faults; nonetheless, even when the misfire fault sets for the first time, operation of
+ the electric motor (in E-Power or Hybrid Auto mode) suspends indefinitely for that drive cycle. 
+Advanced Technical Information 2Bulletin #: 2319.2
+Part ID: 2470
+AfterSalesJan 30, 2025
+Page 2 of 3Technical Background
+ The misfire diagnostic is sensitive, yet accurate. In some instances, the engine operating conditions during catalytic
+ warming may trigger misfire faults. 
+ NOTE: Misfire faults can arise for numerous reasons. If the above conditions in the environmental fault data do NOT 
+ exist, then the misfire cause requires further root cause diagnosis and remedy.
+Service Information
+ 1.  Please create a VAL to document any fault codes stored in the DME.
+ 2.  Inspect the environmental data within any of the stored misfire fault codes and observe the engine speed,   
+  relative load, and measured engine torque at which the faults occurred. If the three values match the criteria  
+  below, then the specific engine operating conditions may be contributing to the misfires:
+  --> Engine speed 1300-3000 rpm
+  --> Relative load 45-60%
+  --> Measured torque 85-90 Nm
+ 
+ 3.  If the misfire faults are determined to be caused by the above specific operating conditions during catalytic 
+  heating, and no rough running condition is observed, do not replace any parts. A software solution is cur-
+  rently being developed to improve engine performance during catalytic heating.
+ 4.  If the misfire faults occur within the above specific operating conditions during catalytic heating, but rough
+  running conditions are observed, please continue with other misfire diagnosis to ensure that there are no   
+  other factors contributing to the diagnosed misfires.
+Advanced Technical Information 2Bulletin #: 2319.2
+Part ID: 2470
+AfterSalesJan 30, 2025
+Page 3 of 3Warranty
+ As always, please document the repair completely in PCSS.
+ For this repair, please code the “cause” as follows:
+ Cause location:                  24700   DME control unit 
+ Cause symptom:               1134   Programming error
+ Use the following labor operations (additional labor operations may be claimed only as appropriate):
+ 03350050  On board diagnostic
+Search Items
+ G2.II PHEV, Misfires, V6
+Advanced Technical Information 2Bulletin #: 2319.2
+Part ID: 2470
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+©2025 Porsche Cars North America, Inc.6_17234

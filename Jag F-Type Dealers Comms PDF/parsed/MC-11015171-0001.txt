@@ -1,0 +1,96 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: PIE0819
+Service BulletinDate: February, 2025
+ENGINEERING INFORMATION
+Engineering Information - (EI Lite)-(Pictures ONLY) for Pre-Delivery Inspection
+(PDI) and Customer Vehicle Issues Up to 500 Miles. Using the CSMT App do
+Field Product Reporting (FPR), Please Submit a Report for the Following
+Issues: Paint Issues or Damage (EXCEPT for Transportation), Moldings,
+Appliques, Emblems Loose, Warped, Crooked or Missing / Weatherstrips
+Misaligned, Mis-formed / Sheet Metal and/or Trim Panels Misaligned / Interior
+Trim Loose, Crooked, Missing / Seats, Seat Trim
+Proceed with this EI Lite ONLY to submit the description of the issue and
+pictures/video using the CSMT Field Product Reporting (FPR) App
+(reference bulletin 02-00-89-002). THIS IS NOT A RECALL.
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+Cadillac ESCALADE IQ 2025 2025 — — — —
+ 
+Involved Region or Country U.S. Dealers ONLY
+ConditionImportant: This (EI Lite) - (Pictures Only) ONLY  applies to vehicles during Pre-Deliv-
+ery Inspection (PDI) and customer issues up to 500 miles
+If one or more of the following conditions have been found
+•Paint issues or damage EXCEPT for transportation
+Please consider sending videos showing the different angles/light if visualization is
+better than on pictures.
+•Moldings, trim panels, appliques, decals, emblems, seats or seat trim being
+loose, warped, crooked or missing (exterior and interior)
+If the part is missing, show where it should be and possible witness marks from the
+original installation, if present. If it is an adhesion issue, show if the issue is between
+the sheet metal and the adhesive tape or between the tape and the molding/applique/
+emblem. If broken/unseated clips, show the location and condition.
+•Sheet metal or trim panels misaligned or with interference (also includes moving
+parts as doors, hood, tailgate, end gate, decklid, sunroof
+Use the appropriate picture angle to show alignment/gaps or flushness concerns. Vid-
+eos are encouraged to illustrate interference between moving parts.
+Note: Note: Instructions to load the FPR App to your phone and other detailed instruc-
+tions can be found in the latest version of Bulletin 02-00-89-002 (U.S. Dealers).
+CauseGM Engineering is attempting to determine the root cause of the above condition.
+Engineering has a need to gather information on vehicles PRIOR to repair that may
+exhibit this condition. As a result, this information will be used to "root cause" the
+customer's concern and develop/validate a field fix.Subject:
+Attention:
+Correction
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+Page 2 February, 2025 Bulletin No.: PIE0819
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+If one or more of the above issues is found in Vehicle Pre-Delivery Inspection (PDI) or customer issues up to
+500 miles please use the CSMT Field Product Reporting (FPR) App, take pictures of the issue (per details below),
+fill out required fields (include EI PIE0819  in the Condition Field) and submit.
+Note: Note:  GM has updated the Field Product Reporting App, and it is now part of the “Certified Service
+Mobile Toolbox” (CSMT) Instructions to load the App to your phone and other detailed instructions can be
+found in the latest version of Bulletin 02-00-89-002 (U.S. Dealers).
+ 
+1. Take a clear picture of the entire area of the vehicle showing the location of the issue/part on the vehicle.
+2. Take a clear close-up picture of the issue on the part, (use applicable taper gauge to show gaps or alignment
+issues).
+3. Take a clear picture of any labeling/part numbers and/or a video when applicable.
+Note: Use colored tape or any other type of stick-on marker to indicate the area of concern
+6850471
+1. Shown in the picture above are examples of the entire area of the vehicle showing the location of the issue/part
+on the vehicle.
+Bulletin No.: PIE0819 February, 2025 Page 3
+6850473
+6850475
+2. Shown in the pictures above are examples of clear close-up pictures to better show the detail of the issue/part.
+Page 4 February, 2025 Bulletin No.: PIE0819
+6850534
+6850535
+3. Shown in the pictures above are examples of paint issue. When reporting paint concerns, please take wide shot
+of the vehicle to help orientate the location and a close-up to identify the issue.
+Warranty Information
+If a Field Product Report is submitted, use: (EI LITE)
+Labor Operation Description Labor Time
+1486108*(EI Lite) - (Pictures Only) - Paint Issues or Damage EXCEPT
+Transportation
+0.3 Hrs.1087008*EI- Loose, Warped, Crooked or Missing Moldings,
+Appliques, Decals and/or Emblems, Seats and Seat Trim
+1486118*(EI Lite) - (Pictures Only) - Weatherstrips Being Misaligned
+Causing Wind Noise or Water Leaks
+1087018*(EI Lite) - (Pictures Only) - Sheet Metal and/or Trim Panels
+Being Misaligned or with Interference
+*This is a unique Labor Operation for bulletin use only.
+Bulletin No.: PIE0819 February, 2025 Page 5
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION 
+Version 1
+Modified Released February 21, 2025

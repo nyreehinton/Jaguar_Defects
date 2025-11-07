@@ -1,0 +1,87 @@
+2025-02-20
+This Service Information Bulletin (Revision 1) replaces SI B63 04 1 1 dated April 201 1.
+ 
+What’ s New :
+SIB title updated
+Situation updated
+Correction updated
+Procedure section added
+Parts Information updated
+Claim Information updated
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+E91 3 Series Sports W agon July 23, 2007 – August 31, 2009 
+ 
+SITUA TION
+The seal(s) on the rear outer taillamps emits gas that causes damage to the electrical connections on the
+LEDS (Light Emitting Diodes).
+ 
+CAUSE
+Poor rear lamp sealing causes the failure of all the LED lights.
+ 
+CORRECTION
+Replace both outer taillamps.
+PROCEDURE
+Replace both outer taillamps following repair instructions listed in IST A/AIR 63 21 220.
+ 
+PARTS INFORMA TION
+Use and invoice the applicable part number(s) below .
+ 
+Part Number Description Quantity
+63 21 4 871 755 Side panel rear lamp repair kit 1
+OR   
+63 21 7 289 435 Rear light in the side panel, left 1
+63 21 7 289 436 Rear light in the side panel, right 1
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+Reimbursement for this Service action will be via normal claim entry utilizing the work package one
+information below and the part number(s) above that apply .
+Repair
+Code:0063190100 E91 Replacing both rear lights, side panel
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 63 04 11_SERVICE ACTION: REPAIR/REPLACE BOTH OUTER TAILLAMPS
+about:blank 1/3
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Work PkgLabor
+OperationDescription (Plusposition)Labor
+Allowance
+# 1 00 59 968Replacing both rear lights on side panels
+(Plusposition)As applicable
+ 
+Claim Repair Comments
+ 
+Only reference SI B63 04 1 1 and that work package number one (#1) was performed in the technician’ s RO notes
+and in the claim comments (B63 04 1 1 WP  1), unless otherwise required by State law .
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Claims FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 63 04 11_SERVICE ACTION: REPAIR/REPLACE BOTH OUTER TAILLAMPS
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:02 AM 63 04 11_SERVICE ACTION: REPAIR/REPLACE BOTH OUTER TAILLAMPS
+about:blank 3/3

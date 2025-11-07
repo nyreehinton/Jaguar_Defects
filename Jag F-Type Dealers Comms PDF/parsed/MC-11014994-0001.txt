@@ -1,0 +1,36 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250042 Released Date : 24-F eb-2025
+OEM Ignition Contr ol Module Rela y Water Intrusion for K enwor th and P eterbilt Trucks:
+Fault Code 6631
+OEM Ignition Control Module Relay Water Intrusion
+for Kenworth and Peterbilt Trucks: Fault Code 6631
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Information Only - OEM Related Matter Not Co vered By Cummins® - Contact Appr opriate OEM
+Dealer or OEM Repr esentativ e For Additional Information
+Product Aff ected
+Engine:
+X15N CM2380 X150B
+Original E quipment Manufactur er (OEM):
+Peterbilt
+Kenwor th
+Issue Summar y
+Sympt om:
+Crank No Star t
+Fault Code 6631
+Root Cause:
+OEM ignition contr ol module r elay orientation allowing water t o enter r elay connection
+Verification
+Visually inspect the orientation of the OEM ignition contr ol module r elay. OEM ignition contr ol
+module r elay orientation on some units allows water t o enter the r elay connection and cause a
+malfunction.
+Figur e 1, OEM Ignition Contr ol Module Rela y Orientation Susceptible t o Water Intrusion.
+Resolution
+The orientation of the ignition contr ol module r elay should not allow water intrusion on the wiring
+harness connect or. See equipment manufactur er ser vice information for r elay reuse guidelines.
+Document Hist ory
+Last Modified:  24- Feb-2025
+Figur e 2, Acceptable OEM Ignition Contr ol Module Rela y Orientation t o Prevent W ater Intrusion.
+Date Details
+2025-2-20Module Cr eated

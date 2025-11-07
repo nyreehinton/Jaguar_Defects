@@ -1,0 +1,117 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S24080000 70 Rev. D 
+ 
+Release Date:   February  2025 
+ 
+Symptom/Vehicle Issue : Vehicle Does Not Respond to Lock/Unlock Button Presses  From 
+Keyfob and “Key Not Detected ” Message is Displayed on the Cluster  When Starting, No Start  
+ 
+Technician  Observation:  The vehicle might have been towed into the service station and  
+technician observed the vehicle does not respond to unlock  doors  using keyfob (need to use 
+mechanical key  in the keyfob  to enter the vehicle), message “key not detected ” is displayed on the 
+cluster during an attempt to start the vehicle using KIN (Start -Stop)  button press  and that the vehicle 
+has a no crank, no start. Vehicle may or may not have any D iagnostic Trouble Codes (D TCs). Please 
+follow the repair procedure below  Pg 1 and 2 . 
+Note: For conditions where th ere are no RKE issues when using Keyfob  buttons  and 
+only an issue where Keyless Go button intermittently does not start  vehicle usually  when the 
+Keyfob is placed in or around cup holder area . The cluster  displays a message “Key Not 
+Detected”  in most cases ; Check  if the vehicle is equipped with Wireless charging pad module 
+(WCPM) PNs 05033398AB and/ or 05033399AB and replace the modules with 05033398AC 
+and/or 05033399A C respectively (refer TSB: 08 -232-24). 
+ 
+Repair Procedure:    Verify for condition changes after each step.  
+1. Check for Diagnostic Trouble Codes (DTCs) , record.  
+2. Check if there are any after -market parts/ modules connected to the vehicle  or any LED  
+lamp s throughout the vehicle, 3rd brake lamp or other ; if yes, please disconnect  and retest.  
+3. Remove the passenger side rear seat.  
+4. Remove the CAB back trim panel behind the passenger side rear sea t. 
+5. Remove driver side rear seat and CAB back trim panel and verify.  
+6. At the rear driver headliner inspect the remote start antenna connections and ensure the 
+connector is securely connected.  
+7. Inspect the C2 RFHUB connector, verify no spread terminals and no terminal s are pushed 
+out, secure connector C2.  
+8. Use the scan tool to perform an RFHUB ECU reset  under guided diagnostics OR perform a 
+battery disconnect , capacitance discharge, battery reconnect.   
+9. DO NOT REPLACE THE RFHUB, If the issue continues, please call (Karthik Balakrishna 
+bet 8am-5pm)  for further technical review , if no follow up contact is made within 30 minutes, 
+continue with normal diagnostics.  
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+              Inspect the remote start antenna connector at the driver side rear headliner area.  
+                       Secure as needed.  
+ 
+ 
+ 
+ 
+Pg 1 
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PG 2 

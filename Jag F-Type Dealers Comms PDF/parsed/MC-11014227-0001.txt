@@ -1,0 +1,198 @@
+GENERAL MOTORS  
+DCS 7144  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 12 , 2025 
+  
+Subject:  N242485170  - Service Update  
+ Terminating Resistor Missing  
+  
+Models:  2025 Buick Enclave  
+   
+General Motors is releasing  Service Update N242485170  today .    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+The Stock VIN list of vehicles in dealer inventory is attache d to this message. 
+Note: this list is only accurate at the time of report creation and all VINs should 
+be validated in IVH prior to repair.   
+ 
+END OF MESSAGE  
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+ Page 1 of 6 
+ 
+Release Date : February  2025 Revision : 00  
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.   
+ 
+Make  Model  Model Year  
+From  To 
+Buick  Enclave  2025  2025  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above  may have a condition where the terminating resistor is missing for specific 
+circuits.  
+Correction  Dealers are to rework the lighting control module connector.  
+Parts  
+Quantity  Part Name  Part No.  
+1 HARNESS ASM -BODY WRG  85854043  
+As Req’d  Woven Polyester Electrical Tape (PET)  *1089482  
+* To obtain the PET,  contact Kent Automotive at 1 -888-937-5368 (USA), 1 -800-563-1717 (Canada), or www.kent -
+automotive.com.  Dealers that do not have a Kent Automotive account or representative must advise the Customer 
+Service Representative that the part(s) is being used for th is GM bulletin to obtain special bulletin pricing.   Do not 
+order PET from GMCCA . 
+Reminder:  Parts may be removed from SPRINT and Retail Inventory Management (RIM) and be non -returnable.  Dealers 
+should review the affected parts to confirm RIM managed status.  Parts may have quantity limiters in effect.  There is a 
+small number of vehicles anticip ated that will need this fix.   Due to the limited initial parts availability, dealers are 
+encouraged not to order these parts for use as shelf stock .   
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107745  Rework Lighting Control Module X4 Connector  1.6 ZFAT  * 
+*The amount identified in “Net Item” should represent the actual sum total of the current GMCC&A Dealer net price for 
+anti-abrasion tape and Terminal Removal Tool needed to perform the required repairs, not to exceed $62.24 USD, 
+($89.81CAD) plus applicable Mark -Up or Landed Cost (for Export).   
+Special Tools Required:  
+Note : To order the required terminal removal tool, please visit the Dealer Equipment and Special Tools portal  through 
+GlobalConnect.  
+GM-38125 -58 Terminal Removal Tool   
+Dealers  will only be allowed to purchase one Terminal Removal Tool.  Dealers  are only to claim the $61.99 USD 
+($89.45 CAD) amount for the terminal removal tool once, on subsequent repairs only the $0.25 USD ($0.36 CAD) for 
+the anti -abrasion tape will be approved .   
+Service Procedure  
+1. Remove the Instrument Panel Knee Bolster . Refer to Instrument Panel Knee Bolster  Replacement  in SI.  
+2. Remove the Front Side Door Sill Garnish Molding. Refer to Front Side Door Sill Garnish Molding Replacement  in 
+SI. 
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+  Page 2 of 6 
+  
+6766704  
+6766742  
+Note : Do not fully remove the Lighting Control Module from the vehicle.  
+3. Access the Lighting Control Module underneath the instrument panel and remove it from its mounting bracket.  
+6766791  
+4. Remove the Dark Purple X4 Connector by disengaging the CPA and pushing down on the push pin.  
+
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+  Page 3 of 6 
+  
+6766804  
+Important : DO NOT FULLY REMOVE THE WHITE TPA TAB. DOING SO WILL BREAK THE TPA.  
+Note : Component removed from vehicle for greater clarity.  
+5. Using a small screwdriver, unlock the TPA by partially prying out the white tab on the side of the connector.  
+6766805  
+Important : Remove only terminals 5 and 6 from the connector. No other terminal should be removed from the original 
+wires.  
+6. Using the GM-38125 -58 Terminal Removal Tool at the service openings on the front of the connector face, remove 
+the white with green wire terminal from c avity 6.  
+7. Using the GM-38125 -58 Terminal Removal Tool at the service openings on the front of the connector face, remove 
+the blue wire terminal from cavity 5.  
+8. Cut off the terminal ends  off both wires  and individually wrap each wire end in electrical tape. T ape both wires 
+back in to the main branch.  
+
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+  Page 4 of 6 
+  
+6766806  
+Note : Component removed from vehicle for greater clarity.  
+9. Using the provided Twisted Pair Jumper, seat the white with green wire terminals in cavities 5 and 11.  
+10. Using the provided Twisted Pair Jumper, seat the blue wire terminals in cavities 6 and 10.  
+6766804  
+Note : Component removed from vehicle for greater clarity.  
+11. Push back in the White TPA.  
+6766808  
+12. Fully wrap the jumper wires using anti -abrasion PET.  
+
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+  Page 5 of 6 
+  
+6766791  
+13. Reconnect the connector back into the Lighting Control Module and seat the CPA.  
+6766742  
+14. Reattach the Lighting Control Module to its mounting bracket.  
+15. Install  the Instrument Panel Knee Bolster . Refer to Instrument Panel Knee Bolster  Replacement  – in SI.  
+16. Install the Front Side Door Sill Garnish Molding. Refer to Front Side Door Sill Garnish Molding Replacement  in SI.  
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the service update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the ser vice procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, or any other purpose.  
+ 
+All GM Certified Pre -Owne d (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty  Management (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+ 
+ 
+ 
+ 
+
+Service Update  
+N242485170 Terminating Resistor Missing   
+ 
+  Page 6 of 6 
+  
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the i ntent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be completed when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehic le.  Properly trained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condi tion.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

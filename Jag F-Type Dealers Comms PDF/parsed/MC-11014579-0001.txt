@@ -1,0 +1,136 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 22-NA-068
+Service BulletinDate: February, 2025
+TECHNICAL
+Diagnostic Tips for Park Assist Off Message / Unwanted or False Park Assist
+Alerts / No DTCs
+This Service Bulletin is replacing PIT5836. Please discard all copies of PIT5836.
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+ChevroletSilverado 1500 (New
+Model)2019 2019
+       Silverado 1500 2020 2021
+Silverado 1500 LTD
+(RPO J21, 12th VIN
+Digit = 4 or less)
+Silverado 1500 New
+(RPO J22, 12th VIN
+Digit =5 or greater)2022 2022
+Silverado 1500 2023 2025
+Silverado 2500HD/
+3500HD2020 2025
+GMCSierra 1500 (New
+Model)2019 2019
+Sierra 1500 2020 2021
+Sierra 1500 Limited
+(RPO J21, 12th VIN
+Digit = 4 or less)
+Sierra 1500 New
+(RPO J22, 12th VIN
+Digit = 5 or greater)2022 2022
+Silverado 1500 2023 2025
+Sierra 2500HD/
+3500HD2020 2025
+Involved Region or CountryNorth America, Middle East, Iraq, Israel, Palestine, Argentina (Mercosur), Brazil
+(Mercosur), Bolivia (West), Chile (West), Colombia (West), Ecuador (West), Paraguay
+(West), Peru (West), Uruguay (West), Venezuela (West), GM Korea Company, Taiwan,
+Thailand (ASEAN), Singapore, Philippines, Australia/New Zealand, Egypt, Other Africa,
+South Africa
+ConditionSome customers may comment on unwanted/false park assist alerts suggesting there is
+an object in front and/or behind the vehicle when there is nothing there. This condition
+can lead to the system Condition disabling itself and a "Park Assist Off" message will be
+displayed in the DIC. Also, the LED in the park assist switch will be disabled.Subject:
+Page 2 February, 2025 Bulletin No.: 22-NA-068
+CauseThe causes of the condition may be burrs at sensor openings in the bumper or incorrectly
+installed isolator rings on sensors.
+If an issue exists with the way the park assist sensor and/or bezel is mounted or painted,
+the sensor can ground out or get squeezed and pick up normal vehicle vibrations. These
+normal vehicle vibrations would not ordinarily be picked up by the sensor when properly
+mounted and isolated from the vehicle. These vibrations can be interpreted by the park
+assist sensor as an object, when in fact there is no object present. Because the sensor is
+working normally, there will be no DTC's set
+Correction Review bumper condition and correct burrs and installation issues.
+Service Procedure
+• Using GDS2, go into Module Diagnostic/Park Assist Module/Data Display/Parking Assist Disable History 1-4
+and 5-7 Data and view the disable history.  If the disable history shows "Trailer or Other Object Attached" this is
+a good indication there could be an issue with a park assist sensor(s) grounding out or getting squeezed.  Don't
+overlook the obvious things such as a trailer hitch installed or anything else attached to the vehicle.
+Note: Be careful if the disable history shows "Manual Disable" along with "Trailer or Other Object Attached". Many
+times, in an effort to make the Park Assist system operational, a customer will try cycling the park assist manual
+disable switch. This can cause "Manual Disable" to be displayed in the disable history and may mislead your
+diagnostics.
+• Question the driver to see if they have received any unwanted/false park assist alerts. If so, the Parking Assist
+Display, located in the DIC, will indicate where the false alert is being displayed/detected. Use this information to
+help narrow down which sensor(s) should be inspected. Example: the Parking Assist Display is falsely
+indicating an object at the left front of the vehicle.  With this information the left front park assist sensors/bezels
+should be inspected more closely.
+• If there are no unwanted/false parking assist alerts and they only have an issue with the Park Assist Off
+message, then on trucks with front and rear parking assist, try the following to help determine if the issue is with
+the front or rear sensor(s)/bezel(s).  Connect GDS2 and go into Module Diagnostic/Park Assist Module/Data
+Display/Parking Assist System Data and monitor the following two parameters: "Attached Object Detected
+Front" and "Attached Object Detected Rear".  See which parameter goes "active" when the Park Assist Off
+message is displayed and use this to determine if the issue is with the front or rear sensor(s)/bezel(s).  This step
+can be omitted on vehicles with only rear park assist, as it would be only the rear sensor(s)/bezel(s) to inspect. 
+Note: On vehicles with both front and rear parking assist systems, it cannot be determined if there is an issue with
+either the front or rear parking assist sensor(s) or bezel(s) by the transmission position (Drive or Reverse) alone.
+ Example: When the vehicle is shifted into reverse, both the front and rear parking assist sensors are active.  Also,
+while driving forward the system determines if anything is attached to either the front or rear of the vehicle.  
+Once you have determined which sensor(s) to inspect, look for the following issues:
+1. Perform a visual inspection of the park assist sensor(s) and bezel(s). Look for any stone chips/dents, paint
+chips, damage, etc., as well as any issues with the silicone ring.  See example (1) below of a silicone ring which
+is not properly installed. If any issues are found, then repair as necessary.
+Bulletin No.: 22-NA-068 February, 2025 Page 3
+5794928
+Note: In most cases, these next inspections will require the bumper to be removed.
+2. Inspect the park assist sensor bezel(s) for not being properly mounted in the bumper hole.  If the bezel in not
+properly mounted into the bumper hole it can lead to a sensor grounding out or the sensor getting
+squeezed. The bezel has four locking tabs that secure the bezel to the bumper. Make sure all four mounting
+tabs are fully engaged. See example (2) for a mounting tab that is not fully engaged (view from the back side of
+the bumper/bezel). If any tab is not fully engaged, it can protrude into the opening where the park assist sensor
+mounts and cause it to ground out or get squeezed. See example (3) for a tab not fully engaged and protruding
+into the opening for the sensor. If any of the bezel mounting tabs are not fully engaging, inspect the following:
+− Burrs on the back side of the bumper hole, see example 5 and 6
+− Excessive paint/clear coat on the bumper around the mounting hole, see example 7. 
+− Plastic flashing on the park assist sensor bezel itself, see examples 8 and 9.
+− Inspect the bumper hole for being slightly too small. The bezel should easily slide into the bumper hole
+without force.
+If any of these concerns exist, then use a file or grinding wheel to remove any burrs or flashing. If needed,
+enlarge the bumper hole opening.  On any exposed/bare metal apply an Anti-Corrosion Treatment, see
+Document ID: 2096919. After repairing any bumper hole or bezel issues then reinstall the bezel and make
+sure the four mounting tabs are fully engaged and then reinstall the park assist sensor. There is no need to
+replace the bezel or sensor unless they are damaged.
+Page 4 February, 2025 Bulletin No.: 22-NA-068
+5794929
+5794931
+Bulletin No.: 22-NA-068 February, 2025 Page 5
+5794933
+5794936
+Page 6 February, 2025 Bulletin No.: 22-NA-068
+5794937
+5794939
+Bulletin No.: 22-NA-068 February, 2025 Page 7
+5794940
+3. If the park assist sensors have been painted, it is important that only the tip of the sensor is painted and clear
+coated.  The tip of the park assist sensor is isolated from the rest of the sensor body by an internal decoupling
+ring.  If paint or clear coat is allowed to run or drip down the sides of the sensor's tip and/or into the gap
+between the body and sensor tip, as shown below, this can cause the sensor to ground out.
+5794942
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+*1086498 Inspect for and remove burrs from bumper beam 1.6 hr
+*This is a unique Labor Operation for Bulletin use only.
+Page 8 February, 2025 Bulletin No.: 22-NA-068
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 2
+Modified Released March 31, 2022
+Revised February 18, 2025 - Added the 2023 through 2025 model years for the Chevrolet
+Silverado 1500, 2500HD/3500HD, GMC Sierra 1500, and 2500HD/3500HD.

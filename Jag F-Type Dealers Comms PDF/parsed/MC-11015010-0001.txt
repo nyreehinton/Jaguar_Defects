@@ -1,0 +1,52 @@
+Next Unread Message View Message
+PRIORITY/ACTION REQUIRED
+ 
+     To:         All Honda Service Managers/Advisors
+     From:     Technical Information & Support Group
+     RE:          Request for Parts: 2017 Fit CEL On DTC P0420 (ACTION REQUIRED)
+ 
+This message is solely directed to Honda dealership personnel; please handle it accordingly.
+Print this iN message and provide a copy to the Shop Foreman and all Service Advisors.
+ 
+Background
+American Honda Motor Co., Inc. (AHM) is searching for certain 2017 Fits with customer complaint of Check Engine Light (CEL) on with DTC P0420 [Catalyst System
+Effciency Below Threshold] stored. To better understand the cause of this condition, AHM would like to specific parts from the vehicle prior to you attempting a repair of any
+kind.
+ 
+Qualifiers
+AHM is interested ONLY if the vehicle meets the following requirements:
+     1.  Must have DTC P0420 stored.
+     2.  Must NOT have misfire P030X, P0171, or P0172 DTCs stored.
+     3.  Prior clearing of DTC code is ok, if confirmed through HDS (print All DTC Check).
+     4.  No previous replacement of the cylinder head assembly, cylinder head gasket, inlet valves, fuel injectors,
+          catalytic converter, oxygen sensor, air fuel ratio sensor, throttle body or high pressure fuel pump.
+     5.  No repair has been attempted for this issue.
+ 
+Action Required
+If a vehicle matching the qualifiers above comes into your dealership, please e-mail Technical Information & Support (TIS) at tis@ahm.honda.com , or call us at
+800-880-1072 (Monday-Friday, 7am-5pm PST). TIS will need to record certain vehicle information and provide you with further instructions.
+ 
+Please be sure to include the following information in your e-mail.
+E-mail Title:
+     1.  Model Year (e.g. 2024)
+     2.  Model Name (e.g. Accord)
+     3.  Issue (e.g. Brake Judder)
+     4.  VIN
+ 
+E-Mail Body:
+     1.  Dealer Number
+     2.  Your Name
+     3.  Best Phone Number to be Reached
+     4.  Current Mileage
+     5.  Confirm that the vehicle meets qualifiers #1-#5 listed above and attach All DTC Check printout.
+     6.  DPTS#
+ 
+As a gesture of appreciation to the dealer personnel who identify and report a vehicle that meets the qualifiers, is accepted as a candidate and is the subject of a
+successful Dealer Visit/Parts Collection/Info Collection, AHM will provide the referring personnel with a VISA gift card . Technical Information & Support (TIS) will
+provide additional information if this situation applies.  
+ 
+Thank you. 
+Sent on 02 21 2025     Expires on 03 07 2025
+From Technical Information & Support Group
+Subject Request for Parts: 2017 Fit CEL On DTC P0420 Stored (ACTION REQUIRED)INTERACTIVE NETWORK
+American Honda Motor Co., Inc. Page 1 of 1

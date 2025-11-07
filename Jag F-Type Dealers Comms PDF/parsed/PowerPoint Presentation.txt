@@ -1,0 +1,15 @@
+Postt 21AA Updatee Applee CarPlay®® Navigationn Voicee Guidancee Nott Heard20166 –20211 Discovery,, Discoveryy Sport,,  Evoque,, 
+Velar,, Rangee Roverr Sport,, Rangee Rover,, E-Pace,, F-
+Pace,, I-Pace,, XE,, XF,, F-type,, XJJ withh NGI
+Customer Voice:
+– Navigation voice guidance no longer operational after latest NGI update
+Technical Description :
+– NGI 21A software error causing los s of voice guidance when using CarPlay® 
+applications
+Status :
+– 21B resolves this issue.
+– 21B has been released on TOPIx and ha s been sent to vehicles through a SOTA 
+campaign
+– 21B release notes ar e available on TOPIxTECHNICAL TOPICS
+ELECTRICAL
+PRINTED COPIES ARE UNCONTROLLED 20

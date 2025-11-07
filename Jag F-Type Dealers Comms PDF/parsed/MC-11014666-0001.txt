@@ -1,0 +1,111 @@
+SIB 64 02 25
+VIBRA TION NOISE HEARD WITHIN INSTRUMENT  PANEL2025-02-28
+ 
+☒ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Affected Option Code 
+G26 i4 eDrive35, i4 eDrive40 Gran Coupe With HA0 powertrain
+SITUA TION
+The customer states that when the AC system is on, there is a vibrating noise heard from within the
+instrument panel. 
+ 
+The noise is intermittent. The noise can be heard better outside the vehicle with the hood open.
+ 
+See attached video BV64 01 25 V ibration noise AC line 9474791.mov .
+CAUSE
+Movement between the Air Conditioning Refrigerant line (dual line part number (P/N) 64 50 9 474 791, #1 in
+picture) and bracket (suction pipe air conditioner P/N 64 50 9 874 025, #3 in picture). 
+ 
+CORRECTION
+1- Ensure that the bracket suction pipe air conditioner P/N 64 50 9 874 025 is fully clipped into place as it
+goes around the dual wall AC line.
+ 
+Copyright ©2025 BMW of North America, Inc.
+3/1/25, 6:48 AM 64 02 25_VIBRATION NOISE HEARD WITHIN INSTRUMENT PANEL
+about:blank 1/4
+2-If there is still noise due to movement, unclip
+the AC bracket and wrap the dual-wall AC line
+with butyl tape where it contacts the bracket. 
+ 
+Then reinstall bracket around dual-wall AC line.
+ 
+ 
+PARTS INFORMA TION
+ 
+Part Number Description Quantity
+83 19 0 153 321Butyl tape Terostat 81 (15 x 1.5 mm x 10 m roll) (One 10-meter-
+long roll will repair 30 vehicles)Sublet as
+needed
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+Repair Code: 6453003900 Refrigerant line of Air conditioning Unpleasant noises
+ 
+Diagnosis
+ 
+Labor Operation Description Labor Allowance
+51 00 001*Work time to verify the source of the body noise and
+to ensure the A/C system’ s suction pipe is fully clipped
+into place  in its bracket (Main or Plusposition)WT
+Or   
+00 58 500* Diagnosis W orktime Flat Rate (Plusposition) 2 FRU
+Or   
+00 58 000* Diagnosis W orktime Flat Rate (Main work) 3 FRU
+ 
+Only one Main work flat rate labor operation code can be claimed per workshop visit. 
+ 
+For applicable centers, if work time labor operation code 51 00 001 includes Main work, then only use the Plusposition labor
+operation codes for any other repairs that are being performed.
+ 
+Copyright ©2025 BMW of North America, Inc.
+3/1/25, 6:48 AM 64 02 25_VIBRATION NOISE HEARD WITHIN INSTRUMENT PANEL
+about:blank 2/4
+And the together with the diagnosis above that applies to your center when it was determined necessary to perform the
+repair work listed below .
+ 
+Labor Operation Description Labor Allowance
+64 99 000 Job/repair time (WT) to install butyl tape 2 FRU
+ 
+And:
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the supported amount of repair-related
+bulk supply material (Do not use the BMW part numbers for
+claim submission)Up to $5.00
+supported
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk supply material (BMW part
+number) is at the dealer net (DN) price for the “proportional” quantity of the 10-meter roll used plus your
+center ’s handling.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+Other Repairs
+ 
+If other eligible and covered repair work is performed because of the diagnosis, claim this work with the
+applicable Repair Code and the labor operation codes (including the diagnosis*) that applies.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis
+work time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise
+required by State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Supporting Materials
+Videos
+64 01 25
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:48 AM 64 02 25_VIBRATION NOISE HEARD WITHIN INSTRUMENT PANEL
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:48 AM 64 02 25_VIBRATION NOISE HEARD WITHIN INSTRUMENT PANEL
+about:blank 4/4

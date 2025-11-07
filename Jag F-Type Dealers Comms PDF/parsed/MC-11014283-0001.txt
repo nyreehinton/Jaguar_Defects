@@ -1,0 +1,193 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-193
+Service BulletinDate: February, 2025
+TECHNICAL
+Radio Software Update W52E-176.1.2-M170-SQBR5-250.2
+This Service Bulletin replaces PIC6527 and covers vehicles formerly in PIC6498. Please
+discard PIC6527.
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+BuickEnvision 2024 2024
+— — — —Enclave 2025 2025
+CadillacCT5 2025 2025
+LYRIQ 2024 2024
+XT4 2024 2024
+ChevroletColorado 2024 2024
+Equinox 2025 2025
+Equinox EV 2024 2024
+Silverado EV 2024 2024
+Traverse 2024 2024
+GMCAcadia 2024 2024
+Canyon 2024 2024
+Sierra EV 2024 2024
+Involved Region or CountryNorth America, Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador, Peru, Uruguay,
+Europe, Middle East, Israel, Palestine, Japan, South Korea, Egypt
+Additional Options (RPOs) Equipped with Infotainment RPOs IVD or IVE
+ConditionSome customers may comment on software related issues. Continuous improvement
+software updates are being released with improvements made in several areas.
+Cause The cause of the condition may be software anomalies.
+CorrectionA new radio software update, version is W52E-176.1.2-M170-SQBR5-250.2, was
+released to service for vehicles equipped with Infotainment system RPO IVD and IVE
+being brought into the service department. In addition to providing general robustness
+and stability enhancements, this update includes all enhancements from previous
+software version releases. Along with the vehicles mentioned above; fleet customers may
+need the dealer to reprogram the radio with the new software package.
+Caution: to avoid potential programming errors, ensure both programming events (Pro-
+gramming and USB File Transfer) are performed.Subject:
+Important: Improvements will vary by model, build configuration, system, and sales region. Not all vehicles have all
+features.
+Most notable improvements contained in this release may include:
+Camera:
+• Black screen
+• Black screen with guidelines
+Page 2 February, 2025 Bulletin No.: 24-NA-193
+Charging App (EV Only):
+• The charging app may not launch
+Cluster:
+• Black screen
+• Gear info not displayed on Cluster
+• The cluster may reset while driving
+• The customer may see a check engine or service vehicle light with DTCs U13F9 and U223B
+• Momentary black screen for zones 1, 2, 3 at start up
+• Stuck in Map view
+• "Take control of the vehicle now" message stuck in notification menu
+• Connectivity issues
+• Loss of Data for both embedded apps and hotspot
+Display:
+• Police vehicles (5J9) - Radio display flickers when police lights are active
+• Display UI changes
+• Home button inoperable
+• Black screen
+HUD:
+• Blank HUD
+HVAC:
+• Rear climate screen will open when user taps a blank button
+Other Apps:
+• Blind Zone Steering Assist description text may have overlapped text
+• FM audio stops while crabwalk animation is going then returns after animation
+• When using APA the parking animation maybe on the incorrect side of the vehicle
+• When Crabwalk is engaged audio playing is paused
+• Rear steering still active even if off
+• User will see “SideWinder On” in Smart Controls even when the feature is actually off
+Phone:
+• Recent calls are not displayed and cluster showing calls from previous paired device
+• Bluetooth will not power up after a sleep cycle. The Add Phone button will be greyed out.
+Stability:
+• Slow boot up
+• Radio lost display and audio for 1 minute
+• Radio reset
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Bulletin No.: 24-NA-193 February, 2025 Page 3
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Caution: Before downloading the update files, be sure the computer is connected to the internet through a network
+cable (hardwired). DO NOT DOWNLOAD or install the files wirelessly. If there is an interruption during programming,
+programming failure or control module damage may occur.
+• Ensure the programming tool is equipped with the latest software and is securely connected to the data link
+connector. If there is an interruption during programming, programming failure or control module damage may
+occur.
+• Stable battery voltage is critical during programming. Any fluctuation, spiking, over voltage or loss of voltage will
+interrupt programming. Install a GM Authorized Programming Support Tool to maintain system voltage. Refer to
+www.gmdesolutions.com for further information.  If not available, connect a fully charged 12V jumper or booster
+pack disconnected from the AC voltage supply. DO NOT connect a battery charger.
+• Follow the on-screen prompts regarding ignition power mode, but ensure that anything that drains excessive
+power (exterior lights, HVAC blower motor, etc) is off.
+• Please verify that the radio time and date are set correctly before inserting USB drive into vehicle for
+programming, otherwise an error will result .
+• Clear DTCs after programming is complete. Clearing powertrain DTCs will set the Inspection/Maintenance (I/M)
+system status indicators to NO.
+Important: The service technician always needs to verify that the VIN displayed in the TLC left side drop down
+menu and the top center window match the VIN plate of the vehicle to be programmed prior to using Service
+Programming System 2 (SPS2) for programming or reprogramming a module.
+• For the TLC application, service technicians need to always ensure that the power mode (ignition) is “ON”
+before reading the VIN from the vehicle’s VIN master module and that they do not select a VIN that is already in
+the TLC application memory from a previous vehicle.
+• If the VIN that shows up in the TLC top center window after correctly reading the VIN from the vehicle does not
+match the VIN plate of the vehicle, manually type in the VIN characters from the vehicle VIN plate into the TLC
+top center window and use these for programming or reprogramming the subject module with the correct vehicle
+VIN and software and/or calibrations.
+• The Engine Control Module (ECM) is the master module (for VIP vehicles) that TLC reads to determine the VIN
+of the vehicle. If the VIN read from the vehicle by TLC does not match the VIN plate of the vehicle, the ECM
+also needs to be reprogrammed with the correct VIN, software and calibrations that match the vehicle’s VIN
+plate.
+• The Body Control Module (BCM) is the master module (for GEM vehicles) that TLC reads to determine the VIN
+of the vehicle. If the VIN read from the vehicle by TLC does not match the VIN plate of the vehicle, the BCM
+also needs to be reprogrammed with the correct VIN, software and calibrations that match the vehicle’s VIN
+plate.
+Caution: Be sure the VIN selected in the drop down menu (1) is the same as the vehicle connected (2) before
+beginning programming.
+Page 4 February, 2025 Bulletin No.: 24-NA-193
+5743643
+Important: If the vehicle VIN DOES NOT match, the message below will be shown.
+5877000
+ 
+Bulletin No.: 24-NA-193 February, 2025 Page 5
+5644477
+Important: Techline Connect screen shown above.
+Important: If the same calibration/software warning is noted on the TLC Summary screen, select OK and follow
+screen instructions. After a successful programming event, the WCC is located in the Service Programming System
+dialogue box of the SPS Summary screen. Record the WCC on the job card. No further action is required. Refer to
+the Warranty Information section of this bulletin.
+1. Reprogram the radio. Refer to A11 Radio: Programming and Setup  in SI.
+Page 6 February, 2025 Bulletin No.: 24-NA-193
+5644478
+Note: The screenshot above is an example of module programming and may not be indicative of the specific module
+that is being programmed. Module selection and VIN information have been blacked out.
+Important: To avoid warranty transaction rejections, you MUST record the warranty claim code provided on the
+Warranty Claim Code (WCC) screen shown above on the job card. Refer to callout 1 above for the location of the
+WCC on the screen.
+2. Record the SPS Warranty Claim Code on the job card for warranty transaction submission.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+2810335* Radio Reprogramming with SPSUse Published Labor
+Operation Time
+*This is a unique Labor Operation for bulletin use only.
+Important: To avoid warranty transaction rejections, carefully read and follow the instructions below:
+Bulletin No.: 24-NA-193 February, 2025 Page 7
+Labor Operation Description Labor Time
+6125814
+• The Warranty Claim Code must be accurately entered in the “Warranty Claim Code” field of the transaction.
+• When more than one Warranty Claim Code is generated for a programming event, it is required to document all Warranty
+Claim Codes in the “Correction” field on the job card.  Dealers must also enter one of the codes in the “Warranty Claim
+Code” field of the transaction, otherwise the transaction will reject. It is best practice to enter the FINAL code provided by
+SPS2.
+Warranty Claim Code Information Retrieval
+6125774
+Page 8 February, 2025 Bulletin No.: 24-NA-193
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONIf the Warranty Claim Code was not recorded on the Job Card, the code can be retrieved in the SPS2 system as
+follows:
+1. Open TLC on the computer used to program the vehicle.
+2. Select and start SPS2.
+3. Select Settings (1).
+4. Select the Warranty Claim Code tab (2).
+The VIN, Warranty Claim Code and Date/Time will be listed on a roster of recent programming events. If the code is
+retrievable, dealers should resubmit the transaction making sure to include the code in the SPS Warranty Claim
+Code field.
+Version 6
+Modified Released September 12, 2024
+Revised October 04, 2024 – Added the 2025 Buick Enclave, 2024 Cadillac LYRIQ,
+supersede statement, second Important statement under Service Procedure and involved
+regions/countries.
+Revised November 26, 2024 – Added the 2025 Chevrolet Equinox and updated the
+supersede statement.
+Revised December 16, 2024 – Added the Chevrolet Equinox EV.
+Revised January 29, 2025 – Added the Chevrolet Colorado and GMC Canyon models
+and updated the Involved Region or Country section.
+Revised February 07, 2025 – Added the Chevrolet Silverado EV and GMC Sierra EV and
+removed Australia/New Zealand from Involved Region or Country section.

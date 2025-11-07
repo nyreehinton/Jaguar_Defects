@@ -1,0 +1,61 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-127
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Infotainment Screen Hot to the Touch
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Buick Enclave 2025 2025 - - All All
+ChevroletBlazer EV 2024 2025 - - All All
+Equinox EV 2024 2025 - - All All
+Silverado EV 2024 2025 - - All All
+Suburban 2025 2025 - - All All
+Tahoe 2025 2025 - - All All
+Traverse 2024 2025 - - All All
+GMCAcadia 2024 2025 - - All All
+Sierra EV 2024 2025 - - All All
+Terrain 2025 2025 - - All All
+Yukon Models 2025 2025 - - All All
+ 
+Involved Region or Country North America, Middle East
+ConditionSome customers may comment on the display is hot to the touch when temperatures
+outside are warmer or directly in sunlight.
+Screen is operating as designed but will feel hot to the touch if the outside temperature is
+higher than 77 degrees and vehicle is in the sun.
+CauseThe cause of the condition may be due to the outside temperature and/or the sun hitting
+the screen is making the screen hot to the touch.
+Correction No actions needed, review the information below.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+ 
+Page 2 February, 2025 Bulletin No.: 24-NA-127
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONService Procedure
+Any operator touchable surface on the Controller shall not exceed a temperature of 131 degrees Fahrenheit with the
+following Controller conditions:
+• Ambient temperature 77 degrees Fahrenheit or less
+• Continuous operation
+• Supply voltage =14V
+• All backlighting on at 100% PWM
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Version 3
+Modified Released July 11, 2024
+Revised October 02, 2024 – Added Blazer EV, Equinox EV, Silverado EV and Sierra EV
+Models.
+Revised February 05, 2025 – Added Terrain, Yukon, Tahoe, and Suburban Models.

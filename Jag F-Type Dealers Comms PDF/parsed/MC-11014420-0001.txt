@@ -1,0 +1,290 @@
+2025-02-20
+This Service Information Bulletin (Revision 8) replaces SI B1 1 07 23 dated May 2024.
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+Please perform the procedure outlined in this Service Information on all af fected vehicles before customer
+delivery . In the event the customer has already taken delivery of the vehicle, please perform the procedure
+the next time the vehicle is in the shop.
+ 
+What’ s New :
+Parts Information updated
+Claim Information updated
+MODEL
+E-Series Model Description Production Date 
+G05 X5 Sports Activity V ehicle May 8, 2023 – June 17, 2023
+G06 X6 Sports Activity Coupe May 8, 2023 – June 17, 2023
+G07 X7 Sports Activity V ehicle May 9, 2023 – June 14, 2023
+G70 7 Series Sedan April 19, 2023 – June 20, 2023
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR, AWP,
+Campaign Summary , or W arranty V ehicle Inquiry .
+ 
+Please make sure you check your dealer inventory as soon as possible.  You can see a list of af fected vehicles in
+Inventory Campaign Details (ICD) under ROSS.
+ 
+SITUA TION
+The return springs on the exhaust camshaft followers (switchable rocker arm) may break.
+ 
+PROCEDURE
+Read this entire Bulletin before starting any repairs. 
+ 
+Check the vehicle history for engine or cylinder head replacement. If the engine or cylinder has been
+replaced, then the campaign can be cleared. Refer to the Claim Information section.
+ 
+If the vehicle history does not show any of the above repairs, replace all 12 exhaust camshaft followers.
+Refer to Repair Instruction 1 1 33 055 “ Remove and install/replace switchable cam follower on the exhaust
+side.” 
+ 
+Important Repair Information
+ 
+1. The Repair Instruction 1 1 33 055 currently states to remove both intake and exhaust V ANOS central bolts.  It is not
+necessary to remove and replace the “intake V ANOS central bolt,” only remove and replace the “exhaust V ANOS
+central bolt.”  
+2. The current repair instructions may state to replace the “V ANOS gears.” Please do not replace the V ANOS gears.
+Both of these errors will be corrected in a future IST A release. 
+ 
+If any broken or missing parts are identified in the valvetrain (includes
+all valvetrain components) please create a TSARA  TC case before
+continuing with this bulletin.
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 1/7
+ 
+Important IST A Repair Instruction Supplements:  
+ 
+1. When removing the ignition coils and the fuel injectors from the engine, number them with the cylinder in which
+they came from and reinstall them back in the same location. 
+2, Before reinstalling the cylinder head cover , check the camshaft timing using the applicable tools and repair
+instructions.
+The crankshaft must be pinned/locked with special tool 2 288 380.
+Both camshaft adjusters (V ANOS gears) must be locked with special tool 5 A53 587.
+ 
+The timing chain must be pretensioned using special tool 2 455 654 to ensure the timing chain is installed
+correctly . Refer to Repair Instruction 1 1 31 005 “Adjusting the timing of the camshafts”, see step 8. This center
+button the special tool will identify if the chain is correctly tensioned, over- slackened or over-tensioned.
+ 
+Check the camshaft position using the test gauge special tool 5 A7A 5B9 and basic carrier special tool 5 A4D
+A16.
+ 
+If the cylinder head cover gasket is not damaged, it can be reused . 
+ 
+If the high pressure pump gasket is not damaged, it can be reused.
+ 
+Repair and Tool Hints:
+ 
+ Cylinder 6 intermediate lever may interfere
+when trying to install the intake camshaft timing
+tools.
+ 
+Place the variable valve timing (VVT) motor in
+minimum lift before installing the camshaft
+timing tools. 
+ 
+Use a 4 mm Allen socket (1) and a ratchet (2)
+to turn the VVT  motor counter clockwise until it
+stops at the minimum lift end stop.
+ 
+  
+Tool 83 30 5 A53 587 may bind when removing
+it from both of the V ANOS adjusters, the plastic
+washer (1) may be binding the tool and will not
+allow it to collapse when the screw is
+loosened. 
+ 
+Using a fine metal file, reduce the outside
+diameter of the plastic washer by approximately
+1 mm to avoid this interference.
+ 
+Removing the washer entirely could result in
+the screw and wedge falling into the engine, the
+washer avoids loosening the screw too much.
+ 
+  
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 2/7
+Special tool 83 30 5 A4D A18 must aligned
+properly with the rollers (1). 
+ 
+Turn the brass nut (2) to make contact with the
+rollers.
+ 
+Tighten the screws on the base plate of the tool
+(3).
+ 
+Finish compressing the springs with the brass
+nut (2). 
+ 
+The tool must remain installed during the entire
+camshaft removal and installation procedure.
+ 
+LABEL  INSTRUCTIONS
+After the vehicle has been checked and corrected, obtain a label (SD 92-435) and with the indelible marker
+provided, legibly print the Recall name, recall number , and dealer code (5 digits) on the “Emissions
+Recall Campaign Completed Label” (see illustration). Peel the label from its backing and af fix it to the right
+(passenger) rear side of the hood in the engine compartment, close to windshield.
+For California centers only: It is required by the California Code of Regulations that an executed orange
+"Vehicle Emission Recall - Proof of Correction" certificate (SD92-084, see illustration) be provided to each
+customer (for vehicles registered in the state of California), once the Recall on his or her vehicle has been
+completed.
+ 
+ 
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 3/7
+PARTS INFORMA TION
+Refer to the Parts Matrix for the most up to date ordering information.
+ 
+Use and invoice the applicable part numbers listed below .
+ 
+Only one V ANOS central bolt is required. 
+ 
+G05, G06 and G07 Parts List :
+ 
+Part Number Description Quantity
+11 33 9 452 677 Switchable rocker arm 12
+11 36 9 452 251 VANOS central bolt 1
+11 31 9 845 293 Sealing sleeve 1
+13 53 8 661 716 Hexagon bolt 12
+13 53 8 661 715 Hexagon bolt 8
+11 12 9 847 198 Profile seal1 (only if
+damaged)
+13 51 7 632 572 Torx socket with washer 2
+07 11 9 909 926 O-ring 1
+13 53 9 847 174 Sealing ring 6
+11 12 1 023 249 Cylinder head cover seal set1 (only if
+damaged)
+ 
+G70 Parts List :
+ 
+Only one V ANOS central bolt is required. 
+ 
+Part Number Description Quantity
+11 33 9 452 677 Switchable rocker arm 12
+11 36 9 452 251 VANOS central bolt 1
+11 31 9 845 293 Sealing sleeve 1
+13 53 9 847 174 Sealing ring 6
+13 53 8 661 716 Hexagon bolt 12
+13 53 8 661 715 Hexagon bolt 8
+11 12 9 847 198 Profile seal1 (only if
+damaged)
+13 51 7 632 572 Torx socket with washer 2
+07 14 9 390 155 Hexagon screw with washer 2
+07 14 5 A67 B87 Hexagon nut 1
+07 11 9 906 089 Collar nut 4
+07 14 7 483 888 Hexagon bolt 4
+07 14 7 283 812 Speed nut 8
+07 14 8 837 399 ASA bolt 4
+31 11 6 899 302 Multi-purpose bolt 12
+07 14 9 231 837 Hexagon screw with washer 4
+11 12 1 023 249 Cylinder head cover seal set1 (only if
+damaged)
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed according to the IST A repair
+instructions/ETK, must be selected from the Electronic Parts Catalog, or other approved BMW resources,
+according to the respective vehicle type. Invoiced these items separately under the Repair Code listed in
+this bulletin.
+ 
+Refer to SI B10 02 15 for label ordering information.Copyright ©2025 BMW of North America, Inc.2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 4/7
+ 
+Part Number Description Quantity
+01 00 2 41 1 755 Generic Emissions Recall Label (92-435/ Roll of 50) 1
+Or:   
+01 00 2 41 1 754 Emissions Recall/Proof of Correction (92-084/ Pad of 100) 1
+ 
+CLAIM INFORMA TION
+Reimbursement for this Action will be via normal claim entry utilizing the applicable work package
+information below , and when applicable, the part numbers listed above that apply .
+Repair Code: 0011460700 G0x G70 Replacing switchable rocker arm exhaust
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair .
+ 
+Work Pkg Labor Operation Description (Plusposition work) Labor Allowance
+# 1 00 74 988 Replace exhaust switchable rocker arm As applicable
+Or: 
+  
+  
+ 
+# 2 00 75 594Checking the vehicle claim history (WVI),
+this issue was addressed through a prior
+repair1 FRU
+ 
+The vehicle arrives at your center and this Emission Recall shows open (No other Main work will be
+performed or claimed during this workshop visit)
+ 
+Work Pkg Labor Operation Description (Main work) Labor Allowance
+# 3 00 74 342 Replace exhaust switchable rocker arm As applicable
+Or: 
+  
+  
+ 
+# 4 00 75 073Checking the vehicle claim history (WVI),
+this issue was addressed through a prior
+repair1 FRU
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission and reimbursement.  Also, only
+one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and in
+the claim comments section (For example: B1 1 07 23 WP  1), unless otherwise required by State law .
+ 
+If this issue was addressed through a prior repair , please identify the prior repair information (RO/claim,
+date, and mileage) in the claim comments section.  
+  
+Sublet – Bulk Materials (RO and Claim Comments Required)
+ 
+Sublet Code 4Reimbursement for the repair-related bulk materials (Do not use
+the BMW part numbers for claim submission)Up to $50.00
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk materials (BMW part
+numbers) is at the dealer net price amount for the proportional quantities used plus your center ’s handling.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes Copyright ©2025 BMW of North America, Inc.2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 5/7
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  C lick on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+Consequential Repair (RO and Claim Comments Required)
+ 
+When additional or other replacement work, and/or parts (cylinder head or engine assembly) are required as a direct result of
+addressing the issue outlined in this Service Information bulletin, claim these items under the special Repair Code listed
+above together with the corresponding labor operation codes, including the diagnosis that applies.
+ 
+Please explain the reason for this consequential repair work (the why and the what) on the repair order and in the claim
+comments section.  
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Action repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement, claim this item
+under the Defect Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16  for additional information. 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 6/7
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:01 AM 11 07 23_VOLUNTARY EMISSION RECALL 23E-A05: REPLACE SWITCHABLE ROCKER ARM
+about:blank 7/7

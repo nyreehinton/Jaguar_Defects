@@ -1,0 +1,77 @@
+Volvo Car USA LLC  Quality Bulletin
+Bulletin Title
+Delivery Action D10297: EX90 PDI, Model Year 2025 EX90Group
+100NO
+D10297
+Issuer (Dept.)
+Product, Safety and ComplianceCar Market
+United States and CanadaIssue Date
+1/8/25Status Date
+1/8/25
+Revisions Page
+Page 1 of 3A. DELIVERY ACTION D10297 DESCRIPTION
+B.  VEHICLES INVOLVED
+C.  PORT VEHICLES if applicable
+D.  PARTS INFORMATION/PARTS RETURN if applicable
+E.  OWNER NOTIFICATION
+F .  VEHICLES IN RETAILER INVENTORY
+G.  RETAILER RESPONSIBILITY
+H.  TECHNICIAN COMPETENCY REQUIREMENT  
+I.  CAMPAIGN REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE              
+ 
+A.  DELIVERY ACTION D10297 DESCRIPTION
+Volvo Cars USA LLC and Volvo Cars Canada LTD on behalf of the Volvo Car Corporation has 
+decided to launch Delivery Action D10297: EX90 PDI on certain Model Year 2025 EX90 
+vehicles. 
+Volvo Cars investigations have identified that certain model year 2025 EX90 vehicles have 
+been produced with potential assembly issues. 
+The corrective action in conjunction with PDS, inspect the following items (please refer to the 
+PDF attached to this package for OK and NOT OK examples):
+• Driver & Passenger front door outer window seals (OWS) are seated correctly.
+• Frunk (front hood) release is functioning properly.
+• Suspension fault DTC #SUM-C10F113 is present in VIDA.
+• After washer fluid has been filled at PDS, check for leakage from the washer fluid 
+reservoir & Hoses.
+A total of 684 U.S. and 116 Canadian vehicles are affected by this Delivery Action.
+B. VEHICLES INVOLVED
+NOTE:  RETAILER MUST CONFIRM VEHICLE ELIGIBILITY PRIOR TO BEGINNING 
+THE REPAIR FOR THIS DELIVERY ACTION. VEHICLES IN RETAILER 
+INVENTORY MUST BE REMEDIED PRIOR TO DELIVERY .
+Page 2 of 3 2025-01-08
+Quality Bulletin D10297Vehicle eligibility must be confirmed:
+• Vehicle Inquiry – Warranty Vehicle Inquiry where the message “Delivery Action D10297 
+EX90 PDI” will appear for eligible vehicles, F4=History from the main Inquiry menu must 
+be selected to confirm Delivery Action D10297 has not been completed. Eligibility can also 
+be confirmed in TIE. 
+All vehicles must be checked for any incomplete recalls or service campaigns or service 
+upgrades. All open Recall, Service Campaign or Service Action repairs must be completed.
+If you have any questions concerning this recall, send them to recall@volvocars.com. 
+C.  PORT VEHICLES
+NOT all vehicles arriving from the ports will have been completed. It is the retailer’s 
+responsibility to check vehicle eligibility prior to delivery.  
+D. PARTS / PARTS RETURN 
+No parts are required for this Delivery Action. If a warranty claim is needed, please refer to the 
+reimbursement procedures and retailer allowance section in this bulletin.
+E.  OWNER NOTIFICATION
+No owner notification. This action does not apply to retailed vehicles.  
+F .  VEHICLES IN RETAILER INVENTORY
+All vehicles marked for Delivery Action D10297 must be remedied prior to delivery.
+G.  RETAILER RESPONSIBILITY
+All vehicles qualifying for this Delivery Action must be repaired prior to a customer taking 
+possession of the vehicle at new car delivery.
+H. TECHNICIAN COMPETENCY REQUIREMENT 
+The technician competency requirement for this campaign repair is Certified (G1). 
+I. REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE 
+Delivery Action D10297 claims should be submitted using the LONG FORM application only.
+Claim Type:  D10297
+Cause Code:  02
+CSC Code:  XW
+Main OP:  99922-2
+Failed Part:  9139567 (No Parts Involved)
+2025-01-08 Page 3 of 3
+Quality Bulletin D10297Operation Number Repair Description Qty Labor Time
+99922-2 General Reimbursement acc. to QB 1 0.2
+*If a warranty job is required for repair, please use the PREDEL claim type. D10297 is to be 
+claimed for inspection.
+*Labor times provided are current at the time of release and are subject to change:  Claims 
+will be paid at the time in effect on the repair date.

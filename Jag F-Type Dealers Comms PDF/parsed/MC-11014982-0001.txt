@@ -1,0 +1,83 @@
+Warranty Field Campaign
+Campaign Number :  c7129  Revision : Released Date : 18-F eb-2025
+X15N F ront Engine Suppor t Bracket Cap Scr ews
+Replacement CampaignExpir ation Date (U.S. and
+Canada) : 18-F eb-2025
+Expir ation Date
+(International) : 18-F eb-2025
+Attention
+If additional information is r equir ed, please contact y our Cummins W arranty Oper ations Gr oup
+Leader .
+Description
+ActionU.S. / Canadian Dealers
+U.S. / Canadian Distr ./Branches and Div . Offices (A utomotiv e)
+This Campaign is being issued t o addr ess incorr ect F ront Engine Suppor t Bracket Cap Scr ews fr om
+factory on cer tain X15N CM2380 X150B engines. This field action authoriz es cer tified r epair
+locations t o replace all (14) cap scr ews and adjust t o the pr oper t orque specifications on eligible
+engines.
+In or der t o qualify for r epair under this field action, an engine:
+1. will be co vered Regar dless of co verage status, and
+2. must  show as OPEN on QuickSer ve® Online for this field action.
+Note :  The ESN list is attached for r eference.
+After v erifying that the engine meets the abo ve requir ements, per form the following actions:
+Note :  Ther e is no need t o remo ve the F ront Engine F ront nor Side Suppor t Brackets t o
+complete this r epair . Please r efer to Ser vice Manual 6383176.
+1. DO NOT remo ve the F ront Engine Side Suppor t Brackets. Remo ve (1) cap scr ew on the F ront
+Engine Side Suppor t Brackets one at a time and r eplace with the corr ect cap scr ew. Please
+refer to Procedur e 016-002.
+Material Disposition
+Reimbursements2. Torque t o the r equir ed specification found in Pr ocedur e 016-002. Remo ve, replace and t orque
+each of the r emaining cap scr ews, one at a time. Complete the cy cle befor e mo ving t o the next
+one t o prevent any engine fr ont suppor t misalignment. Ensur e that all (8) cap scr ews ar e to
+replaced and set t o proper t orque specifications.
+3. Similarly , do not remo ve the F ront Engine Center Suppor t Bracket. Remo ve (1) cap scr ew on
+the F ront Engine Center Suppor t Bracket at a time and r eplace with the corr ect cap scr ew.
+Please r efer to Procedur e 016-002.
+4. Torque t o specification found in Pr ocedur e 016-002. Complete (1) cap scr ew befor e mo ving t o
+the next one t o prevent any engine fr ont suppor t misalignment. Ensur e all (6) cap scr ews ar e
+to changed and set t o proper t orque specifications.
+Note :  If desir ed, y ou can star t with F ront Engine Center Suppor t Bracket and complete
+Front Engine Side Suppor t Brackets. This will not alter the r epair eff ectiv eness as long
+as cap scr ews ar e replace and t orque one a time.
+Materials r emo ved as a r esult of this field action must  be scr apped.
+Parts
+The following par ts ar e co vered under this field action:
+Part Number Quantity Description
+287407700 8 SCR,CAP
+400122600 6 SCR,CAP
+Note :  SRTs to gain access that ar e requir ed to complete the r epair , that ar e sufficiently
+explained in the claim narr ative, ma y also be claimed on this action.
+Labor Using A pplicable Access Code and Time
+SRT Code Description Time (hrs)
+00-90FTechnician Administr ative
+Time - Field Action Ser vice
+Events
+16-0H8Engine Suppor t Bracket, Front
+- Remo ve and Install - X15N
+CM2380 X150B
+Travel
+Claim Instructions
+Claim Codes
+Description Code
+Account Code: 65
+Pay Code: North America Distribut or = X
+Pay Code: North America Dealer = D
+Pay Code: International Distribut or = I
+Pay Code: International Dealer = R
+Failur e Code: WSMMH A
+Attachments
+Engine F amily Fuel System
+Design A pplication Mark et Application
+Automotiv e Automotiv e
+Document Hist ory
+Last Modified:  18- Feb-2025Travel is not covered under this field action. Towing is not covered under this field action.
+Other Claimables
+Consumables ar e not covered under this field action.
+For Cummins Dealers, claims for this Field Campaign must  be filed via RAPID SERVE™ W eb
+(rsw .cummins.com). F or information r egar ding RAPID SERVE™ W eb, please r eference the
+"Warranty " tab in QuickSer ve® Online. If ther e are additional questions, please contact y our local
+Cummins Distribut or.
+Click her e to see c7129_esn-list.xlsx
+(/ser vice/english/attachments/c7129_esn-list.xlsx)
+Date Details
+Document Cr eated; 18-F eb-2025

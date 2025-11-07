@@ -1,0 +1,144 @@
+SIB 51 46 16
+CREAKING/GROANING SOUND FROM TAILGA TE ACTUA TOR2025-02-03
+This Service Information Bulletin (Revision 04) replaces SI B51 46 16 dated May 2023.
+ 
+What’ s New  (Specific text highlighted):
+Model added.
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+F34 
+(3 Series Gran
+Turismo)F36 
+(4 Series Gran Coupe)
+ F39 
+(X2 Sports Activity
+Coupe)F44 
+(2 Series Gran Coupe)
+F48 
+(X1 Sports Activity
+Vehicle)F80 
+(M3 Sedan)
+ F82 
+(M4 Coupe)F83 
+(M4 Convertible)
+F85 
+(X5 M Sports Activity
+Vehicle)F86 
+(X6 M Sports Activity
+Coupe)F87 
+(M2 Coupe)F90 
+(M5 Sedan)
+F91 
+(M8 Convertible)F92 
+(M8 Coupe)F93 
+(M8 Gran Coupe)F95 
+(X5 M Sports Activity
+Vehicle)
+F96 
+(X6 M Sports Activity
+Coupe)F97 
+(X3 M Sports Activity
+Vehicle)F98 
+(X4 M Sports Activity
+Coupe)G01 
+(X3 Sports Activity
+Vehicle)
+G02 
+(X4 Sports Activity
+Coupe)G05 
+(X5 Sports Activity
+Vehicle)G06 
+(X6 Sports Activity
+Coupe)G07 
+(X7 Sports Activity
+Vehicle)
+G09 (XM Sports
+Activity Coupe)G12 
+(7 Series Sedan)G14 
+(8 Series Convertible)G15 
+(8 Series Coupe)
+G16 
+(8 Series Gran Coupe)
+ G20 
+(3 Series Sedan)G22 
+(4 Series Coupe)
+ G23 
+(4 Series Convertible)
+G26 
+(4 Series Gran Coupe)
+ G30 
+(5 Series Sedan)
+ G32 
+(640i xDrive Gran
+Turismo)
+ G42 
+(2 Series Coupe)
+ 
+G60 
+(5 Series Sedan)
+ G70 
+(7 Series Sedan)G80 
+(M3 Sedan)G82 
+(M4 Coupe)
+G83 
+(M4 Convertible)
+ G87 
+(M2 Coupe)
+ G99 (M5 Sports
+Wagon)I20 
+(iX Sports Activity
+Vehicle)
+U11 
+(X1 Sports Activity
+Vehicle)   
+ 
+SITUA TION
+Upon opening and closing the tailgate, a creaking/groaning sound can be heard from tailgate actuator . 
+ 
+Note: Please see attached video 51 04 23.
+ 
+CAUSE
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:39 AM 51 46 16_CREAKING/GROANING SOUND FROM TAILGATE ACTUATOR
+about:blank 1/3
+Excess friction caused by dirt/dust entry into the tailgate actuator and/or striker
+ 
+CORRECTION
+Clean and lubricate the tailgate actuator and striker .
+ 
+PROCEDURE
+Verify that a popping sound from the tailgate is heard. If yes, proceed to step 1.
+1. Using a clean dry cloth, clean the tailgate actuator and striker. Compressed air can be used if
+necessary. 
+2. Using a small bush, lubricate the tailgate actuator and striker using special grease RHF 1.
+3. Open and close the tailgate multiple times to spread the grease.
+ 
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in either ETK
+or AIR which considers specific equipment and/or options.
+ 
+Part Number Description Quantity
+83 19 2 157 321 Special Grease RHF 1 (20g) As needed
+ 
+CLAIM INFORMA TION
+This Service Information Bulletin provides technical, diagnosis, and repair-related information.
+ 
+Damage and/or issues caused by outside influences are not covered under the BMW limited warranties.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Supporting Materials
+Videos
+51 04 23
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:39 AM 51 46 16_CREAKING/GROANING SOUND FROM TAILGATE ACTUATOR
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.2/6/25, 5:39 AM 51 46 16_CREAKING/GROANING SOUND FROM TAILGATE ACTUATOR
+about:blank 3/3

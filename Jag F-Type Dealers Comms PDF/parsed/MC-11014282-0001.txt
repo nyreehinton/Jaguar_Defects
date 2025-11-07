@@ -1,0 +1,38 @@
+1 
+ 
+ 
+ 
+Units : TriPac 3  
+Description : If the TKV5 is not communicating with telematics, verify the TKV5 is installed 
+correct ly. 
+Correct Installation : 
+1. HMI: Menu > System Details > Telematics/TracKing V5/Tel Connection/Tel Firmware/Tel 
+Serial (Num)  
+   
+2. WinTrac®:  
+ 
+  
+Date:  January 29, 2025  
+Subject:  TriPac 3 TKV5 Not Communicating  
+Location:  e-Tech Library    Service  Bulletin  
+  SB972 
+ 
+The TKV5 serial number, firmware version, 
+and connected status are populated if 
+connected correctly.  
+2 
+ Incorrect Installation:  
+1. HMI:  Menu > System Details > Telematics/TracKing V5/Tel Connection/Tel Firmware/Tel 
+Serial (Num)  
+   
+2. WinTrac:  
+ 
+ 
+ 
+ 
+ 
+TKV5 Harness Diagram : 
+ 
+The TKV5 serial number, firmware version, 
+and connected status are not populated if 
+connected incorrectly.  

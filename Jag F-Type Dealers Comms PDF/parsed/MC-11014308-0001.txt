@@ -1,0 +1,83 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment on a "Service Door Latch
+System" message.
+CauseThe cause of this concern could be that the rear child
+door lock safety feature is out of sync.  
+Bulletin No.: PIT6288D
+Published date: N/A
+Preliminary Information
+PIT6288D Service Door Latch System
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+-  All Models,  First verify that the rear doors will open from the inside door
+handles by having an assistance get into a 2nd row seat and then close the rear
+Labor Operation Description Labor Time
+* 6486278Cadillac/Chevrolet Models - Cycle the
+child safety door locks.    
+GMC Models - Contact T AC Action
+Center0.3 Hrs.
+*This is a unique Labor Operation for Bulletin use only .doors.  Once inside try pulling each inside rear door handle several times to
+make sure both rear doors will open.  If both rear doors open, then proceed to
+the information below based on your model vehicle.  If a rear door will not
+open then that will need to be ﬁxed ﬁrst.  Please follow SI "Door Will Not
+Open/Close, Door Binding, or Locks, Handles, or Cylinders Do Not F unction"
+step 14.  NOTE:  The child safety lock feature will not operate properly when
+cycled IF there is preload from the inside door handle/cable.  This could be
+caused by the inside door handle cable being misinstalled/binding/etc. causing
+a slight preload on the door latch.  Remove the door panel and inspect the
+inside door handle cable for being misinstalled/binding/kinks/etc.  Disconnect
+the cable from the inside door handle and allow the cable to completely relax
+to release any preload from the door latch.  With only the cable disconnected
+try cycling the child safety lock feature in the radio displa y to see if the issue is
+repaired.  Also, try to 
+ 
+rear door ma y have an issue w child safety lock feature is not working properly ,
+because with this fault message present the rear child safety lock feature
+should be oﬀ/disabled for both rear doors and the doors should open from the
+inside door handles.  F or a door that will not open from the inside door handle,
+please follow normal SI diagnostics for "Power Door Child Lock Malfunction" to
+correct the child safety lock before proceeding to the information below .  After
+correcting the child safety lock then proceed to the information below based on
+your model vehicle.  
+-  On Cadillac and Chevrolet models, resync the rear door child safety locks by
+opening all doors and leave open.  Then go into the radio displa y and cycle the
+child safety locks on and oﬀ.  It is important that you are at the screen which
+displa ys "oﬀ" and "on", as shown above.  T o get to this screen go to the radio
+displa y home screen > select Controls > See More Controls > Doors & Windows
+> Child Safety Locks > On and Oﬀ.  If cycling the child safety locks does NOT
+correct the concern, then perform normal SI diagnostics for "Power Door Child
+Lock Malfunction" to correct this issue.
+- On GMC models, contact the T AC Action Center for additional repair
+instructions.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+ 
+Additional SI K eywords
+DTC B11A2 B171C B1804 B11A4 B125D B1805
+Version History
+Version 4
+Modiﬁed11/22/2024 - Created on.  
+12/05/2024 - Update correction.  
+12/13/2024 - Update to the correction section.  
+01/08/2025 - Update to the correction and
+warranty sections.
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

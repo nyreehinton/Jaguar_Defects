@@ -1,0 +1,315 @@
+L-SB-0004 -25   January 14, 2025  
+ 
+2025 GX 550 Pre -Delivery Service (PDS)  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 9 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  GX550   
+ 
+Introduction  
+Pre-Delivery Service (PDS) is a critical step in satisfying our new car customers. Customer  
+feedback indicates the following areas deserve special attention when performing PDS:  
+ Careful inspection for paint chips/scratches and body dents/dings.  
+ Proper operation of electrical accessories (including interior light, clock, and radio reset).  
+ Interio r cleanliness.  
+ Proper function of mechanical systems.  
+Customer retention and proper maintenance of vehicles are and have always been a major focus 
+for Lexus. To help remind customers that regular service is essential to the proper maintenance 
+of the vehicl e, dealers are required to install a service reminder sticker before delivery. By doing 
+this, customers will be reminded to return to your dealership for service. Your current service 
+reminder sticker may be used.  
+This bulletin contains the PDS procedures that apply specifically to 202 5 model year  
+GX 550  vehicles . 
+Refer to the universal Check Sheet  that contains PDS steps that apply to all  2025 model year 
+Lexus  vehicles . To properly perform a comple te PDS, you must complete all procedures 
+contained in this TSB as well as the PDS Check Shee t. 
+In addition, if the vehicle is stored for over 30 days, refer to L-SB-0003 -24, Long -Term Vehicle 
+Storage Guid elines.  
+ 
+  
+ L-SB-0004 -25   January 14, 2025  Page 2 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction (continued)  
+Refer to the table below for a definition of terms that may be used in this bulletin.  
+ 
+Table 1. 
+TERM  ACRONYM  DEFINITION  
+Conventional Vehicle  CV A vehicle with  only a gasoline  engine  for propulsion  
+Electrified Vehicle  EV A vehicle that utilizes a hybrid, plug -in hybrid, or battery 
+electric system for propulsion  
+Hybrid Electric Vehicle  HEV A vehicle with both a gasoline engine and a HV Battery  
+Plug-in Hybrid  
+Electric Vehicle  PHEV  A vehicle with both a gasoline engine and a HV Battery that 
+can be charged externally  
+Battery Electric Vehicle  BEV A vehicle with only a HV Battery that can be  
+charged externally  
+State of Charge  SOC  The remaining capacity available in a battery  
+12-Volt 12V Standard  12V battery  used  to power  electrical  systems  
+separate  from high voltage  components  
+High Voltage  HV HV Battery  used  to power  the electrified  vehicle  
+ 
+ 
+  
+ L-SB-0004 -25   January 14, 2025  Page 3 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Table of Contents  
+ Warranty Policy  ................................ ................................ ................................ ..........................  4 
+ Warranty Information  ................................ ................................ ................................ ..................  4 
+ Required Tools & Eq uipment  ................................ ................................ ................................ ..... 4 
+ D/C Cut Fuse Installation  ................................ ................................ ................................ ...........  5 
+ Front License Plate and Mounting Bracket Installation * ................................ ..............................  6 
+ Check Torque of Wheel Fasteners  ................................ ................................ .............................  7 
+ Tire Pressure Warning System (TPWS) Initialization  ................................ ................................ .. 8 
+ Seating Position Control ECU Initialization  ................................ ................................ .................  8 
+ Head Unit System Reset  ................................ ................................ ................................ ............  8 
+ Customize ACC Function  ................................ ................................ ................................ ...........  9 
+ Dealer Contact Information for Call Dealer Head Unit Function  ................................ ..................  9 
+ Navigati on — Set Date & Time by GPS  ................................ ................................ .....................  9 
+*If applicable.  
+  
+ L-SB-0004 -25   January 14, 2025  Page 4 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Policy  
+If the need for additional repairs or adjustment is noted during PDS, the required service should 
+be performed under warranty. Reimbursement will be managed under the warranty policy.  
+ 
+The Warranty Policy and Procedures Manual requires that you maintain the completed  
+Check Sheet in the customer’s file . If you cannot produce a completed form for each retailed  
+vehicle upon TMS and/or Region/Distributor audit, the PDS payment amount will be subject  
+to debit.  
+ 
+An additional Repair Order completed in conjunction with normal PDS MUST  have time 
+punch /flags for service. If multiple repairs are performed, separate time  flags MUST  be punched 
+for each  repair.   
+ 
+ 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST. 
+ 
+  NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ GTS+ software version 2024.0 4.004.02  or later is required . 
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ L-SB-0004 -25   January 14, 2025  Page 5 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+D/C Cut Fuse Installation  
+To minimize battery discharge during transportation and storage, the D/C cut fuse (30A) has been 
+removed at the assembly plant and temporarily stored in the blank space of the relay block in the 
+engine compartment. During PDS, reinstall the D/C cut fuse (30A) to its original location and 
+confirm ALL related Diagnostic Trouble Codes (DTCs) are cleared.  
+ 
+Remove the D/C cut fuse (30A) from the blank space of the relay block in the engine 
+compartment and install the D/C cut fuse (30A) in the relay block as shown.  
+Figure 1. 
+  
+ 
+1 Relay Block   3 Install the D/C Cut Fuse (30A) (Original Location)  
+2 Remove the D/C Cut Fuse (30A)  
+ 
+ 
+ 
+  
+NOTE  
+ With the D/C cut fuse (30A) removed, if ANY DTCs are detected when the ignition is turned ON  
+during transportation, use Global Techstream Software (GTS+) to clear ALL DTCs AFTER ensuring 
+that there are NO malfunctions.  
+ While the vehicle is stored at the dealership, disconnect the negative ( –) battery terminal to prevent 
+battery discharge. Refer to L-SB-0001 -24, Battery Inspection and Maintenance During PDS,  for  
+battery maintenance information . 
+1 
+3 2 
+ L-SB-0004 -25   January 14, 2025  Page 6 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  
+The front license  mounting  plate bracket and two self -tapping screws are loaded in the vehicle at 
+the assembly plant. Follow  this procedure to install the front license plate  mounting  bracket and 
+front license plate in states where it is required by law . 
+1. Align holes “A” of the mou nting bracket with 
+the dimples on the front bumper.  
+ Figure 2. 
+ 
+ 
+ 
+A Holes “ A” for Mounting Bracket  
+B Holes “B” for Front License Plate  
+1 Mounting Bracket  
+2 Dimples  
+3 Self-tapping Screws  
+ 
+ 2. Install the front license plate mounting  
+bracket to the front bumper using two  
+self-tapping screws.  
+ 
+ 
+ 
+NOTE  
+ Holes “A” are used for installation of the 
+front license plate mounting bracket to the  
+front bumper.  
+ Holes “B” are used to install the license 
+plate onto the mounting bracket.  
+NOTICE  
+ Do NOT overtighten the  
+self-tapping screws.  
+ Do not pre -drill holes in the dimples.  
+B 
+A 
+1 
+2 
+3 
+ L-SB-0004 -25   January 14, 2025  Page 7 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  (continued)  
+3. Install the front license plate to the mounting bracket using two non -corroding bolts with the 
+following dimensions:  
+Length: 15.0 mm (0.59 in.)   
+Diameter: 6.0 mm (0.24 in.)  
+ 
+Figure 3. 
+ 
+ 
+1 Length  
+2 Diameter  
+ 
+ Figure 4. 
+ 
+ 
+1 Bolts 
+2 Front License Plate  
+ 
+ 
+ 
+ 
+ 
+Check Torque of Wheel Fasteners  
+Using a calibrated torque wrench, verify the wheel fasteners on each wheel are tightened to at 
+least the specified torque listed in the Repair  Manual . 
+ 2025  GX 550:  
+General – Maintenance – Tire and Wheel – Installation  
+ 
+ 
+ 
+  
+NOTICE  
+Do NOT continue to tighten once verified . 
+1 
+2 
+1 
+ 2 
+ L-SB-0004 -25   January 14, 2025  Page 8 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Tire Pressure Warning System (TPWS) Initialization  
+Refer to the applicable Repair Manual for the TPWS initialization procedure . 
+ 2025  GX 550:  
+Suspension – Tire Pressure Monitoring – Tire Pressure Warning Receiver – Initialization  
+ 
+ 
+ 
+ 
+ 
+Seating Position Control ECU Initialization  
+Refer to the applicable Repair Manual for the seating position control ECU Initialization  
+procedure (procedure 2).  
+ 2025  GX 550:  
+Vehicle Interior – Seat – Front Power Seat Control System – Registration  
+ 
+ 
+ 
+ 
+Head Unit System Reset  
+Prior to vehicle delivery , confirm that the welcome screen with language options appears on  
+the head unit display when the ignition is switched to the ON position. There may be instances 
+where the welcome screen with language options may not properly appear on the  
+head unit display.  
+If the welcome screen showing language options is NOT  displayed, complete the  
+following steps:  
+1. Select the Settings option (gear icon).  
+2. Scroll down and select the Info & Security option.  
+3. The System Reset dialogue box will appear. Select Reset to confirm the resetting of  
+the system.  
+4. Confirm that the welcome screen with language options is now displayed.  
+ 
+  NOTE  
+ To adjust the tire pressure correctly when the outside temperature is significantly colder than shop 
+temperature, perform a Health Check using GTS+ and select the compensation tire pressure 
+checkbox. Compensation pressures will display on the Health Check results screen. Adj ust the tire 
+pressure when the tires are cold.  
+ The spare tire does have a TPWS sensor.  
+ L-SB-0004 -25   January 14, 2025  Page 9 of 9 
+2025 GX 550 Pre -Delivery Service (PDS)  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Customize ACC Function  
+The pre -startup function detects when a user enters the vehicle, and  it energizes the audio head 
+unit (+BA) so that the multimedia system can quickly be used. This function is not enabled at the 
+factory to reduce parasitic current draw in transit and storage. To enable this function, it is 
+necessary to set the ACC customization function in the navigation display to OFF.  
+1. Turn the engine switch (power switch) to the ON position (ON mo de). 
+2. Enter the following menus: Settings – Vehicle Customization – Utility – ACC Customize . 
+3. Change the setting to OFF.  
+ 
+ 
+ 
+ 
+Dealer Contact Information for Call Dealer Head Unit Function  
+Refer to the Multimedia System Owner’s Manual  to add dealer contact information . 
+ 2025  GX 550 : 
+Section 2 -8 Vehicle Settings – Setting Dealer Information  
+ 
+ 
+ 
+ 
+Navigation — Set Date & Time by G PS 
+Prior to vehicle delivery , it is necessary to turn the Set Date & Time by GPS setting to the  
+ON position.  
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Navigate the following menus in the head unit: Settings – General – Date & Time – 
+Set date & time by GPS . 
+3. Ensure the Set Date & Time by GPS function is set to the ON position.  
+ 
+ 
+ 

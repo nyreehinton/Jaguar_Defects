@@ -1,0 +1,266 @@
+Mack Anthem (AN) And Pinnacle (PI) -
+Bendix ABS Fault SPN 807 FMI 13 Blink
+code 19-4
+ 
+Published 20 February 2025
+ 
+Valid For
+ 
+Mack AN, PI models
+Built 1 December 2019 to 19 October 2020
+ 
+ 
+The new Central Pressure Control (CPC) system has changed the way that the ABS chuff
+test is performed. On initial key on the ABS goes through a pneumatic chuff test where
+it activates the ABS modulators. The second portion of the test activates once the
+driver applies the service brake. The system then performs a pneumatic and electrical
+test that monitors system response while activating modulators such as Trailer
+Pressure Modulator Valve (TPMV). This test is to verify electrical components along with
+the pneumatic is system pressures and exhaust are working correctly. 
+ 
+There have been a few trucks that have not passed the chuff test due to hose
+configuration and the software monitors not allowing for system or driver variables.
+This ABS software and hardware change will address both.
+ 
+ 
+Mack Trucks without Hill Start Assist (HSA)
+ 
+Relocate the vent by removing the mushroom vent from ATR6 valve control port and run 3/8
+line from the valve to any open port in the pass through air manifold mounted on the bulkhead.
+ 
+Air Line Fitting Part Number Reference    
+Fitting Size P/N
+1/4 -18 NTF X 3/8 8397700
+ 
+ Preview Solution CBR-2024-8
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 1/11
+Mack Trucks with Hill Start Assist (HSA)
+ 
+Remove ¼" airline that runs from ATR6 control port to Hill-start assist valve. See Figures 3 and
+4. Replace ¼" line with 3/8".
+ 
+Air Line Fitting Part Number Reference
+Fitting Size P/N
+1/8 - 27 NTF X 3/8  8397698
+1/4 -18 NTF X 3/8 8397700
+ 
+ 
+Program ABS controller
+ 
+Configuration operation found in Tech Tool. The operation will download a
+configuration file for the connected vehicle and initiate configuration of the ESP
+feature via the Bendix® Vendor Configuration Program (VCP).
+ 
+A specific Bendix® VCP package for Tech Tool must be installed on the PC prior to
+performing an ESP configuration. This software is not installed as part of Tech Tool and
+therefore must be downloaded and installed separately.
+ 
+The Bendix® VCP installation can be found on the Trucks Dealer Portal website.
+ 
+•  This installation file may be updated at any time and should be downloaded
+only from the Trucks Dealer Porta l website.
+ 
+ 
+Download Instructions:
+ 
+1. Login to Trucks Dealer Portal (TDP)
+ 
+2. Under the INFORMATION tab select Software Downloads.
+  ;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 2/11
+ 
+ 
+3. Select Bendix VCP link to download the latest installation 
+ 
+ 
+ 
+ 
+4. Save the .zip file in a location on the PC that is easy to find - for example,
+"C:\Temp" or the Desktop.
+ 
+ 
+Software Installation
+ 
+CAUTION
+If the Bendix® Vendor Configuration Program  or ABS6
+Vendor Configuration Program  is already installed on
+PC - it must be removed prior to installing a new version.
+Removal Instructions:
+1. Go to the ‘Control Panel’ in Windows – double click on ‘Add or Remove Programs’.
+ 
+2.  In the list of currently-installed programs find Bendix® ABS6 Vendor
+Configuration Program  or Bendix® vendor configuration Program  - right click and;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 3/11
+select 'Remove/Uninstall'.
+ 
+3. Follow the prompts through the uninstall process.- Once the old version has been
+removed – the new version can be installed.
+ 
+ 
+Bendix (VCP) Installation:
+ 
+1.  Go to the location where the .zip was saved
+ 
+2.  Open the zip file and double - click the BendixSoftware.exe  file.
+ 
+•  Note:  It may be necessary to extract the file to a temporary location before
+running the .exe file.
+ 
+3.  Right lick on the .zip file and "extract" it to a temporary location.
+ 
+4.  Go to the temp location, find the Bendix Vendor Configuration Program VM.exe file
+and double- click it. 
+ 
+5.  Follow the installation instructions used in the default settings. (Additional
+components used by  Bendix® VCP  will be installed if they are not on the PC)
+ 
+•  Note:  A message will be shown if an additional required component is not
+installed on the PC. [see figure 2]
+Figure 2
+6.  Click ‘Install’ to install  the component; selecting ‘Cancel ’ will abort the installation.
+ 
+7.  When the component installation finishes, the installation will continue. Click ‘Next’
+to proceed. [see figure 3]
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 4/11
+Figure 3
+ 
+ 
+Network Connection at the Vehicle
+ 
+In order to perform the ESP Control Unit Configuration operation, it must be possible
+to connect to the vehicle and the Central Systems at the same time. Therefore, it must
+be possible for the PC to have a network (LAN or Wi-Fi) connection while also
+connected to the vehicle’s diagnostic connector.
+ 
+Performing ESP Control Unit Configuration
+ 
+After performing the actions outlined in the Preparation section above, connect the PC
+to the vehicle’s diagnostic connector and complete the vehicle identification process
+displayed in Tech Tool’s ‘PRODUCT’  tab.
+ 
+•  Make sure that the PC is able to connect to Central Systems via a
+network/internet connection.
+ 
+Select the “Calibrate” tab and expand group ‘5 – Brakes’ and open the ‘ESP
+Control Unit Configuration’ operation. [see figure 4]
+ 
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 5/11
+Figure 4
+ 
+ 
+The ESP Control Unit Configuration operation is structured as a checklist of
+actions, similar to control unit software programming operations.  [see figure 5]
+Figure 5
+ 
+ 
+Start the operation by clicking the start button in the toolbar. After the
+conditions are confirmed, the operation will read data from the vehicle. A
+connection to Central Systems will be made in order to download the ESP system
+configuration file for the connected vehicle.
+ 
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 6/11
+A window may open depending on what version of Tech Tool is being used. Select
+either option and hit OK.
+ 
+ 
+After the ESP system configuration file is downloaded, a configuration window
+containing a status bar will appear while the ESP control unit is configured.  [see
+figure 6]
+ 
+•  Note:  On some occasions, the status bar window may appear blank. Although
+it appears that no action is occurring, the process is proceeding. In this case,
+allow the process to continue. The ABS ECU will be restarted and the
+configuration window will disappear when its task is complete and the process
+will continue in the main operation window.
+ 
+Figure 6
+ 
+After the configuration is complete, the configuration window will be closed and
+another connection to Central Systems will be made in order to send a ;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 7/11
+confirmation that the configuration has been completed successfully.
+ 
+Once the configuration has been completed verify that the sysyem air is fully charged.
+Apply ignition power and wait 30 seconds.  
+ 
+1.  Use Bendix ACom Pro Diagnostic Software or ACom Diagnostic Software V6.7.2.5 (or
+higher) to clear the active pressure sensor DTC.
+ 
+2.  Carrying out the demand pressure sensor initialization procedure which involves
+applying service brakes of 90 psi or greater for three (3) seconds (while stationary).
+ 
+Once this procedure is carried out successfully, if there are no other
+active DTCs, the ATC/ESP indicator lamp will no longer be illuminated.
+ 
+ 
+ 
+ 
+If fault code SPN807 FMI 13 is still present or active
+after a road test please follow  the steps below.
+ 
+1. Pull ECU80 ACOM report (HTML Format) and attach to SR case
+2. Chock the truck so there is no concern about rolling.
+3. Hook up ACOM and clear DTC’s: SPN 807 FMI 13
+4. Run the chuff test two times and check to see if fault code SPN 807 FMI 13 comes
+active
+ 
+Chuff Test:
+a. Key on and let the traditional chuff test complete.
+b. Make a moderate brake application and release. No need to release the parking
+brake
+5. If a fault becomes active proceed to step 6. If the fault does not reoccur proceed to
+step 7
+6. Remove anything connected to the ATR-6 control port so it is open right at the ATR-6.
+a. Trucks built with HSA, pulling the tube out of the fitting should suffice. HSA will not
+pneumatically function, but it is not activated during the chuff test so the open tubing
+will not blast air during this procedure.
+b. Trucks built without HSA, remove the vent “mushroom cap” fitting to be taken out in
+case it is not venting properly.
+7. Hook up ACOM and pull up a pressure test monitor PS1 and PS2 sensors while
+running tests.
+8. Apply service brake and watch both sensors to see that the pressure rise and fall
+simultaneously
+9. Perform and record Chuff Test and include it into SR case
+10. PS2 sensor should be slightly delayed of PS1 during this test. If PS2 is holding
+pressure Check to see if the air is present by adding a pressure gauge tee in line with
+the PS2 sensor and watching to see if the pressure drops off at the gauge.
+11. Make sure the added gauge and the ACOM PS2 gauge pressures rise and fall at the
+same time. The gauges may or may not match pressures but they both should be near ;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 8/11
+zero after the chuff test.
+12. Checking PS2 Sensor: If ACOM shows that there is still a pressure check PS2 and the
+added gauge shows zero. Check the sensor to see if wires are pulled tight against the
+senor sideloading the sensor wire seals at the connector, verify that terminals are not
+spread. Verify that the circuits do not contain any cuts or abrasions. Replace sensor
+and calibrate by applying service brakes of 90 psi or greater for three (3) seconds (while
+stationary)
+13. Checking HSA and ATR6 Piping: If both the added gauge and the ACOM PS2 sensor
+show pressure dropping at the same time, perform step 6.
+14. Rerun chuff test. If the pressure is still not dropping at the gauge and ACOM PS2
+sensor still shows pressure
+15. Check the delivery hose to see if the hose is kinked or pinched.
+16. If there is air at the switch identify the source of where the air is not being
+exhausted. Check Trailer Pressure Modulator Valve to make sure there is no air at DEL
+port or coming back from the tractor protection valve. Inspect all airlines for sharp
+bends, pinches, or kinks.
+ 
+ 
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivit… 9/11
+ 
+Related links and attachments
+No content available
+ Share
+to others that might find it helpful
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivi… 10/11
+Feedback
+Give feedback
+to help improve the content of this
+article
+;Live UI2/28/25, 10:21 AM Article
+https://volvo-trkna-prod1.pegacloud.net/prweb/PRAuth/app/VolvoKM_/8ArYedXAbJ8Ah7TyziTZDNcbINKlj7CXNfiib1A0TL8*/!TABTHREAD1?pyActivi… 11/11

@@ -1,0 +1,61 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:   S2219000005  Rev. C  
+ 
+ 
+Release Date:   February 2025  
+ 
+ 
+Symptom/Vehicle Issue : Check Engine Lamp On . Warning Messages In The Cluster .  
+U0131 Lost Communication With  Power Steering Control Module Set.  
+ 
+ 
+Customer Complaint/Technician Observation : Customer may mention service 
+electric steering message in the cluster along with other warnings  and lamps . They 
+may complain the Electronic Power Steering ( EPS) assist was lost at start up for a key 
+cycle. Technicians may find modules reporting U0131 Lost Communication Diagnostic 
+Trouble Code (DTC) set against the EPS.  
+ 
+ 
+Discussion : First, review any applicable  service bulletins and information that may 
+apply to a customer complaint.  If DTC U0131 Lost Communication with Power Steering 
+Control Module is set, do not start with replacing the EPS. Verify the EPS connectors 
+are fully snapped in by pushing on the connectors. Comments  from field technicians  
+show concerns with the amount of grease found in the EPS connectors. The amount 
+shown in the images is applied at assembly and is correct. Dielectric grease is used in 
+this location due the EPS location and contact with moisture  and IS NOT the cause of 
+U0131 DTC . Do not add to or remove the factory applied grease. Inspect the pins for 
+push out and damage such as being bent. I nspect the EPS ground locations . Clean 
+connection points  and tighten grounding cables .  
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+ 
+Examples of factory applied dielectric grease. Do not add to or remove the grease . 
+ 
+ 

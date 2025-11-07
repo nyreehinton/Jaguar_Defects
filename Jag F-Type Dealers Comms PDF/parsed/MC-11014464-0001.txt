@@ -1,0 +1,22 @@
+Version  1
+Modiﬁed  02/21/2025 - Created on.
+Bulletin No.: PIT6345
+Published date: 02/21/2025
+Preliminary Information
+PIT6345 P059F and P05AE DTCs set in snowy or icing conditions
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletEquino x2025 All AllAll All
+GMC Terrain 2025 All AllAll All
+Involved Region or Country:   North America
+Condition:    Vehicle ma y present with a CEL and DTCs P059F and P05AE.
+Cause:   This is lik ely caused by a software anomaly mixed with snow or freezing temperatures.
+Correction: 
+If no issue is found after completing the diagnostics in SI for both DTCs, do not replace the shutter assembly .
+Engineering is currently investigating.
+The PI will be updated or replaced with TSB once a determination has been made .
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

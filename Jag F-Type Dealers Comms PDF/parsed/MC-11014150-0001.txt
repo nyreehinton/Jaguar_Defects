@@ -1,0 +1,74 @@
+Technical Service Bulletin (TSB)
+Daytime Running Light (DRL) Bracket Breakage
+REFERENCE: TSB:  08-032-25
+GROUP:  08 - ElectricalDate: February 5, 2025 REVISION: ––
+VEHICLES
+AFFECTED:2024 (FG) Fiat 500e
+This bulletin applies to vehicles built on or after November 20, 2023
+(MDH 1120XX) and on or before April 19, 2024 (MDH 0419XX).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:DRL(s) are not aligned with the hood properly.
+CAUSE: Bracket breakage
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-014,
+date of issue February 05, 2025. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+REPAIR SUMMARY:
+This bulletin involves inspecting and possibly adjusting or replacing the DRL(s).
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+08-50-65-96 Daytime Running Light
+(DRL) - Inspect for
+Misaligned or Failed
+Bracket
+(0 - Introduction)6 - Electrical and Body
+Systems0.2 Hrs.
+08-50-65-97 Daytime Running Light
+(DRL) - Inspect and
+Adjust / Replace Left OR
+Right Side
+(0 - Introduction)6 - Electrical and Body
+Systems0.6 Hrs.
+08-50-65-98 Daytime Running Light
+(DRL) - Inspect and
+Adjust / Replace Both Left
+AND Right Side
+(0 - Introduction)6 - Electrical and Body
+Systems0.7 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68656418AA - NA
+52227074 - EMEADRL assembly Right Side
+1 (AR) 68656419AA - NA
+52227076 - EMEADRL assembly Left Side
+DIAGNOSIS:
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. Open the hood.
+2. Check the gap between the DRL brackets and hood with a piece of paper.
+3. Is there contact between the piece of paper and the hood at the mounting points Fig. 1 ?
+Fig. 1
+Checking Gap
+● YES>>> Proceed to Step 4 .
+● NO>>> This bulletin does not apply. Use Inspection LOP (08-50-65-96). Perform further diagnostics.
+4. Remove the DRL. Refer to the detailed service procedures listed in DealerCONNECT>Service
+Library>Service Info under: 5540B11 - LED Side Lights (DRL) Front Light Cluster One, LH OR RH - R.R.
+5. Using a light, inspect carefully the mounting areas of the DRL.
+6. Are there cracks visible on and near the mounting points?
+● YES>>> Proceed to Step 8 .
+● NO>>> Proceed to Step 7 .
+7. Re-install the DRL by inserting two 2.5mm (.010 in.) spacers between the DRL mount and the hood.
+Re-install fasteners and push pins.B23 FSAR-RSU-4883 -2-
+8. Replace the DRL. Refer to the detailed service procedures listed in DealerCONNECT>Service
+Library>Service Info under: 5540B11 - LED Side Lights (DRL) Front Light Cluster One, LH OR RH - R.R.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-3- B23 FSAR-RSU-4883

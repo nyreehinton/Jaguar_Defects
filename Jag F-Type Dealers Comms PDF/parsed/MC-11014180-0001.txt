@@ -1,0 +1,576 @@
+T-SB-0003 -25   January 10, 2025  
+ 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+  © 2025 Toyota Motor Sales, USA  Page 1 of 16 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2025  Prius, Prius PHV   
+ 
+Introduction  
+Pre-Delivery Service (PDS) is a c ritical step in satisfying our  new car customers. Customer 
+feedback indicates the following areas deserve special attention when performing PDS:  
+ 
+• Careful inspection for paint chips/scratches and body dents/dings.  
+• Proper operation of electrical accessories (including interior light, clock, and radio reset).  
+• Interior cleanliness.  
+• Proper function of mechanical systems.  
+ 
+Customer retention and proper maintenance of vehicles are and have always been a major focus 
+for Toyota. To help remind customers that regular service is essential to the proper maintenance 
+of the vehicle, dealers are required to install a service reminder  sticker before  delivery. By doing 
+this, customers will be reminded to return to your dealership for service. Your current service 
+reminder sticker may be used. (See PDS Check Sheet item 8 of “Final Inspection and Cleaning.”)  
+This bulletin contains the PDS procedures that apply specifically to 2025 model year Prius  and 
+Prius PHV vehicles.  
+Refer to T-SB-0028 -24, the universal Check Sheet  that contains PDS steps that apply to all  
+2025 model year Toyota vehicles. To properly perform a complete PDS, you must complete all  
+procedures contained in this TSB as well as the universal PDS Check Sheet.  
+In addition, if the vehicle is stored for over 30 days,  refer to T-SB-0023 -24, Long -Term Vehicle 
+Storage Guidelines.  
+ 
+ 
+  
+ T-SB-0003 -25   January 10, 2025  Page 2 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Introduction  (continued)  
+Refer to the table below for a definition of terms that may be used in this bulletin.  
+ 
+Table 1. 
+TERM  ACRONYM  DEFINITION  
+Conventional  Vehicle  CV A vehicle with  only a gasoline  engine  for propulsion  
+Electrified  Vehicle  EV A vehicle that utilizes a  hybrid, plug -in hybrid, fuel cell, or 
+battery electric system  for propulsion  
+Hybrid  Electric  Vehicle  HEV A vehicle with both a gasoline engine and a HV Battery  
+Plug-in Hybrid  Electric  Vehicle  PHEV  A vehicle with both a gasoline engine and a HV Battery  
+that can be charged externally  
+Battery Electric Vehicle  BEV A vehicle with only a HV Battery that can be  
+charged externally  
+Fuel Cell Electric Vehicle  FCEV  A vehicle with both a hydrogen fuel cell and a HV Battery  
+State  of Charge  SOC  The remaining capacity available in a battery  
+12-Volt 12V Standard  12V battery  used  to power  electrical  systems  
+separate  from high voltage  components  
+High Voltage  HV HV Battery  used  to power  the electrified  vehicle  
+ 
+ 
+ 
+ 
+ 
+  
+ T-SB-0003 -25   January 10, 2025  Page 3 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Table of Contents  
+• Warranty Policy  ................................ ................................ ................................ ..........................  4 
+• Warranty Information  ................................ ................................ ................................ ..................  4 
+• Required Tools and Equipment  ................................ ................................ ................................ .. 4 
+• D/C Cut Fuse Installation  ................................ ................................ ................................ ...........  5 
+• Front License Plate and Mounting Bracket Installation * ................................ ..............................  6 
+• Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  .......................  9 
+• Power Back Door Initialization  ................................ ................................ ................................ .. 12 
+• Tire Pressure Warning System (TPWS) Initialization  ................................ ................................  12 
+• Enable Hybrid Battery Thermal Keep Control Mode  ................................ ................................ . 13 
+• Confirm Hybrid Battery Thermal Keep Control Mode State  ................................ .................  13 
+• Set Hybrid Battery Thermal Keep Control Mode  ................................ ................................ . 14 
+• Seating Position Control ECU Initialization  ................................ ................................ ...............  15 
+• Head Unit System Reset  ................................ ................................ ................................ ..........  15 
+• Customize ACC Function  ................................ ................................ ................................ .........  15 
+• Dealer Contact Information for Call Dealer Head Unit Function * ................................ ..............  16 
+• Navigation — Set Date & Time by GPS  ................................ ................................ ...................  16 
+*If applicable.  
+ 
+ 
+  
+ T-SB-0003 -25   January 10, 2025  Page 4 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Warranty Policy  
+If the need for additional repairs or adjustment is noted during PDS, the required service should 
+be performed under warranty. Reimbursement will be managed under the warranty policy.  
+ 
+The Warranty Policy and Procedures Manual requires that you maintain the completed  
+Check Sheet in the customer’s file . If you cannot produce a completed form for each retailed  
+vehicle upon TMS and/or Region/Distributor audit, the PDS payment amount will be subject  
+to debit.  
+ 
+An additional Repair Order completed in conjunction with normal PDS MUST  have time 
+punch /flags for service. If multiple repairs are performed, separate time flags MUST  be punched 
+for each  repair.  
+ 
+ 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  MODEL  TIME  OFP T1 T2 
+001013  Pre-Delivery Service (PDS)  Prius  1.6 – – – 
+001013  Pre-Delivery Service (PDS)  Prius PHV  1.6 – – – 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite   TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST. 
+ 
+  NOTE  
+• Only ONE of the Techstream  units listed above is required.  
+• GTS+ software version 2024.0 4.004.02 or later is required.  
+• Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE) at  
+1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ T-SB-0003 -25   January 10, 2025  Page 5 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+D/C Cut Fuse Installation  
+To minimize battery discharge during transportation and storage, the D/C cut fuse ( 30A) has been 
+removed at the assembly plant and temporarily stored in the blank space of the relay block in the 
+engine compartment. During PDS, reinstall the D/C cut fuse ( 30A) to its original location and 
+confirm ALL related Diagnostic Trouble Codes (DTCs) are cleared.  
+Remove the D/C cut fuse ( 30A) from the blank space of the relay block in the engine 
+compartment and install the D/C cut fuse ( 30A) in the relay block as shown.  
+ 
+Figure 1. 
+ 
+ 
+1 Relay Block  
+2 Remove the D/C Cut Fuse (30A)  
+3 Install the D/C Cut Fuse (30A)  
+ 
+ 
+ 
+ 
+NOTE  
+• With the D/C cut fuse (30A) removed, if ANY DTCs are detected when the ignition is turned ON  
+during transportation, use Global Techstream Software (GTS+) to clear ALL DTCs AFTER ensuring 
+that there are no malfunctions.  
+• While the vehicle is stored at the dealership, disconnect the negative ( –) battery terminal to prevent 
+battery discharge. Refer to T-SB-0021 -24, Battery Inspection and Maintenance During PDS , for 
+battery maintenance information.  
+2 
+3 
+1 
+ T-SB-0003 -25   January 10, 2025  Page 6 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  
+The front license plate bracket and two self -tapping screws are loaded in the vehicle at the 
+assembly plant . Follow this procedure to install the front license plate bracket and front license 
+plate in states where it is required by law.  
+ 
+1. Align holes “A” of the mounting bracket 
+with the dimples on the front bumper cover  
+and mark  the location of holes “B” on the 
+front bumper cover.   
+ 
+ Figure 2. 
+ 
+ 
+A Holes “A” for Mounting Bracket  
+B Holes “B” for Front License Plate  
+1 Mounting Bracket  
+2 Dimple s  
+ 
+  
+NOTE  
+• Holes “A” are used for installation of the 
+mounting bracket to the front 
+bumper cover .  
+• Holes “B” are used for the installation of 
+the front license plate to the  
+mounting bracket.  
+B 
+A 
+ A 
+1 
+2 
+ T-SB-0003 -25   January 10, 2025  Page 7 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  (continued)  
+2. Create two oval relief holes at the marks on the front bumper cover shown in the figure below  
+to prevent the front license plate mounting bracket from contacting the front bumper.  
+ 
+ 
+Figure 3. 
+ 
+ 
+1 Mark   4 11 mm (0.43 in.)  
+2 12 mm (0.47 in.)   5 17 mm (0.67 in.)  
+3 6 mm (0.24 in.)     
+ 
+ 
+  
+NOTICE  
+Do NOT pre-drill holes in the dimples.  
+ 
+ 
+2 
+5 
+4 
+2 
+5 
+4 
+ 3 
+ 3 
+1 
+ 1 
+ T-SB-0003 -25   January 10, 2025  Page 8 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front License Plate and Mounting Bracket Installation  (continued)  
+3. Install the mounting bracket to the front 
+bumper by attaching the two self -tapping 
+screws into the dimples.  
+ 
+ Figure 4. 
+ 
+ 
+1 Self-tapping Screw s 
+2 Bolts  
+3 Front License Plate  
+4 Mounting Bracket  
+ 
+4. Install the front license plate to the 
+mounting bracket using two noncorroding 
+bolts with the following dimensions:  
+Length: 15.0 mm (0.59 in.)  
+Diameter: 6.0 mm (0.24 in.)  
+ Figure 5. 
+ 
+ 
+1 Length  
+2 Diameter  
+ 
+ 
+ 
+NOTICE  
+Do NOT overtighten the  
+self-tapping screws.  
+1 
+2 
+1 
+3 
+2 
+4 
+ T-SB-0003 -25   January 10, 2025  Page 9 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  
+1. Remove the front  and rear emergency 
+towing eyelets from the front and rear  
+bumpers  by turning them counterclockwise.  
+ 
+ Figure 6. 
+ 
+  
+ 
+1 Front Emergency Towing Eyelets  
+2 Rear Emergency Towing Eyelet  
+  
+NOTE  
+If it is difficult to loosen the emergency 
+towing eyelets, use a steel bar.  
+ 
+ 
+ 
+ 
+1 
+2 
+ T-SB-0003 -25   January 10, 2025  Page 10 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation (continued)  
+2. Place one of the removed emergency towing eyelets into the luggage tray in the  
+luggage compartment.  
+ 
+Figure 7. 
+ 
+  
+   
+A Type A   D Type D  
+B Type B   1 Emergency Towing Eyelet  
+C Type C     
+ 
+ 
+ 
+  
+NOTE  
+Dispose of the other removed  emergency towing eyelet s. 
+z 
+B 
+z 
+C 
+z 
+D 
+z 
+A 
+z 
+1 
+z 
+1 
+z 
+1 
+z 
+1 
+ T-SB-0003 -25   January 10, 2025  Page 11 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Front and Rear Emergency Towing Eyelet Removal and Hole Cover Installation  (continued ) 
+3. Install the  front and rear emergency towing 
+eyelet hole  covers,  which are stored in the 
+glove compartment, onto the  front and 
+rear bumper s. 
+ 
+ 
+ 
+ 
+ 
+A. Insert the arrow -shaped part “A” of the 
+front emergency towing eyelet hole 
+covers into eyelet holes  “B” as shown.   
+ 
+ 
+ 
+ 
+ 
+ 
+B. Install the front and rear emergency 
+towing eyelet hole covers into the holes 
+of the front and rear bumper.  
+ 
+ 
+ Figure 8. 
+ 
+ 
+A Arrow -shaped Part  
+B Eyelet Hole  
+1 Front Emergency Towing Eyelet Hole Cover  
+2 Rear No. 1 Emergency Towing Eyelet  
+Hole  Cover  
+3 Rear No. 2 Emergency Towing Eyelet  
+Hole  Cover  
+ 
+ 
+  
+NOTE  
+Make sure the front emergency towing 
+eyelet cover is installed in  the front, and 
+the rear emergency towing eyelet cover 
+is installed in the rear. 
+ 
+ 
+ 
+ 
+B 
+A 
+1 
+B 
+2 
+A 
+B 
+3 
+A 
+ T-SB-0003 -25   January 10, 2025  Page 12 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Power Back Door Initialization  
+Refer to the applicable Repair Manual for the power back door initialization procedure . 
+• 2025  Prius and Prius PHV:  
+Vehicle Exterior – Door / Hatch – Back Door Close r ECU – Initialization  
+ 
+ 
+ 
+ 
+ 
+Tire Pressure Warning System (TPWS) Initialization  
+Refer to the applicable Repair Manual for the TPWS initialization procedure . 
+• 2025  Prius and Prius PHV:  
+Suspension – Tire Pressure Monitoring – Tire Pressure Warning Receiver – Initialization  
+ 
+  NOTE  
+• To adjust the tire pressure correctly when the outside temperature is significantly colder than shop 
+temperature, perform a  Health Check using GTS+ and select the compensation tire pressure 
+checkbox. Compensation pressures will display on the Health Check results screen. Adjust the tire 
+pressure when the tires are cold.  
+• If the vehicle has a spare tire, it does NOT have a TPWS sensor . 
+ T-SB-0003 -25   January 10, 2025  Page 13 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Enable Hybrid Battery Thermal Keep Control Mode  (Prius PHV Only) 
+The HV/EV battery may be frozen in extremely cold areas. As a result, the HV/EV battery may  
+become excessively weak, and the system may NOT be able to be started. By enabling Hybrid  
+Battery Thermal Keep Control Mode, it is possible to warm the HV/EV battery and maintain its  
+current temperature in order to prevent it from becoming excessively weak.  
+When this mode is set to ON, the timer charging settings are canceled at temperatures of 14 °F 
+(-10°C) or lower. Charging will begin immediately when the charging cable is connected to  
+the vehicle.  
+Table 2. HV/EV Battery Thermal Keep Control Mode  
+PURPOSE  CONDITION  OPERATION  
+Prevent HV/EV 
+battery from  freezing  Ambient temperature  is 14 °F 
+(-10°C) or lower  Begins to warm the HV/EV battery to 
+maintain its current temperature when the 
+ambient temperature drops to 14 °F 
+(-10°C) or lower when the charging cable 
+is connected to the vehicle.  
+Charging cable is connected 
+to vehicle  To prevent the HV/EV battery from 
+freezing when a charging start time is set, 
+when the Hybrid Battery Thermal Keep 
+Mode is enabled, the charging timer will 
+be disabled, and charging will begin 
+immediately when the charging cable is 
+connected to the vehicle.  
+ 
+To enable Hybrid Battery Thermal Keep Control Mode, it is necessary to use GTS+ during PDS at 
+the dealership.  
+ 
+Confirm Hybrid Battery Thermal Keep Control Mode State  
+1.  Connect the Techstream to the DLC3.  
+2. Turn the power switch IG -ON. 
+3. Read the Data List on GTS+ software by entering the following menus: Powertrain – 
+HV Battery – Data List – Hybrid Battery Thermal Keep Control Mode Status . 
+4. Check the results by referring to the following table:  
+Table 3. 
+TESTER DISPLAY  MEASUREMENT ITEM  RANGE  NORMAL CONDITION  
+Hybrid Battery  
+Thermal Keep Control  
+Mode Status  Hybrid Battery  
+Thermal Keep Control  
+Mode State  ON or OFF  ON: Enabled  
+OFF: Disabled  
+ 
+ 
+  
+ T-SB-0003 -25   January 10, 2025  Page 14 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Enable Hybrid Battery Thermal Keep Control Mode  (continued)  
+Set Hybrid Battery Thermal Keep Control Mode  
+1. Connect the Techstream to the DLC3.  
+2. Turn the power switch  to IG-ON. 
+3. Enter the following menus: Powertrain – HV Battery – Utility –  
+Hybrid Battery Thermal Keep Control Mode . 
+Figure 9. 
+ 
+4. Confirm the following message is displayed:   
+“This function is used to turn the Hybrid Battery Thermal Keep Control Mode ON / OFF.”  
+5. Confirm that the conditions displayed on the screen are met, and then press Next.  
+ 
+6. Confirm the following message is displayed:   
+“Select Hybrid Battery Thermal Keep Control Mode.”  
+7. Select  ON and press Next.  
+ 
+ 
+8. Confirm  the following message is displayed:  
+“Hybrid Battery Thermal Keep Control Mode is complete.”  
+ 
+  
+NOTE  
+The power switch is ON (Ready OFF).  
+NOTICE  
+Selecting ON may disable the charging timer . 
+•  
+ T-SB-0003 -25   January 10, 2025  Page 15 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Seating Position Control ECU Initialization  
+Refer to the applicable Repair Manual for the seating position control ECU  
+initialization procedure  (procedure 2).  
+• 2025  Prius and Prius PHV:  
+Vehicle Interior – Seat – Front Power Seat Control System (w/ Memory) – Registration  
+ 
+ 
+ 
+ 
+ 
+Head Unit System Reset  
+Prior to vehicle delivery , confirm that the  welcome screen with language options appears on the 
+head unit display when the ignition is switched to the ON position. There may be instances 
+where the welcome screen with language options may not properly appear on the head  
+unit display.  
+If the welcome screen showing language options is not displayed, complete the following steps:  
+1. Select the Settings option (gear icon).  
+2. Scroll down and select the Info & Security option.  
+3. The System Reset dialogue  box will appear. Select Reset to confirm the resetting of   
+the system.  
+4. Confirm that the w elcome  screen with language options is now displayed.  
+ 
+ 
+ 
+ 
+ 
+Customize ACC Function  
+The pre -startup function detects when a user enters the vehicle and energizes the audio head 
+unit (+BA) so that the multimedia system can quickly be used. This function is not enabled at the 
+factory to reduce parasitic current draw in transit and storage. To enable this function, it is 
+necessary to set the ACC customization function in the navigation display to OFF . 
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Enter the following menus: Settings – Vehicle Customization – Utility – ACC Customize . 
+3. Change the setting to OFF.  
+ 
+  
+ T-SB-0003 -25   January 10, 2025  Page 16 of 16 
+2025 Prius and Prius PHV Pre -Delivery Service (PDS)  
+ 
+  © 2025 Toyota Motor Sales, USA   
+   
+Dealer Contact Information for Call Dealer Head Unit Function (Premium Audio Only)  
+Refer to the Multimedia System Owner’s Manual  to add dealer contact information . 
+• 2025  Prius:  
+Section 2 -8 Vehicle Settings – Setting dealer information  
+• 2025  Prius PHV:  
+Section 2 -8 Vehicle Settings – Setting dealer information  
+ 
+ 
+ 
+ 
+ 
+Navigation — Set Date & Time by GPS  
+Prior to  vehicle  delivery , it is necessary to turn the Set Date & Time by GPS setting to the  
+ON position.  
+1. Turn the engine switch (power switch) to the ON position (ON mode).  
+2. Navigate the following menus in the head unit: Settings – General – Date & Time – 
+Set date & time by GPS . 
+3. Ensure the Set Date & Time by GPS function is set to the ON position.  
+ 
+ 
+ 

@@ -1,0 +1,155 @@
+L-SB-0007 -25   January 28, 2025  
+ 
+MIL ON With P030000, P030027, and/or P030085  
+Service 
+Category  Engine/Hybrid System   
+ Section    Engine Control  Market   USA and 
+Mexico  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 4 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2022 - 2024  LX600   
+ 
+ 
+Introduction  
+Some  2022  – 2024 model year LX 600 vehicles may exhibit a MIL ON condition with one or more 
+of the following Diagnostic Trouble Codes (DTCs) present:  
+ P030000  – Random/Multiple Cylinder Misfire Detected  
+ P030027  – Random/Multiple Cylinder Misfire Detected (Emission) Signal Rate of Change 
+ Above Threshold  
+ P030085  – Random/Multiple Cylinder M isfire Detected (Over Temperature) Signal Above 
+ Allowable Range  
+The Engine Control Module (ECM) (SAE term: Powertrain Control Module / PCM) logic has been 
+modified to address this condition. Follow the Repair Procedure in this bulletin to address  
+the cond ition. 
+ 
+ 
+Production Change Information  
+This bulletin applies to vehicles produced BEFORE the Production Change Effective VINs  
+shown below.  
+MODEL  PRODUCTION CHANGE EF FECTIVE VIN  
+LX 600  JTJ#B#CX#R4047265  
+ 
+  
+ L-SB-0007 -25   January 28, 2025  Page 2 of 4 
+MIL ON With P030000, P030027, and/or P030085  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Warranty Information  
+For USA Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+EL2432  Reprogram the ECM (PCM)  0.7 89666 -60###*  8A 74 
+*Warranty claim MUST be submitted with the correct 10 -digit OFP. Choose the correct OFP for the vehicle being  
+repaired by searching for the parts in the Electronic Parts Catalog using the VIN filter.  
+ 
+ 
+For Mexico Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+EL2432  Reprogram the ECM (PCM)  0.7 89666 -60###*  8A 74 
+*Warranty claim MUST be submitted with the correct 10-digit OFP. Choose the correct OFP for the vehicle being  
+repaired by searching for the parts in the Electronic Parts Catalog using the VIN filter.  
+ 
+ 
+ 
+Parts Information  
+PART NUMBER  PART  NAME  QTY 
+89666 -60###  Computer, Engine Control (ECM/PCM)  – 
+ 
+ 
+  APPLICABLE WARRANTY  
+ This repair  is covered  under  the Lexus Federal Emission  Warranty.  This warranty  is in effect  for  
+96 months  or 80,000  miles,  whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+APPLICABLE WARRANTY  
+ This repair  is covered  under  the Lexus Basic  Warranty.  This warranty  is in effect  for  
+48 months  or 80,000  kilometers , whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+NOTE  
+The ECM (PCM) should NOT be  replaced as part of the Repair Procedure.  
+ L-SB-0007 -25   January 28, 2025  Page 3 of 4 
+MIL ON With P030000, P030027, and/or P030085  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Required Tools & Equipment  
+SPECIAL SERVICE  TOOLS (SST)  PART NUMBER  QTY 
+DCA -8000 Battery Diagnostic Tool * DCA -8000P T  1 
+*Essential SST.  
+ 
+ 
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVI*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST. 
+ 
+ 
+ 
+Calibration Information  
+MODEL  MODEL YEAR  CALIBRATION ID  
+PREVIOUS  NEW  
+LX 600 2022  – 2024  896636A13000  
+896636A13100  
+896636AK3000  
+896636A13200  896636AK3100  
+ 
+  NOTE  
+Additional SSTs may be ordered by calling 1 -800-368-6787 (USA) or 01 -800-504-5330 (Mexico) or by  
+visiting Home – Service Resources – Lexu s Special Service Tools (SSTs) . 
+NOTE  
+ Only ONE  of the Techstream units listed above is required.  
+ GTS+ software version 2024.04.004.02  or later is required . 
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 (USA) or 01 -55-50103041 (Mexico)  or by visiting TIS – Diagnostics –  
+Tools & Equipment – Techstream Order Portal . 
+ Use Techstream or an approved J2534 interface to perform flash  reprogramming updates.  
+Visit techinfo.toyota.com  for more information regarding J2 534 reprogramming.  
+ L-SB-0007 -25   January 28, 2025  Page 4 of 4 
+MIL ON With P030000, P030027, and/or P030085  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Repair Procedure  
+1. Confirm the condition  exists.  
+Does the vehicle exhibit  a MIL ON condition with ANY of the  following D TC(s)?  
+ P030000  – Random/Multiple Cylinder Misfire Detected  
+ P030027  – Random/Multiple Cylinder Misfire Detected (Emission) Signal Rate of Change 
+ Above Threshold  
+ P030085  – Random/Multiple Cylinder Misfire Detected (Over Temperature) Signal Above 
+ Allowable Range  
+ 
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+2. Use GTS+ to confirm if t he ECM (PCM) calibration has been updated.  
+Is the calibration ID listed in GTS+ the latest ECM (PCM) calibration?  
+ YES — This bulletin does NOT apply. Continue diagnosis using the applicable 
+ Repair  Manual.   
+ NO — Continue to step 3.  
+ 
+ 
+3. Flash reprogram the ECM (PCM).  
+ 
+Follow the procedures outlined in Service Bulletin L-SB-0036 -22, GTS+ ECU Flash 
+Reprogramming with Security Signature,  and flash reprogram the ECM (PCM) with the NEW  
+calibration file update.  
+ 
+ 
+4. Using GTS+, clear ANY DTCs and test -drive the vehicle to confirm the condition has  
+been addressed.  
+ 
+ NOTE  
+ The battery diagnostic tool MUST be used in Power Supply Mode to maintain battery voltage  
+at 13.5V while flash reprogramming the vehicle.  
+ For details on how to use the battery diagnostic station, refer to the DCA -8000 Instruction Manual  
+located at TIS – Diagnostics – Tools & Equipment – Battery Diagnostics . 

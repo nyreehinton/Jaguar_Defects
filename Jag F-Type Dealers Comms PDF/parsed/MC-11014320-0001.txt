@@ -1,0 +1,21 @@
+Version  1
+Modiﬁed 02/14/2025 - Created on.
+Bulletin No.: PIT6338
+Published date: 02/14/2025
+Preliminary Information
+PIT6338 ZR2 Lane Keep Assist Inoperative
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletColorado ZR2 2024 All AllAll All
+Involved Region or Country:  North America
+Other RPOs:  K34, - HS1
+Condition: Lane Keep Assist system inoperative. Can turn on and oﬀ but there is no dynamic
+function. 
+Cause:  Software Concern
+Correction:
+Engineering is investigating this condition. This PI will be updated when more information is available.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

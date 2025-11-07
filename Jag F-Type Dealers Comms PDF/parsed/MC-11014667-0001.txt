@@ -1,0 +1,182 @@
+SIB 64 03 25
+CHECK ENGINE LIGHT  ON FROM MISSING MESSAGE DTC IN IHKA2025-02-28
+This Service Information Bulletin (Revision 2) replaces SI B64 03 25 dated February 26, 2025.
+ 
+What’ s New :
+Model: Production range
+Procedure: Currently there is an Execution Break and the backup I-Level needs to be used S18A-24-
+11-570. This backup I-Level has the improved software needed for the IHKA  control module.
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date Engine 
+G05 X5 xDrive50e Vehicles produced from July 2024 to March 2025 XB1N
+ 
+SITUA TION
+Check Engine Light is illuminated, check control message indicates “bring in for service”. The faults
+themselves and the Malfunction Indicator Lamp (MIL) have no functional ef fect on the vehicle.
+ 
+There are multiple missing message fault codes (DTC) stored in the integrated automatic heating/air
+conditioning system (IHKA) control unit. 
+ 
+These faults may include: 
+E71458 - AC-LIN: Message EKMV20
+E71459 - AC-LIN: Message EDH.  
+CAUSE
+Software in the IHKA  control module.
+ 
+On-Board Diagnostics (OBD) requires monitoring of the multiple battery cooling control modules
+communication to the engine control module. If communication is interrupted, a Check Engine Light can
+result. 
+ 
+CORRECTION
+Program/encode the IHKA  control module. 
+ 
+The missing message faults will no longer appear , unless relevant , once the vehicle is updated with ISTA
+4.52.15 to I-Level 25-03-530 (Backup I-level S18A-24-1 1-570)
+ 
+PROCEDURE
+Determine the vehicle’ s current integration level (I-level) by either using AIR or the Key Reader ISP A
+Next/A WP (Aftersales W orkplace) applications.
+ 
+1.Is the current vehicle I-level lower than:
+Model Target integration level
+G05 S18A-25-03-530
+Or
+S18A-24-1 1-570
+            YES: Proceed to Step 2 
+            NO: Further diagnosis with IST A is needed
+ 
+2. Program the vehicle using IST A 4.52.15 or higher (released February 21, 2025).
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 64 03 25_CHECK ENGINE LIGHT ON FROM MISSING MESSAGE DTC IN IHKA
+about:blank 1/5
+Model Target integration level
+G05 S18A-25-03-530
+Or
+S18A-24-1 1-570
+ 
+Special Note: Currently there is an Execution Break and the backup I-Level needs to be used S18A-
+24-11-570. 
+ 
+This backup I-Level has the improved software needed for the IHKA.
+ 
+After the programming has been fully completed, check the functionality of the system.
+Note: IST A will automatically reprogram and code all programmable control modules that do not have the
+latest software. 
+ 
+Always connect a BMW -approved battery charger/power supply ( SI B04 23 10 ). 
+ 
+For information on programming and coding with IST A, refer to TIS / Technical Documentation / Diagnostics
+and Programming / Programming Documentation.
+ 
+PARTS INFORMA TION
+Part exchange of the IHKA  control unit does not provide a solution.
+ 
+CLAIM INFORMA TION
+Vehicle Programming and Encoding
+ 
+During this workshop visit, the af fected vehicle may also show one or more programming and encoding Technical Campaign
+repairs open, the programming and encoding procedure may only be invoiced one time.
+ 
+Select one of these open T echnical Campaigns instead to perform and submit for updating the vehicle to the
+required I-level, or higher when applicable (Includes labor operation codes 00 00 006/556, 61 21 528 and 61 00 730). 
+ 
+Please be sure to also perform any additional before and/or after work (including attaching labels) as required by
+the open campaigns on the vehicle. Close any other open programming and encoding Campaign repairs as outlined
+in the corresponding Service Information Bulletin.
+ 
+Only when the above does not apply , the BMW software solution is then covered under the terms of the
+BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks, or the BMW Certified Pre-Owned
+Program as described below .
+ 
+Repair Code: 6411230200Control unit of front heating and air conditioning system
+Software error / internal device fault
+ 
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Labor
+OperationDescription Labor Allowance
+00 00 006 Carrying out vehicle test (Main work) As applicable
+Or: 
+  
+ 
+00 00 556 Carrying out vehicle test (Plusposition work) As applicable
+And: 
+  
+ 
+61 21 528Supporting voltage of the vehicle electrical system /
+recharging vehicle batteryAs applicable
+And, as needed: 
+  
+ 
+61 00 006* Carrying out vehicle diagnosis, ABL (Work time) WT FRUCopyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 64 03 25_CHECK ENGINE LIGHT ON FROM MISSING MESSAGE DTC IN IHKA
+about:blank 2/5
+Or: 
+  
+ 
+00 58 500* Diagnosis W orktime Flat Rate 2 FRU
+And: 
+  
+ 
+61 00 730Program/encode control unit(s), includes deleting the fault
+memoryAs applicable
+ 
+If you are using a Main labor code for another repair , use the Plus code labor operation 00 00 556 instead of
+00 00 006, or exclude them (including 61 21 528) when the V ehicle Test is included in another repair .
+ 
+Work time labor operation codes 61 00 006 and 00 58 500 are not considered Main labor operations.
+ 
+Vehicle Programming and Encoding – Additional W ork (RO and Claim Comments Required)
+ 
+This procedure automatically reprograms and encodes any vehicle control modules that do not have the latest software I-
+level. 
+ 
+If one or more control modules fail during the reprogramming procedure, claim the required consequential
+repair work procedures to address this issue (including performing the IRAP  Control Unit Recovery first as
+required, refer to the SIB in AIR) under the Repair Code in this bulletin together with the corresponding labor
+operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that applies.
+ 
+Please explain the additional work procedures that were performed (The why and the what) on the repair order and in the
+claim comments.
+ 
+For covered repairs that address control module failures that occurred prior to performing this
+reprogramming procedure, claim this work with the appliable Repair Code listed in AIR together with the
+corresponding labor operation codes and their flat rate unit (FRU) allowance(s), including the diagnosis* that
+applies.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable procedure for
+documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis work time (WT), job/repair
+work time (WT), and the vehicle repairs your center performed, unless otherwise required by State law .
+ 
+Other Repairs
+ 
+If other eligible and covered work is performed because of performing the IST A diagnostics, related test
+plans, and/or other approved diagnosis procedures, claim this work with the applicable Repair Code listed in
+AIR together with the corresponding labor operation codes and their flat rate unit (FRU) allowance(s),
+including the diagnosis* that applies.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation PortalCopyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 64 03 25_CHECK ENGINE LIGHT ON FROM MISSING MESSAGE DTC IN IHKA
+about:blank 3/5
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 64 03 25_CHECK ENGINE LIGHT ON FROM MISSING MESSAGE DTC IN IHKA
+about:blank 4/5
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 64 03 25_CHECK ENGINE LIGHT ON FROM MISSING MESSAGE DTC IN IHKA
+about:blank 5/5

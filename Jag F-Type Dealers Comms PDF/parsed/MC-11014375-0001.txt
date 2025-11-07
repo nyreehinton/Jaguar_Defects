@@ -1,0 +1,47 @@
+Technical Service Bulletin (TSB)
+Oil Leaking From Oil Filter Area
+REFERENCE: TSB:  09-003-25
+GROUP:  09 - EngineDate: February 14, 2025 REVISION: ––
+VEHICLES
+AFFECTED:2022 - 2025 (DT) RAM 1500 Pickup
+2022 - 2025 (JL) Jeep Wrangler
+2022 - 2025 (JT) Jeep Gladiator
+2022 - 2025 (RU) Chrysler Pacifica
+2022 - 2025 (VF) RAM Promaster
+2022 - 2025 (WD) Dodge Durango
+2022 - 2025 (WL) Jeep Grand Cherokee / Grand Cherokee L
+This bulletin applies to vehicles equipped with a 3.6L V6 24V VVT
+Engine Upg I w/ESS (Sales Code ERC).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience a Malfunction Indicator Lamp (MIL) illumination and the vehicle may
+exhibit/set the following Diagnostic Trouble Code (DTC):
+●P06DD - Engine Oil Pressure Control Circuit Stuck Off.
+Customers may comment on the following:
+●Oil found on the ground beneath the vehicle.
+CAUSE: Manufacturing issue
+DISCUSSION:
+Please be advised that Oil Filter Assemblies (OFA) (Service P/N - 68596318AB)  are being unnecessarily
+replaced for oil leaks at high rates.
+Before replacing the OFA, ensure that the leak is properly diagnosed. This MUST  include using oil dye (P/N –
+5010042AB)  to identify the leak’s source, per the oil leak diagnosis procedure.
+If a leak is identified at the filter cap, replace the oil filter and the filter cap’s O-ring with the MOPAR service
+kit (P/N - 68191349AC) and retest to resolve this. Some aftermarket filter and O-ring kits will not seal properly,
+causing leaks. Warranty claims on failing aftermarket parts cannot be billed to Stellantis and will not be
+validated. Do not replace the OFA for this issue.
+If a leak is identified at the valve cover and causing pooled oil in the valley, replace with the appropriate valve
+cover or gasket kit. Do not replace the OFA for this issue.
+If a leak is identified from the bottom mating surfaces of the OFA to the block, use the MOPAR gasket kit (P/N
+- 68191356AB) to resolve this. Do not replace the OFA for this issue.
+If any other leak is identified, but cannot be traced to the OFA, do not replace the OFA for this issue.
+Deviations from the oil leak diagnosis procedure causing any over-repair under warranty will not be validated
+and the Dealer will cover the costs.
+Unnecessary OFA replacement under warranty will not be validated and the Dealer will cover the costs.
+POLICY:
+Information Only
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

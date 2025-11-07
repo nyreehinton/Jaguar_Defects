@@ -1,0 +1,66 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250047 Released Date : 27-F eb-2025
+HDK Cx & C12D6RE Low Coolant Le vel Issue
+HDKCx & C 12D6RE Low Coolant Level Issue
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+HDK CA, spec H
+HDK CB, spec H
+HDK CC, spec H
+HDK CD, spec H
+C12D6RE, spec A
+Issue Summar y
+Sympt oms:
+Gener ator set shutdowns on F ault Code 1 - Engine Ov er Temper ature.
+Air pock ets in the system.
+Possible visible signs of low or no coolant in the engine coolant r eser voir.
+Root Cause:
+Insufficient engine coolant in the cooling system due t o trapped air pock ets in the cooling
+system.
+Verification
+If the unit is experiencing shutdowns fr om F ault Code 1 or appears t o ha ve low coolant, pr oceed t o
+the r esolution section.
+Resolution
+The r esolution consists of adding coolant t o the system as needed, following the Ser vice
+Instructions outlined below .
+Service Instructions
+Complete the tr oubleshooting steps for F ault Code 1 as outlined in Ser vice Manual A043M526 and
+follow the ser vice instructions pr ovided below .
+Step 1:  When engine is cool and not running, locate the ser vice door and pr ess the butt on to
+release the latch.
+Figur e 1, Gener ator Set Ser vice Door
+Step 2:  Locate the coolant r ecovery tank on the left side of the gener ator set. Remo ve the pr essur e
+cap while holding the r adiat or pr essur e and fill neck ele vated – and check for air pock ets.
+Figur e 2, Coolant Reco very Tank Location on Gener ator Set
+Proper Fill:
+Step 3:  Add coolant t o the pr essur e cap hose until the hose is full. Then, r einstall the pr essur e cap.
+Figur e 3, Pr essur e Cap Hose Location
+Step 4:  Remo ve the r ecovery tank cap when the engine is cool and not running, and add coolant as
+needed until the r eser voir is at least half full.
+Figur e 4, Reco very Tank Cap Location
+Note:  When the engine is cool and not running, the coolant le vel in the tank should be r oughly in
+the center of M AX and MIN markings.
+Document Hist ory
+Figur e 5, Indications of Maximum and Minimum Coolant Le vels
+Publications Aff ected / Associated Publications
+Table 3, Publications Aff ected
+Manual Type EngineBulletin
+NumberProcedur e
+TitleProcedur e Section
+Service
+ManualA044B682 A043M526Maintaining
+the Coolant
+SystemRefilling
+Cooling
+System3-10
+Service
+ManualA044B682 A075E611Maintaining
+the Coolant
+SystemRefilling
+Cooling
+System5.1.11
+Date Details
+2025-2-25Module Cr eated
+Last Modified:  27- Feb-2025

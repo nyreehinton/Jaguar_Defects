@@ -1,0 +1,48 @@
+ 
+M254 Red cooling system malfunction - Engine Overheated
+Topic number LI20.10-P-078510
+Version 2
+Function group 20.10 - Coolant pump, coolant thermostat
+Date 2/5/25
+Validity Passenger car with M254 engine
+Reason for change Coolant pump designation modified
+Complaint
+Red cooling system malfunction warning due to overheat. Low engine performance. Check engine light on.
+Fault codes may be stored:
+P21814B The cooling system has a malfunction. There is a fault due to overtemperature.
+P2B8500 The rpm of the coolant pump is too low.
+Cause
+Various
+Remedy
+Check for loose plug at electrical connectors of high temp coolant pump (M43/10 or M75/11) by gently pulling on con-
+nector housings.
+Create a TIPS case and submit to powertrain team inbox if a loose plug is found at the coolant pump.
+Include:
+-Initial quick test
+-Details on any damage found to engine or cooling system. Include photos if applicable.
+-Any other relevant details.
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+06.02.2025   16:52   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Engine cooling system  > Function  > Has a high coolant temperature
+Power generation  > Engine management  > Engine running  > Runs rough/shakes
+Power generation  > Engine cooling system  > Indicator lamp  > Illuminates red
+Power generation  > Engine management  > Indicator lamp  > Engine diagnosis  > lit
+Power generation  > Engine management  > Engine performance  > No/poor output
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+06.02.2025   16:52   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

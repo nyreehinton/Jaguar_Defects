@@ -1,0 +1,188 @@
+L-SB-0020 -22 Rev1  July 6, 2022  
+ 
+eOwner's Manual (eOM) Installation  
+Service 
+Category  General   
+ Section    Pre-Delivery Service  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   Page 1 of 5 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2023  IS300, IS350, IS500, LC500, 
+LC500C, LC500H, RC F, 
+RC350   
+ 
+ 
+ 
+ 
+Introduction  
+Some 2023 model year Lexus vehicles are equipped with an eOwner’s Manual (eOM), which is 
+installed into the head unit while the vehi cle is in transit. During Pre -Delivery Service (PDS), follow 
+the instructions contained within the Software Confirmation  section of this bulletin to  
+ensure that the software is installed correctly. If it is found that the software is not installed 
+correct ly, proceed to the Software Installation section of this bulletin.  
+It may also be necessary to reinstall the eOM software after replacing the head unit. Refer to the 
+Software Confirmation section of this bulletin to determine if the software is already ins talled. If the 
+software is not installed, proceed to the USB Flash Drive Preparation and Software Installation 
+sections of this bulletin.  
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+  REVISION NOTICE  
+January  24, 2025 Rev 1: 
+ The Software Information section has been updated . 
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0020 -22 Rev1  July 6, 2022  Page 2 of 5 
+eOwner's Manual (eOM) Installation  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA    
+   
+Required Tools & Equipment  
+REQUIRED  MATERIALS  QTY 
+Blank USB Flash Drive W/Storage Capacity of 256 MB or G reater  1 
+ 
+ 
+ 
+ 
+Software Information   
+MULTIMEDIA TYPE  MODEL (S) MULTIMEDIA FILE NAME  
+eOM Installation Files  IS 300 , IS 350 23IS_eOM_Installation.zip  
+LC 500 Convertible  23LCconv_eOM_Installation.zip  
+LC 500 , LC 500h  23LC_eOM_Installation.zip  
+RC F  23RCF_eOM_Installation.zip  
+RC 300 , RC 350 23RC_eOM_Installation.zip  
+eOM Removal Files  ALL eOM_Removal.zip  
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ The zip file MUST be extracted to the USB flash drive. Do NOT copy the zip file to the USB  flash  drive.  
+ The USB flash drive MUST only contain four installation files or four removal files (the same  
+USB flash  drive CANNOT be used for both).  
+ The USB flash drive must NOT contain ANY other files.  
+ The software CD that is stored with the printed Owner’s Manual is included as a backup copy, which is 
+intended for customer use.  NOTE  
+The USB flash drive MUST  meet the following specifications:  
+ USB communication formats: USB 2.0 HS (480 Mbps) and FS (12 Mbps)  
+ File formats: FAT 16/32  
+ Correspondence class: Mass storage class  
+ 
+ L-SB-0020 -22 Rev1  July 6, 2022  Page 3 of 5 
+eOwner's Manual (eOM) Installation  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA    
+   
+Software Confirmation   
+1. Turn the vehicle ON.  
+ 
+2. Once the head unit has booted up, press 
+the Menu button and use the touchpad  to 
+navigate to I nfo. 
+ Figure 1.  
+ 
+ 
+1 Menu Button  
+ 
+3. Select eOwner’s Manual from the bottom 
+left side of the screen. The eOM  
+should launch.  
+ Figure 2.  
+ 
+ 
+ 
+ Figure 3. 
+ 
+ 
+ 
+ 
+USB Flash Drive Preparation  
+1. Select the appropriate download link from the Software Information  section of this bulletin 
+and save the zip file to your computer’s desktop.  
+ 
+2. Insert a blank USB flash drive with a storage capacity of 256  MB or greater into  
+your computer.  
+ 
+  
+NOTE  
+If the screen in Figure 3  appears,  the eOM  
+software is NOT  installed. Continue  to the 
+USB Flash Drive Preparation  section,  then 
+the Software  Installation  section . 
+1 
+ L-SB-0020 -22 Rev1  July 6, 2022  Page 4 of 5 
+eOwner's Manual (eOM) Installation  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA    
+   
+USB Flash Drive Preparation (continued)  
+3. Right -click the zip file that you 
+downloaded to your desktop , click 
+Extract All, then click  Extract.  
+ Figure 4. 
+ 
+4. Navigate to and open the extracted folder, which will have the same title and be in the 
+same location as the zip file.  
+ 
+5. Open the USB flash drive and copy the 
+four files from the extracted folder to the 
+blank USB  flash drive.  
+ 
+ 
+ 
+ Figure 5. 
+ 
+ 
+6. Delete the files from your computer’s desktop.  
+ 
+ 
+  
+NOTICE  
+Do NOT  open the four files from the  
+extracted folder. Opening them will 
+damage the files.  
+ L-SB-0020 -22 Rev1  July 6, 2022  Page 5 of 5 
+eOwner's Manual (eOM) Installation  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA    
+   
+Software Installation   
+1. Insert the USB flash drive into either USB port under the armrest.  
+ 
+ 
+2. Perform steps 1 – 3 from the Software 
+Confirmation  section of this bulletin. 
+Once the USB flash drive has been  
+inserted, an install prompt will appear. 
+Click Yes.  
+ Figure 6. 
+ 
+ 
+3. Once the process is complete, click O K. 
+ Figure 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Removal  
+Software removal steps are the same as 
+software installation steps, except that the 
+screen to the right will appear in place of 
+Figure  6 when the eOM removal USB flash 
+drive has been  inserted.  
+ Figure 8. 
+ 
+ 
+ NOTE  
+Refer to the Software Information  section of this bulletin for the installation and removal  files. 
+NOTE  
+ The eOM should automatically launch following the software  installation. If the eOM does NOT  
+launch, repeat the installation process, ensuring to follow each step carefully.  
+ If the eOM  does NOT  install properly after the second attempt, diagnose the vehicle using the 
+applicable Repair Manual.  

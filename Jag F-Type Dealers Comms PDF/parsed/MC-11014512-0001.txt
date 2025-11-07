@@ -1,0 +1,121 @@
+2025-02-20
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+G90 M5 Sedan SoP (@ 7/24)
+G99 M5 Touring SoP (@ 1 1/24)
+ 
+SITUA TION
+During highly dynamic driving, washer fluid may be forced out of the windshield washer nozzles. This can
+lead to the washer fluid reservoir being completely emptied.
+ 
+CAUSE
+Insuf ficient fluid retention within the washer fluid supply hose system.
+ 
+CORRECTION
+The driver and passenger side washer fluid diaphragms must be replaced with non-return (one-way) valves. 
+ 
+PROCEDURE
+When a customer states the concern that is described in the situation, only then, proceed as follows:
+ 
+Disassembly
+ 1. Disconnect the washer fluid hoses at their
+separation points on the driver ’s and
+passenger ’s side. 
+ 
+A. = Driver's side
+B. = Passenger's side
+ 
+ 
+ 2. Unlock the hose coupling by sliding the (1)
+lock down in the direction of the red arrows.
+Gently squeeze the end of the grey lock (2)
+and lightly tug on the other end of the
+separation point to unfasten the coupling. 
+ 
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:00 AM 61 01 25_G9X WASHER FLUID LEAK DURING DYNAMIC DRIVING
+about:blank 1/4
+ 3. Remove the rubber washer hose from the barb (3)
+on the end of the separation point. 
+ 
+ 
+  Assembly                                                                                                                    
+4. At the washer hose separation point, install the
+new non-return valve onto the end (4) of the
+existing coupling. Listen for an audible click to
+ensure the valve is secured. 
+5. Install the washer hose removed in step three
+to the barb (5) of the new diaphragm. 
+6. Secure the washer hoses into the guides of the
+windshield panel  clips.
+  
+7. Test the operation of the windshield washer system and inspect for any leaks.
+PARTS INFORMA TION
+Use and invoice the part number below .
+ 
+Note:  This part is designated for G2x Series vehicles, but for this repair on G9x vehicles only the
+non-return valve portion is required. The included washer nozzle portion is not needed.
+ 
+Part number “61 61 9478357” at a quantity of two (2) must be ordered to obtain the non-return (one-way)
+valves. 
+ 
+Part Number Description Quantity
+61 61 9478357 Spray nozzle with hose, driver's side (“LL” stands for
+German phrase Links Lenker , meaning left-hand drive)2
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks.
+ 
+Repair Code: 6166024800Windscreen washer system, lines/valves/connectors
+Leaking
+ 
+Diagnosis
+Copyright ©2025 BMW of North America, Inc.
+2/23/25, 6:00 AM 61 01 25_G9X WASHER FLUID LEAK DURING DYNAMIC DRIVING
+about:blank 2/4
+ 
+Labor Operation Description Labor Allowance
+61 00 009*Confirming the washer issue is the one that is described in
+the Situation (W ork time)WT FRU
+Or:
+00 58 500* Diagnosis W orktime Flat Rate 2 FRU
+ 
+And, together with the diagnosis that applies to your center , claim the work item below that applies.
+ 
+Repair
+ 
+Labor
+OperationDescription Labor Allowance
+61 99 000Work time to replace the driver and passenger side washer
+fluid diaphragms with anon-return (one-way) (Main work)4 FRU
+Or:
+61 99 000Work time to replace the driver and passenger side washer
+fluid diaphragms with anon-return (one-way) (Plusposition
+work)3 FRU 
+ 
+If you are using a Main labor operation code for another repair , then claim the Plusposition type labor
+operation as described above for this repair .
+ 
+Work time labor operation codes 61 00 009 and 00 58 500 are not considered Main labor operations.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20  or B01 07 20  for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis
+work time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise
+required by State law .
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the W arranty
+Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:00 AM 61 01 25_G9X WASHER FLUID LEAK DURING DYNAMIC DRIVING
+about:blank 3/4
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:00 AM 61 01 25_G9X WASHER FLUID LEAK DURING DYNAMIC DRIVING
+about:blank 4/4

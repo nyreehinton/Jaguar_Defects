@@ -1,0 +1,31 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250023 Released Date : 07-F eb-2025
+Fault Code 14252 and 14253 Activ e At or Below 32°F [ 0°C ]
+Fault Code 14252 and 14253 Active At or Below
+32°F [ 0°C ]
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+BES CM2450 EV105B
+BES CM2450 EV107B
+BES CM2450 EV110B
+BES CM2450 EV111B
+Issue Summar y
+Sympt om:
+One or mor e fault codes ar e activ e: FC14252 (Refriger ant Low-Pr essur e Switch) and FC14253
+(Refriger ant High-Pr essur e Switch)
+Ther e is no ser vice lamp for this fault code.
+Root Cause:
+Fault codes activ ate at 32°F [ 0°C ] or below .
+Verification
+Verify one or mor e counts of the F ault Codes 14252 and 14253 ar e activ e.
+Resolution
+This issue will not impact the oper ation of the unit. F ault codes go inactiv e with incr ease in
+temper ature to around 50°F [ 10°C ].
+If the fault code is activ e with the incr ease in temper ature, follow the published
+troubleshooting.
+This issue will be r esolv ed with a futur e system contr ol module calibr ation update.
+Document Hist ory
+Last Modified:  07- Feb-2025Date Details
+2025-2-6Module Cr eated

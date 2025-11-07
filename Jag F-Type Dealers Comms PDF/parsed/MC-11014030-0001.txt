@@ -1,0 +1,52 @@
+ 
+ 
+Page 1 of 2  
+Subject :  
+ Secondary lock -tab washers are commonly used in applications where parts are subjected to rotational forces. It 
+is crucial for safe operation of the apparatus that these retainers remain in place.  
+ 
+ 
+ 
+Pierce PN  “A” 
+(±0.005 in.)  “B” 
+(±0.010 in.)  “C” 
+(±0.010 in.)  “D” 
+(±0.007 in.)  “E” 
+(±0.010 in.)  “F” 
+(±0.010 in.)  “G” 
+(±0.030 in.)  T 
+ 0.177 in.  0.305 in.  0.185 in.  0.113 in.  0.226 in.  0.065 in.  0.240 in.  0.025 in.  
+82-1062 -0001  0.195 in.  0.375 in.  0.205 in.  0.113 in.  0.226 in.  0.100 in.  0.295 in.  0.025 in.  
+ 0.203 in.  0.340 in.  0.192 in.  0.113 in.  0.226 in.  0.080 in.  0.280 in.  0.030 in. 
+82-1062 -0002  0.259 in.  0.345 in.  0.195 in.  0.103 in.  0.240 in.  0.055 in.  0.240 in.  0.010 in.  
+82-1062 -0003  0.327 in.  0.530 in.  0.300 in.  0.140 in.  0.320 in.  0.100 in.  0.425 in.  0.030 in.  
+82-1062 -0004  0.392 in.  0.641 in.  0.325 in.  0.289 in.  0.445 in. 0.085 in.  0.485 in.  0.030 in.  
+ 0.405 in.  0.690 in.  0.395 in.  0.173 in.  0.420 in.  0.155 in.  0.530 in.  0.036 in.  
+82-1062 -0005  0.513 in.  0.828 in.  0.375 in.  0.313 in.  0.513 in.  0.100 in.  0.600 in.  0.030 in.  
+ 
+  
+Title:  Secondary Lock-Tab Washers   
+Number:  SB_714  Release Date:  01/28/2025 
+Revision Number:  Not Applicable  Revision Date:  Not Applicable  
+Chassis Type:  All 
+Component Description:  Secondary Lock-Tab Washers  
+Parts:  See table below  
+
+SERVICE BULLETIN  #714 
+Page 2 of 2 Procedure:  
+ 
+ 
+ 
+NOTE:  
+• Repeated bending and unbending will weaken metal. Always use new secondary lock -tab washers 
+during installation.  
+• Secondary lock -tab (single -point) washers are available in several sizes to fit various applications.  
+• Prior to operation of the apparatus, secondary lock -tab washers should be inspected to ensure 
+they are properly secured.  
+• Secondary lock -tab washers require a hole or edge to anchor the tab.  
+ 
+1. Place lock -tab (single- point) washer (1) over the screw (2) with tab (3) extending into hole or edge.  
+2. Install nut (4) and tighten to specified torque value.  
+3. When nut is properly tightened, rotate the nut further as needed to align nut flats or points with tabs (5).  
+4. Bend tabs (5) against nut flats  or points . 
+If any additional support is needed, please open a technical support incident on Pierceparts.com.  

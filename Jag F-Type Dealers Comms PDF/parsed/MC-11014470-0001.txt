@@ -1,0 +1,85 @@
+ 
+ 
+Classification: Reference: Date: 
+EC25-001 ITB25-001 February 12, 2025 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Infiniti retaile r to determine if this applies to your vehicle. 
+ 
+1/2 
+ 
+EXTENDED CRANK BEFORE STARTING 
+ 
+APPLIED VEHICLES: 2025 QX80 (Z63) 
+ 
+    
+IF YOU CONFIRM 
+ 
+The client s
+tates there is an exte nded crank before t he engine starts. 
+    
+ 
+ 
+ACTION 
+ 
+ 
+1. Confirm the current Engine Control Module (ECM) part number. 
+ 
+2. Reprogram the ECM, if applicable. 
+            
+ 
+IMPORTANT:  The purpose of ACTION  (above) is to give you a quick idea of the work you 
+will be performing. You MUST closely follow the entire SERVICE PROCEDURE  as set forth 
+in the Electronic Service Manual (ESM) incl uding all Warnings/Cautions/Notices as it 
+contains information that is essential to  successful completion of this repair. 
+2/2 ITB25-001 SERVICE PROCEDURE 
+ 
+1. Using CONSULT 4, confirm the current  ECM part number and write it on the repair 
+order. 
+ 
+ If it matches one of the part numbers in Table A , continue to step 2. 
+ 
+ If it does not match one of the part numbers in Table A , this bulletin does not 
+apply.  Go back to ASIST for 
+further diagnostic and repair information. 
+ 
+Table A 
+ 
+MODEL CURRENT ECM PART NUMBER: 23761- 
+2025 QX80 7JD0A,  7JD1A,  7JD2A,  7JD3A 
+ 
+ 
+ 
+ 
+ 
+If you are not familiar with the Re/programming, Configurat ion procedure, refer to the 
+Electronic Service Manual (ESM) and the CONSULT Operation Manual to reprogram the 
+Electronic Control Unit (ECU). Follow all precautions in bot h manuals to prevent possible 
+personal injury or death and/or damage to the ECU.  2. Reprogram the ECM. 
+ 
+HINT: If prompted, perform "ADDIT IONAL SERVICE" per the ESM. 
+ 3. After completing Erase All DTCs , print a copy of th e CONSULT screen showing 
+the before and after part numbers of the control unit and atta ch it to the repair order. 
+ 
+CLAIMS INFORMATION 
+ 
+Submit a Primary Part (PP) type line cl aim using the following claims coding: 
+ 
+DESCRIPTION PFP OP CODE SYM DIA FRT 
+Reprogram the ECM (1) DE97AA ZE 32 (2) 
+ 
+(1) Reference the electronic parts catal og and use the ECM Assembly (23703-*****) as 
+the Primary Failed Part ( PFP). 
+(2) Reference the current Infiniti Warranty Flat Rate Manual and us e the indicated Flat 
+Rate Time ( FRT). 
+ 
+  
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+February 12, 2025 ITB25-001 Or iginal bulletin published 
+ 
+ 
+ 

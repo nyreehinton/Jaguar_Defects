@@ -1,0 +1,67 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-027
+Service BulletinDate: February, 2025
+TECHNICAL
+Windshield Wiper Arm Clearing and Interference Concerns
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Cadillac OPTIQ 2025 2025
+— — All All
+Chevrolet Equinox EV 2024 2025
+Involved Region or CountryNorth America, Brazil, Chile, Colombia, Ecuador, Uruguay, Middle East, Israel, Palestine,
+Brazil, Chile, Colombia, Ecuador, Uruguay, Japan, Egypt
+ConditionCustomers may notice that the driver and passenger wiper blades are contacting each
+other and/or excessive un-wiped area near the A pillar on the windshield.
+Cause The wiper arms may not be aligned correctly to the wiper motor pivot shaft.
+CorrectionFollow Service Procedure tips below to properly align wiper arms to wiper motor pivot
+shaft.
+Dealers must check all areas first before releasing the vehicle to the customer.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool, and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+Service Procedure
+1. The wiper stalk switch should be in the off position and the wipers energized so the arms do not freely rotate.
+2.  A quick visual assessment of alignment per this bulletin can be done using these reference images:
+Page 2 February, 2025 Bulletin No.: 25-NA-027
+6832673
+• Reference image for wipers contact acting in park position.
+6832674
+• Correctly aligned wipers will have a gap between the blades in the park position as shown above.
+3. If the wipers are contacting each other in park or any location during cycling, follow Windshield Wiper Arm
+Adjustment  procedure in SI.
+4. For issues where the wipers are not fully clearing the windshield: During cycling, the reversal point of the blade
+is around 40-50 mm (1.6-2.0 in) to the edge of the blackout on the glass as shown below.
+Bulletin No.: 25-NA-027 February, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION
+6832676
+Note: Consistency in measuring this gap can vary depending on where the measurement is taken, tackiness of the
+glass, and cycle speed of the wipers. It is not recommended to use measurements at the pillar to accurately assess
+alignment. If it is noted that the un-wiped area appears to be excessive, this measurement can be used as
+reference. However, correct determination of the alignment should only be performed when the wipers are in the full
+parked position following the adjustment procedure in the document noted above.
+Parts Information
+No parts are required for this repair.
+Warranty Information
+For vehicles repaired under warranty, use:
+Labor
+OperationDescription Labor Time
+2070282 Windshield Wiper Arm
+AdjustmentUse
+Published
+Labor
+Operation
+Time
+Version 1
+Modified Released February 06, 2025

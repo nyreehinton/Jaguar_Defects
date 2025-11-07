@@ -1,0 +1,107 @@
+2025-02-21
+MODEL
+U10 (X2 Sports Activity Coupe) U11 (X1 Sports Activity V ehicle)
+ 
+SITUA TION
+A Check Control message (CCM) displays for “T ransmission oil service required” (ID 2120). 
+ 
+This warning will trigger based on the following that applies:
+ 
+From 60,000 miles (~95,000 km) to 78,000 miles (~125,000 km), or
+After six (6) years: The “six years” time interval is determined the production date of the vehicle. It is not
+based on the day/date of the first registration, or the completion date of the pre-delivery check (PDI). 
+ 
+If the vehicle is driven more than approx. 1900 miles (~3,000 km) after the first CCM, then a second
+message will be display for “T ransmission fault!” (ID 368).
+ 
+CAUSE
+The oil in the double clutch transmission ages with increasing usage, as well as depending on the vehicle’ s
+driving profile. 
+ 
+When the transmission oil reaches the end of its service life, a regular "transmission oil change in the double
+clutch transmission" is required.
+ 
+CORRECTION
+Change the oil in the DKG.
+ 
+PROCEDURE
+Follow  Repair Instruction 00 1 1 276 Oil change in the double-clutch transmission (DKG)
+ 
+PARTS INFORMA TION
+To determine the part number(s) that applies to the specific vehicle being repaired, enter the VIN / Chassis
+number into either ETK or AIR, this will consider the specific equipment and/or options that are fitted to the
+vehicle.
+ 
+Part Number Description Quantity
+28 00 5 A41 030 S Set, threaded oil plug (GD7/GN7Qxxxx) 1
+83 22 5 B3A  C81 DCTF 2 (1 Liter bottle)Claim 4
+and
+0.55 liter in
+sublet
+ 
+CLAIM INFORMA TION
+Replaced the oil in the double clutch transmission (DKG/DCT) when and as instructed above.
+ 
+BMW Maintenance Program
+ 
+If the BMW vehicle has the applicable “active” optional extended full maintenance program coverage, then
+submit for this maintenance service task as follows:
+ 
+Repair Code: 85990701MPMAINTENANCE SER VICE, MANUAL  TRANSMISSION OIL
+(CCM)
+ 
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:11 AM 28 01 25_U10 U11 DOUBLE CLUTCH TRANSMISSION (DKG) MAINTENANCE TASK - OIL CHANGE INTERVAL
+about:blank 1/3
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Labor Operation Description Labor Allowance
+00 11 276Oil change in the double-clutch transmission (DKG) (Main
+work) includes Carrying out vehicle test (00 00 006/61 21
+528) (Main work)As applicable
+Or:
+00 11 576Oil change in the double-clutch transmission (DKG) (Plus
+work) includes Carrying out vehicle test (00 00 556/61 21
+528) (Plusposition)As applicable
+ 
+Note:  The Standard Scope procedure (Labor operation code 00 00 105) does not apply here since this
+transmission oil service task is identified and displayed through a Check Control message instead of through
+the vehicle’ s CBS data.
+ 
+And:
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the supported applicable maintenance
+service-related shop supplies (One time per workshop
+visit).Up to $10.00
+And:  
+Reimbursement for the proportional quantity of “DCTF 2”
+only0.55 liter in
+sublet
+ 
+Sublet reimbursement calculation for claiming the proportional quantity of “DCTF 2” is the dealer net (DN)
+price for the 0.55-liter  quantity used plus your center ’s corresponding handling amount that applies.
+ 
+Enter these material costs in sublet and itemize the amount on the repair order and in claim comment
+section.
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the Chassis Number (the last seven (7) characters of the VIN, select the
+applicable Model if two or more vehicle choices show), or enter the full VIN (17 characters), click on the
+“Search” button. Next, click on the “Flat Rate Units” button and enter the flat rate labor operation code in the
+field to the right, click “Search” to display the Flat Rate Unit Group detail choices.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topics of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the W arranty
+Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:11 AM 28 01 25_U10 U11 DOUBLE CLUTCH TRANSMISSION (DKG) MAINTENANCE TASK - OIL CHANGE INTERVAL
+about:blank 2/3
+Copyright ©2025 BMW of North America, Inc.2/23/25, 6:11 AM 28 01 25_U10 U11 DOUBLE CLUTCH TRANSMISSION (DKG) MAINTENANCE TASK - OIL CHANGE INTERVAL
+about:blank 3/3

@@ -1,0 +1,151 @@
+Printed by:Derek Strange 
+ 
+Service
+Chassis ID Path
+ 89/Technical service bulletins//Fairing, cab side, reinforcement bracket
+Model Identity
+184937594
+Publish date ID/Operation
+2/8/2025 V-891-001
+1 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  Fairing, cab side, reinforcement bracket
+V-891-001
+(February 2025)
+Valid for
+All Volvo trucks built between 2015 and 2023
+Case description
+Due to cracking in the step area of the fairing, an updated support bracket has been introduced. The new support 
+bracket will provide the better structure behind the fairing, reducing the likelihood of cracking. All new fairings will come 
+with the updated support. Updated brackets are available for older fairings for additional structure support.
+Parts
+Part Number Description Quantity
+78685727 Bracket, Support 
+Rear Assy LH1
+78685764 Bracket, Support 
+Rear Assy RH1
+78685696 Bracket, Support 
+Upper, Front LH1
+78685758 Bracket, Support 
+Upper, Front RH1
+78685745 Bracket, Lower 
+Cab Step, Rear LH1
+78685763 Bracket, Lower 
+Cab Step, Rear 
+RH1
+Procedure
+You must read and understand the precautions and guidelines in Service Information, group 80, "General Safety 
+Practices, Cab" before performing this procedure. If you are not properly trained and certified in this procedure, ask 
+your supervisor for training before you perform it.
+Park the vehicle on a level surface.
+Apply the parking brake.
+Install the wheel chocks.
+Remove the battery box cover.
+Disconnect all cables from the negative (ground) battery terminals to prevent personal injury from electric shock 
+and prevent damage to electrical components.
+Operate the two fairing latch handles and open the vehicle’s front chassis side fairing assembly that is to be 
+removed.
+2 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+6.  
+7.  
+8.  
+9.  
+10.  
+Unhook the lanyard safety latch. Remove the chassis side fairing assembly from the vehicle and move it to a safe 
+work location.
+Turn over the fairing so the painted side is down.
+Remove all 6 fastens securing the front fairing support to the fairing.
+Install the new support bracket (78685696 for LH side, 78685758 for RH side) on the fairing using the existing 
+hardware and torque to specification.
+3 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+10.  
+11.  
+12.  Tightening torque
+Support bracket hardware 24 ± 4 Nm (18 ± 3 lbf⋅ft)
+Remove the six fasteners securing the lower rear bracket and remove the bracket.
+Remove the four fasteners securing the rear support.
+4 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+12.  
+13.  
+14.  
+15.  
+16.  
+Remove the L bracket from the old lower bracket and install on the new bracket (78685745 for LH side, 
+78685763 for RH side) using the existing hardware.
+Install the new rear support bracket (78685727 for LH side, 78685764 for RH side) and the new lower support 
+bracket (78685745 for LH side, 78685763 for RH side)
+Hand tighten all securing hardware.
+Install two new M8 fastens, two new M8 nuts and hand tighten.
+5 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+16.  
+17.  
+18.  
+Torque all securing fasteners on the rear support bracket to specification.
+Tightening torque
+Support bracket 
+hardwareM8
+24 ± 4 Nm (17 ± 3 lbf⋅ft)
+Bracket hardware M6
+10 ± 1.5 Nm (89 ± 13 
+lbf⋅ft)
+Position the front chassis side fairing assembly onto the vehicle, reconnect the lanyard to secure it and close the 
+front chassis side fairing assembly.
+6 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025
+18.  
+19.  
+20.  
+21.  
+22.  
+23.  
+24.  
+Check and verify that the reinstalled front chassis side fairing is straight on the vehicle. Adjust the position as 
+needed.
+This procedure will be completed on both the left-hand side (Driver side) and the right-hand side (passenger side) 
+of the vehicle.
+Once both fairings have been completed, reconnect all previously removed cables to the negative (ground) 
+battery terminals.
+Reinstall the battery box cover.
+Remove the wheel chocks.
+Return vehicle to service.
+Issued by
+Technical Service
+7 / 
+7
+Copyright to this documentation belongs to the Volvo Group. No reproduction, copying, change, amendment or other similar disposal is entitled without prior written consent by
+the Volvo Group 
+The information contained herein is current at the time of its original distribution, but is subject to change. The reader is advised that printed copies are uncontrolled. 
+IMPACT 4.08.02 2/28/2025

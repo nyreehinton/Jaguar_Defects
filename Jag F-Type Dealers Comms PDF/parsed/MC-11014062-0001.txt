@@ -1,0 +1,220 @@
+GENERAL MOTORS  
+DCS 7139  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 10 , 2025 
+  
+Subject:  N242478720  - Customer Satisfaction Program   
+ Missing EV Towing Requirement in Owner’s Manual  
+  
+Models:  2024 BrightDrop Zevo 400  
+ 2023 – 2024 BrightDrop Zevo 600  
+ 2025 Chevrolet BrightDrop 400  
+ 2025 Chevrolet BrightDrop 600    
+  
+General Motors is releasing  Customer Satisfaction Program  N242478720  
+today.    
+What Should Dealers Do:  Dealers should review IVH or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+The Stock VIN list of vehicles in dealer inventory is attache d to this message. 
+Note: this list is only accurate at the time of report creation and all VINs should 
+be validated in IVH prior to repair.   
+ 
+ 
+END OF MESSAGE  
+Customer Satisfaction Program  
+N242478720  Missing EV Towing Requirement in Owner’s Manual   
+ 
+ Page 1 of 7 
+ 
+Release Date:  February  2025 Revision:  00  
+Attention:  For EV Involved Vehicles: The repairs outlined in this bulletin must only be completed at an authorized 
+EV dealer and repairs must be performed by a technician who has successfully completed the 
+applicable  technical training required to perform this repair.   
+This program is in effect until February 28 , 2027 .  
+ 
+Make  Model  Model Year  
+From  To 
+BrightDrop  Zevo 400  2024  2024  
+BrightDrop  Zevo 600  2023  2024  
+Chevrolet  BrightDrop 400  2025  2025  
+Chevrolet  BrightDrop 600  2025  2025  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  
+ Certain vehicles listed above  may be missing the EV towing requirement information in the Owner’s 
+Manual.  
+Correction  Dealers will insert the EV towing information into the Owner’s Manual. Since the towing information 
+insert can be easily installed, and to reduce customer inconvenience, the insert will be sent directly to 
+customers of record along with instructions. Custo mers may place the insert into their Owner’s Manual 
+or, if they desire, they may ask the dealer to perform this task.  
+Parts  
+No parts are required.  
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107728  Print and Install Owner Manual Insert (s) 0.1 ZFAT  N/A 
+ Service Procedure  
+1. Print the appropriate language owner manual insert (s) for your service area.   
+2. Locate the owner manual.  
+3. Install the owner manual inserts to the owner’s manual.  
+ 
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 2 of 7 
+  
+ 6783858  
+ 
+ 6783860  
+ 
+
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 3 of 7 
+  
+ 6783861  
+ 
+ 6783863  
+ 
+
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 4 of 7 
+  
+ 6783864  
+ 
+ 6783865  
+ 
+
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 5 of 7 
+  
+ 6783866  
+ 
+ 
+ 
+ 
+ 
+Dealer Responsibility  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the service procedure of 
+this bulletin be fore customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, or any other purpose.  
+All GM Certified Pre -Owned (CPO) vehicles currently in the d ealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Management (GWM) system, the vehic le can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+Dealers are to service all vehicles subject to this program at no charge to customers, regardless of mileage, age of vehicle,  
+or ownership, through the end date as noted in the Attention box.  Customers who have recently purchased vehicles sold 
+from your vehicle inventory, and for which there is no customer information indicated on the involved vehicle listing, are 
+to be contacted by  the dealer.  Arrangements are to be made to make the required correction according to the instructions 
+contained in this bulletin.  A copy of the customer letter is provided in this bulletin for your use in contacting customers.   
+Program follow -up cards s hould not be used for this purpose, since the customer may not as yet have received the 
+notification letter.  
+In summary, whenever a vehicle subject to this program enters your vehicle inventory or is in your facility for service 
+through  the end date as not ed in the Attention box , you must take the steps necessary to be sure the program correction 
+has been made before selling or releasing the vehicle.  
+Dealer Reports  – For USA & Export   
+For dealers with involved vehicles, a listing has been prepared and will be available through GM Global  Connect Maxis 
+Field Action Reports or sent directly to export dealers.   The Inventory tab of the dealer reports will contain VINs that 
+apply to this field action.   This information is intended to assist dealers with the  PROMPT COMPLETION  of these 
+vehicles.   The Customer In -Service tab will contain customer names and addresses from Motor Vehicle Registration 
+
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 6 of 7 
+  
+Records.   The use of such motor vehicle registration data for any purpose other than follow -up necessary to complete  
+this field action may be a violation of law in several states.   
+Customer Notification  
+USA & Canada - General Motors will notify customers of this program  on their vehicle (see copy of sample customer letter 
+included with this bulletin).   
+ 
+Export - Letters will be sent to known owners of record located within areas covered by the US National Traffic and Motor 
+Vehicle Safety Act.  For owners outside these areas, dealers should notify customers using the attached sample letter.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehicle.  Properly tr ained 
+technicians have the tools, equipment, safety instructions, an d know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condition.  See your dealer for informa tion on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+  
+
+Customer Satisfaction Program  
+N242478720 Missing EV Towing Requirement in Owner’s Manual   
+ 
+  Page 7 of 7 
+  
+  
+This notice applies to your vehicle,  VIN: ________________________________  
+Dear General Motors Customer:  
+We have learned that your GM vehicle  may have missing EV Towing information in the vehicle’s owner manual .   
+What We Will Do:  If you lose this insert or have questions, you can reach out to your BrightDrop/Chevrolet  EV 
+Certified dealer.   Your dealer can also print and place this insert in your Owner’s Manual .  This s ervice will be 
+performed for you at no charge until February 28 , 2027 .  
+What You Should Do:  Locate the enclosed updated towing information insert. Add the insert to the vehicle’s Owner 
+Manual and keep it with your vehicle for future reference .   
+If you have any questions or concerns that your dealer is unable to resolve, please contact the appropriate Customer 
+Assistance Center at the number listed below.  
+For the hearing or speech impaired, please contact our Customer Assistance Center using the T elecommunication 
+Relay Service by dialing 711 then providing the appropriate Customer Assistance Center number for your vehicle.  
+Division  Number  
+Chevrolet EV  1-833-382-4389  
+Chevrolet  1-800-222-1020  
+Puerto Rico – English  1-866-467-9700  
+Puerto Rico – Español  1-866-467-9700  
+Virgin Islands  1-866-467-9700  
+ 
+We truly appreciate you taking the time to update your Owner’s Manual  as we know your time is valuable.  We want you 
+to know that we will do our best, throughout your ownership experience, to ensure t hat your BrightDrop vehicle  provides 
+you many miles of enjoyable driving . 
+ Neelie O’Connor  
+ Global Executive Director  
+ Customer Experience  Operations  
+ 
+Enclosure  
+N242478720  
+ 
+ 

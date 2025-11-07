@@ -1,0 +1,72 @@
+Involved Region or
+CountryNorth America, Europe, Uzbekistan, Russia, Middle East, Iraq,
+Israel, P alestine, Argentina, Brazil, Bolivia, Chile, Colombia,
+Ecuador , Paragua y, Peru, Urugua y, Venezuela, Japan, Cadillac
+Korea (South K orea), GM K orea Company , China, T aiwan,
+Thailand, Singapore, Philippines, Australia/New Zealand, Egypt,
+Other Africa, South Africa
+Condition A 2021 - 2025 vehicle equipped with a HFV6 Gen2 engine with
+AFM ma y be brought into the dealership with misﬁres on
+cylinder 2 or 5 and ma y be accompanied by a rough idle
+complaint.  
+This could be misﬁre all the time or  start after an AFM event
+that ma y or ma y not go awa y.  
+We have also seen this on a cold start that then goes awa y. 
+ 
+CauseWe have determined there is an issue with some rock ers /
+SRFF's on the vehicles within Model Y ears listed above.
+Bulletin No.: PIP5824D
+Published date: 02/25/2025
+Preliminary Information
+PIP5824D HFV6 Gen2 Engine Misﬁre On AFM Cylinders 2 or 5
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac CT5 2021 - 2025 All All3.0 LG YAll
+Cadillac XT5 2021 - 2025 All All3.6 LGX All
+Cadillac XT6 2021 - 2025 All All3.6 LGX All
+Chevr oletBlazer 2021 - 2025 All All3.6 LGX All
+Chevr oletCamar o2021 - 2024 All All3.6 LGX All
+Chevr oletColorado 2021 - 2022 All All3.6 LGZ All
+GMC Acadia 2021 - 2023 All All3.6 LGX All
+GMC Canyon 2021 - 2022 All All3.6 LGZ All
+ 
+ 
+ 
+ 
+Correction:  
+If you have a vehicle with this concern, swap the AFM rock er oil control solenoid in the
+camshaft cover from side to side and reevaluate.  
+If the misﬁre goes awa y or moves to the other bank, replace the AFM oil control solenoid.   
+If the misﬁre remains or comes back after an AFM event or a cold start on the same
+cylinder , remove that bank camshaft cover and turn the engine over by hand while closely
+watching the valves on the misﬁring cylinder . 
+If the cylinder was a dead misﬁre all the time and the valves open, continue with normal
+misﬁre diagnosis.  
+If the valves do not open(either intak e or exhaust) replace all 4 rock ers / SRFF's and all 4
+SHLA's / lifters for the aﬀected cylinder .
+NOTE: This PI will be updated or changed to a bulletin when engineering has decided there
+is no longer a parts concern with these rock ers or a new part comes out.
+Description Part Number QTY.
+Switching valve rock er arm 12666601 4
+Dual F eed Hydraulic Lash Adjuster 12690246 4
+Version 3 5
+Modiﬁed09/22/2021 - Created on.  
+02/25/2022 - Updated to add Model Y ear and remove
+breakpoint.  
+11/10/2022 - Updated to add Model Y ear. 
+01/08/2024 - Updated to add Model Y ear. 
+02/25/2025 - Updated to add Model Y ear add direction of
+cold start.Parts Information
+ 
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation.
+Reference the Applicable W arranties section of Investigate V ehicle History (IVH) for
+coverage information.
+Please use the Labor Operation for the vehicle and bank you are working on.
+Additional SI K eywords
+DTC, P0300, P0302, P0305,
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

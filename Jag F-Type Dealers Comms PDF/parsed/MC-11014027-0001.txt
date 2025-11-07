@@ -1,0 +1,86 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  4/13/2020 
+SERVICE BULLETIN SUBJECT:  Aux Heat  Harness Tape Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-64 
+ 
+AUX HEAT HARNESS TAPE  RETROFIT  
+NOTICE! It is expected that this process will require 2  hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit adds high temperature foam tape to better secure the aux heat wiring harness to the bus 
+body.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/P arts Required 
+Tools  and Supplies  Required:  
+• 3M Tape Primer  
+• Isopropyl Alcohol  
+• Shop Towels  
+• 36-Grit Sandpaper  
+• Small Paint Brush  
+• Approved Safety Knife  
+ 
+ 
+ 
+Parts Required:  
+• 025757  TAPE, FOAM, VHB, DOUBLE -SIDED, 1/2X.09" THICK"  15 FT  
+• 002979  3M TAPE PRIMER 94         1 EA 
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+ 
+1. Perform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Working inside the bus, locate the wiring harness loom for the auxiliary heat system. The black 
+wire loom may by detached from the bus body as shown in the following photograph . 
+ 
+ 
+3. Using a Putty Knife, completely  remove the black wir e loom from both sides of the bus.  
+ 
+4. Using Isopropyl Alcohol and Shop Towels, clean the sides of the bus where the wire loom was 
+attached.  
+ 
+5. Using Isopropyl Alcohol and Shop Towels, clean the mounting surface of the wire loom that 
+was removed earlier.  
+ 
+6. Using 36 -Grit Sandpaper, scuff the areas of the bus body where the wire loom is to be 
+reattached.  
+ 
+7. Using Isopropyl Alcohol and Shop Towels, clean the scuffed areas on the bus body.  
+ 
+8. Using a Small Paint Brush, apply a thin coat of 3M Tape Primer to the scuffed areas on the bus body.  
+ 
+9. Using an A pproved Safety Knife, cut the VHB Tape ( 025757)  into sections and attach it to the 
+wiring loom.  
+ 
+  
+Wiring Loom  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+10. Attach the wiring loom back to the bus body. The wiring loom should appear as shown in the 
+following photographs.  
+ 
+  
+ 
+11. Remove the Lockout/Tagout devices and power on the bus.  
+ 
+12. Return the bus to service.  
+Wiring 
+Loom  

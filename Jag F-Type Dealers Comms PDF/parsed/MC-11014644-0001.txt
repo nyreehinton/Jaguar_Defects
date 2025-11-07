@@ -1,0 +1,38 @@
+Involved Region or
+CountryNorth America
+ConditionCustomer ma y comment one or more of the following concerns;
+Service vehicle soon light, Service OnStar message.
+Cause K183 UHF module logic lock ed
+Labor Operation Description Labor Time
+5430912 System Reset 0.5 Hr .
+Version 1
+Modiﬁed10/25/2024 - Created on.  
+02/25/2025 - Updated correction.
+Bulletin No.: PIC6583A
+Published date: 02/27/2025
+Preliminary Information
+PIC6583A U018B Set Current in One or More Modules
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Lyriq 2023 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:
+Perform a global reset by disconnecting 12V battery for 30 minutes, using  Document ID:
+6307865 Battery Negative Cable Disconnection and Connection.
+If the K183 (UHF) module recovers from being oﬄine, than the K183 will require the latest
+K183 24.169.1.3 or greater software to be ﬂashed into the module.
+If the K183 fuse pull or 12V battery reset does not recover the K183 oﬄine issue, then
+K183 module replacement in required. In which service will install a new K183 at the latest
+K183 24.169.1.3 or greater release.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,182 @@
+  A printed copy is for reference only; publication information can be updated at any time.  
+Always refer to KGIS for the latest information. After logging in kdealer.com,  the newest technical 
+publications are listed in  ‘Service Releases’ and has the latest service information that has been released.  Kia America, Inc. Internal Use Only   GROUP  MODEL  
+Voluntary Service 
+Campaign  2023 -2024MY  
+Niro HEV (SG2 HEV)  and 
+2023 -2024MY  
+Sportage HEV (NQ5 HEV)  
+NUMBER  DATE  
+SC335  February  2025 
+VOLUNTARY SERVICE CAMPAIGN  
+BMS S/W LOGIC IMPROVEMENT FOR DTC P1BB2 (S C335 ) 
+ 
+This bulletin provides information to upgrade the Battery Management System ‘BMS’ software logic on certain 
+2023 -2024MY Sportage HEV (NQ5 HEV) vehicles produced from  February 15, 2022 to October 28, 2023 , and 
+2023 -2024MY Niro HEV (SG2 HEV) vehicles produced from  June 21, 2022 t hrough February 6, 2023 . Due to 
+a software issue, the Battery Management System (BMS) may inadvertently overcharge the 12V Lithium 
+battery. If the 12V Lithium battery becomes overcharged, the subject vehicles may experience a reduction in 
+motive power accompanied by the ‘Check H ybrid System, Stop Safely’ warning message, Hybrid system 
+warning lamp, Service warning lamp, Charging system warning lamp, and a rapid beeping sound for 
+approximately ten (10) seconds. (Note: This Voluntary Service Campaign supersedes ELE318/SA553) . 
+Follo w the procedure outlined in this publication to  upgrade the BMS software judgement to prevent 
+overcharging of the 12V Lithium battery.  Refer to SST081  for software upgrade instructions using Kia 
+Diagnostic System (KDS) tablet and VCI -II and confirm the Upgrade Event Number /Name , ROM ID 
+Information, and Manual Mode passwords (if applicable) on the applicable vehicle . Before conducting the 
+procedure, verify that the vehicle is included in the list of affected VINs.  
+ 
+DTC Description:  
+P1BB2 - 12V Lithium Battery Cell Voltage High  
+ 
+ 
+ 
+SUBJECT:  
+  
+Repair status for a VIN is provided on KDealer+  (Service → Warranty Coverage → Warranty 
+Coverage Inquiry → Campaign Information). Not completed Recall / Service Action reports are 
+available on KDealer+  (Consumer Affairs → Not Completed Recall → Recall VIN → Select Report), 
+which includes a list of affected vehicles.  
+ NOTICE  
+BMS S/W LOGIC IMPROVEMENT FOR DTC P1BB2  Page 2 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC335  Sportage HEV (NQ5 HEV) , Niro HEV (SG2 HEV) February  2025  
+SUBJECT:  
+Kia America, Inc. Internal Use Only  Refer to TSB SST081  for instructions to upgrade the ‘BMS ’ system:  
+ 
+To correct this condition, the specified system  module should be reprogrammed using KDS  
+as described in this bulletin  in ‘Auto Mode ’. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect the negative ( -) terminal to the battery as shown below.  
+ 
+  
+ Upgrade Event Name  
+698.SG2 HEV BMS DTC Judgment Logic Improvement (P1BB2)  
+700.NQ5 HEV BMS DTC Judgment Logic Improvement (P1BB2)  
+  
+Before attempting an ECU upgrade on any Kia model, make sure to first determine whether the 
+applicable model is equipped with an immobilizer      security system. Failure to follow proper 
+procedures may cause the PCM to become inoperative after the upgrade and any claims associated with this repair may be subject to chargeback.   
+ NO TICE  
+
+  Page 3 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC335  Sportage HEV (NQ5 HEV), Niro HEV (SG2 HEV) February  2025  
+BMS S/W LOGIC IMPROVEMENT FOR DTC P1BB2  
+ SUBJECT:  
+Kia America, Inc. Internal Use Only  ROM ID I nformation Table: 
+ 
+Upgrade Event #698  for Niro HEV  (SG2 HEV ) 
+ 
+ 
+ 
+Model  System  IMMO   ECU P/No.  ROM ID  
+Previous  New 
+SG2 
+HEV BMS  YES 37513 AT000  6000  6020  
+To verify the vehicle is affected, be sure to check the Calibration Identification of the vehicle's ECM ROM ID  
+and reference the Information Table as necessary.  
+ 
+ 
+Upgrade Event #700 for Sportage HEV  (NQ5 HEV ) 
+ 
+Model  System  IMMO   ECU P/No.  ROM ID  
+Previous  New 
+NQ5  
+HEV BMS  YES 37513 CH000  6100  6120  
+ 
+ 
+ 
+  
+It is recommended to ALWAYS check the Electronic Parts Catalog (EPC) to locate the ECU Part Number respective to Auto/Manual Mode ROM IDs. DO NOT reference the parts label affixed to 
+the ECU.  
+ IMPORTANT  
+
+BMS S/W LOGIC IMPROVEMENT FOR DTC P1BB2  Page 4 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC335  Sportage HEV (NQ5 HEV) , Niro HEV (SG2 HEV) February  2025  
+SUBJECT:  
+Kia America, Inc. Internal Use Only  Software In formation : 
+ 
+The required software must be installed by selecting  
+the ‘Auto Mode’  ECU Upgrade  option . 
+ 
+Note : In some case , the ‘Manual Mode’ installation 
+option may be required  ONLY  if the ‘Auto Mode’ 
+function fails  or is otherwise  noted above .  
+ 
+ 
+‘Manual Mode’ passwords.  
+Menu  Password  
+SG2 HEV BMS: 37513 -AT000  3157  
+NQ5 HEV BMS: 37513 -CH000  4540  
+ 
+UPGRADE EVENT:   
+ 
+Select the applicable ‘ BMS ’ system  module and the 
+Event  Group  for the vehicle model.  
+ 
+• 698.SG2 HEV BMS DTC Judgment Logic Improvement (P1BB2)  
+  
+• 700.NQ5 HEV BMS DTC Judgment Logic Improvement (P1BB2)  
+ 
+ 
+Verify the affected vehicle Calibration Identification of 
+the applicable  ECU ROM ID and reference the 
+Information Table on page 3 as necessary.   
+  
+If the automatic upgrade fails, turn the ignition ‘OFF’ for about 10 seconds then place it back in the 
+‘ON’ position to reset the control unit BEFORE performing the manual upgrade.  
+ NOTICE  
+  Page 5 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SC335  Sportage HEV (NQ5 HEV), Niro HEV (SG2 HEV) February  2025  
+BMS S/W LOGIC IMPROVEMENT FOR DTC P1BB2  
+ SUBJECT:  
+Kia America, Inc. Internal Use Only  AFFECTED VEHICLE RANGE : 
+Model  Production Date Range  
+Sportage HEV (NQ5 HEV)  February 15, 2022 to October 28, 2023  
+Niro HEV (SG2 HEV) June 21, 2022 to February 6, 2023  
+  
+REQUIRED TOOL:  
+  Tool Name  Part Number  Figure  Comments  
+Kia Diagnostic System  
+(KDS) N/A 
+ KDS + VCI  
+WARRANTY INFORMATION:  
+N Code : N99    C Code : C99 
+Note:  Refer to Warranty Bulletin 2025 -08 for claim submission procedures.  
+ Model  Claim 
+Type  Causal P/N  Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+NQ5  
+HEV 
+R 37513  
+CH000  
+0 (SC335A) 
+Sportage HEV  
+BMS Software  
+Logic Upgrade  230117R 2 
+0.3 
+M/H N/A 0 
+SG2 
+HEV 37513 
+AT000  (SC335 B) 
+Niro HEV  
+BMS Software  
+Logic Upgrade  230117R 3 
+ 
+  
+  
+VIN inquiry data for this repair is provided for tracking purposes only. Kia retailers should reference 
+SC335  when  accessing the KDealer+  system.  
+ 
+ NOTICE  

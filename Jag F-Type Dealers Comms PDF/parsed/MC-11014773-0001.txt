@@ -1,0 +1,69 @@
+ 
+SB-25-17-005  Page 1 of 3 
+_ 
+ Tesla, Inc.  
+Service Bulletin  Install Ferrite Core to Prevent Interference  
+SB-25-17-005  
+February  25, 2025  
+Classification  Section/Group  Mobile Service  Configuration  
+Repair Bulletin  17 - Electrical  Cannot Perform  All 
+Model  Model  Year  Country/Region  Build Location  
+Model Y  2023–2024  All All 
+The model(s) and model year(s) listed are a general approximation of the affected VIN list. Refer to the VIN/Bulletin Tracker or Customer/Vehicle profile to determine 
+applicability of this bulletin for a particular vehicle.  
+Repair Bulletin: This repair bulletin provides instructions on addressing a possible customer concern regarding the operation  of 
+Tesla vehicles. These instructions should only be performed by trained professionals . 
+Condition  
+On some  Model Y vehicles,  the center high mounted stop light may cause interference with the  power supply line for 
+the High Voltage Controller (HVC),  which can falsely trigger  High Voltage Interlock Loop (HVIL ) alerts 
+HVP_w026_HvilFault  or BMS_a036_SW_HvpHvilFault . 
+Correction  
+Inspect the vehicle for symptoms related to the condition. If symptoms are present, add a ferrite to the HVC electrical 
+harness.  
+Correction Description  Correction  Time  
+Install Ferrite Core To Prevent Interference  S012517002  0.3 
+  
+Part Number  Description  Quantity  
+Parts Required  1479450 -00-A FERRITE  1 
+ This part number  was current at the time of publication. Use the revision listed or later, unless otherwise 
+specified in the Parts Catalog . 
+Special Tools  1108272 -00-B CAP, LOGIC CONN, INV, 3DU  
+Shop Supplies  1922330 -00-A TAPE, PET FLEECE, RUBBER  
+  
+
+ 
+SB-25-17-005  Page 2 of 3 
+_ 
+Procedure  
+1. Disconnect LV power  (refer to Service Manual procedure 17010410 ). 
+2. Remove the RH lower C -pillar trim  (refer to Service Manual procedure 15180502 ). 
+3. Disconnect the HVC connector  (Figure 1).  
+ 
+Figure 1 
+4. Install the logic connector cap onto the HVC  connector to prevent mistaken reconnection and protect the 
+connector  (Figure 2).  
+ 
+Figure 2 
+5. Starting at 3 cm from the RH main body harness, carefully remove approximately 13 cm of the electrical tape from 
+the HVC electrical harness  (Figure s 3 and 4 ). 
+ CAUTION : Make sure not to damage any wires or wire insulation.  
+ 
+ Figure 3 Figure 4 
+
+ 
+SB-25-17-005  Page 3 of 3 
+For feedback on the accuracy of this document, email ServiceBulletinFeedback@tesla.com  
+6. Locate the thickest tan wire in the HVC electrical harness  branch . Install a ferrite onto the thick tan wire, and then 
+close the tabs (x2) of the ferrite (Figures 5 and 6).  
+ NOTE:  Rotate the ferrite around the wire to confirm that it is installed correctly and isn’t pinch ing any wires . 
+  Figure 5 Figure 6 
+7. Apply electrical tape onto the HVC electrical harness branch on both sides of the ferrite, making sure to cover the 
+ferrite, the ferrite casing and the  harness (Figure 7).  
+ NOTE:  Apply sufficient tape and position the ferrite to rest on the vehicle body to prevent NVH issues . Apply 
+an extra layer of tape if necessary.  
+ 
+Figure 7 
+8. Remove the logic connector cap from the HVC  connector (Figure 2) and re connect the HVC connector  (Figure 1).  
+9. Install the RH lower C -pillar trim and all other components that were removed for access (refer to Service Manual 
+procedure 15180502 ). 
+10. Reconnect LV power (refer to Service Manual procedure 17010410 ). 

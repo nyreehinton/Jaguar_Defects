@@ -1,0 +1,133 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  1-29-2020 
+SERVICE BULLETIN SUBJECT:  Defroster Additional Temperature Sensor  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-20-15 
+ 
+NOTICE! It is expected that this process will require 4  hour s per bus. Please 
+schedule appropriately to minimize vehicle downtime.  
+ 
+DEFROSTER ADDITIONAL TEMPERATURE SENSOR  RETROFIT  
+Retrofit Description:  
+This procedure adds an additional temperature sensor to the defroster to prevent overheating.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/Parts Required 
+Tools  and Supplies  Required:  
+• T-30 Torx Driver  
+• #2 Phillips Screwdriver  
+• Pin Extractor Tool  
+• Heat Gun  
+• Side Cutting Pliers  
+ 
+ 
+Parts Required:  
+ 
+• 051767  HARNESS, DEFROSTER, 400V, REDUNDANT TEMP CONTROL  1 EA 
+• 001912  CABLE TIE, 11.5 BLACK 292MM"      5 EA  
+ 
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+1. Complete the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. Using a T-30 Torx Driver, uninstall all panels necessary to access the defroster.  
+ 
+ 
+3. Remove the two orange wires from the Safety Thermostat shown in the following photograph. 
+It is mounted next to the collar with the Low, Medium, and High temperature th ermostats.  
+  
+ 
+4. Using a #2 Phillips Screwdriver, remove both screws from the thermostat. Remove the thermostat. Retain the screws for use later.  Discard the thermostat.
+ 
+  
+Remove Both Orange Wires from 
+This Thermostat  
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+5. Using a #2 Phillips Screwdriver  and the screws that were removed from the thermostat , install 
+the Thermistor with the attached Harness ( 051767) in the location where the thermostat was 
+removed.  
+  
+ 
+6. Connect the shorter orange wire that was removed from the thermostat to the red wire with 
+the male spade terminal  from the Harness (051767) as shown in the following photograph.  
+ 
+ 
+7. Connect the longer orange wire that was removed from the thermostat to the orange wire with 
+the male spade terminal from the Harness (051767) as shown in the follow ing photograph.  
+ 
+New Thermistor  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+8. Disconnect the connector  attached to the bottom relay that is mounted on the aluminum box 
+on the side of the defroster  as shown in the following photograph. This is the connector with 
+blue and orange wires.  
+  
+ 
+9. Using a Pin Extractor Tool, remove the center orange wire from the connector.  Place the 
+section  of Heat Shrink that was supplied with the Harness ( 051767) over the orange wire and 
+attached terminal . 
+ 
+ 
+10. Connect the orange wire with the male terminal from the Harness ( 051767) to the terminal 
+that was just removed from the connector. Cover the connection with the Heat Shrink. Apply 
+heat to seal the connection.  
+ 
+Center Wire to be Removed  
+6 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+11. Connect the orange wire with the locking female terminal on Harness (051767)  and insert it 
+into the center cavity of the relay connector.  
+ 
+ 
+12. Plug the connector back onto the relay . 
+  
+ 
+13. Disconnect  the bottom white wire (6 o’clock position) from the pressure switch as shown 
+below.  
+ 
+Bottom Wire to be Disconnect ed Plug in Connector Completely  
+7 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+14. Connect this white wire to the black wire on the Harness (051767) . 
+  
+ 
+15. Connect the remaining white wire from the Harness (051767) to the bottom terminal on the 
+pressure switch as shown below.  
+ 
+ 
+16. Using Cable Ties ( 001912), secure the harness and other wiring.  
+ 
+17. Using Side Cutting Pliers, trim the excess from the Cable Ties (001912).  
+ 
+18. Using a T -30 Torx Driver, re install the panels that were removed earlier to access the 
+defroster.  
+ 
+19. Remove the Lockout/Tagout devices and power on the bus.  
+ 
+20. Verify proper operation of the defroster on all speeds and heat settings before returning the 
+bus to service.  
+Connect Here  

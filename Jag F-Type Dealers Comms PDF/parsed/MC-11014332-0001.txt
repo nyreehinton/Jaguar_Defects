@@ -1,0 +1,53 @@
+ 
+ Page 1 of 1 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4559  © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004559  MTB 25-04 
+Technical Information  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+ 
+DATE : February  4 2025 
+ 
+ 
+This Technical bulletin serves as a guide and provides additional info related to  a specific failure 
+mode encountered on the DC/DC converter of the MHEV versions.  
+ 
+SECTION: 08.20.4 Energy generation and accumulation  
+MODEL: Grecale (M182)  MHEV version  (All MY)  
+PROBLEM: The analyzes performed on a consistent  number of DC/DC converters returned from the field have highlighted 
+a failure mode compatible with an electrical overstress attributable to a 12V reversal of polarity or to an incorrect 
+sequence of operations performed during a  Jump start . 
+ 
+The DTCs stored in APM associated with such a fault condition are of type P0A8FXX and most commonly one or a 
+combination of the following:  
+0A8F00 - Converter System Performance CC/CC  
+0A8F05 -DC to DC Converter System Performance -Gate driver Supply 2  
+0A8F07 -DC to DC Converter System Performance -Power supply low 3  
+NOTE: MCPA could appear as non -communicating with MDEVO in conjunction with this anomaly even if properly 
+functioning; therefore such a condition must not be further investigated . 
+ 
+CAUSE:  The jump  start procedure available on the Owner’s manualk has not been correctly performed, causing a polarity 
+reversal or electrical overstress due to an incorrect sequence of operations performed.  
+ACTION : In case of handling a case technically compatible with  this failure mode  , we ask to verify the service history of 
+the car and whether the customer has recently complained of an event 12V battery  discharged  with consequent jump  
+start or if the car has been assisted by road assistance.  
+Report through Blue on Line such information for proper attribution of technical root cause.  
+NOTE : In accordance with the Warranty policies detailed  in the White Book, we remind you that all interventions for which 
+the incorrect application of a technical procedure or negligence should be detected  could not be authorized under 
+contractual warranty . 
+Please do not hesitate to contact us for any questions you may have.  
+Kind regards,  
+ 
+ 
+TECHNICAL SERVICE OPERATIONS  
+DC/DC Converter Failure  

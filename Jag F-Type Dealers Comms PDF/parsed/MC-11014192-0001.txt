@@ -1,0 +1,136 @@
+T-SB-0012-25   January 23, 2025  
+ 
+Front Seat Suspension Absorber Assembly Gauge Lens 
+Replacement  
+Service 
+Category  Vehicle Interior   
+ Section   Seat  Market  USA and Mexico  
+  
+Draft - Confidential  © 2025 Toyota Motor Sales, USA  Page 1 of 6 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2024  Tacoma HV   
+ 
+Introduction  
+Some 2024 model year Tacoma Hybrid TRD Pro vehicles  equipped with a front seat suspension 
+absorber assembly may exhibit a condition where any of the gauge lenses on the front seat 
+suspension absorber assemblies may appear foggy . This condition may be present on either the 
+driver or the front passenger seat. Follow the Repair Procedure in this bulletin to address  
+this condition . 
+ 
+  
+ T-SB-0012-25   January 23, 2025  Page 2 of 6 
+Front Seat Suspension Absorber Assembly Gauge Lens Replacement  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  
+For USA Market  
+OP CODE  DESCRIPTION  TIME  OFP  T1 T2 
+BD2419  R & R Seat Suspension Assembly Gauge 
+Lens  
+One Seat (One or Both Lenses)  1.0 
+73890-AK0##*  67 63 
+Combo A  Other Seat (One or Both Lenses)  0.9 
+*Warranty claim MUST be submitted with the correct 10 -digit OFP. Choose the correct OFP for 
+the vehicle being repaired by searching for the parts in the Electronic Parts Catalog using the 
+VIN filter.  
+ 
+ 
+For Mexico Market  
+OP CODE  DESCRIPTION  TIME  OFP  T1 T2 
+BD2419  R & R Seat Suspension Assembly Gauge 
+Lens  
+One Seat (One or Both Lenses)  1.0 
+73890-AK0##*  67 63 
+Combo A  Other Seat (One or Both Lenses)  0.9 
+*Warranty claim MUST be submitted with the correct 10 -digit OFP. Choose the correct OFP for 
+the vehicle being repaired by searching for the parts in the Electronic Parts Catalog using the 
+VIN filter.  APPLICABLE WARRANTY  
+This repair is covered under the Toyota Basic Warranty.  This warranty  is in effect for 36 
+months or 36,000 miles , whichever  occurs first, from the vehicle’s in-service date.  
+Warranty  application  is limited to occurrence  of the specified  condition  described  in  
+this bulletin.  
+ T-SB-0012-25   January 23, 2025  Page 3 of 6 
+Front Seat Suspension Absorber Assembly Gauge Lens Replacement  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+ 
+ 
+Parts Information  
+PART NUMBER  PART NAME  QTY  
+71739-AK010  Front Seat Back Bezel (Lens)   1* 
+*One lens is needed per affected seat suspension absorber assembly  gauge. Only the lenses 
+that exhibit the condition described  should be replaced. Multiple lenses may need to be 
+ordered. 
+  APPLICABLE WARRANTY  
+This repair is covered under the Toyota Basic Warranty.  This warranty  is in effect for 36 
+months or 60,000 kilometers , whichever  occurs first, from the vehicle’s in-service date.  
+Warranty  application  is limited to occurrence  of the specified  condition  described  in  
+this bulletin.  
+ T-SB-0012-25   January 23, 2025  Page 4 of 6 
+Front Seat Suspension Absorber Assembly Gauge Lens Replacement  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  
+Confirm the condition exists.  
+Do ANY of the gauge lenses on the front seat 
+suspension absorber assemblies appear 
+foggy, as shown in Figure 1?  
+1. YES — Continue to step 2.  
+2. NO — This bulletin does NOT apply. 
+ Continue  diagnosis  using the 
+ applicable Repair Manual.  
+ Figure 1.  
+ 
+ 
+Remove the front seat back support cover  from the affected seat.  
+Refer to TIS, applicable model and model year Repair Manual . 
+3. 2024 Tacoma HV:  
+Vehicle Interior – Seat –  
+Front Seat Assembly  (for 6-way Power + 2 -way Manual Seat)  – Disassembly  
+ 
+NOTE  
+Perform ONLY step  4 – 9. 
+ T-SB-0012-25   January 23, 2025  Page 5 of 6 
+Front Seat Suspension Absorber Assembly Gauge Lens Replacement  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Use one hand to firmly hold the sides of the 
+gauge, as shown in Figure 2.  
+ Figure 2.  
+ 
+ 
+  
+
+ T-SB-0012-25   January 23, 2025  Page 6 of 6 
+Front Seat Suspension Absorber Assembly Gauge Lens Replacement  
+ 
+Draft - Confidential  © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continue)  
+Use the other hand to remove  the gauge lens  by 
+pulling outwards, as shown in Figure 3.  Figure 3.  
+ 
+ 
+ 
+Install the NEW gauge lens by gently pressing the lens onto the gauge and ensuring that it  
+is secure . 
+Repeat steps 3 – 5 for the other gauge lens if necessary.  
+Reinstall the front seat back support cover .  
+Refer to TIS, applicable model and model year Repair Manual . 
+4. 2024 Tacoma HV:  
+Vehicle Interior – Seat –  
+Front Seat Assembly  (for 6-way Power + 2 -way Manual Seat)  – Reassembly  
+ 
+Repeat steps 2 – 7 for the other front seat if necessary.  
+Confirm the condition is no longer present . 
+ 
+ 
+NOTE  
+Perform ONLY steps 43 – 48. 

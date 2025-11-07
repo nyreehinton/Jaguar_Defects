@@ -1,0 +1,146 @@
+ 
+CLIENT INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, and 
+training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do -it-yourselfers,” and you should not assume this 
+bulletin applies to your vehicle, or that your vehicle has the condition de scribed. To determine whether this information applies, contact an authorized 
+Acura automobile dealer.  
+ 
+© 2025 American Honda Motor Co., Inc. – All Rights Reserved  Page 1 of 6 
+           Service Bulletin  24-022 
+February 18 , 2025                                                                                                                            Version 2 
+Rear Differential Pump Motor Co nnector  Corrosion Sets AWD DTCs  
+Supersedes 24 -022 dated November 22, 2024, to revise the information highlighted in yellow . 
+APPLIES TO  
+Year  Model  Trim  Level  VIN Range  
+2015 -20 TLX AWD  ALL ALL 
+2016 -20 MDX AWD Non -Hybrid  ALL ALL 
+REVISION SUMMARY  
+Under PARTS INFORMATION, a part has been added.  
+SYMPTOM  
+The AWD warning light is on.  One or more AWD DTCs have been set.  
+Some common DTCs:  
+C1841 -27: Differential temperature sensor 1 circuit  
+C1842 -27: Differential temperature sensor 2 circuit  
+C1850 -12: Right side pressure sensor circu it high voltage  
+C1851 -87: F -CAN malfunction lost communication  
+C1851 -96: Functional  abnormalities  of differential fluid pump  
+C1855 -92: Differential motor low speed  
+POSSIBLE CAUSE  
+Water intrusion into the electric oil pump motor c onnector  area corrodes  the terminals.  
+CORRECTIVE ACTION  
+If the DTCs listed in SYMPTOM  are present, r eplace the rear differential pump motor and rear subframe  subharness . 
+  
+
+Page 2 of 6 
+ WARRANTY CLAIM INFORMATION  
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+2191 CN 2016 MDX : Replace 
+the rear differential 
+pump motor and 
+subharness (includes 
+Maintenance Minder 
+reset & DTC clear)  0.7 hr 06401  03217  B24022A  48900 -5M0-003 
+2191CN  2017–20 MDX : 
+Replace the rear 
+differential pump 
+motor and subharness 
+(includes Maintenance 
+Minder reset & DTC 
+clear)  0.7 hr  06401  03217  B24022B  48900 -5M0-003 
+2191CN  2015–17 TLX : 
+Replace the rear 
+differential pump 
+motor and subharness 
+(includes Maintenance 
+Minder reset & DTC 
+clear)  0.7 hr  06401  03217  B24022C  48900 -5M0-003 
+2191CN  2018–20 TLX : 
+Replace the rear 
+differential pump 
+motor and subharness 
+(includes Maintenance 
+Minder reset & DTC 
+clear)  0.7 hr  06401  03217  B24022D  48900 -5M0-003 
+2191CN  2019–20 MDX 
+Advance :  
+Replace the rear 
+differential pump 
+motor and subharness 
+(includes Maintenance 
+Minder reset & DTC 
+clear)  0.7 hr  06401  03217  B24022E  48900 -5M0-003 
+ 
+  
+Page 3 of 6 
+ PARTS INFORMATION  
+MDX  
+Part Name  Part Number  Quantity  
+2016 : Rear Subframe Subharness  32114 -TZ6-A01 1 
+2017 -20: Rear Subframe Subharness  32114 -TZ6-A02 1 
+2019 -20 Advance : Rear Subframe Harness  32114 -TYS-A10 1 
+TLX 
+Part Name  Part Number  Quantity  
+2015 -17 Rear Subframe Subharness  48320 -5M0-020 1 
+2018 -20: Rear Subframe Subharness  48320 -5M0-A00 1 
+All Models  
+Part Name  Part Number  Quantity  
+Rear Differential  Pump Motor  48900 -5M0-013 1 
+Drain Plug Washer (18 mm)  90471 -PX4-000 1 
+Drain Plug Washer ( 20 mm) 94109 -20000  1 
+ 
+REQUIRED MATERIALS  
+Part Name  Part Number  Quantity  
+Acura All -Wheel Drive Fluid (DPSF ) 08200 -9007A  2 US qt 
+ 
+  
+Page 4 of 6 
+ INSPECTION PROCEDURE  
+1. Put the vehicle on a lift and position the lift pads under the vehicle’s front support points and rear support points.  
+• 2015 –20 TLX - Lift and Support Points  
+• 2016 –20 MDX - Lift and Support Points  
+ 
+2. Inspect the connector s at C125  (Rear Subframe Harness to Rear Differential Pump Motor)  for signs of water intrusion 
+or corrosion.  
+ 
+Do either of the connectors  have any signs of water intrusion or corrosion?  
+YES - Go to the REPAIR PROCEDURE.  
+NO - This service bulletin does not apply. Continue with normal troubleshooting . 
+  
+
+Page 5 of 6 
+ REPAIR PROCEDURE  
+1. Drain the rear differential by removing the filler plug and sealing washer, the n remove the  drain plug and sealing 
+washer.  
+2. Disconnect the breather hose (rear differential pump motor side).  
+ 
+3. Remove the pump motor and the O -ring. 
+ 
+4. Remove the existing rear subframe subharness and install the new one . 
+5. Install the new oil pump motor assembly and rear subframe wire harness.  
+6. Install the drain plug with a new sealing washer.  
+7. Fill the rear differential fluid.  
+Fluid Capacity:  1.82L (1.92 US qt)  
+Recommended fluid: Acura All -Wheel Drive Fluid (DPSF)  
+  
+
+Page 6 of 6 
+ 8. Loosely install the filler plug with the used sealing washer.  
+9. Do the rear differential fluid air bleeding : 
+• Shift the transmission to PARK position/mode.  
+• Start the engine.  
+• Wait for 1 minute . 
+10. Turn the ignition OFF.  
+11. Remove the filler plug and the sealing washer.  
+ 
+12. Check and fill the rear differential with rear differential fluid to the proper level.  
+13. Install the filler plug with a new sealing washer.  
+14. Reset the Maintenance Minder sub -item number 6 (Replace Rear Differential Fluid). Re fer to the Maintenance Minder 
+General Information for the appropriate model fo r more information.  
+• 2015 –20 TLX – Maintenance Minder  General Information  
+• 2016 –20 MDX – Maintenance Minder  General Information  
+ 
+ 

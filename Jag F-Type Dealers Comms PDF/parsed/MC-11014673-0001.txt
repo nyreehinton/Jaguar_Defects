@@ -1,0 +1,124 @@
+SIB 23 01 21
+DIFFERENTIAL  COVER LEAK AT THE REVERSER SHAFT  SEAL2025-02-13
+This Service Information Bulletin replaces SI 23 01 21 dated March 1 1, 2021 .
+What is new:
+1. Differential covers are now more readily available. The procedure section has been re written to accommodate for this
+update. 
+ 
+MODEL
+Model Model Description
+K48/1 1 K 1600 GT
+K48/12 K 1600 GTL
+K61 K 1600 B and Grand America
+ 
+SITUA TION
+Sealing ring on the dif ferential cover of the reverser is leaking.
+ 
+Radial shaft seal faulty .
+ 
+ 
+PROCEDURE
+The dif ferential cover of the reverser cannot be serviced by just replacing the sealing ring alone. This is
+because a special device is required to properly assemble the eccentric shaft with the eccentric lever and
+bring the lever system into the correct position.
+The recommended repair solution is to replace the entire dif ferential cover of the reverser . 
+Replacement dif ferential covers are now more readily available.
+If a customer's bike has a leak on the sealing ring of the dif ferential cover , first check to see if replacement
+differential covers are available. If the dif ferential cover is not available, then the only solution is to replace
+Copyright ©2025 MOT ORRAD USA, a division of BMW of North America, LLC. All Rights Reserved
+2/14/25, 1:54 PM 23 01 21_DIFFERENTIAL COVER LEAK AT THE REVERSER SHAFT SEAL
+about:blank 1/3
+the complete transmission assembly .
+ 
+Claims of complete transmission assemblies from Feb 13 , 2025 and forward will require documentation via
+warranty IDS ticket, where the dif ferential cover was not available at the time of replacement.  
+ 
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in ETK which
+takes into account specific equipment and/or options.
+ 
+Additional parts like gaskets, hardware and chemicals may be required for the complete repair . 
+ 
+WARRANTY  INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Motorcycles, if applicable. 
+ 
+Submit an “Info Only” TSARA  case for documentation if being repaired under the New V ehicle Limited
+Warranty .
+ 
+Defect code
+2311014800 Gearbox Leaking
+ 
+For complete transmission replacement, see AIR for the applicable Labor Operations. 
+ 
+QUESTIONS REGARDING THIS BULLETIN
+Technical inquiries Contact the BMW Technical Support Group via TSARA
+Warranty inquiries Submit an IDS ticket to the W arranty Department
+Parts inquiries Submit an IDS ticket to the Motorrad Parts Department
+ 
+Supporting Materials
+insert_drive_file IMG_0454.jpg
+picture_as_pdf 23 01 21 Dif ferential cover leak.pdf
+picture_as_pdf 23 01 21 Dif ferential cover leak at the reverser shaft seal.pdf
+insert_drive_file IMG_0454.jpg
+Copyright ©2025 MOT ORRAD USA, a division of BMW of North America, LLC. All Rights Reservedth2/14/25, 1:54 PM 23 01 21_DIFFERENTIAL COVER LEAK AT THE REVERSER SHAFT SEAL
+about:blank 2/3
+Copyright ©2025 MOT ORRAD USA, a division of BMW of North America, LLC. All Rights Reserved2/14/25, 1:54 PM 23 01 21_DIFFERENTIAL COVER LEAK AT THE REVERSER SHAFT SEAL
+about:blank 3/3
+
+© 2021, BMW of North America, LLC. The contents of this docu ment are confidential and should  not be shared with third 
+parties for distribution. All pricing subject to change.  
+   Page | 1  Service Information Bulletin March 11, 2021 
+Manual Gearbox, Transmission  23 01 21 
+ 
+DIFFERENTIAL COVER LE AK AT THE REVERSER 
+SHAFT SEAL  
+ 
+This Service Information Bulletin replaces SI 23 01 21 dated March 2021 . 
+ 
+MODEL 
+ 
+Model Model Description 
+K48/11 K 1600 GT 
+K48/12 K 1600 GTL 
+K61 K 1600 B and Grand America 
+ 
+SITUATION 
+ 
+Sealing ring on the differential cover of the reverser is leaking. 
+ Radial shaft seal faulty. 
+ 
+ 
+ 
+PROCEDURE 
+ 
+It is not possible to change just the sealing ring in the differential cover of the reverser, as a special 
+device is needed to assemble the eccentric shaft with the eccentric lever in order to bring the lever 
+system into the correct position. The repair solution should be to replace the differential cover of the 
+reverser, but these are currently unavailable.  
+
+© 2021, BMW of North America, LLC. The contents of this docu ment are confidential and should  not be shared with third 
+parties for distribution. All pricing subject to change.  
+   Page | 2  If a customer bike has a leak on the reverser sealing ring of the differential cover, the current solution 
+is the replacement of the complete transmission assembly.  
+ 
+When the differential covers become available, this bulletin will be updated with a new repair procedure, as well as part and warranty information.   
+PARTS INFORMATION 
+ 
+Obtain and confirm the part numbers for your specific  vehicle by entering the chassis number in ETK 
+which takes into account specific equipment and/or options.  Additional parts like gaskets, hardware and chemicals may be required for the complete repair.   
+WARRANTY INFORMATION 
+ 
+Covered under the terms of the BMW New Vehicle Limited Warranty for Motorcycles, if applicable.  
+ 
+Submit an “Info Only” TSARA case for documentation if being repaired under the New Vehicle Limited 
+Warranty.  
+ Defect code 
+2311014800 Gearbox Leaking 
+ 
+For complete transmission replacement, see AIR for the applicable Labor Operations.   
+QUESTIONS REGARDING THIS BULLETIN 
+ 
+Technical inqui ries Contact the BMW Technical Support Group via TSARA 
+Warranty inqui ries Submit an IDS ticket to the Warranty Department 
+Parts inqui ries Submit an IDS ticket to the Motorrad Parts Department 
+ 

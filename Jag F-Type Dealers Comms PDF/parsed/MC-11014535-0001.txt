@@ -1,0 +1,31 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S25240000 02 
+ 
+Release Date:   Febru ary 2025 
+ 
+Symptom/Vehicle Issue : Customer Indicates A Whistle /Hiss Noise Can Be Heard 
+With The A /C Operating.  
+ 
+Complaint/T echnician Observation:  Further investigation has found that the noise 
+being heard is the tran sformation of the fre on changing form a liquid to a gas. When 
+the states change a pressure change  is created which c reates an internal noise inside 
+the A/C lines. This is a normal characteristic o f the A/C system functionality.  
+ 
+This noise can be increased  or heightened when any of the  A/C lines come in contact 
+with other components. Ensure that the A /C lines are routed correctly , have proper 
+insulation  in the place s it is required  and out of contact with any other components to 
+eliminate additional  resonating sound s. 
+ 
+Do not replace any parts for this concern.  

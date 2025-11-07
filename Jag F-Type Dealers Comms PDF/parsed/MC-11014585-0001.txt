@@ -1,0 +1,161 @@
+ 
+ Page 1 of 5 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4581 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+MAS 004581 DS 25-05 
+Diagnostic Sheet  
+FROM : Maserati TSO      
+TO: Maserati Network   
+ 
+ 
+ 
+DATE : FEBRUARY 20, 2025 
+ 
+ 
+This Diagnostic Sheet  serves as a guide and provides additional diagnostic info for possible  issues 
+related to the front door panel wiring  on Grecale ’s. 
+ 
+MODELS:  M182 Grecale  (All MY) . 
+ 
+TechDocs section :  
+Electric System → CABLE INDEX: CA0004 → Front door panel wiring, driver side , CA0005 - Front door panel wiring, 
+passenger side . Workshop Manual → 00.30 -1 → CABLES AND CONNECTORS REPAIR  00.30.005  80 
+ 
+Customer concern : Door opening malfunction s when using the switch, but no issue when using the latch.  
+ 
+Possible DTC  
+DTCs on devices connected to the door harness; below are some DTCs for purely illustrative purposes but   
+NOT exhaustive:  
+DTC Code  DTC naming  
+B250111  Door Internal Latch Release Switch -Circuit Short to Ground  
+B250113  Door Internal Latch Release Switch -Circuit Open  
+U12BD00  Lost Communication With Passenger Door Latch Module  
+ 
+ 
+Issue : The door panel wiring is pinched/damaged ( during factory assembly ) in the following areas:  
+• Left-hand side: between connectors D112 and wiring fork with connector D022  
+• Right -hand side: between connectors D113 and wiring fork with connector D026  
+ 
+Refer to the pictures below:  
+ 
+Grecale Front Door Panel Wiring  
+ 
+ Page 2 of 5 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4581 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Page 3 of 5 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4581 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+Repair procedure  
+ 
+1) Take a CLEAR  picture of the door panel wiring, as shown below:  
+ 
+ 
+ 
+2) Take a CLEAR  picture of the wiring label and a picture of the damaged wirings, as shown below:  
+ 
+ 
+ 
+3) Measure the  length of  wiring  in the following areas  (refer to the pictures below) :  
+• Left hand side: between connectors D112 and wiring fork with connector D022  
+• Right hand side: between connectors D113 and wiring fork with connector D026  
+
+ 
+ Page 4 of 5 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4581 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Page 5 of 5 
+  
+TECHNICAL SERVICE OPERATIONS  
+All rights reserved. Reproduction or translation in 
+whole or in part is not permitted without 
+authorization from the publisher. Printed in USA  MAS00 4581 © 202 5 Maserati North 
+America. Aftersales  
+www.maseratiusa.com   
+ 
+ 
+ 
+ 
+ 
+ 
+4) If possible, repair the pinched/damaged wiring following the procedure 00.30.005 80 - CABLES 
+AND CONNECTORS REPAIR.  
+5) Clea r ALL  DTCs and test the vehicle  to confirm that the anomaly and related DTCs are no longer  
+present.  
+6) If technical support is not needed, it is required to open a Blue  On Line as “Factory Information” 
+by providing:  
+• picture of the wiring layout  
+• picture of the label  
+• result of the measurement  
+• picture of the damaged wiring  
+as described in the step above.  
+Please do not hesitate to contact us with any questions you may have.  
+Kind regards,  
+ 
+ 
+TECHNICAL SERVICE OPERATIONS  
+ 

@@ -1,0 +1,295 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-148
+Service BulletinDate: January, 2025
+TECHNICAL
+Transmission Slip, Harsh 3-4 Shift or Harsh 5-6 Shift, Delayed Shifts, Delayed
+Shift into Reverse, Harsh Shift into Reverse, Slips in Reverse or No Reverse,
+Malfunction Indicator Lamp (MIL) Illuminated - DTC P2714 and/or P2732 Set
+This TSB only applies to the 10L1000 RPO (MKM) with the 6.6 (L8T) gas
+engine. This does not apply to 10L1000 (MGM) (MGU) with 6.6 (L5P) diesel
+engine.
+Brand: Model: Model Year: Build Date: Engine: Transmission:
+from to from to
+ChevroletSilverado 2500HD/
+3500HD
+2024 2024     L8T MKM
+GMCSierra 2500HD/
+3500HD
+ 
+Involved Region or Country North America
+Additional Options (RPOs)
+ConditionSome customers may comment on one or more of the following:
+• Transmission Slip
+• Harsh 3-4 Shift or Harsh 5-6 Shift
+• Delayed Shifts
+• Delayed Shift into Reverse
+• Harsh Shift into Reverse
+• Slipping in Reverse or No Reverse
+• MIL illuminated
+Note:  A condition of slipping in reverse or no reverse only, will not set a DTC
+Some technicians may find one or more of the following DTCs set in the Transmission
+Control Module (TCM):
+• P2714: Transmission Control Solenoid Valve 4 Stuck Off
+• P2732: Transmission Control Solenoid Valve 6 Stuck Off
+CauseThis condition may be caused by the 1-2-3-4-6-7-8-10-Reverse Clutch (C4) may have
+experienced premature degradation of the C4 Apply Piston Outer Seal (525) due to the
+seal contact area machine finish of the Triple Clutch Housing (518):Subject:
+Attention:
+Page 2 January, 2025 Bulletin No.: 24-NA-148
+6712757
+• A good seal will have an orange stripe.
+6712755
+• A degraded seal will be all black.
+Bulletin No.: 24-NA-148 January, 2025 Page 3
+6712761
+• The 4-5-6-7-8-9-10-Reverse Clutch (C6) may have experienced a de-bond (1) or tear
+(2) condition of the C6 Apply Piston (534).
+CorrectionNote: Inspection of the transmission oil pan in many cases, will show no or minimal
+clutch sediment present.Replacement of the valve body does not resolve the condition.
+Replace the Triple Clutch Housing (518), 1-2-3-4-6-7-8-10-Reverse Clutch (C4) Apply
+Piston (523), C4 Apply Piston Outer Seal (525) and the 4-5-6-7-8-9-10-Reverse Clutch
+(C6) Apply Piston (534).
+ 
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Service Procedure
+Refer to Triple Clutch Housing Disassemble in SI and Triple Clutch Housing Assemble in SI.
+ 
+Parts Information
+Note: Only select the parts that coincide with the repair performed. Replace the part with the P/N outlined in the
+Electronic Parts Catalog (EPC) in accordance with the vehicle VIN.
+Note: Follow the procedure in SI for additional parts that may be required for the repair.
+Causal
+PartDescription Part
+NumberQty
+XHOUSING ASM-
+TRIPLE CLU24048492 1
+N/ASEAL-EXH
+MANIF PIPE
+(Left)20987829 1
+N/ASEAL-EXH
+MANIF PIPE
+(Right)15077362 1
+Page 4 January, 2025 Bulletin No.: 24-NA-148
+Causal
+PartDescription Part
+NumberQty
+N/ABOLT/SCREW-
+FRT PROP SHF11548472 4
+N/ACLAMP-F/AXL
+PROP SHF SLIP
+YOKE BOOT84526283 2
+N/A1-2-3-4-6-7-8-10-
+Reverse Clutch
+Piston Dam Seal24278893 1
+N/A1-2-3-4-6-7-8-10-
+Reverse Clutch
+Piston Seal -
+Inner24277273 1
+N/APISTON-1-2-3-4-
+6-7-8-10-REV
+CLU 24284496 1
+N/A1-2-3-4-6-7-8-10-
+Reverse Clutch
+Piston Seal -
+Outer [2x]24284497 2
+N/APLATE-1-2-3-4-6-
+7-8-10-REV CLU24294733 5
+N/APLATE
+ASM-1-2-3-4-6-7-
+8-10-REV CLU24294734 5
+N/ARING-1-2-3-4-6-7
+-8-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(Silver 1.70 - 1.80
+MM)24284503 1
+N/ARING-1-2-3-4-6-7
+-8-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(Yellow 2.05 -
+2.15 MM)24284504 1
+N/ARING-1-2-3-4-6-7
+-8-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(Light Blue 2.05 -
+2.15 MM)24284505 1
+N/ARING-1-2-3-4-6-7
+-8-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(White 3.11 - 3.21
+MM) 24284507 1
+N/A2-3-4-5-7-9-10
+Clutch Piston
+Dam Seal24275991 1
+N/A2-3-4-5-7-9-10
+Clutch Piston
+Seal - Inner24275992 1
+N/A2-3-4-5-7-9-10
+Clutch Piston
+Seal - Outer [2x]24284493 2
+N/APLATE
+ASM-2-3-4-5-7-9-
+10 CLU24294732 4
+N/APLATE-2-3-4-5-7-
+9-10 CLU24294731 4
+N/A SEAL-TURB SHF 24291990 5
+Bulletin No.: 24-NA-148 January, 2025 Page 5
+Causal
+PartDescription Part
+NumberQty
+N/A SEAL-TURB SHF 24291989 5
+N/ARING-TURB SHF
+RET24278735 1
+N/A SEAL-TURB SHF 24277929 1
+N/A4-5-6-7-8-9-10-
+Reverse Clutch
+Piston (bonded)24284518 1
+N/A4-5-6-7-8-9-10-
+Reverse Clutch
+Piston Dam Seal
+- Inner24284521 1
+N/A4-5-6-7-8-9-10-
+Reverse Clutch
+Piston Dam Seal
+- Outer24284520 1
+N/ARING-4-5-6-7-8-9
+-10-REV CLU
+BKG PLT RET
+(SELECTIVE)24284510 1
+N/ARING-4-5-6-7-8-9
+-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(yellow)242845111
+(As
+Required)
+N/ARING-4-5-6-7-8-9
+-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(light blue)242845121
+(As
+Required)
+N/ARING-4-5-6-7-8-9
+-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(orange)242845131
+(As
+Required)
+N/ARING-4-5-6-7-8-9
+-10-REV CLU
+BKG PLT RET
+(SELECTIVE)
+(white)242845141
+(As
+Required)
+N/ARING-2-3-4-5-7-9
+-10 CLU BKG
+PLT RET
+(SELECTIVE)
+(Silver)242844861
+(As
+Required)
+N/ARING-2-3-4-5-7-9
+-10 CLU BKG
+PLT RET
+(SELECTIVE)
+(Yellow)242844871
+(As
+Required)
+N/ARING-2-3-4-5-7-9
+-10 CLU BKG
+PLT RET
+(SELECTIVE)
+(Light Blue) 242844881
+(As
+Required)
+N/ARING-2-3-4-5-7-9
+-10 CLU BKG
+PLT RET
+(SELECTIVE)
+(Orange)242844891
+(As
+Required)
+N/ARING-2-3-4-5-7-9
+-10 CLU BKG
+PLT RET
+(SELECTIVE)
+(white)242844901
+(As
+Required)
+Page 6 January, 2025 Bulletin No.: 24-NA-148
+Causal
+PartDescription Part
+NumberQty
+N/APLATE
+ASM-4-5-6-7-8-9-
+10-REV CLU24294736 4
+N/APLATE-4-5-6-7-8-
+9-10-REV CLU24294735 4
+N/A SEAL, T/C FLUID 24293986 1
+N/ASEAL AUTO
+TRANS FRT
+CASE COVER24277112 1
+N/ABolt, AUTO
+TRANS FRT
+CASE COVER11604747 15
+N/ASEAL, TRANS
+FLUID CLR PIPE85630659 1
+N/APLATE, CLU
+PRESS24052451 1
+N/ABOLT, TRNS
+MNT11548787 2
+N/A NUT, TRNS MNT 11548414 3
+N/ASEAL, OUTPUT
+SEAL SQUARE
+CUT24286193 1
+N/AFLUID, AUTO
+TRNS ULV19352619
+(U.S.)15
+N/AFLUID, AUTO
+TRNS ULV19352620
+(Canada)15
+N/ARETAINER-FRT
+PROP SHF
+(35mm Cup)23170499 2
+N/ARETAINER-FRT
+PROP SHF (30
+MM Cup)23107857 2
+N/ASEAL-DIR O/D
+SUN GR SHF24277313 4
+N/A SEAL-TURB SHF 24291988 1
+N/A MOUNT-TRANS 85573625 1
+N/A Bolt/Trans Mount 11548787 2
+ 
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+8486408*Triple Clutch Housing Replace and Overhaul
+(L8T) (MKM)10.3 hr
+AddTriple Clutch Housing Replace and Overhaul
+(L8T) (MKM) (F48)1.7 hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Bulletin No.: 24-NA-148 January, 2025 Page 7
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 2
+ModifiedReleased September 24, 2024
+Revised January 28, 2025 - Update Parts Information section.
+ 

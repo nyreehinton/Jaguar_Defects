@@ -1,0 +1,498 @@
+283 1/4 (23' 7-1/4" ) Front XM to Rear Of Frame101
+019' Awning
+133 1/4
+176 1/4230
+187 3/16
+262 13/16
+333 1/4 (27' 10-1/4") Pin to Ramp Door3
+48 Pin 214 1/4 33 1/475 5/8 373 1/4
+77 1/2
+36 3/8
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:Floor Plan
+Dimensioned
+Alta: 2400KTH01-00110
+01-00110 .07/30/22
+BCW
+1 3A Released For Production 07/30/22 --9 1/2
+97 3/4
+172 1/2143 1/414 9/16
+67 7/16
+65 3/4 29 1/4
+174 1/4
+207 5/8
+208 5/8
+225 5/8
+257 5/8
+259 3/824 1/221 1/4 26 1/4 24 5/872 1/8
+275
+B Revised, Cabinet Locations 09/06/22 --
+37 1/215 5/8
+C Revised, Window Size In Kitchen Area 09/08/22 --
+190 1/2
+D Revised, S/O Endwalls, Roof, Floor & Bed Base & Mech. 04/07/23 501-0016
+40W x 12H Picture
+13W x 22H
+Front Dresser: 15-00100
+Counter Top: 18-00100
+Overhead: 16-00100
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:Floor Plan
+Windows / Cabinets
+Alta: 2400KTH01-00110
+01-00110 .07/30/22
+BCW
+2 330 W x 22H Egress
+13W x 22H48 W x 22H Egress
+60W x 36H Egress 30 W x 22H 28W x 72H
+Entry Door
+Gen 1 Ramp Door KitRefer: 14-00103
+Base Kitchen: 15-00103
+Counter Top LH: 18-00102
+Counter Rop RH: 18-00103
+Overhead Kitchen: 16-00103
+Overhead, Ent. Center: 16-00104
+Overhead: 16-00105Counter Top: 18-00104Counter Top: 18-00105
+Base, Lav: 15-00102
+Counter Top: 18-00101
+Overhead, Lav: 16-00102Base, Bed: 15-00134
+Overhead, Bed: 16-00101
+Mattress: 21-00128
+Pantry: 14-00102
+Flr/Clg, Bathroom: 14-00100
+A Released For Production 07/30/22 --
+B Revised, Cabinet Locations 09/06/22 --
+C Revised, Window Size In Kitchen Area 09/08/22 --
+D Revised, S/O Endwalls, Roof, Floor & Bed Base & Mech. 04/07/23 501-0016
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:Floor Plan
+Additional Information
+Alta: 2400KTH01-00110
+01-00110 .07/30/22
+BCW
+3 377 1/2"13'-5 7/8" Garage Area
+36 3/8101
+19' Awning73 7/875 5/8
+172 1/2"
+A Released For Production 07/30/22 --
+B Revised, Cabinet Locations 09/06/22 --
+C Revised, Window Size In Kitchen Area 09/08/22 --
+D Revised, S/O Endwalls, Roof, Floor & Bed Base & Mech. 04/07/23 501-0016
+27 HoldTop Of I-Beam74 1/2101
+37 3/8Ø1 12 w/Plate
+102757
+36
+Angle 9 12 Down
+015 3/4
+6
+20 3/4
+4885 1/8 Wire XM115 5/8 Hat Channel131 1/4 Stamped XM
+125 1/4 Plate w/Angle167 3/4 Stamped XM206 3/4 Stamped XM
+202 7/16 Wire XM213 3/4 Fuel C-Channel235 1/2 Fuel C-Channel262 3/4 Plate270 1/4
+247 1/4 Break Point279 3/4283 1/4 Angle285 1/4
+228 7/8254 13/16
+015 3/442 3/458 1/885 1/8131 1/4166206 3/4245 3/4254 13/16279 3/4285 1/410 I-Beam
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:Frame, Assembly
+Lippert Frame 10" I-Beam
+Alta: 2400KTH02-00111
+02-00111 .10/05/22
+BCW
+1 46
+14 7/16Angle 5 12 DownStamped XMStamped XMAngle 5 12 Down / Wire XMStamped XM
+Angle 9 12 Down
+See Sheet 2 For Height Locations
+18 45 1/8
+170 3/429 1/2 29 1/2278 5/16
+243 1/41812 Ga. Angle, 1 1/2 x 1 1/2 x 283 D/S & ODS (See Detail Sht. 4)
+36
+247 1/42475 1/2 x 3 1/2 Hole w/Plate223 11/16
+6 1/2278 5/16Ø1 3/4 w/Plate18 45 1/8
+7 3/4
+Ø1 3/4
+4 1/42 1/4
+118 3/16Ø1 3/46 13/16
+48Top Of I-Beam
+10 I-Beam
+6Battery Tray
+LCI # 2021103016
+98 1/4 Tank Valve Bracket
+Mount Flush To Outside Of I-Beam
+2
+130
+Ø1130
+2 Ø1
+3 1/8
+2
+Ø12
+3 1/8Ø138 1/4 Plate & OR62 3/4 Plate & OR64 7/8
+1 3/4226 1/2
+Stamped XMAngle 5 12 Down / Wire XM166173 1/4 Z-XM
+111 1/4 Z-XM
+108 1/4 Angle
+73 1/4 Z-XM
+25 1/29 3/8Stamped XM
+233 13/16
+LCI Frame # 2022130483252 1/42 Ø1
+69 1/47
+71 5/8
+Ø15
+A Released For Production / Replaced 02-00110 10/05/22 501-0006
+B Revised, Added a Few Holes By Productions Request DS & ODS 11/09/22 501-0010
+C Revised, Moved Hole Locations For Fuel Pump & Fuel Fill 11/17/22 501-00105 1/2 x 3 1/2 Hole w/Plate
+D Revised, Moved Axles Back 4", Changed Hole For Fuel Pump D/S 01/31/23 --Ø1 1/2
+E Revised, Hole Loaction and Size On ODS Of I-Beam 03/27/23 --1075Ø1 1/2
+F Revised, Hole Loaction and Size On ODS Of I-Beam 05/01/23 --
+89 5/8 OR
+Removable A-Frame
+(4) 104399
+(4) 103471
+G Revised, OR Locations On ODS Around Generator / UDC Center 10/10/23 501-0021
+170 3/4 Axle Centerline
+0#
+#
+%
+%Top Angle Flush Top
+59 Dexter AxleElectric Jack Typ. (2)
+Note: "F" Bolt In Place
+7 Ga. 1" x 2" x 40" Steel Tube
+w/Plate 9 Ga. 18" x 6 3/4"
+29 1/2 29 1/29 3/4
+54 1/8 Electric
+Landing Gear11Ga. x 11
+2 x 8 (105134)
+Flange Support Typ. (3)Note: Use 4 3/4" Hanger (2) Centers
+Use 3 7/8" Hanger (4) Outers
+8436247 1/4254 3/4 Z-XM270 1/4 Z-XM283 1/4
+21 3/4
+231 7/8254 3/4237 1/2
+215 3/4
+237 1/2283 1/4
+215 3/4270 1/4
+202 7/16
+86 5/8
+0202 7/16 Wire XM
+86 5/8 Wire XM
+038 5/16
+9 1/25 1/2
+Section "C" - "C"
+Curb Side I-Beam Not Shown For ClaritySection "A" - "A"
+Curb Side I-Beam Not Shown For ClarityC-Channel  For Fuel Tank
+Typ. 2
+38 5/16111 1/4247 1/4
+52" Rear Electric
+Landing Gear
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:4 3/4 3 7/84022
+1 7/81 7/8
+73 1/4 Z-XM
+5 1/2
+9 1/2231 7/8 Z-XM
+Frame, Special Locations
+Lippert Frame 10" I-Beam
+Alta: 2400KTH02-00111
+02-00111 .10/05/22
+BCW
+2 4Electric Jack Typ. (2)
+Note: "F" Bolt In Place
+7 Ga. 1" x 2" x 18" Steel Tube
+w/Plate 9 Ga. 18" x 6 3/4"
+7/8
+118
+Jack Plate
+173 1/4
+125 1/4
+73 1/4117
+108 1/4212 3/4212 3/4 Angle
+173 1/4 Z-XM
+167 3/4 Stamped XM167 3/4Section "B" - "B"
+Curb Side I-Beam Not Shown For Clarity
+108 1/4 Angle111 1/4125 1/4 Angle
+117 Hat Channel
+25 1/2
+9 1/2$
+$
+LCI Frame # 2022130483
+A Released For Production / Replaced 02-00110 10/05/22 501-0006
+B Revised, Added a Few Holes By Productions Request DS & ODS 11/09/22 501-0010
+C Revised, Moved Hole Locations For Fuel Pump & Fuel Fill 11/17/22 501-0010
+D Revised, Moved Axles Back 4", Changed Hole For Fuel Pump D/S 01/31/23 --
+E Revised, Hole Loaction and Size On ODS Of I-Beam 03/27/23 --
+F Revised, Hole Loaction and Size On ODS Of I-Beam 05/01/23 --
+G Revised, OR Locations On ODS Around Generator / UDC Center 10/10/23 501-0021
+Wire Xmbr Typ. (2)
+Notes:
+      1. Ship (4) 74-1/4" Removable Tank Cross Members Loose
+      2. Ship (1) 64-3/4" Removable Tank Cross Members Loose8" Rear Bumper
+Horse Shoe Mount For Gen 1Spare Tire HangerFormed Xmbr
+Formed Xmbr (5)(1)13" LH Outrigger
+(8) 13 " RH Outrigger
+Formed Xmbr 168829 (6)
+Mount To Top
+See Sheet 4 For Angel Detail(1) 13" Step Outrigger LH
+(1) 13 " Step Outrigger RH
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:(1) 13" Step Outrigger LH
+(8) 13 " Step Outrigger RH
+(6)13" LH Outrigger
+(1) 13 " RH Outrigger14GA Steel Plate, 6 x 98 5/8 (3)12Ga. Angle 1 1/2 x 1 1/2
+Formed 1 1/2 x 1 1/2  Angle (2)
+Mount To Top
+Frame, Isometric
+Lippert Frame 10" I-Beam
+Alta: 2400KTH02-00111
+02-00111 .10/05/22
+BCW
+3 414GA Steel Plate, 6 x 11 5/8 (2)
+Formed C-Channel
+9 3/8 x 9 1/2 H
+Formed C-Channel
+25 1/2 x 9 1/2 H
+(1) 13" Step Outrigger LH
+(1) 13 " Step Outrigger RH14GA Steel Plate, 9 5/16 x 8 1/2
+LCI Frame # 2022130483
+A Released For Production / Replaced 02-00110 10/05/22 501-0006
+B Revised, Added a Few Holes By Productions Request DS & ODS 11/09/22 501-0010
+C Revised, Moved Hole Locations For Fuel Pump & Fuel Fill 11/17/22 501-0010
+D Revised, Moved Axles Back 4", Changed Hole For Fuel Pump D/S 01/31/23 --
+E Revised, Hole Loaction and Size On ODS Of I-Beam 03/27/23 --
+F Revised, Hole Loaction and Size On ODS Of I-Beam 05/01/23 --
+G Revised, OR Locations On ODS Around Generator / UDC Center 10/10/23 501-0021
+03-00105
+GREY10 1/816 5/86 1/8
+16 5/16283
+7 222 15/1624736 3/16
+Notch All 1 1/812Ga. Angle 1-1/2 x 1-1/2 x 283
+Relief Cut
+See Detail
+283
+161 7/836 3/16
+(1) 12Ga. Angle 1-1/2 x 1-1/2 x 28303-00111
+FRESH
+WATER16 11/16
+38 9/1686 3/4134 1/2179 5/16216 13/16
+Fuel CellDetail Pump BoxDetail ODS Angle
+Detail DS Garage AngleTank Locations0
+Relief Cut8
+101Set For Gen 1 Set For Gen 1
+Horse Shoe Mounting Brackets
+Set For Gen 1
+Set For Gen 1
+10
+6
+2Detail Rear Bumper
+27 1/2 57 5/8
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:03-00104
+BLACK03-00106
+GREY(1) 13" Step Outrigger LH
+(1) 13 " Step Outrigger RH
+03-00110
+FRESH
+WATER
+A Released For Production / Replaced 02-00110 10/05/22 501-0006 Tank Layout
+Lippert Frame 10" I-Beam
+Alta: 2400KTH02-00111
+02-00111 .10/05/22
+BCW
+4 420 1/4
+2471
+18
+17 3/4Notch 1 1/8
+227 3/4
+LCI Frame # 202213048397 HOLD 2 HOLD 2 HOLD
+B Revised, Added a Few Holes By Productions Request DS & ODS 11/09/22 501-001053 3/4
+CS                                                                              RSØ1/2
+C Revised, Moved Hole Locations For Fuel Pump & Fuel Fill 11/17/22 501-001023/4
+23/4 Ø3/8 Ø3/8
+D Revised, Moved Axles Back 4", Changed Hole For Fuel Pump D/S 01/31/23 --
+E Revised, Hole Loaction and Size On ODS Of I-Beam 03/27/23 --
+F Revised, Hole Loaction and Size On ODS Of I-Beam 05/01/23 --
+G Revised, OR Locations On ODS Around Generator / UDC Center 10/10/23 501-0021
+Notes:
+       1. View Is From The Top .
+         2. 3/4" Composite Floor / Vixen0
+0
+119
+210 1/201010
+258
+3136 1/48 143 1/4
+153 1/4
+195 1/2
+25875
+27 1/269 13/1636 Typ.10101
+3869 13/16
+1017 1/4
+14 1/4119
+6 3/1683 3/4
+47 5/836 Typ.
+124
+134
+162
+1721631 3/16
+10 21 5/8 10
+15 19839
+243
+245 1/4
+86 1/2
+Ø3 Tie Down
+Ø3 Tie Down
+Ø3 Tie DownØ3 Tie Down
+38
+27 1/224 1/4
+14 1/4Ø2 1/2 DrainØ2 1/2 Vent
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:
+A RELEASED FOR PRODUCTION 08/24/22 -- Floor, Main Unit
+Hole Locations
+Alta: 2400KTH09-00109
+09-00109 .08/24/22
+BCW
+1 1B Revised, Entire Floor - Length and Hole Locations 08/31/22 --Ø3 Tie DownØ2 1/2 Vent
+Ø4 Stool
+184 9/16
+208 15/16
+17 1/2 4
+24 3/8
+11 1/2 14 1/2
+2 1/4
+C Reised, Gen. Location After Pilot 10/03/22 501-000643 5/857 3/8
+50 1/2
+8
+26Ø3 Table
+Ø3 TableØ3 Table
+6 3/16Ø3 Tie Down
+11121 1/2
+Ø5 Wires
+132
+36Ø5 Wires
+D Revised, Hole Locations Per Productions Request 11/08/22 501-0010Ø5 Drain
+E Revised, Overall Length Was 258 1/4 05/26/23 --
+Notes:
+       1. View Is From The Top .
+         2. 3/4" Composite Floor / Vixen0
+0
+17 11/16 Typ.0
+36 5/16101
+50 1/2
+6 3/1694 13/16
+17 11/16 Typ.
+36 5/16
+Ø3 Tie Down
+ECN#
+Drawing No.Drawing No.
+Date:
+Drawn By:
+Sheet:
+File No.Date Description Rev
+ofTOLERANCES: UNLESS OTHERWISE STATED
+DIMS ARE IN INCHES
+.X = ± .1 FRACTIONS = ± 1/16
+.XX = ± .01 ANGLES = ± .1°East to West RV claims exclusive rights to the information
+documented herein. Manufacture of material shown in part or
+full is prohibited without the written consent from East to
+West RV.
+Model Usage:Title:
+A RELEASED FOR PRODUCTION 08/24/22 -- Floor, Beaver Tail
+Hole Locations
+Alta: 2400KTH, 2870KTH09-00110
+09-00110 .08/24/22
+BCW
+1 1Ø3 Tie DownØ3 Tie Down
+B Revised, Added 2870KTH To Usage 07/12/23 --

@@ -1,0 +1,251 @@
+SIB 1 1 11 24
+DELIVER Y STOP: OIL  PUMP  SCREW CONNECTION2025-02-12
+This Service Information Bulletin (Revision 1) replaces SI B1 1 11 24 dated December 2024.
+ 
+What’ s New :
+Affected V ehicles revised
+Situation revised
+Procedure added
+Parts Information added
+Claim Information added
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-Series Model Description Production Date 
+F91 M8 Convertible June 14, 2024 – November 7, 2024
+F92 M8 Coupe January 23, 2024 – November 7, 2024
+F93 M8 Gran Coupe January 23, 2024 – September 20, 2024
+ 
+AFFECTED VEHICLES
+Vehicles which require this campaign to be completed will show it as “Open” when checked either in AIR,
+AWP, Campaign Summary or W arranty V ehicle Inquiry .
+ 
+BMW AG has issued a Delivery Stop (effective December 13, 2024) on certain Model Year 2024 - 2025
+BMW vehicles that were produced between January 23, 2024, and November 7, 2024.  
+ 
+Do not deliver to a customer , a New , Certified Pre-Owned or Used vehicle subject to a Delivery Stop,
+until the vehicle is repaired.  Do not use or sell replacement equipment/parts subject to a Delivery
+Stop.   
+ 
+SITUA TION
+One of the six engine oil pump mounting screws may not have been tightened with the correct torque.
+ 
+PROCEDURE
+1. Remove the lower engine oil pan as per Repair Instruction 1 1 13 020 “Removing and
+installing lower oil pan section”.
+  
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 1/6
+ 2. Tighten the screw on oil pump to 8.4 Nm. For the
+circle in the photo, the oil pump pickup has been
+removed for clarity .
+If the screw is no longer present on the oil pump, it
+must be removed from the oil sump, and the threads
+on the screw and in the oil pump must be checked for
+damage.
+If the thread on the screw and of the oil pump is not
+damaged, clean the screw , reinstall it into the oil pump
+and tighten the screw to 8.4 Nm. 
+If the thread of the screw or of the oil pump is
+damaged, replace the oil pump and its damaged
+screw . Refer to repair instructions 1 1 41 000
+“Removing and installing/replacing the oil pump.”
+NOTE: It is not necessary to bleed the oil circuit
+after this repair . 
+ 
+  
+3. Reassemble the vehicle as per Repair Instruction 1 1 13 020 “Removing and installing
+lower oil pan section”.
+ 
+Engine oil Replacement after Performing the Repair that applies
+ 
+If the engine oil maintain service task does not  show “Recommended, Due” in the Service status field, or is
+not Bundling Eligible (BE):
+ 
+A. Drain and refill the engine oil (9.5 liters) without  replacing the engine oil filter and do not reset  the CBS data.
+ 
+If the engine oil maintain service task does  show “Recommended, Due” in the Service status field, or
+is Bundling Eligible (BE):
+ 
+B. Drain and refill the engine oil (10.0 liters) with replacing the engine oil filter and reset  the CBS data.
+ 
+Important Note: Please do not overfill the engine oil.
+ 
+Refer to the Claim Information section below .
+ 
+PARTS INFORMA TION
+Use and invoice the part numbers below that apply to the repair being performed.
+ 
+Part Number Description Quantity
+07 11 9 905 428 Plug screw 1
+07 11 9 963 300 Sealing ring 1
+07 12 9 904 839 ISA bolt (M6x100) Up to 1 (as needed)
+07 12 9 904 832 ISA bolt (M6x50) Up to 5 (as needed)
+07 12 9 909 551 ASA bolt 24
+31 10 6 870 648 Hex bolt with washer 16
+07 14 7 284 584 Combi hex bolt 4
+12 61 7 604 790 Gasket 1Copyright ©2025 BMW of North America, Inc.
+2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 2/6
+11 13 7 852 271 Oil pan 1
+11 13 7 852 272 Gasket oil pan 1
+11 13 8 746 460 Sealing ring 1
+11 41 7 852 262 Oil pump 1
+ 
+Sublet – Bulk Supply Materials
+ 
+Part Number Description Quantity
+83 19 0 404 517 Liquid sealant, Loctite 5970 (50 mL/1.69 FL  OZ)  As needed
+ 
+All without a Maintenance Program-Related Engine Oil Service T ask also being Performed.
+ 
+Part Number Description Quantity
+83 21 5 A42 D33 0W-30 LL01FE (Drum DN = one-tenth liter) A. 95/ B. 100
+Or:   
+83 21 5 A42 D39 0W-30 LL01FE  (Tanker DN = one-tenth liter) A. 95 / B. 100
+ 
+Additionally , other materials and small parts that are not specified above, such as fluids, lubricants, one-time
+use screws, nuts, and seals, which must be replaced or installed (according to the IST A repair
+instructions/ETK/AIR), are to be selected from the Electronic Parts Catalog, and/or other approved BMW
+Group’ s resources according to the respective vehicle type. Invoiced these items separately under the
+Repair Code listed in this bulletin.
+ 
+CLAIM INFORMA TION
+Reimbursement for this Action will be via normal claim entry utilizing the applicable work package
+information below , and the part numbers above that apply .
+Repair
+Code:0011880700 F9x S68T Rework oil pump threaded connection
+ 
+Below are the special flat rate labor operation code choices for this action.
+ 
+Completion before the first vehicle delivery to a customer (New in-stock/No in-service date), or the
+vehicle is already in the workshop for another reason and/or repair .
+ 
+Work PackageLabor
+OperationDescription (Plusposition) Labor Allowance
+# 1 00 77 957 Tighten oil pump screw26 FRU (F92/F93)
+27 FRU (F91)
+Or:    
+# 2 00 77 978Clean the screw and the thread in the oil pump.
+Reinstall screw and tighten it27 FRU (F92/F93)
+28 FRU (F91)
+Or:    
+# 3 00 77 979Renew oil pump and screws (screw or oil pump
+is damaged)32 FRU (F92/F93)
+33 FRU (F91)
+ 
+Or:
+ 
+The vehicle arrives at your center and this Action shows open (No other Main work will be performed
+or claimed during this workshop visit).
+ 
+Work PackageLabor
+OperationDescription (Main work) Labor Allowance
+# 4 00 77 329 Tighten oil pump screw28 FRU (F92/F93)
+29 FRU (F91)
+Or:    
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 3/6
+# 5 00 77 348Clean the screw and the thread in the oil pump.
+Reinstall screw and tighten it28 FRU (F92/F93)
+29 FRU (F91)
+Or:    
+# 6 00 77 349Renew oil pump and screws (screw or oil pump
+is damaged)33 FRU (F92/F93)
+34 FRU (F91)
+ 
+Only one of the flat rate labor operation codes listed above can be used for claim submission and reimbursement.   Also, only
+one Main work flat rate labor operation code can be claimed per workshop visit.
+ 
+Claim Repair Comments
+ 
+Only reference the SIB number and the work package (Pkg) number performed in the technician’ s RO notes and in the claim
+comments (For example: B1 1 11 24 WP  1), unless otherwise required by State law .
+ 
+Sublet – Bulk Supply Materials (RO and Claim Comments Required) 
+ 
+Sublet Code 4Reimbursement for the repair-related bulk supply materials
+(Do not use the BMW part numbers for claim submission)See the sublet
+reimbursement
+calculation below
+ 
+Sublet reimbursement calculation for claiming the applicable repair-related bulk supply materials (BMW part
+numbers) is at the dealer net (DN) price for the full and/or proportional quantities used plus your center ’s
+handling.
+ 
+Enter this material cost in sublet and itemize the amount on the repair order and in claim comment section. 
+ 
+BMW Maintenance Program
+ 
+If the vehicle has an active maintenance program and the Engine oil Service task shows Recommended,
+Due in the Service status field, or it is Bundling Eligible (BE), change the engine oil and filter after performing
+the repair that applies. 
+ 
+Claim and submit  for the applicable Pluspostion W ork Package below .
+ 
+Repair Code: 001 1880700 - W ork Package # 1, # 2, or # 3 as applicable
+ 
+Work PackageLabor
+OperationDescription (Plusposition) Labor Allowance
+# 1 00 77 957 Tighten oil pump screw26 FRU (F92/F93)
+27 FRU (F91)
+Or:    
+# 2 00 77 978Clean the screw and the thread in the oil pump.
+Reinstall screw and tighten it27 FRU (F92/F93)
+28 FRU (F91)
+Or:    
+# 3 00 77 979Renew oil pump and screws (screw or oil pump
+is damaged)32 FRU (F92/F93)
+33 FRU (F91)
+ 
+Then, as additional RO line items under the BMW Maintenance Program:
+ 
+Claim and submit for the Standard scope labor operation code 00 00 105 (Main work), and 
+Claim and submit for the reduced oil service task labor* amount, the engine oil (10 liters), and the
+oil filter part number under the BMW Maintenance Program Engine “oil service task” Repair Code
+that applies.
+ 
+Repair Code: 85990501MP  - BMW Maintenance Program Standard Operation
+ 
+Labor
+OperationDescription Labor Allowance
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 4/6
+00 00 105 Standard scope of service (Main work) 2 FRU
+ 
+Repair Code: Applicable BMW Maintenance Program Oil Service T ask
+ 
+Labor
+OperationDescription Labor Allowance
+00 00 610 Engine oil service (Associated work) 1 FRU*
+ 
+(*) Reduced to address the overlapping labor .
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Action’ s repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement, claim this item
+under the Repair Code noted above as follows: 
+ 
+Alternative Mobility Solution (AMS) for V ehicle Owners (RO and Claim Comments Required)
+ 
+This Recall / Service Action repair qualifies for Alternative Mobility Solution (AMS) expense reimbursement,
+claim this item under the Repair Code noted above as follows: 
+ 
+Sublet Code 2 - Itemize the AMS sublet amount on the repair order and in the claim comment section.
+ 
+Please refer to SI B01 29 16  for additional information.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 5/6
+Copyright ©2025 BMW of North America, Inc.2/14/25, 2:08 PM 11 11 24_DELIVERY STOP: OIL PUMP SCREW CONNECTION
+about:blank 6/6

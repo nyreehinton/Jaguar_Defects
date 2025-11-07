@@ -1,0 +1,35 @@
+Involved Region or
+CountryNorth America
+ConditionA customer ma y complain that the charge port door will
+not open at times.  
+Upon questioning the customer it will be found that this
+concern occurs when the temperatures are below
+freezing. 
+Cause The charge port door ma y be frozen shut.
+Version 1
+Modiﬁed 02/21/2025 - Created on.
+Bulletin No.: PIT6343
+Published date: 02/21/2025
+Preliminary Information
+PIT6343 Charge Port Door Will Not Open During Cold Temperatures
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+Correction: 
+Do not replace the charge port housing or door for this condition. 
+Advise the customer if this happens to tap around the perimeter of the door to break the ice
+buildup loose. 
+They may also use something like a credit card to slide around the gap of the door to break the
+ice loose. 
+Advise the customer to always remove snow and ice from inside the charge port door to help
+prevent future freezing. 
+Additional SI K eywords
+cold, char ge, door, fr ozen, ice, port, stuck
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

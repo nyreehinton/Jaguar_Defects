@@ -1,0 +1,80 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-032
+Service BulletinDate: February, 2025
+TECHNICAL
+Poor Fitting Charge Port Door and/or Charge Port Door Sticks Out at Bottom
+ 
+Brand: Model: Model Year: Vehicle Build Date: Engine: Transmission
+:from to from to
+Chevrolet Blazer EV 2024 2024 SOP April 9, 2024 All All
+ 
+Involved Region or Country North America
+Condition
+6550658
+Some customers may comment on the charge port door not closing all the way and/or the
+charge port door sticks out at the bottom.
+Cause The cause of the condition may be due to excessive material on the charge port door.
+CorrectionRefer to the procedure below to remove some of the material so that the door may close
+fully as intended.Subject:
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Page 2 February, 2025 Bulletin No.: 24-NA-032
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+If you encounter a vehicle with the above concern, complete the following:
+1. Turn the vehicles wheel to the full left position to make it easier to work around the vehicles charge port door.
+2. Position the charge port door to the fully open position.
+6550659
+3. Remove the Front Fender Ornamentation Vent (1).
+Bulletin No.: 24-NA-032 February, 2025 Page 3
+6412960
+4. Using a trim type tool, release the retainers on the charge port door (1) from the housing.
+6550660
+5. Once the charge door is removed, apply tape to the painted areas surrounding the location in which the fender
+ornament was removed, like pictured above.
+Page 4 February, 2025 Bulletin No.: 24-NA-032
+6550661
+6. Sand down all the protruding rectangle slots till they are flush with the surrounding areas like pictured above.
+Important: Be careful to not damage the painted areas surrounding the location the ornament is installed.
+7. Once the areas are sanded down, reinstall the ornament.
+6550663
+8. While the charge port door is open, use a suitable file, elongate the existing hole shown on the charge port
+housing. Elongate the hole to the red line.
+Bulletin No.: 24-NA-032 February, 2025 Page 5
+6553039
+The illustration above shows the amount of material needed to be removed. 1.6 mm on the side illustrated with
+the (A) , and 0.25 mm from the two sides (B). The final measurements should be 6.81 mm by 6.6 mm.
+Important: Be careful to not damage the painted areas.
+6550664
+9. Reinstall charge port door and verify that it closes as intended.
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Page 6 February, 2025 Bulletin No.: 24-NA-032
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+1486008* Remove Material from Back of Charge Port Door 0.4hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 3
+Modified Released February 15, 2024
+Revised September 26, 2024 – Added 2025 Model Year and Vehicle Build Date
+Breakpoint.
+Revised February 10, 2025 – Modified Breakpoint Year from 2025 to 2024.

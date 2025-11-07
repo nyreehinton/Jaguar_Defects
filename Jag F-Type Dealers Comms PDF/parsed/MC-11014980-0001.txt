@@ -1,0 +1,450 @@
+ 
+ 
+BULLETIN NOTES
+This Service Alert supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-077/24 10/23/24
+ 
+APPLICABLE MODEL(S)/VINS  
+2025 CX-50 HYBRID   
+ 
+DESCRIPTION
+The CX-50 Hybrid has new and revised features that are different from previous models, and may be difficult to 
+understand. This Service Alert provides valuable information to support potential dealer and customer concerns.  
+ 
+Index
+PDI Fuse•
+Hybrid System Outline•
+Shutdown of High Voltage•
+Inspection Mode•
+Fuel Tank Interference with Flat Lift•
+12V Lead-Acid Battery with Port Plug•
+Compressor Oil (POE) for Electric A/C Compressor•
+PCU (Power Control Unit) Assembly•
+New 2.5L Engine (CW) •
+Front Transaxle Assembly•
+Rear Transaxle Assembly•
+Closed Fuel Tank •
+Electronically Controlled Brake System •
+High Voltage Battery•
+lnner Service of High Voltage Battery •
+Coolant Drain and Replacement •
+Towing•
+Jump Start Function •
+Tire Changing Machine•
+Shift Mechanism •
+Maintenance Notification•
+  
+Page 1 of
+20
+02/19/2025 11:04 AM tlawrenc
+Item Service Information
+PDI Fuse  
+Fuse F34 (25A) is removed from the engine compartment fuse block and is stored on the 
+engine compartment fuse block lid. Insert the fuse during PDI.
+RELAY AND FUSE 
+BLOCK [00F-1]
+Hybrid System Outline  
+Hybrid vehicles use a combination of 2 kinds of power sources, such as an engine and 
+high voltage battery, to take advantage of the benefits provided by each power source 
+while compensating for each other's shortcomings. As a result, efficient operation is 
+achieved with higher gas mileage than a gas engine only.•
+Hybrid vehicles do not need their batteries to be charged by plugging in, unlike existing 
+electric-only vehicles. They are charged from regenerative braking and the gas engine.•
+Technical development of power sources (such as engines and fuel cells) is advancing 
+in various fields. The hybrid system is a flexible system that uses a high-efficiency 
+power unit and electric motors.•
+Hybrid vehicles have high-voltage electrical circuits and have been developed with 
+consideration given to the protection of drivers and technicians against electrocution.•
+This hybrid vehicle uses THS-II to drive the front wheels and adds the e-AWD system 
+to drive the rear wheels.•HYBRID SYSTEM 
+OUTLINE
+Page 2 of
+20
+02/19/2025 11:04 AM tlawrenc
+ 
+ 
+*1 Engine  
+*2 Hybrid transaxle  
+*3 Motor generator No.1 (MG1)  
+*4 Motor generator No.2 (MG2)  
+*5 Power split planetary gear unit (compound gear unit)  
+*6 Motor speed reduction gear unit (compound gear unit)  
+*7 Inverter with converter assembly  
+*8 High voltage battery  
+*9 Rear drive unit (rear traction motor with transaxle assembly)  
+*10 Rear motor (MGR)  
+Electrical power path (DC) 
+  
+Electrical power path (AC) 
+  
+Mechanical power path 
+  
+ 
+Shutdown of High Voltage before High Voltage Service                                                         
+                     
+Service Plug Removal  
+1. Verify that the READY indicator on the instrument cluster is not illuminated. If the READY 
+indicator is turned on, switch the main power OFF.  
+2. Disconnect the negative lead-acid battery terminal. Go to MGSS [ NEGATIVE BATTERY 
+TERMINAL DISCONNECTION/CONNECTION ]. 
+3. Remove the rear seat lower trim grille. Go to MGSS [ REAR SEAT LOWER TRIM GRILLE 
+REMOVAL/INSTALLATION ]. 
+4. Wear insulating gloves and remove the service plug using the following procedure.
+a. Remove the service plug shown in the figure.HIGH VOLTAGE 
+SERVICE CAUTIONS
+Page 3 of
+20
+02/19/2025 11:04 AM tlawrenc
+1) Pull out the lever in the downward direction.  
+2) Rotate the lever 90° in the direction of the arrow and press the lever until it 
+stops rotating.  
+3) Remove the service plug.
+b. Verify that the service plug is removed.  
+c. Verify that the main power is switched OFF.  
+d. Leave the vehicle for 10 minutes.
+NOTE:  When the power supply is cut off, the electrical charge remaining in the 
+condenser is automatically discharged.
+e. Remove the bracket (AWD).
+A: Bracket  
+B: Bolts  
+C: Nut
+f. Move the lock lever as shown in the image and disconnect the PCU connector.
+Page 4 of
+20
+02/19/2025 11:04 AM tlawrenc
+g. Remove the cover.
+h. Measure the voltage between terminals P and N using a high voltage tester.  
+Standard Voltage: 0 V
+NOTE : The tester display may not be 0 V depending on the measurement accuracy or 
+variations in the tester used.
+Page 5 of
+20
+02/19/2025 11:04 AM tlawrenc
+i Install the cover.
+1) Install bolt "A" (*a)
+Torque:  32-47 in·lbf (3.6-.4 N·m, 37-55 kgf·cm)  
+2) Install bolt "B" (*b)
+Torque: 57-84 in·lbf (6.4-9.6 N·m, 66-97 kgf·cm)
+  
+ 
+Service Plug Installation
+CAUTION:  Before connecting the service plug, check the tightness of the high voltage 
+terminals and the connection status of the connectors.
+1. Wear insulating gloves and install the service plug using the following procedure.  
+Page 6 of
+20
+02/19/2025 11:04 AM tlawrenc
+a. Install the service plug straight into the socket with the lever in the upright position.  
+b. Rotate the lever 90° in the direction of the arrow and press the lever until it stops 
+rotating.  
+c. Press the lever in the direction of the arrow until it locks.
+2. Install rear seat lower trim grille. Go to MGSS [ REAR SEAT LOWER TRIM GRILLE 
+REMOVAL/INSTALLATION ].  
+3. Connect the negative lead-acid battery terminal. Go to MGSS  NEGATIVE BATTERY 
+TERMINAL DISCONNECTION/CONNECTION
+Inspection Mode  
+When engine running/idling is required for diagnosis – switch to Inspection Mode.
+AWD MAINTENANCE MODE (4WD for measuring Exhaust Gas)•
+AWD CERTIFICATION MODE (4WD for cutting TR(A)C)•MAINTENANCE MODE 
+[CW]
+Fuel Tank Interference with Flat Lift  
+Ni-Hydride Battery (Ni-MH Battery Pack (A): 245 volts, named High Voltage Battery) is laid 
+out under the rear seat, and then the fuel tank (B) is laid out under the Battery.  
+When trying to use a flat lift, there is a concern for deformation or breakage at the fuel tank 
+due to interference with the plate of the lift. Make sure to use an attachment of 120 mm 
+height such as Round Rubber Adapter for 3-stage arm lifts (39-FJ6202) (C) when using the 
+lift. Refer to the Workshop Manual on MGSS for detailed procedures.  ---
+Page 7 of
+20
+02/19/2025 11:04 AM tlawrenc
+ 
+12V Lead-Acid Battery with Port Plug  
+The 12V lead-acid battery (A) is located in the trunk room as shown in the image and has a 
+port plug (Ventilation Type Calcium Battery).  
+ 
+(View from Center to Right side of Cargo Room.)  
+The required specifications are EN (European Norm) LN2(STD) with Port Plug 12v-55Ah/
+20HR, CCA 345A or more.---
+Compressor Oil (POE) for Electric A/C Compressor  
+This hybrid model has an electric A/C compressor that requires Polyolester ND-11 (POE) Oil 
+due to the electrical insulation performance. Polyalkyleneglycol (PAG) Oil (such as E 1 Y0-
+61-K39) cannot be used in this electric A/C compressor.  
+Use only Mazda Genuine POE Oil (B4YL-61-K39 : DENSO ND-OIL 11) for the electric A/
+C compressor.  
+CAUTION:  Using any POE Oil other than the Mazda Genuine POE Oil may cause electric 
+leakage, deteriorated A/C performance, or damages on A/C components. KRYP-61-K39 of 
+RBl00EV-01 ENEOS (JXTG) for CX-90 and CX-70 PHEV model cannot be used in this 
+hybrid model.  
+NOTE : A properly adjusted amount of fluorescent agents is used during vehicle production. 
+Never add fluorescent agent into the refrigerant system, otherwise the insulation performance 
+may deteriorate. Never use A/C refrigerant gas containing A/C compressor oil and 
+fluorescent agent, or A/C compressor oil with fluorescent agent.  
+Refer to the Workshop Manual on MGSS for the detailed procedure.  
+NOTE : Removing the A/C compressor requires shutdown of the High Voltage as shown in 
+Shutdown of High Voltage before High Voltage Service . A/C COMPRESSOR 
+REMOVAL/
+INSTALLATION  
+PCU (Power Control Unit) Assembly  
+The PCU consists of the Motor Generator ECU (Electric Control Unit), Booster Converter, 
+Inverter, DC-DC Converter, which needs to be replaced by an assembly (PCU Assembly: 30-PCU (POWER 
+CONTROL UNIT) 
+REMOVAL/
+Page 8 of
+20
+02/19/2025 11:04 AM tlawrenc
+310) 
+A: Coolant IN  
+B: Coolant OUT  
+*1: Boost Converter / Inverter  
+*2 DC-DC Converter / Reactor
+The PCU Assembly is cooled by coolant (FL22) in the Low Temperature (LT) line separately 
+from the High Temperature (HT) line which is cooling the engine (CW) also by coolant 
+(FL22).  
+Implement the initialization for the resolver (rotation angle sensor to control the motor) when 
+replacing the PCU using M-MDS. Refer to the Workshop Manual on MGSS for more details. INSTALLATION
+New 2.5L Engine (CW)  
+ 
+1) Use Mazda Genuine Engine Oil 0W-16 (ILSAC GF-6B) for the hybrid system available at 
+Mazda Authorized Dealers due to the certification.  
+NOTE: 0W-16, GF-6B is usable as alternative in addition to the above setting of Genuine Oil 
+at Dealers.  
+2) The following Tools and Equipment are required: Engine Hanger and Engine Lift Table 
+with attachments such as PLA-15 to avoid damaging the engine oil pan.  
+3) Use Mazda Genuine Spark Plugs (CWA 1-18-110 equals FC16HR-Q8/DENSO).MECHANICAL
+Page 9 of
+20
+02/19/2025 11:04 AM tlawrenc
+New Front Transaxle Assembly (TPVA-E)  
+A newly developed Front Transaxle Assembly unit (A) is installed in this model, which 
+includes two Motor Generators (MG1 for charging Ni-MH Battery and supplying electrical 
+power to drive the front wheels and MG2 to assist engine output), and an ATF oil cooler 
+cooled by water (Low Temperature (LT) line).  
+ 
+Use only genuine ATF WS JWS3324 Automatic Transaxle Fluid (full level is approximately 
+4.1 quarts (3.9L) as shown).  
+B: Filler Plug  
+D: 0 - 0.4 in (10mm)
+B: Filler Plug  
+C: Drain Plug
+This new Front Transaxle Assembly unit needs to be replaced as a complete unit (19-090).  
+Implement the initialization for the resolver (rotation angle sensor to control the motor) using 
+M-MDS when replacing the Front Transaxle Assembly.  COMPOUND GEAR 
+UNIT [TPVA-E]
+Page 10 of
+20
+02/19/2025 11:04 AM tlawrenc
+Refer to the Workshop Manual on MGSS or this SA for Tire, Oil, Battery and Lubricant 
+Information.
+New Rear Transaxle Assembly  
+A newly developed Rear Transaxle Assembly (A) unit is installed in this model, which 
+includes a MGR (Motor Generator Rear) to drive the rear wheels and is cooled by air.  
+ 
+Use only genuine ATF WS JWS3324 Automatic Transaxle Fluid, which is same as the Front 
+Transaxle Fluid (full level is approximately 1.8 quarts (1.7L) as shown.  
+B: Filler Plug  
+D: 0 - 0.2 in (5mm)  
+E: Injection Nozzle
+B: Filler Plug  REAR DRIVE UNIT
+Page 11 of
+20
+02/19/2025 11:04 AM tlawrenc
+C: Drain Plug
+This new Rear Transaxle Assy (A) unit needs to be replaced as a complete unit (27-100).  
+Implement the initialization for the resolver (rotation angle sensor to control the motor) using 
+M-MDS when replacing the Rear Transaxle Assembly.  
+CAUTION: DO NOT use a hydraulic jack on this unit - use a jack at the side sills instead.  
+This new Front Transaxle Assembly unit needs to be replaced as a complete unit (19-090).  
+Refer to the Workshop Manual on MGSS or this SA for Tire, Oil, Battery and Lubricant 
+Information.
+Closed Fuel Tank  
+Lower the pressure in the closed fuel tank using the fuel lid opener switch. The lid can be 
+opened after lowering the pressure (about 10 seconds) before service.  
+Refer to the Workshop Manual on MGSS for further details. FUEL-FILLER LID LOCK 
+ACTUATOR
+Electronically Controlled Brake System  
+The Brake system is an Accumulator-Based Electronically Controlled Brake System (Brake 
+by Wire) which has complex hydraulic circuit. Because of this complexity, there is potential 
+the system cannot be emptying air from the hydraulic circuit by pedal-pumping and valve 
+activation, and a special repair method is required. Refer to the instructions on MGSS when 
+servicing brake component parts.  
+CAUTION:  Only use the Brake Fluids listed below for Electronically controlled brake unit (A) 
+equipped on this hybrid model. This is to prevent damage to rubber parts.  
+B060 DOT3 (CCI): equal to Mazda Genuine Brake Fluid B7  
+Equivalent Brake Fluids:
+GC325M/GC325 DOT3 (CCI)•
+SH-H DOT3 (Fuji Kako)  •
+NOTE : Safe Brake 16M/9M DOT4 (Clariant) cannot be used.  
+Applying general standards such as FMVSS, DOT3/DOT4 is NOT sufficient to use.   
+Always make sure to depressurize the brake system (the red pipe (B) has high pressure of 
+approx.10 Mpa even at IG OFF as shown in the figure) before inspection, service, 
+or replacement for safety.  
+A: Booster Pump Assembly  
+B: High Pressure Pipe Line  
+C: Electronically Controlled Brake UnitBRAKE SYSTEM
+Page 12 of
+20
+02/19/2025 11:04 AM tlawrenc
+Refer to the Workshop Manual on MGSS for detailed procedures. 
+High Voltage Battery  
+A Ni-Hydride Battery (A) (Ni-MH Battery Pack: 245 volts, named High Voltage Battery) is 
+used on this hybrid model and is cooled by air.  
+ 
+*1 Battery Cooling Blower Assembly  
+*2 HV Battery Thermistor  
+*3 Hybrid Battery Junction Block Assembly  
+*4 Service Plug Grip  
+*5 HV Battery Modules  
+*6 Battery Smart Unit (Battery Voltage Sensor)  
+ 
+Storage of new High Voltage Battery (Ni-MH)  
+In addition to the following, verify the laws and ordinances of each country.  
+Avoid direct sunlight and store High Voltage Battery (Ni-MH) in a dark and dry place at 23 to 
+86 degrees F (-5 to 30 degrees C).  
+Air Filter User Maintenance for New Ni-MH Battery  
+Perform cleaning immediately with a soft brush on a vacuum hose (or tapping on the ground 
+if vacuum cleaner is not available) when a message is displayed on the multi-information 
+display. If filter is excessively dirty, replace the filter.  
+WARNING: DO NOT clean with water or liquids. If the high voltage battery gets wet, it may 
+cause a malfunction or vehicle fire.  
+CAUTION:
+If you continue driving while the message is displayed, the high voltage battery may be 
+damaged.•
+DO NOT use an air blower for cleaning. Otherwise, dust could be forced in which 
+could decrease the high voltage battery output or damage it.•HV BATTERY  
+ 
+ 
+HV BATTERY COOLING 
+SYSTEM  
+ 
+Page 13 of
+20
+02/19/2025 11:04 AM tlawrenc
+Rear Seat
+B: Air Inlet  
+C: Air Outlet  
+*1: Battery Cooling Blower Assembly  
+*2: Hybrid Battery Module
+NOTE:  After cleaning, the vehicle may need to be driven for about 20 minutes for the 
+message displayed on the multi-information display to go away. Refer to the Owner's Manual 
+and the Workshop Manual on MGSS for more details.
+lnner Service of High Voltage Battery (Ni-MH Battery Pack: 245 volts)  
+NO Modules can be replaced for the Ni-MH Battery Pack. Only some sensors and relays 
+inside of the Ni-MH Battery Pack can be replaced as shown  ---
+Page 14 of
+20
+02/19/2025 11:04 AM tlawrenc
+ 
+*1 Hybrid Battery Junction Block  
+*2 SMRB  
+*3 SMRP  
+*4 SMRG  
+*5 Battery Current Sensor  
+*6 Precharge Resistor
+Coolant Drain and Replacement  
+The PCU (Power Control Unit) and oil (ATF) cooler uses the cooling system (Low 
+Temperature (LT) line) with an electric water pump. The High Temperature (HT) line is for 
+cooling the Engine, and uses another electric water pump. Each line has a scheduled 
+maintenance interval.  
+NOTE: LT line does not have a drain plug, therefore, always make sure to remove a joint in 
+the middle of hose to drain the coolant as shown in the figure below. The HT line has a drain 
+plug at the radiator.  
+A: Joint Low Temperature (LT)  
+B: Drain Plug High Temperature (HT)COOLING SYSTEM  
+ 
+ 
+Page 15 of
+20
+02/19/2025 11:04 AM tlawrenc
+C: Joint Low Temperature (LT)
+D: Water Sensor High Temperature (HT)  
+E: Power Control Unit (PCU)
+Perform the air drainage process according to the Workshop Manual on MGSS after the 
+coolant (FL22 type) is drained and replaced.  
+NOTE : There are both methods to operate the electric water pump (with and without Mazda 
+Modular Diagnostic System (M-MDS)). Refer to the Workshop Manual on MGSS for more 
+details. 
+Towing  
+CAUTION:  When towed, all 4 wheels must be off the ground as shown in the figures, 
+otherwise the MOTOR will generate electricity and may cause system damage.  
+ 
+or 
+ 
+Refer to the Owner's Manual and Rescue Manual on MGSS for more details. TOWING
+No Jump Start Function  
+CAUTION: DO NOT Jump Start other vehicles with a dead battery because the PCU of this SERVICE CAUTIONS 
+WHEN LEAD-ACID 
+Page 16 of
+20
+02/19/2025 11:04 AM tlawrenc
+hybrid model does not have the sufficient specification for it, and may cause a dead 12 volts 
+lead-acid battery. This hybrid model can be jump started from other vehicles. In this case, the 
+plus clip needs to be installed at the terminal in the main fuse box (engine room) as shown in 
+the figure because the 12 volts lead-acid battery is located in the trunk.  
+ 
+*a - Booster Terminal  
+*b - Auxiliary battery of rescue vehicle  
+1 - Booster terminal of stalled vehicle  
+2 - Positive (+) auxiliary battery terminal of rescue vehicle  
+3 - Negative (-) auxiliary battery terminal of rescue vehicle  
+4 - Position shown in the illustration on stalled vehicle
+ 
+Main fuse box (engine room)  BATTERY IS 
+DISCHARGED
+Page 17 of
+20
+02/19/2025 11:04 AM tlawrenc
+ 
+12V battery located in the trunk.  
+Refer to the Owner's Manual for more details. 
+Tire Changing of Mazda Genuine Aluminum Wheel (with rim steps approx. 2mm)  
+CAUTION: Always make sure to place the Mount Head (A) of the tire changer at the 
+higher (convex) (B) rim area as shown in the figure, otherwise the wheel might be damaged 
+when removing the tire.  
+DO NOT place the Mount Head at lower (concave) (C) rim area, in which you can easily 
+place the Mount Head (A).  
+A: Mount Head  
+B: Convex  
+C: Concave
+Refer to the Workshop Manual on MGSS for further detailed procedures. STEPPED RIM 
+VERIFICATION AND 
+CAUTIONARY NOTES
+Shift Mechanism  
+Only adjust the shift cable at the Neutral position on this hybrid model, and not at the Park 
+position like on the non-hybrid CX-50. Insert the cable from the engine room on the hybrid 
+model, not from the cabin as like on the non-hybrid CX-50.  
+To unlock the Parking lock, always make sure to open the console and operate the unlock 
+lever as shown in the figure below for thius hybrid model (dealer service), not by unlock 
+bottom at the console like the non-hybrid CX-50 (user service).  SELECTOR CABLE 
+ADJUSTMENT
+Page 18 of
+20
+02/19/2025 11:04 AM tlawrenc
+Maintenance Notification  
+The maintenance notification function alerts drivers of maintenance needs by turning on the 
+wrench indicator light  
+ 
+and displaying a message in the instrument panel. The followings are the normal operation of 
+notification:
+(a) : When the unit of distance setting is selected “mile”  
+Although a push notification on MyMazda App at 600 miles of remaining distance until 
+oil change, no message is displayed in the instrument panel due to ECM specification 
+(THS-II hybrid system). Displaying a message in the instrument panel will be at 500 
+miles of remaining distance until oil change.  
+NOTE: When the unit of distance setting is selected “km”, a push notification 
+(MyMazda App) and message (instrument panel) appear at 1,000km of remaining 
+distance until oil change.  
+(b) : The remaining distance until oil change may display “---- mile or km” in the Mazda 
+Connect (vehicle status monitor screen) and MyMazda App/MCVV if the ECM (THS-II 
+hybrid system) has not completed the calculation of engine oil deterioration.
+(c) : The maximum interval of remaining distance until oil change may display “16,090 
+km” or “9,999 mi” in the center display after performing engine oil data reset due to 
+ECM specification (THS-II hybrid system).INSTRUMENT 
+CLUSTER
+Page 19 of
+20
+02/19/2025 11:04 AM tlawrenc
+ 
+Page 20 of
+20
+02/19/2025 11:04 AM tlawrenc

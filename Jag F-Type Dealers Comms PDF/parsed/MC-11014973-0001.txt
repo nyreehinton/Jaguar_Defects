@@ -1,0 +1,34 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+Case Number:   S25050000 01 
+ 
+Release Date:   Febru ary 2025 
+ 
+Symptom/Vehicle Issue : CEL (Check Engine Lamp)  C006A -49 Multi -Axis 
+Acceleration Sensor  Internal Electronic Failure And C10CC -00 ESC Sensors.  
+ 
+Discussion : Customer indicates CEL C006A -49 Brake lamp/ ABS lamp Illuminated, or 
+service brake message comes on dash . 
+ 
+Diagnostic Trouble Code (DTC) C006A -49: Multi -axis acceleration sensor -internal 
+electronic failure (ABS) & C10CC -00-ESC SENSORS (ORC)  are present.  
+ 
+NOTE: THE MULTI -AXIS/ DYNAMICS SENSOR IS INTERNAL TO THE ORC.  
+ 
+**The sensor’s output is sent to the Antilock Brake System (ABS) in a CAN C Bus 
+message.**  
+ 
+If C006A -49 is set please follow the diagnostic procedure listed in the MY22 service 
+library and/or follow the diagnostic procedure for C10CC -00 -ESC SENSORS in the 
+current service library.  

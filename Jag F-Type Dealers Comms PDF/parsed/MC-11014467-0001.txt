@@ -1,0 +1,52 @@
+Involved Region or
+CountryNorth America
+Condition Part number , 19435910 has been placed on restriction through PQC. 
+Cause Due to supplier issues 19435910 is available on limited supply and returned parts are often found
+with no trouble found. 
+Description Part Number Quantity
+Rear Diﬀerential Clutch Control Module 19435910 1
+Version 1
+Modiﬁed 01/10/2025 - Created.
+Bulletin No.: PIP6027
+Published date: 02/21/2025
+Preliminary Information
+PIP6027 Rear Diﬀerential Clutch Module Restriction
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Lacrosse 2010 - 2017 All AllAll All
+Buick Regal 2013 - 2019 All AllAll All
+Cadillac SRX 2010 - 2016 All AllAll All
+Cadillac XTS 2013 - 2019 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:
+If a Module, rear diﬀ clutch control 19435910  is needed to repair the vehicle please see TSB 23-NA-162 before starting a
+PQC case. 
+ 
+Please note that most modules returned are no trouble found when tested here.  
+U.S. Dealers:
+Please contact the Product Quality Center (PQC) by opening a new case via Dealer Case Management (DCM) F rom the DCM
+home page, click on “New PQC Case” found on the T echnical Assistance tab.
+Then contact the PQC by email at PQC@gm.com or by calling 1-866-654-7654
+ 
+Canadian Dealers:
+f your diagnosis leads to a possible part replacement, please contact the PQC by email at PQC@gm.com or by calling 1-866-
+654-7654
+Note: (Do Not clear any DTCs prior to contacting the PQC).
+Q1.   Is this Customer pa y?
+Q2. Has you reviewed TSB 23-NA-162? 
+ 
+ 
+ 
+          
+ 
+Parts Information
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

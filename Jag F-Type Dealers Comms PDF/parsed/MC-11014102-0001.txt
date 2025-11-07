@@ -1,0 +1,65 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Long Range PHEV ERAD Sound InformationRef. No.
+TJ 36166.3.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+3/21/24Status Date
+4/16/24
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4632
+Function Description
+Electrical rear axis drivePage
+Page 1 of 2Attachment
+File Name File Size
+ERAD 1 TJ 36166.wav 2.9993 MB
+ERAD 2 TJ 36166.wav 6.9368 MB
+ERAD 3 TJ 36166.wav 2.3109 MB
+Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+* Adding vehicle types.
+If a customer is concerned with noise from the ERAD, please follow the instructions under “Service” .
+PHEV = Plug-In Hybrid Electric VehicleERAD = Electric Rear Axle Drive
+CSC   Customer Symptom Codes
+Code Description
+8N Driving/Unusual noise/Unsure when/at all times
+F2 Driving/Unusual noise/During acceleration
+ZE Idling/Unusual noise
+D2 Front/rear axle/Unusual noise
+DTC   Diagnostic Trouble Codes
+Page 2 of 2 2024-04-16
+Technical Journal 36166.3.0Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 H6 BH6PHEV 2022-9999 - 202147-999952
+225 H6 BH6PHEV 2022-9999 - 202147-999952
+238 H6 BH6PHEV 2022-9999 - 202147-999952
+246 H6 BH6PHEV 2022-9999 - 202147-999952
+256 H6 BH6PHEV 2022-9999 - 202147-999952
+SERVICE:
+A slight whining sound noticed during electric drive is to be considered normal.
+Listen to the attached sound files as a reference. (ERAD 1,2 and 3)  These are considered to be a 
+normal electrical motor sound.
+(Use of a headset or earphones is recommended. The sound files are recorded from the front seat at 
+the head position.)
+ 
+*In cases where the sound level is borderline to the attached files start by following TJ 
+36841.
+If you are unsure the noise is normal, please submit a TIE Support-Needed vehicle report and 
+include a recording of the noise.
+(Record the sound from the front seat at the head position with a mobile device also showing the 
+dashboard in which speed and drive mode you are driving.)
+  
+Warranty claim info:
+No warranty claim is accepted for a job described in this Technical Journal since it is to be used as a 
+guidance.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub-concern area “Support Needed” , use function group 4632.
+ 
+This TJ includes three audio files.

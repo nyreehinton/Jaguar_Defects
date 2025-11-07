@@ -1,0 +1,140 @@
+ 
+ 
+ 
+Classification: Reference: Date: 
+BT25-002 NTB25-011 Februar y 18, 2025 
+ 
+Bulletins are intended for use by qualified technicians, not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tool s, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/5 
+ 
+LICENSE PLATE FRAME INTERFERENCE 
+ TO REAR BUMPER  
+ 
+APPLIED VEHICLES: 2025 Murano (Z53) 
+APPLIED DATES: Built on or before Januar y 13, 2025 
+  
+IF YOU CONFIRM  A license plate frame does not sit flush and is making contact at bottom edge when 
+installed to the Rear Bumper, as  shown in Figure 1 and Figure 2. 
+ 
+  
+Figure 1                                                               Figure 2
+ 
+ 
+ 
+ACTION 
+ Refer to the SERVICE PROCEDURE  in this bulletin to relocate the license plate mounting 
+holes in the Rear Bumper.    
+ 
+IMPORTANT:  The purpose of ACTION (above) is to give you a quick idea of the work you 
+will be performing. You MUST closely follow the entire SERVICE PROCEDURE  as it 
+contains information that is essential to successfully completing this repair.  
+
+2/5 NTB25-011  
+SERVICE PROCEDURE   
+ 
+Figure 3
+ 
+  The following steps and figures show the passenger (RH) side of the license plate mounting points, the driver (LH) side is simila r. Perform the followi ng steps on both the LH 
+and RH side license plate mounti ng points on the Rear Bumper. 
+  2. Measure 12 mm from t he outboard edge of the square cut-out, and then make a 
+vertical scribe mark above the existing hole, as shown in Figure 4 and Figure 5. 
+ 
+  
+  
+  
+1. Remove the two (2) J-clips, as shown 
+in Figure 3. 
+ IMPORTANT
+: Both J-clips will be 
+reused so do not discard. 
+ 
+Figure 4 Figure 5 J-clips 
+Scribe 
+mark 12 mm 
+Scribe 
+mark 
+3/5 NTB25-011  
+3. Measure 41 mm down from the top edge of  Rear Bumper character line, and then 
+make a horizontal scribe mark above the existing hole, as shown in Figure 6 and 
+Figure 7. 
+ 
+  
+   
+ 
+Figure 8
+ 
+  
+ 
+Figure 9
+ 
+Figure 6 Figure 7 
+4. Using a tool with a sharp point, mark 
+the center of the new hole to be drilled, as shown in Figure 8. 
+ 
+5. 
+Using 5/16” drill bit, drill the new 
+mounting hole, as shown in Figure 9. 
+ 
+ 
+ 
+ 
+Drill just enough to penetrate the 
+material without causing damage to hidden harness. 
+ 
+  
+Scribe 
+mark 41 mm 
+Center mark Scribe 
+mark Character line 
+4/5 NTB25-011  
+6. Measure 5 mm up from the top outboard corner of the square cut-out and then make 
+a horizontal scribe mark, as shown in Figure 10 and Figure 11. 
+ 
+  
+   
+ 
+Figure 12
+ 
+  
+ 
+Figure 13
+ 
+  
+Figure 10 Figure 11 
+7. As shown in Figure 12, use a file or 
+similar tool to make a vertical relief cut 
+in the top outboard corner of the square cut-out up to the scribe mark (made in step 6). 
+ 
+8. 
+Install the two (2) J-clips in the new 
+locations, as shown in Figure 13. 
+ 5 mm Scribe 
+mark 
+Relief cut Scribe 
+mark 
+J-clips 
+5/5 NTB25-011  
+ 
+Figure 14  
+ 
+     CLAIMS INFORMATION 
+ 
+Submit a Primary Operation (PO) type line  claim using the following claims coding: 
+ 
+DESCRIPTION OP CODE SYM DIA FRT 
+Reposition Rear License Plate Frame BX8UAA ZE 32 0.2 
+ 
+          AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+February 18, 2025 NTB25-011 Or iginal bulletin published 
+  
+ 
+ 
+9. Install the license plate and frame 
+assembly, as shown in Figure 14. 
+ 

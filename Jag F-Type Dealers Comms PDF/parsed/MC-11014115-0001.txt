@@ -1,0 +1,53 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+DIM Message and DTC VCU1 P128300Ref. No.
+TJ 37158.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/12/24Status Date
+1/15/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4000
+Function Description
+Power transmissionPage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+*Updated under Vehicle Type and VST Operation Number. 
+If a customer experiences a “Reduced Performance” message in the DIM with diagnostic trouble 
+code VCU1 P128300 set and no other symptoms, please follow the advice under “Service” . 
+DIM = Driver Information Module 
+VCU1 = Vehicle Computational Unit 1
+CSC   Customer Symptom Codes
+Code Description
+IV Text window and warning symbol/Text message
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+VCU1 P128300 Permanent
+VCU1 P128300 Intermittent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+416 2024-2025 - 202336-202449
+SERVICE:
+Do not replace any parts.
+*A software solution is introduced with version 1.5, perform a software upgrade according to TJ 
+31543.
+  
+Page 2 of 2 2025-01-15
+Technical Journal 37158.2.0Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software Control Module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use the 
+concern area “Vehicle Report” and the sub-concern area “Support Not Needed” , use function group 
+4000.
+ 

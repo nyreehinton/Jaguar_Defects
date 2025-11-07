@@ -1,0 +1,58 @@
+
+
+
+
+
+*DTNA Predecessor part #Previous Weldon 
+Part #Vendor 
+Reference#  
+form and 
+function  ( 
+y/n) * what are the differences?Mounting 
+Hole 
+DiameterChange to 
+wiringVehicle Harness is 
+changingGround Wire 
+is Added*Description (Max 40 
+characters)
+WTE 1000 1159 21 (52004654) 1000-1159-21 1000-2106-21 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No NoTURN ARROW, PB, AMBER, 2 
+POS PACK WP
+WTE 1010 1106 20 (52005327) 1010-1106-20 1010-2106-20 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No No TURN, PB, AMBER, 2 WIRES
+TBB 52005328 1010-1106-21 1010-2106-21 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No NoTURN, PB, AMBER, 2 POS 
+PACK WP
+WTE 1010 1126 10 (80520334) 1010-1126-10 1010-2126-10 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No No STOP/TAIL, PB, RED, 3 WIRES
+TBB 52005326 1010-1126-11 1010-2126-11 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No NoSTOP/TAIL, PB, RED, 3 POS 
+PACK WP
+TBB 52005703 1010-7126-21 1010-2126-21 No The new lamp needs a 3" clearance hole for the mounting area. 3" No No NoTURN/PARK, PB, AMBER, 3 
+POS PACK WP
+WTE 1000 1100 20 (22021372) 1000-1100-20 1000-2106-20 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No YesTURN ARROW, PB AMBER, 2 
+WIRES
+WTE 1010 1100 10 (22022372) 1010-1100-10 1010-2106-10 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No Yes STOP, PB, RED, 2 WIRES
+WTE 1010 1100 20 (22023372) 1010-1100-20 1010-2106-20 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No Yes TURN, PB, AMBER, 2 WIRES
+WTE 1010 1120 10 (22019379) 1010-1120-10 1010-2126-10 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No Yes STOP/TAIL, PB, RED, 3 WIRES
+WTE 1010 1120 20 (52000008) 1010-1120-20 1010-2126-20 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No YesTURN/PARK, PB, AMBER, 3 
+WIRES
+WTE 1010 1100 30 (52000137) 1010-1100-30 1013-2106-30 NoThe new lamp needs a 3" clearance hole for the mounting area, and the  ground wire will 
+need to be connected to the body harness or mounted to the sheet metal.3" Yes No Yes BACKUP, PB, CLEAR, 2 WIRES
+WTE 1010 1109 31 (52004039) 1010-1109-31 1013-2106-30 NoThe new lamp needs a 3" clearance hole for the mounting area. Also the harness that was 
+used is unavailble, customer will need to use bare wire version. The connector on the vehicle 
+harness will need to be cut off. 3" Yes Yes No BACKUP, PB, CLEAR, 2 WIRES
+TBB 52003975 1010-1129-11 1010-2126-10 NoThe new lamp needs a 3" clearance hole for the mounting area. Also the harness that was 
+used is unavailble, customer will need to use bare wire version. The connector on the vehicle 
+harness will need to be cut off and the  ground wire will need to be connected to the vehicle 
+harness or mounted to the sheet metal. 3" Yes Yes Yes STOP/TAIL, PB, RED, 3 WIRES
+TBB 52004033 1010-1100-21 1000-2106-20 NoThe new lamp needs a 3" clearance hole for the mounting area. Also the harness that was 
+used is unavailble, customer will need to use bare wire version. The connector on the vehicle 
+harness will need to be cut off and the  ground wire will need to be connected to the vehicle 
+harness or mounted to the sheet metal. 3" Yes Yes YesTURN ARROW, PB AMBER, 2 
+WIRES
+WTE 1010 7129 21 (52004061) 1010-7129-21 1010-2126-20 NoThe new lamp needs a 3" clearance hole for the mounting area. Also the harness that was 
+used is unavailble, customer will need to use bare wire version. The connector on the vehicle 
+harness will need to be cut off and the  ground wire will need to be connected to the vehicle 
+harness or mounted to the sheet metal. 3" Yes Yes YesTURN/PARK, PB, AMBER, 3 
+WIRES

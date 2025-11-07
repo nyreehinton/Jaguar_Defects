@@ -1,0 +1,17 @@
+CUSTOMER LOVE UNITY INTEGRITY GROWTH IMPACT 41 ELECTRICAL
+DEFENDER 10" TOUCH SCREEN BLANK ON VEHICLE START Defender
+•23-24MY 
+Concern
+Customer may report  the following:
+•“Touch Screen is blank after I started the vehicle"
+•“Audio still operates”
+•"IPC still shows media and navigation information"
+Technical description
+Concern identified with 10" IDMA software in 23-24MY Defender.
+•Software concern may result in 10" IDMA disp lay failing to output image after vehicle start.
+•Fault condition would remain until vehicle sleep cycle is complete.
+Action
+Reference S SSM76192 
+•Perform diagnostic steps in SS M to complete PIVI Infotainment  Heath Check workflow and update 
+IDMA to latest software.
+•Once update is complete, function test to con firm IDMA screen is operat ional on vehicle start.

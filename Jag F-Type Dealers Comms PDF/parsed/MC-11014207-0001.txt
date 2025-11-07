@@ -1,0 +1,163 @@
+L-SB-0008 -25   January 29, 2025  
+ 
+ABS Brake Warning Light On  
+Service 
+Category  Brake   
+ Section    Brake Control/Dynamic Control System  Market   USA  
+  
+ © 2025 Lexus, a division of Toyota Motor Sales, USA Page 1 of 4 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2016 - 2018  GS450H   
+2013 - 2016  LS600H   
+2018 - 2021  NX300H   
+ 
+ 
+Introduction  
+Some 201 6 – 2018 model year  GS 450h , 2013 – 2016 model year LS 600h , and 2018 – 2021  
+model year NX 300h  vehicles may exhibit a condition in which the brake, ABS, and/or TRAC warning 
+lights are on and/or a Check VSC message displays. One or more of the following specific Diagnostic 
+Trouble C odes (DTCs) C1391, C1252, C1256, and/or C1253 will be stored in the vehicle memory to 
+be used as verification. This condition may be caused by a small internal brake fluid leak inside the 
+brake actuator. Follow the Repair Procedure in this bulletin to addr ess this condition.  
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  MODEL  TIME  OFP T1 T2 
+BR2409  R & R Brake Actuator Assy  GS 450h  1.3 
+44050 -#####*  
+8C 99 LS 600h  2.1 
+BR2410  R & R Brake Actuator Assy , 
+With Master Cylinder  NX 300h  2.3 47050 -#####*  
+*Warranty claim MUST be submitted with the correct 10 -digit OFP. Choose the correct OFP for the vehicle being 
+repaired by searching for the parts in the Electronic Parts Catalog using the VIN filter.  
+ 
+ 
+  APPLICABLE WARRANTY  
+ This repair  is covered  under  the Lexus  Basic  Warranty.  This warranty  is in effect  for 48 months  
+or 50,000  miles,  whichever  occurs  first,  from  the vehicle’s  in-service  date.  
+ Warranty  application  is limited  to occurrence  of the specified  condition  described  in  
+this bulletin.  
+ L-SB-0008 -25   January 29, 2025  Page 2 of 4 
+ABS Brake Warning Light On  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Parts Information  
+MODEL  MODEL YEAR  PART NUMBER  
+PART  NAME  QTY 
+PREVIOUS  NEW  
+GS 450h  2016  – 2018  44050 -30670  04003 -44930  
+Brake Actuator Assy  1 
+LS 600h  2013 – 2016 44050 -50110  04003 -45450  1 
+47070 -50040  04002 -07150  Brake Booster Pump Kit,  
+w/ Accumulator  1 
+44598 -50010  Brake Actuator Bracket  Clamp  1 
+NX 300h  2018 – 2019  47050 -78120  04004 -22178  
+Brake Booster Assy,  
+w/ Master Cylinder  1 
+2020  47050 -78121  04004 -22278  1 
+2021  47050 -78310  04004 -22378  1 
+2018  – 2021  47070 -12020  04006 -22212  Brake Booster Pump Assy  1 
+ 
+ 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  QTY 
+DOT 3 Brake Fluid  1 – 2 Liters  
+ 
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADVi*  
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+  NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ GTS+ Software version 2024.04.004.02  or later is required.  
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787 or by visiting TIS – Diagnostics – Tools & Equipment – Techstream Order Portal . 
+ L-SB-0008 -25   January 29, 2025  Page 3 of 4 
+ABS Brake Warning Light On  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Repair Procedure  
+1. Confirm  the condition exists.  
+Are the brake, ABS, and/or TRAC warning lights ON and/or does a Check VSC  
+message display?  
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+2. Using  GTS+ , check for and record ANY stored DTCs.  
+Are ANY of the following DTCs stored: C1391, C1252, C1256, and/or C1253?  
+ YES — Continue to step 3.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+3. Remove the brake  actuator  and brake booster  assembly  w/ master cylinder . 
+Refer to TIS, applicable model and model year Repair Manual:  
+ 2013  / 2014  / 2015  / 2016  LS 600h :  
+Brake – Brake Control – Brake Actuator  – Removal  
+ 
+ 2016 – 2018 GS 450h : 
+Brake – Brake Control / Dynamic Control Systems  – Brake Actuator  – Removal  
+ 2018 – 2020  / 2020 – 2021  NX 300h : 
+Brake – Brake System  (Other)  – Brake Booster  – Removal  
+ 
+ 
+4. Is the vehicle an NX 300h, GS 450h , or an LS 600h ? 
+ If an NX 300h continue to step 5.  
+ If a GS 450h or LS 600h  go to step 6.  
+ 
+   NOTE  
+Procedure includes removal of the brake accumulator pump assembly . 
+ L-SB-0008 -25   January 29, 2025  Page 4 of 4 
+ABS Brake Warning Light On  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+5. Remove the brake booster pump assembly.  
+Refer to TIS, applicable model and model year Repair Manual:  
+ 2018 – 2020 / 2021  NX 300h : 
+Brake – Brake System (Other) – Brake Booster Pump  – Removal  
+ 
+ 
+6. Install the NEW brake actuator and brake booster assembly w/ master cylinder . 
+Refer to TIS, applicable model and model year Repair Manual:  
+ 2013  / 2014  / 2015  / 2016  LS 600h : 
+Brake – Brake Control – Brake Actuator  – Installation  
+ 
+ 2016 – 2018  GS 450h : 
+Brake – Brake Control / Dynamic Control Systems  – Brake Actuator  – Installation  
+ 2018 – 2020 / 2020 – 2021  NX 300h : 
+Brake – Brake System  (Other)  – Brake Booster  – Installation  
+ 
+ 
+7. Is the vehicle an NX 300h, GS 450h , or an LS 600h ? 
+ If an NX 300h continue to step 8.  
+ If a GS 450h or LS600h  go to step 9.  
+ 
+ 
+8. Install the NEW brake booster pump assembly.  
+Refer to TIS, applicable model and model year Repair Manual:  
+ 2018 – 2020  / 2020 – 2021  NX 300h : 
+Brake – Brake System (Other) – Brake Booster Pump  – Installation  
+ 
+ 
+9. Using GTS+ , clear ANY stored DTCs and test -drive the vehicle to confirm the conditions  
+are no longer present.  
+ 
+ 
+ NOTE  
+Procedure includes installation  of the brake accumulator pump assembly . 

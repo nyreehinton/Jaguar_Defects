@@ -1,0 +1,86 @@
+Involved Region or
+CountryNorth America, Europe, Australia & New Zealand 
+ConditionSome customers ma y comment of the following:
+-  After an auto-stop event the engine does not restart (if
+equipped).  
+-  No crank (ma y be intermittent)  
+-  Dead Battery  
+- Transfer Case Range Actuator Learn F ailed  
+-  SES MIL with any of the following DTCs:  P0562, P0615, P0617,
+P0621 P0622, P0700, P1005, P26E4, P26E5, P26E6, P305D,
+P305E, P2796, U010E, U0102, U0106, U0284, U0285, U0672,
+U029D, U029E, U02A1, U02A3, U0623, U111A , U111E, U1348,
+U18DE, U3003, U3006, U3007, P066B, P066D, P066F , P067B,
+P067D, P068D, P068F , C15AC, C118D, P0671, P0672, P0673,
+P0674, P0675, P0676 P067F , P0677, and P0678
+CauseThese concerns could be caused by a brok en or loose engine
+ground cable/strap, which grounds the engine (2) to the body
+(1), as shown below .
+Bulletin No.: PIT5689L
+Published date: 02/27/2025
+Preliminary Information
+PIT5689L No Restart after an Auto Stop Event / No Crank / Dead
+Battery / Glow Plug / Transfer Case / SES MIL / DTC
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 1500 (New Model) 2019 All AllAll All
+Chevr oletSilverado 1500 2020 - 2025 All AllAll All
+Chevr oletSilverado 2500 HD 2020 - 2025 All AllAll All
+Chevr oletSilverado 3500 HD 2020 - 2025 All AllAll All
+GMC Sierra 1500 (New Model) 2019 All AllAll All
+GMC Sierra 1500 2020 - 2025 All AllAll All
+GMC Sierra 2500 HD 2020 - 2025 All AllAll All
+GMC Sierra 3500 HD 2020 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 - G132  
+2 - G134
+ 
+Shown above is ground G132 loose.
+Correction:
+Inspect the engine to body ground cable/strap, G132 and G134.   Tighten any
+loose ground connections or replace any damaged ground cable/strap.  Ensure
+that the ground cable/strap is properly orientated to prevent damage to the
+ground cable/strap caused by powertrain movement.
+Warranty Information
+Version 12
+Modiﬁed06/04/2019 - Created on.  
+11/22/2019 - Update the title, condition and
+correction.  
+06/22/2020 - Updated to temporarily refer to
+PIE0572 for this condition.  
+02/19/2021 - Updated to Title, Condition, Cause
+and Correction.  
+06/10/2021 - Updates to the W arranty Section.  
+01/30/2022 - Update to model list.  
+02/22/2024 - Updates to the Title, Models, and
+Condition sections.  
+03/07/2024 - Updates to the Condition sections.  
+06/25/2024 - Update to add Australia & New
+Zealand to the Involved Region or Country
+section    
+08/29/2024 -  Update to the Condition and SI k eywords  
+1/27/2025 - Update to add Europe to the involved Regions  
+02/26/2025 - Update to add the 2025 model yearsFor vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate V ehicle History (IVH) for coverage
+information.
+Labor
+OperationDescription Labor Time
+4042010Battery Negative Cable Extension Cable Strap
+Replacement Use Published
+Time
+Additional SI K eywords
+autostop autostart
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,75 @@
+ 
+ 
+ 
+Classification: Reference: Date: 
+PD23-001B NTB23-023B February 19, 2025 
+ 
+Bulletins are intended for use by qualified technicians, not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/2 
+ 
+FLUID LEAK FROM THE FRONT DIFFERENTIAL CASE 
+ACTUATOR MOTOR PLASTIC THREADS 
+ 
+ 
+  
+ 
+APPLIED VEHICLES: 2016-2024 Titan/Titan XD (A61) 
+APPLIED DRIVETRAINS: 4WD 
+ 
+SERVICE INFORMATION 
+ 
+  
+Figure 1 
+    
+ 
+Figure 2  
+  
+ 
+If the front differential has  a fluid leak coming 
+from the actuator mo tor plastic threads 
+ (Figure 1): 
+ 
+a. Place an alignment mark on the splined 
+actuator body and the gear carrier  (Figure 2). 
+ 
+b. Remove the actuator and thoroughly 
+clean the threads, making sure not to allow RTV to fall into the differential case. 
+ 
+c. Once clean, apply Three Bond sealant to 
+the threads, and then reinstall the actuator motor, making sure to line up the alignment marks.  
+ 
+d. Check the front differential gear oil level 
+and top to specification. 
+ 
+o Refer to the ESM: TRANSMISSION & 
+DRIVELINE > DRIVELINE > FRONT FINAL DRIVE: MA235/MA210 > PERIODIC MAINTENANCE > FRONT DIFFERENTIAL GEAR OIL 
+ 
+DO NOT  replace the front differential due to a 
+fluid leak from the actuator motor plastic threads unless there has been consequential damage 
+due to fluid loss (bearing failure or gear noise) to the front differential.  
+Actuator This bulletin has been amended. See AMENDMENT HISTORY on the last page.  
+Please discard previous versions of this bulletin. 
+Actuator 
+motor plastic 
+threads 
+Gear 
+carrier Alignment mark HINT: Use 
+PFP 33254-
+***** when 
+submitting a 
+claim for 
+resealing. 
+2/2 NTB23-023B  
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+March 14, 2023 NTB23-023 Or iginal bulletin published 
+November 4, 2024 NTB23-023A APPLIED VEHICLES and SERVICE 
+INFORMATION  revised 
+February 19, 2025 NTB23-023B HINT added to Figure 1 
+   
+ 

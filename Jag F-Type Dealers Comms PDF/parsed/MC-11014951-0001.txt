@@ -1,0 +1,79 @@
+Technical Service BulletinTechnical Service Bulletin Transaction No.:  2076669/12076669/1
+91-25-02 - ID.4 ICAS3 Replacement Software (Spare Part Compatibility)
+ConditionCondition
+Applicable VehiclesApplicable Vehicles
+VW Model(s)VW Model(s) YearYear Eng. CodeEng. Code Trans. CodeTrans. Code VIN Range FromVIN Range From VIN Range ToVIN Range To
+ID.4 2021 - 2023 All All All All
+Revision TableRevision Table
+Instance NumberInstance Number Published DatePublished Date Version NumberVersion Number Reason for UpdateReason for Update
+2076669/1 2/26/2025 91-25-02 Original publication
+  NOTICENOTICE
+This technical bulletin must be read in its entirety before attempting the software update.This technical bulletin must be read in its entirety before attempting the software update.
+––If software updates or flash campaigns/actions are performed on a vehicle, a charger with at least 70A charging currentIf software updates or flash campaigns/actions are performed on a vehicle, a charger with at least 70A charging current
+MUST be connected to the vehicle’s 12-volt battery in order to avoid problems during the updates and flashMUST be connected to the vehicle’s 12-volt battery in order to avoid problems during the updates and flash
+campaigns/actions.campaigns/actions.
+Technical BackgroundTechnical Background
+For MY21-23 ID.4 vehicles that are updated to ID.S compound 3.5.X via campaign update 919A919A , if after performing the update, it becomes
+necessary at any point to replace the ICAS3 (- J794J794 -), the spare part received will require an update to software version 17511751 .
+Spare parts with SW 17511751  are not manufactured, so this update is necessary following any replacement as specified above. The spare part
+10A.035.842.M  (SW 1741) must be ordered and installed, then updated to SW 17511751 , which will update the part number to 10A.035.842.N . This
+procedure ensures the vehicle is at the correct compound.
+Production SolutionProduction Solution
+N/A.
+ServiceService
+Refer to Technical Bulletin 2054866 (00-19-04) Set Up SD/USB Creator to Obtain Software Updates.
+Create USB part number 3G8.919.360.BL3G8.919.360.BL .
+Begin with the new Information Electronics Module 1 -J794J794 - (ICAS3) part number 10A.035.842.M installed in the vehicle.
+Connect the VAG5908 to the vehicle’s 12-volt battery.
+Ensure that nothing is connected to the vehicle’s DLC (Data Link Connector).
+Place one of the vehicle keys over the reader coil in the center console cup holder. Any additional keys must be a minimum of 20 meters awayfrom the vehicle .
+Insert USB 3G8.919.360.BL3G8.919.360.BL  into one of the vehicle’s USB ports. Leave the USB in the drive until the entire update is complete.
+Switch the ignition ON.
+Switch on the hazard flashers and leave them on during the entire flash process.
+Open the driver’s door.
+Buckle the driver’s seatbelt.
+The update will now begin automatically. During the update, multiple messages will be displayed in the MIB display and instrument cluster.
+The software update is finished when a successful completion message is displayed on the instrument cluster.
+Once complete, remove the USB.
+Connect the ODIS tester to the vehicle’s DLC.
+Perform GFF test plan 005F – Replace control module.005F – Replace control module.
+Ensure that the test plan completes in its entirety. Failure to ensure the completion of the test plan could affect proper activation and
+configuration of the ICAS3.
+End of procedure.
+End of procedure.
+WarrantyWarranty
+To determine if this procedure is covered under Warranty, always refer to the Warranty Policies and Procedures ManualTo determine if this procedure is covered under Warranty, always refer to the Warranty Policies and Procedures Manual
+Model(s)Model(s) Year(s)Year(s) Eng. Code(s)Eng. Code(s) Trans. Code(s)Trans. Code(s) VIN Range FromVIN Range From VIN Range ToVIN Range To
+ID.4 2021 - 2023 All All All All
+SAGA CodingSAGA Coding
+Claim Type:Claim Type: Use applicable Claim Type Use applicable Claim Type 1)1)
+Service Number:Service Number:DamageDamage
+CodeCodeHSTHSTDamage Location (DependsDamage Location (Depends
+on Service No.)on Service No.)
+9193 0039 -- --
+Parts ManufacturerParts Manufacturer ID.4 WWO 2)
+Labor OperationLabor Operation 3 3) ) ::  Charge Battery 27068950 = See Elsa for latest time units.
+Labor OperationLabor Operation 3 3) ) ::  Update programming via USB 97102599 = 30 TU
+Labor OperationLabor Operation 3 3) ) ::  Update programming SVM See GFF Time expenditure
+Diagnostic Time Diagnostic Time 4)4)
+GFF Time expenditureGFF Time expenditure 01500060 = Actual GFF print out. 70 TU max. YES
+Road TestRoad Test 01210002 = 00 TU
+01210004 = 00 TUNO
+Technical DiagnosisTechnical Diagnosis 01320000 = 00 TU max. NO
+Claim Comment: Input “As per Technical Bulletin 2076669” in comment section of Warranty Claim.Claim Comment: Input “As per Technical Bulletin 2076669” in comment section of Warranty Claim.
+1)1)Vehicle may be outside any Warranty in which case this Technical Bulletin is informational onlyVehicle may be outside any Warranty in which case this Technical Bulletin is informational only
+2)2)Code per warranty vendor code policy.Code per warranty vendor code policy.
+3)3)Labor Time Units (TUs) are subject to change with ELSA updates.Labor Time Units (TUs) are subject to change with ELSA updates.
+4)4)Documentation required per Warranty Policies and Procedures Manual.Documentation required per Warranty Policies and Procedures Manual.
+Required Parts and ToolsRequired Parts and Tools
+Tool DescriptionTool Description Tool NumberTool Number
+Battery Charger/Maintainer VAG5908
+VAS Diagnostic Tool VAS 6150/X & VAS6160/X with ODIS Service and current online
+updates
+USB Drive 3G8.919.360.BL
+Additional InformationAdditional Information
+© 2025 Volkswagen Group of America, Inc.© 2025 Volkswagen Group of America, Inc.  All rights reserved. Information contained in this document is based on the latest information
+available at the time of printing and is subject to the copyright and other intellectual property rights of Volkswagen Group of America, Inc., its
+affiliated companies and its licensors. All rights are reserved to make changes at any time without notice. No part of this document may be
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, nor may these materials be modified or reposted to other sites, without the prior expressed written permission of the publisher .

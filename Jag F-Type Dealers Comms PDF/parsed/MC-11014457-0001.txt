@@ -1,0 +1,33 @@
+Bulletin No.: PIT4506H
+Published date: 02/20/2025
+Preliminary Information
+PIT4506H Questions Regarding Reducing Tire Pressures
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 2500 2007 - 2025 All AllAll All
+Chevr oletSilverado 3500 2007 - 2025 All AllAll All
+Chevr oletSuburban 2500 2007 - 2013 All AllAll All
+Chevr oletSuburban 3500 HD 2016 - 2019 All AllAll All
+GMC Sierra 2500 2007 - 2025 All AllAll All
+GMC Sierra 3500 2007 - 2025 All AllAll All
+GMC Yukon XL 2500 2007 - 2013 All AllAll All
+Supersession Statement
+This PI was superseded to update model years. Please discar d PIT4506G.
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+Some owners of HD Trucks and Utilities may ask if they can lower their tire pressures from what
+is recommended on the "Tire and Loading Label" if the vehicle is not being used for hauling or
+towing.
+Recommendations / Instructions
+The answer is no. Tire pressures being set to the "Tire and Loading Label" will ensure the safe
+handling and ride characteristics of the truck. Ride, handling, tire wear, fuel economy, and road
+noise concerns may be caused by improperly adjusted tire pressure. 
+Note: If the tire pressures are lowered on a vehicle equipped with Tire Pressure Monitor, the
+"Check Tire Pressure" message may display on the DIC. The Tire Pressure Monitor system was
+implemented to meet FMVSS 139 and cannot be removed or disabled. 
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,50 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)UKL
+ConditionCustomers ma y notice a Super Cruise Unavailable, Adaptive
+Cruise Unavailable message on the DIC.  
+This could happen immediately upon startup or within 30
+minutes of the drive cycle .  
+This issue ma y recover after an ignition cycle or it ma y not.   
+Technician ma y ﬁnd the following DTC's setting in the K124
+Image Processing Module (IPCM), see list below .
+Cause Software
+Bulletin No.: PIC6557D
+Published date: 02/14/2025
+Preliminary Information
+PIC6557D Super Cruise Unavailable Message
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac CT5 2025 All AllAll All
+Cadillac LYRIQ 2024 - 2025 All AllAll All
+Cadillac OPTIQ 2025 All AllAll All
+Chevr oletBlazer EV 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction: 
+Dealers are ask ed to verify the customers concern.
+If any of the DTCs listed below are set in history , do not replace the controller .
+Refer to SI document SuperCruise Malfunction for further diagnostic information to further
+root cause customer ’s issue.
+DOC ID 6763330   
+U053C sym00  
+U023B sym00  
+U1624 sym00  
+U164E sym00  
+If none of the codes listed above are set in the K124 IPCM follow normal SI diagnostics.   
+If any of the codes listed are set current after several ignition cycles, follow SI diagnostics.
+Version 5
+Modiﬁed06/11/2024 - Created on.  
+09/06/2024 - Updated DTC S in correction.  
+09/26/2024 - Updated condition and correction.  
+01/17/2025 - Updated Models.  
+02/14/2025- Updated correction, added L YRIQ and
+removed labor operation.Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

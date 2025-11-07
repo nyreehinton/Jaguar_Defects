@@ -1,0 +1,17 @@
+ 
+ 
+ 
+ 
+Units : Precedent S -600, S -610DE, S -610M, S -700, S -750i 
+ 
+Description : Yanmar High Pressure Common Rail  (HPCR) quality improvement.  
+Summary:  If a unit has an HPCR fuel pump (PN 100565) leaking from the weep hole, submit 
+a video or picture with the warranty claim. If a video or picture is not attached with 
+the warranty claim, the claim will be denied.  
+ 
+ 
+Date:  February 12, 2025  
+Subject:  Precedent ® High Pressure Common Rail Fuel Pump Leak  
+Location:  e-Tech  Library    Service  Bulletin  
+  SB975 
+ 

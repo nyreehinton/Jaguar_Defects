@@ -1,0 +1,72 @@
+Bulletin No.: PIT6344
+Published date: 02/21/2025
+Preliminary Information
+PIT6344 Diagnostic Aid: Blower motor slows down
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Cadillac Escalade2021 -
+2025All AllAll All
+Cadillac Escalade ESV2021 -
+2025All AllAll All
+Chevr oletSilverado 1500 (New Model) 2019 All AllAll All
+Chevr oletSilverado 15002020 -
+2021All AllAll All
+Chevr oletSilverado 1500 L TD (RPO J21, VIN
+Digit 5 = W / Y)2022 All AllAll All
+Chevr oletSilverado 1500 New (RPO J22,
+VIN Digit 5 = A / D)2022 All AllAll All
+Chevr oletSilverado 15002023 -
+2025All AllAll All
+Chevr oletSilverado 2500HD2020 -
+2023All AllAll All
+Chevr oletSilverado 3500HD2020 -
+2023All AllAll All
+Chevr oletSilverado 2500HD 2024 All AllAll All
+Chevr oletSilverado 3500HD 2024 All AllAll All
+Chevr oletSuburban2021 -
+2025All AllAll All
+Chevr oletTahoe2021 -
+2025All AllAll All
+GMC Sierra 1500 (New Model) 2019 All AllAll All
+GMC Sierra 15002020 -
+2021All AllAll All
+GMCSierra 1500 L TD (RPO J21, VIN
+Digit 5 = 8 / 9)2022 All AllAll All
+GMCSierra 1500 New (RPO J22, VIN
+Digit 5 = H / U)2022 All AllAll All
+GMC Sierra 15002023 -
+2025All AllAll All
+GMC Sierra 2500HD2020 -
+2023All AllAll All
+GMC Sierra 3500HD2020 -
+2023All AllAll All
+GMC Sierra 2500HD2024 -
+2025All AllAll All
+GMC Sierra 3500HD2024 -
+2025All AllAll All
+GMC Yukon2021 -
+2025All AllAll All
+GMC Yukon XL2021 -
+2025All AllAll All
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment that they notice the
+blower motor slows down when there is light
+powdered snow on the hood/cowl areas.
+CauseThis ma y be caused by the snow blocking air ﬂow
+through the air inlet to the blower motor , causing the
+blower motor's internal logic to slow blower speed in
+response to the change in air ﬂow .
+Version 1
+Modiﬁed 02/21/2025 - Created on. 
+ 
+ 
+Correction:  
+No repairs should be made as this is normal operation. Recommend clearing
+the snow prior to driving vehicle.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

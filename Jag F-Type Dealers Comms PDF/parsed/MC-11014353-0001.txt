@@ -1,0 +1,263 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 16-NA-019
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Transmission Adaptive Functions and Correcting Low Mileage
+Harsh Shifts, Slips, or Flares
+Brand: Model: Model Year: VIN: Engine: Transmission:
+(8-Speed
+Automatic)from to from to
+CadillacATS 2016 2019
+— — AllM5N, M5U
+CTS 2016 2019 M5N, M5U
+CT6 2016 2018 M5N, M5X
+CT4 2020 2024 M5N
+Escalade
+Models2015 2017 M5U
+ChevroletCamaro 2016 2023 M5T, M5U
+  Corvette 2015 2019 M5U
+Colorado
+(VIN S/T)2017 2025 M5T, MFC, N8R
+Express 2017 2023 M5U, MQD
+Silverado 2015 2018 M5U, M5X
+Silverado
+1500 (New
+Model)2019 2019 MQE
+Silverado
+15002020 2021 MQE
+Silverado
+1500 - LTD
+(RPO J21,
+VIN Digit 5 =
+W/Y)2022 2022 M5X, MQE
+Silverado
+1500 - New
+(RPO J22,
+VIN Digit 5 =
+A/D)2022 2022 M5X, MQE
+Silverado
+15002023 2025 MFC, MQE
+GMCCanyon 2017 2025 M5T, MFC, N8R
+Sierra 2015 2018 MQE
+Sierra 1500
+(New Model)2019 2019 MQE
+Sierra 1500 2020 2021 MQE
+Sierra 1500 -
+Limited (RPO
+J21, VIN Digit
+5 = 8/9)2022 2022 M5X, MQESubject:
+Page 2 February, 2025 Bulletin No.: 16-NA-019
+Brand: Model: Model Year: VIN: Engine: Transmission:
+(8-Speed
+Automatic)from to from to
+Sierra 1500 -
+New (RPO
+J22, VIN Digit
+5 = H/U)2022 2022 M5X, MQE
+Sierra 1500 2023 2025 MFC, MQE
+Savana 2017 2023 M5U, MQD
+Yukon
+Models2015 2017 M5U
+Involved Region or CountryNorth America, Argentina, Brazil, Colombia, Ecuador, Guatemala, Peru, Europe, Middle
+East, Japan, GM Korea Company, Cadillac Korea (South Korea), Thailand, Egypt, Israel,
+India, China, Indonesia, Vietnam, Uzbekistan, South Africa, Venezuela, Philippines,
+Albania, Kuwait
+ConditionSome customers may comment on low mileage vehicles with an automatic transmission
+that the shifting may feel too firm (harsh), slips, or flares. Customers should be advised
+that the transmission makes use of an adaptive function that will help to refine the shift
+feel while driving and improve shift quality.
+Note: Low mileage would be considered vehicles that have approximately 8050 km
+(5000 mi) or less or on vehicles that have had a valve body, clutch repair or transmission
+replacement in the last approximate 8050 km (5000 mi) or less.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Correction
+Important: Check the ECM/TCM Software/Calibrations against what is currently in the vehicle and if the description
+of the update is relevant to the customer concern, perform the update prior to proceeding with the learns below. By
+completing the software/calibration update, the clutch adapts will clear and thus a Service Fast Learn (SFL) followed
+by Adaptive Learning may be needed to further learn specific clutches if shift concern exists.
+The following should be used to determine what steps should be followed within this document. The 8-Speed trans-
+mission utilizes a total of 5 clutches to obtain all the ratios. Utilize the chart within this document to determine which
+clutch may require additional adaptive learning.
+• If a valve body replacement, clutch repair/overhaul, or transmission replacement was required, reset the adapts
+using Service Fast Learn. Evaluate the shifts and further learn pressures and volumes if required using the
+procedure below.
+• If a customer has a specific shift concern, the Service Fast Learn (SFL) should be skipped. Complete the
+Adaptive Learn procedure to further learn pressures and volumes for the specific shift concern.
+• The Adaptive Learn procedure should be used on vehicles that have approximately 8050 km (5000 mi) or less
+or on vehicles that have had a valve body, clutch repair or transmission replacement in the last approximate
+8050 km (5000 mi) or less. Performing the Adapt procedure on high mileage vehicles may improve shift quality
+for a limited amount of time but the vehicle will most likely return with the same symptoms.
+Transmission Adaptive Functions
+The Hydra-Matic® 8-Speed RWD transmission utilizes a line pressure and volume control system during upshifts to
+compensate for new transmission build variation as well as the normal wear of transmission components. The
+variation from new and normal wear of the apply components within the transmission over time can cause shift time
+(the time required to apply a clutch) to be longer or shorter than desired.
+In order to compensate for these changes, the transmission control module (TCM) adjusts the pressure commands
+to the various pressure control (PC) solenoids to maintain the originally calibrated shift timing. The automatic
+adjusting process is referred to as “adaptive learning” and it is used to ensure consistent shift feel plus increase
+transmission durability.
+Bulletin No.: 16-NA-019 February, 2025 Page 3
+The TCM monitors the A/T input speed sensor (ISS) and the A/T output speed sensor (OSS) during commanded
+shifts to determine if a shift is occurring too fast (harsh) or too slow (soft) and adjusts the corresponding PC solenoid
+signal to maintain the set shift feel. The purpose of the adapt function is to automatically compensate the shift quality
+for the various vehicle shift control systems. The adapt function is a continuous process that will help to maintain
+optimal shift quality throughout the life of the vehicle.
+How to Adapt Your Transmission
+Transmission adapts can be reset and relearned on most vehicles through GDS2 by using the Transmission Service
+Fast Learn procedure. This procedure is completed in the service stall and no vehicle driving is required.
+To complete the Transmission Service Fast Learn procedure, enter GDS2 Diagnosis and navigate to:
+• Module diagnostics
+• Transmission Control Module
+• Configuration / Reset Function
+• Transmission Service Fast Learn
+Transmission Service Fast Learn is the recommended method to reset and relearn adapts. This procedure is
+available on all 2015-2021 MY Trucks, Cars and SUVs with 8L45 and 8L90 Automatic Transmissions (RPOs: M5U,
+M5T, M5N, M5X, MQD, MQE).
+When the Service Fast Learn is complete, perform a test drive and note any soft or harsh shifts.
+ 
+To improve these complaint shifts further, locate the clutches that need to be learned in the table below, and perform
+the required learning procedure for each clutch listed in the table. Execute the steps below with the vehicle warmed
+up on a smooth level road. The driver may observe a brief pulse behavior or firm shift feel while the transmission is
+optimizing the clutch learn characteristics.
+Please note that the information currently in GDS2 that displays whether a clutch has learned can be misleading. In
+the clutch learn data list, when the transition from “No” to “Yes” takes place, this does NOT mean the clutch has
+completed a learn. What this does mean is that the conditions for learning the clutch have been met at least twice. If
+the clutch learn reads “Yes,” it is still possible for a unsatisfactory shift to be present as the transmission will continue
+to learn if driven in the same manner.
+Note: The transmission fluid temperature must be between 35°C (95°F) and 95°C (203°F). Drive the vehicle under
+normal conditions until this temperature range is achieved. If the temperature is outside of this range, the clutches
+will not be learned.
+To Correct The
+Shift FeelLearn These Clutches
+Applying ClutchReleasing
+Clutch
+1–2 C4 C3
+2–3 C3 C1
+3–4 C5 C3
+4–5 C3 C4
+5–6 C4 C2
+6–7 C1 C4
+7–8 C4 C3
+3–1 C1 C4
+2–1 C3 C4
+N-DC3 – Perform garage shift adaptive
+learning
+N-RC5 – Perform garage shift adaptive
+learning
+Power DownshiftsJust perform the shifts and they will
+adapt
+Page 4 February, 2025 Bulletin No.: 16-NA-019
+Note: Ensure Service Bulletin #16-NA-411 or #16-NA-412 has been completed on the 2015 -2016 Silverado, Sierra,
+Yukon and Escalade models before performing this procedure.
+Note: For the 2015 Corvette, use the latest version of Service Bulletin #14-07-30-001.
+Note: The following adaptive learning procedure was developed to further learn clutch pressures and
+volumes required for specific shifts. To expedite the learning process, it is recommended to utilize a road
+with minimal traffic volume that has as smooth and level surface as possible.
+Note: Within GDS2, a Transmission Service Fast Learn Data page has been created to aid in performing adaptive
+learn by showing throttle percentage, engine speed, transmission fluid temperature, and gear command.
+Note: 2018-2022 Model Year vehicles show the clutch learn status within GDS2. A Transmission Service Fast Learn
+Data page has been created to aid in performing adaptive learn by showing throttle percentage, engine speed, trans-
+mission fluid temperature, and gear command.
+To Learn C1 (For 6-7 or 3-1 Shift)
+1. Pressure Learns:
+Note: It is recommended to utilize a road with a speed limit between of 48-72 km/h (30-45 mph) for this procedure.
+• Shift the transmission into 6th gear with the PRNDM in the M position. Obtain an engine speed between 1000
+and 1600 engine rpm. Maintain this condition for a total of about 8 km (5 mi). Cruise control may be used and
+has been found to result in faster learning of the clutch values.
+2. Volume Learns:
+• Complete 15 light throttle 6-7 upshifts at approximately 15% throttle to further learn C1.
+To Learn C2 (For 6-5 Shift)
+1. Pressure Learns:
+Note: It is recommended to utilize a road with a speed limit 64-72 km/h (40-45 mph) for this procedure.
+• Perform 10 normal mode 6-5 coast down shifts (zero/light brake) to learn the C2 Return Spring pressure.
+2. Volume Learns:
+• Shift the transmission into 8th gear with the PRNDM in the M position. Obtain an engine speed between 1000
+and 1750 rpm. Maintain this condition for a total of about 8 km (5 mi). Cruise control may be used and has
+been found to result in faster learning of the clutch values.
+To Learn C3 (For 2-3, 4-5, or N-D Shift)
+Important: Application Specific Silverado & Sierra e-Assist (RPO M5X) Trucks:  To enable Adaptive Learn on
+8-7 Coast downs, a power on (~15% throttle through the upshift) 7-8 upshift must be performed prior to each
+downshift. This action enables torque converter clutch (TCC) controlled slip-on downshift to occur vs. TCC unlocked,
+which occurs on normal downshifts and disables Adaptive Learn. As a supplement, if the previous procedure is
+unsuccessful using GDS TCC Control Functions, TCC can be left enabled during 8-7 Coast downs to aid in learning
+C3 pressure.
+1. Pressure Learns:
+• Perform 10 normal mode 8-7 coast down shifts (zero/light brake) to learn the C3 Return Spring.
+2. Volume Learns:
+• Complete 15 light throttle 2-3 upshifts at approximately 15% throttle to further learn C3.
+To Learn C4 (For 1-2, 5-6, or 7-8 Shift)
+1. Pressure Learns:
+Note: It is recommended to utilize a road with a speed limit between of 64-72 km/h (40-45 mph) for this procedure.
+• Shift the transmission into 7th gear with the PRNDM in the M position. Obtain an engine speed between 1000
+and 1750 rpm. Maintain this condition for a total of about 8 km (5 mi). Cruise control may be used and has
+been found to result in faster learning of the clutch values.
+Important: Application Specific Express & Savana Vans Pressure Learns: Perform 10 normal mode 7-6 coast
+down shifts (zero/light brake) to learn the C4 Return Spring.
+2. Volume Learns:
+• Complete 15 light throttle 1-2 upshifts at approximately 15% throttle to further learn C4.
+Bulletin No.: 16-NA-019 February, 2025 Page 5
+To Learn C5 (For 3-4 or N-R Shift)
+1. Pressure Learns:
+Note: It is recommended to utilize a road within a Business Park or similar area, where it is safe to drive at very slow
+speeds of approximately 8-40 km/h (5-25 mph).
+• Shift the transmission into 3rd gear with the PRNDM in the M position. Start a very slow acceleration, starting
+at about 1000 rpm. Maintain the slow acceleration until you reach about 2500 rpm. Once you reach 2500 rpm,
+slow back down to 1000 rpm and repeat the slow acceleration up to 2500 rpm. Repeat this 10 times.
+2. Volume Learns:
+• Complete 15 light throttle 3-4 upshifts at approximately 15% throttle to further learn C5.
+Power Downshift Adaptive Learning
+Starting with the vehicle operation in 8th gear, slowly apply pressure to the accelerator pedal until downshift occurs.
+Repeat as necessary in each gear (8, 7, 6, 5, 4, 3 and 2).
+Note: This procedure will learn the off-going clutch adapts for desired power downshift control.
+Garage Shift Adaptive Learning (For N-D or N-R Shift)
+1. After above clutches are learned C3 –Drive and C5 – Reverse. With the vehicle at a stop, hold foot on brake
+pedal and move the shifter from Neutral to Drive and release the brake once in gear allowing the vehicle to roll
+5-10 feet or Neutral to Reverse and release the brake once in gear allowing the vehicle to roll 5-10 feet. Repeat
+as necessary until desired shift quality is achieved.
+Note: This procedure will learn the C13567 (C3-Drive) and C45678R (C5 – Reverse) oncoming clutch adapts.
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following Labor Operation. Reference the Applicable
+Warranties section of Investigate Vehicle History (IVH) for coverage information.
+Labor
+OperationDescription Labor Time
+8480318*Transmission Service Fast
+LearnUse Actual
+Clock Time
+*This is a unique Labor Operation for bulletin use only.
+Version 13
+ModifiedReleased January 25, 2016
+Revised August 19, 2016 – Added the 2017 Model Year and updated information.
+Revised November 13, 2019 – Added the 2018 Model Year and a Warranty statement.
+Revised September 02, 2020 – Removed Buick from Models table, added the 2015 and
+2019-2021 Model Years, added RPO MQE, updated the Involved Region or Country
+section, updated the two bullet items under Correction, added a Note to the Condition
+and Correction sections and updated the Notes just below the Shift/Clutch table.
+Revised November 16, 2020 – Added RPO MQD and updated Description of Labor
+Operation.
+Revised December 01, 2020 – Changed Labor Operation Description back to previous
+Description.
+Revised July 20, 2021 – Changed Models from GM Passenger Cars and Trucks to
+specific Models and Years.
+Revised May 06, 2022 – Added the 2022 Model Year to applicable vehicles and updated
+the Involved Region or Country section.
+Revised March 21, 2023 – Added the 2023 Model Year to applicable vehicles.
+Revised April 14, 2023 – Removed TIS information from Correction section.
+Revised May 02, 2023 – Added the last bulleted item under Correction and the last
+paragraph under How to Adapt Your Transmission.
+Revised July 09, 2024 – Added the 2024 Model Year and transmission RPOs to
+applicable vehicles.
+Revised February 11, 2025 – Added the 2025 Model Year to Colorado, Silverado,
+Canyon, Sierra models and added Transmission RPOs MFC, N8R.
+Page 6 February, 2025 Bulletin No.: 16-NA-019
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATION

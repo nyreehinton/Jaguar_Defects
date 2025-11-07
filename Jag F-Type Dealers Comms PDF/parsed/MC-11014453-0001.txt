@@ -1,0 +1,67 @@
+Bulletin No.: PIT6335
+Published date: 02/19/2025
+Preliminary Information
+PIT6335 Cluster Showing EV Gauge Layout - No Audio - Rearview Camera
+and SuperCruise Inoperative
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+Buick Envision 2024 - 2025 All AllAll All
+Cadillac CT5 2025 All AllAll All
+Cadillac Lyriq 2023 - 2025 All AllAll All
+Cadillac Escalade IQ 2025 All AllAll All
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Cadillac Optiq 2025 All AllAll All
+Cadillac XT4 2024 - 2025 All AllAll All
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletColorado 2023 - 2024 All AllAll All
+Chevr oletEquino x 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+Chevr oletTraverse 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+GMC Acadia 2024 - 2025 All AllAll All
+GMC Canyon 2023 - 2024 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+GMC Terrain 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+Involved
+Region or
+CountryUnited States, Canada, Mexico, Europe, Uzbekistan, Middle East, Israel, P alestine, Bolivia
+(West), Chile (W est), Colombia (W est), Ecuador (W est), Peru (W est), S. Korea, China GMPI,
+Phiippines, Australia/New Zealand
+Additional
+Options
+(RPO)IVD and IVE 
+ConditionSome customers or technicians ma y comment that after a jump start event due to a dead
+12 volt battery , their cluster now displa ys information as below . 
+They ma y also comment there is no audio, no rearview camera and if equipped,
+SuperCruise. 
+You ma y also see when the hood is opened, the vehicle icon displa yed is a Chevrolet
+Colorado. 
+Cause The cause is due to a software anomaly .
+Version 1
+Modiﬁed 02/17/2025 - Created.Labor Operation Description Labor Time
+*2880057USB update and reprogram A11 radio due to
+cluster showing EV gauge la yout 1 Hr.
+*This is a unique Labor Operation for Bulletin use only . 
+ 
+ 
+ 
+Correction: 
+Please USB update the radio and reprogram it. 
+The cluster will recover to displa y the correct la yout.
+Audio, rearview camera and if equipped, SuperCruise will also return. 
+Do not replace the A11 Radio or cluster displa y for this condition. 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty coverage), use
+the following labor operation. Reference the Applicable W arranties section of Investigate V ehicle
+History (IVH) for coverage information.
+Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

@@ -1,0 +1,129 @@
+ 
+LI User's Guide - Acronyms, Control Unit
+Identification, and Platform Reference
+Topic number LI00.01-P-078887
+Version 1
+Function group 00.01 - User information
+Date 2/20/25
+Validity Acronyms, Control Unit Identification, and Platform Refe-
+rence
+Reason for change
+Complaint
+The intent of this document is to provide workshops with helpful technical reference language.
+• Commonly used acronyms in LI's and TIPS cases.
+• Control unit names, numbers, and how to identify.
+• Network/wiring architecture groups to baumuster quick reference.
+• Platform to baumuster quick reference.
+Cause
+Information only
+Remedy
+Acronyms:
+• AV = Actual Values
+• CU = Control Unit
+• CUL = Control Unit Log
+• DTC = Diagnostic Trouble Code
+• E-Stand = Fresh-up head unit boot software (found in head unit control unit log)
+• FUP = Fresh-up
+• FW = Firmware
+• HSVL = High Speed Video Line
+• HU = Head Unit
+• HW = Hardware
+• ISU = Initial Start Up
+• LVDS = Low Voltage Differential Signal
+• NSFT = Not Safe For Transport
+• MOPF = Model Facelift (Ex: 167 MOPF)
+• PiH = Plug-in Hybrid
+• P3 Hybrid = AMG Plug-in Hybrid with rear drive unit
+• SA Code = Sonderausstattungscode (Option Code)
+• SCN = Software Calibration Number
+• SW = Software
+21.02.2025   17:26   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 4
+ 
+• TCU = Telecommunication Control Unit (Hermes/Ramses/Etc...)
+• QT = Quicktest
+• XD = XENTRY Diagnosis
+Control Unit Identification:
+Refer to the attachment "Control Unit Nomenclature" for location of each.
+• Control Unit Name
+• Control Unit Number
+• Control Unit Short name
+• Control Unit Diogenes ("dy-oj-uh-neez") name - Control unit variant/family.
+Network/Wiring Architecture to Baumuster Quick Reference:
+Star 1
+• 117, 156, 246 (MFA)
+• 166, 176, 221, 242, 246, 292
+Star 2
+• 205, 213, 238, 253, 257, 290 (MRA)
+• 117, 156, 246 (MFA)
+• 118, 177, 243, 247 (MFA2)
+• 167, 222, 292, 463, 465, 906
+Star 3
+• 294, 295, 296, 297 (EVA2)
+• 206, 214, 223, 236, 254 (MRA2)
+• 192 and 232 (MSA)
+• 907
+Platform to Baumuster Quick Reference:
+MRA = "Mercedes-Benz Rearwheel Architecture":
+• 205
+• 213
+• 222
+• 238
+• 253
+• 257
+• 290
+MRA2 = "Mercedes-Benz Rearwheel Architecture - Generation 2":
+• 206
+• 214
+• 223
+• 236
+• 254
+MFA = "Mercedes-Benz Frontwheel Architecture"
+21.02.2025   17:26   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 4
+ 
+• 117
+• 156
+• 246
+MFA2 = "Mercedes-Benz Frontwheel Architecture - Generation 2"
+• 118
+• 177
+• 243
+• 247
+EVA1.5 = "Electric Vehicle Architecture"
+• 243
+EVA2 = "Electric Vehicle Architecture - Generation 2"
+• 294
+• 295
+• 296
+• 297
+MSA = "Mercedes-Benz Sport Architecture"
+• 192
+• 232
+MMA = "Mercedes-Benz Modular Architecture"
+• No vehicles currently launched.
+Attachments
+File Description
+Control Unit Nomenclature.png
+ Control Unit Nomenclature
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+21.02.2025   17:26   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  3 / 4
+ 
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Overall vehicle  > Complete vehicle  > Modified to
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+21.02.2025   17:26   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  4 / 4

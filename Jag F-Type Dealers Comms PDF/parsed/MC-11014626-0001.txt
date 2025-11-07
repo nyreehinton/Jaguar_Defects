@@ -1,0 +1,63 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)KV7
+ConditionSome customers ma y state that all of 120V Accessory Power
+Outlets on the vehicle are Inoperative and there are no DTCs.
+CauseThis can be caused by the bare ground wire touching the Phase
+A or Phase B terminal at the X225 connector or the bare ground
+wire cutting into a Phase A or Phase B wire near the right side
+of the vehicle near the frunk  110V receptacle. See examples
+below
+ 
+Bulletin No.: PIT6277A
+Published date: 02/25/2025
+Preliminary Information
+PIT6277A Diagnostic Aid: 120V AC Accessory Power Outlet
+Inoperative With No DTCs
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado EV Models 2024 - 2025 All AllAll All
+GMC Sierra Denali EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inspect the X225 connector for the drain wire touching the Phase A or B wire as
+shown below: 
+Inspect the  bare ground wire cutting into a Phase A or Phase B wire near the right side of
+the vehicle near the frunk  110V receptacle near the right front horn assembly . See photos
+below: 
+ 
+Area of concern near right front horn assembly
+ 
+ 
+Close up view showing area of concern. 
+Version 2
+Modiﬁed 11/22/2024 - Created on.  
+02/252025- Updated  photos. 
+ 
+ 
+Correction:
+1) Inspect the bare ground wire at connector X225 for the bare wire touching the Phase A
+or B terminals. If the bare wire is touching, reroute the wire awa y from the Phase A and B
+terminals and isolate with electrical tape if needed.
+2) Inspect ground wire cutting into Phase A and/or Phase B wire. If the bare wire is
+touching, reroute wire in harness and isolate with electrical tape and repair the wire
+damage to the Phase A and/or Phase B wires
+ 
+3) If you perform either repair above,  push the reset button in the X81 Pick up box
+powerpack outlets and cycle the ignition and retest system.
+Warranty Information
+For wiring repairs covered under warranty , please refer to latest version of
+bulletin  10-00-89-005  for warranty information on wire/connector repairs.
+ 
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

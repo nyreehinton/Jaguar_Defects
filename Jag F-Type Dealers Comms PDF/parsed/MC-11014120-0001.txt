@@ -1,0 +1,49 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Check Engine Light DTC P044671Ref. No.
+TJ 37073.3.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/13/25Status Date
+1/24/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+2345
+Function Description
+Evaporator systemPage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+If the customer experiences an intermittent CEL and DTC P044671 is set with no other symptoms, 
+follow advice under service.
+CEL: Check Engine Light
+CSC   Customer Symptom Codes
+Code Description
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+ECM P044671 Permanent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+246 M1 BM1KERS 2025-2025 - 202417-202446
+256 M1 BM1KERS 2025-2025 - 202417-202446
+SERVICE:
+Do not replace any parts. This is not hardware related. 
+A software solution was introduced with version 3.3.16. Perform a Total Upgrade according to TJ 
+31543.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+Page 2 of 2 2025-01-24
+Technical Journal 37073.3.0VST   Operation Number
+VST Operation Number Description
+36004-2 Software Control Module Downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support needed” , use function group 2345.

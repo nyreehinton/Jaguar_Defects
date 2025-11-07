@@ -1,0 +1,140 @@
+THIS ITS DOCUMENT SHOULD BE RETAINED AND REFERRED TO FOR FUTURE MAINTENANCE UNTIL 
+THE NEW FLYER PARTS AND/OR SERVICE MANUAL IS UPDATED TO REFLECT WORK DONE AS A 
+RESULT OF THIS DOCUMENT. ENSURE THAT THIS DOCUMENT IS AVAILABLE FOR PARTS AND 
+MAINTENANCE STAFF GOING FORWARD. 
+ 
+ 
+  
+This document and the contents discussed herein are the confidential and proprietary information of New Flyer Industries Canada 
+ULC and New Flyer of America Inc. and are disclosed by New Flyer in confidence. This document and the contents herein are not 
+to be disclosed by the intended recipient without the prior written authorization of New Flyer. Any unauthorized disclosure, 
+reproduction or other distribution of this document or information strictly prohibited and may result in action being taken against 
+the party making the unauthorized disclosure. This document and all copies hereof must be returned to New Flyer upon request.   
+INSTRUCTION TO SERVICE  
+ 
+ITS-61148  09/16/2024  
+SECTION: 203 - Suspension Front 
+SUBJECT: Check steering box mounting bracket bolt torque & check bracket for cracks. 
+ISSUE: Buses were found with loose steering box mounting bracket bolts and damaged 
+brackets. 
+SUMMARY: Check the four mounting bolts that attach the steering box mounting bracket to 
+the frame of the bus to ensure they are torqued to the correct value. Check the 
+brackets around any loose bolts to ensure the bracket is not damaged or 
+cracked. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ITS-61148 
+ 
+ 
+Ref. NHTSA Recall No. Ref. Transport Canada Recall No. 
+Not Applicable Not Applicable 
+  
+
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61148 
+ 
+ 
+ITS-61148 Page 2 of 4 09/16/2024  
+PROCEDURE: 
+1. Set park brake and chock wheels. 
+2. Turn the main battery disconnect switch to the “OFF” position. 
+3. Open the access door at the streetside front of the bus and locate the steering box and steering box mounting 
+bracket in front of the streetside front wheel. 
+4. Raise the bus in accordance with the lifting procedures in the Service Manual. 
+ 
+ 
+ 
+ 
+Figure 1: Front Steering Box Mounting Bracket & Bolts 
+ 
+5. Using a calibrated torque wrench check the torque on the four mounting nuts and bolts that secure the 
+steering box mounting bracket to the frame of the bus. The hardware should be torqued to 165 ± 8 Ft-Lbs. 
+Apply a torque stripe after the fasteners are torqued to spec. Record the bus number of any vehicle found to 
+have loose bolts and report to your New Flyer Regional Support Manager. 
+a) If the hardware is loose and has been damaged, the damaged hardware should be replaced with a new 
+bolt NF P/N 10B12036, two washers NF P/N 20W12000 and a nut NF P/N 042439. Torque hardware to 
+165 ± 8 Ft-Lbs using Never Seize NF P/N 5928660 on the fastener threads. Apply a torque stripe after the 
+fasteners are torqued to spec. 
+Steering Box Mounting bracket. 
+Mounting Bolts 
+Mounting Bolts 
+
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61148 
+ 
+ 
+ITS-61148 Page 3 of 4 09/16/2024  
+ 
+6. Check the steering box mounting bracket for cracks around the mounting bolts. If the bracket is cracked it 
+must be replaced with a new bracket NF P/N 328380. See Section 3 (2.12.5.) of the Service Manual for 
+steering box removal instructions and Section 3 (2.12.10.) for reinstallation instructions. 
+ 
+ 
+Figure 2: Example of Cracks at Curbside Rear Steering Box Bracket Mounting Bolt. 
+ 
+7. Remove all tools and debris from work area to return coach to service condition. 
+8. Lower the bus. 
+9. Close and secure the streetside front access door. 
+10. Turn the main battery disconnect switch to the “ON” position. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Crack Crack 
+ 
+ INSTRUCTION TO SERVICE 
+ITS-61148 
+ 
+ 
+ITS-61148 Page 4 of 4 09/16/2024  
+LABOUR ESTIMATE 
+ Operation Number of 
+Technician(s) Hours Labor Time 
+T X HR 
+1 Check the bolt torque on the steering box bracket 
+mounting bolts and check the bracket for cracks. 1 1.0 1.0 
+2 Check torque, check brackets. Replace up to four 
+damaged fasteners 1 1.25 1.25 
+3 Check torque, check brackets. Replace the mounting 
+bracket and four fasteners. 1 3.0 3.0 
+ 
+PARTS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. 
+per 
+Coach  
+Units  
+Notes 
+1 10B12036 BOLT HEX3/4 UNC X 2.25 4 EA If Required 
+2 20W12000 WASHER FLAT HARDENED 3/4" 8 EA If Required 
+3 042439 NUT LOCK PREVAILLING TORQUE 3/4" - 
+10 UNC 4 EA 
+If Required 
+4 5928660 NEVER SEIZE 0.01 EA If Required 
+5 328380 PLATE-STRG GEAR SUPPORT 1 EA If Required 
+ 
+SPECIAL TOOLS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. Units Notes 
+1  No Special Tools Required.    
+ 
+ 
+ 

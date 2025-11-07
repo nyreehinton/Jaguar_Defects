@@ -1,0 +1,54 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 25-NA-017
+Service BulletinDate: January, 2025
+TECHNICAL
+Center Console Storage Door Difficult to Open and/or Binding or Stuck
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Blazer EV 2024 2025 - - All All
+ 
+Involved Region or CountryUnited States, Canada, Mexico, Middle East, Israel, Palestine, Argentina (Mercosur),
+Brazil (Mercosur), Chile (West), Colombia (West), Ecuador (West), Uruguay (West)
+ConditionSome customers my comment that the center console storage door is difficult to open,
+binding or stuck.
+Cause The floor compartment upper panel may be distorting and causing a bind condition.
+Correction Complete the procedure outlined below.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool, and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+ 
+Service Procedure
+Remove the floor console upper panel. Refer to Front Floor Console Upper Panel Replacement  in Si.
+Page 2 January, 2025 Bulletin No.: 25-NA-017
+6825579
+6825581
+Remove the rib with suitable tool from the retention feature pictured above.
+Reinstall and check for proper smooth operation.
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Bulletin No.: 25-NA-017 January, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+*2086978 Remove and Modify Floor Console Upper Panel 1.5 hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 1
+Modified Released January 29, 2025

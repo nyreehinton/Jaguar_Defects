@@ -1,0 +1,71 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Interior Door Deco Light not FunctioningRef. No.
+TJ 37035.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/8/25Status Date
+1/24/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3541
+Function Description
+Lighting, interior, completePage
+Page 1 of 4Attachment
+File Name File Size
+TJ_37035_1.JPG 0.1290 MB
+TJ_37035_2.JPG 0.0814 MB
+TJ_37035_3.JPG 0.0624 MB
+DESCRIPTION:
+If a vehicle is reported with a complaint about a non-functioning interior deco backlight in the door, 
+please follow advice under “Service” .
+CSC   Customer Symptom Codes
+Code Description
+YE Courtesy lighting/Does not work
+7K Instrument lighting/Dimmer does not work
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-9999 - 202417-999952
+SERVICE:
+1. Check the Connector:
+• Examine the connectors of the Deco backlight. Refer to the attached images SE_37035_1.jpeg 
+and SE_37035_2.jpeg for guidance.
+2. Reconnect if Necessary:
+• If any of the connectors are disconnected, reattach them securely. Use the instructions in the 
+image SE_37035_2.jpeg for reference.
+3. Secure Connection:
+• Ensure the connector is firmly in place. If you are unable to secure it properly, proceed to the 
+next step.
+Page 2 of 4 2025-01-24
+Technical Journal 37035.1.04. Inspect the Pins:
+• Check the pins for any damage. Refer to the attached image SE-37035_3.jpeg for an 
+example of damaged pins.
+• If the pins are damaged, you will need to replace the Door Deco to rectify the issue.
+5. Restore Connection:
+• Once the connection is restored, the Deco backlight should function properly.
+By following these steps, you can ensure the Deco backlight is connected and operational.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+85120-2 Panel side door front remove-install
+99921-2 General Reimbursement
+85122-2 Panel side door rear remove-install
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+3541.
+ 
+To view TJ attachments continue to next page.  This TJ has three attachments.
+2025-01-24 Page 3 of 4
+Technical Journal 37035.1.0
+
+Page 4 of 4 2025-01-24
+Technical Journal 37035.1.0

@@ -1,0 +1,81 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-216
+Service BulletinDate: February, 2025
+TECHNICAL
+Rattle Noise from Exhaust
+This Service Bulletin replaces PIC6337A. Please discard all versions of PIC6337.
+Brand: Model: Model Year: VIN: Engine: Transmission
+:from to from to
+Chevrolet Camaro 2018 2024 — — 3.6L (LGX) —
+Involved Region or CountryNorth America, Argentina, Brazil, Bolivia, Chile, Colombia, Paraguay, Peru, Uruguay,
+Europe, Russia, Middle East, Israel, Palestine, Japan, China, Taiwan, Thailand,
+Philippines, Other Africa
+Additional Options (RPOs)NPP (EXHAUST SYSTEM-PERFORMANCE)
+N10 (EXHAUST SYSTEM-DUAL)
+ConditionSome customers may comment on an exhaust rattle noise heard coming from the
+vehicle. 
+Technicians may automatically look at the exhaust valves for noise concerns. 
+CauseThis condition may be caused by the exhaust resonator.
+5124927Subject:
+Page 2 February, 2025 Bulletin No.: 23-NA-216
+5124929
+5118372
+Note: Corrosion alone will not cause this concern.  The quality of the actual welds is the
+issue.  Dealership technicians are to inspect both the lower weld on the bottom of the res-
+onator, as well as the upper weld on top of the resonator for signs of cracking.
+- There is a tube located in the center of the resonator as shown in the graphic
+above. This is NOT a drain tube for condensation inside the exhaust system. This pipe
+is a structural component of the resonator that stiffens the upper and lower halves of
+the assembly. The welds holding this tube in place may crack, resulting in a rattle
+noise that can be heard by the owner of the vehicle.  This will be most noticeable
+when starting the engine and/or applying the throttle. 
+CorrectionInspect the lower weld on the bottom of the resonator, as well as the upper weld on top of
+the resonator for signs of cracking. If the concern listed above has been found, replace
+the rear portion of the exhaust system.
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Bulletin No.: 23-NA-216 February, 2025 Page 3
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONService Procedure
+Refer to Exhaust Muffler Replacement .
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+X
+MUFFLER, EXH
+(W/ EXH AFTER-
+TREATMENT)85590474
+(exhaust
+RPO N10)1
+X85590473
+(exhaust
+RPO NPP)1
+N/ACLAMP, CTLTC
+CONV22860193 1
+N/AGASKET, CTLTC
+CONV23355685 1
+Warranty Information
+For vehicles repaired under warranty, use:
+Labor
+OperationDescription Labor Time
+4051530Exhaust Muffler
+ReplacementUse
+Published
+Labor
+Operation
+Time
+Version 3
+ModifiedReleased January 22, 2024
+Revised February 13, 2024 – Removed Korea from Involved Region or Country section.
+Revised February 19, 2025 – Added 85590473 Exhaust Muffler to Parts Information
+section.

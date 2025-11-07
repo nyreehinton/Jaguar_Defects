@@ -1,0 +1,111 @@
+Volvo Car USA LLC  Quality Bulletin
+Bulletin Title
+Complimentary Upgrade - C000017, Model Year 2023-2025 S60, 
+V60, V60CC, V90, V90CC, S90, XC60, XC90, XC40, C40, EX90Group
+30NO
+C000017
+Issuer (Dept.)
+Product, Safety and ComplianceCar Market
+United States and CanadaIssue Date
+1/15/25Status Date
+1/15/25
+Revisions Page
+Page 1 of 3A. C OMPLIMENTARY UPGRADE C000017 DESCRIPTION
+B. VEHICLE
+S INVOLVED
+C. P
+ORT VEHICLES if applicable
+D. P
+ARTS INFORMATION/PARTS RETURN if applicable
+E. O
+WNER NOTIFICATION
+F . VEHICLE
+S IN RETAILER INVENTORY
+G. RET
+AILER RESPONSIBILITY
+H. TE
+CHNICIAN COMPETENCY REQUIREMENT
+I
+. C
+AMPAIGN REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE
+A. COMPLIMENTARY UPGRADE C000017 DESCRIPTION
+Volvo Car USA LLC and Volvo Car Canada LTD, on behalf of Volvo Car Corporation, has decided 
+to launch Complimentary Upgrade – C000017 on certain Android-based Infotainment system  
+(iCup) vehicles that have missed three (3) or more consecutive Over-The-Air (OTA) downloads.
+C000017 also addresses cer tain EX90s that have missed one (1) or more OTA downloads.
+Complimentary Upgrade C000017 addresses vehicles that are no longer able to receiv e OTA 
+updates. This Upgrade is necessary to have the correct baseline for future OTA deplo yments. In 
+order to explain the features and benefi ts we recommend noting the software level before the 
+download is completed. This will aid in explaining to the customer what improvements have 
+been added since their last software download.
+To remedy concerned cars, please follow the instructions outlined in TJ 36139.
+Complimentary Upgrade C000017 includes some of following software updates:
+They can also be found here:
+https://www.volvocars.com/lb/support/software-release-notes
+SPA, Software Version 3.3.16
+Android Auto can be used with Android devices via the center display, your Android phone or 
+with the right-side steering wheel buttons. When installed, it lets you listen to music, make 
+calls, get driving directions and use apps customized for your car. To use the Android Auto app, 
+it needs to be installed on your Android device and connected to the internet.
+Page 2 of 3 2025-01-15
+Quality Bulletin C000017HD Radio allows the car to receive digital versions of radio stations. Listening to digital radio 
+can give you better sound and a smoother listening experience. When you’re listening to an HD 
+Radio station, you will see the HD Radio symbol in the center display. You can see HD Radio 
+symbols in the radio app’s stations list and now playing view.
+General improvements
+• Road sign information performance
+• Camera image brightness for model year 2024 and later cars.
+• Drivetrain and power supply that do not affect performance or emissions.
+EX90, Software Version 1.1.23
+• General stability improvements
+PLEASE NOTE:  The claim type for the Complimentary Upgrade will change with every OTA 
+release, e.i. “C000XX” .
+B. VEHICLES INVOLVED
+NOTE:  RETAILER MUST CONFIRM VEHICLE ELIGIBILITY PRIOR TO BEGINNING 
+THE REPAIR FOR THIS COMPLIMENTARY UPGRADE.
+Vehicle eligibility must be confirmed:
+• Vehicle Inquiry – Warranty Vehicle Inquiry where the message “Complimentary Upgrade 
+C000017” will appear for eligible vehicles, F4=History from the main Inquiry menu must 
+be selected to confirm Complimentary Upgrade C000017 has not been completed. 
+Eligibility can also be confirmed in TIE. 
+All vehicles must be checked for any incomplete recalls or service campaigns or service 
+upgrades. All open Recall, Service Campaign or Service Action repairs must be completed.
+If you have any questions concerning this recall, send them to recall@volvocars.com. 
+C.  PORT VEHICLES
+Vehicles marked for Complimentary Upgrade C000017 will not be done at the port. It is the 
+retailer’s responsibility to perform on eligible vehicles. Pre-Delivery Software (PDS) will satisfy 
+the requirements under Complimentary Upgrade C000017.  
+D. PARTS / PARTS RETURN 
+No parts are required to be returned for this Complimentary Upgrade.
+E.  OWNER NOTIFICATION
+No owner notification for C000017. 
+2025-01-15 Page 3 of 3
+Quality Bulletin C000017F .  VEHICLES IN RETAILER INVENTORY
+New Vehicles in Retailer Inventory
+Vehicles marked for Complimentary Upgrade C000017 that have not been retail delivered 
+should install Pre-Delivery Software (PDS). The PDS software will satisfy the requirements of 
+C000017.
+Used Vehicles in Retailer Inventory
+Please check Vehicle Inquiry, TIE, or VIDA for vehicle eligibility. 
+G.  RETAILER RESPONSIBILITY
+All vehicles qualifying for this Complimentary Upgrade must be repaired prior to a customer 
+taking possession of the vehicle at new car delivery and or at any service appointment.
+H. TECHNICIAN COMPETENCY REQUIREMENT 
+The technician competency requirement for this campaign repair is Quality/G0. 
+I. REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE 
+Complimentary Upgrade C000017 claims should be submitted using the LONG FORM 
+application only.
+Claim Type:  C000017
+Cause Code:  97 
+CSC Code:  52
+Main OP:  36004-2
+Failed Part:  31676056 (XC40/C40) 31472405 (S90L) 31654144 (S/V/90/CC)  
+ 31483292 (XC60/XC90) 31493704 (S/V/60/CC) 32425147 (EX90)
+Operation 
+NumberRepair Description Qty Variant Labor Time
+36004-2 Software Control Module downloading 1 SPA 0.3
+36004-2 Software Control Module downloading 1 EX90 0.5
+*Labor times provided are current at the time of release and are subject to change:  Claims 
+will be paid at the time in effect on the repair date.
+*Volvo will be manually marking C000017 completed when PDS and 2.0 software has been 
+installed on an eligible vehicle and the vehicle is reported retail delivered. 

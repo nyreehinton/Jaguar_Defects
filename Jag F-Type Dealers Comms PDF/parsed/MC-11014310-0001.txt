@@ -1,0 +1,39 @@
+Labor Operation: Description Labor Time:
+ * 4089468   Diagnose Engine Chirp Noise  0.3 Hr.
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/14/2025 - Created on.
+Bulletin No.: PIP6045
+Published date: 02/14/2025
+Preliminary Information
+PIP6045 Diagnostic Tip: Chirp Noise Heard From Inside Engine
+Compartment
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All All2.5 LK0 All
+Chevr oletTraverse 2024 - 2025 All All2.5 LK0 All
+GMC Acadia 2024 - 2025 All All2.5 LK0 All
+Involved Region or
+Country:North America 
+Condition: Chirp noise heard from engine compartment
+Cause:  Engineering currently investigating root cause
+Correction
+If you encounter a chirp type noise coming that is coming from inside the engine do not
+attempt any repairs at this time as Engineering is currently investigating the root cause of
+the condition.
+Note: This noise ma y be intermittent in nature and is not temperature dependent.
+Reference audio ﬁle below for chirp noise.
+SEE Service Information or attached video below 
+6833913 V ideo
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation.
+Reference the Applicable W arranties section of Investigate V ehicle History (IVH) for
+coverage information.
+ 
+Version History
+ 
+ 
+Attachments
+chirp.mp4
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

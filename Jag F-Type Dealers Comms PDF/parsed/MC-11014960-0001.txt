@@ -1,0 +1,27 @@
+ 
+ 
+ 
+Kia America, Inc.  
+ Release Notes  of OTA Software Update  
+1 
+ February  27, 2025  
+ Software Update for Central Communication Unit   
+EV9  I February 2 7 2025  
+This Over -the-Air (OTA ) software update is designed to update  the Central Communication Unit  (CCU ) 
+logic of certain  2024 and 2025  EV9 vehicles .  This update is designed to help reduce auxiliary battery 
+power consumption while the vehicle is turned off . 
+ 
+1. Vehicle Model  2024 and 2025  EV9 
+(produced between 5/16/2024 – 12/19/2024 ) 
+2. Time Required  OTA Update  (in-vehicle) : 7 minutes  approx.  
+Once this software is downloaded by the vehicle, and the 
+vehicle is powered off, a pop -up will be display ed on the 
+infotainment screen . 
+Additional information : This OTA will  be rolled -out to all eligible  EV9 vehicles w ith an active Kia 
+Connect account.  
+ 
+If you have any questions, please contact the Kia Connect Call Center  (844) 886 -9411 . 
+Reference Service Action 608. 
+For more information on Over -the-Air software update s, please visit our website:  
+https://owners.kia.com/content/owners/en/ota -software -update.html   
+ 

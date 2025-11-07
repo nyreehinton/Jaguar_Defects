@@ -1,0 +1,71 @@
+1 
+ 
+ 
+ 
+Units:  T-1090  Spectrum  
+Description:  SR-3 Multi -Temperature  Base Controller Software Revision F047 was released in 
+the 1st Quarter of 202 4. This software is available from Thermo King® e -Tech  
+Library and includes the features listed below.  
+Note:  New Multi-Temperature Base Controllers are labeled D0A3. Multi -Temperature 
+software is then loaded onto them.  
+Summary:  New SR -3 Base Controllers loaded with D0A3  cannot be loaded with older 
+software. If older software is loaded onto F047  Base Controllers, Alarm Code 68 
+(Internal Controller Fault) may be present as well as invalid sensor readings 
+showing dashes, possibly without alarm codes.  
+F047 is backwards compatible with Base Controllers not loaded with D0A 3. Refer 
+to image of identification label below.  
+F047 is available for new SR - Base Controllers only. Aftermarket SR -3 Base 
+Controllers come with D0A3 and must be flashloaded to F047 . Refer to image of 
+identification label below.  
+ 
+ 
+Features:  
+• F047 has been released to address erroneous alarm codes such as 45, 67, 110, 112 , and 
+144. 
+Date:  February 25, 2025  
+Subject:  SR-3 Multi -Temperature Base Controller Software Revision F047 
+Location:  e-Tech Library    Service  Bulletin  
+  SB932-1 
+ 
+2 
+ • These alarms  can be set when using the new expansion module PN 452975 and software 
+F046.  
+• If new expansion module is installed, load new software F047.  
+IMPORTANT:  SR-3 Base Controller software F047 and HMI Control Panel software 75C4 or 
+above are both required for full feature availability.  
+IMPORTANT : Unless otherwise noted, software upgrades made to units with previous 
+software revisions are not covered by a warranty labor allowance. This upgrade is made at 
+the discretion of dealers and with the agreement of the unit owner or operator.  
+NOTE:  If an SR -3 Controller with F04 7 is replacing an SR -2 Controller, the SR -2 HMI (4 MB) 
+must be flashloaded with HMI software 68C4 to be compatible with F04 7. 
+WinTrac ® and OptiSet ® Plus Software Requirements:  
+SR-3 truck applications with F04 7 require WinTrac 6. 10 or later.  
+Availability:  
+Base Controller software and HMI Control Panel software are both available from Thermo King® 
+e-Tech Library . 
+• SR-3 Base Controller F047 Software - The file name for the *.ZIP file containing both the 
+traditional  mXX and cXX files and the *.FLA file is Micro Code Update F047 for the SR -3 
+Single Temp Base Controller.zip. Click this file to download the software.  
+ 
+• HMI Control Panel 75C4 Software - The file name for the *.ZIP file containing both the 
+traditional mXX and c XX files and the *.FLA file is Micro Code 75C4 Update for the SR -3 
+HMI Control Panel.zip. Click this file to download the software.  
+When Base Controller and/or HMI Control Panel flashload files are downloaded from Thermo King 
+e-Tech  Library, they are downloaded as a *.ZIP file. When flashload files for these SR -3 
+applications are unzipped, there will be three files.  
+• The traditional *.mXX and *.cXX files will be unzipped. These two files are for use when flashloading the SR -3 unit in the traditional manner by using a data cable to connect the SR -
+3 unit to a computer equipped with WinTrac.  
+NOTE: Both the *.mXX and *.cXX files must be present in order to perform a flashload using 
+a data cable, even though only one of them is shown by WinTrac.  
+• A *.FLA file will also be unzipped. This file is for use when flashloading a unit using a WinTrac configured USB Flash Drive. Refer to TT611 - FLA Files for SR- 3 Single 
+Temperature Units  for more information about using FLA files.  
+NOTE:  If the USB Flash Drive is used, the appropriate *.fla file must be placed on a WinTrac  
+configured Flash Drive. The *.fla files must be placed in the appropriate folders on the Flash Drive.  
+3 
+ Flash loading:  
+For additional information on flashloading software using a computer, WinTrac, and a data cable, 
+refer to Section 6 of the SR -3 Truck Single Temp Diagnostic Manual ( TK 55208).  
+• Service Procedure A46A Flash loading Base Controller Software  
+• Service Procedure A46B Flash loading HMI Control Panel Software 
+NOTE: T-90 units do not have a 4 pin to 5 pin Deutsch connector included. To connect to the 
+Base Controller , use a 4 pin to 5 pin Deutsch cable such as aftermarket PN 415484.  

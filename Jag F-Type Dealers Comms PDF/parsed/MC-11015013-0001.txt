@@ -1,0 +1,443 @@
+ 
+ Service Bulletin  21-047 
+ 
+February 19, 2025 Version  6 
+ 
+ 
+Warranty  Extension:  2016 -20 HR-V CVT Premature  Belt Deterioration  
+Supersedes  21-047, Dated  April 29 , 2023, to revise  the information  highlighted  in yellow.  
+ 
+APPLIES TO  
+ 
+Year  Model  Trim  VIN Range  
+2016 –20 HR-V 2WD  & AWD  (CVT  models 
+only)  ALL Check  the iN VIN status  for eligibility.  
+ 
+REVISION  SUMMARY  
+Under  INSPECTION PROCEDURE AND CONFIRMATION OF FAILED CVT , information was changed . 
+ 
+BACKGROUND  
+Due to the possibility  of early  deterioration  of the Continuous  Variable  Transmission  (CVT)  drive  belt, American  Honda  is 
+extending the warranty coverage on these CVT models to 7 years from the original date of purchase or 150,000 miles, 
+whichever comes first. If the PCM software was previously updated in service bulletin 21 -046, Product Update: 2016 -20 
+HR-V Software Update and CVT Inspection , the warranty extension applies, since the CVT primary drive belt is now a 
+OBD -monitored part due to the addition of DTC P271E.  
+ 
+CUSTOMER  NOTIFICATION  
+Owners of affected vehicles will be sent a notification of this campaign. 
+Do an iN VIN status  inquiry  to make  sure the vehicle  is shown  as eligible.  
+Some  vehicles  affected  by this campaign  may be in your new or used  vehicle  inventory.  Repair  these  vehicles  before  they 
+are sold.  
+ 
+CORRECTIVE  ACTION  
+Replace  the Continuously  Variable  Transmission  (CVT).  
+NOTE:  Update  the Continuously  Variable  Transmission  (CVT)  PCM  software,  and do the CVT inspection  before  doing  this 
+repair. Refer to service bulletin 21 -046, Product Update: 2016 -20 HR -V Software Update and CVT Inspection.  
+ 
+PARTS  INFORMATION  
+ 
+Part Name  Part Number  Quantity  
+Transmission  Assembly  06200 -52P-A02RM  1 
+Transmission  Assembly  06200 -52N-A04RM  1 
+Transmission  Assembly  06200 -52P-A70RM  1 
+ 
+ 
+ 
+ 
+  © 2025 American  Honda  Motor  Co., Inc. – All Rights  Reserved          Page  1 of 22 
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do -it-yourselfers,” and you should not 
+assume  this bulletin  applies  to your vehicle, or  that your vehicle  has the condition  described.  To determine  whether  this information  applies,  contact 
+an authorized Honda automobile dealer.  
+Page  2 of 23  NOTE: After the vehicle was updated and if the CVT failed the magnet inspection in service bulletin 21 -046, Product 
+Update:  2016 -20 HR-V Software  Update  and CVT Inspection , to order  a replacement  transmission  fill out AT/CVT  Order 
+form under Reman Parts/Special Orders section on iN. You will need to have the following information:  
+• Provide  a clear  picture  of the magnet  sticking  on the CVT oil pan at the inspection  area (this picture  should  have  been 
+taken  during  the CVT magnet  inspection).  Also,  write  the last seven  characters  of the VIN on the transmission  oil pan. 
+ 
+• Drain  the CVT fluid through  a paint  strainer  as shown  below.  Provide  a clear  picture  of the inside  of the strainer 
+showing any contamination.  
+ 
+• Provide  a clear  picture  of any contaminants  on the end of the oil pan drain  plug.  
+ 
+
+Page  3 of 23  • Upload  the three  images  to the Tech  Line Image  Upload  page  before  submitting  the CVT order  form on iN. If you have 
+not contacted Tech Line then use the last 7 digits of the VIN for the Tech Line Reference No.  
+• If the 11th character  of the VIN has a letter  instead  of a number,  replace  it with a zero.  
+• Select  Tech  Line Agent  Name  –Tech_Line  . 
+ 
+• Fill out the AT/CVT Order  form under  Reman  Parts/Special  Orders  section  on iN. If the vehicle  is beyond  the 5 year / 
+60,000 mile warranty term use 21047 as the Goodwill VSC Authorization. This will allow the order to be processed 
+under the Extended warranty coverage, then continue filling out the remaining required information on the form.  
+ 
+• Once  the CVT order  & three  images  have  been  received,  your order  will be reviewed  by Remanufactured Parts 
+Operations  (RPO ). Additional  requests  and images may be required by RPO before release of the CVT.  
+
+Page  4 of 23  
+REQUIRED  MATERIALS  
+ 
+Materials  Part Number  Quantity  
+Honda  HCF-2 Continuously  Variable  Transmission  Fluid 
+(55-gallon drum)  08200 -9020   
+8 quarts  (AWD)  
+7 quarts  (FWD)  Honda  HCF-2 Continuously  Variable  Transmission  Fluid 
+(1-quart bottle)  08200 -HCF2  
+Disposable  Paint  Strainer  (pack  of 250) or Commercially 
+equivalent (fixes 250 vehicles)  PMICSM6  1 
+ 
+WARRANTY CLAIM INFORMATION  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+      NOTE: Check  the powertrain  and emissions  table  on the iN to verify  the applicable  coverage.  
+ 
+      Powertrain  Coverage  
+      NOTE:  If within 5 years/60,000 miles , use the operation number  below.  
+ 
+ Operation 
+Number  Description  Flat Rate 
+Time  Defect Code  Symptom Code  Failed Part 
+Number  
+218102  Transmission and 
+torque converter 
+exchange  5.0 hr   
+ 
+00504   
+ 
+03217   
+ 
+20031 -52N-A02 
+A With AWD add  0.4 hr  
+B Alignment add  0.4 hr  
+Page  5 of 23  Emissions  Coverage  
+      NOTE:  If between 5 years/60,0000  and 8 years/80,000  miles , use the operation number below.   
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template  ID Failed  Part Number  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2181CU  2016 -20 2WD  Replace 
+Transmission 8/80 
+Emissions Warranty 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+5.4 hr.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+00504   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03214   
+ 
+A21047A   
+ 
+20031 -52N-A02 
+2016 -18 AWD  Replace 
+Transmission 8/80 
+Emissions Warranty 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+ 
+ 
+ 
+5.8 hr.  
+ 
+A21047B   
+ 
+20031 -52P-A02 
+2019 -20 AWD  Replace 
+Transmission 8/80 
+Emissions Warranty 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+A21047C   
+ 
+20031 -52P-A70 
+ 
+      Warranty Extension  Coverage  
+      NOTE:  If between 5 years/80,0000  and 7 years/150,000  miles , use the operation number below.   
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template  ID Failed  Part Number  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2181CT  2016 -20 2WD  Replace 
+Transmission 7/150 
+Warranty Extension 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+5.4 hr.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6M900   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAT00   
+ 
+A21047D   
+ 
+20031 -52N-A02 
+2016 -18 AWD  Replace 
+Transmission 7/150 
+Warranty Extension 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+ 
+ 
+ 
+5.8 hr.  
+ 
+A21047E   
+ 
+20031 -52P-A02 
+2019 -20 AWD  Replace 
+Transmission 7/150 
+Warranty Extension 
+(Includes DTC clear, 
+alignment & VSA 
+sensor learn)   
+ 
+A21047F   
+ 
+20031 -52P-A70 
+Skill Level:  Repair  Technician  
+ 
+ 
+ 
+ 
+ 
+ 
+Page  6 of 23  INSPECTION  PROCEDURE  AND  CONFIRMATION  OF FAILED  CVT 
+The transmission  inspection  utilizes  a special  magnet  to detect  any metal  fragments  that may have  been  shed  from the 
+CVT belt. These  fragments  will collect  in the oil pan. The inspection  is done  by placing  a clear  template  on the CVT oil 
+pan. Refer to service bulletin 21 -046, Product Update: 2016 -20 HR -V Software Update and CVT Inspection . 
+If the PCM was updated and the CVT failed the magnet inspection on service bulletin 21 -046, Product Update: 2016 -20 
+HR-V Software  Update  and CVT Inspection , place an RPO order on SIS for  a replacement  transmission.  You will need  to 
+have the following information:  
+• Provide  a clear  picture  of the magnet  sticking  on the CVT oil pan at the inspection  area (this picture  should  have  been 
+taken during the CVT magnet inspection).  
+• Drain  the CVT fluid through  a paint  strainer  as shown  below.  Provide  a clear  picture  of the inside  of the strainer 
+showing any contamination.  
+• Provide  a clear  picture  of the magnet  on the end of the oil pan drain  plug.  
+• If you encounter  a situation  where  the magnet  sticks  but you do not find any metal  on the drain  plug or inside  the 
+strainer, you may be instructed to perform additional confirmation steps by RPO. 
+ 
+REPAIR PROCEDURE  
+1. Remove  wiper  arms  and cowl cover.  
+ 
+
+Page  7 of 23  2. Remove  the left and right front fender  covers.  
+ 
+3. Remove  the hood  rear seal. 
+ 
+4. Remove  the cowl cover.  
+ 
+
+Page  8 of 23  5. Remove  the dashboard  upper  lid. 
+ 
+6. If necessary,  remove  the dashboard  upper  lid insulator.  
+ 
+ 
+7. Remove  the front grille  cover.  
+ 
+ 
+8. Remove  the air intake  duct. 
+ 
+
+Page  9 of 23  9. Remove  the air cleaner.  
+ 
+10. Disconnect  and remove  the 12-volt battery.  Refer  to the service  information.  
+11. Remove  the bolts  and disconnect  the connectors.  
+ 
+12. Remove  the lock pin, control  pin, shift cable  bracket,  shift cable,  and engine  wire harness. 
+NOTE: Do not bend the shift cable excessively.  
+
+Page  10 of 23  13. Remove  the engine  cover,  harness  cover  bolts,  harness  bracket,  harness  holder,  disconnect  the connectors.  
+ 
+14. Remove  the bolts,  clamps,  and move  the harness  holder,  then remove  the bracket.  
+ 
+15. Attach  the universal  lifting  eyelet  to the cylinder  head.  
+ 
+
+Page  11 of 23  16. Install  the engine  support  hanger,  then attach  the hook  to the slotted  hole in the universal  lifting  eyelet.  Tighten  the 
+wing nut by hand and support the engine/transmission.  
+NOTE:  Be careful  when  working  around  the windshield.  
+ 
+17. Remove  the ground  cable  and the transmission  mount.  
+ 
+18. Raise  up the vehicle  and drain  the transmission  fluid.  Refer  to the service  information.  
+19. Remove  the front wheels.  Refer  to the service  information.  
+
+Page  12 of 23  20. Set the steering  column  to the center  tilt position  and to the center  telescopic  position.  Center  the steering  wheel 
+spoke angle and install a steering wheel holder.  
+ 
+21. Remove  the steering  joint cover.  
+ 
+ 
+22. Hold the spline  shaft  on the column  with a piece  of wire between  the joint yoke  of the spline  and the joint yoke  of 
+the spline tube to prevent the lower spline shaft from coming out.  
+ 
+ 
+
+Page  13 of 23  23. Remove  the steering  joint bolt. 
+ 
+24. Disconnect  the steering  joint from the pinon  shaft.  
+ 
+25. Remove  the center  guide  (if equipped)  and discard  it. 
+ 
+ 
+
+Page  14 of 23  26. Remove  the flange  bolt and self-locking  nuts,  then disconnect  the lower  arm from the lower  arm ball joint. 
+NOTE:  
+• Use new self-locking  nuts and flange  bolt during  reassembly.  
+• Tighten  the self-locking  nuts and the flange  bolt in the sequence  shown.  
+ 
+ 
+ 
+27. Remove  the self-locking  nut and the flange  nut while  holding  the joint pin with a hex wrench  and remove  the stabilizer 
+link. 
+ 
+
+Page  15 of 23  28. Disconnect  the connector  and remove  the secondary  HO2S.  
+ 
+ 
+29. Remove  the under -floor TWC  and the gaskets.  
+ 
+30. Lift and support  the engine  with a transmission  jack and a wood  block  under  the oil pan and remove  the torque  rod. 
+ 
+31. Remove  the torque  rod bracket  as needed.  
+ 
+
+Page  16 of 23  32. Attach a wood block (A) to the lower center of the front subframe, attach a transmission jack (C) to the center of the 
+wood  block.  Support  the front subframe  securely  by raising  the transmission  jack, remove  the front subframe  mounting 
+bolts (D) and the subframe rear stay mounting bolts (E). 
+ 
+33. Lower  the jack slowly  until the subframe  of the body  has dropped  about  30 mm. 
+NOTE: Do not lower the subframe more then required.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34. Remove  the steering  gearbox  stays  and remove  the gearbox  washer.  
+ 
+
+Page  17 of 23  35. Remove  the pinon  shaft  grommet.  
+ 
+36. Disconnect  the connectors  and remove  the harness  clamp.  
+NOTE:  To prevent  damage,  cover  the solenoid  wire harness  connector  using  a shop  towel.  
+ 
+37. Disconnect  the connector.  
+ 
+For 2WD  models,  go to step 46. 
+For AWD  models,  continue  to the next step.  
+
+Page  18 of 23  38. Remove  the front floor undercover.  
+NOTE:  The retainer  clips stay in the front floor under  cover.  
+ 
+39. Remove  the front fuel tank guard.  
+ 
+40. Remove  the canister  guard.  
+ 
+
+Page  19 of 23  41. Remove  the front center  member.  
+ 
+42. Remove  the propeller  shaft  protector.  
+ 
+
+Page  20 of 23  43. Make  a reference  mark  across  the No. 1 propeller  shaft,  transfer  the companion  flange,  then remove  the No. 1 
+propeller shaft flange bolts.  
+ 
+44. Make  a reference  mark  across  the No. 2 propeller  shaft,  the rear differential  companion  flange,  then remove  the No. 2 
+propeller shaft flange bolts.  
+ 
+45. Remove  the center  support  bearing  mounting  bolts.  
+ 
+
+Page  21 of 23  46. Remove  the torque  converter  cover.  
+ 
+47. Remove  the 8 torque  converter  bolts.  
+ 
+48. Disconnect  the left driveshaft  inboard  joint and secure  the driveshafts  to the body  with straps.  
+ 
+
+Page  22 of 23  49. Disconnect  the right driveshaft  inboard  joint and secure  the driveshaft  to the body  with straps.  
+ 
+50. Remove  the intermediate  shaft  bolts.  
+ 
+
+Page  23 of 23  51. Remove  the intermediate  shaft.  
+NOTE:  Hold the intermediate  shaft  horizontal  until it is clear  of the differential  to prevent  damaging  the oil seal. 
+ 
+ 
+52. Check  that the transmission  is free of hoses  and electrical  wiring,  lower  the transmission  by loosening  the wing nut of 
+the engine support hanger and tilt the engine just enough for the transmission to clear its end from the side frame. 
+Slide the transmission away from the engine, then remove the transmission from the vehicle.  
+NOTE:  Be careful  not to drop the torque  converter.  
+53. Install  the new CVT with the new torque  converter  installed.  
+NOTE:  It is very important  to use the new transmission  warmer  that comes  with the CVT instead  of re-using  the old 
+one to avoid contaminating the new CVT.  
+54. Install  all removed  parts  in the reverse  order  of removal.  
+55. Fill the CVT with fluid.  Refer  to the service information.  
+56. Do a wheel  alignment.  Refer  to the service  information.  
+57. Do a VSA sensor  neutral  position  memorization.  
+ 
+ 

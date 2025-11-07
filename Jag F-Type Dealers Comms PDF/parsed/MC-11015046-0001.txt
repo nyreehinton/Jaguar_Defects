@@ -1,0 +1,32 @@
+ 
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Center 
+Online does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear 
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the appropriate 
+course of action.  
+ 
+Chrysler Group LLC           Contact the STAR Center for assistance if no solution is found   Version 5/23/13   
+Case Number : S250800000 2  REV. C 
+ 
+Release Date:  February  2025 
+ 
+Symptom/ Vehicle Issue:  Mapping Interface Module (MIM) E rroneously Sets Diagnostic Trouble 
+Codes (DTCs)  B023C -49 and or U115C -00 
+ 
+Technician Observ ation: Technician observed  the MIM module set ting DTCs  B0239C -49 
+DASHCAM  Module 1 Internal Electronic Failure and/or U115C -00 Lost Communication With ETM.     
+ 
+Discussion : If these DTCs are observed, clear the DTCs, perform a module hard reset  found 
+under Guided Diagnostics tab – ECU Reset , wait 20 seconds and then allow a sleep cycle  and then 
+perform a proxi alignment if needed .  
+Then v erify the DXR app has been added to the radio  the update for the radio for this APP 
+should be available as an Application Over The Air (AOTA) update in the 1st quarter of 2025. If 
+U115C -00 persists, open the DXR app and accept the disclaimer. There has been some cases where 
+the update is delayed from heavy network traffic and or may require an extended sleep cycle to 
+complete  the update . 
+For the DTC B023C -49 it will require a MIM update that should be available by the 3rd quarter 
+of 2025. Do not perform service part replacements for the above concerns.  
+ 
+ 
+ 
+  

@@ -1,0 +1,39 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers ma y comment that they see a "Heavy F uel Use"
+message in the DIC at times while driving.
+CauseThis message comes on when the fuel range is low and the
+vehicle is consuming more fuel due to aggressive driving or
+towing.
+Bulletin No.: PIT6224A
+Published date: 02/5/2025
+Preliminary Information
+PIT6224A Diagnostic Tip - Heavy Fuel Use Message in DIC at times
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2023 - 2025 All AllAll All
+Cadillac Escalade ESV 2023 - 2025 All AllAll All
+Chevr oletSilverado 1500 2023 - 2025 All AllAll All
+Chevr oletSilverado 2500HD 2024 - 2025 All AllAll All
+Chevr oletSilverado 3500HD 2024 - 2025 All AllAll All
+Chevr oletSuburban 2023 - 2025 All AllAll All
+Chevr oletTahoe 2023 - 2025 All AllAll All
+GMC Sierra 1500 2023 - 2025 All AllAll All
+GMC Sierra 2500HD 2024 - 2025 All AllAll All
+GMC Sierra 3500HD 2024 - 2025 All AllAll All
+GMC Yukon 2023 - 2025 All AllAll All
+GMC Yukon XL 2023 - 2025 All AllAll All
+ 
+ 
+ 
+Version 2
+Modiﬁed08/22/2024 - Created on.  
+2/3/2025 - Updated Models and Model Y ear
+Correction:
+ This message is normal and indicates that fuel range will be decreased due to current
+driving habits.
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

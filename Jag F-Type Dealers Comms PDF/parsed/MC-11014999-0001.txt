@@ -1,0 +1,31 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250029 Released Date : 17-F eb-2025
+Incorr ect Low V oltage Data-Link Harness Labels
+Incorrect Low Voltage Data-Link Harness Labels
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+BES CM2450 EV111B
+Issue Summar y
+Sympt om:
+No oper ational impact
+Wrong labeling on terminating r esist ors will cause t o measur e/check/tr oubleshoot the wr ong
+data-link
+Affected data-link connections:
+“CAN 2 connection – X61”
+“CAN 3 connection – X63”
+“CAN 4 connection – X71”
+Root Cause:
+Incorr ect label on the terminating r esist ors
+Verification
+Verify the bus is Type D (SCM r ear) 
+Continuity check
+“CAN 2 – X61” t o any other data-link 2 connection
+“CAN 3 – X63” t o any other data-link 3 connection
+“CAN 4 – X71” t o any other data-link 4 connection
+Resolution
+Label terminating r esist ors with the corr ect data-link connection label.
+Document Hist ory
+Last Modified:  17- Feb-2025Date Details
+2025-2-11Module Cr eated

@@ -1,0 +1,104 @@
+AfterSalesJan 21, 2025
+Page 1 of 6992 Lightweight Rear Quarter Glass Panes Are Cracked
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+911 As of 2021 up to 2024 992110
+992120 
+991130 
+992140 
+992150 
+992410
+992420 
+992430 
+992440 
+992450 
+992460 
+992810 
+992820 
+992850 N /A N /A
+Revision History
+Revision Release Date Changes
+0 December 12, 2024 Original document
+1 January 21, 2025 Update of Model Year
+ 
+Advanced Technical Information 6Bulletin #: 2435.1
+Part ID: 6475
+AfterSalesJan 21, 2025
+Page 2 of 6Condition
+ The customer and the workshop find cracks in the rear quarter glass
+ (non-moveable side windowpane). These cracks are typically found 
+ toward the front of the vehicle, closer to the door. (Please see figure 1.)
+Technical Background
+ There are multiple causes for this condition. Generally, these causes relate to the amount of tension on the glass   
+ during and after the repair. The most common causes are:
+ • The quarter glass mounting nuts are over-torqued, increasing tension on the rear quarter glass.
+ • The door or door glass is misaligned. This can produce a collision between the door glass and the rear   
+  quarter glass or increase tension on the rear quarter glass.
+ • There is adhesive leakage on the body panel slightly reducing the geometry and increasing tension.
+ • There is an offset between the inner and outer body panels, changing the dimensions of the opening and   
+  increasing tension.
+ • The adjustable bolts are out of tolerance, which increases the tension on the glass.
+ • Customer behavior may also be a factor that causes cracks. The customer may inadvertently strike the glass  
+  with jewelry (including rings and watches) or allow his or her bodyweight to rest on the glass pane while   
+  exiting the vehicle.
+Advanced Technical Information 6Bulletin #: 2435 .1
+Part ID: 6475
+Figure 1
+AfterSalesJan 21, 2025
+Page 3 of 6 Please note, this document…
+ • …addresses cracks in the lightweight exterior rear quarter glass panes only. For more information regarding 
+  other lightweight glass cracking, please see  ATI - 992 6 2308.X - Lightweight Glass Panes Cracked –   
+  Identification and Possible Causes.
+ • …is not applicable to cracks caused by external influence.
+ • …only applies to vehicles with the option VW4 – Lightweight and Noise Insulated Glass .
+Service Information
+ Please replace the affected glass pane(s) as instructed in WM 647519 – Removing and installing side window   
+ (Coupe).
+ Repair tips:
+ 1. Generally, the goal is not to put the rear quarter glass pane under more tension than necessary for the repair. 
+ 2. Exercise caution when tightening the fastening nuts for the glass pane.  Applying too much torque to the   
+  fastening nuts may cause the glass pane to crack.
+ 3. Note that the door position also affects tension at the rear quarter glass. Please check the position of the   
+  door relative to the side  panel  (in yellow, on figure 2). The door may need to be adjusted outward slightly.
+Advanced Technical Information 6Bulletin #: 2435.1
+Part ID: 6475
+Figure 2
+AfterSalesJan 21, 2025
+Page 4 of 6 4. Adhesive overage may increase tension on the glass. Cut away and remove any excess adhesive. (The   
+  adhesive is blue on figure 3.)
+ 5. There should be no offset, or gap, between the inner and outer layers of the side body panel. (See figure 4.)
+Advanced Technical Information 6Bulletin #: 2435.1
+Part ID: 6475
+Figure 3
+Figure 4
+AfterSalesJan 21, 2025
+Page 5 of 6 6. Ensure the adjustable bolts are the correct length. Note: The adjustment may change during screwing due   
+  to the bolt rotating. (See figure 5 for values.)
+ 7. Adjust the side window outward using the window regulator adjusting bolt. (Note the values and illustration   
+  in figure 6.)
+ 8. Remind to customer to be careful not to strike the glass with jewelry and to exit the vehicle without    
+  allowing his or her weight to rest on the glass.
+Advanced Technical Information 6Bulletin #: 2435.1
+Part ID: 6475
+Figure 5
+Figure 6
+AfterSalesJan 21, 2025
+Page 6 of 6PCSS Coding
+ As always, please document the repair completely in PCSS. For this repair, please code the “cause” as follows:
+ 
+Location (FES5) 64750 Side window pane
+Damage type (SA4) 1521 Crack/ fissure 
+ Use appropriate labor operations for the entire repair. Cracks caused by outside influence (e.g., impact) may not be   
+ claimed under warranty.
+Search Items 
+ 992, 911, Lightweight glass, VW4, stress crack, quarter, door glass, windshield, window
+Advanced Technical Information 6Bulletin #: 2435.1
+Part ID: 6475
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+6000013914, 6000017825
+©2025 Porsche Cars North America, Inc.

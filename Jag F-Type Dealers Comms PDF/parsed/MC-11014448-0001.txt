@@ -1,0 +1,50 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers with passive k eyless entry ma y comment of a
+Service K eyless Entry or Start message and there will be no
+related DTCs.
+CauseThe cause of this condition could be an issue with one of the
+outside door handle switch inputs.
+Bulletin No.: PIT6276A
+Published date: 02/17/2025
+Preliminary Information
+PIT6276A Diagnostic Tips: Service Keyless Entry or Start Message
+With No Related DTCs
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Escalade 2021 - 2025 All AllAll All
+Cadillac Escalade ESV 2021 - 2025 All AllAll All
+Chevr oletSilverado 1500 2019 - 2025 All AllAll All
+Chevr oletSilverado 2500/3500 HD 2020 - 2025 All AllAll All
+Chevr oletSuburban 2021 - 2025 All AllAll All
+Chevr oletTahoe 2021 - 2025 All AllAll All
+GMC Sierra 1500 2019 - 2025 All AllAll All
+GMC Sierra 2500/3500 2020 - 2025 All AllAll All
+GMC Yukon 2021 - 2025 All AllAll All
+GMC Yukon XL 2021 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:  
+Please follow the SI diagnostics for "K eyless Entry System Malfunction", which includes
+checking the exterior door handle switches to verify the parameters change in the scan
+tool.
+If the parameter is not changing for a certain exterior door handle switch it could be
+caused by several things such as the door handle switch, wiring/connections between the
+door handle switch and module, etc.  
+Additionally , there has been cases where aftermark et exterior door handle covers have
+been installed and they have been known to interfere with the proper operation of the
+door handle switch.  
+In these cases, the aftermark et covers should be removed.  
+Warranty Information
+Any concerns or damage that occurs as a result of vehicle modiﬁcation ma y not be covered
+under the T erms of the New V ehicle Limited W arranty .
+Version 2
+Modiﬁed11/7/2024 - Created.  
+02/17/2025 - Update to the Title and Condition
+sectionsVersion History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

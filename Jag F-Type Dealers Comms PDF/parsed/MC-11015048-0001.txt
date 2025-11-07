@@ -1,0 +1,70 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:   S2423000008  Rev. A  
+ 
+Release Date:   March  2025 
+ 
+Symptom/Vehicle Issue : SOS Button Inoperative And Or Unavailable. B1552 -2A 
+Code Set.  
+ 
+Customer Complaint/T echnician Observation:   
+1. Owner may complain of one or more of the following  “SOS UNAVALIBLE” and or 
+“SOS CALL UNAVAILABLE”  message (s) on the radio. Technician may find 
+diagnostic trouble code (DTC) B1552 -2A-EMERGENCY CALL BUTTON -STUCK 
+is active.  
+ 
+2. Owner may come in for a Battery drain event and had to jump start the car . 
+Technician may find U114F -00 LOST COMMUNICATION WITH LIN 
+OVERHEAD CONSOLE  and/or B155 2-2A EMERGENCY CALL BUTTON -
+STUCK DTC active.  
+ 
+Discussion : 
+ 
+<<<Note>>>  The DTC B1552 -2A is in process of being revised to remove “Button 
+Stuck” from the description as this DTC can be triggered by multiple factors that result 
+in disrupted communication between the button and the body  control module ( BCM ) / 
+trans mission control module ( TCM ). 
+ 
+If the DTC B1552 -2A is set, then perform the following:  
+1.Lower the overhead console and verify the connection between the headliner 
+harness and the overhead console is fully engaged and locked. If DTC is no longer 
+active after locking the connector, clear faults, reinstall, the repair is complete.  If DTC 
+is still active go to step 2.  
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+2. Unplug the connector wait 30 seconds and reconnect.  If DTC is no longer 
+active, clear faults, reinstall, reference service library and continue diagnostic 
+procedure, do not replace the Overhead Console.  If the DTC is still active go to step 3.  
+3. Verify there is no plastic flash or film around the periphery of SOS button.  If 
+possible, clear the debris carefully with a hobby knife or tool. Use care to not mar the 
+plastic.  Verify the DTC is no longer active and reinstall the Overhead Console, the 
+repair is complete.  
+4. In case of Battery drain event and DTC’s B1552 -2A and  or U114F -00 being 
+active, the console might still be in “ sleep mode”. To wake it up, press the ASSIST, or 
+SOS or map reading or Dome ON Buttons. This will wake up the LIN Channel of the 
+overhead console and the DTC’s will go “Stored” and can be cleared away. If Button 
+press doesn’t wake up the console, also  “key on ” then “key off ” to allow a bus slee p 
+cycle of 2 minutes o r more followed by a “key on ”. 

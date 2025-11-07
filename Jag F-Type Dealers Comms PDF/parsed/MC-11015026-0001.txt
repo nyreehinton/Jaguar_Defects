@@ -1,0 +1,156 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+Case Number:   S2405000002  Rev. A  
+ 
+ 
+ 
+Release Date:   February 2025  
+ 
+ 
+ 
+Symptom/Vehicle Issue : Brake Light Switch Service Information . 
+ 
+ 
+ 
+Customer Complaint/T echnician Observation:   
+ 
+The DTCs and customer complaint may have started after recent service repair. 
+Incorrect removal of the brake switch could damage the switch.  Vehicle has brake lamp 
+switch diagnostic trouble codes (DTCs) such as : 
+ 
+P0572  BRAKE SWITCH 1 STUCK ON  
+P0573 BRAKE SWITCH 1 STUCK OFF  
+C1215-29 BRAKE LIGHT SWITCH  - INVALID SIGNAL  
+C1215 -02 BRAKE LIGHT SWITCH  - GENERAL SIGNAL FAILURE .  
+ 
+ 
+Discussion:  
+ 
+<<<NOTE>>>  Service Library has updated information regarding removal and 
+installing the switch. Refer to 08 - Electrical / 8L - Lamps and Lighting / Lamps/Lighting 
+- Exterior / SWITCH, Stop Lamp / Removal and Installation . 
+ 
+ 
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+BRAKE LAMP SWITCH  
+REMOVAL  
+CAUTION:  Never remove or install the brake lamp switch while the brake pedal arm is disassembled from the 
+brake booster push rod.  
+CAUTION:  Do not depress, lift or move the brake pedal during brake lamp switch removal to avoid switch 
+damage. Do not depress, lift  or move the brake pedal during brake lamp switch installation to avoid 
+improper switch adjustment.  
+1. Remove the steering column opening cover  (Refer to 23 - Body/Instrument Panel/COVER, Steering Column 
+Opening/Removal and Installation)  . 
+ 
+2. Disconnect the brake lamp switch wire harness 
+connector.  
+3. Press the brake lamp switch against the bracket while 
+rotating the switch housing clockwise 45° to align the 
+tabs to the keyed hole in the brake pedal support 
+bracket.  
+4. Pull the brake lamp switch straight out of the keyed hole 
+and remove it from the vehicle.  
+ 
+ 
+NOTE:  If damage to the switch is present for any 
+reason, the switch is to be replaced. If a 
+switch is removed and the plunger length 
+differs from a new switch, the switch should 
+always be replaced and not reinstalled. The 
+nominal height for a new switch (tip of the 
+plunger to the body of the switch) is 16.9 mm 
+(0.67 inch).  
+ 
+ 
+  
+  
+1 - Wire Harness Connector  
+2 - Brake Lamp Switch  
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+Brake pedal switch manufacturing inspection:  
+ 
+* Visually verify if brake pedal switch housing is damaged.  
+ 
+* Check if tabs (small plastic pieces positioned beside the plunger) are damaged or 
+broken.  See the below figure red circled plunger tabs. Note the red circled tabs are 
+cocked sideways - “Not OK” . Green circle shows “OK” part.  
+ 
+ 
+ 
+   Not OK .      OK. 
+ 
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+ 
+Brake pedal switch plunger verification:  
+ 
+<<<NOTE >>> If a switch  is suspected as f aulty, follow the plunger verification below.  
+ 
+1. Measure the exposed plunger initial position length (16.90mm should be the 
+initial measurement).  
+ 
+2. Manually, press down, the switch plunger and then release it.  
+ 
+- If plunger has a range of motion when pressed and released, measure again the 
+plunger length after releasing it and compare it with the initial position length.  
+ 
+- If plunger fails to emerge the plunger is damaged  and will require replacement of the 
+brake switch.  
+ 
+ 
+ 

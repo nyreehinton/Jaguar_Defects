@@ -1,0 +1,103 @@
+Bulletin No.: PIT5551Q
+Published date: 02/17/2025
+Preliminary Information
+PIT5551Q Amber Automatic Emergency Braking Disable Icon
+illuminated or During Start up Forward Collision System Reduced
+Displayed on DIC
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2018 - 2025 All AllAll All
+Buick Envista 2024 - 2025 All AllAll All
+Cadillac ATS 2013 - 2019 All AllAll All
+Cadillac CT4 2020 - 2025 All AllAll All
+Cadillac CT5 2020 - 2025 All AllAll All
+Cadillac CT6 2016 - 2020 All AllAll All
+Cadillac CTS 2014 - 2019 All AllAll All
+Cadillac Escalade 2016 - 2025 All AllAll All
+Cadillac Escalade ESV 2016 - 2025 All AllAll All
+Cadillac Lyriq 2023 - 2025 All AllAll All
+Cadillac OPTIQ 2025 All AllAll All
+Cadillac XTS 2018 - 2019 All AllAll All
+Cadillac XT4 2019 - 2025 All AllAll All
+Cadillac XT5 2017 - 2025 All AllAll All
+Cadillac XT6 2020 - 2025 All AllAll All
+Chevr oletBolt EV 2017 - 2023 All AllAll All
+Chevr oletBlazer 2019 - 2025 All AllAll All
+Chevr oletColorado 2015 - 2025 All AllAll All
+Chevr oletEquino x 2018 - 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Chevr oletMalibu 2016 - 2025 All AllAll All
+Chevr oletSilverado 1500 2017 - 2025 All AllAll All
+Chevr oletSilverado 2500 2017 - 2025 All AllAll All
+Chevr oletSilverado 3500 2017 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2017 - 2025 All AllAll All
+Chevr oletTahoe 2017 - 2025 All AllAll All
+Chevr oletTraverse 2018 - 2025 All AllAll All
+Chevr oletTrailblazer 2018 - 2025 All AllAll All
+Chevr oletTrax 2024 - 2025 All AllAll All
+Chevr oletVolt 2016 - 2019 All AllAll All
+GMC Acadia 2017 - 2025 All AllAll All
+GMC Canyon 2015 - 2025 All AllAll All
+GMC Hummer EV 2022 - 2025 All AllAll All
+GMC Sierra 1500 2017 - 2025 All AllAll All
+GMC Sierra 2500 2017 - 2025 All AllAll All
+GMC Sierra 3500 2017 - 2025 All AllAll All
+GMC Terrain 2018 - 2024 All AllAll All
+GMC Yukon 2017 - 2025 All AllAll All
+GMC Yukon XL 2017 - 2025 All AllAll All
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)With F orward Automatic Braking and/or F ront Pedestrian
+Braking 
+ConditionSome owners ma y comment when they start their vehicle a
+"Forward Collision System Reduced" message is displa yed on
+the DIC or there is an amber Automatic  Emergency  Braking
+Disable Icon illuminated in the IPC, examples shown below .   
+Note: On some models the message displa yed ma ybe "Automatic
+Collision Prep Reduced".
+CauseThis message or amber ICON will  displa y if the F orward
+Automatic Braking (F AB) or F ront Pedestrian  Braking (FPB) when
+equipped, has been set to the "Alert" setting. This setting
+disables most F AB or FPB  functions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:
+This is normal when the F AB or FPB has been set to  "Alert".  There are three selections for
+the F AB or FPB  system: OFF , Alert, Alert and Brak e, example shown below .  If the F AB and
+FPB are set to "Alert and Brak e" the message or amber ICON will no longer be displa yed. 
+Additional SI K eywords
+indicator,
+Version History
+Version  16
+Modiﬁed 03/14/2017 - Created on.  
+07/05/2017 - T o update Models and Condition section.     
+10/23/2017 - T o update the models, add the 2018 model
+year and add Note in the condition section.  
+05/11/2018 - T o add the Cadillac 2018 XTS models.  
+05/15/2019 - Updated the models.  
+09/05/2019 - Updated Model Y ears.  
+10/07/2020 - Update Model Y ears.  
+10/11/2021 - Updated to add the Cadillac XT6.  
+12/12/2022 - Update to the Title/Models/Additional
+Options/Condition/Cause/ and Correction sections.  
+02/24/2023 - Update the model list to add Hummer EV . 
+07/18/2023 -  Update to model list to add the new
+Colorado and Canyon.  
+08/29/2023 - Updated to add the 2024 models.  
+11/09/2023- Update to add the Silverado EV . 
+02/21/2024 - Update to add the 2024 T rax and Envista.  
+10/01/2024 - Updates to the model list.  
+02/17/2024 - Updated models.
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

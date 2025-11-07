@@ -1,0 +1,201 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+ISSUE DATE:  9-24-2019  
+SERVICE BULLETIN SUBJECT:  800 Volt HVAC Firmware  Retrofit  
+VINs or MODELS AFFECTED:  Service Specified  Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SC-19-123 
+ 
+NOTICE! It is expected that this process will require 1  hour  per bus Please schedule 
+appropriately to minimize vehicle downtime.  
+ 
+800 VOLT HVAC FIRMWARE  RETROFIT  
+Description  
+This campaign updates the firmware on the HVAC units on buses with the 800- volt architecture.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+Tools/Supplies  Required  
+• 046618  HARNESS, HVAC DIAGNOSTIC (HVAC Programming)  1 EA  
+• Proterra Laptop  
+• PCAN Cable  
+• 4mm Allen Wrench 
+• #2 Phillips Screwdriver  
+ 
+   
+Parts Required:  
+ 
+• 048658  SOFTWARE, HVAC, EBERSPAECHER, 800V FLASH TOOL  
+• 048653  SOFTWARE, HVAC, EBERSPAECHER, 800V NODE CONTROLLER 
+• 048657  SOFTWARE, HVAC, EBERSPAECHER, 800V HMI  
+ 
+   
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure  
+ 
+1. With the Service  Laptop Computer connected to the Internet, click the link below to browse to 
+the following location on the Proterra Intranet.  
+\\bus.local \files\Engineering \Service Bulletins \Service Bulletin Files f or SC -19-123 
+ 
+2. The folder contents will appear as follows . 
+ 
+ 
+3. Copy the folders from this location to the desktop.  This should appear similar to the following 
+illustration.  
+ 
+ 
+  
+
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+4. Preform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+ 
+5. Using a 4 mm Allen Wrench or a #2 Phillips Screwdriver , open the Curbside Hadley door to 
+access the HVAC unit as shown below.  
+ 
+ 
+6. Disconnect the Bus Harness from the HVAC Unit.  
+ 
+7. Connect the Programming Harness  (046618 ) to the Bus Harness that was just disconnected 
+from the HVAC Unit. Also connect the Programming Harness  to the HVAC Unit to the same 
+connector that the Bus Harness was removed from.  
+ 
+Bus Harness  Lockout Master Disconnect  
+5 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+8. Connect the DB9 Connector on the Programming Harness  (046618 ) to the PCAN Harness . 
+ 
+ 
+9. Connect the PCAN Cable to a USB port on the Laptop Computer.  
+ 
+10. Remove the Lockout/Tagout devices and t urn the Master Disconnect back on.  
+ 
+ 
+11. Working in the Driver’s workplace, power the bus on.  
+ 
+12. Turn the H VAC unit off.  
+ 
+13. On the Laptop Computer, open the “Flash Tool” folder on the desktop.  
+  
+ 
+
+6 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+14. While in the desktop folder shown above, right click on the Datenpacket ZIP Fi le. Select the 
+“Extract All” option in the menu that appears.  
+ 
+ 
+15. Ensure that “Show extracted files when complete” is checked, then click on the “Extract 
+Pushbutton”.  
+  
+ 
+16. The files will be extracted to a folder. The folder  will op en with the  contents shown below.  
+ 
+ 
+  
+Click “Extract All”  
+7 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+17. Double click the Datenpacket  folder to open it. The contents are shown below.  
+ 
+ 
+18. Double click the “ Flash” file (circled in red) shown above.  
+ 
+19. The following dialog box may appear.  
+ 
+ 
+20. If it does, click on “More Info” as shown above. Then click the “Run anyway ” Button.  
+ 
+
+8 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+ 
+21. The “Flash” utility will open as shown below.  
+ 
+ 
+22. Click on the “Open” Button and navigate to the HVAC folder on the desktop.  
+ 
+ 
+23. Double click on the file in this folder . 
+ 
+24. This will populate the file in the “Firmware” selection box as shown below.  
+ 
+
+9 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+25. Enter any 12-digit number in the “Serial Number” box as shown below.  
+ 
+ 
+26. Enter 740  into the Physical Request box and 640  into the Response ID Box shown below . 
+Note: These values  must be correct,  or the HVAC unit will be rendered inoperable.  
+  
+ 
+27. Click on the Start Button to begin the firmware update. It may be necessary to click the button 
+twice to start the process.  
+ 
+28. The tool will show an increasing percentage until it is complete at 100 percent.   
+ 
+29. After the process completes, click on the “Open” button in the utility.  
+ 
+ 
+Correct Values  Must 
+Be Entered Here  
+10 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+30. Navigate to the HMI folder on the desktop.  
+ 
+ 
+31. Double Click on the file in this folder.  This file will populate in the “Firmware” selection box of 
+the utility.  
+ 
+32. Enter 747  into the Physical Request box and 647  into the Response ID Box . 
+Note: These values  must be correct, or the HVAC unit will be rendered inoperable.  
+  
+ 
+33. Click on the Start Button to start the firmware update. It may be necessary to click the button 
+twice to start the process.  
+ 
+34. The tool will show an increasing percentage until it is complete at 100 percent.  
+ 
+35. Wait for the update process to complete.  
+ 
+36. Perform the Proterra Lockout/Tagout procedure to make the bus safe for work.  
+ 
+37. Disconnect the programming Harness  and reconnect the HVAC to the bus harness.  
+ 
+38. Remove the Lockout/Tagout devices and start the bus.  
+ 
+39. Test the HVAC for proper operation before returning the bus to service.  
+ 
+ 
+ 
+Correct Values  Must 
+Be Entered Here  

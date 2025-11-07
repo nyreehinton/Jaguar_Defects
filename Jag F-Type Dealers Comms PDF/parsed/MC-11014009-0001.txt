@@ -1,0 +1,108 @@
+SERVICEBULLETIN
+2025-01-16 M1490
+M1490(V25.2.1):DIGITALTECHNICIAN II-UPDATESANDRELEASE NOTES
+Purpose forService Bulletin
+ThisbulletininformsdealersthatHarley-Davidson hasmade
+asoftwareupdatetoDigitalTechnician II(DTII).
+DIGITALTECHNICIAN II(PARTNUMBER: HD-48650)
+Markets Affected
+Allmarketsareaffected.
+NewSoftware Update
+NOTE
+TheTECHLINK 3(PARTNUMBER: HD-48650-TL3) supports
+Controller AreaNetwork(CAN)andJ-1850protocolvehicles.
+•6-pinCANvehiclesarerecommended touseTechlink3
+(TL-3)
+•All2021(andlater)vehiclesmustuseTL-3(connects toRed
+DLConthevehicle)
+•4-pin(J-1850)vehiclesarerecommended touseTL-3.This
+includesallFuelInjectedHarley-Davidson vehicles2002
+andlater.
+TECHLINK 3(PARTNUMBER: HD-48650-TL3) willnotsupport
+Buell,VDOandMagnetiMarellivehicles(4-pinDLC).Support
+forthosevehiclesisavailable viaTECHLINK II(PART
+NUMBER: HD-48650-1) .
+Fordealerships withfirewallimplementation, theURLsbelow
+needtobewhitelisted:
+•htpps://hdpublicfacadesvc.bosch-automotive.com
+•htpps://keycloak.bosch-automotive.com
+Version25.2.1
+Release Date:
+•WeekofJanuary20,2025
+NewFeatures
+•Support2025:StreetGlideUltra(FLHXU), HeritageClassic
+(FLHC),FatBoy(FLFB),Breakout (FXBR),StreetBob
+(FXBB),LowRiderS(FXLRS), LowRiderST(FXLRST),
+SportsterS(RH1250S), PanAmericaST(RA1250ST), CVO
+PanAmerica (RA1250SE), CVORoadGlideST
+(FLTRXSTSE), CVOStreetGlide(FLHXSE), CVORoad
+Glide(FLTRXSE), PanAmericaS(RA1250S), Nightster
+(RH975), Nightster S(RH975S) (including Guided
+Diagnostics)Version25.1.1
+Release Date:
+•WeekofJanuary1,2025
+NewFeatures
+•Support2025:RoadKingSpecial(FLHRXS), StreetGlide
+(FLHX),RoadGlide(FLTRX),Tri-GlideUltra(FLHTCUTG),
+Freewheeler (FLRT),RoadGlide3(FLTRT)(including
+GuidedDiagnostics)
+•Support2025:LiveWireS2Alpinista(S2AP)
+•Reflash–ElectroHydraulic ControlUnit(EHCU):Support
+PartsandAccessories (P&A)InvertedForkofferingfor2025
+RoadGlide(FLTRX)and2024RoadGlide(FLTRX),Street
+Glide(FLHX)
+•Infotainment ControlUnit(IFCU)Customization: Supportfor
+additional P&Aspeakeroptions
+Changes
+•S2Models–UpdateTelematicControlUnit(TCU)reflash
+procedure foradditional robustness
+Version25.0.2
+Release Date:
+•WeekofDecember 2,2024
+NewFeatures
+•Supportfor2025PoliceElectraGlide(FLHTP),PoliceRoad
+King(FLHP),PoliceRoadGlide(FLTRXP)andPanAmerica
+S(RA1250S)
+•ModuleReplace–NowsupportsHandControlforapplicable
+models
+•Reflash–HandControl–enabledfor2024CVOStreetGlide
+(FLHXSE), CVORoadGlide(FLTRXSE), StreetGlide
+(FLHX),RoadGlide(FLTRX),andCVORoadGlideST
+(FLTRXSTSE)
+•LiveWire2024S2DMEV3:Updatedcalibration for(Onboard
+Charger(OBC),Rechargeable EnergyStorageSystem
+(RESS),VehicleSupervisory Controller (VSC),TCU)
+modules
+Changes
+•UpdatetoServiceInformation Portal(SIP)URL
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE
+Required DealerAction
+Techlink
+•TheTECHLINK 3(PARTNUMBER: HD-48650-TL3) will
+supportCANprotocolvehicles(6-pinDataLinkConnector
+(DLC))atlaunch.J-1850protocol(4-pinDLC)supportis
+plannedforearly2020.
+•Techlink3willnotsupportHarley-Davidson Buell,Vereinigte
+DEUTA–OTA(VDO)andMagnetiMarellivehicles(4-pin
+DLC).SupportforthosevehiclesisavailableviaTECHLINK
+II(PARTNUMBER: HD-48650-1) .
+•2021vehiclesmustuseTECHLINK 3(PARTNUMBER:
+HD-48650-TL3) (connects toRedDLConthevehicle).
+DigitalTechnician™ II
+•TheDigitalTechnician IIsoftwareversionupdatesare
+automatic andoccurwhileconnected totheInternet.
+•Ifaninternetconnection islost,thedownload continues from
+whereitstopped.
+•IftheDigitalTechnician IIsoftwareisopen,theapplication
+promptstheusertoexitbeforetheinstallcancontinue.
+•AllDigitalTechnician IIsoftwareupdatesaredeployed
+automatically viatheXMSagentsoftwareandrequirea
+minimummodelyearsoftwareversion(example: ModelYear
+2021=minimumversionv21.0).
+2/2 M1490

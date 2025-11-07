@@ -1,0 +1,225 @@
+Bulletin Number: 09-125-24R;  Revised: 02/10/25         Page 1 of 5
+SERVICE BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 09-125-24R
+ DATE: 07/08/24
+ REVISED: 02/10/25APPLICABILITY: 2020-24MY Outback & Legacy 
+  19-24MY Forester
+ SUBJECT: P0890 TCM Power Relay Sense  
+  Circuit Low P26A* Engine Coolant  
+  Bypass Valve “A” Range/Performance
+INTRODUCTION:
+This bulletin announces the availability of new reprogramming files for the Engine Control Module 
+(ECM). These files have been developed to address concerns of the starter motor not operating. 
+While attempting a restart after a short drive cycle in low ambient temperatures (less than 0 Degrees 
+Celsius/32 Degrees Fahrenheit), the starter motor may not operate. DTC P0890 (TCM Power Relay 
+Sense Circuit Low) will likely be stored in the ECM under this condition. Condensed moisture in the 
+ignition relay can cause the contact points to freeze under these conditions. The new logic enhances 
+the relay self-shutdown program, eliminating the possibility of frozen relay contacts. In addition, 
+this logic also contains optimized software for the Thermo Control Valve (MCV) to prevent any 
+misdetection  of DTC P26A*.
+PRODUCTION CHANGE INFORMATION:
+This new software has been incorporated into vehicle production as per the VIN table below. 
+Applicable Vehicle Starting VIN
+LEGACY R3018958
+OUTBACK R3209422
+FORESTER RH419257
+SERVICE PROCEDURE / INFORMATION:
+REMINDER: Customer satisfaction and retention starts with performing quality repairs. 
+• 2020-22MY Outback & Legacy 
+2019-24MY Forester:  Reprogram the ECM following the normal FlashWrite procedure.
+• 2023-24MY Outback & Legacy: Reprogram the ECM Control Module following the normal 
+SSM5-R procedure. Detailed information regarding the SSM5-R reprograming procedures can be 
+found in TSB 14-28-21R.ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2024 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 09-125-24R;  Revised: 02/10/25         Page 2 of 5
+Continued...LEGACY & OUTBACK PAK FILE INFORMATION:
+MYApplicable 
+VehicleSpecification File Description Old Part NumberDecryption 
+KeywordNew CID
+2020LEGACY2.5L NA
+CVT22765AN20H.pk222765AN20A
+22765AN20B
+22765AN20C
+22765AN20D
+22765AN20E
+22765AN20F
+22765AN20G80F3F042 XE1J600m00G
+OUTBACK2.5L NA
+CVT22765AP54H.pk222765AP54A 
+22765AP54B 
+22765AP54C 
+22765AP54D 
+22765AP54E 
+22765AP54F 
+22765AP54GD7DCFE8A XE1J600n00G
+2021LEGACY2.5L NA
+CVT22765AR18F.pk222765AR18A 
+22765AR18B 
+22765AR18C 
+22765AR18D 
+22765AR18E2183E3F3 XE1P800m00G
+OUTBACK2.5L NA
+CVT22765AR19F.pk222765AR19A 
+22765AR19B 
+22765AR19C 
+22765AR19D 
+22765AR19EA55FC233 XE1P800n00G
+2022LEGACY2.5L NA
+CVT22765AS22F.pk222765AS22A 
+22765AS22B 
+22765AS22C 
+22765AS22D 
+22765AS22EBE49F201 XE1Q400m00G
+OUTBACK2.5L NA
+CVT22765AS23F.pk222765AS23A 
+22765AS23B 
+22765AS23C 
+22765AS23D 
+22765AS23E4DB14C7F XE1Q400n00G
+LEGACY & OUTBACK PFC FILE INFORMATION:
+MY Model Specification File Description Old CID Number New CID
+2023 LEGACY2.5L NA
+CVT22765AS49D.pfc22765AS49A 
+22765AS49B 
+22765AS49CXE1X020m00G
+2023 OUTBACK2.5L NA
+CVT22765AS50D.pfc22765AS50A 
+22765AS50B 
+22765AS50CXE1X020n00G
+2024 LEGACY2.5L NA
+CVT22765AT70C.pfc22765AT70A 
+22765AT70BXE1X020L00G
+2024 OUTBACK2.5L NA
+CVT22765AT71C.pfc22765AT71A 
+22765AT71BXE1X020J00G
+Bulletin Number: 09-125-24R;  Revised: 02/10/25         Page 3 of 5
+Continued...FORESTER PAK FILE INFORMATION:
+MY Model Specification File Description Old Part NumberDecryption 
+KeywordNew CID
+ 
+2019FORESTER 2.5L NA CVT 22765AL827.pak22765AL820 
+22765AL821 
+22765AL822 
+22765AL823 
+22765AL824 
+22765AL825 
+22765AL826A44B186E XE1FB00A
+ 
+2020FORESTER 2.5L NA CVT 22765AN466.pak22765AN460 
+22765AN461 
+22765AN462 
+22765AN463 
+22765AN464 
+22765AN465585CB1E4 XE1M700a00G
+ 
+2021FORESTER 2.5L NA CVT 22765AR675.pak22765AR670 
+22765AR671 
+22765AR672 
+22765AR673 
+22765AR67467CEEA2A XE1P800a00G
+ 
+2022 FORESTER 2.5L NA CVT 22765AR604.pak22765AR600 
+22765AR601 
+22765AR602 
+22765AR603E1A8EC6C XE1R600k00G
+ 
+2022FORESTER 2.5L NA CVT 22765AR554.pak22765AR550 
+22765AR551 
+22765AR552 
+22765AR553B4E98F7C XE1R600a00G
+ 
+2022FORESTER 2.5L NA CVT 22765AR614.pak22765AR610 
+22765AR611 
+22765AR612 
+22765AR61373EC24BE XE1R600z00G
+2023 FORESTER 2.5L NA CVT 22765AS923.pak22765AS920 
+22765AS921 
+22765AS9228BAB05EA XE1X020k00G
+2023FORESTER 2.5L NA CVT 22765AS933.pak22765AS930 
+22765AS931 
+22765AS932AD4C67EE XE1X020z00G
+2023 FORESTER 2.5L NA CVT 22765AV272.pak22765AV270 
+22765AV2713B0220F6 XE1X020p00G
+2023 FORESTER 2.5L NA CVT 22765AV282.pak22765AV280 
+22765AV28169EF98B7 XE1X020s00G
+2024 FORESTER 2.5L NA CVT 22765AU211.pak 22765AU210 2EB5F50E XE1X020q00G
+2024 FORESTER 2.5L NA CVT 22765AU221.pak 22765AU220 C3277E3B XE1X020r00G
+Bulletin Number: 09-125-24R;  Revised: 02/10/25         Page 4 of 5
+Continued...Subaru of America, Inc. (SOA) highly recommends utilizing either the Subaru Midtronics DCA8000 
+Dynamic Diagnostic Charging System or the Subaru Midtronics GR8-1100 Diagnostic Battery 
+Charger to the vehicle and utilizing the Power Supply Mode feature anytime a vehicle control module 
+is being reprogrammed. Once the Midtronics charger is connected to the vehicle, if the battery is fully 
+charged, it takes less than three (3) minutes to boot-up the charger, select the Power Supply Mode, 
+and have the battery voltage stabilized and ready for reprogramming.
+NOTES:
+• For instructions on using the Power Supply Mode, reference the applicable User Manual for 
+the Midtronics DCA-8000 Dynamic Diagnostic Charging System and the Midtronics GR8-
+1100 Diagnostic Battery Charger on STIS.
+• Confirm all electrical loads such as lights, audio, HV AC, seat heaters, and rear defroster are all 
+switched OFF before setting up the charger for Power Supply Mode.
+• Select the correct battery type (Enhanced Flooded, Flooded, Gel, AGM or AGM Spiral).
+• Input the CCA which matches the vehicle’s battery. NOTE: OE and replacement batteries have 
+different CCA ratings. Always confirm the battery’s CCA rating before proceeding.
+• If using a DCA-8000 Dynamic Diagnostic Charging System, set the power supply voltage to 
+13.5 V olts.
+• DO NOT connect the DST-i or DST-010 until the Power Supply mode function has completed 
+its battery test mode and the Charging V oltage has dropped to and shows a steady 13.5 V olts on 
+the display.
+• Once Power Supply Mode reaches a steady 13.5 V olts, connect the DST-i or DST-010 to the 
+OBD connector and proceed with initiating the normal SSM5-R reprogramming process.
+• Amperage will fluctuate based upon the vehicle’s demand for power. NOTE: If the voltage 
+rises beyond 14 V olts while programming is in process, the procedure will abort. This can 
+indicate a need to test or charge the vehicle battery before any further attempt at programming 
+is made.
+• ALWAYS set the power supply voltage to 13.5 V olts when using Power Supply Mode. NEVER 
+turn the ignition switch on when charging at voltages 15 V olts or higher.
+REMINDER: If the DCA-8000 or GR8-1100 indicates the vehicle’s battery must be charged, charge 
+the battery fully before proceeding to reprogram the vehicle while using the Power Supply Mode.
+NOTE: Control module failures resulting from battery discharge during reprogramming are not a 
+matter for warranty. Should any DTCs reset after the reprogramming update is performed, diagnose 
+per the procedure outlined in the applicable Service Manual.
+Bulletin Number: 09-125-24R;  Revised: 02/10/25         Page 5 of 5
+WARRANTY / CLAIM INFORMATION:
+For vehicles within the Federal Emissions Extended Defect Warranty period, this repair may be 
+submitted using the following claim information:  
+Labor Description Labor Operation # Fail Code Labor Time
+MFI OBDII ECM Reprogramming A453-086 UPG-48 0.4
+IMPORTANT: Always note the original Calibration Identification number (CID) / ROMID the 
+vehicle came in with on the repair order before reprogramming and, make sure to list the NEW CID / 
+ROMID for any newly installed programming (as confirmed from the actual control module AFTER 
+installation). The NEW CID / ROMID MUST also be noted on the repair order as this information is 
+required for entry in the Miscellaneous Detail field during claim submission. These numbers can be 
+read using SSM5-R. 
+NOTE: The pfc file listings provided in this bulletin are the latest available at the time of publishing. 
+Updates are often released thereafter without revision to the original bulletin. For this reason, it is 
+critical to always have the latest version of Select Monitor software installed on your system. You 
+can confirm if a later version is available by entering the CID listed in this bulletin into SSM5-R. If a 
+newer CID is shown as available in SSM5-R, reprogram using that file.
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

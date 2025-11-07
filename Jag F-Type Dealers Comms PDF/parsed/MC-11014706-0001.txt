@@ -1,0 +1,51 @@
+Technical Service Bulletin (TSB)
+Steering Wheel Not Centered
+REFERENCE: TSB:  19-001-25
+GROUP: 19 - SteeringDate: February 26, 2025 REVISION: —
+VEHICLES
+AFFECTED:2024 (KM) Jeep Wagoneer S
+This bulletin applies to vehicles built on or after October 10, 2024
+(MDH 1010XX) and on or before January 11, 2025 (MDH 0111XX)
+equipped with 400V G2500 FR/RR Elec Drive Motors (Sales Code ELD).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may comment on the following:
+●The steering wheel is off center.
+CAUSE: Miscalibrated aligner
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-023,
+date of issue February 25, 2025. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+REPAIR SUMMARY:
+This bulletin involves checking if the steering wheel is centered and possibly adjusting toe to center the
+steering wheel and performing a front wheel alignment.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+02-00-02-9Q Inspect Steering Wheel
+Alignment
+(1 - Semi-Skilled)19 - Steering 0.2 Hrs.
+02-00-02-9R Inspect and Perform Front
+Wheel Toe Adjustment
+(1 - Semi-Skilled)19 - Steering 0.6 Hrs.
+Failure Code ZZ Service Action
+DIAGNOSIS:
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. Verify if the steering wheel is off center.
+2. Was the steering wheel is off center?
+● YES >>> Proceed to Step 3 .
+● NO >>> This bulletin has been completed. Use Inspection LOP (02-00-02-9Q) to close the active RSU.
+3. Position the vehicle on an alignment rack.
+4. Adjust front toe. Refer to the detailed procedures available in DealerCONNECT > Service Library> under:
+02 - Chassis / Suspension / Standard Procedure (Front Wheel Alignment – To Adjust Front Toe).
+5. Perform a vehicle alignment and verify the proper toe setting. Refer to the detailed procedures available in
+DealerCONNECT > Service Library> under: 02 - Chassis / Suspension / Technical Specifications.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

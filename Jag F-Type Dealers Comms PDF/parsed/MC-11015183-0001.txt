@@ -1,0 +1,229 @@
+TechnicalInformationService
+213/22 ENUWNQ75
+WNQ7 - Testing Windshield Frame and Rewo rking if Necessary (Workshop Campaign)
+ModelLine: 911 Targa (992)
+911 Cabriolet (992)
+ModelYear: 2021
+Concerns: Windshield frame
+Cause: The windshield frame on the affected vehicles may not have been manufactured in accordance
+with speciﬁ cations and cracks may have developed as a result.
+Inthiscase,acrackintheleftareaabovethewindshieldframecanleadtowaterleakingress. LeaksintheA-pillarcanleadtocustomercomplaintsandcorrosioncannotberuledoutovertheservicelifeofthevehicle.
+Action: Testwindshieldframeandreworkdependingontheresults.
+Affected
+Vehicles:Onlyvehiclesassignedtothecampaign(seealsoPCSSVehicleInformation).
+Required parts and materials
+Information
+Noparts or material arerequiredfor testingthewindshieldframe(Scope1).
+PartSInfo: Partsrequiredforreworkingthewindshieldframe,ifnecessary(Scopes2and3):
+Part No. Designation Quantity
+00004330535 Adhesiveset 1piece
+Materials:
+Information
+Required consumables  must be procured through the  usual market  
+procedures.
+AfterSalesPage1of11Feb 5, 2025
+5WNQ7 ENUService
+213/22TechnicalInformation
+Part No. Designation Quantity
+... Consumables(bodywork)*
+Includes:
+•Cu t t i n g w i r e
+•Clean,lint-freecloth
+•Disposablegloves
+•We l d i n g w i r e•Cleaningfleece
+•Ad h e s i v e t a p e
+•Paintinvehiclecolor1piece
+*Forwarrantyprocessing,enterPartNo. WNQ70000001withthedesignation“consumables”asanadditionalpartinthewarrantyclaim. Maximumamount$59.85.
+Required tools
+Tool:
+Information
+Notoolsarerequiredfor testingthewindshieldframe(Scope1).
+•Torquewrench,6-50Nm(4.5-37ftlb.) e.g. V.A.G 1331A - torque wrench, 6-50 Nm (4.5-37
+ftlb.)
+•Torquewrench,40-200Nm(30-148ftlb.) e.g. V.A.G 1332A - torque wrench, 40-200 Nm
+(30-148 ftlb.)
+•Windshieldremovalset,e.g. VAS 861 001A - wndscreen removal set
+•Suctionlifter,e.g. V.A.G 1344 - suction lifter
+•Scraper/spatula/leverset,e.g. VAS 6845 - scraper/ spatula/lever set
+•Poleterminalpuller,e.g. VAS 6935 - pole terminal puller
+•WeldingandsolderingsystemMIG/MAG,e.g. VAS 6741 - welding and soldering system
+MIG/MAG
+•VAS 6350/2A - Spacing laser
+•VAS 6350A - Calibration unit
+•VAS 6430/1A - Adjustment device with re ﬂector
+•VAS 6430/4 - Lane Keep Assist calibration board
+•Batterycharger90A,e.g. VAS 5908 - battery charger 90A
+•Pullhook,e.g. 9229/1 - pull hook
+•Socketspannerinsert,e.g. 9730 - 9730 - socket spanner insert
+•VAS 6826 - Steering wheel balanceVAS 6830 - w heel-alignment adapter for wheels with
+central lock
+•VAS 6918 - Quick-clamping unit
+Page2of 1
+1 AfterSalesRequired materials (usually already available at the Porsche  dealer):
+Feb 5, 2025
+TechnicalInformationService
+213/22 ENUWNQ75
+Testing windshield frame
+Work
+Procedure:
+Information
+Thefollowingarerequiredfortestingthewindshieldframe:
+•Plasticcard
+•Sp r a y b o t t l e
+•Water/detergentemulsion
+•Compressedairgunorvacuumcleanerwithreversefunction
+Information
+General information on ca rrying out the leak test
+•Useawater/dishwashingliquidemulsionforcarryingouttheleaktest.
+•Thefollowingfluidmixturemakesanidealwatere mulsion: 6dropsofcommerciallyavailabledish-
+washingliquidmixedin1litreoftapwater.
+•Fillwateremulsionintoasuitablespraybottle.
+•Itcantakeupto2minutestodetectapossibleleakindicatedbyairbubbles,dependingonthe
+vehicle.
+•Theleaktestinvolvesblowingincompressedair. Todothis,thecompressedairmustbesettomax.
+8baratthepressurereducerforthecompressedairsupply.
+•Asecondpersonisneededinordertocarryouttheleaktest.•Donotuseahigh-pressurecleaner.
+1R e m o v e l e f t s u n v i s o r .
+Workshop Manual '682319 Removing and installing sun visor'
+AfterSalesPage3of11Feb 5, 2025
+5TechnicalInformation
+Positioning the vacuum cleaner2 Positioncompressedairgunorvacuumcleanerwith
+reversefunction Positioning the vacuum cleaner
+-1-flushagainstopening Positioning the vacuum
+cleaner -2-.
+Applying water emulsion3C o a t potentially affected area withwateremulsion
+Applying water emulsion -1-.
+3.1 PressA-pillarseal Applying water emulsion
+-2-asideusingaplasticcard Applying
+water emulsion -3-andholdit.
+3.2 Spray potentially affected area generously
+withwateremulsion Applying water
+emulsion -1-.
+4 Testwindshieldframe.
+4.1 Switchoncompressedairgunorvacuum
+cleanerwithreversefunctionandcontinue
+sprayingwateremulsionon potentially
+affected area .
+4.2 Checkthe potentially affected area for
+bubbleformation.
+Page4of11 AfterSalesFeb 5, 2025WNQ7 ENUService
+213/22
+TechnicalInformationService
+213/22 ENUWNQ75
+Assessment Action
+Nobubbleformationdetected. – End of action –
+ContinuewithActionStep5.
+[Scope1]
+Bladderformationvisible. Continuewith Technical Information '682319
+reworking of windscreen frame' .1
+[Scope2or3]
+1Documentwithphotosanduploadthepicturestoth ePCCSqualitylinewiththerelevantdescription,
+e.g. upper_left_windshield_frame_VIN_Figure1.
+5 Installleftsunvisor. Workshop Manual '682319 Removing and installing sun visor'
+6 EnterthecampaignintheWarrantyandMaintenancebooklet.
+Reworking windshield frame
+WorkProcedure:
+Information
+•Observegeneralspecificationsforbodywork(seePCSSVehicleInformation,WorkshopManuals5X
+Documents).
+•Onlydrilltheendsofthecracks. Afullboreholeinthewindshieldframemakesrepairsmuchmore
+difficult.
+•Paintwindshieldframeaccordingtospecificatio nsinthe“PaintworkManual”,Surfacepainting,
+Paintingstage3(seePCCVehicleInformation). HandbuchLack
+•Porschedealersthathandoverthevehicletoanexternalserviceprovidertocarryoutthework
+involvedinpaintingthewindshieldframesmustca rryoutthepreparatoryworkindependentlyatthe
+Porschedealer.
+1R e m o v e w i n d s h i e l d . Workshop Manual '641219 Removing and installing windscreen'
+2 Carefullycoverthesurroundingareawithfire-resistantmaterial.
+3 Exposecrackusingsuitableagents. Exposing crack
+AfterSalesPage5of11Feb 5, 2025
+5TechnicalInformation
+Exposing crack
+4 Drilloutcrackends. Drilling out crack ends
+Page6of11 AfterSalesFeb 5, 2025WNQ7 ENUService
+213/22
+TechnicalInformationService
+213/22 ENUWNQ75
+Drilling out crack ends
+5 ClosethecrackusingtheMIG/MAG VAS 6741 - welding and soldering system MIG/MAG .
+Closing crack
+AfterSalesPage7of11Feb 5, 2025
+5TechnicalInformation
+Closing crack
+6 Sandoffexcessmaterial. Sand off excess material
+Page8of11 AfterSalesWNQ7 ENUService
+213/22
+TechnicalInformationService
+213/22 ENUWNQ75
+Sand off excess material
+7 Primerepairareaandbuilduppaintwork(PorscheDynamicRepair).
+8 Installwindshield. Workshop Manual '641219 Removing and installing windscreen'
+9 Installleftsunvisor. Workshop Manual '682319 Removing and installing sun visor'
+10 EnterthecampaignintheWarrantyandMaintenancebooklet.
+Warranty processing
+Information
+The specified labor times were d etermined specifically for carrying out this campaign and include 
+all necessary preliminary and subsequent rework. The labor time may differ from the working times 
+published in the Labor Operation List in  the PCSS.
+AfterSalesPage9of11Feb 5, 2025
+5TechnicalInformation
+Labor time:
+Testingwindshieldframe
+Includes: RemovingandinstallingleftsunvisorLabortime: 28 TU
+Damage code WNQ7 066 000 1
+Scope2: Checking and reworking windshield frame
+•ThecampaignwasfullycarriedoutbythePorschedealer
+Labor time:
+Checkingandreworkingwindshieldframe
+Includes: Removingandinstallingsunvisors
+TestingwindshieldframeRemovingandinstallinginteriorrearviewmirrorRemovingandinstallingrainsensor
+Removingandinstallingmobilecommunicationantenna
+RemovingandinstallingcowlpanelcoverRemovingandinstallingleftandrightA-pillartrimpanels
+Removingandinstallingwiperarms
+RemovingandinstallingwindshieldReworkingwindshieldframe
+Paintingwindshieldframe
+PerformingfrontandrearsuspensionalignmentCalibratingfrontcameraLabortime: 707 TU
+Required parts:
+00004330535 Adhesiveset 1piece
+Required materials (usuallyalreadyavailableatthePorschedealer):
+WNQ700000001 Expendableitem(bodywork) 1piece*
+*Forwarrantyprocessing,enterthisPartNo. withthedesignation"expendableitems"asanadditionalpartinthewarrantyclaim;maximumcost: $59.85.
+Damage code WNQ7 066 000 1
+Page10of 11 AfterSalesScope1: Testing windshield frame
+Scope3: Checking and reworking windshield frame
+•Paintingofthewindshieldframewascarriedoutbyanexternalserviceprovider
+Feb 5, 2025WNQ7 ENUService
+213/22
+TechnicalInformationService
+213/22 ENUWNQ75
+Labor time:
+Checkingandreworkingwindshieldframe
+Includes: Removingandinstallingsunvisors
+Testingwindshieldframe
+Removingandinstallinginteriorrearviewmirror
+RemovingandinstallingrainsensorRemovingandinstallingmobilecommunicationantenna
+Removingandinstallingcowlpanelcover
+RemovingandinstallingleftandrightA-pillartrimpanelsRemovingandinstallingwiperarms
+Removingandinstallingwindshield
+ReworkingwindshieldframePaintingwindshieldframe
+Performingfrontandrearsuspensionalignment
+CalibratingfrontcameraLabortime: 527 TU
+Required parts:
+00004330535 Adhesiveset 1piece
+Required materials (usuallyalreadyavailableatthePorschedealer):
+WNQ700000001 Expendableitem(bodywork) 1piece*
+Outsourced labor:
+Paintingwindshieldframe Subletlabor
+time: max.180TU**
+*Forwarrantyprocessing,enterthisPartNo. withthedesignation"expendableitems"asanadditionalpartinthewarrantyclaim;maximumcost: $59.85.
+**Themaximumamountthatwillbepaidasoutsourc edlabortimeistheamountcorrespondingtothe
+specifiedlabortimebasedontheindividualchargingrateunderwarrantyoftherespectivePorsche
+dealer. Pleaseincludeacopyoftheinvoicefo rexternalserviceswiththewarrantyclaim.
+Damage code WNQ7 066 000 1
+Important Notice: TechnicalBulletinsissuedbyPorscheCarsNorthAmerica,Inc. areintendedonlyforusebyprofessionalautomotivetechnicianswhohaveattendedPo rscheservicetraining
+courses. TheyarewrittentoinformthosetechniciansofconditionsthatmayoccuronsomePorschevehicles,ortoprovideinformationthatcouldassistintheproperservicingofavehicle. Porschespecial
+toolsmaybenecessaryinordertoperformcertainoperationsidentifiedinthesebulletins. UseoftoolsandproceduresotherthanthosePorschereco mmendsinthesebulletinsmaybedetrimentaltothe
+safeoperationofyourvehicle,andmayendangerthepeopleworkingonit. ProperlytrainedPorschetechnicianshavetheequipment,tools,safetyins tructions,andknow-howtodothejobproperlyand
+safely. Partnumberslistedinthesebulletinsareforreferenceonly. TheworkproceduresupdatedelectronicallyinthePorschePIWISdiagnostican dtestingdevicetakeprecedenceand,intheeventofa
+discrepancy,theworkproceduresinthePIWISTesteraretheonesthatmustbefollowed.© 2025 Porsche Cars North America, Inc.
+AfterSalesPage11of11Feb 5, 2025

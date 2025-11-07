@@ -1,0 +1,86 @@
+ 
+  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  
+McLaren Artura Transmission Oil  Leak Diagnosis Guide  
+Document Information  
+Location:  Powertrain / Hybrid  
+Topic: McLaren Artura Transmission Oil Leak Diagnosis Guide  
+Condition:  N/A 
+Diagnostic Trouble Codes:  N/A 
+Measure  
+This guide will help to correctly diagnose oil leaks identified on the transmission of the McLaren Artura.  
+With the integration of the hybrid power unit (eMotor) in the transmission, there are different oils that need to 
+be identified to identify where the leak may be coming from.  
+If a McLaren Artura is found to have oil traces on the underside of the vehicle behind the transmission NVH 
+cover, please follow the steps below to evaluate.  
+1. Raise vehicle on ramp as per McLaren Service Portal (MSP) instructions  
+2. Remove engine underfloor  
+3. Capture images prior to any cleaning (before and after removing transmission NVH cover), clearly 
+showingthe leaking area. Label images: “Pre -Cleaning”  
+4. Take picture of transmission serial number and eMotor serial number (add images of serial numbers)  
+5. Check dielectric oil and record level when vehicle cold, top up to maximum level according to service 
+portalinstructions if necessary  
+6. Remove air cooling duct (1), refer to McLaren Service Portal instructions REMOVE/INSTALL AIR 
+COOLINGASSEMBLY - ROTOR  
+ 
+  
+ 
+7. Clean inside transmission casing through areas circled thoroughly using degreaser/solvent until clean, then  
+dry gently with compressed air   
+ 
+
+ 
+  
+ 
+8. Clean transmission NVH cover with degreaser/solvent, make sure NVH foam is not damaged, replace foam if  
+necessary  
+9. Capture images of post clean  
+10. Start engine and run at 3000 RPM, in Sport, until transmission oil temp reaches 80 degrees then run 
+varied RPM's;  
+1000 RPM - 30 secs  
+2000 RPM - 30 secs  
+4000 RPM - 30 secs  
+1500 RPM - 15 secs  
+4000 RPM - 15 secs  
+1000RPM – 60 secs  
+11. Turn off engine and allow vehicle to stand for 20 minutes on the ramp in preparation for inspection  
+12. Inspect transmission. Capture images and label image folder "Cycle 1", apply UV light and capture images  
+and label image folder “Cycle 1 UV”. Clean area again thoroughly, capture images and label image folder 
+"Post  
+Cycle 1 (after cleaning)"  
+13. Complete warm up/cool down cycle and inspection a further 4 times capturing images. Name image 
+folders respectively;  
+“Cycle 2", “Cycle 2 UV” & "Post Cycle 2 (after cleaning)"  "Cycle 
+3", “Cycle 3 UV” & "Post Cycle 3 (after cleaning)"   
+"Cycle 4", “Cycle 4 UV” & "Post Cycle 4 (after cleaning)"   
+"Cycle 5", “Cycle 5 UV” & "Post Cycle 5 (after cleaning)"  
+Care Point: If no leak visible after cycle 5, please leave the vehicle overnight and recheck area for any 
+signs of an oil leak.  
+
+ 
+  
+14. If leak continues post cycle 5 please fill in table  in accordance with the leak path map below. Check 
+dielectric oil level when vehicle has cooled down and attach table, dielectric oil level and all images to a TR If 
+no leak present after overnight dwell period, no further action required.  
+ 
+Care Point: Only proceed with the next step if there is still a leak present after cycle 5 and you have had 
+authorisation to continue by McLaren Technical Support through TR  
+15. Remove the transmission and then the eMotor following the McLaren Service Portal instructions  
+16. Capture images of the below components throughout the process of removing the eMotor:  
+
+ 
+  
+Dry bulkhead face eMotor 
+- front and back  
+Long eMotor bolts and thru holes eMotor 
+rotor bolts and threaded holes  
+Input shaft seal  
+  Wet bulkhead face and outer joint to transmission  
+Label all images accordingly and attach to the TR for review  
+Parts Information  
+N/A 
+Attachments  
+N/A 
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  

@@ -1,0 +1,55 @@
+Technical Service Bulletin (TSB)
+Extended Crank Condition Due To Loss of Fuel Pressure
+REFERENCE: TSB: 14-004-25
+GROUP:  14 - Fuel SystemDate: February 12, 2025 REVISION: —
+VEHICLES
+AFFECTED:2021 - 2024 (WD) Dodge Durango
+This bulletin applies to vehicles built on or after February 01, 2021
+(MDH 0201XX) and on or before November 24, 2024 (MDH 1124XX)
+equipped with a 3.6L V6 VVT Engine Upgrade 1 (Sales Code ERC) or a
+5.7L V8 Hemi MDS VVT Engine (Sales Code EZH) and Durango Pursuit
+Vehicle (Sales Code AZ1).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●Extended engine crank condition.
+CAUSE: Fuel pressure regulator
+REPAIR SUMMARY:
+This bulletin involves performing a fuel pressure test and possibly replacing the fuel pump module.
+CLAIMS DATA:
+Labor Operation
+No:Labor Description Skill Category Labor Time
+14-50-01-90 Fuel Pump Module Test and
+Replace (Left Side)
+(0 - Introduction)14 - Fuel System 2.0 Hrs.
+Failure Code ZZ Service Action
+RELATED LOP:
+Labor Operation
+No:Labor Description Skill Category Labor Time
+14-50-01-60 Skid Plate Equipped
+(0 - Introduction)14 - Fuel System 0.1 Hrs.
+SPARE PARTS:
+Qty Part No. Description Notes
+1 (AR) 68535771AB Module, Fuel Pump/Level
+Unit
+DIAGNOSIS:
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.
+REPAIR PROCEDURE:
+1. Perform a fuel pressure and Fuel system leak down test. Refer to the detailed service procedures available
+in DealerCONNECT/ Service Library under: Service Info>29 - Non-DTC Diagnostics / Drivability - Gas /
+Diagnosis and Testing.
+2. Is the fuel pressure and system leak down within specification?
+● YES >>> This bulletin has been completed. Perform further diagnostics.
+● NO >>> Proceed to Step 3 .
+3. Replace fuel pump module. Refer to the detailed service procedures available in DealerCONNECT/
+Service Library under: Service Info>14 - Fuel System / Fuel Delivery, Gas / Module, Fuel Pump / Removal/
+Installation.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

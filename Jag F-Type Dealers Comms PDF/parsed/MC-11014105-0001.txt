@@ -1,0 +1,60 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Fuel lid unable to openRef. No.
+TJ 36857.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/2/24Status Date
+1/8/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+8331
+Function Description
+Tank hatch with hingePage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+If the vehicle’s fuel lid won’t open, follow advice under “Service” .
+CSC   Customer Symptom Codes
+Code Description
+8H Fuel-filler door/Hard/impossible to open
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 L1 BL1KERS 2024-2025 - 202317-202448
+227 L1 BL1KERS 2024-2025 - 202317-202448
+236 06 B06KERS 2024-2025 - 202318-202448
+238 06 B06KERS 2024-2025 - 202318-202448
+246 L1 BL1KERS 2024-2025 - 202317-202448
+256 06 B06KERS 2024-2025 - 202318-202448
+256 L1 BL1KERS 2024-2025 - 202318-202448
+536 L1 BL1KERS 2024-2025 - 202321-202448
+SERVICE:
+This could be a CEM (Central Electronic Module) related issue.
+Do not replace any parts prior to performing the fix/workaround as stated below.
+As a temporary fix/workaround (and please inform customer): 
+1. Use key fob button
+2. Lock the car and unlock again
+3. No need to let the car go in to deep sleep
+Page 2 of 2 2025-01-08
+Technical Journal 36857 .2.0*A software solution is introduced from version 3.3.16, perform a software upgrade according to TJ 
+31543.
+If the symptom still occurs after the workaround and SW download, please follow the normal 
+process in VIDA. 
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+99921-2 General reimbursement acc. to TJ 
+36004-2 Software control module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+8331.

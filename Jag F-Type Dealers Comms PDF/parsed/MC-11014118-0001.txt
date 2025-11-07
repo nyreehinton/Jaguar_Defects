@@ -1,0 +1,75 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Transmission Shifts From D or R to P Immediately After StartingRef. No.
+TJ 36814.2.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+1/14/25Status Date
+1/24/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+4300
+Function Description
+GearboxPage
+Page 1 of 2Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+* Software release date updated
+If a customer experiences the transmission switching to P gear after shifting to D or R gear (after the 
+start procedure when the car is in a stationary position) and combined with intermittent DTC below, 
+please follow the advice under “Service.”
+CSC   Customer Symptom Codes
+Code Description
+MQ Gear selector/Difficult/impossible to change gears
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+TACM P051368 Intermittent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 BK B1LPHEV 2020-2022 - 201920-202146
+224 BR B1FPHEV 2019-2022 - 201850-202146
+224 H6 BH6PHEV 2022-2025 - 202147-202447
+225 BK B1LPHEV 2020-2022 - 201920-202146
+225 BR B1FPHEV 2020-2022 - 201850-202146
+225 H6 BH6PHEV 2022-2025 - 202147-202447
+238 BC B1BPHEV 2018-2018 - 201718-201744
+238 BR B1FPHEV 2018-2022 - 201746-202146
+238 H6 BH6PHEV 2022-2025 - 202147-202447
+246 BK B1LPHEV 2020-2022 - 201920-202146
+246 BR B1FPHEV 2018-2022 - 201717-202146
+246 H6 BH6PHEV 2022-2025 - 202147-202447
+Page 2 of 2 2025-01-24
+Technical Journal 36814.2.0Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+256 BA B1APHEV 2016-2022 - 201526-202146
+256 BC B1BPHEV 2016-2017 - 201508-201716
+256 BK B1LPHEV 2020-2022 - 201920-202146
+256 BR B1FPHEV 2018-2022 - 201717-202146
+256 H6 BH6PHEV 2022-2025 - 202147-202447
+SERVICE:
+Do not replace any parts.
+This symptom can occur if the driver changes the position of the gear shifter from P to D or R very 
+quickly after starting the engine and the starting process is not completed.  Inform the driver to 
+pause briefly after starting the vehicle before shifting into D or R.
+If the issue occurs, turn the ignition off and wait 10 seconds before restarting the car.
+* New ECM software to prevent this symptom is expected to be released during Q2 2025. This TJ 
+will be updated when new information is available.
+ECM = Engine Control Module
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36001-2 Diagnostic trouble codes read/reset
+36004-2 Software Control Module downloading
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support needed” , use function group 4300.

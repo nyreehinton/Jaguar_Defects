@@ -1,0 +1,56 @@
+Involved Region or
+CountryNorth America
+ConditionA customer ma y complain of a Service V ehicle Charging
+System Message.  
+They ma y also complain that the vehicle stalled out.  
+It ma y also be found that the 12 volt battery is dead or
+will not charge.   
+Codes P1F59 P1F5A ma y be found along with others
+depending on the circuits that are damaged.   
+Many other codes are possible depending on which
+circuits are damaged.  
+Additional symptoms ma y be noted depending on which
+circuits are damaged.
+CauseWire harness chafed and shorting on AC line near right
+strut tower . 
+Bulletin No.: PIT6160B
+Published date: 02/4/2025
+Preliminary Information
+PIT6160B Service Vehicle Charging System
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletBlazer EV 2024 All AllAll All
+ 
+ 
+ 
+ 
+ 
+ 
+Correction:  
+Inspect the harness in the area shown below for chaﬁng on the AC line.
+ 
+ 
+ 
+ 
+If damaged circuits are found repair as necessary following SI Document
+5214966.
+After repairing the circuits tape the harness at # 1 as shown in the photos
+below . 
+Wrap the harness three times around with electrical tape to secure it.   
+Note that the label #2  in the photo has been moved on newer harnesses so it
+may be in a diﬀerent location on the vehicle that you are working on than what
+is shown in the photo.
+ 
+ 
+ 
+Additional SI K eywords
+Version 3
+Modiﬁed04/30/2024 - Created on.  
+05/30/2024 - Updated correction.  
+1/28/25 - Updated to add additional codes to
+keywords.B1A1F, cir cuit, chafe, char ge, har ness, message, P1913, P193A, P1939, stall, U160A,
+U1610, U1617,
+Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

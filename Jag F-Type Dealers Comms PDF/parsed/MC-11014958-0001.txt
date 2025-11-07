@@ -1,0 +1,94 @@
+ 
+ 
+ 
+Warranty Information  
+ 
+ Page 1 of 2  
+© 2022 Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual property 
+rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without not ice.  No part of this document may be 
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, reco rding, or otherwise, nor may these materials be modified or 
+reposted to other sites, without the prior expressed written permission of the publisher.  
+Internal    
+Policies and Procedures Bulletin  Number:  VWP -22-18 
+  
+Subject:  Rear Brake Pad Limited Warranty Extension  Revised  Date:  Feb. 05, 202 5 
+Questions - For any questions regarding this bulletin, please contact the Warranty Helpline at 1 -866-
+306-8447 or warranty.helpline@vw.com . This document modifies the Volkswagen 
+Warranty Policies and Procedures 
+Manual.  
+ 
+Rear Brake Pad Limited Warranty Extension  
+Volkswagen has extended the Warranty coverage for the Rear Brake Pads from  1 year or 12 ,000 miles  to 2 years or 
+24,000 miles,  whichever occurs first from the vehicle ’s original in -service date , for certain 2020 -2025 Model Year Jetta 
+and certain 2022 -2025 Model Year Taos  vehicles.  
+The vehicle’s original in -service date is defined as the date the vehicle was delivered to either the original purchaser or 
+the original lessee; or if the vehicle was first placed in service as a “demonstrator” or “company” car, on the date such 
+vehicle was first placed in service.  
+What is Covered  
+During the time/mileage period specified above, an authorized Volkswagen Dealer will replace Rear Brake Pads and any 
+parts and labor necessary to effectuate a r epair at no cost to the  owner if diagnosis confirms Rear Brake Pads have failed 
+from a Warranty defect  or have failed due to premature wear .  
+Rotors may be covered as consequential damage if they have failed as a direct result of the Rear B rake Pads  failure . 
+Dealers must provide detailed justification within the claim comments of SAGA to support reimbursement.  
+Volkswagen Dealers are required to refer to the Repair Manual in Elsa for repair instructions and wear limits for the 
+brake pads for each VIN .  
+If diagnosis reveals that the vehicle has an unrelated issue(s), diagnosis and any necessary repairs to correct such issue(s)  
+will not be covered under this warranty extension.  
+Transferability  
+This warranty  extension  is fully transferable to subsequent owners . 
+Additional information  
+This warranty extension does not cover d amage or malfunctions caused by outside influence, such as an accident, or 
+vehicle misuse or neglect , nor does it cover  repairs that are necessary for proper diagnosis of these conditions or that 
+are required to bring the vehicle up to factory specifications.  
+Vehicle Eligibility  
+To determine if a vehicle is eligible for the Rear Brake Pad  Limited Warranty Extension, check the VIN in Elsa > Vehicle 
+Data. If the warranty extension is applicable to the vehicle, the “Warranty” section of the “Vehicle Data” screen will 
+show Warranty Key “ U94 Rear Brake Pad Warr Ext 2/ 24 from in-service date ” indicating this vehicle is eligible for this 
+Warranty Extension.   
+ 
+Warranty Information  
+ 
+Page 2 of 2 
+© 2022  Volkswagen Group  of America, Inc.  
+All rights reserved.  Information contained in this document is based on the latest information available at the time of prin ting and is subject to the copyright and other intellectual property 
+rights of Volkswagen Group  of America, Inc., its affiliated companies and its licensors. All rights are reserved to make changes at any time without not ice.  No part of this document may be 
+reproduced, stored in a retrieval system, or transmitted in any form or by any means, electr onic, mechanical, photocopying, recording, or otherwise, nor may these materials be modified or 
+reposted to other sites, without the prior expressed written permission of the publisher.  Internal  Documentation Requirements  
+Volkswagen Dealers are required to retain  the following documentation:  
+ The Brake Diagnostic Worksheet : 
+o The Brake Diagnostic Worksheet  is required to be filled out and uploaded to Doc -IT for Warranty 
+reimbursement on all Brake claims. This Worksheet is located in WISE under Resource Center > Forms > 
+Brakes.   
+ Photo Documentation for the Warranty Parts Portal  (WPP) : 
+o Photos of defective Rear Brake Pads and Rotors (if consequential) are required  to be taken, retained 
+with the Repair Order  and uploaded to the WPP upon request.  
+o All parts must be retained until the parts have appeared on the Dealers Warranty Part Disposition 
+Scrap/Core  Report.  
+Claims without the Brake Diagnostic Worksheet and required photos may be subject to cancellation . 
+SAGA Claiming Procedures  
+Dealers must use the following Claim Type and Service Number when submitting warranty extension claims for the Rear 
+Brake Pad  Limited Warranty Extension.  
+SAGA Claiming Procedures  
+Claim Type  110 
+Service Number  4638  
+Damage Code  0010  
+Vendor Code  Identified on the Part  
+Causal Indicator  Brake Pads must be marked as causal  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document Revision Table  
+Publish Date  Reason For Update  
+12/20/2022  Original Publication  
+11/16/2023  Added model year 2024  
+02/05/2025  Added model year 2025  
+ 

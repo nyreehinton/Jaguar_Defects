@@ -1,0 +1,87 @@
+Subject: eCascadia EQ Bonding Cables
+Models Affected: Speciﬁc model years 2023-2024 Freightliner
+eCascadia vehicles, manufactured May 16, 2022, throughOctober 17, 2023.
+General Information
+Daimler Truck North America LLC (DTNA), on behalf of its Freightliner Trucks Division, is initiating Field ServiceCampaign SF697 to modify the vehicles mentioned above.
+On the affected vehicles, equipotential (EQ) bonding cables, connected to various points on the chassis frame,
+may not have adequate strain relief, which may cause cable terminals to fatigue and break.
+Longer cables and brackets with additional strain relief will be installed.There are approximately 409 vehicles involved in this campaign.Additional RepairsDealers must complete all outstanding recall and ﬁeld service campaigns prior to the sale or delivery of a
+vehicle. A dealer will be liable for any progressive damage that results from its failure to complete campaignsbefore sale or delivery of a vehicle.
+Owners may be liable for any progressive damage that results from failure to complete campaigns within a
+reasonable time after receiving notiﬁcation.
+Please contact Warranty Campaigns for consideration of additional charges prior to performing the repair.
+Work Instructions
+Please refer to the attached work instructions. Prior to performing the campaign, check the vehicle for a
+completion sticker (Form WAR261).
+Replacement Parts
+Replacement parts are now available and can be obtained by ordering the part numbers listed below from yourfacing Parts Distribution Center (PDC).
+If our records show your dealership has ordered any vehicle(s) involved in campaign number SF697, a list of
+the customers and vehicle identiﬁcation numbers will be available on the DTNA Portal via OWL. Please refer tothis list when ordering parts for this campaign.Daimler Truck
+North America LLC Field Service Campaign
+September 2024 
+SF697 A
+(Revised February 2025 )
+Page 1           REVISION: The work instructions have been updated with additional figures to better illustrate the repair process.
+
+•This Field Service Campaign will terminate on September 30, 2025 . Dealers will be notiﬁed of any
+changes to the termination date via an Important Campaign Information Letter (ICI) posted on the DTNA
+Portal.
+IMPORTANT: OWL must be viewed prior to beginning work to ensure the vehicle is involved and the campaignhas not previously been completed. Check for a completion sticker before beginning work.
+All claims must be submitted within 30 days of the repair and within 30 days of the termination date of the
+campaign. U.S. and Canadian Dealers: All excess inventory to be returned to the PDC following the conclusionof the campaign must be returned in resaleable condition to the Memphis PDC within 90 days from thetermination date. Please submit a PAR to request return to the Memphis PDC. Canadian Dealers: return kits toyour facing PDC. Export Distributors: Excess inventory is not returnable.
+For questions, U.S. and Canadian dealers, contact the Warranty Campaigns Department via the Warranty
+Support Center (WSC) located on the DTNA Portal. Export distributors submit a WSC inquiry or contact yourInternational Service Manager.Daimler Truck
+North America LLC Field Service Campaign
+September 2024
+SF697 A
+Page 3Claims for Credit
+You will be reimbursed for your parts, labor, and handling (landed cost for Export Distributors) by submittingyour claim through the warranty system within 30 days of completing this campaign. Please reference thefollowing information in OWL:
+•Claim type is Field Service Campaign .
+•In the Campaign ﬁeld, enter the campaign number and appropriate condition code ( SF697-A).
+•In the Primary Failed Part ﬁeld, enter 25-SF697-000.
+•In the Parts section, enter the appropriate part numbers as shown in the Replacement Parts Table.
+•In the Labor section, enter the appropriate SRT from the Labor Allowance Table. Administrative time willbe included automatically as SRT 939-6010A for 0.3 hours.
+•The VMRS Component Code is F99-999-005 and the Cause Code is A1 - Campaign.(Revised February 2025)
+Copy of Notice to Owners
+Subject: eCascadia EQ Bonding Cables
+Daimler Truck North America LLC (DTNA), on behalf of its Freightliner Trucks division, is initiating Field Service
+Campaign SF697 to modify speciﬁc model years 2023-2024 Freightliner eCascadia vehicles, manufacturedMay 16, 2022, through October 17, 2023.
+On the affected vehicles, equipotential (EQ) bonding cables, connected to various points on the chassis frame,
+may not have adequate strain relief, which may cause cable terminals to fatigue and break.
+Longer cables and brackets with additional strain relief will be installed.Please contact an authorized DTNA dealer to arrange to have the campaign performed and to ensure that parts
+are available at the dealership. The campaign will take approximately two and a half hours and will beperformed free of charge. To locate an authorized dealer, search online at northamerica.daimlertruck.com/
+contact-us. Scroll down to “Locate a Dealer,” and select the appropriate brand.
+This Field Service Campaign will terminate on September 30, 2025 . Please make sure the campaign is
+completed prior to this date. Work completed after this date will be done at the customer’s expense.As stated in the terms of your express limited warranty, DTNA will not pay for any damage caused by failure to
+properly maintain your vehicle. DTNA considers the work necessary under this campaign to be propermaintenance and will, therefore, not pay for any damage to your vehicle caused by your failure to have therepairs that are the subject of this campaign performed in a reasonable time.
+Contact the Warranty Campaigns Department at (800) 547-0712, 7 a.m. to 4 p.m. Paciﬁc Time, M-F, e-mail
+address: dtna-war-campaigns@daimlertruck.com, or the Customer Assistance Center at (800) 385-4357, if youhave any questions or need additional information.
+WARRANTY CAMPAIGNS DEPARTMENT
+EnclosureDaimler Truck
+North America LLC Field Service Campaign
+September 2024
+SF697 A
+Page 4
+
+
+
+
+
+
+
+
+
+Daimler Truck  
+North America LLC Field Service Campaign  
+September 2024 
+SF697 A
+(Revised February 2025)  
+Page 14  26. Install the three HV cable clamps. See Fig. 2, on page 7.
+27. Use cable ties to secure the ground cables as shown in Fig. 8, Fig. 9 , Fig. 10, and Fig. 11. Use cable ties to
+secure the LV harness and other ground cables attached to the new EQ ground bracket.
+28. Tighten the EQ cable large stainless  steel  (SS) nut 26 lbf·ft (35 N·m).
+29. Tighten the EQ cable small  SS nuts,  E/E box fasteners,  and inverter  1 EQ cable fastener  11 lbf·ft (15 N- m).
+30. Install  the right-hand forward  battery  cover.
+31. Install  the four center  deck  plates  on the vehicle.  Install  the mounting fasteners  and tighten 11 lbf·ft (15 N- m).
+32. Clean a spot on the base label (Form WAR259), and attach a campaign completion sticker for SF697 (Form
+WAR261), indicating this work has been completed.

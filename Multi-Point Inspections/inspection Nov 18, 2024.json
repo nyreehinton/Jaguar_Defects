@@ -1,0 +1,30 @@
+{
+  "document_type": "Multi Point Inspection",
+  "cost": 0.00,
+  "customer_details": {
+    "name": "Nyree Hinton",
+    "vehicle": "2020 Jaguar F-Type"
+  },
+  "advisor": {
+    "name": "DANNY SANCHEZ",
+    "date_time": "Nov 18, 2024 03:58PM"
+  },
+  "overall_status": "REQUEST REPAIR ESTIMATES",
+  "video_summary": {
+    "findings": [
+      "The technician was able to pressurize the cooling system and found that the coolant bypass hose is leaking, causing residue all over the engine.",
+      "The technician inspected the vehicle and found that the rear brake rotors and pads need replacement, as the rotors have been cut deeply and the pads are below minimum specifications.",
+      "The technician also recommends an oil service due to the oil being low and dirty.",
+      "The current cabin filter is dirty and discolored."
+    ],
+    "services_completed": [
+      "Pressurized the cooling system",
+      "Identified a leaking coolant bypass hose"
+    ],
+    "recommendations": [
+      "Replace the rear brake rotors and pads",
+      "Perform an oil service",
+      "Replace the cabin filter"
+    ]
+  }
+}

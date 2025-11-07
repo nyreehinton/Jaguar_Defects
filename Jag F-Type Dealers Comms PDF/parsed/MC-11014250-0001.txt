@@ -1,0 +1,155 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+Stellantis US LLC                                           Version 4.5 06/08/2022 
+ 
+ 
+Case Number : S2208000154  Rev. A  
+ 
+Release Date:  February 2025  
+ 
+Symptom/Vehicle Issue :   Service Hybrid Electric Vehicle System Message Displayed 
+In The IPC . Vehicle Shakes During A  Cold Start And Noise Is Heard Near The P2 
+Motor. DTC’s U0287 -00 And B273C -00 
+ 
+Diagnosis : The cluster may display the “Service Hybrid Electric Vehicle System” 
+message. Upon scanning for DTCs, you may find U0287 -00 – Lost Communication 
+With Transmission Fluid Pump Set In The TCM. Along with B273C -00 – Digital Crash 
+Input in the HCP. This may be caused by damage to the PIM to P2 H igh Voltage  wiring 
+harness . Or inductive noise from the damaged HV harness being transferred to the low 
+voltage harness . You may also detect e lectrical noise on  the R414  when using an 
+oscilloscope  to monitor the circuit . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+Stellantis US LLC                                           Version 4.5 06/08/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Circuit R414. Electrical noise  and voltage spikes  caused by HV induction  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Circuit R414. Known Good Vehicle. Normal scope pattern.  
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+Stellantis US LLC                                           Version 4.5 06/08/2022 
+Inspect PIM to P2 wiring harness for rub through or damage near the transmission 
+driveshaft CV joint shield.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechCONNECT  or eCONTACT ticket if no 
+solution is found  
+ 
+Stellantis US LLC                                           Version 4.5 06/08/2022 
+ 
+Repair Procedure:   If damage is found, replace the high voltage wiring harness. 
+Follow all safety  procedures  for powering down and isolating the HV electrical system 
+before removing any HV wiring.  
+ 
+ 
+Verification:  Clear all DTC’s. Start the vehicle and verify that the vehicle runs 
+smoothly, and the cluster warning message is no longer displayed. Test drive the 
+vehicle and verify that the DTC’s and symptoms do not return.  
+ 

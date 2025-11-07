@@ -1,0 +1,63 @@
+Involved Region or
+CountryNorth America
+ConditionVehicle ma y roll when placed into park and the parking brak e is
+not set or a ratcheting noise is heard from the transmission
+when selecting park.
+CauseThis condition ma y be caused by the transmission having been
+placed into park at speed or prior to completing a complete
+stop, Damaging the P ark System.
+Bulletin No.: PIP6030A
+Published date: 02/25/2025
+Preliminary Information
+PIP6030A Diagnostic Aid: Alleged Vehicle May Roll In Park and/or
+Noise Heard From The Transmission When Placed Into Park
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Encor e GX 2022 - 2025 All AllAll MRG
+Chevr oletMalibu 2022 - 2025 All AllAll MRG
+Chevr oletTrailblazer 2022 - 2025 All AllAll MRG
+ 
+ 
+ 
+Correction:  
+Some Customers ma y comment of the vehicle not holding in park when the parking brak e
+is not set.
+This ma y be accompanied by a ratcheting noise from the transmission.
+Note: The Ratcheting noise ma y be heard with or without a loss of park.
+Previously T ransmissions with P ark system Damage were serviced by replacement of the
+unit.
+Now with the release of the lifting tool GM-52317 the park components can now be
+serviced individually .
+If this concern is encountered please perform the following :
+1. Verify the customer concern or no park or noise when placing into park. 
+2. Following Service Information suitably raise and support the vehicle. 
+3. Drain the transmission.
+4. Following the appropriate Service Information procedure remove the transmission
+from the vehicle. 
+5. Once the transmission is removed disassemble and inspect the transmission park
+components.  
+Note: Please review the Pictures below for Damage to the parking system
+Components.
+Note: Mak e Sure to closely inspect this area above for damage prior to removing the
+transmission. In Severe cases the parking pawl can puncture the case when trying to
+engage at high speed. 
+
+Note: The Parking P awl retaining bolt ma y be loose from repeated shifting while the
+vehicle is in Motion.
+Note: A Bent P ark P awl Actuator can usually be identiﬁed by a compressed spring the
+Plunger should be easily compressed against the spring.
+ 
+Version 2
+Modiﬁed12/10/2024 - Created on.  
+02/24/2025 Updated to include 2025 Model year 
+Note: The damage seen above is caused by trying to place the transmission in park at high
+speed These marks are not detrimental to the function of the component and will be used
+as is if other components. need replacement 
+If Damage is found replace the components as needed   
+Note: Thoroughly inspect the P ark P awl Actuator Rod, P arking P awl, Park P awl Actuator
+Guide, Bolt and Spring 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

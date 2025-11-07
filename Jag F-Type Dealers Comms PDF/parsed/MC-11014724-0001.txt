@@ -1,0 +1,80 @@
+BULLETINQUALITY BULLETIN
+Can-Am On-RoadFEBRUARY 5, 2025
+BULLETIN 2024-9 | REVISION A
+CAMPAIGN N°2024-0009
+ NOTE
+Repair only if described symptoms exist or are noticed.
+Defective Reverse Actuator
+MODEL YEAR MODEL ENGINE
+MY24 Spyder RT and F3 All
+IMPORTANT
+When receiving a vehicle for service:
+• Always lookup the vehicle identification number (VIN) on the Knowledge Center to ensure all required recalls are performed.
+• Always connect the vehicle to the BRP diagnostic software (BUDS) to ensure all required updates are performed.
+PROBLEM
+Reverse engagement may not be possible due to an internal
+soldering problem that may cause premature failure of the reverse
+actuator.
+SOLUTION
+Replace the reverse actuator of the affected vehicles.
+REQUIRED PARTS
+Order parts through the regular channel.
+DESCRIPTION PART NUMBER QTY
+Reverse Actuator 710011269 1DESCRIPTION PART NUMBER QTY
+5/32 Pop rivet 390403000 1
+CORRECTIVE ACTION
+1. On RT models, remove the LH upper fairing and the LH
+central fairing.
+Printed in Canada (rbg2024-009).
+© All rights reserved.
+®™ and the BRP logo are trademarks of Bombardier Recreational Products Inc. or its affiliates.1/4 Document No. 2024-9
+2. On all models, disconnect the reverse actuator connector.
+3. Remove and keep the reverse actuator mounting screws and
+nuts.
+4. Detach the actuator cable from the control lever.
+5. Using a suitable drill bit, Remove the cable from the factory
+actuator by drilling the rivet head.
+ NOTE
+Holding the rivet head in a vise may help when drilling.
+6. Install the cable on the new actuator and secure it using the
+pop-rivet.
+7. Install the actuator cable on the control lever.  DEFECTIVE REVERSE ACTUATOR
+February 5, 2025 2/4 Document No. 2024-9
+Revision A
+8. Install the new reverse actuator and secure it using the
+previously removed mounting screws and nuts.
+9. Tighten to specification.
+TIGHTENING TORQUE
+Reverse actuator screws1.5 N•m ± 0.4 N•m
+(13 lbf•ft ± 4 lbf•in)
+10. Connect the reverse actuator connector.
+11. On RT models, install the LH central fairing and the LH upper
+fairing .
+WARRANTY
+Submit a warranty claim using the following information.
+For claiming procedure, refer to the online Dealer/Distributor
+Warranty Guide .
+With BOSSWeb
+CLAIM DETAILS
+Product Line 3WV
+Unit Model Year 2024
+Campaign/Bulletin/Description 2024-0009 / 2024-9 / SPYDER
+REVERSE ACTUATOR
+Total Labor Time Paid 0.5 hour
+Expiration Date April 30, 2027
+With Warranty On Demand
+CLAIM DETAILS
+Claim Type Unit Campaign
+Serial Number Enter Serial Number  DEFECTIVE REVERSE ACTUATOR
+February 5, 2025 3/4 Document No. 2024-9
+Revision A
+CLAIM DETAILS
+Warranty Campaign Select SPYDER REVERSE
+ACTUATOR / BULLETIN
+2024-9 / 3WV-2024-0009  from
+the drop-down list
+Date of Repair Repair date
+Total Labor Time Paid 0.5 hour
+Expiration Date April 30, 2027  DEFECTIVE REVERSE ACTUATOR
+February 5, 2025 4/4 Document No. 2024-9
+Revision A

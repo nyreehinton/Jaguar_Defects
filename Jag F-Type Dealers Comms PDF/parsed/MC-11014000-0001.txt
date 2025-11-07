@@ -1,0 +1,45 @@
+Reference SSM76229
+Models Defender / L663
+New Range Rover / L460
+New Range Rover Sport / L461
+Title Diagnostic Trouble Code (DTC) P0A78-49 stored in the Electric Power Inverter Converter (EPIC)
+Category Driveline
+Last modified 03-Jan-2025 00:00:00
+Symptom 501000 Automatic Transmission Concerns
+Content Model / Model Year / Derivative
+ 
+Range Rover / 24MY onwards / NC11 MHEV only
+Range Rover Sport / 24MY onwards / NC11 MHEV only
+Range Rover / 25 MY onwards / AJ20P6 / AJ20D6 / NC11 MHEV only
+Range Rover Sport / 25MY onwards / AJ20P6 / AJ20D6 / NC11 MHEV only
+Defender / 25MY onwards / OCTA / NC11 MHEV only
+Situation:
+ 
+JLR Engineering investigations have found that certain vehicles are displaying a 'Stop Safely Electrical Fault
+Detected' warning message on the instrument panel.
+Diagnostic Trouble Code (DTC) P0A78-49 is found to be stored in the Electric Power Inverter Converter (EPIC).
+ 
+Cause:
+ 
+Software error.
+ 
+Action:
+ 
+Refer to the service information below.
+ 
+Service Information:
+ 
+Complete the following TOPIx Cloud Test Plans by entering the below symptom.
+Symptom:
+Electric Vehicle > Warning Lamps > High Voltage > Battery Warning Lamp Illuminated
+ 
+Test Plan(s):
+P0A78-49 Part 1
+This Test Plan will check and update the EPIC software as required. Once complete, Test Plan Part 1 will instruct
+you to complete Test Plan Part 2.
+ 
+P0A78-49 Part 2
+This Test Plan will validate if the software update was successful in rectifying the concern. Further guidance will
+be provided as required if the software update was unsuccessful.
+(Ref 000386267) 
+anBhdHRlcnM7MjA yNS0wMS0wNlQxMjo1Mjo1MC4zNjhaOzE2NS4yMjUuOS45NT s=

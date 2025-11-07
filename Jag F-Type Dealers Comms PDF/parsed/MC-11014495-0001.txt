@@ -1,0 +1,31 @@
+ 
+Field Action Number  N23-242899  
+Release notes  Certain vehicles may have a Brake System 
+Control Module (BSCM) that does not 
+correctly set a Diagnostic Trouble Code (DTC) 
+or illuminate the Malfunction Indicator Lamp 
+(Check Engine Light) if certain system faults 
+with the potential to affect the vehicle’s  
+emissions control system were to 
+occur.   Dashboard warning messages and 
+warning lights for traction control, stability 
+control, and brake system would remain 
+functional in the event that a fault that could 
+potentially impact drivability is detected. This 
+update will complete the remedy for GM 
+Recall No. N232428991 and no additional 
+steps are needed after a successful update. 
+You will also receive a letter providing 
+additional details regarding this issue.  
+ 
+During the update process, your radio may 
+stay on up to 5 minutes after you exit the 
+vehicle. This is expected behavior when an 
+update package is onboard the vehicle. Do 
+not service your vehicle during installation.  
+Model Year  2024 
+Make  Chevrolet  
+GMC  
+Model  Silverado 1500  
+Sierra 1500  
+Components  EBCM (E lectronic Brake  Control Modul e) 

@@ -1,0 +1,128 @@
+ 
+ 
+ 
+Classification: Reference: Date: 
+EC24-020 NTB25-007 January 29, 2025 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/4 
+ 
+MIL ON WITH DTC P0196 STORED IN THE ECM 
+ 
+APPLIED VEHICLES: 2021-2025 Rogue (T33) 
+APPLIED ENGINES: KR15DDT 
+ 
+    
+IF YOU CONFIRM 
+ 
+The MIL is ON with DTC P0196 f
+or “E OT SENSOR” stored in the ECM. 
+  
+HINT: 
+DTC P0012 for “INTAKE VALVE TIMING CONT ROL B1” may be stored along with P0196 
+for “EOT SENSOR”.  
+ 
+ 
+ACTION 
+ 
+Follo
+w the SERVICE PROCEDURE  in this bulletin to diagnose DTC P0196 for “EOT 
+SENSOR”.  
+ Disregard P0012 if st ored along with P0196. 
+ 
+ Do not follow the service information in the ESM when diagnosing P0196. 
+ 
+ The ESM information will be updated at a later date. 
+      
+ 
+IMPORTANT:  The purpose of ACTION  (above) is to give you a quick idea of the work you 
+will be performing. You MUST closely follow the entire SERVICE PROCEDURE  as it 
+contains information that is essential to  successfully completing this repair.  
+2/4 NTB25-007  
+ REPAIR OVERVIEW 
+    
+ 
+  
+Is DTC P0196 for “EOT 
+SENSOR” stored in the ECM? 
+Yes 
+This bulletin does NOT 
+apply. Refer to the ESM 
+for diagnostic and repair 
+information for the 
+applicable DTC. 
+Follow the 
+procedure in this 
+bulletin to diagnose 
+DTC P0196 for 
+“EOT SENSOR” 
+before attempting to 
+diagnose any 
+additional DTCs.  
+No 
+Is DTC P0196 for “EOT 
+SENSOR” stored along with 
+any other DTCs? 
+Yes 
+ No 
+Follow the procedure in this 
+bulletin to diagnose DTC 
+P0196 for “EOT SENSOR”.  
+Is DTC P0012 for 
+“INTAKE VALVE TIMING 
+CONTROL B1” stored 
+along with DTC P0196 for 
+“EOT SENSOR”? 
+Yes 
+Disregard DTC 
+P0012 and follow 
+the procedure in 
+this bulletin to 
+diagnose DTC 
+P0196 for “EOT 
+SENSOR”.  
+No 
+3/4 NTB25-007 SERVICE PROCEDURE 
+ 
+ 
+To avoid the risk of serious personal injury or death, park the vehicle in a well ventilated 
+area during the service procedure. 
+ 1. Park the vehicle in a well ventil ated area with the parking brake set and no 
+combustible material under the vehicle. 
+ 2. Connect CONSULT.  3. View data monitor for engine.  4. Ensure the engine oil temperature and engi ne coolant temperature are at a minimum 
+of 176° F (80° C). 
+ 5. Start the engine.  6. Place the transmission in Neutral (N).  7. Increase the engine RPM to 3,000 for 4 minutes. 
+ 8. Release the accelerator pedal and allow the engine to idle.  9. Increase the engine RPM to 3,00 0 for an additional 4 minutes. 
+ 10. Immediately monitor the engine oil tem perature and the engine co olant temperature, 
+then compare the values without allowing the engine to cool down. 
+ 
+ If the engine oil temperature exceeds the engine coolant temperature by a 
+minimum of 22°F (12° C) repl ace the water control valve ( Figure 1). 
+ 
+o Water control valve retaining bo lt torque: 8.1 N•m (0.83 kg-m, 72 in-lb) 
+ 
+ If the engine oil temperature does not ex ceed the engine coolant temperature by 
+a minimum of 22°F (12° C) replace the engine oil temperature sensor ( Figure 2). 
+ 
+o Engine oil temperature sensor  torque: 14.75 N•m (1.5 kg-m, 11 ft-lb) 
+ 
+  
+   
+ Figure 1 Figure 2 Water 
+control 
+valve 
+Engine oil 
+temperature sensor 
+4/4 NTB25-007  
+       
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+January 29, 2025 NTB25-007 Orig inal bulletin published 
+ 
+  
+ 

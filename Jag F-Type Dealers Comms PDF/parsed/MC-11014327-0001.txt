@@ -1,0 +1,46 @@
+Next Unread Message View Message
+PRIORITY/ACTION REQUIRED
+     To:         All Acura Service Managers/Consultants
+     From:     Technical Information & Support Group 
+     RE:          Request for Parts: 2021-2025 TLX Rear Stroke Sensor Issue (ACTION REQUIRED)
+This message is solely directed to Acura dealership personnel; please handle it accordingly.
+Print this iN message and provide a copy to the Shop Foreman and all Service Consultants.
+Background
+American Honda Motor Co., Inc. (AHM) is searching for certain 2021-2023 TLX ADV’s and 2021-2025 TLX Type S’s with a client complaint of the “Adaptive Damper
+System Problem” (ADS) error message on the MID (Multi Information Display). To better understand the cause of this condition, AHM would like to collect specific parts
+from the vehicle prior to you attempting a repair of any kind.
+Qualifiers
+AHM is interested ONLY if the vehicle meets the following requirements:
+     1.  Must have one of the following DTC stored (email the All DTC check printout to TIS):
+               C1646-12 (Left Rear Stroke Sensor Upper Limit Abnormality) 
+               C1646-14 (Left Rear Stroke Sensor Lower Limit Abnormality)
+               C1647-12 (Right Rear Stroke Sensor Upper Limit Abnormality)  
+               C1647-14 (Right Rear Stroke Sensor Lower Limit Abnormality)
+     2.  No previous replacement of the sensor (52825) and coupler has not been disconnected or disturbed.  
+     3.  No repair has been attempted for this issue.
+     4.  No collisions.
+Action Required
+If a vehicle matching the qualifiers above comes into your dealership, please e-mail Technical Information & Support (TIS) at tis@ahm.honda.com, or call us at
+800-880-1072 (Monday-Friday, 7am-5pm PST). TIS will need to record certain vehicle information and provide you with further instructions.
+Please be sure to include the following information in your e-mail.
+E-mail Title:
+     1.  Model Year (e.g. 2024)
+     2.  Model Name (e.g. TLX)
+     3.  Issue (e.g. Brake Judder)
+     4.  VIN
+E-Mail Body:
+     1.  Dealer Number
+     2.  Your Name
+     3.  Best Phone Number to be Reached
+     4.  Current Mileage
+     5.  Confirm that the vehicle meets qualifiers #1-#4 listed above & attach the All DTC Check printout.
+     6.  DPTS #
+  
+As a gesture of appreciation to the dealer personnel who identify and report a vehicle that meets the qualifiers, is accepted as a candidate and is the subject of a
+successful Dealer Visit/Parts Collection/Info Collection, AHM will provide the referring personnel with a VISA gift card . Technical Information & Support (TIS) will
+provide additional information if this situation applies.
+Thank you. 
+Sent on 02 11 2025     Expires on 02 25 2025
+From Technical Information & Support Group
+Subject Request for Parts: 2021-2025 TLX Rear Stroke Sensor Issue (ACTION REQUIRED)INTERACTIVE NETWORK
+American Honda Motor Co., Inc. Page 1 of 1

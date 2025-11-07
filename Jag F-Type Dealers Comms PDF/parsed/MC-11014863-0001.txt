@@ -1,0 +1,300 @@
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 1 of 16
+PRODUCT CAMPAIGN BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: WRB-25
+ DATE: 02/14/25
+ NHTSA ID: 25V-033 APPLICABILITY: 2025MY Forester
+ SUBJECT: Safety Recall and Stop Sale – Incorrect  
+  Wheel Lug Seat Surface
+Subaru of America, Inc. (Subaru) has initiated a safety recall for certain 2025 model year Forester 
+Limited vehicles equipped with 18-inch aluminum alloy wheels. 
+Description of the Defect and Safety Risk
+The affected vehicles may be equipped with 18-inch aluminum alloy wheels manufactured with an 
+incorrectly specified lug seat surface. The incorrectly specified lug seat surface could affect vehicle 
+stability, increasing the risk of a crash.
+Remedy
+For all potentially affected vehicles, Subaru retailers will inspect all four wheels and replace any 
+wheel(s) found to have an incorrectly specified lug seat surface with correctly manufactured one(s).
+Affected Vehicles
+A total of 20,366 U.S. vehicles will be affected by this recall, as listed below. Not all vehicles in the 
+production range listed are affected by this recall. Coverage must be confirmed by using the Vehicle 
+Coverage Inquiry function on subarunet.com prior to repair. 
+Model Year Carline Production Date Range
+2025 Forester April 5, 2024 – October 15, 2024
+Retailer Responsibility
+Please be advised that it is a violation of Federal law for a dealer to deliver a new motor vehicle 
+covered by a recall under a sale or lease until the defect is remedied. Therefore, any Authorized 
+Subaru Retailer failing to perform the applicable service procedures to correct all affected 
+vehicles in their inventory prior to the vehicle being placed in service may be subject to civil 
+penalties of up to $27,874 per violation (i.e., for each vehicle), as provided in 49 CFR §578.6 and 
+will also be in breach of the Subaru Dealer Agreement.ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 2 of 16
+Continued...Any vehicles listed in any recall/campaign that are in retailer stock must be:
+• Immediately identified
+• Tagged or otherwise marked to prevent their delivery or use prior to repair
+• Repaired in accordance with the repair procedures outlined in the Product Campaign Bulletin 
+once the parts become available. 
+Retailers are to promptly perform the applicable service procedures, to correct all affected vehicles in 
+their inventory (used, demo & SSLP). Whenever a vehicle subject to this recall is taken into retailer 
+inventory necessary steps should be taken to ensure the recall correction has been made before selling 
+or releasing the vehicle.
+Owner Notification
+Subaru will notify affected vehicle owners by first class mail on February 28, 2025.
+SERVICE PROCEDURE FLOW CHART:
+
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 3 of 16
+Continued...PART INFORMATION: 
+Part Name Part Number Qty Image
+DISC WHEEL AL 18
+NOTE: See below for information on 
+placing part orders28111SL0409S As Needed
+With 
+TPMS VALVE 28194FJ001 As Needed
+SELF-TAP SCREW, 
+VALVE28192FJ000 As Needed
+Without 
+TPMSVALVE 28102AA000 As Needed
+
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 4 of 16
+Continued...INFORMATION PART ORDERING FOR 18-INCH WHEELS:
+If the inspection results in a wheel replacement, an email must be sent to the PICs. To ensure 
+adequate inventory of wheels are available, the 18-inch wheel ( p.n. 28111SL0409S) is restricted from 
+retailer ordering. Therefore, the following process MUST be followed to obtain a wheel(s).
+IMPORTANT: Failure to follow the process as outlined below will delay potential part release.
+Vehicles requiring wheel replacement:
+Send an email to the Parts Information Coordinators (PICs) at Picemail@subaru.com . The subject 
+line of the email should include reference to the WRB-25 recall, your 6- digit retailer code, the last 
+8 characters of the vehicle identification number (VIN) requiring the wheel replacement, and the 
+number of wheels needed (Example: WRB-25- 030291- SH123456- 1 wheel).  In addition, clear 
+photos of the wheel(s) will be required. The EXAMPLE image below provides clear instructions 
+on how to mark the holes on wheels that fail inspection. Clear photos of the wheel(s) with these 
+markings must be attached to the email that is sent to the PICs. To ensure efficient review and order 
+placement, please be sure to include the requested photo in a .jpeg format.
+Upon receipt of the email, the PICs will review the information and reply to the retailer email with 
+an order number, if the wheel order was placed, or requesting additional information if all of the 
+requested information was not provided. If the order is placed, the retailer should expect to receive 
+the wheel(s) within 2-3 business days. 
+
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 5 of 16
+Continued...IMPORTANT: All 18-inch aluminum alloy wheels manufactured in November 2024 and after 
+are shipped with the countermeasures. One of the five triangular indentations on the back of 
+the wheel is stamped with the year and month of manufacture. Any 18-inch aluminum alloy 
+wheels that were purchased as spare parts before and are subject to inspection.
+REQUIRED TOOLS:
+Part Name Part Number Image
+WRB-25 Inspection Gauge 28199SL000
+NOTE: One WRB-25 Inspection Gauge will be automatically shipped to all retailers at no cost.  
+Shoulder
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 6 of 16
+Continued...Tool Name Image Applications
+Wheel Nut Socket 19mm
+ For loosening and tightening wheel nuts
+Tire Changer
+For wheel replacement
+Wheel Balancer
+ Adjust the wheel balancing
+Tire Pressure Gauge
+ Tire air pressure adjustment
+Adjustable Torque Wrench
+Checking the tightening torque of 
+wheel nuts
+Permanent Marker
+To be used when putting a mark on the 
+back of the wheel after inspection of the 
+wheel
+NOTE: Further information regarding tire and wheel service equipment can be found on the Subaru 
+Tools & Equipment website.  
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 7 of 16
+Continued...SERVICE PROCEDURE INFORMATION:
+STEP 1: Confirm the affected wheels are installed on the vehicle. The applicable wheels are ONLY 
+the 18-inch wheels ( p.n. 28111SL0409S) shown below.
+STEP 2: Raise the vehicle using the lift manufacturer’s specified procedures.
+STEP 3: Mark the current tire position of each tire using masking tape or wax pen. 
+STEP 4: Remove all four wheels.  
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 8 of 16
+Continued...STEP 5: Slowly insert the WRB-25 Inspection Gauge into all five holes from the backside of each 
+wheel. For a more accurate result, perform the inspection with the wheel positioned upright instead of 
+facing down. 
+NOTE: The shoulder of the gauge is 13.5mm in diameter and 15mm in length. 
+CAUTION: DO NOT  insert the inspection gauge from the front side of the wheel.
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 9 of 16
+Continued...INSPECTION RESULTS:
+IMPORTANT: The inspection gauge will either stop at the 15mm shoulder or fully penetrate 
+through the lug hole. Refer to the images below and additional information on the next page prior to 
+proceeding. 
+
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 10 of 16
+Continued...Did the inspection gauge fully penetrate through any of the wheel lug holes past the 15mm 
+shoulder?
+YES: Using a permanent marker or paint pen, mark the failed inspection holes with an “ X” 
+on the back side of the wheel. This will prevent the failed wheels becoming confused passing 
+wheels. Proceed to STEP 6.
+NO: The wheels do not require replacement. Proceed to STEP 8 ONLY. 
+STEP 6: Clear photos of the wheels will be required. The EXAMPLE image above provides   
+clear instructions on how to mark the holes on a wheel that fail inspection. Provide clear photos of 
+the affected wheels to your retailer’s parts department. The parts department can then refer to the 
+information supplied on page# 4 of this bulletin for instructions on obtaining the necessary parts. 
+Once all required parts are received, Proceed to STEP 7.
+NOTE: Required photos are to be submitted in .jpeg formatting. 
+STEP 7: Replace the affected wheel with a new wheel. Using suitable tire replacement and balancing 
+equipment.  
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 11 of 16
+Continued...IMPORTANT:
+• The original tire is to be installed on the new wheel. DO NOT replace the tire. 
+• Set the failed wheels aside to confirm they are not confused with usable wheels. 
+• The tire valves are to be replace with every wheel replacement. DO NOT re-use the tire 
+valves. 
+• The center caps are not to be replaced. The original center caps MUST be transferred to the 
+new wheel. 
+• If the vehicle is equipped with TPMS, the original TPMS sensor is to be transferred to the 
+new wheel. The sensor mounting screw will require replacement. DO NOT re-use the sensor 
+mounting screw. Take particular care not to damage the tire TPMS sensors during. 
+NOTE: Further information regarding tire and wheel service equipment can be found on the Subaru 
+Tools & Equipment website.  
+STEP 8: Did any of the wheels require replacement?
+NO: Install the tire and wheel assemblies on to their original positions (indicated by the 
+markings). Torque the wheels lugs to 120Nm (89 ft-lbs.). Remove the masking tape or wax 
+pen markings from the tires.  
+YES: Install the tire and wheel assemblies on to their original positions (indicated by the 
+markings). Torque the wheels lugs to 120Nm (89 ft-lbs.). Remove the masking tape or wax 
+pen markings from the tires.   Proceed to the next Step. 
+CAUTION: ALWAYS confirm the wheels being installed have no “ X” markings on the inside of the 
+wheel. 
+STEP 9: Wheels failing the inspection process  MUST be destroyed and properly recycled. The 
+wheels can be destroyed using any of the following three methods:
+METHOD 1: Using a hammer and punch to deform the tire valve area. 
+METHOD 2: Drill a hole in the center of the wheel.  
+METHOD 3: Using a hammer and punch, puncture the center of the wheel.  
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 12 of 16
+Continued...These methods will ensure the wheel(s) will not be able to hold any air preventing any possible re-
+use.
+SERVICE PROGRAM IDENTIFICATION LABEL:
+Type or print the necessary information on a Campaign Identification Label. The completed label
+should be attached to the vehicle’s upper radiator support.  Additional labels are available through 
+normal parts ordering channels. The part number is MSA6P1302, which comes as one sheet of 20 
+labels.
+
+Bulletin Number: WRB-25;  Date: 02/14/25         Page 13 of 16
+CLAIM REIMBURSEMENT AND ENTRY PROCEDURES:
+Credit to perform this recall will be based on properly completed repair order information. Retailers 
+may submit claims through Subarunet.com.
+Labor Description Labor Operation # Labor Time Fail Code
+Inspection only A613-086 0.5h
+WRB-25Inspection and 1 Wheel replacement A613-186 1.1h
+Inspection and 2 Wheel replacement A613-286 1.4h
+Inspection and 3 Wheel replacement A613-386 1.6h
+Inspection and 4 Wheel replacement A613-486 1.8h
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.
+Subaru of America, Inc
+PO Box 9103
+Camden, NJ 08101-9877
+844-373-6614
+www.subaru.com
+Subaru Safety Recall WRB-25
+NHTSA Recall ID 25V-033
+February 2025IMPORTANT SAFETY RECALL
+This notice applies to the VIN identified in 
+the address section printed below
+Dear Subaru Owner:
+This notice is sent to you in accordance with the National Traffic and Motor Vehicle Safety 
+Act.
+Subaru of America, Inc. (Subaru) has decided that a defect which relates to motor vehicle 
+safety exists in certain 2025 model year Forester vehicles. 
+You received this notice because our records indicate that you currently own one of these 
+vehicles. 
+DESCRIPTION OF THE DEFECT AND SAFETY RISK
+Your vehicle may be equipped with 18-inch aluminum alloy wheels manufactured with an 
+incorrectly specified lug seat surface, which could result in the wheel being improperly 
+secured. An improperly secured wheel affects vehicle stability, increasing the risk of a 
+crash.
+WHAT SUBARU WILL DO
+Subaru will inspect all four wheels on your vehicle and replace any wheel(s) found to have 
+an incorrectly specified lug seat surface, free of charge.
+WHAT YOU SHOULD DO
+Please contact your Subaru retailer (dealer) immediately to schedule an appointment to 
+have this safety recall completed at no cost to you.
+HOW LONG WILL THE REPAIR TAKE?
+The inspection of your vehicle’s wheels for the defective condition will take approximately 
+30 minutes. However, it may be necessary to leave your vehicle for a longer period of time 
+to allow your Subaru retailer flexibility in scheduling.
+If any of the wheels are defective and need replacement, your retailer will order 
+replacement wheel(s) for your vehicle. The replacement process can take up to two hours, 
+depending on how many wheels need to be replaced. 
+If wheel replacement is necessary, your retailer will provide you with alternative 
+transportation at no cost until your vehicle is ready.
+OWNER INFORMATION
+Government regulations require that recall notifications be sent to the last known owner of 
+record. That information is based primarily on state registration and title data. If you are a 
+lessor of this vehicle, federal regulations require you to forward this notice to your lessee 
+within ten days.
+If you have moved or sold your vehicle, please go to https://www.subaru.com/support/
+customer-support.html to send us your information. 
+IF YOU HAVE PREVIOUSLY PAID FOR A REPAIR
+If you have already paid for repairs associated with this condition, you may be eligible for 
+reimbursement. Reimbursement consideration will be based on the amount an authorized 
+Subaru retailer in your area would charge for the same repair.
+Please send the original service repair order, which has the name of the repair facility, date 
+of repair, mileage at the time of repair, complete 17-digit vehicle identification number (VIN), 
+and your name, with correct mailing address and telephone number to the address listed 
+below:
+Subaru of America, Inc.
+Customer Advocacy Department, Attention: WRB-25 Recall
+P.O. Box 9103, Camden, NJ 08101-9877
+Please send original receipts only and retain a photocopy for your records.  Please be 
+assured that we will attempt to process your reimbursement request as quickly as possible, 
+but it may take up to 60 days for this process to be completed.
+IF YOU NEED FURTHER ASSISTANCE:
+To locate the nearest Subaru retailer, you can access our website at www.subaru.com and 
+select ‘Find a Retailer.’
+For additional information, please go to: http://www.wrb25.service-campaign.com.
+If you need additional assistance, please contact us directly:
+• By e-mail: Go to https://www.subaru.com/support/customer-support.html and select 
+‘Email Us’
+• By telephone: 1-844-373-6614  
+Monday through Friday between 8:00 a.m. and 7:00 p.m. ET
+• By U.S. Postal mail:  
+Subaru of America, Inc.  
+Attn: Customer Advocacy Department  
+P .O. Box 9103, Camden, NJ 08101-9877
+A subsidiary of SUBARU CORPORATIONTo subscribe to the NHTSA Recall Notification email System, please go to: https://www-  
+odi.nhtsa.dot.gov/nhtsa/subscriptions.
+Please contact us immediately if the Subaru retailer fails or is unable to make the necessary 
+repairs free of charge.
+If your dealer fails or is unable to remedy this defect without charge, or within a reasonable 
+amount of time, you may submit a written complaint to:  Administrator, National Highway 
+Traffic Safety Administration (NHTSA), 1200 New Jersey Ave., SE, Washington, DC 20590 
+or call the toll-free Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153) or go 
+to http://www.NHTSA.gov. 
+Your continued satisfaction with your Subaru is important to us.  Please understand that we 
+have taken this action in the interest of your safety and your vehicle’s proper operation.  We 
+sincerely apologize for any inconvenience this matter may cause and urge you to schedule 
+an appointment as soon as possible.
+Sincerely,
+Subaru of America, Inc.

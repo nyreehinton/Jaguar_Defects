@@ -1,0 +1,108 @@
+Less Info
+Countries:CANADA, MEXICO, UNITED
+STATESDocument ID:IK0800672
+Availability: ISIS, IsSIR Revision: 0
+Major System: Electrical Created: 7/29/2024
+Current
+Language:EnglishLast
+Modified:2/6/2025
+Other Languages:NONE Author:David
+Horner
+Viewed: 173
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 1
+ 0
+Title: Bendix Wingman Fusion FLR25- Cruise Inoperative or SPN 61447 FMI 14 or SPN 61453 FMI 14
+or SPN 61461 FMI 14
+Applies To: Units built 12/20/2022 - 11/11/2024 On the following models with Feature Codes: CE
+Bus- 0510234 LT RH- 001MBS & 0510234 LT RH- 008TRR or 0510234 & 001LRM or 001LRV or 001LRN
+or 001LRL
+CHANGE LOG  
+ 
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/06/2025 - Initial Article Release
+ 
+ 
+DESCRIPTION
+ 
+This document will guide the technician through diagnosing vehicle operator reported symptoms listed below related to Bendix
+Wingman Fusion where technicians have found evidence of moisture behind the Forward Looking Radar (FLR) cover on
+vehicles equipped with Bendix FLR25 according to the body feature codes in the title area applies to section above
+ 
+0008TRR
+Collision Mitigation System (Bendix Wingman Fusion) includes Adaptive Cruise, Stop & Auto Go, Enhanced Collision Mitigation,
+Multilane Auto & Stationary V ehicle Braking, Roadway Departure Alert & Braking, Lane Departure W arning Switch & Speakers,
+Overspeed Alert & Action, Front Radar & Camera, Driver Display , and Safety Direct Capable (without Safety Direct Cable).
+ 
+OR
+0510234
+Engineering Program Identity for Program E90 Fusion Radar Changes 
+ 
+ 
+SYMPT OM(s)
+Diagnostic T rouble Code(s) & Dashboard Indicator Light(s):
+ 
+DTC/Light Description
+61447-14 (520206)  Alignment Error / Blockage
+61453-14 (913422)  Possible Radar Blockage
+61461-14 (1437710)  ECU Not Yet Aligned
+ 
+Customer Observations or Concerns:
+One or more of the following symptoms may be present
+ 
+1. Radar Blockage Notifications
+2. Cruise Control Inoperative
+ 
+ 
+ 
+SPECIAL  TOOL(s) / SOFTW ARE
+ 
+ 
+Tool Description Tool Number Comments  Instructions
+ Bendix ACOM    
+ Drill    
+ 3/8" Drill Bit    
+ 
+ 
+ 
+SERVICE P ARTS INFORMA TION
+ 
+ 
+Kit Description Part NumberQuantity
+RequiredNotes
+n/a   
+ 
+ 
+ 
+ 
+ 
+ 
+REPAIR STEP(s)
+ 
+1. Remove radar cover
+2. Unplug FLR connector
+3. Inspect FLR and harness for terminal damage and repair as needed 
+4. Drill 2 3/8" holes in the bottom of the cover
+Hide Details Feedback Information
+Viewed: 172
+Helpful: 1
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc.5. Clean face of cover & radar with a shop rag
+6. Reinstall cover 
+ 
+ 
+WARRANTY  INFORMA TION
+ 
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+ 
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+OTHER RESOURCES
+Master Service Information Site
+ 

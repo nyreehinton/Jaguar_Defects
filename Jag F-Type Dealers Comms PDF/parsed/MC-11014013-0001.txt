@@ -1,0 +1,29 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: PIE0810B
+Service BulletinDate: January, 2025
+ENGINEERING INFORMATION
+Engineering Information – Malfunction Indicator Lamp (MIL) Illuminated on
+Driver Information Center (DIC), DTC P0442 Set
+This EI has been revised to end the need for gathering information from the field. Please
+discard PIE0810A.
+Brand: Model: Model Year: Breakpoint: Engine: Transmission:
+from to from to
+BuickEncore GX
+2025 2025 — —Equipped with
+1.2L (RPO
+LBP)—Envista
+ChevroletTrailblazer (VIN M)
+TraxSubject:
+If you encounter a vehicle with the above condition, refer to PIP6038 for further diagnosis.
+Version 3
+Modified Released December 12, 2024
+Revised January 10, 2025 – Updated the Correction and Contact Information.
+Revised January 23, 2025 – Ended the need for gathering further information from the
+field.

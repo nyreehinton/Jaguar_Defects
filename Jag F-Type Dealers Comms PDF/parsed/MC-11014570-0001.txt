@@ -1,0 +1,212 @@
+  A printed copy is for reference only; publication information can be updated at any time.  
+Always refer to KGIS for the latest information. After logging in kdealer.com,  the newest technical 
+publications are listed in  ‘Service Releases’ and has the latest service information that has been released.   GROUP  MODEL  
+BOD  2025MY 
+K4 (CL4) 
+NUMBER  DATE  
+338 (Rev 1, 2/26/2025)  February  2025 
+TECHNICAL SERVICE BULLETIN  
+SERVICE ACTION: WINDSHIELD  
+WASHER FLUID REPLACEMENT  (SA606) 
+ 
+This bulletin provides  the procedure to replace the windshield wiper fluid on certain 2025MY K4 (CL4) vehicles 
+produced from January 20, 2025  to January 21, 2025 , which may have been contaminated/mixed with engine 
+coolant fluid during assembly.  The coolant fluid may form a n ‘oily/sticky ’ mixture  preventing proper cleaning 
+of the  vehicle’s  windshield  when the windshield wiper is activated.  Follow the procedure outlined in this 
+publication to  drain the existing  windshield washer fluid , rinse , and refil l with new windshield washer fluid on 
+the applicable vehicle . Before conducting the procedure, verify that the vehicle is included in the list of affected 
+VINs  below .  
+ 
+ VIN List  
+3KPFT4DE2SE091166  3KPFT4DEXSE091044  3KPFT4DEXSE091058  
+3KPFT4DE7SE091034  3KPFT4DE1SE091059  3KPFT4DE3SE090933  
+3KPFT4DE5SE091162  3KPFT4DE2SE090809  3KPFT4DE3SE091032  
+3KPFT4DE4SE091170  3KPFW4DC6SE090916  3KPFT4DE9SE091049  
+3KPFT4DE2SE091037  3KPFW4DC0SE090958  3KPFT4DE2SE090759  
+3KPFT4DE4SE091055  3KPFW4DC3SE090940   
+ 
+  
+This bulletin has been revised to include additional information.  New/revised sections of this 
+bulletin are indicated by a black bar  in the margin area.  
+ NOTICE  SUBJECT:  
+  
+A Service Action is a repair program without customer notification that is performed during the 
+warranty period. Any dealer requesting to perform this repair outside the warranty period will 
+require DPSM approval.  
+Repair status for a VIN is provided on KDealer+  (Service → Warranty Coverage → Warranty 
+Coverage Inquiry → Campaign Information). Not completed Recall / Service Action reports are 
+available on KDealer+  (Consumer Affairs → Not Completed Recall → Recall VIN → Select Report), 
+which includes a list of affected vehicles.  
+This issue number is SA606. 
+ 
+ NOTICE  
+WINDSHIELD WASHER FLUID REPLACEMENT  (SA606)  Page 2 of 5 
+Printed document  copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA606 (Rev 1) K4 (CL4) February  2025 
+SUBJECT:  
+Replacement Procedure : 
+1a. 
+ 
+ 
+ 
+1b. Open the hood.  
+ 
+ 
+ 
+Remove the engine room junction box cover  
+(A). 
+ 
+2. Remove the ‘WIPER FRT ’ 30A fuse ( B). 
+ 
+Note : DO NOT discard the 30A fuse as it will 
+be reused.  
+ 
+3a. 
+ 
+ 
+ 
+ 
+3b. Detach the washer nozzle hose ( C) from the 
+center retaining cowl clip. 
+ 
+ 
+ 
+Disconnect the washer nozzle hose (C) from 
+the cowl nipple.   
+ 
+
+  Page 3 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA606  (Rev 1) K4 (CL4) February  2025 
+WINDSHIELD WASHER FLUID REPLACEMENT  (SA606)  
+ SUBJECT:  
+4. Place the  open end of the  washer nozzle hose  
+(C) into an empty  container  and secure with 
+Tesa ® tape or equivalent , as shown .  
+ 
+ 
+ 
+ 
+ 
+5. WITHOUT  depressing the ‘Brake’ pedal, p ress 
+the ‘ENGINE  START /STOP ’ button twice  (2X) 
+to turn the ignition ‘ON’/engine ‘OFF’.  
+ 
+Note : Engine ‘OFF’.  
+ 
+ 
+ 
+6a. 
+ 
+ 
+6b. DRAINING:  
+ 
+Enter the vehicle from the passenger side and 
+open the passenger window.  
+ 
+Pull back and hold t he multifunction switch 
+lever (D) to run the wiper washer motor  to 
+drain the reservoir fluid.  
+ 
+ 
+  
+Release the multifunction switch  lever 
+(D) immediately after empty. Damage 
+to the windshield washer motor  can 
+occur if it is run dry, without fluid .  
+     CAUTION  
+  
+Monitor the fluid drainage  from inside 
+the vehicle by listening to the motor 
+running sound change when empty.  
+ 
+     TECH TIP  
+
+WINDSHIELD WASHER FLUID REPLACEMENT  (SA606)  Page 4 of 5 
+Printed document  copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA606 (Rev 1) K4 (CL4) February  2025 
+SUBJECT:  
+ 
+ 
+7. RINSING:  
+ 
+Fill the windshield  washer reservoir (E) with 
+clean water .  
+ 
+8. Pull back and hold t he multifunction switch 
+lever (D) to run the wiper washer motor  to 
+drain the reservoir fluid.  
+ 
+ 
+ 
+ 
+ 
+9a. 
+ 
+ 
+ 
+9b. REFILL:  
+ 
+Add 1.5 liters (1.5L)  (approximately 1.5 bottles)  
+of windshield washer fluid (UM040 CH014)  
+into the windshield washer reservoir (E) . 
+ 
+Top-off the windshield washer reservoir with 
+clean water.  
+ 
+10. 
+ 
+ 
+ 
+11. Reinstall all removed parts in the reverse order 
+of removal.  
+ 
+ 
+Confirm normal operation of windshield wiper 
+system.  
+ 
+ 
+  
+Refer to Material Safety Data Sheet 
+(MSDS) in your local dealer  for proper 
+disposal of fluids.  
+  MSDS  
+
+  Page 5 of 5 
+Printed document copy is for reference only; information may be updated at any time. Always refer to KGIS for the latest information.  
+TSB: SA606  (Rev 1) K4 (CL4) February  2025 
+WINDSHIELD WASHER FLUID REPLACEMENT  (SA606)  
+ SUBJECT:  
+AFFECTED VEHICLE RANGE : 
+Model  Production Date Range  
+K4 (CL4) January 20, 2025 t hrough  January 21, 2025  
+  
+REQUIRED PART:  
+  Part Name  Part Number  Figure  Qty. Comment s 
+Windshield Washer  
+Concentrate  UM040 CH014  
+ 2 Cases have been  
+auto shipped to the  
+fifteen (15) dealers with 
+the affected VINs.  
+WARRANTY INFORMATION:  
+N Code : N99    C Code : C99 
+Note : Use sublet code ‘X1’ with a maximum allowed amount of $ 16.30  per vehicle for windshield washer 
+concentrate.  
+ Claim 
+Type  Causal P/N  Qty. Repair  
+Description  Labor Op 
+Code  Op 
+Time  Replacement  
+P/N Qty. 
+V 86111  GG200  0 (SA606) 
+Windshield Washer  
+Fluid Replacement  250M03R0  0.3 
+M/H N/A 0 
+ 
+ 
+  
+VIN inquiry data for this repair is provided for tracking purposes only. Kia retailers should reference 
+SA606 when accessing the KDealer+  system.  
+ 
+ NOTICE  

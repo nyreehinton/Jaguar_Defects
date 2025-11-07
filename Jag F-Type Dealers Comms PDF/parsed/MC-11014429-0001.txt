@@ -1,0 +1,94 @@
+   
+TECHNICAL SERVICE BULLETIN
+Ting Or Click Noise From The Front Or Rear Wheel Hub When
+Accelerating, Applying Brakes Or When Shifting Between Drive And
+Reverse25-2044
+18 February
+2025
+This bulletin supersedes 22-2395. Reason for update: Revised Service Procedure
+Model:
+Ford
+2022-2024 F-150 LightningBuilt on or before 17-Aug-2023
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit a ting or click noise from the front or
+rear wheel hubs when accelerating, applying brakes or when shifting between drive and reverse. This condition may
+be caused by a stick/slip condition between the hub and halfshaft interface.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+install an anti-ting washer between the wheel hub and axle shaft.
+Parts - Parts To Inspect And Replace Only If Necessary
+Service Part
+NumberClaim Quantity Package Order QuantityNumber in
+PackageDescription
+W707772-S441 Only If Necessary (1 Per
+Affected Hub/Axle)Only If Necessary (1 Possible) 4Wheel Hub Nut
+W706890-S439 Only If Necessary (4 Per
+Affected Hub/Axle)Only If Necessary (1 Per
+Affected Hub/Axle)4 Wheel Hub
+Bolt
+W719687-S439 Only If Necessary (2 Per
+Affected Hub/Axle)Only If Necessary (1 Possible) 4 Rear Caliper
+Bolt
+W720613-S439 Only If Necessary (2 Per
+Affected Hub/Axle)Only If Necessary (1 Possible) 4 Front Caliper
+Bolt
+AL1Z-7G273-A Only If Necessary (1 Per
+Affected Hub/Axle)Only If Necessary (1 Per
+Affected Hub/Axle)1 Anti-Ting
+Washer
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+Only If Necessary indicates the part is not mandatory. Refer to the Service Procedure to determine the
+inspection/inclusion criteria.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2022-2024 F-150 Lightning: Road Test The Vehicle To Verify Which Hub(s) Are Exhibiting
+The Concern (Can Be Claimed With Operations B, C, D, or E)252044A 0.3
+Hrs.
+2022-2024 F-150 Lightning: Inspect One (1) Front Wheel Hub And Install Anti-Ting Ring If
+Necessary (Can Be Claimed With Operations A, D, E)252044B 0.9
+Hrs.
+2022-2024 F-150 Lightning: Inspect Both (2) Front Wheel Hubs And Install Anti-Ting Rings If
+Necessary (Can Be Claimed With Operations A, D, E)252044C 1.6
+Hrs.
+2022-2024 F-150 Lightning: Inspect One (1) Rear Wheel Hub And Install Anti-Ting Ring If
+Necessary (Can Be Claimed With Operations A, B, C)252044D 0.8
+Hrs.
+2022-2024 F-150 Lightning: Inspect Both (2) Rear Wheel Hubs And Install Anti-Ting Rings If
+Necessary (Can Be Claimed With Operations A, B, C)252044E 1.4
+Hrs.
+Repair/Claim Coding
+Causal Part: 7G273
+Condition Code:42
+Service Procedure
+1. Drive the vehicle to verify which hub or hubs are exhibiting the concern.
+(1). Accelerate/apply brakes or shift from forward to reverse.
+2. Inspect the affected wheel hub to axle shaft interface for an anti-ting washer (Figure 1) by removing the affected
+wheel hub.
+Figure 1
+(1). For front wheel hubs, refer to WSM Section 204-01B Front Suspension - LHD 4WD > Removal and
+Installation > Front Wheel Bearing and Wheel Hub - Electric.
+(2). For rear wheel hubs, refer to WSM Section 204-02 Rear Suspension > Removal and Installation > Wheel
+Bearing and Wheel Hub - Electric.
+3. Does the affected axle shaft have an anti-ting washer installed?
+(1). Yes - proceed to Step 4.
+(2). No - install an anti-ting washer on the affected axle shaft (Figure 1) then proceed to Step 4.
+4. Reassemble the vehicle.
+(1). For front wheel hubs, refer to WSM Section 204-01B Front Suspension - LHD 4WD > Removal and
+Installation > Front Wheel Bearing and Wheel Hub - Electric.
+(2). For rear wheel hubs, refer to WSM Section 204-02 Rear Suspension > Removal and Installation > Wheel
+Bearing and Wheel Hub - Electric.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

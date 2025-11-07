@@ -1,0 +1,51 @@
+ 
+M254 Engine idle fluctuation
+Topic number LI07.70-P-078547
+Version 3
+Function group 07.70 - Gasoline injection and ignition system direct injec-
+tion
+Date 2/19/25
+Validity Passenger car with M254 engine
+Reason for change Clarification to complaint
+Complaint
+Engine idle fluctuates or stumbles at approximately 7 second interval. No relevant fault codes are stored.
+If fault codes are stored or check engine light illuminated, this should be diagnosed separately.
+Attachments
+File Description
+Example M254 fluctuation.mp4 Example video of engine fluctuation
+Cause
+Torque signal mismatch between MRG and PTCU control units. Only effects version 20B of PTCU.
+Attachments
+File Description
+CPC 20B.png
+Remedy
+Software solution in development and LI will be updated once an ETA is available. Replacing parts will not resolve this
+symptom.
+20.02.2025   15:07   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  1 / 2
+ 
+Vehicle can be released to owner if there are no other symptoms present. The idle fluctuation typically resolves after
+several trips and will not cause other drivability symptoms or damage to the vehicle.
+Create an informational TIPS case and submit to the powertrain team with the below information:
+-Video showing the "engine data" from head unit while symptom active
+-N3/10 MRG2 control unit log
+Disclaimer
+NOTE: The information contained in this document is intended for use by trained, professional technicians with the
+knowledge to properly and safely perform diagnosis and repairs on Mercedes-Benz vehicles, using Mercedes-Benz
+approved tools and equipment. It informs service technicians about conditions that could occur in certain vehicles and
+provides information that could assist in proper vehicle diagnosis, service, or repair. It does not indicate that a defect
+is present in any vehicle referenced in this document nor does it imply warranty coverage. DO NOT assume that a
+symptom or condition, or a described cause of a symptom or condition, affects any particular vehicle or groups of ve-
+hicles, or that a described repair applies to any particular vehicle or groups of vehicles. There can be multiple causes
+resulting in the same or similar symptoms or conditions described in this document, and trained professional service
+technicians must use their diagnostic skills to make evaluations on a case-by-case basis. The information contained
+in this document does not guarantee warranty coverage nor does it extend the vehicle’s warranty in any way.
+Symptoms
+Power generation  > Engine management  > Engine running  > Surges
+Power generation  > Engine management  > Engine running  > RPM too high/low
+Power generation  > Engine management  > Engine running  > Runs rough/shakes
+Operation numbers/damage codes
+Op. no. Operation text Time Damage
+codeNote
+20.02.2025   15:07   CCUSHWA
+© Copyright Mercedes-Benz AG   Page  2 / 2

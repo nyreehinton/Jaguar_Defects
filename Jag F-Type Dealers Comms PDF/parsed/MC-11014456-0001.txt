@@ -1,0 +1,97 @@
+Bulletin No.: PIT5895D
+Published date: 02/19/2025
+Preliminary Information
+PIT5895D Multifunction Inner Tailgate Will Not Open Or Unable To
+Disable Inner Tailgate
+Models
+Brand: Model:Model
+Years:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 1500 L TD (RPO J21, VIN
+Digit 5 = W or Y)2022 All AllAll All
+Chevr oletSilverado 1500 New (RPO J22,
+VIN Digit 5 = A or D)2022 All AllAll All
+Chevr oletSilverado 15002023 -
+2025All AllAll All
+Chevr oletSilverado 2500HD2022 -
+2025All AllAll All
+Chevr oletSilverado 3500HD2022 -
+2025All AllAll All
+GMCSierra 1500 Limited (RPO J21,
+VIN Digit 5 = 8 or 9)2022 All AllAll All
+GMCSierra 1500 New (RPO J22, VIN
+Digit 5 = H or U)2022 All AllAll All
+GMC Sierra 15002023 -
+2025All AllAll All
+GMC Sierra 2500HD2022 -
+2025All AllAll All
+GMC Sierra 3500HD2022 -
+2025All AllAll All
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)QK2 - Multifunction T ailgate and AVJ or A TH - P assive K eyless
+Entry
+ConditionCondition 1.  Some customers may comment that the inner
+tailgate will not release and is inoperative.  The primary tailgate
+will release and working properly . 
+Condition 2.  This condition ONLY applies to the 2022 Silverado
+1500 New RPO J22 and 2022 Sierra 1500 New RPO J22.  Some
+customers my comment they are not able to disable the inner
+tailgate and every time they try to disable the inner tailgate it
+just releases.  The inner tailgate can only be disabled if the
+vehicle is equipped with passive k eyless entry , see the latest
+version of PIT6054 for more information.
+CauseCause 1. The cause of this concern could be that the inner
+tailgate is disabled, which is a new feature starting with the
+2022 model year .
+Cause 2.  This cause ONL Y applies to the 2022 Silverado 1500
+New RPO J22 and 2022 Sierra New 1500 RPO J22.  BCM
+calibration issue.
+Correction:
+Correction 1.  T o correct this concern enable the inner tailgate.  The following information
+is from the owners manual:
+The inner tailgate ma y be equipped with an enable/disable feature to prevent the inner
+tailgate from being opened when a hitch or other equipment is installed that could damage
+the inner tailgate.
+To disable the inner tailgate from opening: ensure that the remote k ey is within 1 meter (3
+ft) of the rear bumper and then hold the upper touch pad on the tailgate handle for three
+seconds.
+The tail lamps will ﬂash to alert you that the inner gate has been disabled.
+The inner and outer tailgate can still be operated lik e a traditional tailgate, but the inner
+gate will not be able to be opened alone.
+To enable the inner tailgate function, hold the upper touch pad on the handle for 3 seconds
+until the tail lamps ﬂash.
+The inner tailgate can now be opened separately from the outer tailgate.
+ 
+Correction 2.  This correction ONLY applies to the 2022 Silverado 1500 New RPO J22 and
+2022 Sierra 1500 New RPO J22.  T o correct this concern reprogram the BCM with the latest
+calibrations currently available in SPS/TLC.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate V ehicle History (IVH) for coverage information.
+This W arranty Information ONL Y applies to the 2022 Silverado 1500 New RPO
+J22 and 2022 Sierra 1500 New RPO J22 for Condition 2.
+Version 5
+Modiﬁed02/11/2022 - Created on.  
+07/08/2022 - Updates to the title, models,
+condition, cause and correction.  
+09/14/2023 - Updates to the models, condition,
+cause, correction, warranty , RPO and k eyword
+sections.  
+02/08/2024 - Updates to the Additional Options
+(RPO), Condition, Cause, Correction and W arranty
+sections.  
+02/19/2025 - Updates to the modelsLabor
+OperationDescription Labor Time
+2810215Body Control Module Reprogramming with
+SPSUse Published
+Time
+ 
+Additional SI K eywords
+end end-gate endgate gate tail tail-gate tailgate power lif tgate
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

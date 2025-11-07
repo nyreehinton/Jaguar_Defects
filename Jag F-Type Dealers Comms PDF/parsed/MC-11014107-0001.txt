@@ -1,0 +1,62 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Seat Settings UnavailableRef. No.
+TJ 37116.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/10/24Status Date
+1/8/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+8526
+Function Description
+Adjustment device, assembly partsPage
+Page 1 of 3Attachment
+File Name File Size
+TJ-37116_1.pdf 0.1183 MB
+Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+* Added attachment.
+If seat adjustments are unavailable, see symptoms below, follow advice under “Service” .
+Symptoms:
+• No response from the seat, when adjustments are made with the Seat Control Knob
+• Operation of Seat Control Knob, does not bring up seat menu on the user interface screen
+• Automatic seat adjustment does not activate when switching driver profiles
+CSC   Customer Symptom Codes
+Code Description
+TM Front seat/Power seat adjustment/folding does not work
+UO Front seat/Automatic adjustment (memory) does not work
+ZU Front seat/Manual seat adjustment/folding does not work
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year Plant Chassis rangeStruc Week 
+Range
+356 2025-9999 - 202417-999952
+Page 2 of 3 2025-01-08
+Technical Journal 37116.1.0SERVICE:
+Inspect PSMD/PSMP electrical connections for any damages or loose connectors. After visual 
+inspection, try unplugging and re-plugging the PSMD/PSMP connectors. 
+If problem still occurs, replace PSMD or PSMP.
+* Note: After the replacement of either module, it is important to calibrate the seats according to 
+VIDA. (see attachment TJ-37116_1.pdf)
+PSMD: Power Seat Module Driver
+PSMP: Power Seat Module Passenger
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ. Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+99924-2 General Reimbursement 4 JV
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+8526.
+ 
+To view TJ attachment continue to next page.  This TJ has one attachment.
+2025-01-08 Page 3 of 3
+Technical Journal 37116.1.0
+TJ 37116

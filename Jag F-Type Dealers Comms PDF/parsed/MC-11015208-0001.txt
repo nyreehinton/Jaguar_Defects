@@ -1,0 +1,60 @@
+ Page 1 of 2 Published: February 2025
+CC-25-94-02
+Karma Automotive Bulletins and service documents are intended for use by experienced and trained Technicians. If you lack the skills, tools, equipment 
+and a suitable workshop for any procedure described in this document, we suggest you leave such repairs to a Karma retailer and service provider . See 
+your service provider for advice on whether your vehicle may benefit from the information contained within this document. The information contained in the 
+Karma Bulletin is accurate at the date of publication. However, Karma Automotive regularly updates technical information. Please check with your Karma 
+Automotive Retailer and Karma Automotive service provider that the bulletin you intend to use contains the latest available information.
+Title:  BL1020 update
+Applicability: MY2025 Revero  
+Market Region:  All                                                                                      Type: Update Campaign
+Year: 2025
+System: Infotainment (94)
+Sequence: 02PRIORITY:  See provided list
+PURPOSE:  A software update for MY2025 Karma Vehicles 
+Listed vehicles in the field will all receive this update over the air . Should this update not be accepted, 
+create a TSS case and follow the representative guidance to update the vehicle manually. When the 
+prompt is received accept the download and wait for the vehicle to complete the process. 
+The new software IDs should be as follow for the affected modules.
+Module New BL1020.RC2 ID
+CIU 25.34.64.2
+DIS 0501-34-64
+HCU 055C_C1_08
+HCUc 0568_01_3950GRE4SL9SA000022 50GRE4SL6SA000026 50GRE4SL0SA000037
+50GRE4SL0SA000023 50GRE4SL8SA000027 50GRE4SL2SA000038
+50GRE4SL2SA000024 50GRE4SLXSA000028 50GRE4SL4SA000039
+50GRE4SL4SA000025 50GRE4SL1SA000029 50GRE4SL8SA000044
+ Page 2 of 2 Published: February 2025
+CC-25-94-02
+Karma Automotive Bulletins and service documents are intended for use by experienced and trained Technicians. If you lack the skills, tools, equipment 
+and a suitable workshop for any procedure described in this document, we suggest you leave such repairs to a Karma retailer and service provider . See 
+your service provider for advice on whether your vehicle may benefit from the information contained within this document. The information contained in the 
+Karma Bulletin is accurate at the date of publication. However, Karma Automotive regularly updates technical information. Please check with your Karma 
+Automotive Retailer and Karma Automotive service provider that the bulletin you intend to use contains the latest available information.
+Title:  BL1020 update
+Applicability: MY2025 Revero  
+Market Region:  All                                                                                      Type: Update Campaign
+Year: 2025
+System: Infotainment (94)
+Sequence: 02PARTS REQUIRED:
+PART NUMBER DESCRIPTION QUANTITY
+N/A N/A N/A
+Please contact the parts department (parts@karmaautomotive.com) and order this part by email if 
+not available in on-line at time of repair. 
+SHOP SUPPLIES:
+DESCRIPTION
+N/A
+SPECIAL TOOLS:
+DESCRIPTION
+N/A
+CAUSAL PART: (use one of the parts for the complaint)
+PART NUMBER DESCRIPTION
+N/A N/A
+LABOR CODES:  (use one appropriate for the part(s) replaced)
+CODE DESCRIPTION TIME DEFECT CODE
+00-99-20-73 MY2025 BL1020 Update 0.5 99-20-20-68
+SUBLET:
+CODE DESCRIPTION AMOUNT
+N/A   
+WARRANTY DISPOSITION:  This repair is covered under the New Vehicle Limited Warranty, in effect 
+for four (4) years from the in-service date or 50,000 miles for Model Year 2025 Revero 

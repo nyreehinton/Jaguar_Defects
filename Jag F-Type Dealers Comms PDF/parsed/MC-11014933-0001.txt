@@ -1,0 +1,92 @@
+ 
+ 
+ 
+Page 1  of 3  Subject :  
+Introduction of tri -crimp, Spiralock ™ chassis /aerial  hardware.  
+Purpose/Background:  
+• Pierce is  replacing  all 1/2”, 5/8”, and 3/4” Magni -black nuts  with tri-crimp Spiralock ™ nuts. This change 
+from oval lock to Tri -crimp Spiralock ™ only affects 1/2”, 5/8”, and 3/4” hardware.  
+• Spiralock ™ fasteners are being used by Pierce® primarily on frame builds  started in October 2021 (RFPs 
+starting in February 2022). 
+• Spiralock ™ nuts look similar to standard hardware but  require higher 
+torque specifications.  
+• Spiralock ™ nut threads have a special wedge ramp at the foot  of the 
+thread allowing a continuous line of contact when a clamp load is applied.  
+ 
+Hardware Identification:  
+ 
+Installed hardware is noted on the Aerial placard when applicable.  
+ NOTE:  The Aerial placard will denote what is installed on the 
+apparatus at time of OEM build. If hardware is loose, we recommend changing to the Spiralock ™ hardware 
+on both sides and having the placard updated or noted 
+in the customer’s file.  
+ However, suspension and other areas of installation require 
+visual inspection during installation and service to determine appropriate torque values.   
+(see pictures to right for identification details).
+ 
+ 
+  Title:  Spiralock ™ Hardware   
+Number:  PB_572  Release Date:  02/02/2022  
+Revision Number:  3 Revision Date:  02/05/202 5 
+Chassis Type:  Arrow XT, Velocity, Impel, Saber, Enforcer, Quantum  
+Component Description:  1/2”, 5/8”, and 3/4 ” fasteners on chassis  
+Tools:  See Torque Tool Recommendations  
+
+PARTS BULLETIN #PB_572. 2 
+Page 2  of 3  
+ Description/Procedure:   
+Spiralock ™ nuts have higher torque specifications compared to standard fasteners as shown in the table below.  
+NOTE:  A backing wrench must be used when torquing this hardware.  
+NOTE:  If you have previously installed Spiralock ™ nuts you do not need to re -torque to the new values. If you 
+need to replace a Spiralock ™ nut you must  torque to the new value.  
+**DO NOT USE LOCTITE WITH THIS HARDWARE**  
+ Oval Crimp Hardware   Spiralock ™ (Tri-Crimp) Hardware  
+Nut Size  Part Number  SOP Torque   Part Number  Old Torque  New Torque as of 06/07/2023  
+1/2" 82-3009  85 lb -ft  3665096  130 lb -ft 113 lb -ft 
+5/8" 82-3010  180 lb -ft  82-4065  250 lb -ft 250 lb-ft 
+3/4" 82-3011  285 lb -ft  82-4066  450 lb -ft 424 lb -ft 
+      
+
+ 
+PARTS BULLETIN #PB_572. 2 
+ 
+2600 AMERICAN DRIVE • APPLETON, WI  54912 -2017 • 920 -832- 3000  
+ These new torque values can also be found in our chassis operators manuals  in the maintenance chapter under 
+Frame Fasteners and in our service manuals  under the Fastener Identification, Torque Specifications & Locking 
+Mechanisms chapter.  
+Aerial Torque Box Application:  A ll Aerials and Tillers, Excluding New 100 AAT (Ascendant Aerial Tower)  
+If determined to replace just 1 magni -black nut  with the tri-crimp Spiralock ™ nut on the torque box, then you 
+MUST  change all Torque Box hardware to the tri -crimp Spiralock ™ along with ordering a new Data Placard to 
+reflect the new Torque Value of the changed hardware on the Torque Box.  
+NOTE:  Data Placard can be ordered through Pierce Parts Team.    
+Torque Tool Recommendations:  
+ 
+The following tools have been identified for better access  to hard-to-reach  
+hardware. It is critical that you use a backing wrench at all times. These may 
+be found locally or online.  
+ 
+Part Number  Description 1  Description 2  
+4667271  KIT, TORQUE WRENCH, 
+150-800 NM  2 HEADS WITH 1.125 IN 
+DRIVE  
+4666815  WRENCH, TORQUE, 150 -
+800 NM  INTERCHANGEABLE 
+HEADS  
+4666818  TORQUE WRENCH HEAD  1.125 IN SQR DRIVE, 5.75 
+IN L 
+4666820  TORQUE WRENCH 
+HEAD, STEEL  1.125 IN DRIVE, 3.9375 IN 
+L 
+ 
+ 
+ 
+NOTE:   Current ly installed hardware is not defective. You do not have to change all hardware to the Spiralock ™. 
+It is suggested, during periodic inspections, if hardware is loo se, you may choose to replace the nut (new 
+part number) and the bolt (original part number) to minimize future serviceability.   
+ 
+If any additional support is needed, please open a technical support incident on Pierceparts.com.  
+ 
+Revision Log  
+Rev. #  Changes  Date  
+3 Updated formatting and Torque Tool Recommendations  02/05/205  
+ 

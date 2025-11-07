@@ -1,0 +1,100 @@
+Release Notes for APX™ SW8 Software
+2/21/2024
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+1Update model number list  X X X X X X X X 
+2Select model screen blank X X X X X X X X X 
+3Current software version info in USB software install menu X X X X X X X X X 
+4Advance user mode access after remote software update X X X X X X X X X 
+5Added WIF sensor functionality X 
+6IntelliSleep selection X X X 
+7Intelliset file selection enhancements X X X X X X X X X 
+8PM maintenance alarms displayed in message center X X X X X X X X X 
+9Standby energy consumption (kWH) reporting for telematics X X X X X X 
+10Remote software update enhancements X X X X X X X X X 
+11Engine fuel consumption data visiblity via telematics X X X 
+12Electric fuel pump prime function from display X X X X 
+13Engine shutdown alarm system response X X X X 
+14Electric fuel pump functionality X 
+15C2/C3 evaporator model display selection X 
+16Remote data download file display improvement X X X X X X X X X 
+17A00238 Configuration error after loading intelliset X X X X X X X X X 
+18A00073 alarm during pretrip when No AC power is set to ferry X X X X 
+19EES regen message on display for units without EES X X X X 
+20Fuse alarm number and description change X X X X X X X X X 
+21A00238 Loss of configuration alarm handling X X X X X X X X X 
+22CSMV (low suction) control for rail application X X X 
+23Vector second stage heat deactivation optimization X X X 
+24CSMV  start-stop null control with auxillary battery monitor X X X 
+25Component test mode menu key functionality X X 
+26C3 Heater contactor and motor overheat alarm handling X X X X 
+27Electric fuel pump current draw limit change for pretrip X X X X 
+28AC Voltage value on display correction X X X X X X List of FeaturesReleased Version 09.85.00
+                  Models Affected
+X4™ Vector™
+62-90538-00 REV G 2/21/2025 1 of 4
+Release Notes for APX™ SW8 Software
+29Unknown USB message displayed when Carrier USB is inserted X X X X X X X X X 
+30USB data download/software upload improvements X X X X X X X X X 
+31Fuel saver default setting change to ECO X X X 
+323rd party door switch configuration X X X 
+33CURB RAT/RRAT configuration options X X X 
+34IntelliSet support for "Region" configuration parameter X X X X X X X X X
+35Power down event reduction when exiting config mode X X X X X X X X X
+Not released for NATT Production
+3/4/2024
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+1Leap day date calculation correction X X X X X X X X X 
+2/23/2024
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+1OTA software update improvements X X X X X X X X X 
+2System reset handling after USB download X X X X X X X X X 
+3Center divide MT C2 evap labeling X X
+11/13/2023
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+13rd party door switch configuration enabled   X    X X X 
+2Update for remote compartment alarms when not configured as MT    X X X X X X List of FeaturesReleased Version 09.83.00
+                  Models Affected
+X4™ Vector™
+                  Models Affected
+X4™ Vector™
+List of FeaturesReleased Version 09.81.00List of FeaturesReleased Version 09.82.00
+                  Models Affected
+X4™ Vector™Released Version 09.84.00
+62-90538-00 REV G 2/21/2025 2 of 4
+Release Notes for APX™ SW8 Software
+10/2/2023
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+1Required for use with 12-00663-16 display X X X X X X X X X 
+2IntellisSleep and Sleep mode settings available from display X X X X X X X X X 
+3UltraFreeze offset default setting changed to NO X X X X X X X X X 
+4Intelliset selection response improvement X X X X X X X X X 
+52-way command override of intelliset setpoint lock X X X X X X X X X 
+6Pretrip start/end timestamp for 3rd party pretrip command X X X X X X X X X 
+7Coolant sensor alarm shutdown handling X X X X X X X X X 
+8Remote panel intelliset menu display changes X X X X X X X X X 
+9Empty USB PROGRAM directory notification X X X X X X X X X 
+10Functional parameter set selection when parameter is not changed X X X X X X X X X 
+11Software family check for 2-way command software update X X X X X X X X X 
+12Component test mode functionality for heater contactors X X X X X X 
+13EES configuration removed X X X 
+14Glow plug current draw pretrip and alarms value adjustment X 
+15CCB3 alarms enabled X 
+16Pretrip unloader test timing adjusted X X X 
+17Leap year (2024) date calculation correction A00060 X X X X X X X X X 
+8/23/2023
+7300 7500 7700 8500 8600MT 8611MT 8700 8800MT 8811MT
+1MSM response when display is restarted during 3rd party data 
+downloadX X X X X X X X X 
+2Update Vector model list selection X XReleased Version 08.80.00
+List of FeaturesX4™ Vector™                  Models AffectedList of FeaturesReleased Version 09.80.00
+                  Models Affected
+X4™ Vector™
+62-90538-00 REV G 2/21/2025 3 of 4
+Release Notes for APX™ SW8 Software
+3MSM power down when unit is switched off X X
+4CAN error alarm reduction to prevent associated engine 
+shutdown or failure to startX X X X
+5Vector condenser fan current limit adjustment                              
+(0.4 A Min - 3.0A Max)X X X X X X 
+6Improved CAN message delivery for 3rd compartment X X
+62-90538-00 REV G 2/21/2025 4 of 4

@@ -1,0 +1,164 @@
+T-SB-0099 -24 Rev1  October 22, 2024  
+ 
+Super White 040 Paint Peeling from Affected Panel(s)  
+Service 
+Category  Vehicle Exterior   
+ Section    Exterior Panels/Trim  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 5 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2016 - 2022  Tacoma   
+ 
+ 
+ 
+ 
+Introduction  
+Some 2016 – 2022 model year Tacoma vehicles with Super White (040)  paint may exhibit paint 
+peeling along  the exterior window door frames,  inner fender edges under the hood, and /or  
+A-pillar s. The affected panel(s) require repainting to address this condition. The paint repair may 
+need to be sublet to a body shop.  Follow the Confir mation Procedure in this bulletin to verify the 
+presence of  this condition . 
+ 
+ 
+  REVISION NOTICE  
+January 17 , 2025 Rev1:  
+ The Introduction and Confirmation Procedure sections have been updated.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ T-SB-0099 -24 Rev1  October 22, 2024  Page 2 of 5 
+Super White 040 Paint Peeling from Affected Panel(s)  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  
+For USA Market  
+CLAIM TYPE  OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+Paint  P + 
+(Applicable T -3 Code)  Condition Confirmed – 
+Sublet to  Body Shop  0.0 N/A 69 82 
+ 
+ 
+ 
+ 
+  NOTE  
+ Use sublet type “PT” for body shop repairs.  The i nvoice is required to be attached to the  
+warranty claim.  
+ Reimbursement for documenting the condition through the 23TE08 Inspection Website  can be claimed 
+under sublet type “ZZ” using the following formula: 0.8 hours x Dealer Hourly Warranty Labor Rate . 
+ Select ALL applicable T -3 position codes . 
+ If Genuine Toyota parts are needed, claim under replacements parts.  
+ See Warranty Policy 4.12 for ad ditional information on paint claim submission.  
+APPLICABLE WARRANTY  
+ This repair is covered under the Toyota Basic Warranty. This warranty is in effect for  
+36 months or 36,000 miles, whichever occurs first, from the vehicle’s in -service date.  
+ Warranty application is limited to occurrence of the specified condition described in  
+this bulletin.  
+ T-SB-0099 -24 Rev1  October 22, 2024  Page 3 of 5 
+Super White 040 Paint Peeling from Affected Panel(s)  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  (continued)  
+For Mexico Market  
+CLAIM TYPE  OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+Paint  P + 
+(Applicable T -3 Code)  Condition Confirmed  – 
+Sublet to  Body Shop  0.0 N/A 69 82 
+ 
+ 
+ 
+ 
+ 
+  NOTE  
+ Use sublet type “PT” for body shop repairs. The i nvoice is required to be attached to the  
+warranty claim.  
+ Reimbursement for documenting the condition through the 23TE08 Inspection Website  can be claimed 
+under sublet type “ZZ” using the following formula: 0.8 hours x Dealer Hourly Warranty Labor Rate . 
+ Select ALL applicable T -3 position codes . 
+ If Genuine Toyota parts are needed, claim under replacements parts.  
+ See Warranty Policy 4.12 for ad ditional information on paint claim submission.  
+APPLICABLE WARRANTY  
+ This repair is covered under the Toyota  Basic  Warranty. This warranty is in effect for  
+36 months or  60,000  kilometers , whichever occurs first, from the vehicle’s in -service date.  
+ Warranty application is limited to occurrence of the specified condition described in  
+this bulletin.  
+ T-SB-0099 -24 Rev1  October 22, 2024  Page 4 of 5 
+Super White 040 Paint Peeling from Affected Panel(s)  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Confirmation  Procedure  
+1. Confirm the condition exists.  
+Inspect the vehicle to determine if it 
+exhibit s paint peeling along the exterior  
+window door frames, inner fender edges 
+under the hood,  and/or  A-pillar s, as shown 
+in Figures 1 – 4. 
+ 
+ 
+A. Is the location of the  paint condition on 
+the door window frame s, inner  fender  
+panels , and/or A-pillar  panels ? 
+ YES — Continue to substep B.  
+ NO — This bulletin does NOT 
+ apply. Continue diagnosis 
+ using the applicable  
+ Repair Manual.  
+ 
+ 
+B. Is the paint peeling?  
+ YES — Continue to substep C.  
+ NO — This bulletin does NOT 
+ apply. Continue diagnosis  
+ using the applicable  
+ Repair Manual.  
+ Figure 1. Paint Peeling on Door Frame  
+ 
+ 
+ 
+Figure 2. Paint Peeling on Inner Fender  
+ 
+ 
+ 
+Figure 3. Paint Peeling on Door Frame  
+ 
+ 
+ 
+ 
+  
+
+ T-SB-0099 -24 Rev1  October 22, 2024  Page 5 of 5 
+Super White 040 Paint Peeling from Affected Panel(s)  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Confirmation  Procedure  (continued)  
+C. Is there evidence of outside influences 
+on the affected panel(s)  that may have 
+caused  the condition?  
+ 
+ YES — This bulletin does NOT 
+ apply. Continue diagnosis 
+ using the applicable 
+ Repair Manual.  
+ NO — Continue to step 2.  
+ Figure 4. Paint Peeling on A -pillar 
+ 
+2. Take a photograph of each affected panel that clearly displays the condition.  
+ 
+ 
+3. Upload the images of each affected panel to the 23TE08 Inspection Website  and send the 
+vehicle to a body shop to have the affected panel (s) repainted.  
+ 
+ 
+ 
+ 
+ 
+NOTE  
+Examples of outside influences include  
+previously damaged or deformed 
+panels, aftermarket paint, bird 
+droppings,  or chemicals.  

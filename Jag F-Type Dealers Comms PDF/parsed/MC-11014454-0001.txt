@@ -1,0 +1,172 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors , Technicians , Body Shop Manager , Fleet Repair   
+Technical Service Bulletin  GROUP  NUMBER  
+CAMPAIGN  25-01-006H 
+DATE  MODEL (S) 
+FEBRUARY  2025 KONA (SX2)  
+SUBJECT:  FRONT CAMERA SOFTWARE UPDATE FOR FCA & LKA LOGIC  
+IMPROVEMENT  (SERVICE CAMPAIGN  TCF) 
+This TSB supersedes 24-01-077H to revise the new ROM ID  to 1.08  on page 2.  
+ 
+ 
+ 
+Description:  Certain Kona (SX2) vehicles may exhibit a warning light ON in the cluster related to the 
+“Check Forward Safety system” due to software intended from an alternate region. A software update 
+is available for the Front Camera system to update logic in the Forward Collision Avoidance (FCA) and 
+Lane Keeping Assist (LKA) functions.  
+ 
+Advanced Driver Assistance System (ADAS) functions are not affected due to this condition.   
+ 
+ 
+                                                 
+ 
+Applicable Vehicles  (Certain) : 
+• 2025MY Kona (SX2)  produced 6/3/2024  – 7/19/2024  
+ 
+GDS Information:  
+System  Event #  Description  
+FR_CMR  1136  SX2 25MY FCA AND LKA LOGIC IMPROVEMENT  
+(*or use a later  available  event as listed in the GDS FR_CMR  System Update screen if one is 
+available.)  
+ 
+Dealers must perform this service campaign on all affected vehicles prior to customer retail delivery 
+and whenever an affected vehicle is in the shop for any maintenance or repair.  
+ 
+Access the “Vehicle Information” screen via W ebDCS to identify open campaigns.  
+ IMPORTANT  
+FCA Warning on Cluster  
+Front Camera  
+FRONT CAMERA SOFTWARE UPDATE FOR FCA & LKA LOGIC   
+IMPROVEMENT (SERVICE CAMPAIGN TCF)  
+TSB #: 25-01-006H Page 2 of 5 
+ SUBJECT:  
+SUBJECT:  Warranty Information:   
+Model  Op. Code  Operation  Op. 
+Time  Casual Part  Nature 
+Code  Cause 
+Code  
+Kona (SX2)  40D109R0  Front Camera  
+Software Update  0.4 M/H  99211 -BE000  I14 ZZ3 
+NOTE 1:  Submit claim on Claim Entry Screen as “Campaign” type.  
+NOTE 2:  If a part is found in need of replacement while performing this campaign  and the affected 
+part is still under warranty, submit a separate claim using the same repair order. If the affected part is 
+out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the 
+work.  
+NOTE 3:  Op times include VIN, Mileage, and photo capture of the “ECU update complete” screen as 
+outlined in the Digital Documentation Policy.  
+ 
+ROM ID Information:   
+Model  System  ECU  
+Part Number  ROM ID  
+Old New 
+Kona (SX2)  FR_CMR  99211 -BE000  1.05.00  
+1.06.00  1.08.00 
+ 
+  
+FRONT CAMERA SOFTWARE UPDATE FOR FCA & LKA LOGIC   
+IMPROVEMENT (SERVICE CAMPAIGN TCF)  
+TSB #: 25-01-006H Page 3 of 5 
+ SUBJECT:  
+SUBJECT:  Service Procedure:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECU Update  Procedure  
+1. Perform the ECU  update in Auto Mode .  
+ 
+Use the ID Check  to verify the ROM ID before 
+updating the software.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You must initially perform the GDS ECU update in Auto Mode.  
+•If the ECU update starts but then fails in Auto Mode, perform the update in Manual Mode 
+to recover.  
+NOTICE  
+This TSB includes Repair validation photos. Refer to the latest Warranty Digital Documentation 
+Policy for requirements.  
+STUI  
+GDS Vehicle Battery Low Voltage Warning:  
+If voltage is below 12 Volts per the GDS warning, then select Back  and attach a battery charger  
+to ensure an adequate battery charge for reliable update results. Turn ignition back ON, and then 
+retry the ECU update again.  
+ 
+ 
+NOTICE  
+Refer to TSB 24-GI-012H, “ECU Update 
+Procedure  for Tablet -Based GDS -
+Smart ”, for additional information.  
+   Information  
+  i 
+
+FRONT CAMERA SOFTWARE UPDATE FOR FCA & LKA LOGIC   
+IMPROVEMENT (SERVICE CAMPAIGN TCF)  
+TSB #: 25-01-006H Page 4 of 5 
+ SUBJECT:  
+SUBJECT:  2. Select the FR_CMR  system to scan the 
+vehicle’s current ROM ID.   
+ 
+ 
+ 
+  
+3. After the ECU update process shows 100% 
+complete, follow the prompts on the screen to 
+cycle the ignition OFF for at least 10 seconds  
+to reset the control unit  (certain models may 
+take up to 30 seconds ). 
+ 
+ 
+ 
+ 
+ 
+If the update  fails, please remove the 
+power connector or the battery (–) 
+connector from the indoor fuse box for at 
+least 5 seconds and reassemble it to 
+retry the update . 
+NOTICE  
+Check the current ROM ID version and 
+compare it to the ROM ID Information 
+table before attempting to perform the 
+software update.  
+NOTICE  
+Use the Refresh  button to reset the 
+timer.  
+   Information  
+  i 
+
+FRONT CAMERA SOFTWARE UPDATE FOR FCA & LKA LOGIC   
+IMPROVEMENT (SERVICE CAMPAIGN TCF)  
+TSB #: 25-01-006H Page 5 of 5 
+ SUBJECT:  
+SUBJECT:  4. 
+ 
+ 
+5. Perform an All Systems Fault Code  search 
+and erase DTC h istory that had incidentally 
+occurred from the ECU update.    
+6. Start the engine  to confirm  proper operation of 
+the vehicle.   
+ 
+Manual Mode Password:  
+ECM Menu  Password  
+SX2 LKA 99211 -BE000  0792  
+ 
+ 
+ 
+Take a screenshot of the ECU update 
+complete screen using your tablet and 
+upload to STUI.  
+STUI  
+If the ECU update fails in Auto Mode, perform the update in Manual Mode using the password(s) 
+below .  
+ 
+NOTICE  

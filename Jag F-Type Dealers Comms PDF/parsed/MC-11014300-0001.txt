@@ -1,0 +1,83 @@
+Involved Region or
+CountryNorth America
+ConditionA whistle noise ma y be present when the system switches from
+cabin heating to full cooling (AC on)  
+Code P0530 and/or P0534 ma y be set.  
+While driving the heat ma y begin to blow cold and blower speed
+drop intermittently .
+CausePossible faulty AC condenser check valve or improperly formed 
+AC line at mating surface of condenser check valve- air
+conditioning condenser hose.
+Bulletin No.: PIT6290A
+Published date: 02/12/2025
+Preliminary Information
+PIT6290A Diagnostic Aid for No/Poor Heat With Possible P0530
+and/or P0534
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+If P0530 and/or P0534 is set but is not accompanied by a whistle noise or an intermittent
+loss of heat concern please refer to the following PI's before following the direction in this
+PI. 
+PIT6257 P0534 Service High voltage System Message  
+PIT6112A  P0534 Service High V oltage Diagnostic Tips  
+PIT6183  AC Does Not W ork-Service High V oltage Message  
+If the concern is not addressed with any of the above PI's or there is a  complaint of a
+whistling noise or heat is dropping out perform the steps below . 
+Set the HV AC system to auto high (Max Heat).  
+Run the system for 5 to 10 minutes.   
+Using GDS2 monitor refrigerant temperature sensors 6 and 8. There should be a
+minimum of 50 deg. F diﬀerence between them.  
+Monitor Air Conditioning Condenser Refrigerant Flow V alve-External Command for a
+reading of zero.  
+If the variance between sensors 6 and 8 is more than 50 deg. or the ﬂow valve command is
+more than zero follow SI diagnostics for the code or symptoms experienced.  
+If the variance is 50 deg or less and the ﬂow valve command is zero verify the reading by
+measuring the temperature above and below the AC condenser check valve- AC condenser
+hose with an infrared temperature gun. #18 in diagram below .
+ 
+Location of valve on vehicle.
+ 
+If the variance is less than 50 deg. inspect to mak e sure the arrow on the check valve is
+pointing up in the direction of refrigerant ﬂow and then remove and inspect the valve.  
+Inspect the pintle and spring to ensure they are not loose or missing from the check valve.
+When the valve is shak en it should not rattle.  
+Inspect the seals for being pinched or cut.   
+Picture of seal misplaced and damaged in valve.  
+ 
+ 
+If any d amage is noted to the check valve it should be replaced.  
+If no damage is noted in the valve or before replacing the valve if it is damaged, inspect
+the opening in the pipe where the lower end of the check valve connects.  
+The opening should be no less than 6mm in diameter and should be centered in the pipe.   
+Test the size of the opening by attempting to insert a 6mm drill bit. See photo below of an
+improperly formed line. 
+If the opening is undersize or oﬀ center it will need to be enlarged and centered using the
+procedure below .  
+ 
+If the line is severely damaged so that it cannot be modiﬁed it will need to be replaced.
+(see example below)
+Version22  
+Modiﬁed11/22/2024 - Created on.  
+02/12/2025- Removed whistle noise from title.
+AC line Repair Procedure:  
+Remove the pipe from the vehicle.  
+Insert a piece of a paper shop towel into the pipe to catch any shavings that ma y drop in.  
+Using a clean, no grease or dirt, 6mm drill bit and applying  hand pressure only , gently
+ream the hole to enlarge the opening to 6 mm and center it. (if the hole is slightly larger
+than 6 mm when done this is acceptable).  
+After the hole is modiﬁed, use shop air on the opposite end of the line to remove the paper
+towel and push out any debris.  
+Thoroughly blow the pipe out from both ends to remove any particles that ma y have fallen
+into the pipe.  
+Reinstall the pipe, with a new valve if necessary , recharge system and retest temperatures
+using GDS2.  
+Test drive the vehicle to conﬁrm the repair .
+Version History
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

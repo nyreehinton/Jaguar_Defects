@@ -1,0 +1,37 @@
+Involved Region or
+CountryNorth America
+ConditionA Customer ma y comment that a window will reverse when
+attempting to manually open or while using express up.
+CauseSoftware home position not aligned with actual window
+position. 
+Version 2
+Modiﬁed10/14/2024 - Created on.  
+02/27/2025 - Updated Labor Operation.
+Bulletin No.: PIC6578A
+Published date: 02/27/2025
+Preliminary Information
+PIC6578A Diagnostic Tip: Door Windows Will Not Roll All the Way Up
+and/or Moves Back Down
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Cadillac Lyriq 2023 - 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+With Ignition on, unplug the aﬀected window motor fuse for 1 minute, reinstall the
+fuse and relearn the window(s). 
+Left front and rear windows - F50U A.
+Right front and rear windows - F52U A.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty coverage), use the
+following labor operation. Reference the Applicable W arranties section of Investigate V ehicle History (IVH)
+for coverage information.
+Labor Operation Description Labor Time
+5430912 System Reset Use Published Time
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

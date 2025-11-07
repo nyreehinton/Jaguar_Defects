@@ -1,0 +1,87 @@
+ 
+  
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  
+McLaren Artura Engine Oil Leak Diagnosis Guide – Oil Cooler  
+Document Information  
+Location:  Powertrain  
+Topic: McLaren Artura Engine Oil Leak Diagnosis Guide - Oil Cooler  
+Condition:  N/A  
+Diagnostic Trouble Codes:  N/A  
+Measure  
+If an Artura is found to have a leak from the oil cooler area (oil or coolant), Please follow the steps below  
+  
+1. Raise vehicle on ramp as per McLaren Service Portal (MSP) instructions  
+2. Remove engine underfloor  
+3. Capture images prior to any cleaning, clearly showing the leaking area. Label images: “Pre -Cleaning”  
+4. Take picture of engine number and label image "Engine Number"  
+5. Clean area thoroughly using degreaser/solvent  
+6. Add engine oil dye to the engine - Please refer to latest update of KA-01458  for correct dye and torch to use  
+Care Point: Do Not use leak detector spray / chalk spray  
+7. Start engine and run at increased idle speed (3,000 rpm) using engine oil check procedure until procedure is complete 
+(this will ensure that the engine oil temperature reaches 90°C)  
+8. Turn off engine and allow car to stand for 20 minutes on the ramp in preparation for inspection  
+9. Inspect engine. Capture images and label images "Cycle 1", clean area again thoroughly, capture images and label images 
+"Post Cycle 1"   
+
+ 
+  
+Care Point: If there is a clear and active leak after step 9, please stop the warm up cycles and submit a TR with supporting 
+images/video  
+10. Complete warm up/cool down cycle and inspection a further 4 times capturing images. Name image folders respectively:  
+ "Cycle 2" & "Post Cycle 2 (after cleaning)"  
+ "Cycle 3" & "Post Cycle 3 (after cleaning)"  
+ "Cycle 4" & "Post Cycle 4 (after cleaning)"  
+ "Cycle 5" & "Post Cycle 5 (after cleaning)"  
+Care Point: In case of uncertainty on final assessment, please update TR with supporting images correctly labelled  
+Care Point: If no further oil leak is observed, then the initial oil residue is potentially due to excessive oil used in the build 
+process  
+11. If there is obvious evidence of an oil leak from the oil cooler after the 5 cycles continue to step 12. If no leak is present , carry out 
+road test (including EV mode), recheck for leaks. Capture images and label "Post Road Test" (before cleaning)  
+Care Point: If no further oil leak is observed, then the initial oil residue found previously is due to excessive oil used in  the 
+build process - No further action required  
+12. Identify the location of the oil leak using a UV light  
+  Oil Cooler – Cylinder Block Joint  
+If there is a leak identified, proceed to the next step.   
+13. Follow the MSP instructions to drain the oil from the engine  
+Care Point: The en gine oil MUST be FULLY drained before continuin g  
+14. Remove the Oil Cooler bolts recording the crack off torque & back -to-mark (BTM) torque   
+If the digital torque wrench used does not have crack -off torque capability, then only record BTM torque by following this procedure:   
+Mark the bolt  
+Untighten/crack -off by ~30°   
+Tighten back to mark (smooth and slow movement) and record the torque  
+15. Remove fixings for oil cooler  
+16. Remove oil cooler with o rings ensuring the o rings are kept with the cooler in their respective positions. When returning 
+thecooler and o rings these should be packaged/labelled in their respective positions. Mark bolts as per their position when 
+fitted t o the cooler  
+17. Inspect oil cooler face, and through holes escalate any concerns for review on TR providing images Example:  
+ 
+
+ 
+  
+18. Inspect block interface for RTV Squeeze out, escalate if concerned with squeeze out on TR to the Technical Support team 
+Example of clean face vs high squeeze out:  
+ 
+19. Check the block threads, are these clean and the bolts have not been fitted cross threaded/damaged?  
+Example:  
+ 
+20. Measure cylinder block o ring recess using the document attached in the link Measurement of C ylinder Block  
+21. Submit a TR with a description of your findings and supporting images labelled "Oil Cooler"  
+22. Replace oil cooler seals with seals advised by Technical Support ensuring new seals and new bolts are used as per 
+MSPinstructions  
+  
+
+ 
+  
+ 
+Repair Validation:  
+With the floor panel removed, follow Steps 1 to 9 to validate that no leak is present anymore  
+Once this test has been successfully completed (no oil leaks), rebuild the vehicle as per MSP instructions  
+After performing the engine health checks and a road test, return the vehicle on the ramp and inspect for any leakages 
+Remove the engine underfloor to check and confirm that the repaired area has remained dry  
+Parts Information  
+N/A 
+Attachments  
+N/A 
+This document is uncontrolled when printed. Before use, check the Knowledge Base within the McLaren 
+Retailer Portal to verify that this is the current version.  

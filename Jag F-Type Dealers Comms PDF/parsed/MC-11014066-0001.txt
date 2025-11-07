@@ -1,0 +1,1796 @@
+ 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. HINT:  If you believe that a described condition may apply to a particular vehicle, DO NOT 
+assume that it does.  See your Infiniti retaile r to determine if this applies to your vehicle. 
+ 
+1/67 
+Classification: Reference: Date: 
+EM22-007D ITB22-038D Februar y 4, 2025 
+ 
+TURBOCHARGER REPLACEMENT PROCEDURE 
+ 
+    APPLIED VEHICLES: 2016-2024 Q50 (V37) 2017-2022 Q60 (CV37) 
+ 
+APPLIED ENGINES: VR30DDTT 
+    IF YOU CONFIRM  One or both turbochargers require replacement.    ACTION  1. Replace the affected turbocharger(s). 
+ 
+ Refer to the SERVICE PROCEDURE  in this bulletin for the updated procedure. 
+ 
+IMPORTANT:  You MUST closely follow the entire SERVICE PROCEDURE  as it 
+contains information that is essential to successfully completing this repair. 
+ 2. Refer to step 212 in the SERVICE PROCEDURE  to confirm if the ECM needs to be 
+reprogrammed. 
+ 
+ 2016-2024 Q50 and 2017-2021 Q60 will require ECM reprogramming at the end 
+of this SERVICE PROCEDURE . 
+ 3. If the ECM part number is in Table A  (page 61 and 63), reprogram the ECM. 
+  IMPORTANT:  The purpose of ACTION  (above) is to give you a quick idea of the work you 
+will be performing. You MUST closely follow the entire SERVICE PROCEDURE  as it 
+contains information that is essential to  successfully completing this repair.  This bulletin has been amended. See AMENDMENT HISTORY on the last page.  
+Please discard previous versions of this bulletin. 
+2/67 ITB22-038D SERVICE PROCEDURE 
+    Remove Driveline  IMPORTANT:  The following Figures are of an 
+AWD vehicle; 2WD is similar. 
+   1. Place the vehicle on a lift that will allow the drivetrain to be removed. 
+   2. Remove the Engine Cover. 
+ 
+ Refer to the ESM: REPAIR > ENGINE > ENGIN E MECHANICAL > REMOVAL 
+AND INSTALLATION > ENGINE COVER  
+  3. Remove the Cowl Top Cover RH and Cowl Top Cover LH. 
+ 
+ Refer to the ESM: REPAIR > BODY EXTERIOR, DOORS, ROOF & VEHICLE 
+SECURITY > EXTERIOR > REMOVAL AN D INSTALLATION > COWL TOP  
+   4. Disconnect the battery cable from the negative terminal.    5. Remove the cover from the battery positive terminal.    6. Disconnect the battery cable from the positive terminal.    7. Release the fuel pressure. 
+ 
+ 
+f 
+To avoid the risk of death or severe personal  injury, work in a well-ventilated area to 
+prevent gasoline vapors from accumulati ng and to prevent their possible ignition. 
+ 
+ Refer to the ESM:  DIAGNOSIS > ENGINE > ENGINE CONTROL SYSTEM > 
+BASIC INSPECTION > ENGINE CONT ROL SYSTEM > FUEL PRESSURE 
+CHECK  
+ 
+  
+
+3/67 ITB22-038D  
+8. Disconnect the wiring harness connector shown in Figure 1. 
+ 9. Roll up the wiring harness dust boot ( Figure 1). 
+ 
+ 
+Figure 1 
+ 
+ 
+Figure 2 
+ 11. Disconnect the wiring harness connector shown in Figure 3. 
+ 
+ Located directly behind the battery. 
+ 12. Detach the two (2) engine control harness mounting clips ( Figure 3). 
+ 
+ 
+Figure 3  
+ 
+ 
+ 10. Disconnect the Engine Control 
+Harness connector from the Engine Room Harness connector ( Figure 2), 
+located under the dust boot. Dust boot 
+Engine Control Harness to Engine 
+Room Harness connectors Wiring harness 
+connector 
+Wiring harness 
+connector 
+Wiring harness 
+mounting clips (2) 
+4/67 ITB22-038D  
+ 
+ 
+Figure 4 
+ 
+ 
+ 
+Figure 5  
+ 15. Disconnect the three (3) ECM wiring harness connectors. 
+ 
+ 
+Figure 6
+ 
+ 
+  
+     13. Detach the Engine Control Harness 
+grommet from the bulkhead. 
+     14. Disconnect Vacuum Hose 1 from the 
+vacuum piping ( Figure 5), and then 
+detach its grommet from the bulkhead. Engine Control 
+Harness grommet 
+Vacuum Hose 1 Vacuum piping 
+Grommet 
+ECM wiring 
+harness 
+connectors (3) 
+5/67 ITB22-038D  
+16. Disconnect the three (3) wiring harness connectors shown in Figure 7. 
+ 
+ 
+Figure 7 
+  
+ 
+Figure 8
+ 
+  
+ 
+Figure 9  
+     17. Remove the positive battery cable nut, 
+and then remove the positive battery cable from the battery terminal with fusible link. 
+   18. Disconnect the engine wiring harness 
+from its mounting bracket. 
+  19. Detach the positive battery cable 
+grommet from the vehicle. 
+Positive battery 
+cable nut 
+Battery terminal 
+with fusible link Positive 
+battery cable 
+Mounting 
+bracket Positive battery 
+cable grommet 
+Wiring harness 
+connectors (3) 
+6/67 ITB22-038D  
+20. Detach the body ground cable ( Figure 10) and the engine ground cable ( Figure 11). 
+ 
+ The body ground cable is located on the driv er (LH) side of the engine room inner 
+fender. 
+ 
+ The engine ground cable is located on the front of the timing cover. 
+ 
+  
+  21. Remove all vehicle Under Covers.   22. Drain the coolant from the radiator.   23. Remove the two (2) bolts retaining the engine room wiring harness bracket shown in 
+Figure 12. 
+  24. Disconnect both the passenger (RH) side and the driver (L H) side heater hoses from 
+the engine.
+ 
+  
+  
+  
+Figure 10 Figure 11 
+Figure 12 Figure 13 Body 
+ground cable 
+Engine 
+ground cable 
+Passenger (RH) side 
+heater hose Driver (LH) side 
+heater hose 
+7/67 ITB22-038D  
+ 
+ 
+ 
+Figure 14  
+  
+ 
+Figure 15
+ 
+ 
+ 
+ 
+Figure 16  
+ 
+  
+ 
+     25. Detach Fuel Feed Hose 2. 
+    
+ 
+ 26. Disconnect Water Hose 1 from 
+Connector Pipe 3. 
+   27. Disconnect Water Hose 9 from Water 
+Pipe 3. 
+Water Hose 1 Connector Pipe 3 Fuel Feed Hose 2 
+Water Pipe 3 
+Water Hose 9 
+8/67 ITB22-038D  
+28. Remove the Air Duct (inlet), shown in Figure 17. 
+ 
+ Eight (8) clips. 
+ 
+ 
+Figure 17  
+ 
+ 
+Figure 18  
+ 
+ 
+Figure 19  
+  
+      29. Disconnect the Radiator Hose (Upper) 
+and the Reservoir Tank Hose from the Multi-way Control Valve. 
+      30. Disconnect the Radiator Hose (Upper) 
+from the radiator. Reservoir Tank 
+Hose 
+Radiator Hose 
+(Upper) Multi-way 
+Control Valve 
+Radiator Hose 
+(Upper) 
+Radiator Air Duct (inlet) 
+Clips (8) 
+9/67 ITB22-038D  
+31. Unclip the first clip of the passenger (RH) side and the driver (LH) side Hood Side 
+Seal Assemblies, to allow access to t he Air Cleaner Body ( bank 1) and Air Cleaner 
+Body (bank 2) mounting bolts ( Figure 20). 
+ 
+  
+Figure 20  
+  32. Disconnect both MAF sens or wiring harness connectors  from the MAF sensors 
+(Figure 21), located on the Air Cleaner Body ( bank 1) and Air Cleaner Body (bank 2). 
+ 33. Unclip the MAF sensor wiring harnesses from Air Cleaner Body (bank 1) and Air 
+Cleaner Body (bank 2). 
+ 34. 
+Unbolt both Air Cleaner Body (bank 1) and Air Cleaner Body (bank 2); two (2) bolts 
+each where shown in Figure 21. 
+ 35. Detach both Air Cleaner Body (bank 1) and Air Cleaner Body (bank 2) from Air Duct 
+(bank 1) and Air Duct (bank 2), and t hen remove them from the vehicle.
+ 
+ 
+ Air Duct (bank 1) and Air Duct (bank 2) are located beneath Air Cleaner Body 
+(bank 1) and Air Cleaner Body (bank 2). 
+  
+  
+Figure 21
+ 
+ 
+  
+Clips Mounting bolt locations Hood Side Seal 
+Assemblies 
+MAF sensors  
+Bolts (4) Air Cleaner 
+Body (bank 1 ) Air Cleaner 
+Body (bank 2 )  
+10/67 ITB22-038D  
+  36. Place tape over Air Duct (bank 1) and Air Duct (bank 2) inlets, to prevent foreign 
+objects from entering the ducts. 
+ 
+ 
+ 
+To prevent engine damage, tape must be pl aced over both duct inlets. If foreign 
+debris enter either duct inlet, turbochar ger damage and possibly engine damage may 
+occur. 
+  37. For vehicles that have an oil cooler, remo ve the two (2) bolts re taining Oil Cooler  
+Pipe 1 bracket to the vehicle ( Figure 22 and Figure 23), located un der the Air Cleaner 
+Body (bank 1). 
+  
+  
+   
+ 
+ 
+Figure 24 
+   
+Figure 22 Figure 23 
+ 38. Recover the A/C refrigerant using 
+approved equipment. 
+    39. Disconnect the High-Pressure Flexible 
+Hose from the condenser. 
+ 
+ One (1) bolt. High-Pressure 
+Flexible Hose 
+Bolt (1) Bolts (2) Oil Cooler  
+Pipe 1 bracket 
+11/67 ITB22-038D  
+ 
+ 
+Figure 25 
+ 
+ 
+Figure 26  
+  
+ 
+    40. Disconnect the Low-Pressure Flexible 
+Hose from the Internal Heat Exchanger Pipe. 
+ 
+ One (1) bolt. 
+     41. Detach the Radiator Hose (lower) and 
+the Reservoir Tank Hose from the Multi-way Control Valve. Bolt (1) Low-Pressure 
+Flexible Hose 
+Reservoir 
+Tank Hose Radiator Hose 
+(lower) 
+12/67 ITB22-038D  
+The following Figures are of the passenger (RH) side AWD; driv er (LH) side is similar.  
+HINT:  2WD is similar for steps 42-47. 
+  42. Raise the vehicle to a comfortabl e height, and then remove both front wheel 
+assemblies. 
+ 
+ 
+ 
+Figure 27
+ 
+  
+ 
+Figure 28
+ 
+  
+ 
+Figure 29
+ 
+  
+ The following steps will be performed on both passenger (RH) side and the driver 
+(LH) side.   43. Remove both front brake caliper 
+assemblies and rotors.  
+ 
+ Do not disconnect hydraulic hoses. 
+ 
+HINT: Two (2) piston caliper shown in 
+Figure 27. Four (4) piston removal is similar. 
+      44. Remove the brake hose locator clips.
+ 
+       45. Remove the wheel  sensors from both 
+front Steering Knuckles. Brake rotor Brake caliper 
+assembly 
+Brake hose 
+locator clip 
+Wheel sensor Steering Knuckle 
+13/67 ITB22-038D  
+  46. Detach the wheel sensor harnesses from th e two (2) locations they are attached to on 
+each steering knuckle bracket ( Figure 30). 
+ 
+  
+Figure 30
+ 
+  
+ 
+Figure 31
+ 
+  
+ 
+Figure 32
+ 
+ 
+  
+      47. Remove the top steering knuckle nuts 
+and remove both bolts. 
+    48. Remove the Shock Absorber Arm to 
+the Transverse Link nuts and both bolts. 
+ 
+ AWD shown in Figure 32. The 
+2WD bolt is in the same location. Top steering 
+knuckle nut and bolt 
+Shock Absorber Arm 
+Link nut and bolt 
+14/67 ITB22-038D  
+49. Raise the vehicle to a comfortabl e height to disconnect the undercarriage 
+components. 
+ 
+  
+ 
+Figure 33
+ 
+  
+ 
+Figure 34
+ 
+53. Disconnect the trans mission's Control Rod. 
+ 
+ Remove the Snap Pin to separate the Control Rod. 
+ 
+  
+Figure 35  
+50. Remove the two (2) nuts and bolts that 
+connect the Exhaust Front Tube to the Center Muffler, where shown in  Figure 33. 
+ 
+ For AWD vehicles, the Center 
+Muffler will remain attached to the vehicle. 
+ 51. For 2WD only, remove the complete 
+propeller shaft from the vehicle. 
+ 
+ Refer to the ESM: REPAIR > 
+TRANSMISSION & DRIVELINE > DRIVELINE > REMOVAL AND INSTALLATION > REAR PROPELLER SHAFT  
+  
+ 
+52. For AWD vehicles, remove the four (4) 
+nuts and bolts that connect the propeller shaft to the transmission, and then disconnect the propeller shaft from transmission. 
+ 
+ The propeller shaft will remain 
+attached to the final drive. 
+ 
+ One (1) hidden nut/bolt in  
+Figure 34. Exhaust 
+Front Tube 
+Center 
+Muffler Nuts and 
+bolts (2) 
+Snap pin Snap Pin 
+Control Rod Control Rod AWD 2WD  
+15/67 ITB22-038D  
+ 
+ 
+ 
+Figure 36  
+  
+ 
+Figure 37
+ 
+  
+ 
+Figure 38
+ 
+ 
+  
+  54. Secure the steering wheel, so that it 
+cannot rotate. 
+  55. Remove one (1) bolt, and then 
+disconnect the steering shaft from the steering rack. 
+ 
+HINT:  The bolt location and 
+component view may differ based on the type of steering system. 
+   56. Disconnect the pow er steering wiring 
+harness connector, if present.  
+ 
+ Electric power steering type shown 
+in Figure 37. 
+ 
+ Located on either the driver (LH) 
+side or passenger (RH) side of the 
+front corner of the front suspension 
+member. 
+ 
+ 
+     57. Detach the A/T fluid cooler hoses. Steering rack Steering shaft 
+A/T fluid 
+cooler hoses 
+16/67 ITB22-038D  
+  58. If the vehicle has an oil cooler, disconnect O il Cooler Hose 1 and Oil Cooler Hose 2. 
+  
+  
+ 
+  
+ 
+Figure 41
+ 
+ 
+  
+Figure 39 Figure 40 
+      59. Place a drivelin e support table under 
+the driveline, and raise to support the driveline. Oil Cooler 
+Hose 2 Oil Cooler 
+Hose 1 
+17/67 ITB22-038D  
+ 60. Remove the four (4) rear  engine mounting member bolts ( Figure 42). 
+  61. Remove the front suspension me mber nuts and bolts indicated in Figure 42. 
+ 
+ AWD has a total of four (4) front suspension member nuts. 
+ 2WD has two (2) front suspension member nuts.  
+ Two (2) front suspension member bolts (both AWD and 2WD).  AWD only: Two (2) front cross bar bolts. 
+ 
+ 
+HINT:  Figure 42 is of an AWD vehicle. Nut and bolt locations are similar for 2WD. 
+ 
+ 
+Figure 42  
+Rear engine 
+mounting member 
+bolts (4). 
+All grades. Front suspension member nuts: 
+ AWD (total of 4) 
+ 2WD 
+(2) Front suspension 
+member bolts (2). 
+All grades. 
+AWD only 
+Front cross bar 
+bolts (2) AWD only 
+Front suspension 
+membe r nuts (2) 
+18/67 ITB22-038D  
+  62. For AWD vehicles, remove the four (4 ) transverse link bolts; two (2) per side. 
+  
+ 
+Figure 43
+ 
+   63. Carefully lower the complete dr iveline away from the vehicle. 
+ 
+  
+Transverse link 
+bolts (2 per side) 
+19/67 ITB22-038D Remove the Passenger (RH) Side Turbocharger 
+ 64. Loosen the Air Inlet Hose clamp shown in Figure 44. This hose will be detached in 
+step 81 on page 24. 
+ 65. Release the spring clamps and disconnect 
+the two (2) associated hoses, shown in 
+Figure 44. 
+ 66. Disconnect the wiring harness connector shown in Figure 44. 
+ 
+ 
+Figure 44  
+ 67. Unplug the A/F sensor wiring harness c onnector, and then remove the A/F sensor 
+from the turboc harger housing. 
+ 68. If present, unplug the Turbocharger Exhaust Gas Temperature Sensor (Bank 1) wiring 
+harness connector, and then remove the s ensor from the turbocharger housing. 
+ 
+ 
+Figure 45  
+A/F sensor Harness connector Wiring harness 
+connecto r Hose clamp Hoses (2) 
+20/67 ITB22-038D  
+  69. Remove the turbocharger Heat Insulator (upper).  
+ 
+Figure 46
+ 
+  70. Remove the two (2) exhaust mount bolts shown in Figure 47. 
+ 
+ 
+Figure 47
+ 
+ 
+  
+Heat Insulator 
+bolts (5) 
+Exhaust mount 
+bolts (2) Heat Insulator 
+(upper) 
+21/67 ITB22-038D  
+  71. Remove the three (3) nuts that connect t he Catalyst Converter (bank 1) to the 2nd 
+Catalyst Converter (bank 1). 
+ 
+ 
+Figure 48
+ 
+  72. Remove the Catalyst Converter (bank 1) support bracket bolt.  
+ 
+Figure 49
+ 
+ 
+  
+Catalyst Converter 
+nuts (3) 
+Support 
+bracket bolt 
+22/67 ITB22-038D 73. Release the spring clamp and disconnect the associated coolant hose shown in 
+Figure 50. 
+ 
+74. Remove the water tub
+e bracket bolt ( Figure 50). 
+ 
+ 
+Figure 50  
+ 75. If present, disconnect the Turbocharger  Speed Sensor (Bank 1) wiring harness 
+connector (not shown). 
+ 76. Loosen the turbocharger assembly mounting nut s in order, from 1 to 4, as shown in 
+Figure 51. 
+ 77. Remove the band clamp bolt.  
+ 
+Figure 51  
+Water tube 
+bracket bolt Coolant hose 
+Band clamp 
+bolt Turbocharger 
+mount nuts (4) 4 
+1 3 2 
+23/67 ITB22-038D  
+ 78. Detach Catalyst Converter (bank  1) from the turbocharger outlet. 
+ 79. Release the spring clamp and disconnect t he associated oil return hose shown in 
+Figure 52. 
+ 
+ 
+Figure 52
+ 
+  80. Remove the eye bolt retaining the oil feed tube.  
+ 
+Figure 53
+ 
+ 
+  
+Oil return hose 
+Eye bolt 
+24/67 ITB22-038D  
+  81. Detach the Air Inlet Hose from the turbocharger.   82. Gently remove the turbocharger from its mounting studs so that the oil line mounting 
+bracket bolt can be reached (Figure 54). 
+  83. Remove the oil feed tube m ounting bracket bolt shown in Figure 54. 
+  
+ 
+Figure 54
+ 
+ 
+ 
+ 
+84. Remove the turbocharger from the engine and place it on a clean workbench. 
+ 
+  
+Oil feed tube mounting 
+bracket bolt 
+25/67 ITB22-038D Reinstall the Passenger (RH) Side Turbocharger 
+   85. Transfer the components from  the old to the new turbocharger assembly and torque 
+to the specifications below. 
+ 
+IMPORTANT:  Refer to PARTS INFORMATION for single use parts. 
+ 
+ Water tube eye bolt tor que: 25.0 N•m (2.6 kg-m, 18 ft-lb) 
+HINT:  One (1) Water tube eye bolt is hidden in Figure 55. 
+ 
+ Bracket bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ Oil Return Pipe 1 bolt to rque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ Heat Insulator (lower) bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ If present, Turbocharger Speed Sensor (bank 1):  
+ 
+o Wiring harness connector bracket to tur bocharger torque: 7.0 N•m (0.71 kg-m,  
+62 in.-lb ) 
+ 
+o Wiring harness connector to bracke t torque: 2.2 N•m (0.22 kg-m, 19 in.-lb ) 
+  
+ 
+Figure 55
+ 
+   
+Bracket 
+bolts (2) Water tube 
+eye bolts (2) 
+Oil Return Pipe 1 
+bolts (2). 
+1 hidden in Figure Heat Insulator 
+(lower) bolts (2). 
+1 hidden in Figure 
+26/67 ITB22-038D 86. Install and temporarily tighten the eye bolt for the oil line, with a new gasket  
+(Figure 56). 
+ 
+87. Reattach the oil feed t ube mounting bracket with bolt ( Figure 56) and torque to 
+specification. 
+ 
+ Bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ 
+Figure 56 
+ 88. Align the turbocharger Air Inlet Hose 1 ( bank 1) with the turboc harger output, and then 
+slide the turbocharger onto its mounting studs. 
+ 
+ Leave the turbocharger Air Inlet Hose 1 (bank 1) clamp loose at this time. 
+ 
+ Replace the turbocharger to cylinder head gasket with a new part from PARTS 
+INFORMATION. 
+ 
+ 
+Figure 57  
+Oil feed tube mounting 
+bracket bolt Eye bolt 
+Air Inlet Hose 
+1 (bank 1) 
+27/67 ITB22-038D  
+89. Reconnect the oil return hose and spring clamp.  
+ 
+Figure 58
+ 
+ 90. Install all four (4) turboc harger mount nuts, and then torque  them in the order (from 1 
+to 6) shown in Figure 59. 
+ 
+ Nut torque: 30.5 N•m (3.1 kg-m, 22 ft-lb ) 
+ 91. Align the Catalyst Conver ter (bank 1) with 2nd Catalyst Converter (bank 1) studs and 
+install the nuts finger tight. See PARTS INFORMATION  for new gasket. 
+ 92. Reattach the Catalyst Converter (bank 1) to the turbocharger outlet, and then lightly 
+tighten the band clamp bolt enough to align catalyst, but allow it to rotate. 
+ 
+ 
+Figure 59
+ 
+  
+Oil return hose 
+Band clamp 
+bolt Turbocharger 
+mount nuts (4) 1, 5 
+4 2, 6 3 
+28/67 ITB22-038D 93. Install the catalyst converter suppor t bracket bolt and torque to specification. 
+ 
+ Bolt torque: 47.8 N•m (4.9 kg-m, 35 ft-lb ) 
+ 
+ 
+Figure 60  
+ 
+94. Torque the Catalyst Converter (bank 1) to  the turbocharger outlet band clamp bolt to 
+specification. 
+ 
+ Bolt torque: 15 N•m (1.5 kg-m, 11 ft-lb )  
+ 95. Torque the oil feed tube ey e bolt to specification. 
+ 
+ Bolt torque: 25.0 N•m (2.6 kg-m, 18 ft-lb )  
+ 
+ 
+Figure 61  
+  
+Oil feed tube Eye bolt Support 
+bracket bolt 
+29/67 ITB22-038D  
+ 96. Reinstall the water tube bracket bolt ( Figure 62) and torque to specification. 
+ 
+ Bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 97. Reinstall the coolant hose and its spring clamp (Figure 62). 
+ 
+ 
+Figure 62
+ 
+  98. Reinstall the two (2) exhaust mount bolts shown in Figure 63 finger tight. 
+ 
+ 
+Figure 63 
+   
+Exhaust mount 
+bolts (2) Coolant hose Water tube 
+bracket bolt 
+30/67 ITB22-038D 99. Torque the Catalyst Converter (bank 1) to  2nd Catalyst Converte r (bank 1) nuts that 
+were finger tightened, in step 91 on page 27, to specifications. 
+ 
+ Nut torque: 44.9 N•m (4.6 kg-m, 33 ft-lb ) 
+ 
+100. Torque the two (2) exhaust mount bolts installed finger tight in step 98 on page 29 to 
+specification. 
+ 
+ Bolt torque: 44.9 N•m (4.6 kg-m, 33 ft-lb ) 
+ 
+ 
+Figure 64  
+  101. Reinstall Heat Insulato r (upper) with five (5) bolts. 
+ 
+ Bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ 
+Figure 65  
+Heat Insulator 
+(upper) bolts (5) Catalyst Converter 
+nuts (3) 
+Heat Insulator 
+(upper) 
+31/67 ITB22-038D 102. Install a new A/F sensor from PARTS INFORMATION , torque it to specification and 
+then reconnect its wiring harness connector. 
+ 
+ A/F sensor torque: 50 N•m (5.1 kg-m, 37 ft-lb) 
+ 
+ 
+Figure 66  
+ 
+103. Tighten the hose clamp ( Figure 67). 
+ 
+ Torque hose clamp to 7.0 N•m (0.71 kg-m, 62 in-lb ) 
+ 
+104. Reconnect the two (2) hoses ( Figure 67). 
+  
+105. Reconnect the wiring harness connector ( Figure 67). 
+  
+106. If the Turbocharger Exhaust Gas Temper ature Sensor (bank 1) wiring harness 
+connector was disconnected in step 75 on page 22, then reconnect it. 
+ 
+ 
+Figure 67  
+A/F sensor Wiring harness 
+connector 
+Wiring harness 
+connecto r Hose clamp Hoses (2) 
+32/67 ITB22-038D Remove the Driver (LH) Side Turbocharger 
+ 107. Loosen the hose clamp shown in Figure 68. This hose will be detached in step 124 on 
+page 36. 
+ 108. Release the spring clamps and disconnect t he three (3) associated hoses, shown in 
+Figure 68. 
+ 109. Disconnect the wiring harness connector shown in Figure 68. 
+ 
+ 
+Figure 68
+ 
+ 110. Unplug the A/F sensor wiring harness c onnector, and then remove the A/F sensor 
+from the turboc harger housing. 
+ 
+ 
+Figure 69  
+A/F sensor 
+Harness connector 
+Wiring harness 
+connecto r Hose clamp Hoses (3) 
+33/67 ITB22-038D  
+ 111. If present, unplug the Turbocharger Exhaust Gas Temperature Sensor (Bank 2) wiring 
+harness connector, and then remove the s ensor from the turbocharger housing. 
+  112. Remove the turbocharger Heat Insulator (upper).  
+ 
+Figure 70
+ 
+  113. Remove the two (2) nuts that connect the Catalyst Converter (bank 2) to the 2nd 
+Catalyst Converter (bank 2). 
+ 
+ 
+Figure 71
+ 
+ 
+  
+Heat Insulator 
+bolts (4) 
+Catalyst Converter 
+nuts (2) Heat Insulator 
+(upper) 
+34/67 ITB22-038D  
+  114. Remove the Catalyst Converter (bank 2) support bracket bolt.  
+ 
+Figure 72
+ 
+  115. Remove the 2nd Catalyst Conver ter (bank 2) support bracket bolt. 
+ 
+ 
+Figure 73
+ 
+ 
+  
+Support 
+bracket bolt Support 
+bracket bolt 
+35/67 ITB22-038D  
+116. Loosen the turbocharger assembly mounting nut s in order, from 1 to 4, as shown in 
+Figure 74. 
+  117. Remove the band clamp bolt.  
+ 
+Figure 74
+ 
+ 118. Detach Catalyst Converter (bank  2) from the turbocharger outlet. 
+  119. Release the spring clamp and disconnect t he associated oil return hose shown in 
+Figure 75. 
+ 
+ 
+Figure 75
+ 
+  
+Band clamp 
+bolt Turbocharger 
+mount nuts (4) 4 
+1 3 2 
+Oil return hose 
+36/67 ITB22-038D 120. Remove the eye bolt retaining the oil feed tube. 
+ 
+ 
+Figure 76  
+ 121. Remove both the A/C High- Pressure Flexible Hose and then the Low-Pressure Pipe 2 
+from the A/C compressor ( Figure 77). 
+ 122. Remove the Oil Feed Tube mounting bracket bolt shown in Figure 77. 
+ 
+ 
+Figure 77
+ 
+  123. If present, disconnect the Turbocharger  Speed Sensor (Bank 2) wiring harness 
+connector. 
+ 
+124. Remove the turbocharger from the engine and place it on a clean workbench. 
+  
+Eye bolt 
+Low-Pressure 
+Pipe 2 
+High-Pressure 
+Flexible Hose Oil Feed Tube mounting 
+bracket bolt 
+A/C 
+compressor 
+37/67 ITB22-038D  
+  125. Transfer the components from  the old to the new turbocharger assembly and torque 
+to the specifications below. 
+ 
+IMPORTANT:  Refer to PARTS INFORMATION for single use parts. 
+ 
+ Water tube eye bolt tor que: 25.0 N•m (2.6 kg-m, 18 ft-lb) 
+HINT:  One (1) Water tube eye bolt is hidden in Figure 55. 
+ 
+ Bracket bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ Oil return pipe bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb) 
+ 
+ Heat insulator (lower) bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ If present, Turbocharger Speed Sensor (bank 2):  
+ 
+o Wiring harness connector bracket to tur bocharger torque: 7.0 N•m (0.71 kg-m,  
+62 in.-lb ) 
+ 
+o Wiring harness connector to bracke t torque: 2.2 N•m (0.22 kg-m, 19 in.-lb ) 
+   
+ 
+Figure 78
+ 
+   
+Bracket 
+bolts (2) 
+Water tube 
+eye bolts (2) 
+Oil return pipe bolts (2). 
+1 hidden in Figure Heat insulator 
+(lower) bolts (3). 
+1 hidden in Figure 
+38/67 ITB22-038D Reinstall the Driver (LH) Side Turbocharger 
+  126. If present, reconnect the Turbocharger Speed Sensor (Bank 2) wiring harness 
+connector. 
+ 127. Install and temporarily tighten the eye bol t for the oil feed tube, with a new gasket  
+(Figure 79). 
+ 
+ 
+Figure 79
+ 
+ 128. Reattach the Oil Feed Tube mounting bracket bolt (Figure 80), and then torque to 
+specification. 
+ 
+ Bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ 
+Figure 80  
+Eye bolt 
+Oil feed tube 
+Oil Feed Tube 
+mounting bracket bolt 
+A/C 
+compressor 
+39/67 ITB22-038D  
+129. Align the turbocharger Air Inlet Hose 1 ( bank 2) with the turboc harger output, and then 
+slide the turbocharger onto its mounting studs. 
+ 
+ Leave the turbocharger Air Inlet Hose 1 (bank 2) clamp loose at this time. 
+ 
+ Replace the turbocharger to cy linder head gasket with a new one from PARTS 
+INFORMATION. 
+ 130. Reconnect the wiring harness connector shown in Figure 81. 
+ 131. Reconnect the three (3) hoses shown in Figure 81. 
+ 
+ 
+Figure 81
+ 
+ 132. Reconnect the oil return hose and spring clamp.  
+ 
+Figure 82  
+Wiring harness 
+connecto r 
+Hose clamp Hoses (3) 
+Oil return hose 
+40/67 ITB22-038D  
+  133. Install all four (4) turbocharger mount nuts, and then torque them in the order  
+(from 1 to 6) shown in Figure 83. 
+ 
+ Nut torque: 30.5 N•m (3.1 kg-m, 22 ft-lb ) 
+  134. Align the Catalyst Conver ter (bank 2) with 2nd Catalyst Converter (bank 2) studs and 
+install the nuts finger tight. 
+  135. Reattach the Catalyst Converter (bank 2) to the turbocharger outlet, and then lightly 
+tighten the band clamp bolt just enough to ali gn catalyst, but allow it to rotate. 
+ 
+ Band clamp will be torqued in step 138 on page 42. 
+  
+ 
+Figure 83
+ 
+ 
+  
+Band clamp 
+bolt Turbocharger 
+mount nuts (4) 1, 5 
+4 2, 6 3 
+41/67 ITB22-038D  
+  136. Reinstall the 2nd Catalyst Converter ( bank 2) support bracket bolt finger tight. 
+ 
+ 
+Figure 84
+ 
+  137. Reinstall the Catalyst Converter ( bank 2) support bracket bolt finger tight. 
+ 
+ 
+Figure 85
+ 
+ 
+  
+Support 
+bracket bolt Support 
+bracket bolt 
+42/67 ITB22-038D  
+ 
+ 138. Torque the Catalyst Converter (bank 2) to  the turbocharger outlet band clamp bolt to 
+specification. 
+ 
+ Bolt torque: 15 N•m (1.5 kg-m, 11 ft-lb ) 
+  139. Torque the 2nd Catalyst Converter (bank 2) support bracket bolt to specification. 
+ 
+ Bolt torque: 47.8 N•m (4.9 kg-m, 35 ft-lb ) 
+  140. Torque the Catalyst Converter (bank 2)  support bracket bolt to specification. 
+ 
+ Bolt torque: 47.8 N•m (4.9 kg-m, 35 ft-lb ) 
+  141. Torque the oil feed tube eye bolt ( Figure 86) to specification. 
+ 
+ Bolt torque: 25.0 N•m (2.6 kg-m, 18 ft-lb ) 
+  
+ 
+Figure 86
+ 
+ 
+ 
+  
+Oil feed tube Eye bolt 
+43/67 ITB22-038D  
+  142. Torque the Catalyst Converter (bank 2) to  2nd Catalyst Converte r (bank 2) nuts that 
+were finger tightened, in step 134 on page 40, to specification. 
+ 
+ Nut torque: 44.9 N•m (4.6 kg-m, 33 ft-lb ) 
+ 
+ 
+Figure 87  
+  143. Reinstall Heat Insulato r (upper) with four (4) bolts. 
+ 
+ Bolt torque: 9.0 N•m (0.92 kg-m, 80 in.-lb ) 
+ 
+ 
+Figure 88 
+   
+Catalyst Converter 
+nuts (2) 
+Heat Insulator 
+bolts (4) Heat Insulator 
+(upper) 
+44/67 ITB22-038D  
+  144. Install a new A/F sensor from PARTS INFORMATION , torque it to specification and 
+then reconnect its wiring harness connector. 
+ 
+ A/F sensor torque: 50 N•m (5.1 kg-m, 37 ft-lb) 
+ 
+ 
+Figure 89  
+  145. Tighten the hose clamp shown in Figure 90. 
+ 
+ Torque hose clamp to 7.0 N•m (0.71 kg-m, 62 in-lb ) 
+ 
+ 
+Figure 90  
+A/F sensor 
+Hose clamp Harness connector 
+
+45/67 ITB22-038D  
+146. Reattach the Low-Pressure Pipe 2 and then the A/C High-Pressure Flexible Hose to 
+the A/C compressor ( Figure 91) and then torque to specification. 
+ 
+ Nut torque: 13.7 N•m (1.4 kg-m, 10 ft-lb ) 
+ 
+ 
+Figure 91  
+ Reinstall Driveline  147. Carefully raise the driveline back into the vehicle.
+ 
+ 148. For AWD vehicles, reinstall the four (4 ) transverse link bolts; two (2) per side, and 
+temporarily tighten. 
+ 
+ These bolts will be torqued to specification in step 152 on page 47. 
+ 
+ 
+Figure 92  
+Transverse link 
+bolts (2 per side) Low-Pressure 
+Pipe 2 
+High-Pressure 
+Flexible Hose A/C 
+compressor 
+46/67 ITB22-038D  
+  149. Reinstall and temporar ily tighten the following nuts and bolts indicated in Figure 93. 
+ 
+ AWD has a total of four (4) front suspension member nuts. 
+ 2WD has two (2) front suspension member nuts. 
+ Two (2) front suspension member bolts (both AWD and 2WD).  AWD only: Two (2) front cross bar bolts. 
+ The rear engine mounting member bolts. 
+ 
+HINT:  Figure 93 is of an AWD vehicle. Nut and bolt locations are similar for 2WD. 
+ 
+ 
+  
+Figure 93  
+  150. Torque the sub frame nut s, bolts, and front cross bar  bolts to the following 
+specifications: 
+ 
+ Torque the front suspension me mber nuts to 130 N•m (13 kg-m, 96 ft-lb). 
+ Torque the front suspension member bolts to 82 N•m (8.4 kg-m, 60 ft-lb ). 
+ Torque the front cross bar bolts to 75 N•m (7.7 kg-m, 55 ft-lb ). 
+ 151. Torque the rear engine mounting mem ber bolts in the pattern shown in Figure 93. 
+ 
+ Bolt torque: 49 N•m (5.0 kg-m, 36 ft-lb ). 
+  
+Rear engine 
+mounting member 
+bolts (4). 
+All grades. Front suspension member nuts: 
+ AWD (total of 4)  2WD 
+(2) Front suspension 
+member bolts (2). 
+All grades. 
+AWD only 
+Front cross bar 
+bolts (2) AWD only 
+Front suspension 
+membe r nuts (2) 
+3
+4 2 
+1 
+47/67 ITB22-038D  
+ 
+ 
+ 
+Figure 94  
+  
+ 
+Figure 95
+ 
+   154. Raise the vehicle to a comfor table height for the following steps. 
+ 
+ 
+ 
+Figure 96
+ 
+  
+    152. For AWD vehicles, torque the four (4) 
+transverse link bolts;  two (2) per side, 
+to specification. 
+ 
+ Bolt torque: 128 N•m (13 kg-m,  
+94 ft-lb ) 
+      153. Slowly lower, and then remove, the 
+driveline support table from under the driveline. 
+    
+ 
+155. Reattach the A/T fluid cooler hoses.       156. Reconnect Oil Cool er Hose 1 and Oil 
+Cooler Hose 2 if they were disconnected in step 58 on page 16. 
+A/T fluid 
+cooler hoses Driveline 
+support table Transverse link 
+bolts (2 per side) 
+48/67 ITB22-038D  
+  
+ 
+Figure 97
+ 
+  
+ 
+Figure 98
+ 
+  159. Reconnect the transmission' s Control Rod with Snap Pin. 
+ 
+  
+ Figure 99 
+  
+  157. Reconnect the power steering wiring 
+harness connector, if present.  
+ 
+HINT:  Electric power steering type 
+shown in Figure 37. 
+ 
+ Located on either the driver (LH) 
+side or passenger (RH) side of the front corner of the front suspension member, under the inner fender protector. 
+   158. Reconnect the steering shaft to the 
+steering rack, and then install the bolt. 
+ 
+ Bolt torque: 26.5 N•m (2.7 kg-m, 
+20 ft-lb ) 
+ 
+HINT:  The bolt location and 
+component view may differ based on the type of steering system. 
+Steering rack Steering shaft 
+Snap pin Snap Pin 
+Control Rod Control Rod AWD 2WD  
+49/67 ITB22-038D  
+  160. For 2WD only, reinstall the propeller sha ft and complete exhaust into the vehicle, and 
+then skip to step 162. 
+ 
+ Refer to the ESM: REPAIR > TRANSMISSION & DRIVELINE > DRIVELINE > 
+REMOVAL AND INSTALLATION > REAR PROPELLER SHAFT  
+  
+ 
+Figure 100 
+ 
+ 
+ 
+Figure 101  
+  163. Reinstall all Under Covers.    164. Lower the vehicle to a comfortable height  to reassemble the suspension and brake 
+components. 
+   
+ 
+ 
+161. For AWD vehicles, reconnect the 
+propeller shaft to the transmission with four (4) nuts and bolts, and then torque to specification. 
+ 
+ Torque to 80 N•m (8.2 kg-m,  
+59 ft-lb ). 
+ 
+ One (1) hidden nut/bolt in  
+Figure 100. 
+  162. Reconnect the Exhaus
+t Front Tube to 
+the Center Muffler with a new gasket 
+and two (2) nuts and bolts  
+(Figure 101), and then torque to 
+specification. 
+ 
+ Torque to 58 N•m (5.9 kg-m,  
+43 ft-lb ). 
+ 
+ See PARTS INFORMATION  for 
+single use parts. Exhaust 
+Front Tube 
+Center 
+Muffler Nuts and 
+bolts (2) 
+50/67 ITB22-038D  
+The following steps will be performed on both the passenger (RH) side and the driver (LH) 
+side of the vehicle. The figures are of  the RH side. The LH side is similar. 
+ 165. Reattach both Shock Absorber Arms to the Transverse Links wit h nuts and fasteners, 
+and then torque to the s pecifications below. 
+ 
+ For AWD torque, refer to Figure 102. 
+ For 2WD torque, refer to Figure 103. 
+ 
+  
+ 
+ 
+Figure 104  
+ 
+ 
+Figure 105  
+Figure 102 Figure 103 
+    166. Reattach the top of the Steering 
+Knuckle to the Upper Link, and then torque to specification. 
+ 
+ Torque to 55 N•m (5.6 kg-m,  
+41 ft-lb ). 
+   
+ 
+167. Reattach both brake rotors and caliper 
+assemblies, and then torque bolts to specification. 
+ 
+ For 2 or 4 piston calipers, torque 
+bolts to 123 N•m (13 kg-m,  91 ft-lb ). Brake rotor Brake caliper 
+assembly Steering Knuckle  Upper Link Shock Absorber Arm 
+Link nut and fastener 
+51/67 ITB22-038D  
+ 
+ 
+ 
+Figure 106  
+  
+ 
+Figure 107
+ 
+   170. Reattach the wheel sensor harnesses to the two (2) locations, on each Steering 
+Knuckle, shown in Figure 108. 
+ 
+  
+Figure 108
+ 
+  
+      168. Reattach the brake hose locator clips. 
+ 
+   
+ 
+169. Reattach the wheel sensors to both 
+Steering Knuckles. 
+ 
+ Bolt torque: 9 N•m (9.2 kg-m,  
+80 in.-lb ) 
+Wheel sensor Steering Knuckle Brake hose 
+locator clip 
+ 
+52/67 ITB22-038D  
+ 171. Lower the vehicle to a comfortable height to work in engine room.   
+ 
+ 
+Figure 109
+ 
+  
+ 
+ 
+Figure 110 
+  
+ 
+Figure 111
+ 
+  
+   
+ 
+ 172. Reattach the High-Pressure Flexible 
+Hose to the condenser. 
+ 
+ One (1) bolt. 
+ 
+ Bolt torque: 5.5 N•m (0.56 kg-m,  
+49 in.-lb ) 
+      173. Reconnect the Low-Pressure Flexible 
+Hose to the Internal Heat Exchanger Pipe. 
+ 
+ One (1) bolt. 
+ 
+ Bolt torque: 5.5 N•m (0.56 kg-m,  
+49 in.-lb ) 
+      174. Reattach the Radiator Hose (lower) 
+and the Reservoir Tank Hose to the Multi-way Control Valve. Bolt (1) Low-Pressure 
+Flexible Hose Bolt (1) High-Pressure 
+Flexible Hose 
+Reservoir 
+Tank Hose Radiator Hose 
+(lower) 
+53/67 ITB22-038D  
+175. For vehicles that t he Oil Cooler Pipe 1 bolts were removed in step 37 on page 10, 
+reinstall the two (2) bolts. 
+ 
+ Bolt torque: 5.5 N•m (0.56 kg-m, 49 in.-lbs ) 
+ 176. Remove the tape from over Air Duct (bank 1) and Air Duct (bank 2) inlets. 
+ 177. Reattach both Air Cleaner Body (bank 1) and Air Cleaner Body (bank 2) to Air Duct 
+(bank 1) and Air Duct (bank 2), and then inst all their bolts; a total of four (4). 
+ 
+ Bolt torque: 5.5 N•m (5.6 kg-m, 49 in.-lb ) 
+ 178. Reattach the MAF sensor wiring harnesse s to Air Cleaner Body (bank 1) and Air 
+Cleaner Body (bank 2). 
+ 179. Reconnect both MAF sensor wiring har ness connectors to the MAF sensors  
+(Figure 112), located on the Air Cleaner Body (bank 1) and Air Cleaner Body (bank 2). 
+ 
+  
+  
+Figure 112
+ 
+  
+180. Reattach the passenger (RH) side and the driver (LH) side Hood Side Seal Assembly 
+clips ( Figure 113). 
+ 
+  
+Figure 113  
+MAF sensors  
+Clips Hood Side Seal 
+Assemblies Air Cleaner 
+Body (bank 1 ) 
+Bolts (4) Air Cleaner 
+Body (bank 2 ) 
+ 
+54/67 ITB22-038D  
+ 
+Figure 114 
+ 
+ 
+ 
+Figure 115  
+ 183. Install the Air Duct (inlet), shown in Figure 116. 
+ 
+ Eight (8) clips. 
+ 
+ 
+Figure 116  
+  
+      181. Reconnect the Radiator Hose (Upper) 
+to the radiator. 
+      182. Reconnect the Radiator Hose (Upper) 
+and the Reservoir Tank Hose to the Multi-way Control Valve. Radiator Hose 
+(Upper) 
+Radiator 
+Reservoir Tank 
+Hose 
+Radiator Hose 
+(Upper) Multi-way 
+Control Valve 
+Air Duct (inlet) 
+Clips (8) 
+55/67 ITB22-038D  
+  
+ 
+ 
+Figure 117  
+  
+ 
+Figure 118
+ 
+  
+ 
+Figure 119
+ 
+ 
+  
+ 
+    184. Reconnect Water Hose 9 to Water 
+Pipe 3. 
+      185. Reconnect Water Hose 1 to Connector 
+Pipe 3. 
+      186. Reattach Fuel Feed Hose 2. 
+Water Hose 1 Connector Pipe 3 
+Fuel Feed Hose 2 Water Pipe 3 
+Water Hose 9 
+56/67 ITB22-038D  
+  187. Reconnect both the passenger (RH) side and the dr iver (LH) side heat er hoses to the 
+engine ( Figure 120 and Figure 121). 
+  188. Reinstall the two (2) bolts retainin g the engine room wiring harness
+ bracket  
+(Figure 120). 
+ 
+ Bolt torque: 13.5 N•m (1.4 kg-m, 10 ft-lb ) 
+ 
+  
+   189. Reattach the body ground cable ( Figure 122) and the engine ground cable  
+(Figure 123). 
+ 
+ The body ground cable is located on the driv er (LH) side of the engine room inner 
+fender. 
+ 
+ The engine ground cable is located on the front of the timing cover. 
+ 
+  
+ 
+  
+Figure 120 Figure 121 
+Figure 122 Figure 123 Body 
+ground cable 
+Engine 
+ground cable Passenger (RH) side 
+heater hose Driver (LH) side 
+heater hose 
+57/67 ITB22-038D  
+ 
+ 
+Figure 124  
+ 
+ 
+Figure 125  
+ 
+193. Reconnect the three (3) wir ing harness connectors shown in Figure 126. 
+ 
+ 
+Figure 126 
+  
+  190. Reattach the positive battery cable 
+grommet to the vehicle. 
+  191. Reconnect the engine wiring harness 
+to its mounting bracket. 
+     192. Reattach the positive battery cable to 
+the battery terminal with fusible link. 
+ 
+ Nut torque: 13.5 N•m (1.4 kg-m,  
+10 ft-lb ) Mounting 
+bracket Positive battery 
+cable grommet 
+Positive battery 
+cable nut 
+Battery terminal 
+with fusible link Positive 
+battery cable 
+Wiring harness 
+connectors (3) 
+58/67 ITB22-038D  
+194. Reconnect the ECM wiring harness connectors (3).  
+ 
+Figure 127
+ 
+  
+ 
+Figure 128
+ 
+  
+ 
+Figure 129 
+ 
+  
+     195. Reconnect the Vacuum Hose 1 to the 
+vacuum piping ( Figure 128), and then 
+reattach its grommet to the bulkhead. 
+ 
+ 
+    196. Reattach the Engine Control Harness 
+grommet to the bulkhead. Vacuum Hose 1 Vacuum piping 
+Grommet 
+Engine Control 
+Harness grommet ECM wiring harness 
+connectors (3) 
+59/67 ITB22-038D 197. Reattach the two (2) Engine Control Harness mounting clips ( Figure 130). 
+ 
+198. Reconnect the wiring harness connector ( Figure 130). 
+ 
+ Located directly behind the battery. 
+ 
+ 
+Figure 130 
+ 
+ 
+Figure 131 
+ 200. Roll down the wiring harness dust boot ( Figure 132). 
+ 
+201. Reconnect the wiring harness connector shown in Figure 132. 
+ 
+ 
+Figure 132 
+  
+   199. Reconnect the Engine Control 
+Harness from the Engine Room Harness ( Figure 131). 
+Dust boot Wiring harness 
+connector Wiring harness 
+connector 
+Wiring harness 
+mounting clips (2) 
+Engine Control Harness / Engine 
+Room Harness connector 
+60/67 ITB22-038D  
+ 202. Refill the engine coolant.   
+ 
+203. Refill Intercooler coolant.   
+ 
+204. Reconnect the battery cable to the positive terminal. 
+ 
+ Nut torque: 13.5 N•m (1.4 kg-m, 10 ft-lb ) 
+  
+ 
+205. Reinstall the cover of the battery positive terminal. 
+  
+ 
+206. Reconnect the battery cable to the negative terminal. 
+ 
+ Nut torque: 13.5 N•m (1.4 kg-m, 10 ft-lb ) 
+  
+ 
+207. Reinstall the Cowl Top Cover RH and Cowl Top Cover LH. 
+ 
+ Refer to the ESM: REPAIR > BODY EXTERIOR, DOORS, ROOF & VEHICLE 
+SECURITY > EXTERIOR > REMOVAL AN D INSTALLATION > COWL TOP  
+  
+ 
+208. Reinstall the Engine Cover. 
+ 
+ Refer to the ESM: REPAIR > ENGINE > ENGIN E MECHANICAL > REMOVAL 
+AND INSTALLATION > ENGINE COVER  
+  
+ 
+209. Recharge the A/C refriger ant using approved equipment. 
+  
+ 
+210. Perform Turbocharger Wastegate Control So lenoid Valve Data Initialization . 
+ 
+ Refer to the ESM: DIAGNOSIS > ENGINE > EN GINE CONTROL SYSTEM > 
+BASIC INSPECTION > ENGINE CO NTROL SYSTEM > TURBOCHARGER 
+WASTEGATE CONTROL SOLENOID VALVE DATA INITIALIZATION  
+  
+ 
+211. Perform Required Procedure After Battery Disconnection . 
+ 
+ Refer to the ESM: GENERAL INFORMATION > GENERAL INFORMATION > 
+BASIC INSPECTION > ADDITIONAL SER VICE WHEN REMOVING BATTERY 
+NEGATIVE TERMINAL  
+ 
+  
+61/67 ITB22-038D ECM REPROGRAMMING 
+ 212. Using CONSULT-III plus, confirm the curr ent ECM part number  and write it on the 
+repair order. 
+ 
+ If it matches one of the part numbers in Table A , continue to step 213 on page 64. 
+ 
+ If it does not match one of the part numbers in Table A , this bulletin does not 
+apply.  Go back to ASIST for further diagnost
+ic and repair information. 
+ 
+Table A 
+ 
+MODEL CURRENT ECM PART NUMBER: 23710- 
+2016 Q50 5CD5A, 5CD5B, 5CD5C, 5CD5D, 5CD5E, 5CD6A, 5CD6B 
+5CD6C, 5CD6D, 5CD6E, 5CF1 B, 5CF1C, 5CF1D, 5CF1E 
+5CF2A, 5CF2B, 5CF2C, 5CF2 D, 5CF2E, 5CF3A, 5CF3B 
+5CF3C, 5CF3D, 5CF3E, 5CF4A, 5CF4B, 5CF4C, 5CF4D 
+5CF4E, 5CF5A, 5CF5B, 5CF5 C, 5CF5D, 5CF5E, 5CF6A 
+5CF6B, 5CF6C, 5CF6D, 5CF6 E, 5CF7A, 5CF7B, 5CF7C 
+5CF7D, 5CF7E, 5CF8A, 5CF8 B, 5CF8C, 5CF8D, 5CF8E 
+5CF9A, 5CF9B, 5CF9C, 5CF9 D, 5CF9E, 5CH3A, 5CH3B 
+5CH3C, 5CH3D, 5CH3E, 5CH4A, 5CH4B, 5CH4C, 5CH4D 
+5CH4E, 5CH7A, 5CH7B, 5CH7 C, 5CH7D, 5CH7E, 5CH8A 
+5CH8B, 5CH8C, 5CH8D, 5CH8E, 5CH9A, 5CH9B, 5CH9C 
+5CH9D, 5CH9E, 5CJ2A, 5CJ2 B, 5CJ2C, 5CJ2D, 5CJ2E 
+5CJ3A, 5CJ3B, 5CJ3C, 5CJ3D, 5CJ3E, 5CJ4A, 5CJ4B 
+5CJ4C, 5CJ4D, 5CJ4E, 5CJ5 A, 5CJ5B, 5CJ5C, 5CJ5D 
+5CJ5E, 5CJ6A, 5CJ6B, 5CJ6C, 5CJ6D, 5CJ6E, 5CJ7A 
+5CJ7B, 5CJ7C, 5CJ7D, 5CJ7 E, 5CJ8A, 5CJ8B, 5CJ8C 
+5CJ8D, 5CJ8E, 5CJ9A, 5CJ9B, 5CJ9C, 5CJ9D, 5CJ9E 
+5CW0A, 5CW0B, 5CW0C, 5CW0 D, 5CW0E, 5CW1A, 5CW1B 
+5CW1C, 5CW1D, 5CW1E, 5CW2 A, 5CW2B, 5CW2C, 5CW2D 
+5CW2E, 5CW3A, 5CW3B, 5CW3 C, 5CW3D, 5CW3E, 5CW4A 
+5CW4B, 5CW4C, 5CW4D, 5CF1A 
+2017 Q50 5CW4E, 5CW5A, 5CW5B, 5CW5 C, 5CW5D, 5CW5E, 5CW6A 
+5CW6B, 5CW6C, 5CW6D, 5CW6 E, 5CW7A, 5CW7B, 5CW7C 
+5CW7D, 5CW7E, 5CW8A, 5CW8 B, 5CW8C, 5CW8D, 5CW8E 
+5CW9A, 5CW9B, 5CW9C, 6HA0 A, 6HA0B, 6HA0C, 6HA0D 
+6HA0E, 6HA1A, 6HA1B, 6HA1C, 6HA1D, 6HA1E, 6HA2A 
+6HA2B, 6HA2C, 6HA2D, 6HA2E, 6HA3A, 6HA3B, 6HA3C 6HA3D, 6HA3E, 6HA4A, 6HA4B, 6HA4C, 6HA4D, 6HA4E 
+6HA5A, 6HA5B, 6HA5C, 6HA5D, 6HA5E, 6HA6A, 6HA6B 
+6HA6C, 6HA6D, 6HA6E, 6HA7A, 6HA7B, 6HA7C, 6HA7D 
+6HA7E, 6HF0A, 6HF0B, 6HF0 C, 6HF0D, 6HF0E, 6HF1A 
+6HF1B, 6HF1C, 6HF1D, 6HF1 E, 6HF2A, 6HF2B, 6HF2C 
+6HF2D, 6HF2E, 6HF3A, 6HF3 B, 6HF3C, 6HF3D, 6HF3E 
+6HF4A, 6HF4B, 6HF4C, 6HF4 D, 6HF4E, 6HF5A, 6HF5B 
+6HF5C, 6HF5D, 6HF5E, 6HF6A, 6HF6B, 6HF6C, 6HF6D 
+6HF6E, 6HF7A, 6HF7B, 6HF7C, 6HF7D, 6HF7E, 6HG2A 
+6HG2B, 6HG2C, 6HG2D, 6HG2E, 6HG3A, 6HG3B, 6HG3C 
+6HG3D, 6HG3E, 6HG4A, 6HG4 B, 6HG4C, 6HG4D, 6HG6C 
+6HG6D, 6HG6E, 6HG7A, 6HG7 B, 6HG7C, 6HG7D, 6HG7E 
+6HG8A
+ 
+62/67 ITB22-038D  
+        Continued on the next page.  MODEL CURRENT ECM PART NUMBER: 23710-  
+2017 Q50 
+(continued ) 6HG8B, 6HG8C,6HG8D, 6HG8 E, 6HG9A, 6HG9B, 6HG9C 
+6HG9D, 6HG9E 
+2018 Q50 6HB0A, 6HB0B, 6HB0C, 6HB0D, 6HB1A, 6HB1B, 6HB1C 6HB1D, 6HB2A, 6HB2B, 6HB2C, 6HB2D, 6HB3A, 6HB3B 
+6HB3C, 6HB3D, 6HB4A, 6HB4B, 6HB4C, 6HB4D, 6HB5A 6HB5B, 6HB5C, 6HB5D, 6HB6A, 6HB6B, 6HB6C, 6HB6D 
+6HB7A, 6HB7B, 6HB7C, 6HB7D, 6HD4A, 6HD4B, 6HD4C 
+6HD4D, 6HD5A, 6HD5B, 6HD5 C, 6HD5D, 6HD6A, 6HD6B 
+6HD6C, 6HD6D, 6HD7A, 6HD7 B, 6HD7C, 6HD7D, 6HD8A 
+6HD8B, 6HD8C, 6HD8D, 6HD9A, 6HD9B, 6HD9C, 6HD9D 
+6HJ0A, 6HJ0B, 6HJ0C, 6HJ0 D, 6HJ1A, 6HJ1B, 6HJ1C 
+6HJ1D, 6HJ2A, 6HJ2B, 6HJ2C, 6HJ2D, 6HJ3A, 6HJ3B 
+6HJ3C, 6HJ3D, 6HJ4A, 6HJ4 B, 6HJ4C, 6HJ4D, 6HJ5A 
+6HJ5B, 6HJ5C, 6HJ5D, 6HJ6 A, 6HJ6B, 6HJ6C, 6HJ6D 
+6HJ7A, 6HJ7B, 6HJ7C, 6HJ7 D, 6HJ8A, 6HJ8B, 6HJ8C 
+6HJ8D, 6HJ9A, 6HJ9B, 6HJ9C, 6HJ9D 
+2019 Q50 4GJ0A, 4GJ0B, 4GJ1A, 4GJ1 B, 4GJ2A, 4GJ2B, 4GJ4A 
+4GJ4B, 4GJ5A, 4GJ5B, 4GJ6 A, 4GJ6B, 4GJ7A, 4GJ7B 
+4GJ8A, 4GJ8B, 4GJ9A, 4GJ9 B, 4GK0A, 4GK0B, 4GK1B 
+4GK2A, 4GK2B, 4GK3A, 4GK3 B, 4GK4A, 4GK4B, 4GK5A 
+4GK5B, 4GK6A, 4GK6B, 4GK7 A, 4GK7B, 4GK8A, 4GK8B 
+4GK9A, 4GK9B, 4GK1 A 
+2020 Q50 4GN1C, 4GN2C, 4GN3C, 4GN4C, 4GN5C, 4GN6C, 4GN7C 
+4GN8C, 4GN9C, 4GR5C, 4GR6C, 6HM2C, 6HM4C, 6HM5C 
+6HM6C, 6HM7C, 6HM8C, 6HM3C 
+2021 Q50 4HF3B, 4HF3C, 4HF4B, 4HF4C, 6HN2C, 6HN2D, 6HN3C 
+6HN3D, 6HN4B, 6HN4C, 6HN5 B, 6HN5C, 6HN6B, 6HN6C 
+6HN7C, 6HN8B, 6HN8C, 6HN9B, 6HN9C, 6HN7B 
+2022 Q50 4GT1C, 4GT2B, 4GT2C, 4GT3 B, 4GT3C, 4GT4B, 4GT4 
+4GT5B, 4GT5C, 4GT6B, 4GT6 C, 4GT7B, 4GT7C, 4GT8B 
+4GT8C, 4GT9B, 4GT9C, 4GT1B 
+2023 Q50 4GY2A, 4GY3A, 4GY4A, 4GY5 A, 4GY6A, 4GY7A, 4GY8A 
+4GY9A, 4GY1A 
+63/67 ITB22-038D Table A (continued) 
+ 
+MODEL CURRENT ECM PART NUMBER: 23710- 
+2017 Q60  5CB0B, 5CB0C, 5CB0D, 5CB1B, 5CB1C, 5CB1D, 5CB2B 
+5CB2C, 5CB2D, 5CB3B, 5CB3C, 5CB3D, 5CC0A, 5CC0C 
+5CC0D, 5CC0E, 5CC1A, 5CC1 B, 5CC1C, 5CC1D, 5CC1E 
+5CC2C, 5CC2E, 5CC8A, 5CC8 B, 5CC8C, 5CC8D, 5CC8E 
+5CC9A, 5CC9B, 5CC9C, 5CC9D, 5CC9E, 5CG0A, 5CG0C 
+5CG0D, 5CG0E, 5CG1A, 5CG1 B, 5CG1C, 5CG1D, 5CG1E 
+5CG5A, 5CG5B, 5CG5C, 5CG5 D, 5CG5E, 5CG6A, 5CG6B 
+5CG6C, 5CG6D, 5CG6E, 5CG7 A, 5CG7B, 5CG7C, 5CG7D 
+5CG7E, 5CG8A, 5CG8B, 5CG8 C, 5CG8D, 5CG8E, 5CH1A 
+5CH1B, 5CH1C, 5CH1D, 5CH1E, 5CH2A, 5CH2C, 5CH2D 
+5CH2E, 5CH5A, 5CH5C, 5CH5D, 5CH5E, 5CH6A, 5CH6C 
+5CH6D, 5CH6E, 5CJ0A, 5CJ0B, 5CJ0C, 5CJ0D, 5CJ0E, 5CJ1A 
+5CJ1B, 5CJ1C, 5CJ1D, 5CJ1E, 5CK1A, 5CK1B, 5CK1C, 5CK1D 
+5CK1E, 5CK2A, 5CK2B, 5CK2C, 5CK2D, 5CK2E, 5CK3B 
+5CK3C, 5CK3D, 5CK3E, 5CK4A, 5CK4B, 5CK4C, 5CK4D 
+5CK4E, 5CL5A, 5CL5B, 5CL5C, 5CL5D, 5CL5E, 5CL6A, 5CL6B 
+5CL6C, 5CL6D, 5CL6E, 5CL7A, 5CL7B, 5CL7C, 5CL7D, 5CL7E 
+5CL8A, 5CL8B, 5CL8C, 5CL8D, 5CL8E, 5CV6A, 5CV6B, 5CV6C 
+5CV6D, 5CV6E, 5CV7A, 5CV7B, 5CV7C, 5CV7D, 5CV7E 
+5CV8A, 5CV8B, 5CV8C, 5CV8D, 5CV8E, 5CV9A, 5CV9B 
+5CV9C, 5CV9D, 5CW9D, 5CW9 E, 5CZ0A, 5CZ0B, 5CZ0C 
+5CZ0D, 5CZ0E, 5CZ1A, 5CZ1B, 5CZ1C, 5CZ1D, 5CZ1E, 5CZ2A 
+5CZ2B, 5CZ2C, 5CZ2D, 5CZ2E, 5CZ3A, 5CZ3B, 5CZ3C, 5CK3A 
+2018 Q60  4GC6C, 4GC6D, 4GC7A, 4GC7 B, 4GC7C, 4GC8A, 4GC8B 
+4GC8C, 4GC9A, 4GC9B, 4GC9 C, 4GD2A, 4GD2B, 4GD2C 
+4GD3A, 4GD3B, 4GD3C, 4GD4 A, 4GD4B, 4GD4C, 4GD5A 
+4GD5B, 4GD5C, 4GD6A, 4GD6 B, 4GD6C, 4GD7A, 4GD7B 
+4GD7C, 4GD8A, 4GD8B, 4GD8 C, 4GD9A, 4GD9B, 4GD9C 
+4GE6A, 4GE6B, 4GE6C, 4GE7 A, 4GE7B, 4GE7C, 4GE8A 
+4GE8B, 4GE8C, 4GE9A, 4GE9 B, 4GE9C, 4GF3A, 4GF3B 
+4GF3C, 4GF6A, 4GF6B, 4GF6 C, 4GG0A, 4GG0B, 4GG0C 
+4GG1A, 4GG1B, 4GG1C, 4GG2A, 4GG2B, 4GG2C, 4GG3A 
+4GG3B, 4GG3C, 4HL6A, 4HL6B,  4HL6C, 4HL7A, 4HL7B, 4HL7C 
+4GC6A 
+2019 Q60  5CR0A, 5CR0B, 5CR1A, 5CR1B, 5CR2A, 5CR2B, 5CR3A 
+5CR3B, 5CR4A, 5CR4B, 5CR5A, 5CR5B, 5CR6A, 5CR6B 
+5CR7A, 5CR7B, 5CR8A, 5CR8B, 5CR9A, 5CR9B, 5CS0A 
+5CS0B, 5CS1A, 5CS2A, 5CS2B, 5CS3B, 5CS4A, 5CS4B 
+5CS5A, 5CS5B, 5CS6A, 5CS6B, 5CS7A, 5CS7B, 5CT0A, 5CT0B 
+5CT1A, 5CT1B, 5CS3 A 
+2020 Q60  5CT2C, 5CT3D, 5CT4C, 5CT5 C, 5CX0C, 5CX6C, 5CX9C 
+5CY0C, 5CY1C, 5CY2C, 5CY4 C, 5CY5C, 5CY6C, 5CY7C 
+5CY3C 
+2021 Q60  5DV1C, 5DV2B, 5DV3B, 5DV4B, 5DV5B, 5DV6B, 5DV7B, 5DV0C 
+2022 Q60 5CU0C, 5CU1B, 5CU1C, 5CU2 B, 5CU2C, 5CU3B, 5CU3C 
+5CU4B, 5CU4C, 5CU5B, 5CU5C, 5CU6B, 5CU6C, 5CU7B 
+5CU7C, 5CU0B 
+  
+64/67 ITB22-038D  
+ 
+ 
+ 
+ 
+If you are not familiar with the reprogramming procedure, refer to the Electronic Service 
+Manual (ESM) and the CONSULT Operation Manual to reprogr am the Electronic Control 
+Unit (ECU). Follow all precautions in both m anuals to prevent possible personal injury or 
+death and/or damage to the ECU. 
+  213. Reprogram the ECM. 
+ 
+HINT: If prompted, perform "ADDITIONAL  SERVICE" under the Engine Control 
+System. 
+   214. After completing Erase All DTCs , print a copy of t he CONSULT screen showing 
+the before and after part numbers of the control unit and attach  it to the repair order. 
+   
+
+65/67 ITB22-038D  
+PARTS INFORMATION 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+TURBOCHARGER (LH) (1) 1 
+TURBOCHARGER (RH) (1) 1 
+GASKET - EYEBOLT 15189-5CA0A 6 
+EXHAUST NUT 14094-JG30A 8 
+HEAT SHIELD BOLT 14069-JD00A 14 
+TURBOCHARGER INLET GASKET 14415-5CA0A 2 
+TURBOCHARGER OIL INLET GASKET 15196-MB40B 1 
+TURBOCHARGER OIL OUTLET GASKET 15196-5CB0A 2 
+GASKET - EYEBOLT 15189-5CA0B 2 
+GASKET - EYEBOLT 11026-AD200 1 
+PROP BOLT (AWD) 37120-AL60A 4 
+If Needed 
+PROP SHAFT NUTS (AWD) 37171-AL60A 4 
+If Needed 
+PROP BOLT (2WD) 37120-AH00A 3 
+If Needed 
+PROP WASHER (2WD) 37121-JK20B 3 
+If Needed 
+PROP SHAFT NUTS (2WD) 37171-AL60A 3 
+If Needed 
+CENTER BEARING MOUNTING BRACKET 
+NUTS (2WD ) 01225-00062  2 
+If Needed 
+FRONT SUSPENSION NUT 54588-JK03A 4 
+NUT 55269-AG00E 4 
+CLAMP 14464-5CA1A 4 
+EXHAUST GASKET 20692-8H30A 1 
+EXHAUST CLAMP 14464-5CB0A 2 
+CONVERTER GASKET 14445-5CB0A 2 
+COOLANT (2) 999MPL25500P As Needed 
+AIR FUEL RATIO SENSOR 22693-5CA0A 2 
+CLAMP 01558-00451 2 
+ 
+(1) Refer to the EPC and use vehicle VI N to look up grade specific part. 
+(2) Order this item through the Infiniti Maintenance Advantage program: Phone 877-INF-
+IMA1 (877-463-4621). Website order via link on the dealer portal; www.NNAnet.com  
+and click on the “Maintenance Advant age-Tire/Battery/Chemical” link. 
+  Continued on the ne
+xt page.  
+  
+66/67 ITB22-038D  
+ PARTS INFORMATIO N (continued) 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+SEAL - O RING 92472-N823A 2 
+SEAL - O RING 92474-N823A 1 
+SEAL - O RING 92473-N823A 1 
+SEAL - O RING 92471-N823A 1 
+NUT 20602-41G0A 5 
+GASKET EXHAUST 20691-19U0A 1 
+GASKET CONVERTOR 20813-5CA0A 1 
+ 
+(1) Refer to the EPC and use vehicle VI N to look up grade specific part. 
+(2) Order this item through the Infiniti Maintenance Advantage program: Phone 877-INF-
+IMA1 (877-463-4621). Website order via link on the dealer portal; www.NNAnet.com  
+and click on the “Maintenance Advant age-Tire/Battery/Chemical” link. 
+   
+67/67 ITB22-038D  
+  CLAIMS INFORMATION 
+ 
+Submit a Primary Part (PP) type line claim using the follo wing claims coding: 
+ 
+DESCRIPTION PFP OP CODE SYM DIA FRT 
+Replace RH Turbocharger- RWD 
+(1) DX62AA 
+ZE 32 7.8 
+With AWD 7.4 
+Replace LH Turbocharger- RWD 
+DX63AA 7.8 
+With AWD 7.4 
+Replace Both Turbochargers- RWD 
+DX64AA 8.8 
+With AWD 8.4 
+Perform ECM Reprogram DE97AA (2) 
+ 
+(1) Reference the electronic parts catal og and use the Turbocharger Assy (14411-*****) 
+as the Primary Failed Part ( PFP). 
+(2) Reference the current Infiniti Flat Rate  Manual and use the indicated Flat Rate Time 
+(FRT). 
+   AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+November 14, 2022  ITB22-038 Original bulletin published 
+December 9, 2022 ITB22-038A PARTS INFORMATION  revised 
+August 4, 2023 ITB22-038B APPLIED VEHICLES , page 46,  and PARTS 
+INFORMATION revised  
+November 6, 2023 ITB22-038C Pages 1 and 60 revised 
+February 4, 2025 ITB22-038D APPLIED VEHICLES  and CLAIMS 
+INFORMATION updated. Bulletin changed from SERVICE INFORMATION  to IF YOU 
+CONFIRM/ACTION . ECM repro
+grammin g added. 
+         
+ 

@@ -1,0 +1,46 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)UQF and UQ3
+ConditionCustomers ma y comment that the front door speak ers are
+inoperative
+Cause The speak er ma y have a failed cone
+Bulletin No.: PIC6563B
+Published date: 02/14/2025
+Preliminary Information
+PIC6563B Front Door Speakers Inoperative
+Proactive
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Envista 2024 - 2025 SOP KL47LBEP0SB163840 All All
+Chevr oletTrax 2024 - 2025 SOP KL77LHEP4SC203742 All All
+ 
+ 
+ 
+ 
+Correction:
+Remove the door panel and press on the speak er cone
+If no sound is present until the cone of the speak er is pressed, please replace both front
+speak ers
+If pressing on the cone does not regain audio please continue with normal speak er/circuit
+diagnostics
+See SI or Attached for video 6836813
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate Vehicle History (IVH) for coverage information.
+Labor Operation Description Labor Time
+* 3486168 Remove Door P anel and test speak er 0.3 Hr .
+  Replace both front speak ers Use published labor time
+*This is a unique Labor Operation for Bulletin use only .
+ 
+Version 3
+Modiﬁed07/29/2024 - Created on.  
+10/03/2024 - Updated to add 2025 model year . 
+02/14/2025- Updated to add repair directionVersion History
+ 
+ 
+Attachments
+speak er.mp4
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

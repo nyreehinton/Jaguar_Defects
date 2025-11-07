@@ -1,0 +1,182 @@
+Technical Service Bulletin (TSB)
+Radio USB update to U33.43
+REFERENCE: TSB:  08-033-25
+GROUP:  08 - ElectricalDate: February 13, 2025 REVISION: –
+VEHICLES
+AFFECTED:2024 (JL) Jeep Wrangler
+2024 (JT) Jeep Gladiator
+This bulletin applies to vehicles built on and before September 25,
+2024 (MDH 0924XX) equipped with one of the following radios:
+●Uconnect 5 Nav W 12.3" Display (USA) (Sales Code UBX).
+●Uconnect 5 Nav W 12.3" Display (MEX) (Sales Code UFX).
+●Uconnect 5 W/ 12.3" Display (USA) (Sales Code UBP).
+●Uconnect 5 W/ 12.3" Display (MEX) (Sales Code UFP).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience one or more of the following:
+●Unable to select the Turn by Turn Navigation.
+●Blank Performance Pages (Rearview Camera (RVC) Functions Normally) .
+●Android Auto® Voice Recognition (VR) inoperative.
+●Media tuner delayed.
+●Charge Schedule not accepting updates via phone (RVC Functions Normally) .
+●Ambient light inoperative.
+●Map in Instrument Panel Cluster (IPC) inoperative.
+●Media Widget blank.
+●Navigation map black.
+●Off-Road Pages inoperative (RVC Functions Normally) .
+●VR inoperative.
+●Incorrect song title displayed (Carplay® only) .
+●Radio display switches from Media Page to Home Page (RVC Functions Normally) .
+●Ghost touch on Navigation screen (RVC Functions Normally) .
+●Widgets missing.
+●New User Profile does not load.
+●Returns to wrong page after View Camera Event selected by customer in the Camera View Pages (RVC
+Functions Normally) .
+Other Software Improvements:
+●Assist application performance improvements
+CAUSE: Software improvements
+REPAIR SUMMARY:
+This bulletin involves inspecting and if required, updating the radio software level to U33.43. Depending on the
+radio’s current software level the radio may need a one or two USB update.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+18-60-F2-BN Radio, Software - Create
+USB Jump Drive from
+Uconnect Website for
+U29.44 s/w (One Time
+Only)
+(0 - Introduction)6 - Electrical and Body
+Systems1.0 Hrs.
+18-60-F2-BP Radio, Software - Create
+USB Jump Drive from
+Uconnect Website for
+U33.43 s/w (One Time
+Only)
+(0 - Introduction)6 - Electrical and Body
+Systems0.3 Hrs.
+18-60-F2-BQ Radio, Check Software
+Level and Perform
+Software Update (ONE
+STEP)  U33.43 s/w
+(0 - Introduction)6 - Electrical and Body
+Systems0.5 Hrs.
+18-60-F2-BR Radio, Check Software
+Level and Perform
+Software Update (TWO
+STEP)  U29.44 and
+U33.43 s/w
+(0 - Introduction)6 - Electrical and Body
+Systems1.4 Hrs.
+Failure Code CC Customer Concern
+The dealer must use failure code CC with this Technical Service Bulletin.
+● If the customer’s concern matches the SYMPTOM identified in the Technical Service Bulletin, failure code
+CC is to be used.
+● When utilizing this failure code, the 3C’s (customer’s concern, cause and correction) must be provided for
+processing Technical Service Bulletin flash/reprogramming conditions.
+DIAGNOSIS:
+Using a Scan Tool (wiTECH) with the appropriate Diagnostic Procedures available in DealerCONNECT/
+Service Library, verify all related systems are functioning as designed. If Diagnostic Trouble Codes (DTCs) or
+symptom conditions, other than the ones listed above are present, record the issues on the repair order and
+repair as necessary before proceeding further with this bulletin.
+If the customer describes any of the symptoms listed above in the customer symptom section, perform the
+Repair Procedure.B08 FSAR-TSB-4614 -2-
+SPECIAL TOOLS/EQUIPMENT:
+Description Ref. No. Notes
+wiTECH or Equivalent – –
+REPAIR PROCEDURE:
+NOTE: ● A 20GB USB flash drive formatted as NTFS is required for U29.44.
+● A 4GB USB flash drive formatted as FAT32 is required for U33.43.
+It is also recommended to use a quality, name brand (Kingston®) flash drive over a generic
+USB flash drive.
+1. Check radio software version. Go to “Vehicle Settings” then select "System Information” and look for
+“Radio Version”.
+2. What is the radio software level (Application Version) at?
+● U33.43 or higher >>> The radio software is already up to date. Normal diagnostics should be
+performed.
+● At or above U29.44  and under U33.43  >>> The radio will only need one USB flash drive to update the
+radio. Create a USB flash drive with U33.43 software. Proceed to Step 3 .
+● At or Below 29.42 >>> The radio will need two USB flash drives to update the radio. Create two USB
+flash drives with U29.44 and U33.43 software. Proceed to Step 3 .
+3. Have one or two USB flash drives been created?
+● YES>>> Proceed to Step 12 .
+● NO>>> Proceed to Step 4 .
+NOTE: If the software cannot be downloaded, make sure you have proper security access. If not,
+have the Service Manager or Shop Foreman download the software update.
+4. Go to DealerCONNECT>Service>Uconnect Command Center>Uconnect>More Information >Dealer
+software downloads to download the files.
+NOTE: If a 2-step update is required, please always download and flash the U29.44 software first.
+After U29.44 is installed successfully, flash U33.43 software
+5. Use a blank USB flash drive with at least 4GB of space and formatted to FAT32  for the U33.43  update.
+Use a blank USB flash drive with at least 20GB  of space and formatted to NTFS  for the U29.44  update.
+Follow the on-screen instructions to download the software files.
+NOTE: When downloading the software file from the Uconnect site, always select the MAC version,
+regardless of the computer being used.-3- B08 FSAR-TSB-4614
+6. Download the software update file to your local PC's desktop. Make sure to select the “MAC” radial button
+for all downloads Fig. 1 .
+Fig. 1
+MAC Download Steps
+7. Perform the following steps to format the USB flash drive.
+a. Select “FAT32 or "NTFS"” format.
+b. Select “Default allocation size” under Allocation Unit Size.
+c. Select “Quick Format” under Format Options.
+d. Click “Start”.
+8. Be sure to download the file to your designated folder before transferring the zip file to the blank USB flash
+drive.
+NOTE: A blank USB flash drive will be needed for each radio update, additional updates cannot be
+on the same USB flash drive.
+9. Download the radio SW from the desktop to a blank USB flash drive. Use a blank USB flash drive with
+at least 4GB or 20GB  of space and formatted to FAT32  or NTFS . Follow the on-screen instructions to
+download the software files.
+10. Do not unzip the folder/file and move all contents to the root directory of the USB.
+11. There should only be one file on the USB root directory labeled as a zip folder.
+NOTE: Once the USB flash drive have been created, it is recommended to label the USB flash drive
+with the bulletin number and proper radio Sales Codes.
+12. Start the vehicle and insert the correct USB flash drive with new software into the USB port.
+NOTE: Engine should be running the entire time the radio is flashed.
+NOTE: The software update screen may take up to a minute before it is displayed. If the update
+screen isn’t displayed, cycle the ignition to “Off” then “Run” .B08 FSAR-TSB-4614 -4-
+13. Press Update Now Fig. 2 .
+Fig. 2
+Software Update Screen
+14. Press Continue Fig. 3 .
+Fig. 3
+Timer Screen
+15. Wait for software update to complete 100% Fig. 4 .
+Fig. 4
+Progress Screen-5- B08 FSAR-TSB-4614
+Installing System Update
+NOTE: System update process takes approximately five minutes. Wait until radio restarts and Home
+screen is displayed Fig. 5 , Fig. 6 .
+Fig. 5
+Software Update Installing
+Fig. 6
+Software Update Complete
+NOTE: Flash time will take ~30 minutes to one hour.
+NOTE: Vehicle should be running the entire time.
+NOTE: Sometimes the radio throws an error pop up "Switch-Invalid_Binary" after successful radio
+update. Please ignore this error and click ok Fig. 7 .
+Fig. 7
+Switch-Invalid_Binary Error
+1. What was the radio software level after this update?
+●U33.43 >>> The radio download has been completed. Proceed to Step 2  of the Installing System Update
+section.
+●U29.44 >>> The next phase of the radio update needs to be performed. Proceed to Step 12  of the
+Repair Procedure.B08 FSAR-TSB-4614 -6-
+NOTE: A message stating: "Update Failed, an error occured during the update procedure" may
+appear. If this occurs, verify that the software level has been updated.
+2. Go to Vehicle Setting -> Reset -> Perform Factory Reset. Once Factory Reset is completed, allow sleep
+cycle for approximately five minutes.
+3. Using wiTECH, clear all DTCs that may have been set in any module due to reprogramming.
+4. After Factory Reset is completed, allow a sleep cycle for five minutes.
+5. Follow the Radio flashing procedure as outlined in the attached document "System_Software Flash
+Process R1 Radio.docx".
+NOTE: Suggest to customer to repeat the wireless device pairing again after deleting the existing
+pairing from the phone.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.-7- B08 FSAR-TSB-4614

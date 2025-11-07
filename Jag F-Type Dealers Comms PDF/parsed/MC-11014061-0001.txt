@@ -1,0 +1,41 @@
+Bulletin No.: PIC4793C
+Published date: 02/7/2025
+Preliminary Information
+PIC4793C Power Convertible Roof Seems Lazy or Needs Assistance
+to Operate
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletCorvette 2005 - 2013 All AllAll All
+Supersession Statement
+This PI was superseded to update model years. Please discar d all copies of PIC4793B.
+The following diagnosis might be helpful if the vehicle e xhibits the symptom(s) described
+in this PI.
+Condition / Concern
+Some customers ma y comment that their power folding top appears to be lazy , or sticks at
+times while it is in motion.  If manual assistance is given to the roof , it will open normally . 
+This ma y be the result of an internal hydraulic cylinder leak.  The most common cylinder
+with this concern is referred to as the main pivot cylinder(s).  These cylinders are located
+near the "B" pillar of the vehicle.  
+Note: This concern can only occur on vehicles with a power folding roof with RPO CM7.
+Recommendations / Instructions
+To test for this issue, operate the power folding roof until it sticks or becomes lazy .  Once
+in this position, release the power folding top switch.  W ait approximately  7 minutes, and
+then manually attempt to move the roof bows as if you were opening and closing the roof
+without power .  The number one and number ﬁve bows should come up and to the center
+position after having waited for the system to time out.  The roof should NOT fold into the
+open tonneau, however .  If a main pivot cylinder is leaking, the roof will move into the
+tonneau area manually , but it will have some resistance due to the hydraulic ﬂuid that is
+being forced back within the system.  If the roof moves manually , locate the internal
+leaking cylinder (left or right main pivot cylinder) and replace as necessary .  This can also
+be tested as follows: Remove a cylinder from its mechanical attachment points, but leave
+the hydraulic lines attached. Grab onto the rod, and attempt to move the cylinder .  If the
+piston can be pushed in and/or pulled out, it is lik ely leaking internally .  The piston of a
+known good cylinder will not move under this type of test.  
+Note: A good main pivot cylinder will NOT relieve pressure at any time, even after the rest
+of the system "times out".  The only wa y to relieve pressure in a main pivot cylinder is to
+manually open the relief valve on the pump/motor assembly .
+Please follow this diagnostic or r epair pr ocess thor oughly and complete each step. If the
+condition e xhibited is r esolved without completing every step, the r emaining steps do not
+need to be perfor med.
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

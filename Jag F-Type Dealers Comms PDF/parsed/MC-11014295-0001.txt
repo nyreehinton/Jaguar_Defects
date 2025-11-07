@@ -1,0 +1,40 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: 25-NA-024
+Service BulletinDate: February, 2025
+INFORMATION
+Trailer Lighting Inoperative After Accessory Hitch Installed
+This Bulletin replaces PIT6271A. Please discard PIT6271A.
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Equinox 2025 2025 - - All All
+GMC Terrain 2025 2025 - - All All
+ 
+Involved Region or Country North America
+ConditionSome customers/technicians may comment that after hitch installation, the trailer lighting
+is inoperative.
+CauseThe cause of the condition may be a calibration being required for the lighting control
+module to activate the lighting to the trailering connector.
+CorrectionThe installation instructions have been updated to include the need for the Lighting
+Control Module calibration update.
+The instruction sheets will contain the authorization codes.
+Refer to "Trailer Hitch Platform Package Installation" in the Accessory Installation
+Manual.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+ 
+Parts Information
+No parts are required for this repair.
+ 
+Version 1
+Modified Released February 06, 2025

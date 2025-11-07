@@ -1,0 +1,153 @@
+Circulate To: General Manager, Service Manager, Parts Manager , Warranty Manager, Service 
+Advisors, Technicians , Body Shop Manager , Fleet Repair   
+Technical Service Bulletin  GROUP  NUMBER  
+BODY ELECTRICAL  25-BE-003H  
+DATE  MODEL (S) 
+FEBRUARY  2025 SEE BELOW  
+SUBJECT:  DCU (MODEM) NETWORK AND BLUELINK RESET  
+ 
+Description:  Some vehicles may exhibit a loss of connectivity or interruptions in the middle of using  
+Bluelink  functions. This may be due to an occasional disconnection on Verizon’s  
+communication network. Follow the procedures in this bulletin to reset the Connected Car Data  
+Communication Unit (DCU) in Dealer Mode to resolve the connection.  
+Applicable Vehicles : 
+• 2025MY IONIQ 5 N (NE EV N)  
+• 2024 - 2025MY Kona  (SX2)  
+• 2025MY Kona  Electric  (SX2 EV)   
+• 2025MY Santa Cruz (NXT)  
+• 2024- 2025MY Santa Fe (MX5A ) 
+• 2024- 2025MY Santa Fe Hybrid  (MX5 A HEV) 
+• 2024-2025MY  Sonata (DN8)  
+• 2024- 2025MY Sonata Hybrid  (DN8 HEV)   
+• 2025MY Tucson (NX4/NX4A ) 
+• 2025MY Tucson Hybrid  (NX4  HEV) 
+• 2025MY Tucson PHEV (NX4  PHEV ) 
+ 
+ 
+ 
+ 
+ 
+NOTE:  Modem Network Reset via ccNC & ccNC Lite Head Unit Operation  
+  
+Any affected IONIQ vehicles must have repairs  performed at IONIQ certified dealers to avoid any 
+potential damage.  
+NOTICE            
+DCU (MODEM) NETWORK AND BLUELINK RESET  
+   
+TSB #: 25-BE-003H  Page 2 of 5 
+ SUBJECT:  
+SUBJECT:  Warranty Information:   
+Model  Op. Code  Operation  Op. 
+Time  Causal  Part Nature 
+Code  Cause 
+Code  
+IONIQ 5 N  
+(NE EV N)   
+BLUERES1  Rese tting the 
+DCU Network in 
+Dealer Mode  0.3 
+M/H NTF00 -00000  M73 ZZ3 Kona (SX2)   
+Kona Electric  
+(SX2 EV)   
+Santa Cruz (NXT)  
+Santa Fe (MX5 A) 
+Santa Fe Hybrid  
+(MX5 A HEV ) 
+Sonata (DN8)  
+Sonata Hybrid  
+(DN8 HEV)  
+Tucson (NX4 /NX4A ) 
+Tucson Hybrid   
+(NX4  HEV) 
+Tucson  Plug-in 
+Hybrid  (NX4  PHEV ) 
+NOTE 1: Normal warranty applies.   
+NOTE 2: Submit claim on Claim Entry Screen as “Warranty” type.  
+  
+DCU (MODEM) NETWORK AND BLUELINK RESET  
+   
+TSB #: 25-BE-003H  Page 3 of 5 
+ SUBJECT:  
+SUBJECT:  Service Procedure:   
+ 
+Resetting the DCU Network  
+1.  Turn ON the ignition (A).   
+ 
+ 
+ 
+2. Select Setup  (B). 
+ Select General  (C).   
+ 
+ 
+3. Perform the following steps with the radio FM 
+mode ON:  
+1. Set the volume to 7 .  
+2. Tap on the designated area ( D). 
+3. Set the volume to 3 . 
+4. Tap on the designated area ( D). 
+5. Set the volume to 1 . 
+6. Tap on the designated area ( D).  
+A 
+B 
+C 
+D 
+DCU (MODEM) NETWORK AND BLUELINK RESET  
+   
+TSB #: 25-BE-003H  Page 4 of 5 
+ SUBJECT:  
+SUBJECT:  4. Enter 2400  as the password  then select 
+OK (E) to enter Dealer Mode.   
+ 
+5. Select Connected Car Service  (F).  
+ 
+6. Select Reset Network  (G) and wait  
+30 seconds . 
+ 
+  
+7. Exit Dealer Mode  by selecting the Home   
+icon (H).  
+ 
+8. Select Setup  (I)  
+ 
+After selecting Reset Network you will 
+NOT  see any confirmation . The module 
+will reset in the background and will not 
+show any status on the screen.  
+   Information  
+  i 
+E 
+F 
+H 
+G 
+I 
+DCU (MODEM) NETWORK AND BLUELINK RESET  
+   
+TSB #: 25-BE-003H  Page 5 of 5 
+ SUBJECT:  
+SUBJECT:  9. Select Bluelink  (J).  
+Proceed with Bluelink Activation in the next 
+section.  
+ 
+ 
+Bluelink Activation  
+1. Select Activate  (A) or Reconfigure  (B) to 
+activate Bluelink .  
+ 
+ 
+ 
+ 
+ 
+2. Verify Bluelink activation success:  
+• Select OK (C) if Bluelink is activated.  
+ 
+ 
+3. The service procedure is now complete .  
+ 
+A loading screen will appear while 
+Bluelink activation is in progress.  
+   Information  
+  i 
+J 
+C 
+A 
+B 

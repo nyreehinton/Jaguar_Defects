@@ -1,0 +1,33 @@
+ 
+Case Number: S2508000019  
+Release Date:  February 2025  
+Symptom/Vehicle Issue:  Service Collision Avoidance System  Message Displayed on The 
+Cluster  
+ 
+Customer Complaint  /Technician Observation:  Customer or Technician observes the 
+cluster  message for  the collision avoidance system that is  limited /unavail able, service is required . 
+Long Range Radar Front ( LRRF ) Diagnostic Trouble Code (DTCs)  present (identified below).  
+Technician s may observe  one or more of the following Diagnostic Trouble 
+Codes :  
+LRRF:  
+C00C1 -54 – Front Radar Module "B" - Missing Calibration  
+B235A -00 – ECU In -Plant Mode  
+ 
+Discussion : If either of the DTCs above are present and active , calibrate the LRRF using either the 
+on-road calibration routine  (preferred)  or the static/in bay  calibration routine using  wiTECH . Refer to 
+service library for calibration instructions if necessary. The DTCs should go stored and should be able 
+to be clear after a successful calibration.  
+ 
+Verification:  Ensure the DTCs can be cleared and do not return and confirm  the cluster messages 
+do not return .  
+  
+ 
+ 
+ 
+This document does not authorize warranty repairs. This communication documents a record of past experiences. STAR Online doe s 
+not provide any conclusions about what is wrong with the vehicle. Rather, it captures all previous cases known that appear to be similar 
+or related to the vehicle symptom / condition. You are the expert, and you are responsible for deciding on the appropriate co urse of 
+action.  
+Contact STAR Center, or your Technical Assistance Center Via TechConnect, eCONTACT or Service Library 
+entry if no solution is found.  
+Stellantis US LLC  Version 4.5 07/22/2022  

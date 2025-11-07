@@ -1,0 +1,249 @@
+L-SB-0035 -22 Rev2  August 15, 2022  
+ 
+ECU Security Key Writing  
+Service 
+Category  Power Source/Network   
+ Section    Networking  Market   USA and Mexico  
+  
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 11 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2024 - 2025  GX550, RZ300E, TX350, 
+TX500H, TX550H+   
+2023 - 2025  LS500, LS500H, LX600, 
+NX250, NX350, NX350H, 
+NX450H+, RX350, RX350H, 
+RX450H+, RX500H, 
+RZ450E   
+2025  UX300H   
+ 
+ 
+ 
+  REVISION NOTICE  
+January  23, 2025 Rev2: 
+ Applicability has been updated to include 2024  – 2025 model year GX 550 vehicles  and 
+2025 model year LS 500, LS 500h, LX 600, NX 250, NX 350, NX 350h, NX 450h+, RX 350, RX 350h, 
+RX 450h+, RX 500h, RZ 300e, RZ 450e, TX 350, TX 500h, TX 550h+, and UX 300h  vehicles . 
+April 11, 2024  Rev1: 
+ Applicability has been updated to include 2023  – 2024 model year LS 500, LS  500h, LX 600, 
+NX 250, NX  350, NX  350h, NX 450h+, RX 350, RX  350h, RX 450h+, RX  500h, and RZ 450e  and 
+2024 model year RZ 300e, TX 350, TX  500h, and TX 550h+ vehicles.  
+ The entire bulletin has been updated to represent GTS+ Software . 
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 2 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+Introduction  
+When certain vehicle ECUs are replaced, the ECU Security Key  must be written in order for  that 
+ECU to communicate on the vehicle network. The GTS+  Software Health Check Results screen 
+has been enhanced to help identify if a replacement ECU requires an ECU Security Key . Follow 
+the procedures in this bulletin to write the ECU Security Key  to the  replacement ECU.   
+Figure 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warranty Information  
+For USA and Mexico Markets  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 3 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+Required Tools & Equipment  
+REQUIRED EQUIPMENT  SUPPLIER  PART NUMBER  QTY 
+Techstream ADV i* 
+ADE TSADVUNIT  
+1 Techstream 2.0  TS2UNIT  
+Techstream Lite  TSLITEPDLR01  
+Techstream Lite (Green Cable)  TSLP2DLR01  
+*Essential SST.  
+ 
+ 
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+Battery Diagnostic Tool*  DCA -8000P T  1 
+*Essential SST.  
+ 
+ 
+ 
+ 
+Procedures  
+ Confirm ECU Security Key Writing Requirement  ................................ ................................ ........  4 
+ Health Check  ................................ ................................ ................................ .........................  4 
+ ECU Security Key Button  ................................ ................................ ................................ ...... 5 
+ ECU Security Key Writing Process  ................................ ................................ .............................  6 
+ 
+  NOTE  
+ Only ONE of the Techstream units listed above is required.  
+ Software version 2024.0 4.004.02 or later is required.  
+ Additional Techstream units may be ordered by calling Approved Dealer Equipment (ADE)  
+at 1-800-368-6787  (USA) or 01 -55-50103041 (Mexico)  or by visiting TIS – Diagnostics – 
+Tools & Equipment – Techstream Order Portal . 
+NOTE  
+Additional SSTs may be ordered by calling 1-800-368-6787  (USA) or 01 -800-504-5330 (Mexico) or by 
+visiting Home – Service Resources – Lexus  Special Service Tools (SSTs) . 
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 4 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+Confirm ECU Security Key Writing Requirement  
+After ECU repla cement, it is important to confirm if ECU Security Key  writing is necessary. There 
+are two methods available to confirm if the ECU Security Key  writing function is required within 
+the GTS+  software: performing a Health Check and using the ECU Security Key button.  
+ 
+Health Check  
+Performing a Health Check will confirm if ECU Security Key  writing is needed.  The GTS+  Health  
+Check Results screen has been enhanced to include an ECU Security Key  indicator. The ECU  
+Security Key  indicator will display “Necessary” when an ECU Security Key  needs to be written  
+and “-” when ECU Security Key  writing is  NOT  required . 
+Figure 2. 
+ 
+ 
+ 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 5 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+Confirm ECU Security Key Writing Requirement  (continued)  
+ECU Security Key Button  
+Selecting the ECU Security Key button is another method to confirm if ECU Security Key  writing is 
+required.  From the Main Menu screen, select the ECU Security Key button.  
+Figure 3. 
+ 
+ 
+ 
+Figure 4. 
+ 
+ 
+ 
+ 
+  
+NOTE  
+Selecting this option can allow ECU Security Key  writing even if it is not required. If the ECU Security Key  
+does NOT need to be written , a message will appear stating  “ECU Security Key is already written .” 
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 6 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  
+ 
+1. Connect GTS+  to the vehicle and press the arrow button to go to the next step . 
+ 
+Figure 5. 
+ 
+ 
+ 
+ 
+ 
+  
+NOTE  
+In some instances, automatic vehicle detection may not be available due to specific ECU 
+replacement.  If the vehicle information does NOT automatically populate, manually select the 
+appropriate vehicle  information.  NOTE  
+The process outlined in this section  will use the Health Check Result screen to confirm if ECU Security 
+Key writing is required.  
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 7 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  (continued)  
+2. Perform a Health Check.  
+If the ECU Security Key indicator in the upper lefthand corner of the Health Check screen 
+displays “Necessary,” navigate to the Main Menu and select the ECU Security Key button as 
+shown below.  
+Figure 6. 
+ 
+ 
+Figure 7. 
+ 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 8 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  (continued)  
+3. Select Next to begin ECU Security Key writing.  
+Figure 8. 
+ 
+ 
+ 
+4. GTS+ will read the vehicle information. Select Next to send the information to the server.  
+Figure 9. 
+ 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 9 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  (continued)  
+5. Select OK to login.  
+Figure 10. 
+ 
+ 
+ 
+6. Enter your TIS password and select LOG IN . 
+Figure 11. 
+ 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 10 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  (continued)  
+7. Cycle the ignition to IG -OFF, and then IG -ON. Select Next.  
+Figure 12. 
+ 
+ 
+ 
+8. Select O K. 
+Figure 13. 
+ 
+ 
+  
+
+ L-SB-0035 -22 Rev2  August 15, 2022  Page 11 of 11 
+ECU Security Key Writing  
+ 
+  © 202 5 Lexus, a division of Toyota Motor Sales, USA    
+   
+ECU Security Key Writing Process  (continued)  
+9. Confirm the ECU Security Key  has been properly written by performing a Health Check and  
+confirm ing the ECU Security Key  indicator shows “-”, and then clear ALL DTCs . 
+Figure 14. 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE  
+The ECU Security Key  indicator will show “Necessary” if the Security Key  was NOT written properly.  
+If NOT written properly, return to step 2.  

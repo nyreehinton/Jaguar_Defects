@@ -1,0 +1,200 @@
+1DESCRIPTION
+The Bendix® TW-7 Valve Differential Lock Field Maintenance 
+Kit, Bendix® part number K288580, is available to service two 
+variants of the TW-7 valve, Bendix part numbers 285508 and 
+284388. See Figure 1. Bendix® TW-7 Valve Differential Lock Field Maintenance Kit
+KIT CONTENTS
+Refer to Table 1 for the contents of the TW-7 maintenance kit.
+Quantity Description Item No.
+1 Rubber Boot 2
+1 O-ring 4
+1 O-ring 10
+1 Inlet and Exhaust Valve 12
+1 Tube of Lubricant Not Shown
+Table 1 – Kit Contents
+TW-7 Valve Part Number 285508
+Figure 1 – TW-7 Maintenance Kit
+1
+2*
+1619
+18
+17
+15141310*98764*3
+5
+11
+12*
+No. Item No. Item No. Item No. Item
+1 Plunger 6 Washers 11 Valve Body 16 Spring
+2* Rubber Boot 7 Lock Washer 12* Inlet and Exhaust Valve 17 Exhaust Breather
+3 Cap Nut 8 Piston 13 Retainer 18 Spring
+4* O-ring 9 Piston Spring 14 O-ring 19 Retaining Ring
+5 Mounting Nut 10* Piston O-ring 15 Cap Nut
+TW-7 Valve Part Number 284388
+1
+2*
+1617
+15141310*98764*3
+5
+11
+12*
+*: Included in Kit K288580TW-7 Valve Part Number 285508
+2GENERAL SAFETY GUIDELINES
+WARNING! PLEASE READ AND
+FOLLOW THESE INSTRUCTIONS
+TO AVOID PERSONAL INJURY OR DEATH:
+When working on or around a vehicle, the following 
+guidelines should be observed AT ALL TIMES :
+ ▲Park the vehicle on a level surface, apply the parking 
+brakes and always block the wheels.  Always wear personal 
+protection equipment.  
+ ▲Stop the engine and remove the ignition key when working 
+under or around the vehicle.  When working in the engine 
+compartment, the engine should be shut off   and the ignition 
+key should be removed. Where circumstances require that 
+the engine be in operation, EXTREME CAUTION  should be 
+used to prevent personal injury resulting from contact with 
+moving, rotating, leaking, heated or electrically-charged 
+components.  
+ ▲Do not attempt to install, remove, disassemble or 
+assemble a component until you have read, and thoroughly 
+understand, the recommended procedures.  Use only the 
+proper tools and observe all precautions pertaining to use 
+of those tools.
+ ▲If the work is being performed on the vehicle’s air brake 
+system, or any auxiliary pressurized air systems, make 
+certain to drain the air pressure from all reservoirs before 
+beginning ANY  work on the v ehicle.  If the v ehicle is  
+equipped with a Bendix® AD-IS® air dryer system, a Bendix® 
+DRM™ dryer reservoir module, a Bendix® AD-9si®, AD-HF®, 
+or AD-HFi® air dryer, be sure to drain the purge reservoir.
+ ▲ Following the vehicle manufacturer’s recommended 
+procedures, deactivate the electrical system in a manner 
+that safely removes all electrical power from the vehicle .
+ ▲Never exceed manufacturer’s recommended pressures.  
+ ▲Never connect or disconnect a hose or line containing 
+pressure; it may whip and/or cause hazardous airborne 
+dust and dirt particles. Wear eye protection. Slowly open 
+connections with care, and verify that no pressure is 
+present. Never remove a component or plug unless you are 
+certain all system pressure has been depleted.
+ ▲ Use only genuine Bendix® brand replacement parts, 
+components and kits. Replacement hardware, tubing, hose, 
+ﬁ  ttings, wiring, etc. must be of equivalent size, type and 
+strength as original equipment and be designed speciﬁ  cally 
+for such applications and systems.
+ ▲Components with stripped threads or damaged parts should 
+be replaced rather than repaired.  Do not attempt repairs 
+requiring machining or welding unless speciﬁ  cally stated 
+and approved by the vehicle and component manufacturer.
+ ▲Prior to returning the vehicle to service, make certain all 
+components and systems are restored to their proper 
+operating condition.
+ ▲ For vehicles with Automatic Traction Control (ATC), the ATC 
+function must be disabled (ATC indicator lamp should be 
+ON) prior to performing any vehicle maintenance where 
+one or more wheels on a drive axle are lifted off   the ground 
+and moving.
+ ▲The power MUST be temporarily disconnected from the 
+radar sensor whenever any tests USING A DYNAMOMETER 
+are conducted on a vehicle equipped with a Bendix® 
+Wingman® system.
+ ▲You should consult the vehicle manufacturer's operating 
+and service manuals, and any related literature, in 
+conjunction with the Guidelines above.DISASSEMBLY
+See Figure 1.
+1. Remove and retain the cap nut (3). 
+2. If after removing the cap nut a spring is present, remove 
+and retain the spring (18) from the plunger. This step 
+applies only to TW-7 valve part number 285508. 
+3. Remove and retain the plunger (1) and remove and 
+discard the o-ring (4).
+4. Remove and retain the piston (8) from the valve body (11).
+5. Remove and discard the piston o-ring (10).
+6. Remove and retain the piston spring (9).
+7. Remove and retain the cap nut (15) and o-ring (14).
+8. Remove and retain the spring (16) and retainer (13).
+9. Remove and discard the inlet and exhaust valve (12).
+10. Do not  remove exhaust breather (17). 
+11. If applicable, do not  remove retaining ring (19) from the 
+plunger (1). This step applies only to TW-7 valve part 
+number 285508.REMOVAL
+See Figure 1.
+Ensure the vehicle is safe to work on before beginning. Follow 
+all General Safety Guidelines  in this document.
+1. Block and hold the vehicle on a level surface by means 
+other than the air brakes.
+2. Drain the air pressure from all reservoirs.
+3. Mark the airlines and their connections to the TW-7 valve 
+and disconnect them.
+4. Remove and discard the rubber boot (2). 
+5. Loosen, remove, and retain the mounting nut (5), washers 
+(6), and lock washer (7).  
+3TECHNICAL ASSISTANCE
+For additional assistance, the Bendix Tech Team can 
+be reached by email at techteam@bendix.com or by 
+phone at 1-800-AIR-BRAKE (1-800-247-2725), option 2. 
+Representatives are available Monday through Thursday, 
+8:00 a.m. – 6:00 p.m., and Friday, 8:00 a.m. – 5:00 p.m. ET.INSTALLATION
+See Figure 1.
+1. Mount the TW-7 valve using the retained lock washer 
+(7), washers (6), and mounting nut (5).
+2. Install the new rubber boot (2).
+3. Connect the airlines to the proper ports of the TW-7 as 
+marked during their removal.
+S-1710 Rev 000 © 2/2025 Bendix Commercial Vehicle Systems LLC, a member of Knorr-Bremse • All Rights Reserved
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS
+/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM
+/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST OPERATING AND LEAKAGE TESTS
+ IMPORT ANT
+It is recommended that the operating and leakage tests 
+be performed prior to installation on the vehicle.
+1. Connect a 120 psi air source to the supply. An accurate 
+test gauge should be tee'd into each airline and a means 
+of controlling the air pressure provided. 
+2. A small volume with a gauge should be connected to 
+the delivery port.
+3. With 120 psi supply pressure and the valve in the released 
+position (plunger up), the gauge at the delivery port 
+should read 0 psi.
+4. Leakage at the exhaust port should not exceed a 1-in. 
+bubble in five (5) seconds. No leakage is permitted 
+between the body and the lower cap nut (15).
+5. With 120 psi supply pressure, operate the valve (push 
+plunger down). The gauge at the delivery port should 
+read 120 psi.
+6. Leakage at the exhaust port and between the body and 
+the upper cap nut (3) should not exceed a 1-in. bubble 
+in five (5) seconds. 
+7. The valve must return to the release position without 
+assistance when the manual force is removed.ASSEMBLY
+See Figure 1.
+1. Prior to assembly, lubricate the o-rings and bearing 
+surfaces with the lubricant included in the maintenance kit.
+2. Install the new o-ring (10) on the piston (8).
+3. Install the new o-ring (4) on the plunger (1).
+4. Install the new inlet and exhaust valve (12), the retained 
+spring (16), and the retained retainer (13) in the valve 
+body (11).
+5. Install the o-ring (14) on the cap nut (15), then install both 
+in valve body (11) and torque to 50-150 in-lbs (6-17 N•m).
+6. Install the piston spring (9) and piston (8) into the valve 
+body (11).
+7. Install the plunger (1) into the cap nut (3).
+8. If applicable, install the plunger spring (18) in the valve 
+body (11) along with the plunger (1) and cap nut (3). 
+Torque to 150-400 in-lbs (17-45 N•m). The spring (18) 
+installation step applies only to TW-7 valve part 
+number 285508.
+/gid00035/gid00019/gid00035/gid00038/gid00047/gid00037/gid00042/gid00057/gid00015/gid00036/gid00048/gid00046
+24/7/365 ACCESS
+FULL SERVICE AT YOUR FINGERTIPS/gid00053/gid00038/gid00036/gid00041/gid00047/gid00042/gid00036/gid00034/gid00045/gid00001/gid00052/gid00054/gid00049/gid00049/gid00048/gid00051/gid00053
+ 1/hyphen.cap800/hyphen.capAIR/hyphen.capBRAKE /parenleft.cap1/hyphen.cap800/hyphen.cap247/hyphen.cap2725/parenright.cap
+TECHTEAM/at.capBENDIX.COM/gid00035/gid00051/gid00034/gid00044/gid00038/gid00316/gid00052/gid00036/gid00041/gid00048/gid00048/gid00045/gid00015/gid00036/gid00048/gid00046
+WEB/hyphen.capBASED TRAINING
+LOG ON AND LEARN FROM THE BEST 

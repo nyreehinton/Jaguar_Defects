@@ -1,0 +1,6 @@
+   
+SSM 53379   2023-2025 F-150 Raptor - 5.2L - Exhaust Rattle/Rasp On Cold Start
+Some 2023-2025 F-150 Raptor vehicles equipped with a 5.2L engine may exhibit an exhaust rattle/rasp on a
+cold start. The Workshop Manual (WSM), Section 309-00E Exhaust System - 5.2L 32V Ti-VCT –
+Supercharged > Pinpoint Test D: Noises Such As Buzzing, Drumming, Thumping, Ringing Or Hissing Coming
+From Exhaust System has been updated to address this condition.

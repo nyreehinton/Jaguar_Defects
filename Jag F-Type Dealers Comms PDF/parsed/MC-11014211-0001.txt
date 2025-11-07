@@ -1,0 +1,31 @@
+T-SB-0120 -20 Rev2  December 11, 2020  
+ 
+Replacement ECU Software Configure Process  
+Service 
+Category  General   
+ Section    Outline -General  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA 5 Toyota Motor Sales, USA  Page 1 of 1 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2024  Grand Highlander, Grand 
+Highlander HV, Highlander, 
+Highlander HV, Land 
+Cruiser, Mirai, Tacoma, 
+Tacoma HV   
+2022 - 2024  Tundra, Tundra HV   
+2021 - 2024  Venza HV   
+2023 - 2024  bZ4X, Corolla, Corolla 
+Cross, Corolla Cross HV, 
+Corolla Hatchback, Corolla 
+HV, Crown, GR Corolla, 
+Prius, Prius Prime, Sequoia 
+HV  
+ 
+ 
+ 
+ OBSOLETE NOTICE  
+January  30, 2025: This bulletin is now obsolete. Please see T-SB-0015 -25. 

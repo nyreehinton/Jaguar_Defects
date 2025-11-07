@@ -1,0 +1,39 @@
+Copyright 2025 General Motors. All Rights Reserved.GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONBulletin No.: 25-NA-033
+Service BulletinDate: February, 2025
+INFORMATION
+Information on Removing Fleet Keys
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Tahoe 2024 2025 - - All All
+ 
+Involved Region or Country North America
+Additional Options (RPOs) Equipped with 6E2/6E8Subject:
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+This procedure will require new key fobs and new lock cylinders coded to match the -6E2 or -6E8 code.
+The BCM will have to be programmed with a special calibration in order to convert the vehicle and remove either
+6E2 or 6E8 Fleet Key depending on the fleet RPO selected.
+This will require contacting the Techline Customer Support Center (TCSC) (1-800-828-6860 English or
+1-800-503-3222 French) to open a case and have them change the BCM calibration to remove 6E2 or 6E8. After
+Calling TCSC and they have added the first new calibration Program the BCM. After programming the BCM delete
+all key fobs.
+After programming the BCM and deleting the key fobs TCSC will add another calibration to the BCM. After
+the second programming event please perform IMMO with 'Body Control Module IMMO Learn with New Trans-
+ponder or Remote Key' Replace the lock Cylinder and Key blades.
+ 
+Version 1
+Modified Released February 19, 2025

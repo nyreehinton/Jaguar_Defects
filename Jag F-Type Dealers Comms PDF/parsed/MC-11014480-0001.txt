@@ -1,0 +1,57 @@
+Technical Service Bulletin (TSB)
+Radio Over The Air Update from T27.52 to
+U29.44 then U33.43 Software Version (FOTA ON HOLD)
+REFERENCE: TSB: 08-002-25 REV. A
+GROUP: 08 - ElectricalDate: February 20, 2025 REVISION: 08-002-25
+VEHICLES
+AFFECTED:2023 - 2024 (GC) Alfa Romeo Tonale
+2023 - 2024 (GG) Dodge Hornet
+This bulletin applies to:
+●GC vehicles built on or after October 24, 2023 (MDH 1024XX)
+●GG vehicles built on or after November 07, 2023 (MDH 1107XX)
+Equipped with a Global Telematics Box Module (TBM) (Sales Code
+RDG) and one of the following radios:
+●Uconnect 5 Nav W 10.25" Display (USA) (Sales Code UBS).
+●Uconnect 5 Nav W 10.25" Display (CAN) (Sales Code UES).
+●Uconnect 5 W 10.25" Display (USA) (Sales Code UBH).
+●Uconnect 5 W 10.25" Display (CAN) (Sales Code UEH).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience one or more of the following:
+●Unable to select the Turn by Turn Navigation.
+●Blank performance pages (Rearview Camera (RVC) functions normally) .
+●Android Auto® Voice Recognition (VR) inoperative.
+●Media Tuner delayed.
+●Charge Schedule not accepting updates via phone (RVC functions normally) .
+●Ambient light inoperative.
+●Map in Instrument Panel Cluster (IPC) inoperative.
+●Media Widget blank.
+●Navigation Map black.
+●Off-Road Pages inoperative (RVC functions normally) .
+●VR inoperative.
+●Incorrect song title displayed (Carplay® only) .
+●Radio display switches from Media Page to Home Page (RVC functions normally) .
+●Ghost touch on Navigation screen (RVC functions normally) .
+●Widgets missing.
+●New User Profile does not load.
+●Returns to wrong page after View Camera Event selected by customer in the Camera View Pages (RVC
+functions normally) .
+CAUSE: Radio software
+This bulletin supersedes Technical Service Bulletin (TSB) 08-002-25, date of issue January 07, 2025,
+which should be removed from your files. All revisions are highlighted with **asterisks** and include
+an updated Discussion section.
+REPAIR SUMMARY:
+This bulletin provides information regarding the latest Firmware Over The Air (FOTA) update and provides the
+service technician an overview of the steps a customer will need to take to complete the update. The radio
+software will be updated from T27.52 to U29.44 then U33.43.
+NOTE: The national launch for the FOTA is expected to begin December 08, 2024.
+DISCUSSION:
+**The FOTA Campaign has been put on hold until further notice.**
+POLICY:
+Information Only
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

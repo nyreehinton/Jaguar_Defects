@@ -1,0 +1,118 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 23-NA-209
+Service BulletinDate: February, 2025
+TECHNICAL
+Oil Can and/or Pop Noise from Roof Area During Car Wash
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+Chevrolet Colorado
+2023 2025 - - All All
+GMC Canyon
+ 
+Involved Region or Country North America
+Additional Options (RPOs) Excluding  all vehicles equipped with Sunroof (RPO CAC)
+ConditionSome customers may comment on an oil canning or popping noise originating from the
+roof area during or after an automatic car wash.
+CauseThe cause of the condition may be force from some air dryers at an automated car wash
+can cause flex in the roof panel, causing a loud oil canning type sound.
+CorrectionRepair any damage done during the event and apply stiffening patches and install roof
+panel longitudinal bow to the underside of the roof panel following the procedure listed
+below.Subject:
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+If you encounter a vehicle with the above concern, repair any damage done to the roof by following the proper repair
+procedures within SI.
+Once the roof is repaired of all damage, complete the following procedure to install stiffening patches to the
+underside of the roof panel.
+1. Drop the headliner, but do not fully remove from the vehicle. Refer to Headlining Trim Panel Replacement  in Si.
+Page 2 February, 2025 Bulletin No.: 23-NA-209
+6484170
+2. If the vehicle has already had the 5 stiffening panels installed to the underside of the roof panel in
+the RED locations in the illustration above, proceed to step 4.  It is not necessary to remove any of the stiffening
+panels that have been previously installed before installing the roof bow.
+6832670
+3. Once the headliner is dropped (but not removed) apply the 2 stiffening panels to the underside of the roof
+panel in the RED locations in the illustration above.
+Bulletin No.: 23-NA-209 February, 2025 Page 3
+6805500
+6805501
+4. Pre-Drill Roof Bow (6.7mm (17/64) for the rivet in the areas (x5) shown in the above graphics.
+Page 4 February, 2025 Bulletin No.: 23-NA-209
+6805503
+6805504
+Bulletin No.: 23-NA-209 February, 2025 Page 5
+6805505
+6805507
+5. Using magnets to hold the roof bow in the proper position (Align the center line of the roof bow to the center line
+of the triangles in roof bars as shown in the above image).
+Drill holes in the underside roof structure using the pre-drilled roof bow as a template- and using depth control
+device on bit. 
+6. Remove the roof bow.
+Page 6 February, 2025 Bulletin No.: 23-NA-209
+6805508
+7. Apply crash durable structural adhesive Fusor 2098 or equivalent as called out in the graphic with a 3mm width
+of wet out along both ends. 
+6805509
+8. Apply panel vibration control material - anti-flutter SEM #39977 or equivalent along the length of the bow as
+called out in the above graphic. 
+Bulletin No.: 23-NA-209 February, 2025 Page 7
+6805511
+6805512
+Page 8 February, 2025 Bulletin No.: 23-NA-209
+6805513
+9. Install Roof Bow to the vehicle and Install Rivets (x5).
+10. Once the panels and roof bow are installed, reinstall the headliner. Refer to Headlining Trim Panel
+Replacement  in Si.
+11. Verify the condition is corrected
+ 
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+N/ADEADENER-
+F/FLR PNL FRT
+SI15828539 2
+BOW-RF PNL
+LGTDNL85689511 1
+Panel Vibration
+Control Material
+(Anti-flutter)*SEM #39977 -
+Crash Durable
+Structural
+Adhesive*Fusor 2098 -
+RIVET-DA PNL 19353808 5
+* We believe this source and their products to be reliable.
+There may be additional manufacturers of such products/
+materials. General Motors does not endorse, indicate any
+preference for, or assume any responsibility for the
+products or material from this firm or for any such items
+that may be available from other sources.
+ 
+Bulletin No.: 23-NA-209 February, 2025 Page 9
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONWarranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor Operation Description Labor Time
+6086158* Install Roof Stiffening Patches and Roof Panel Longitudinal
+Bow2.0hr
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Version 3
+Modified Released January 25, 2024
+Revised March 18, 2024 – Added 2024 Model Year.
+Revised February 07, 2025 – Updated service procedure to add steps to install Roof Bow
+and supporting information.

@@ -1,0 +1,180 @@
+T-SB-0001 -25   January 6, 2025  
+ 
+Front Passenger Carpet Untucked and Torn at Center 
+Console  
+Service 
+Category  Vehicle Interior   
+ Section    Interior Panels/Trim  Market   USA and 
+Mexico  
+  
+ © 2025 Toyota Motor Sales, USA  Page 1 of 6 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2021 - 2024  Sienna HV   
+ 
+ 
+Introduction  
+Some 2021 – 2024 model year Sienna Hybrid  vehicles may exhibit a condition in which the front 
+passenger carpet is untucked and torn at the center console , as shown in Figure 1. To address 
+this concern, a carpet patch  has been developed to reduce the likelihood of this condition from 
+occurring.  Follow the Repair Procedure in this bulletin to address this condition.  
+ 
+ 
+ 
+Figure 1. Untucked and Torn Carpe t Example  
+  
+ 
+ 
+ 
+  
+
+ T-SB-0001 -25   January 6, 2025  Page 2 of 6 
+Front Passenger Carpet Untucked and Torn at Center Console  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Warranty Information  
+For USA Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BD2414  Install Floor Mat Reinforcement to  
+Front RH Carpet, Floor  0.3 58511 -08030 -C1 62 12 
+ 
+ 
+For Mexico Market  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+BD2414  Install Floor Mat Reinforcement to  
+Front RH Carpet, Floor  0.3 58511 -08030 -C1 62 12 
+ 
+ 
+ 
+  
+Parts Information  
+PART NUMBER  PART  NAME  QTY 
+58511 -08050  Mat, Floor  1 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+Plastic Pry Tool Kit*  00002 -06020 -01 1 
+*Essential SST.  
+ 
+   APPLICABLE WARRANTY  
+ This repair is covered under the Toyota Basic Warranty. This warranty  is in effect for 36 months  
+or 36,000 miles, whichever occurs first, from the vehicle’s  in-service date.  
+ Warranty application is limited to occurrence of the specified condition described in   
+this bulletin.  
+APPLICABLE WARRANTY  
+ This repair is covered under the Toyota Basic Warranty. This warranty  is in effect for 36 months  
+or 60,000 kilometers, whichever occurs first, from the vehicle’s  in-service date.  
+ Warranty application is limited to occurrence of the specified condition described in   
+this bulletin.  
+ T-SB-0001 -25   January 6, 2025  Page 3 of 6 
+Front Passenger Carpet Untucked and Torn at Center Console  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  
+1. Confirm the condition  exists.  
+Is the front passenger carpet untucked and torn at the center console ? 
+ YES — Continue to step 2.  
+ NO — This bulletin does NOT apply. Continue diagnosis using the applicable  
+ Repair Manual.  
+ 
+ 
+2. Remove the lower  center console trim and the carpet retaining clips . 
+A. Using a plastic pry tool, remove the 
+lower center console  trim at the bottom 
+of the center console, as shown in 
+Figure 2.  
+ Figure  2. Front Passenger Lower  Center Console  
+Trim Removed  
+ 
+ 
+1 Plastic Pry Tool  
+2 Lower Center Console Trim  Removed From  
+the Center Console  
+ 
+ 
+ 
+  
+1 
+2 
+ T-SB-0001 -25   January 6, 2025  Page 4 of 6 
+Front Passenger Carpet Untucked and Torn at Center Console  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+B. Using the plastic pry tool, remove the 
+center console retaining clips , as 
+shown in Figure 3. 
+ Figure  3.  
+ 
+ 
+1 Plastic Pry Tool  
+2 Center Console Retaining Clips  
+ 
+ 
+ 
+3. Attach the NEW floor mat to the affected carpet area and secure with the center console 
+retaining clips . 
+A. Remove the backing from the NEW 
+floor mat , as shown in Figure 4. 
+ Figure  4. Backside of the New Floor Mat  
+ 
+ 
+ 
+ 
+  
+1 
+2 
+ T-SB-0001 -25   January 6, 2025  Page 5 of 6 
+Front Passenger Carpet Untucked and Torn at Center Console  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+B. Attach the NEW floor mat with the 
+adhesive side facing the bottom part of 
+the original carpet , as shown in  
+Figure 5. 
+ Figure  5. New Floor Mat Attached to the Carpet  
+ 
+ 
+1 Adhesive  
+ 
+ 
+ 
+C. Reattach the center console  retaining 
+clips, as shown in Figure 6. 
+ Figure  6. Carpet and New Floor Mat Secured to the 
+Center Console With Retaining Clips  
+ 
+ 
+1 Center Console Retaining Clips  
+ 
+ 
+  
+1 
+1 
+ T-SB-0001 -25   January 6, 2025  Page 6 of 6 
+Front Passenger Carpet Untucked and Torn at Center Console  
+ 
+ © 2025 Toyota Motor Sales, USA   
+   
+Repair Procedure  (continued)  
+4. Reinstall  the lower  center  console trim . 
+ 
+ 
+5. Confirm the condition  no longer exists, as 
+shown  in Figure 7.  
+ Figure  7. Example of Completed Repair  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,108 @@
+Less Info
+Countries: CANADA, UNITED STATESDocument ID:IK2502019
+Availability: ISIS, NotSIR Revision: 5
+Major System: UPTIME Created: 8/23/2024
+Current Language:English Last Modified:2/25/2025
+Other Languages:Español, Author: Mujtaba Aidroos
+Viewed: 2355
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 2
+ 0
+Title: Update calibration to RC4
+Applies To: Vehicles Marked In Service Portal
+DESCRIPTION
+ 
+This document will guide the user through updating the calibration to RC4.
+ 
+ 
+SYMPTOMS
+DTC/Light Description
+ N/A  N/A
+ 
+ 
+SPECIAL TOOLS / SOFTWARE
+ 
+Tool Description Tool Number Comments  Instructions
+EZ-T ech® or EST  with
+Service Diagnostics
+Solutions ProN/A  N/A  N/A
+ Battery Charger  N/A  Locally Sourced  N/A
+   
+ 
+SERVICE PARTS INFORMATION
+ 
+Kit Description Part NumberQty.
+RequiredNotes 
+ N/A  N/A  N/A  N/A
+ 
+ 
+DIAGNOSTIC STEPS
+N/A 
+ 
+REPAIR STEPS
+1. Bring vehicle into shop and park on a flat surface
+ 
+2. Shift transmission into park or neutral, set parking brake and install wheel chocks
+ 
+3. Before beginning, a Health Report MUST be taken prior to programming. 
+ 
+To learn how to update a S13 Module, please review the following:
+ 
+Click help (Upper right hand corner) 
+ 
+ 
+Click How To? Button
+ 
+Click Programming & Templates/ Module Programming/ Update a module
+ 
+ 
+4. Make sure vehicle is hooked up to a battery charger.
+ 
+5. Programming using a Bluetooth, WiFi or Wireless adapter is not allowed. If SDS detects one of these devices after
+the Update Module Sofware Button is depressed the following message will appear.
+ 
+You will need to change to a USB connected device to proceed with programming
+ 
+ 
+If you are connected to the truck via USB cable. Go to Menu/No Connection and select appropriate device that is
+connected to the engine 
+ 
+ 
+Examples of approved connection to program S13 modules 
+ 
+ 
+6. Remove wheel chocks
+7. Return vehicle back to service 
+ 
+Hide Details Feedback Information
+Viewed: 2354
+Helpful: 2
+Not Helpful:0
+No Feedback Found
+Copyright © 2025 Navistar, Inc. 
+WARRANTY INFORMATION
+ 
+Repair SRT  Hrs
+ PROGRAM ALL MODULES  A40-24A33-1  0.6
+ 
+ADMINISTRATIVE PROCEDURE
+Expense is to be charged to Warranty. Claims are to be submitted in the normal manner, making reference to Proactive Field Change Number.
+It is important that the coding be completed properly to assist in processing the warranty claim. Complete instructions will be found in the Warranty Policy Manual,
+Section 10.
+As with all claim submissions, items acquired locally must be submitted in the Other Charges tab. The cost of any bulk items (such as a bag of cable tie straps, roll
+of wire, barrel of oil, or tube of silicone) should be prorated for the cost of the individual pieces / amount used during each repair.
+Sales Policy repairs have a 10% markup on parts
+ 
+To ensure this important improvement is made in a timely manner, all claims for this Proactive Field Change Number must be submitted within 12 months from the
+release of this document or within the normal warranty period for the vehicle, if after 12 months from the release date
+ 
+ 
+ 
+If a feedback case is required, please select feedback type as 600/MRC/FSC and case type as feedback.
+This will ensure the case file goes to the correct correspondents
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 

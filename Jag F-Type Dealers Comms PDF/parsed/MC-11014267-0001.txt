@@ -1,0 +1,34 @@
+ 
+  
+   
+ 
+This document does not authorize warranty repairs.   This communication documents a record of past experiences.   STAR Online  
+does not provide any conclusions about what is wrong with the vehicle.  Rather, it captures all previous cases known that appear  
+to be similar or related to the vehicle symptom / condition.   You are the expert, and you are responsible for deciding on the  
+appropriate course of action.  
+ 
+Contact STAR Center, or your Technical Assistance Center Via TechConnect,  eCONTACT or Service Library  
+entry if no solution is found .  
+ 
+Stellantis  US LLC                                           Version 4.5 07/22/2022 
+ 
+Case Number:   S2519000001  
+ 
+ 
+Release Date:   February 2025  
+ 
+ 
+Symptom/Vehicle Issue : Steering Drift And Or Pull.  
+ 
+ 
+Customer Complaint/T echnician Observation:  Vehicle steering drifts or pulls while 
+driving.  
+ 
+ 
+Discussion : Many electric power steering ( EPS) units have been replaced and exhibit 
+no issues when tested after the part was received back for analysis.  Prior to replacing 
+any components for a drift or pull concern, verify the vehicle is in specification for 
+alignment.  Then test drive to confirm condition is resolved.  
+ 
+ 
+ 

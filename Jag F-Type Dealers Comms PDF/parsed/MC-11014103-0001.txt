@@ -1,0 +1,74 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Check engine light and DTC - ECM P014526Ref. No.
+TJ 37181.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/5/25Status Date
+1/2/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+2544
+Function Description
+Lambda sond systemPage
+Page 1 of 3Attachment
+File Name File Size
+TJ_37181_1.pdf 0.1444 MB
+DESCRIPTION:
+If DTC below is set and Check Engine Light is on, please follow advice under service.
+DTC: Diagnostic Trouble Code
+ECM: Engine Control Module
+CSC   Customer Symptom Codes
+Code Description
+DL Warning lights and chimes/Malfunction Indicator Light ("Check engine" light) indication/no indication
+DTC   Diagnostic Trouble Codes
+Control Module Code Fault Type
+ECM P014526 Permanent
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 H6 BH6PHEV 2024-9999 - 202317-999952
+225 H6 BH6PHEV 2024-9999 - 202317-999952
+236 06 B06KERS 2024-9999 - 202317-999952
+238 06 B06KERS 2024-9999 - 202317-999952
+238 H6 BH6PHEV 2024-9999 - 202317-999952
+246 06 B06KERS 2024-9999 - 202317-999952
+246 H6 BH6PHEV 2024-9999 - 202317-999952
+256 06 B06KERS 2024-9999 - 202317-999952
+256 H6 BH6PHEV 2024-9999 - 202317-999952
+Page 2 of 3 2025-01-02
+Technical Journal 37181.1.0SERVICE:
+Do not replace any parts. The hardware is usually not at fault.
+First perform an adaptation test drive as follows:
+1. Erase the DTC and reset the adaptations for the lambda sensor according to attachment 
+TJ_37181_1.pdf.
+2. Check if the vehicle software is the latest version. If not, please perform a Total Upgrade of the 
+vehicle software according to TJ 31543.
+3. Perform a test drive with the engine at varying loads for approximately 30 minutes in at speeds 
+ranging between 50-100 km/h (30-60 mph).
+4. Perform a new VIDA readout and check if DTC has returned.
+If the DTC doesn’t re-occur, the car can be released to the customer
+If the DTC re-occurs, pressure test the fresh air side and the exhaust system for air leaks and repair 
+as needed according to VIDA instructions.
+If the above measures have no effect, please see instructions under Vehicle Report below.
+  
+Warranty claim info:
+To get a warranty claim accepted for a job described in this TJ, use the corresponding VST OP 
+number stated in this TJ.
+Note that the TJ number must be stated in the repair order text.
+VST   Operation Number
+VST Operation Number Description
+36001-2 Test drive according to Technical Journal 4JV
+36004-2 Software control module downloading
+36001-2 Diagnostic trouble codes read/ reset 
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support needed” , use function group 2544.
+ 
+To view TJ attachments continue to next page.  This TJ has one attachment.
+2025-01-02 Page 3 of 3
+Technical Journal 37181.1.0
+TJ 37166

@@ -1,0 +1,125 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 20-NA-175
+Service BulletinDate: January, 2025
+TECHNICAL
+Vertical Misalignment Between Cab and Pickup Box on Driver Side of Vehicle
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+ChevroletSilverado 1500 (New
+Model - 12th VIN Digit
+= 7) - 4WD2019 2019
+    All AllSilverado 1500 (New
+Model)
+Silverado 1500 2020 2021
+Silverado 1500 -
+(LTD, RPO J21, 12th
+VIN Digit = 4 or less)
+2022 2022
+Silverado 1500 -
+(RPO J22, 12th VIN
+Digit = 5 or greater)
+Silverado 1500 2023 2025
+Silverado 2500HD/
+3500HD2020 2020
+GMCSierra 1500 (New
+Model)2019 2019
+Sierra 1500 2020 2021
+Sierra 1500 -
+(LIMITED RPO J21,
+12th VIN Digit = 4 or
+less)2022 2022
+Sierra 1500 - (RPO
+J22, 12th VIN Digit =
+5 or greater)
+Sierra 1500 2023 2025
+Sierra 2500HD/
+3500HD2020 2020
+ 
+Involved Region or Country North America, Middle East, Israel, Palestine, Chile, Paraguay, and Thailand.
+Additional Options Crew Cab and Extended Cab Models ONLYSubject:
+Page 2 January, 2025 Bulletin No.: 20-NA-175
+Condition
+5645798
+Some customers may comment on noticing anywhere from 2 –10 mm (0.08 – 0.4 in.)
+vertical misalignment of the body feature line between the cab and the pickup box, on the
+driver's side of vehicle.
+Cause The cause of the condition may be pickup box structure variation.
+CorrectionRealign the left side of the cab and install shim washers, following the steps in the
+Service Procedure below.
+ 
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+5645804
+1. Verify the condition by visually checking, and measuring, the body feature line variance, on the left side of the
+vehicle.
+Bulletin No.: 20-NA-175 January, 2025 Page 3
+2. Raise and support the vehicle. Refer to Lifting and Jacking the Vehicle  in SI.
+5645799
+5645800
+3. Remove the 3 left side body mount bolts and washers (1).
+Page 4 January, 2025 Bulletin No.: 20-NA-175
+5645802
+Note: For trucks with running boards, the jack can be positioned below the running board bracket. For trucks without
+running boards, position the jack below the cab pinch weld and use a wood block to protect the paint, and sheet
+metal.
+4. Using a jack stand (1), raise the cab high enough to achieve enough clearance to install the shim washers
+between the body of the truck and the top of each body mount.
+5. Install shim washers to each body mount location(s) as needed.
+Note: Typically, it will take 2 shim washers in the rear mount to get a 10 mm adjustment in height at the body line. If
+more than one washer shim is installed on the rear body mount, you will need to put a single shim washer on the
+mount at the B-Pillar.
+Important: We should never install more than 2 shim washers in the rear to make the alignment, one will get roughly
+5 mm at the box/cab and two will get roughly 10 mm at box/cab interface.
+6. Remove the jack stand from the cab.
+5645799
+7. Perform the following procedure before installing the body mount bolts (1).
+7.1. Remove all traces of any of the original adhesive patch from the bolt threads.
+7.2. Clean the threads of the bolts with denatured alcohol, or equivalent, and allow to dry.
+Bulletin No.: 20-NA-175 January, 2025 Page 5
+7.3. Apply Threadlocker to the body mount bolts.
+5645806
+8. Re-torque the 3 left side body mount bolts.
+Tighten.
+Tighten the bolts to 165 Nm (122 lb. ft).
+9. Remove the support and lower the vehicle.
+10. Verify that the cab alignment condition has been eliminated.
+ 
+Parts Information
+Causal
+PartDescription Part
+NumberQty
+N/AShim 84642724
+As needed
+Threadlocker12345382
+(U.S.)
+10953489
+(Canada)
+ 
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation. Submit the cost of the required washers as “Net Item Miscellaneous”.
+Labor Operation Description Labor Time
+1481418* Realign Left Side of Cab to Pickup Box, Install Shim Washers 0.6 hr.
+*This is a unique Labor Operation for Bulletin use only.
+ 
+Page 6 January, 2025 Bulletin No.: 20-NA-175
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 6
+Modified Released - September 02, 2020
+Revised October 27, 2020 – Removed Date Breakpoint
+Revised December 21, 2020 – Added 2021 Model Year to Silverado/Sierra 1500.
+Revised May 09, 2022 — Updated Shim Part number and Added 2022 Model Year.
+Revised July 27, 2023 — Added 2023 and 2024 Model Years.
+Revised January 31, 2025 – Added 2025 Model Year.

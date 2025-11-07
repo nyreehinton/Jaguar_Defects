@@ -1,0 +1,72 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+ICUP - Estimated Time of Arrival in DIM missingRef. No.
+TJ 37224.1.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/20/24Status Date
+1/2/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3900
+Function Description
+Media, navigation and communicationPage
+Page 1 of 3Attachment
+File Name File Size
+TJ_37224_1.pdf 0.1935 MB
+DESCRIPTION:
+If the customer experiences missing Distance to Destination and Estimated Time of Arrival (ETA) 
+information in the DIM, please follow the instruction under “Service” .
+ 
+ETA = Estimated time of arrival (also incl. Distance to Destination)
+DIM = Driver Infotainment Module
+CSD = Center Stack Display
+CSC   Customer Symptom Codes
+Code Description
+7N Navigation/Other navigation problems
+EO Navigation/Does not work
+HP Navigation/Navigation system gives incorrect directions
+IC Navigation/Updates of information slow/does not work
+DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 2023-9999 - 202220-999952
+225 2023-9999 - 202220-999952
+227 2023-9999 - 202220-999952
+234 2022-9999 - 202122-999952
+235 2022-9999 - 202122-999952
+236 2022-9999 - 202122-999952
+238 2022-9999 - 202122-999952
+246 2022-9999 - 202122-999952
+Page 2 of 3 2025-01-02
+Technical Journal 37224.1.0Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+256 2023-9999 - 202220-999952
+536 2021-9999 - 202037-999952
+539 2022-9999 - 202139-999952
+SERVICE:
+DO NOT REPLACE any components for this issue. 
+Due to a bug in the latest SW release (3.3.16,17,18,19), the function for ETA and Distance to 
+Destination in the DIM is not shown but still visible in the map-view in CSD-screen.
+The plan is to reintroduce this function in the next software release that is expected in year 2025 
+quarter 1 in VIDA.
+  
+Warranty claim info:
+No warranty claim is accepted for this TJ.
+VEHICLE REPORT:
+Yes, please submit a Vehicle Report if the service solution described in this TJ has no effect. Use 
+concern area “Vehicle Report” and sub concern area “Support not needed” , use function group 
+3900.
+ 
+To view TJ attachments continue to next page.  This TJ has one attachment.
+2025-01-02 Page 3 of 3
+Technical Journal 37224.1.0TJ37224
+ ✓ 
+TJ37224
+✓ ✓ 

@@ -1,0 +1,53 @@
+Technical Service Bulletin (TSB)
+Integrated Center Stack (ICS) Switches Inoperable
+REFERENCE: TSB: 08-035-25
+GROUP: 08 - ElectricalDate: February 14, 2025 REVISION: —
+VEHICLES
+AFFECTED:2024 - 2025 (LB) Dodge Charger
+This bulletin applies to vehicles built on or before January 06, 2025
+(MDH 0106XX) equipped with Powershot (Sales Code DHS).MARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience one or more of the following:
+●The A/C and heater buttons Fig. 1  in the ICS do not function after 15 minutes following a cold ambient
+temperature startup and a warning up of the ICS.
+●Intermittent functioning of the other ICS buttons Fig. 1 .
+NOTE :The redundant HVAC controls available from the radio screen still function, allowing the
+driver to make any necessary HVAC adjustments.
+CAUSE: ICS switches
+This Technical Service Bulletin (TSB) has also been released as a Rapid Service Update (RSU) 25-016,
+date of issue February 14, 2025. All applicable RSU VINs have been loaded. To verify this RSU service
+action is applicable to the vehicle, use VIP or perform a VIN search in DealerCONNECT/Service Library.
+All repairs are reimbursable within the provisions of warranty.
+Fig. 1
+ICS Button Assembly
+REPAIR SUMMARY:
+This bulletin involves replacing the a/c and heater switch assembly.
+CLAIMS DATA:
+Labor Operation No: Labor Description Skill Category Labor Time
+24-50-10-9D Integrated Center Stack (ICS) Switches -
+Replace
+(2 - Skilled)6 - Electrical and
+Body Systems1.0 Hrs.
+Failure Code ZZ Service Action
+SPARE PARTS:
+Qty Part No. Description Notes
+1 68646761AD Switch, Instrument Panel ICS
+DIAGNOSIS:
+If a customer’s VIN is listed in VIP or your RSU VIN list, perform the repair. If any vehicle not on the VIN list
+exhibits any of the symptom listed above in the customer symptom section, perform the Repair Procedure.
+REPAIR PROCEDURE:
+1. Is the vehicle on the RSU VIN list?
+● YES >>> Proceed to Step 2 .
+● NO >>> This bulletin does not apply.
+2. Replace the a/c and heater switch assembly. Refer to the detailed procedures available in
+DealerCONNECT > Service Library> under: 24 - Heating and Air Conditioning / Controls / Control, A/C
+and Heater / Removal and Installation.
+POLICY:
+Reimbursable within the provisions of the warranty.
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

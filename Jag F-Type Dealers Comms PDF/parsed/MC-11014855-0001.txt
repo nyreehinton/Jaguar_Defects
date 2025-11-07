@@ -1,0 +1,46 @@
+Close
+CommunicationPublished
+Request ID: 103621
+Message
+Target
+Options
+Approve / Deny
+Clone
+Edit RequestExtend End DatePublish Dates
+• The Start Date is when the communication will be visible
+to dealers in DCMail.
+• The End Date is when the communication will no longer be
+visible to dealers in DCMail.
+• NOTE: End Dates are limited to one (1) year from the Start
+Date. If you wish to lengthen the End Date, you may 
+extend it at any time after publish.Start Date2/26/2025 7:00 AM
+End Date 3/19/2025 11:55 PM
+Note: All times are EST
+Title
+What will display in DCMail for dealers to click on.
+TIP:Keep titles short, but specific and eye catching.MODULE - ANTI-LOCK BRAKE SYSTEM
+Flagged for Reporting Agency NO
+Communication Summary
+To increase search capability and visibility of your
+communication, please provide a brief summary or your
+message (140 characters max). This will display when dealers
+hover over your communication.MODULE - ANTI-LOCK BRAKE SYSTEM
+Message
+The body of your communication. Use the formatting toolbar
+above to format text, insert tables, pictures, and/or hyperlinks.
+Click Edit > Attach File to attach documents
+IMPORTANT NOTES:
+• Pictures must have unique file names. If you receive an 
+error message when uploading a picture, it means the file
+name has already been chosen. Simply change your file
+name and try again.
+• Communications cannot exceed more than 12MB; this 
+includes images and text, and all attachments.You have been identified as either having stock on hand or in transit to your dealership.
+Please return all stock of part number: 68563815AC.
+Please return  all parts back to your facing depot using Return Code 02 , before 
+19th March 2025 . 
+Replacement part 68563815AD    is availble, can be ordered.  
+ Return any open orders in process t oo. Direct questions regarding returns via email 
+tomopardmail@stellantis.com.
+AttachmentsPage 1 of 1
+3/1/2025 https://comdash.intra.fcagroup.com/mgt/SitePages/ViewComm.aspx?KeyID=103621&IsDl ...

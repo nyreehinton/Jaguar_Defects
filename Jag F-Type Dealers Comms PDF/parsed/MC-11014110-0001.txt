@@ -1,0 +1,68 @@
+Volvo Car USA LLC  Quality Bulletin
+Bulletin Title
+Delivery Action D10294: EX90 Software Update 1.1.23,  
+Model Year 2025 EX90Group
+30NO
+D10294
+Issuer (Dept.)
+Product, Safety and ComplianceCar Market
+United States and CanadaIssue Date
+11/15/24Status Date
+1/8/25
+Revisions Page
+Page 1 of 2A. DELIVERY ACTION D10294 DESCRIPTION
+B.  VEHICLES INVOLVED
+C.  PORT VEHICLES if applicable
+D.  PARTS INFORMATION/PARTS RETURN if applicable
+E.  OWNER NOTIFICATION
+F .  VEHICLES IN RETAILER INVENTORY
+G.  RETAILER RESPONSIBILITY
+H.  TECHNICIAN COMPETENCY REQUIREMENT  
+I.  CAMPAIGN REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE              
+ 
+A.  DELIVERY ACTION D10294 DESCRIPTION
+Volvo Cars USA LLC and Volvo Cars Canada LTD on behalf of the Volvo Car Corporation has 
+decided to launch Delivery Action D10294: EX90 Software Update on certain Model Year 
+2025 EX90 vehicles. 
+Volvo Cars Investigations have identified that certain EX90 vehicles that have previously 
+performed PDS must download improved software (1.1.23 or later). 
+The corrective action is to perform a Total Software Upgrade.
+A total of 495 U.S and 17 Canadian vehicles are eligible for this delivery action.
+B. VEHICLES INVOLVED
+NOTE:  RETAILER MUST CONFIRM VEHICLE ELIGIBILITY PRIOR TO BEGINNING 
+THE REPAIR FOR THIS DELIVERY ACTION. VEHICLES IN RETAILER 
+INVENTORY MUST BE UPGRADED PRIOR TO PDS.
+Vehicle eligibility must be confirmed:
+• Vehicle Inquiry – Warranty Vehicle Inquiry where the message “Delivery Action D10294 
+EX90 SW Update” will appear for eligible vehicles, F4=History from the main Inquiry 
+menu must be selected to confirm Delivery Action D10294 has not been completed. 
+Eligibility can also be confirmed in TIE. 
+All vehicles must be checked for any incomplete recalls or service campaigns or service 
+upgrades. All open Recall, Service Campaign or Service Action repairs must be completed.
+If you have any questions concerning this recall, send them to recall@volvocars.com.
+Page 2 of 2 2025-01-08
+Quality Bulletin D10294C.  PORT VEHICLES
+NOT all vehicles arriving from the ports will have been completed. It is the retailer’s 
+responsibility to check vehicle eligibility prior to delivery.  
+D. PARTS / PARTS RETURN 
+Please refer to the Parts Bulletin once available.
+E.  OWNER NOTIFICATION
+No owner notification. This action does not apply to retailed vehicles.  
+F .  VEHICLES IN RETAILER INVENTORY
+All vehicles marked for Delivery Action D10294 must be remedied prior to delivery.
+G.  RETAILER RESPONSIBILITY
+All vehicles qualifying for this Delivery Action must be repaired prior to a customer taking 
+possession of the vehicle at new car delivery.
+H. TECHNICIAN COMPETENCY REQUIREMENT 
+The technician competency requirement for this campaign repair is Certified (G1). 
+I. REIMBURSEMENT PROCEDURES & RETAILER ALLOWANCE 
+Delivery Action D10294 claims should be submitted using the LONG FORM application only.
+Claim Type:  D10294
+Cause Code:  02
+CSC Code:  XW
+Main OP:  99942
+Failed Part:  32425147 (Total Upgrade EX90)
+Operation Number Repair Description Qty Labor Time
+99942 Software Downloading acc to QB 1 0.5
+*Labor times provided are current at the time of release and are subject to change:  Claims 
+will be paid at the time in effect on the repair date.

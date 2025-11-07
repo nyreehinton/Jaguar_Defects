@@ -1,0 +1,95 @@
+Bulletin Number: 18-226-25;  Date: 02/12/25         Page 1 of 3
+SERVICE INFORMATION BULLETIN
+Continued...
+CAUTION: VEHICLE SERVICING PERFORMED BY UNTRAINED PERSONS COULD 
+RESULT IN SERIOUS INJURY TO THOSE PERSONS OR TO OTHERS.
+Subaru Service Bulletins are intended for use by professional technicians ONLY . They 
+are written to inform those technicians of conditions that may occur in some vehicles, 
+or to provide information that could assist in the proper servicing of the vehicle. Properly 
+trained technicians have the equipment, tools, safety instructions, and know-how to 
+do the job correctly and safely. If a condition is described, DO NOT assume that this 
+Service Bulletin applies to your vehicle, or that your vehicle will have that condition.Subaru of America, Inc. is  
+ISO 14001 Compliant
+ISO 14001 is the international standard for 
+excellence in Environmental Management 
+Systems. Please recycle or dispose of 
+automotive products in a manner that is friendly 
+to our environment and in accordance with all 
+local, state and federal laws and regulations. NUMBER: 18-226-25
+ DATE:  02/12/25APPLICABILITY: 2025MY Forester 
+  2024MY Impreza & Crosstrek
+ SUBJECT: DTC B2A16 (Immobilizer Key Collation   
+  Diagnosis) Service Manual Correction
+INTRODUCTION: 
+This Service Information Bulletin provides the Service Manual Correction to the diagnostic 
+procedure for DTC B2A16 (Immobilizer Key Collation Diagnosis). The immobilizer re-registration 
+process must be completed during the diagnosis and repair procedure. Refer to the procedures 
+outlined in this bulletin when diagnosing DTC B2A16. This correction will be added to the Service 
+Manual at a later date. 
+SERVICE PROCEDURE / INFORMATION:
+Listed below, is a section of the current Service Manual with the correction outlined in RED. This 
+information is to be used in conjunction with the current Service Manual. 
+Refer to STIS: DIAGNSTICS > TELEMATICS SYSTEM (DIAGNOSTICS) > Diagnostic Procedure 
+with Diagnostic Trouble Code (DTC) > DTC B2A16 IMMOBILIZER KEY COLLATION
+1BASIC INSPECTION.
+WorkBefore performing the diagnosis, perform basic inspection. Refer to TELEMATICS SYSTEM 
+(DIAGNOSTICS)>General Description>INSPECTION
+NOTE: 
+- Check the battery and its installation condition.
+- Check the related fuse. Refer to WIRING SYSTEM>Telematics System>WIRING DIAGRAM
+- Visually check that the related connectors are properly connected.
+Also, check the related ground terminal for looseness and corrosion.
+Check Is the check result OK?
+Yes Go to 2.
+NoRepair the defective part.
+After the repair, go to 5.ATTENTION:
+GENERAL MANAGER q
+PARTS MANAGER q
+CLAIMS PERSONNEL q
+SERVICE MANAGER qIMPORTANT - All 
+Service Personnel 
+Should Read and 
+Initial in the boxes 
+provided, right.
+© 2025 Subaru of America, Inc.  All rights reserved. 
+Bulletin Number: 18-226-25;  Date: 02/12/25         Page 2 of 3
+Continued...2 CHECK DTC.
+Work1. Turn the ignition switch to ON.
+2. Read the DTC of [Telematics] using the Subaru Select Monitor. Refer to TELEMATICS SYSTEM 
+(DIAGNOSTICS)>Diagnostic Trouble Code (DTC)
+Check Is DTC B2A16 displayed? (Current code)
+Yes Go to 3.
+NoEven if DTC is displayed, the circuit has returned to a normal condition at this time. Reproduce the failure, 
+and then perform the diagnosis again.
+• NOTE: In this case, temporary poor contact of connector, temporary open or short circuit of harness 
+may be the cause
+3 CHECK DCM POWER SUPPLY.
+WorkUsing the Subaru Select Monitor, check the following items in the [Data monitor] of [Telematics]. Refer to 
+TELEMATICS SYSTEM (DIAGNOSTICS)>Data Monitor.
+• Battery voltage
+Check Is the voltage 9 - 16 V?
+Yes Go to 4.
+NoReplace the battery and go to 4.
+Refer to STARTING/CHARGING SYSTEMS(H4DO)>Battery.
+4 PERFORM IMMOBILIZER SYSTEM RE-REGISTRATION.
+WorkPerform re-registration of immobilizer system for DCM using the Subaru Select Monitor. Refer to the 
+“REGISTRATION MANUAL FOR IMMOBILIZER” for more details.
+NOTE:
+“Telematics CM,” described in “REGISTRATION MANUAL FOR IMMOBILIZER”, is described as “DCM” in the 
+Service Manual.
+Check Is registration complete?
+Yes Go to 5.
+NoRefer to “Correspondence table when registration is not possible” in the “REGISTRATION MANUAL FOR 
+IMMOBILIZER.”
+5 CHECK DTC.
+WorkRead the DTC of [Telematics] using the Subaru Select Monitor. TELEMATICS SYSTEM 
+(DIAGNOSTICS)>Diagnostic Trouble Code (DTC).
+Check Is DTC B2A16 displayed? (Current code)
+Yes Replace the DCM. Refer to ENTERTAINMENT & MONITORING>Data Communication Module.
+No Function returned to normal.
+Bulletin Number: 18-226-25;  Date: 02/12/25         Page 3 of 3
+IMPORTANT REMINDERS:
+• SOA strongly discourages the printing and/or local storage of service information as previously 
+released information and electronic publications may be updated at any time.
+• Always check for any open recalls or campaigns anytime a vehicle is in for servicing.
+• Always refer to STIS for the latest service information before performing any repairs.

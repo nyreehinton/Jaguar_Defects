@@ -1,0 +1,175 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin :  TSB220165  Released Date : 28-F eb-2025
+New 12 V olt V ariable Geometr y Turbochar ger ( VGT) Actuat or: F ault Code 1894, 1897,
+2636, 2634, 2387, 6432, or 2449
+New 12 Volt Variable Geometry Turbocharger (VGT)
+Actuator: Fault Code 1894, 1897, 2636, 2634, 2387,
+6432, or 2449
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+B6.7 CM2350 B121B
+B6.7 CM2350 B135B
+B6.7 CM2350 B136C
+B6.7 CM2350 B148B St op-Star t Applications
+B6.7 CM2350 B157C
+B6.7 CM2450 B155B
+ISB6.7 CM2350 B101
+ISB6.7 CM2350 B103
+ISB6.7 CM2350 B142
+ISL9 CM2350 L101
+ISL9 CM2350 L111
+L9 CM2350 L116B
+L9 CM2350 L119B
+L9 CM2350 L120C
+L9 CM2350 L123B
+L9 CM2350 L129C
+L9 CM2350 L133C
+L9 CM2450 L126B
+QSB6.7 CM2350 B105
+QSB6.7 CM2350 B112
+QSB6.7 CM2350 B130
+QSB6.7 CM2350 B145
+X12 CM2350 X119B
+X12 CM2450 X137B
+X15 CM2350 X114B
+X15 CM2350 X116B
+X15 CM2450 X124B
+X15 CM2450 X134B
+Description of Change
+New 12-v olt v ariable geometr y turbochar ger ( VGT) actuat or ser vice kits a vailable for cer tain
+engines.
+Reason for Change
+New 12-v olt V GT actuat or ser vice kits a vailable on cer tain engines t o verify a vailability .
+Service Instructions
+See Table 1 for applicable ser vice kit, if needed.
+Corr ect setting of the turbochar ger sect or gear during installation is critical t o proper
+oper ation. See corr esponding Ser vice Manual. Ref erence Pr ocedur e 010-134 in Section 10.
+Actuat or par t number in kit can de viate fr om bill of material but is confirmed t o be backwar ds
+compatible.
+Service P arts Availability
+Service par ts ar e available. See Table 1 for par t numbers.
+Table 1, Ser vice P arts
+Part
+DescriptionExisting P art
+NumberObsolete SupersededNew P art
+NumberCertified
+Applications
+Turbochar ger
+Actuat or Kit5496045
+5496045RX
+6374773Yes Yes
+6476163
+6476163RX12-v olt L9
+Firetruck
+applications,
+Options
+PP90074,
+PP90084,
+PP91275,
+PP91283,
+only
+Table 1, Ser vice P arts
+Part
+DescriptionExisting P art
+NumberObsolete SupersededNew P art
+NumberCertified
+Applications
+6382091
+6382091RXAll
+remaini
+ng 12-
+volt ISL
+or L9
+Options
+Any
+ISB6.7
+or B6.7
+on-
+highwa
+y
+applica
+tions
+previou
+sly
+using
+Part
+Numbe
+r
+549604
+5
+B6.7
+off-
+highwa
+y,
+QSB6.7,
+or
+QSL9
+applica
+tions
+previou
+sly
+using
+part
+number
+549604
+5
+Document Hist oryTable 1, Ser vice P arts
+Part
+DescriptionExisting P art
+NumberObsolete SupersededNew P art
+NumberCertified
+Applications
+Turbochar ger
+Actuat or Kit5601240
+5601240N X
+6374774Yes Yes6382096
+6382096RXAny ISB6.7 or
+B6.7
+applications
+previously
+using P art
+Number
+5601240.
+Turbochar ger
+Actuat or Kit5501185
+5501185RXYes Yes6374772
+6374772RXX15 CM2350
+X114B
+6382093
+6382093RXX15
+CM245
+0
+X124B
+X15
+CM245
+0
+X134B
+X15
+CM235
+0
+X116B
+12-v olt
+X12
+CM235
+0
+X119B
+12-v olt
+X12
+CM245
+0
+X137B
+Part Inv entory Action
+Use existing par t number inv entory befor e using the new par t number .
+Last Modified:  28- Feb-2025Date Details
+2022-8-2Module Cr eated
+2022-9-8Updated Table 1 par ts.
+2022-9-12Updated Table 1.
+2022-11-1Updated Table 1.
+2022-11-29Updated Table 1.
+2024-2-6Updated Table 1.
+2024-2-21Updated Table 1.
+2024-8-28Updated Table 1.
+2025-1-21Added PP92095, PP92865 t o Table 1.
+2025-2-24Updated Table 1.

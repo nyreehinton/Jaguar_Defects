@@ -1,0 +1,192 @@
+The information contained in this bulletin is subject to change. For the latest version of this document, go to the
+Mitsubishi Dealer Link, MEDIC, or the Mitsubishi Service Information website (www.mitsubishitechinfo.com) .SUBJECT:
+NEW MODEL FEATURES & SERVICE 
+INFORMATION - 2025 OUTLANDER SPORTNo:TSB-25-00-004
+DATE: February 2025
+MODEL: 2025 Outlander Sport
+CIRCULATE TO : [  ] GENERAL MANAGER [ X ] PARTS MANAGER [ X ] TECHNICIAN
+[ X ] SERVICE ADVISOR [ X ] SERVICE MANAGER [ X ] WARRANTY PROCESSOR [ X ] SALES MANAGER
+PURPOSE
+AFFECTED VEHICLES 
+2025 Outlander Sport
+U.S. MODEL LINEUP
+MODEL ENGINE TRANSMISSION
+S (AWC)
+4B11 – 2.0L DOHC MIVEC 16V 4 cyl.
+CVTES (AWC)
+LE(AWC)
+4B12 – 2.4L DOHC MIVEC 16V 4 cyl.SE (AWC)
+SEL (AWC)This bulletin contains important model features, 
+carry -over features, service and option package 
+information for the 2025 Outlander Sport (U.S. 
+models only).  Review the details that follow to 
+familiarize yourself with this information.  Refer to 
+the 2025 Outlander Sport Service Manual on MEDIC, 
+MDL, or CD (p/n MSCD-017B-2025), and the Owner's 
+Manual for details on these and other features.  
+SERVICE INFORMATION
+See TSB-25-00-001 for 2025 Outlander Sport Technical Specifications.
+FOR 2025:
+•Standard AWC continues
+•Familiar trims carried over from 2024
+•8 colors available
+•Rear seat alert
+NOTE:  All information contained in this document is for Internal Training Purpose only.  If you are a customer viewing
+ this document please go to mitsubishicars.com for required disclaimers.
+Copyright 2025 Mitsubishi Motors North America, Inc .
+2/11/2025
+1 of 9
+(5458)
+OUTLANDER SPORT S FEATURES
+•All Wheel Control
+•16" Alloy Wheels
+•LED Headlights Low/High
+•LED Daytime Running Lights (DRL)
+•Heated Power Mirror
+•Single Zone Auto A/C
+•Forward Collision Mitigation
+•Lane Departure Warning
+•Active Stability Control
+•Remote Keyless Entry
+•Rain-sensing Wipers
+•Auto Light Control
+•Auto Dimming Rear Mirror
+•A
+uto High Beam
+•Re
+ar S
+eat
+ A
+lertFEATURES BY MODEL
+•18" Alloy Wheels
+•LED Fog Lights
+OUTLANDER SPORT LE FEATURES
+•18" Black Alloy Wheels
+•Black Side Mirrors
+•Black Grille
+•Red Stitching on Interior Shifter, Steering Wheel, Parking Brake and Seats
+•Leather Steering Wheel
+•Leather Shifter
+•Heated Front Seats
+•Leather Parking Brake
+•8" Display Audio with AA & CP SiriusXM w/3 Month Access & Voice Recognition
+•2 USB Ports
+•6 Speakers
+OUTLANDER SPORT ES FEATURES
+2/11/2025
+2 of 9
+(5458)
+OUTLANDER SPORT SE FEATURES
+•Power Folding Mirrors
+•Side Mirror Indicators
+•Illuminated Vanity Mirrors
+•Synthetic Leather Seats
+•FAST-Key
+•Blind Spot Warning
+•Rear Cross Traffic Alert
+OUTLANDER SPORT SEL FEATURES
+•2.4L MIVEC DOHC
+•Black Roof Ra ils
+•Genuine Leather
+•4-Way Power Driver Seat
+•Black Headliner
+•Drive Mode Selector
+•Auto Dimming Mirror with HomeLink
+•Blind Spot Warning
+•Rear Cross Traffic Alert
+2/11/2025
+3 of 9
+(5458)
+ENGINE
+The 2.0L MIVEC (Mitsubishi Innovative Valve-timing Electronic Control) engine balances  
+maximum HP of 148 with low fuel consumption for a smooth, efficient drive.  The SEL 
+model features even more power with a 2.4L version of the MIVEC.
+TRANSMISSION/DRIVE SYSTEM
+All models equipped with All Wheel Control (AWC) have 4WD control logic that protects 
+the drive-train  by suppressing heat generation of the electronic-control coupling and 
+provides extraordinary traction and stability in all driving conditions.
+CONVENIENCE/TECHNOLOGY
+8" Smartphone Link Display Audio system is a standard feature beginning with the LE 
+model.  
+Mitsubishi's advanced Smartphone Link Display Audio system works seamlessly with 
+Apple CarPlay while available Android Auto infuses convenience and enjoyment into 
+every drive.
+2/11/2025
+4 of 9
+(5458)
+Rear Seat Alert
+Rear seat alert is activated when there is potential for leaving an occupant in the rear seat 
+when the vehicle is placed in park.
+•System works based on the opening and closing of the rear door.
+•System will flash "Check Rear Seat" symbol along with an audible warning.
+INTERIOR
+Genuine Leather Seats are standard for the 2024 Outlander Sport SEL Trim:
+Automatic Climate Control
+Available automatic climate control lets driver and 
+passenger alike enjoy their personalized settings.
+2/11/2025
+5 of 9
+(5458)
+Active Stability Control (ASC)
+Active Stability Control applies braking force to all wheels as needed, utilizing the Anti-
+Lock Braking System, traction control, and skid control for
+ a reliable driving experience 
+in any environment.
+SAFETY FEATURES 
+7-Airbag System
+The Outlander Sport includes six standard airbags:  front, front-seat-mounted, and side-
+curtain airbags.  There is also a seventh airbag found
+ underneath the driver's side 
+instrument panel.
+Rain Sensing Wipers
+Rain Sensing Windshield Wipers activate at
+the first drop of rain and adjust to match the rainfall.
+RISE Body Construction
+Reinforced Impact Safety Evolution (RISE) technology helps to absorb and redirect 
+impacts in the event of a collision.  Strategically-placed high-tensile strength steel 
+assists in minimizing cabin deformation, maintains cabin integrity, and helps protect 
+passengers against side impacts.
+2/11/2025
+6 of 9
+(5458)
+Lane Departure Warning (LDW)
+LDW system regularly monitors your lane position and give audible and visual alerts if it 
+notices an unintentional lane departure.
+Automatic High Beam (AHB)
+AHB will automatically switch between high and low headlights to reduce glare for other 
+drivers if other vehicles ahead of you or in oncoming lanes are detected.
+SAFETY FEATURES (Continued)
+Forward Collision Mitigation (FCM) with Pedestrian Detection
+FCM detects likely frontal collisions and warns the driver with audible and visual alerts.  
+Brakes are applied to help avoid or reduce the severity of the collision.
+2/11/2025
+7 of 9
+(5458)
+EXTERIOR
+Paint
+Power Folding Side Mirrors
+Available automatic power folding side mirrors give extra breathing room in tight parking spots.
+Push to Start
+Say goodbye to the awkward keychain dangling from the steering 
+column.  Meet the available push-to-start feature.
+FAST-Key Entry System
+Available FAST-Key Entry system lets you lock and unlock with ease.  
+One push unlocks the driver door, while two pushes unlock the 
+others.
+2/11/2025
+8 of 9
+(5458)
+PORT PACKAGES (U .S. Models)
+WARRANTY
+U.S. and Puerto Rico Canada
+•Limited - 5 years or 60,000 miles •Limited - 5 years or 100,000 km
+•Powertrain Limited - 10 years or 100,000
+miles (original retail purchaser only).  5 years
+or 60,000 miles to subsequent owners.•Powertrain Limited - 10 years or 160,000 km
+•Rust Perforation - 7 years or 100,000 miles •Rust Perforation - 5 years with unlimited km
+•Adjustments - 1 year or 12,000 miles •Adjustments - 1 year or 20,000 km
+•Roadside Assistance - 5 years / unlimited
+miles•Roadside Assistance - 5 years/unlimited km
+2/11/2025
+9 of 9
+(5458)

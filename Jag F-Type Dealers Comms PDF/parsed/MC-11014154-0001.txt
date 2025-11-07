@@ -1,0 +1,171 @@
+GENERAL MOTORS  
+DCS 7141  
+URGENT - DISTRIBUTE IMMEDIATELY  
+ 
+Date:  February 11 , 2025 
+  
+Subject:  N242485100  - Service Update  
+ Chassis Wiring Harness Retainer  
+  
+Models:  2025 Cadillac LYRIQ  
+   
+  
+General Motors is releasing  Service Update N242485100  today .    
+What Should Dealers Do:  Dealers should review IVH  or the Dealer Maxis reports 
+for open VINs in their inventory.   Dealers can view the attached bulletin and it 
+will also be displayed in Service Information tomorrow .   
+A Stock VIN list is not included as our records show there are no vehicles in 
+dealer ne w inventory.  
+ 
+ 
+END OF MESSAGE  
+Service Update  
+N242485100  Chassis Wiring Harness Retainer   
+ 
+ Page 1 of 4 
+ 
+Release Date : February  2025 Revision : 00  
+Attention:  This service update include s vehicles in dealer inventory and customer vehicles that return to the 
+dealership for any reason. This bulletin will expire at the end of the involved vehicle’s New Vehicle Limited 
+Warranty period.  
+For EV Involved Vehicles: The repairs outlined in this bul letin must only be completed at an authorized 
+EV dealer and repairs must be performed by a technician who has successfully completed the 
+applicable  technical training required to perform this repair.   
+ 
+Make  Model  Model Year  
+From  To 
+Cadillac  LYRIQ  2025  2025  
+Investigate Vehicle History (IVH) in the GM Global Warranty Management system should always be checked to confirm 
+vehicle involvement prior to beginning any required inspections and/or repairs .   
+Condition  Certain vehicles listed above  may have a condition in whic h the chassis harness branch may contact  
+the rear half shaft boot on LH and RH side.  
+Correction  Dealers are to inspect and install chassis wiring harness retainers.  
+Parts  
+Quantity  Part Name  Part No.  
+2 Wiring Harness Retainer  with Offset  WPC889 * 
+*Parts required to complete this field action  are NOT to be obtained from General Motors Customer Care and Aftersales 
+(GMCC&A). The Wiring Harness Retainer s can be obtained from the Warranty Parts Center (WPC) using the TSP 
+Dealer Request Form located on Global Connect< Department - Service Department <Service Forms 
+Application<General Information tab< WPC - Temporary Service Part (TSP) Request Form . Instructions for submitting 
+are on the form. The part number is in the table above.  
+For Canadian English dealers: GlobalConnect>App Centre>Service Forms -Launch>112 – TSP Dealer Request Form 
+v1_EN  
+For Canadian French dealers: GlobalConnect>Centre des applications>Formulaires du service après -vente -
+Lancez>112 – TSP Dealer Request Form v1_FR  
+Please make sure to include the VIN as the WPC will be doing a VIN veri fication. It is estimated that there are only 78 
+involved vehicles that will require parts being replaced. If your VIN isn’t on this field action  then your order will be 
+cancelled.  
+For all other regions: Follow your local process to obtain the required parts.    
+It is estimated that approximately 1%  of involved vehicles will require rear wheel drive shaft  replacement  after 
+inspection .  Please order parts accordingly.  
+Note:  Use the VIN and the GM Electronic Parts Catalog (EPC) to determine which rear wheel driveshaft and additional 
+hardware to order  IF the inspection deems it necessary . 
+Warranty Information  
+Labor 
+Operation  Description  Labor 
+Time  Trans. 
+Type  Net 
+Item 
+9107757  Chassis Wiring Harness Retainer Replacement  
+ADD: Replace 1 Rear Wheel  Drive Shaft  (If Required)  
+ADD: Replace Additional Rear Wheel Drive Shaft  (If Required)  0.3 
+1.8 
+1.8 ZFAT  N/A 
+Service Procedure  
+1.  Raise and support the vehicle. Refer to Lifting and Jacking the Vehicle  in SI. 
+Service Update  
+N242485100 Chassis Wiring Harness Retainer   
+ 
+  Page 2 of 4 
+  
+6805565  
+Caution:  When removing the wiring harness retainer from the harness, use extreme care to not cut or damage the 
+harness.  
+2. Remove the w iring harness retainer  from the left side rear parking brake actuator harness and the rear of the 
+vehicle.  
+6805566  
+Note:  Right side shown, left side similar.  
+3. Install the NEW offset w iring harness retainer  on the harness. Ensure the offset is facing the rear of the vehicle, 
+pulling the harness away from the r ear wheel drive shaft as shown.  
+6805568  
+Note:  Ensure the offset is facing the rear of the vehicle, pulling the harness away from the rear wheel drive shaft as 
+shown. Failure to do so may result in damage to the harness  and/or the rear wheel drive shaft boot . 
+4. Push the offset w iring harness retainer  back into its housing. Ensure the offset is facing the rear of the vehicle, 
+pulling the harness away from the rear wheel drive shaft as shown . Trim the excess harness tie -down.  
+
+Service Update  
+N242485100 Chassis Wiring Harness Retainer   
+ 
+  Page 3 of 4 
+  
+6805565  
+Note:  Left side shown, right side similar.  
+Caution:  When removing the wiring harness retainer from the harness, use extreme care to not cut or damage the 
+harness.  
+5. Remove the wiring harness retainer from the right side rear parking brake actuator harness and the rear of the 
+vehicle . 
+6805566  
+6. Install the NEW  offset wiring harness retainer  on the harness. Ensure the offset is facing the rear of the vehicle, 
+pulling the harness away from the rear wheel drive shaft as shown . 
+6805570  
+Note: Ensure the offset is facing the rear of the vehicle, pulling the harness away from the rear wheel drive shaft as 
+shown. Failure to do so may result in damage to the harness  and/or the rear wheel drive shaft boot . 
+7. Push the offset wiring harness retainer back into its housing. Ensure the offset is facing the rear of the v ehicle, 
+pulling the harness away from the rear wheel drive shaft as shown . Trim the excess harness tie -down . 
+8. Inspect the RH rear wheel drive shaft boot for any signs of damage.  
+
+Service Update  
+N242485100 Chassis Wiring Harness Retainer   
+ 
+  Page 4 of 4 
+  
+• If the RH rear wheel drive shaft boot is not damaged, proceed to Step 10.  
+• If the RH rear wheel drive shaft boot is damaged, proceed to Step 9.  
+Note:  DO NOT replace the RH rear wheel drive shaft unless the above inspection deems it necessary.  
+Note : Use the VIN and the GM Electronic Parts Catalog (EPC) to determine which rear wheel driveshaft and additional 
+hardware to order.  
+9. Replace the RH rear wheel drive shaft. Refer to Rear Wheel Drive Shaft Replacement  in SI.  
+10. Inspect the LH rear wheel drive shaft boot for any signs of damage.  
+• If the LH rear wheel drive shaft boot is not damaged, no further action is required.  
+• If the LH Rear wheel drive shaft boot is damaged, proceed to Step 11.  
+Note:  DO NOT replace the LH rear wheel drive shaft unless the above inspection deems it necessary.  
+Note : Use the VIN and the GM Electronic Parts C atalog (EPC) to determine which rear wheel driveshaft and additional 
+hardware to order.  
+11. Replace the LH rear wheel drive shaft. Refer to Rear Wheel Drive Shaft Replacement  in SI.  
+ 
+Dealer Responsibility   
+Whenever a vehicle subject to this service update enters your vehicle inventory or is in your facility for service in the 
+future, and the vehicle is still covered under the New Vehicle Limited Warranty, you must take the steps necessary to be 
+sure the service update correction has been made before selling or releasing the vehicle.  
+All new, used, GM Certified Pre -Owned (CPO), courtesy transportation vehicles, dealer shuttle vehicles, CarBravo, etc. 
+in dealers' possession and subject to this field action  must be held and inspected/repaired per the ser vice procedure of 
+this bulletin before customers take possession of these vehicles. Involved vehicles must be held and not delivered to 
+customers, dealer -traded, released to auction, used for demonstration, or any other purpose.  
+All GM Certified Pre -Owned  (CPO) vehicles currently in the dealers’ inventory within the SHIFT Digital system will be 
+de-certified and must be held and remedied per the service procedure in this bulletin. Upon submitting an accepted/paid 
+warranty transaction in the Global Warranty Management (GWM) system, the vehicle can be re -certified for sale within 
+the SHIFT Digital system, or once again be used in the Courtesy Transportation Program.  
+Dealer Reports  – For USA & Export  
+The Inventory tab of the Open Vehicle Report will contain Service Update Bulletin VINs that apply to this field action.  
+This information is intended to assist dealers with the  PROMPT COMPLETION  of these vehicles.  The Customer In -
+Service tab will not contain Service Update Bulletin VIN data because the i ntent of a Service Update Bulletin is to not 
+inconvenience a customer with a special trip for service.  Service Update Bulletins are to be completed when the 
+customer is in for a regularly scheduled visit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GM bulletins are intended for use by professional technicians, NOT a " do-it-yourselfer ".  They are written to inform these technicians of 
+conditions that may occur on some vehicles, or to provide information that could assist in the proper service of a vehic le.  Properly trained 
+technicians have the tools, equipment, safety instructions, and know -how to do a job properly and safely.  If a condition is described, DO NOT  
+assume that the bulletin applies to your vehicle, or that your vehicle will have that condi tion.  See your dealer for information on whether your 
+vehicle may benefit from the information.    
+ We Support 
+Voluntary Technician 
+Certification  
+ 

@@ -1,0 +1,80 @@
+ 
+ 
+BULLETIN NOTES
+This bulletin supersedes the previously issued bulletin(s) listed below. The changes are noted in Red.
+Previous TSBs: Date(s) Issued:
+15-003/22 01/27/22
+ 
+APPLICABLE MODEL(S)/VINS  
+2019- 2023 Mazda3  (Japan built) with VINS lower than JM1BP******623995 (produced before May 24, 2023)  
+2019- 2023 Mazda3  (Mexico built) with VINS lower than 3MZBP******385904 (produced before September 12, 2023)  
+2020- 2023 CX-30 with VINS lower than 3MVDM******589484 (produced before September 2, 2023)  
+2022- 2024 MX-30 with VINS lower than JM1DR******200940 (produced before April 20, 2024)   
+ 
+DESCRIPTION
+Some vehicle may experience the i-ACTIVSENSE/ALH warning lights on and a system error messages may be found in 
+the center display as well.
+DTC U3000:04 (FSC) is stored in memory•
+DTC U3000:04 (FSC) - Forward sensing camera (FSC) internal malfunction•
+This may be caused by a hardware failure in an internal device of the FSC that results in the malfunction detection. To 
+eliminate this concern, the production process of the FSC has been modified.  
+Customers having this concern should have their vehicle repaired using the following repair procedure.   
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Replace the FSC with a modified one according to the instructions on MGSS.
+Mazda3 (FORWARD SENSING CAMERA (FSC) REMOVAL/INSTALLATION)•
+CX-30 (FORWARD SENSING CAMERA (FSC) REMOVAL/INSTALLATION)•
+MX-30 (FORWARD SENSING CAMERA (FSC) REMOVAL/INSTALLATION)•
+3. Verify the repair.
+Page 1 of
+3
+02/11/2025 10:15 AM tlawrenc
+ 
+ 
+PARTS INFORMATION
+[Mazda3 (Japan built) and MX-30]  The part number has not been changed for the modification. If the serial number (1) 
+on the label attached to the service part has a date of April 2021 or later, it is a modified part.
+4th letter of the serial number (Y)  
+   L: 2021, M: 2022  
+5th letter of the serial number (M)  
+   4: April, 5: May,...A: October,...
+ 
+If the obtained part has a part number with a later suffix (such as “BDGF-67-XCXP or later”, “DFR5-67-XCXK or later”, or 
+“BEST-67-XCXD or later”), it is a modified part. There is no need to check the serial number.  
+ 
+[Mazda3 (Mexico built) and CX-30]  The part number has not been changed for the modification. If the serial number (1) 
+on the label attached to the service part has a date of February 2021 or later, it is a modified part.
+4th letter of the serial number (Y)  
+   L: 2021, M: 2022  
+5th letter of the serial number (M)  
+   2: February, 3: March,... A: October,...
+ 
+[All vehicles]  
+Use VIN to lookup correct part number in GEPC.
+Parts Number Description Qty. Notes
+BDGF-67-XCXN Camera, Forward Sensing 1 Mazda3 (Mexico built) and CX-30
+DFR5-67-XCXJ Camera, Forward Sensing 1 Mazda3 (Japan built)
+BEST-67-XCXC Camera, Forward Sensing 1 MX-30
+ 
+Page 2 of
+3
+02/11/2025 10:15 AM tlawrenc
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 62
+Damage Code 9W
+Part Number Main Cause ****-67-XCX*
+Quantity 1
+Operation Number / Labor Hours:XXT88ARX / 0.4 Hrs. (Mazda3)  
+XXT88XRX / 0.5 Hrs. (CX-30 and MX-30)
+ 
+Page 3 of
+3
+02/11/2025 10:15 AM tlawrenc

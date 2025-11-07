@@ -1,0 +1,149 @@
+Less Info
+Countries:AUSTRALIA, BAHAMAS, BOLIVIA, BRAZIL,
+BELIZE, CANADA, CHILE, TAIWAN,
+COLOMBIA, COSTA RICA, DOMINICAN
+REPUBLIC, ECUADOR, EL SALVADOR, GUAM,
+GUATEMALA, GUYANA, HAITI, HONDURAS,
+JAMAICA, KOREA, SOUTH KOREA, MEXICO,
+ARUBA, NEW ZEALAND, NICARAGUA,
+PANAMA, PERU, PUERTO RICO, RUSSIA,
+SOUTH AFRICA, TRINIDAD AND TOBAGO,
+UNITED STATES, URUGUAY, VENEZUELA,
+CuraçaoDocument
+ID:IK0400125
+Availability:ISIS, IsSIR Revision:7
+Major
+System:BRAKES Created:7/2/2013
+Current
+Language:EnglishLast
+Modified:2/28/2025
+Other
+Languages:Español, Author:David
+Horner
+Viewed: 2135
+Hide Details Coding Information
+Copy Link Copy Relative Link Bookmark Add to Favorites Print Provide Feedback Helpful Not Helpful
+View My Bookmarks
+ 13
+ 1
+Title: Rear S Cam Tube/ Bracket Part Update
+Applies To: Prostar, CAT, LoneStar, Durastar, WorkStar,TranStar
+CHANGE LOG  
+Please refer to the change log text box below for recent changes to this article:
+ 
+02/26/2025 - Additional L T Part Numbers Added to Table
+02/10/2025 - Parts Table Update for L T Gusset Option
+04/05/2018 - Author Updated for Feedback Purposes
+07/02/2013 - Initial Article Release
+ 
+ 
+DESCRIPTION
+Part update for cast and stamped Rear S Cam Brackets. Revised parts will include an additional gusset for the rear wing
+bracket and/ or longer gussets and wrap-around weld on the flange side of the tube.  
+ 
+Parts information below is based of f the previous part number and crossed to the new number . If the part number for your VIN is
+not listed below  DO NOT  SUBSTITUTE   to the new numbers. Brackets are specific in length and clocking to each vehicle
+application.
+ 
+ 
+PARTS INFORMA TION
+ 
+ 
+             T ypical For Cast Spider (New)                                                                        T ypical for Stamped Spider  (New)
+ 
+         
+                                                            
+ 
+ 
+ 
+ 
+OLD Meritor Part NumberOLD Navistar Part
+NumberNEW Meritor Part NumberNEW Navistar Part
+Number
+G9 3299P6256 G9 3299Q6257 1698379C911698390C91 T68 3299P6256 T68 3299Q6257 2511737C91 2511738C91
+M5 3299P6256 M5 3299Q6257 2509758C912509760C91 T67 3299P6256 T67 3299Q6257 2511739C91 2511740C91
+M10 3299P6256M10 3299Q6257 2508938C912508941C91 T69 3299P6256 T69 3299Q6257 2511741C91 2511742C91
+F38 3299P6256F38 3299Q6257 2596616C912596618C91 U23 3299P6256 U23 3299Q6257 2512102C91 2512103C91
+M43 3299P6256 M43 3299Q6257 2585527C912585528C91 T50 3299P6256 T50 3299Q6257 2512124C91 2512075C91
+F89 3299P6256F89 3299Q6257 1698120C911698122C91 U21 3299P6256 U21 3299Q6257 2512122C91 2512123C91
+M22 3299P6256M22 3299Q6257 2509295C912509296C91 U20 3299P6256 U20 3299Q6257 2512118C91 2512119C91
+K88 3299P6256K88 3299Q6257 2505794C912505800C91 U24 3299P6256 U24 3299Q6257 2512120C91 2512121C91
+E82 3299P6256E82 3299Q6257 1694330C911694332C91 U25 3299P6256 U25 3299Q6257 2512076C91 2512077C91
+D11 3299P6256D11 3299Q6257 584922C91 584923C91 U26 3299P6256 U26 3299Q6257 2512078C91 2512079C91
+R45 3299P6256R45 3299Q6257 2611610C912611611C91 V85 3299P6256 V85 3299Q6257 N/A N/A
+P81 3299P6256P81 3299Q6257 2597625C912597627C91 U56 3299P6256 U56 3299Q6257 N/A N/A
+ 
+ 
+NOTE: On certain wide base axle applications the new SCAM  gusseted bracket will come into contact with the old
+support brackets. It will be necessary to order and relocate new s-cam Support bracket to the out board side of the U-
+bolt (Bolt closest the wheel).
+ 
+If replacing the passenger side (right side) s-cam bracket you will need a new s-cam support bracket part # 3668032C1
+If replacing the Driver Side (left side) s-cam bracket you will need a new s-cam support bracket part # 3668033C1
+ 
+ 
+ 
+Service Procedure
+             
+ 
+ 
+ 
+Figure #1: Cam T ube
+1. U-bolt
+2. Exhaust pipe clamp
+3. Washer (U-bolt)
+4. Nut (U-bolt)
+5. Cam tube support bracket
+6. Nut and washer
+ 
+1. Remove and discard the old support bracket
+2. Remove Out Board U-Bolt Nut
+3. To ensure proper installation of the cam tube support bracket, perform the following:
+   a. Slide the new cam tube support bracket (Figure 1, Item 5) over the outboard U-bolt (Figure 1, Item1)
+   b. Position the exhaust pipe clamp (Figure 2, Item 2) on the cam tube support bracket (Figure 2, Item 5) and through cam tube
+support bracket slots with two washers and nuts
+    (Figure 2, Item 1) hand tight.
+   c. Ensure the cam tube support bracket (Figure 2, Item 5) is contacting the cam tube (Figure 2, Item 3) and is sitting flush
+against the rear U-bolt spring plate (Figure 2, Item 4).
+   d. Using a torque wrench, tighten two nuts (Figure 2, Item 1) to 60 - 72 lb-in (6.8 - 8.1 N•m).
+ 
+ 
+Figure # 2: Support Bracket
+1. Nut and washer
+2. Exhaust pipe clamp
+3. Cam tube
+4. Rear U-bolt spring plate
+5. Cam tube support bracket
+ 
+ Note: If you loosen one u bolt it is necessary to re-torque all bolts in that set.
+4. Install the washer U-bolt using a torque wrench, and tighten the nut  to 200 lb-ft (271 N•m)
+5. Using a torque wrench, re-tighten four bolts in a diagonal pattern to 300 lb-ft (405 N•m)
+6. Using a torque wrench, re-tighten four bolts in a diagonal pattern to a final torque of 375 lb-ft (508 N•m)
+7. If torque is not achieved, replace the U-bolt.
+ 
+ 
+ 
+Refer to the Meritor Cam Brake maintenance manual for removal and installation instructions on S-CAM brackets
+ 
+ 
+ 
+Hide Details Feedback Information
+Viewed: 2134
+Helpful: 13
+Not Helpful:1
+No Feedback Found 
+ 
+ 
+  
+WARRANTY  INFORMA TION  
+Warranty Claim Coding:
+Refer to the Warranty Coding Manual for Group and Noun Codes.
+ 
+ 
+Standard Repair Time(s):
+Refer to the SRT Manual for Repair Times
+ 
+OTHER RESOURCES
+Master Service Information Site
+ 
+Copyright © 2025 Navistar, Inc.

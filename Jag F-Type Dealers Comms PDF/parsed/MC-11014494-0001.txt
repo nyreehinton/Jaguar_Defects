@@ -1,0 +1,275 @@
+ 
+Service BulletinAlexander Dennis 
+Dennis Way, Guildford, 
+Surrey, GU1 1AF. 
+After Market Support Line: 
+0845 358 9988 (U.K.) 
++44 (0) 1483 571271 
+ 
+ 
+  
+ 
+  
+Service Manual Heading: Braking System 
+Models Affected:  Title: No: 
+Enviro 500 
+North America Only  
+Spring Brake Chamber Breather 870 
+Date: May 2014 
+ 
+Page: 1 of 2  
+Introduction 
+ 
+This bulletin has been issued to inform customers of the availability of an actuator by-pass 
+breather kit for Wabco Spring Brake Chambers. Part Numbers 441331 & 440675. These 
+chambers were used on chassis number 1829 onwards and also buses originally fitted with MGM actuators but converted as per Service Bulletin 763-2.  In the event that air systems are not fully charged before attempting to move off the spring brakes may remain lightly applied. The kit has been released to reduce the likelihood of 
+this, and prevent the brake from binding when v ehicles are first driven each day. It will also 
+add a level of protection in the event of internal leakage of spring brake which is too slight to be detected during normal maintenance checks. 
+ 
+Kit Details 
+ 
+The kit is listed under ADL Part Number 660883-2. Check availability with your local 
+Parts Centre. 
+ 
+ 
+ENSURE THAT AIR PRESSURE IS EXHAUSTED FROM THE BRAKE SYSTEM 
+BEFORE ATTEMPTING TO FIT BREATHER KIT. THE WORK MUST BE CARRIED OUT BY QUALIFIED WORKSHOP PERSONNEL. 
+ 
+ 
+Instructions 
+ 
+Refer to fig 1. 
+ 
+1. Remove all dirt deposits on the brake chamber in the area where breather is to be fitted. 2. Remove and discard the plug (item 1) from rear of chamber. 
+3. Assembly washer (item 3) onto adapter (item 2). 
+4. Screw assembled adapter into hole where plug was removed from. Tighten to 7 
+± 1 Nm. 
+5. Push breather pipe (item 5) secured with clip (item4) onto adapter (item 3). 
+6. Secure breather in place on side of chamber using strap (item 6). Tighten to 0.5 ± 0.1 Nm 
+7. Fit breather to other spring brake chamber following instructions. 
+8. Charge air brake system and check brake f unction correctly before returning vehicle to 
+service. 
+ 
+Last Bus Bulletin Issued:  843-5 
+ 
+Service Manual Heading: Braking System 
+Models Affected:  Title: No: 
+Enviro 500 
+North America Only  
+Spring Brake Chamber Breather 870 
+Date: May 2014 
+ 
+Page: 2 of 2  
+ 
+ 
+ 
+ 
+Fig 1. Breather Kit 
+   
+ 
+Fig 2. Fitted Breather in Position 
+ 
+ 
+  
+ 
+Service BulletinAlexander Dennis 
+Dennis Way, Guildford, 
+Surrey, GU1 1AF. After Market Support Line: 
+0845 358 9988 (U.K.) +44 (0) 1483 571271 
+ 
+ 
+  
+ 
+  
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D.  N. America Only 763-2 
+Date:       Mar 2007 
+Page: 1/9 Replacement Brake 
+Actuator  
+This bulletin has been re-issued to inform oper ators that MGM type br ake actuators are no 
+longer available. If a vehicle fitted with MGM type actuators r equires a replacement 
+actuator, then kit no SL2099 must be used. Check with Alexander Dennis Parts for 
+availability. Trident 3’s are not affected as stated on previous Service Bulletin 763. 
+ The kit facilitates the fitting of Wabco 30/30 type actuators in place of the previous MGM 
+units. The kit contains all necessary parts to  install the Wabco act uators on both the drive 
+and auxiliary axle.  Important Note:  MGM and Wabco actuators must not be mixed on a vehicle and it is 
+essential that if an original  MGM actuator is being replaced with a Wabco unit, all 4 
+actuators on drive and auxiliary axles are changed and that the modifi cations are carried 
+out to the air brake system to maintain vehicle road legality. 
+ 
+SL2099 Content 
+ 
+Item Part Number Qty Description Fitting Position 
+1 439953 4 Packer Suspension Under air spring piston 
+2 MCB-112-65P 4 Bolt M12 x 65 Suspension piston to beam 
+3 WMC-16P 8 Washer Spring M 16 Actuator mounting studs 
+4 661080 2 Adaptor Elbow M/F M22 In quick release valve 
+5 440676 1 Mount Actuator  LH Drive axle RH 
+6 440677 1 Mount Actuator  RH Drive axle LH 
+7 MFN-216P 4 Half Nut M16 Actuator pushrods 
+8 654923-1 1 Tee Piece In place of bracketed tee 
+9 657240 1 Elbow 90 deg M/F Port In quick release valve 
+10 658400-4 1 Connector Straight In end of ABS DC Valve 
+11 609873 6 Tube 3/8 Nylon Yellow Between DC valve & QRV 
+12 441331 2 Actuator Drive axle 
+13 440675 2 Actuator Tag axle 
+14 442163 2 Plate ABS Valve Moves valve down 
+15 MCS-108-25P 8 Setscrew M8 x 25 Plate to frame 
+16 MCN-508P 8 Nut Self Locking Plate to frame 
+17 654931 2 Adaptor M22 / M16 In ABS valve 
+18 661052 2 Quick Release Valve Connected to ABS valve 
+19 612747 2 Plug M16 In QRV port 
+20 659280 2 Silencer Air System On QRV’s  
+Last Bus Bulletin Issued:   766  
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date: Mar 2007 
+Page: 2/9 Replacement Brake 
+Actuator   
+Instructions 
+1. Ensure that the all appropriate safety measures are observed while working on the 
+vehicle &  ensure that adequate height is available before raising the vehicle and 
+supporting the vehicle on stands. Ensure that all air pressure is exhausted from 
+brake and suspension system before commencing work. 
+ 2. While supporting the drive axle, slack en and remove the air suspension spring lower 
+mounting bolts. Insert the Packer (item 1) between the suspension plate and the air 
+spring suspension piston. Secure in  position using bolts (item 2).  
+ 
+ 
+ 
+ 
+3. Disconnect air line connections at rear ac tuators. Remove clevis pin from actuating 
+arms. Slacken and remove actuator m ounting nuts and remove actuators from 
+mounting brackets. On the drive axle only remove the actuator mounting brackets. 
+ 
+4. Mount new actuator m ounting brackets (item 5) left hand and (item 6) right hand 
+onto the drive axle. 
+ 
+5. Loosen outer locknut on slack adjuster cont rol arm brackets (View A). Ensure that a 
+second spanner is used to hold the inner locknut  in position. It is vital that no side 
+loading is placed on the arm. Repeat this  operation for slack adjusters on Tag and 
+drive axles. 
+  
+ 
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2 
+Date: Mar 2007 
+Page: 3/9 Replacement Brake 
+Actuator   
+ 
+6. Fit a half nut (item 7) to the actuator pushrod, then fit clevis and adjust so that rod 
+end is approximately level with the inside fa ce of the clevis. This should give a 
+dimension of 76mm from the ce ntre of the clevis mounti ng hole to the mounting face 
+of the actuator. (View B). Tight en half nut to lock clevis in this position.  Repeat this 
+operation for all replacement actuators. 
+  
+ 
+ 
+ 
+7. Bolt the actuator to t he mounting bracket. (Item 12) dr ive axle, (item 11) tag axle. 
+Ensure that the yoke hole is centred on t he slack adjuster hole.  If not, the position 
+of the slack adjuster should be altered by turning the adjuster hex one or two clicks 
+until the holes coincide. 
+   A 
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date: Mar 2007 
+Page: 4/9 Replacement Brake 
+ Actuator   
+8. When the hole is correctly aligned a ssemble as shown in (View C). Repeat 
+operation for remaining actuators. 
+  
+ 
+ 
+ 
+  
+9. After tightening clevis pin nut secure with split pin. Push the control arm bracket as 
+far downwards as possible before retightening  the outer locknut. Hold inner locknut 
+with a spanner to prevent t wisting of the control arm. 
+ 
+ 
+10. Remove air fittings shown in Air Brak e System - Before modification diagram. 
+Relocate Quick release valve to under stairs  outrigger position.  Fit items (8 Tee),  
+(9 Elbow) and (10 Connector) as shown in th e Air Brake System - After modification 
+diagram and pipe as shown in diagram. 
+  
+The new actuators are internal breathing act uators, the clear breat her tube from the old 
+actuators that was connected to  the Quick Release Valve shou ld be removed. Cut a short 
+length of this breather pipe and us e it to connect the QRV breathe r stubs together in a loop to 
+prevent the ingress of di rt into the valve.  
+Service Manual Heading: Braking 
+Models Affected: Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date: Mar 2007 
+Page: 5/9 Replacement Brake 
+Actuator   
+ 
+ 
+  QUICK RELEASE VALVE POSITION, SEE PHOTO. 
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date:       Mar 2007 
+Page: 6/9 Replacement Brake 
+ Actuator  
+ 
+      
+ 
+ 
+Relocate Quick Release Valve to  under stairs outrigger position. 
+ 
+ 
+         
+ 
+Service Manual Heading: Braking 
+Models Affected:  Title: 
+ No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date: Mar 2007 
+Page: 7/9 Replacement Brake 
+ Actuator   
+ 
+ 
+   
+Air Brake System - Before Modification 
+        
+ 
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date:       Mar 2007 
+Page: 8/9 Replacement Brake 
+ Actuator  
+ 
+    
+ 
+ 
+   
+Air Brake System - After Modification 
+     
+Service Manual Heading: Braking 
+Models Affected:  Title: No: 
+Enviro 500 
+L.H.D. N. America Only 763-2  
+Date: Mar 2007 
+Page: 9/9 Replacement Brake  
+Actuator  
+11. Fit components from the kit in the posit ions shown in the diagram below. After 
+completion ensure all connections are se cure. Charge air system to operating 
+pressure, with vehicle stationar y, operate the brakes ensure t hat no leaks are present. 
+ 
+ 
+ 
+ 

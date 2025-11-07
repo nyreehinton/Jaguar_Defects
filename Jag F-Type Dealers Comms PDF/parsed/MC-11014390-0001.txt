@@ -1,0 +1,54 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-077
+Service BulletinDate: February, 2025
+INFORMATION
+Front License Plate Bracket Installation
+ 
+Brand: Model: Model Year: VIN: Engine: Transmission:
+from to from to
+GMC Sierra EV 2024 2026 - - All All
+ 
+Involved Region or Country North America
+Condition During PDI it may be necessary to install the front license plate bracket.
+Correction Use the below procedure to install the front license plate bracket.Subject:
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+Important: This technical service bulletin (TSB) can only be completed by certified repair facilities who have met all
+specific training, tool and equipment requirements pertaining to the vehicle Brand and Model serviced. Repairs must
+be performed by a technician who has successfully completed the required training.
+ 
+Service Procedure
+1. Locate the front license plate bracket and rivets from the dealer pack that came with the vehicle.
+Page 2 February, 2025 Bulletin No.: 24-NA-077
+6619261
+2. Align the front license plate bracket on the front fascia surface where the license plate will be installed. The
+license plate bracket should be centered on the front fascia.
+6619262
+3. The front license plate bracket should sit flush to the contours of the front fascia.
+Bulletin No.: 24-NA-077 February, 2025 Page 3
+6619263
+4. Mark each of the 4 mounting locations.
+5. Remove the license plate bracket and set aside temporarily.
+6. Using a 3/16” (5.0mm) drill bit, drill holes through the front fascia in each of the 4 marked mounting locations.
+6619264
+7. Reposition the front license plate bracket in place over the 4 mounting holes and install the 4 rivets included,
+firmly securing the front license plate bracket in place to the front fascia.
+ 
+Warranty Information
+The labor time for installing the front license plate is included in the PDI time.
+ 
+Page 4 February, 2025 Bulletin No.: 24-NA-077
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONVersion 3
+Modified Released April 19, 2024
+Revised September 17, 2024 – Added 2025 Model Year.
+Revised February 11, 2025 – Added 2026 Model Year.

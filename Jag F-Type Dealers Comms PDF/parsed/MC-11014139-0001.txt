@@ -1,0 +1,208 @@
+ 
+Warranty Extension Z05G: High Pressure Fuel Pump Replacement  – Retailer Notification   
+February  04, 2025 
+ 
+Updates  to this  Document           Date  
+• Technical Service Bulletin (TSB) 25-FL-002 G published     02/04/202 5 
+ 
+Warranty Extension  Description:  
+Certain 2019 -2023MY G70 (IK) vehicles are equipped with high pressure fuel pump (HPFP) assemblies that have 
+fuel control valves (FCV) that could allow excess fuel to enter the fuel pump due to gradual wear of the FCV 
+plunger. An air/fuel mixture that runs too “rich” may result in a reduction or loss of motive power at low speeds. 
+The vehicle will also have Diagnostic Trouble Code (DTC) P0088.  
+ 
+Genesis is extending warranty coverage for the HPFP under this condition to 15 years or 150,000 miles from the 
+date of original retail delivery or date of first use (whichever occurs first) and is valid for original and subsequent 
+owners.  
+ 
+Affected Vehicles:  
+• 2019 -2023MY G70 (IK) with Theta 2.0T engine produced from 02/01/2018 - 10/16/2023  
+ 
+Inspection /Repair  Process:  
+Follow the service procedure outlined in TSB 2 5-FL-002 G (or latest version) to inspect for Diagnostic Trouble Code 
+(DTC) P0088/P008800 (Fuel Rail/System Pressure Too High), verify  that recall 023G  has been  previously  
+performed , and replace the high -pressure fuel pump.  
+• Recommended Service Technician Training Level:  Genesis  Expert (or higher)  
+• Recommended Classes Completed:  None  
+ 
+Recommended  Alternative  Transportation  
+A Service Valet or CVP 4.0 vehicle may be required based on the repair procedure duration/wait and any other 
+additional work on the vehicle that may need to be addressed during the guest’s visit.  
+❖ A Courtesy Vehicle Program (CVP) 4.0 vehicle or Service Valet is expected to be provided to guests.  
+a. Please note that Service Valet is available to the original/subsequent owner for 3 years/36,000 
+miles ONLY.  
+b. A CVP 4.0 Vehicle can be offered with opportunity for Daily Reimbursement (Please refer to CVP 
+4.0 Warranty/Campaign Rental Guidelines).  
+ 
+Other Notes/Recommendations  
+• If a guest arrives to the retailer  with no appointment scheduled, it is recommended for the retailer  to offer 
+alternative transportation to the retailer while the vehicle is being inspected.  
+• Always inquire if the guest will have time for an additional service to be performed if they were originally 
+scheduled for a different service.  
+• Offer CVP assistance for customers who may be pressed on time.  
+• Be honest with guests on wait times.  
+• If the service is taking longer than expected, update the guest.  
+ 
+Warranty Information  
+Please note that this is an extended  warranty.  
+ 
+• If the affected parts are within the extended perio d of 15 years/150,000 miles, submit as a campaign claim 
+type. Do not submit as warranty.  
+• Per TSB 25 -FL-002 G (or latest version), this warranty extension pays the following:  
+o Labor:  
+▪ 1.8 M/H for DTC P0088 Inspection and HPFP Replacement  
+o Parts:  
+▪ High Pressure Fuel Pump (QTY: 1)  
+▪ Pink Antifreeze : (QTY: 2 qu arts under part number 00232 -19098WAR ) 
+ 
+Parts Information  
+• Please refer to TSB 2 5-01-002 G (or latest version) for the latest parts information.  
+o Part Number 35399 -2C333QQH (High Pressure Fuel Pump)  
+▪ On VIN restriction – will require a valid Warranty Ext ension VIN to be ordered  
+▪ Order the kit and not the individual parts listed in TSB.  
+o Order the coolant as needed (under part number 00232 -19098 ) 
+ 
+Special Service Tools (SST) Information:  
+• Torque Wrench Socket  
+o Part Number 09314 -3Q100  
+▪ All retailers  received part previously as part of dealer’s essential tool kit.  
+▪ Additional tools can be ordered through Snap-on at 1 -855-763-6630  or be ordered through 
+Snap -On at 1 -855-763-6630 or https://genesisessentialtools.com / ; contact 
+genesis tools@hmausa.com  if further assistance is required . 
+ 
+ 
+Guest  Talk Tracks  
+For Genesis guests inquiring about the warranty extension prior to service/inspection:  
+“Yes,  certain 2019 -2023MY G70 (IK) vehicles are equipped with high pressure fuel pump (HPFP) 
+assemblies that have fuel control valves (FCV) that could allow excess fuel to enter the fuel pump due to 
+gradual wear of the FCV plunger. An air/fuel mixture that runs t oo “rich” may result in a reduction or loss 
+of motive power at low speeds. The vehicle will also have Diagnostic Trouble Code (DTC) P0088 .” 
+ 
+“Genesis is extending warranty coverage for the HPFP under this condition to 15 years or 150,000 miles 
+from the date of original retail delivery or date of first use (whichever occurs first) and is valid for original 
+and subsequent owners. ” 
+ 
+For Genesis  guests  with applicable problems related to the condition :  
+“If your vehicle experiences any concern(s) related to the high pressure fuel pump  such a  malfunction 
+indicator lamp (MIL) illuminated  and/or  loss of motive power at low speeds , please reach out to your 
+nearest Genesis retailer for assistance and to schedule an appointment.”  
+
+ 
+Retail Notification  Checklist  
+ 
+Reservation:   
+Did you check WebDCS for additional campaigns?  
+ Yes 
+ No - Please ensure all open campaign(s)/recall(s) are identified and completed by the retailer . 
+Also ask guest if he/she would like to have any of the previous declined services performed.  
+ 
+Readiness:  Are the required special service tools/GDS tools  available to perform the repairs ? 
+ Yes 
+ No 
+ 
+Reception:  Did the guest provide authorization to perform repairs?  
+ Yes 
+ No - Guest must be consulted and provide approval before proceeding with any repairs on their 
+vehicle.  
+ 
+Did you explain to the guest  the expected repair time based on the repair and set the expectation for a 
+status update?  
+ Yes 
+ No – Guest  should be given an estimated time of when his/her vehicle is completed so the 
+customer can plan the rest of their day away from the retailer.  
+ 
+Did you offer the guest  Alternative Transportation if requested?  
+ Yes 
+ No – Guest should be given an estimated time of when his/her vehicle is completed so the 
+customer can plan the rest of their day away from the retailer.  
+ 
+Repair:  Does the Technician meet the recommended training requirements (Expert level or above) to 
+complete this warranty extension?  
+ Yes 
+ No – Please ensure a technician with an Expert level (or higher) completes this repair.  
+ 
+Return: Did you get the guest’s signature on all warranty lines in addition to the final RO?  
+ Yes 
+ No – Customer must sign the final invoice upon retailer’s  delivery of the vehicle back to the 
+customer.  
+ 
+Customer  FAQ:  
+Q1: What  is the issue?  
+A1: Certain 2019 -2023MY G70 (IK) vehicles are equipped with high pressure fuel pump (HPFP) assemblies that 
+have fuel control valves (FCV) that could allow excess fuel to enter the fuel pump due to gradual wear of the FCV 
+plunger. An air/fuel mixture that runs too “rich” may result in a re duction or loss of motive power at low speeds.  
+ 
+Q2: What  are the affected  vehicles?  
+A2: Affected vehicles include c ertain 2019 -2023MY  G70 (IK) equipped with Theta 2.0T engine produced from 
+05/02/2018 – 10/16/2023 . 
+ 
+Q3: What  will be done  if the vehicle comes in and  vehicle is eligible fo r the warranty ext ension ? 
+
+ 
+A3: In the event of a DTC P0088 present  and r elated recall was confirme d complet ed earlier , the high -pressure 
+fuel pump will  be replaced. Th e replacement of the high pressure fuel pump  will be offered at no cost  to guests 
+for all affected vehicles if the condition (s) covered by the warranty extension are confirmed .  
+   
+Q4: When  will owners  be notified?  
+A4: Owners of the subject vehicles will be notified via First Class Mail  in March  2025 . 
+ 
+Contact  Reference:  
+Please  see the following  page  for commonly  referred  to contacts.  
+Thank you for your prompt attention to this  matter  and continued commitment to our Genesis guests.  
+  
+ 
+Key  Contact  Information  
+Retailer  Support  Contact  Information  Description  
+Parts  1-844-436-6455  
+www.GenesisDealerUSA.com  
+Parts  > Mobis  Parts  Portal  Parts  ordering  hotline  for retailers  
+Techline  1‐800‐325‐6604  Vehicle  Technical  Support  for Genesis  
+Warranty  HELP  Line  1‐877‐446‐2922  
+warranty@gma.com  Warranty  Claim  questions  for Genesis 
+Retailers  
+Warranty  Prior  Approval  (PA) 
+Center  1‐844 -371-3808  
+pa@gma.com  Warranty  Prior  Approval  (PA)  Center  for 
+Genesis  Retailers  
+Service  Lane  Technology 
+(SLT)  
+Xtime  / AutoLoop  / 
+CDK  Support@xtime.com  / 1-866-984- 
+6355  
+support@autoloop.com  / 1-877-850- 
+2010  Assistance  with  SLT Appointment:  
+• Appointment / Shop  Capacity 
+Management /  Campaign Integration  
+/ Operation  Codes  
+Customer  Support  Contact  Information  Description  
+Genesis  Customer  Care  1‐844‐340‐9741  
+customercare@genesis  
+motorsusa.com  For Genesis Customer Care, 
+Connected  Services  and Roadside 
+Assistance  
+Genesis  Recall  /Campaign 
+Website  www.genesis.com/us/recall  Updated  information  for customers  
+related to recall and service campaigns  
+Genesis  Roadside  Assistance  1-844-340-9742  Genesis  Roadside  Assistance  
+Key  Reference  Information  
+Name  Source  
+Service  Valet  Appointment  Scheduling  www.GenesisdealerUSA.com  > Resources  > Document  Library  > 
+Services  > Service  Valet  > Xtime  Service  Valet  Settings  Guide  
+Car Care  Scheduling  (Xtime)  - Recall 
+Appointment  Notification  1. Log into Xtime  
+2. Under  the menu  at the top left, select  ‘CONFIGURE’  
+3. Under  the dealership  tab, click  “EMAIL  COMMUNICATION”  
+4. Slide  the toggle  to “ADVANCED”  
+5. Populate  as many  e-mails  as desired  in the “PARTS  DESK  
+Parts  – Campaign  Parts  Management 
+(CPM)  Procedure  As applicable;  www.GenesisdealerUSA.com  > Resources  > 
+Documents  Library  > Parts  > Campaign  Parts  Management  
+Courtesy  Vehicle  (CVP)  Program  www.GenesisdealerUSA.com  > Service  tab > CVP  Fleet  Management  
+Technical  Service  Bulletin  (TSB)  www.GenesisdealerUSA.com  > Service  tab > Tech  Info 
+Uncompleted  Campaign  VIN Listing  A listing  of vehicles  is located  on WEBDCS>  SERVICE  tab>  select 
+UNCOMPLETED  CAMPAIGN  VIN LISTING  
+– Dealer  Stock  (New,  SRC,  CPO,  etc.)  and Retailed.  
+Recall  /Campaign  Website  www.genesis.com/us/recall  
+NHTSA  Website  www.safercar.gov  
+ 
+ 

@@ -1,0 +1,49 @@
+SERVICEBULLETIN
+2025-01-07 M1664
+M1664:X350,X350RAANDX500-DIAGNOSTIC CODES ANDABSSERVICING
+Reason forRevision
+RefertoTable1.
+Table1.Document History
+Revision (Rev)Description Rev Date
+Initialrelease - 2025-01-07
+Purpose forService Bulletin
+Thisbulletinadvisesdealertechnicians onthecorrectprocedure
+toaccessdiagnostic troublecodesfromtheElectronic Control
+Module(ECM)andwhenperforming Anti-lock BrakingSystem
+(ABS)service. Thisprocedure isnotcurrently intheservice
+manualbutwillbeupdated inthefuture.
+NOTE
+TheXSeriesofvehicles doesnotuseHarley-Davidson Digital
+Technician II(DTII).
+Required DealerAction
+Table2.Required DealerAction
+Required Description Category
+MustPerform Repair 1
+RepairIfPresenting Symptom 2
+FeaturePack-
+Customer/Dealer Paid3
+Informational Purposes Only 4
+1.ReadCurrentorHistoricTroubleCodes:
+a.Connect Electronic FuelInjection (EFI)Diagnostic
+Tool(PartNo.HDF02070715516) toDataLink
+Connector (DLC).
+2.Perform ABSServiceProcedure:
+a.Connect EFIDiagnostic Tool(PartNo.
+HDF02070715516) toABSconnector .
+3.Set:IgnitioninONposition. Seeowner'smanual.
+4.Set:Run/Stop switchinRUNposition. Seeowner'smanual.VehiclesAffected
+2023-2024: X350,X350RAandX500
+Markets Affected
+UnitedStates,Japan,China,Australia
+ToolPartNumber
+RefertoTable3.
+Table3.PartNumbers
+ItemDescription PartNo.
+EFIDiagnostic Tool HDF02070715516
+NOTE
+Intheinterestofpreserving customer safetyandsatisfaction, alwayscheckforoutstanding recallswhenever anymotorcycle isbroughtintoyourdealership foreithermaintenance orservice.
+RETURN THISTO TECHNICIAN NO.3 TECHNICIAN NO.2 TECHNICIAN NO.1 LEADTECHNICIANWARRANTY
+PROCESS
+MANAGERPARTSMANAGER SALESMANAGERSERVICE
+MANAGERROUTING
+INITIAL HERE

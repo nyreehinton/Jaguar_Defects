@@ -1,0 +1,146 @@
+   
+TECHNICAL SERVICE BULLETIN
+Loss Of Engine Coolant25-2063
+27 February
+2025
+This bulletin supersedes 25-2016. Reason for update: revised Parts List and Service Procedure
+Model:
+Ford
+2021-2024 Bronco SportEngine: 1.5L EcoBoost
+Markets: North American markets only
+Issue: Some of the vehicles listed in the Model statement above may exhibit a loss of engine coolant from a leak at
+the coolant pump. This may be due to contamination in the engine's cooling system.
+Action: For vehicles that meet all of the criteria in the Issue and Model statements, follow the Service Procedure to
+flush the engine cooling system and replace the coolant pump.
+NOTE: The water pump pulley bolts are reused in this repair if there is no damage to the bolts identified. This
+may differ from current WSM direction.
+Parts
+Service
+Part
+NumberClaim
+QuantityPackage
+Order
+QuantityNumber in
+PackageDescription Note
+DS7Z-
+19B596-A1 Kit 1 Kit 1 Kit
+Air Conditioning O-RingKit contains 2 each of
+1/2 inch, 5/8 inch, 8
+mm (6 total pieces)
+DL3Z-
+19B596-B1 1 1 Air Conditioning O-Ring / Gasket
+Kit (Compressor Inlet Line)
+HX7Z-8501-
+B1 1 1Coolant Pump
+VC-13DL-G As
+NeededAs Needed Motorcraft® Yellow Prediluted
+Antifreeze/Coolant (All Markets
+Except Canada)
+CVC-13DL-
+GAs
+NeededAs Needed Motorcraft® Yellow Prediluted
+Antifreeze/Coolant (Canada Only)
+VC-1 As
+NeededAs Needed Motorcraft® Premium Cooling
+System Flush
+YN-35 As
+NeededAs Needed Motorcraft® R-1234yf Refrigerant
+PAG Oil
+YN-12-D As
+NeededAs Needed Motorcraft® PAG Refrigerant
+Compressor OilR-134a
+YN-33-A As
+NeededAs Needed R-1234yf Refrigerant (All Markets
+Except Canada)
+HS7Z-
+19B519-BAAs
+NeededAs Needed R-1234yf Refrigerant (Canada
+Only)
+YN-19 As
+NeededAs Needed Motorcraft® R-134a Refrigerant
+(All Markets Except Canada and
+Mexico)
+CYN-19-RB As
+NeededAs NeededR-134a Refrigerant (Canada Only)
+MYN-19 As
+NeededAs Needed Motorcraft® R-134a Refrigerant
+(Mexico Only)
+Claim Quantity refers to the total number of individual pieces required to repair the vehicle.
+Package Order Quantity refers to the amount of the service part number package(s) required to repair the vehicle.
+Number In Package refers to the number of individual pieces included in a service part number package.
+As Needed indicates the part is necessary but amount of the part may vary and/or is not a whole number. Parts can
+be billed out as non-whole numbers, including less than 1.
+Service part numbers and "number in package" quantity may change after publication, thus also affecting the
+"package order quantity". Refer to the parts catalog for the latest information.
+Warranty Status: Eligible under provisions of New Vehicle Limited Warranty (NVLW)/Service Part Warranty
+(SPW)/Service Part New Vehicle (SPNV)/Extended Service Plan (ESP) coverage. Limits/policies/prior approvals are
+not altered by a TSB. NVLW/SPW/SPNV/ESP coverage limits are determined by the identified causal part and
+verified using the OASIS part coverage tool.
+Labor Times
+DescriptionOperation
+No.Time
+2021-2024 Bronco Sport 1.5L EcoBoost: Pressure Test Engine Cooling System To Verify Leak
+(Fail) Flush Engine Cooling System And Replace The Coolant Pump Following The Service
+Procedure (Do Not Use With Any Other Labor Operations)252063A 3.1
+Hrs.
+Repair/Claim Coding
+Causal Part: 8501
+Condition Code:D8
+Service Procedure
+1. Perform a Cooling System Pressure Test. Refer to the WSM, Section 303-03A Engine Cooling - 1.5L EcoBoost >
+Diagnosis and Testing. Is the coolant pump leaking?
+(1). Yes - proceed to Step 2.
+(2). No - this article does not apply. Continue with normal WSM diagnosis.
+2. Add Motorcraft® Premium Cooling System Flush to the cooling system and top off with water as needed and allow
+the engine to idle for 30 minutes.
+3. Drain the cooling system and leave the radiator drain valve open. Refer to the WSM, Section 303-03A Engine
+Cooling - 1.5L EcoBoost > Engine Cooling System Draining, Vacuum Filling and Bleeding.
+4. Remove the air cleaner. Refer to WSM, Section 303-12A Intake Air Distribution and Filtering - 1.5L EcoBoost >
+Removal and Installation > Air Cleaner.
+5. Loosen the clamp and remove the air cleaner outlet pipe in Figure 1.
+Figure 1
+6. Release the clamps and disconnect the upper and lower radiator hoses from the radiator.
+7. Flush the radiator for 2-3 minutes by inserting/connecting a freshwater hose or flush machine in the upper hose
+port of the radiator.
+8. Using compressed air regulated down to 20-30psi, blow compressed air through the upper hose connection of the
+radiator for 1-2 minutes to remove any remaining water.
+9. Remove the coolant pump. Refer to WSM, Section 303-03A Engine Cooling - 1.5L EcoBoost > Removal and
+Installation > Coolant Pump.
+(1). The water pump pulley bolts can be reused for this repair if there is no damage to the bolts identified. This
+may differ from current WSM direction.
+10. Release the clamp and disconnect the heater core return hose from the hose connection near location shown in
+Figure 2.
+Figure 2
+11. Using a hose clamping tool, clamp off the coolant bypass hose in the location shown just blow the intake manifold
+and throttle body, near the fan motor in Figure 3.
+Figure 3
+12. Using a hose clamping tool, clamp off the upper radiator hose. (Figure 4)
+13. Flush the heater core and engine for 2-3 minutes by connecting a freshwater hose or flush machine to the heater
+core return hose as shown above in Figure 4.
+Figure 4
+14. Using compressed air regulated down to 20-30psi, blow compressed air through the heater core return line for 1-
+2 minutes to remove any remaining water.
+15. Remove all the hose clamping tools. Connect the upper and lower radiator hoses and close the radiator drain
+valve.
+16. Install the new coolant pump. Refer to WSM, Section 303-03A Engine Cooling - 1.5L EcoBoost > Removal and
+Installation > Coolant Pump.
+(1). The water pump pulley bolts can be reused for this repair if there is no damage to the bolts identified. This
+may differ from current WSM direction.
+17. Connect the heater core return hose.
+18. Install the air cleaner outlet pipe and tighten the clamp to 42 lb-in (4.8 Nm).
+19. Install the air cleaner. Refer to WSM, Section 303-12A Intake Air Distribution and Filtering - 1.5L EcoBoost >
+Removal and Installation > Air Cleaner.
+20. Fill cooling system. Refer to the WSM, Section 303-03A Engine Cooling - 1.5L EcoBoost > Engine Cooling
+System Draining, Vacuum Filling and Bleeding. Repeat Steps 10-12 a total of 10 times to remove any remaining air
+trapped in the system.
+(1). Repeating Steps 10-12 differs from current WSM direction, but performing this process 10 times is required
+for this particular repair.
+© 2025 Ford Motor Company
+All rights reserved.
+NOTE: The information in Technical Service Bulletins is intended for use by trained, professional technicians with the knowledge, tools, and
+equipment to do the job properly and safely. It informs these technicians of conditions that may occur on some vehicles, or provides information
+that could assist in proper vehicle service. The procedures should not be performed by "do-it-yourselfers". Do not assume that a condition
+described affects your car or truck. Contact a Ford or Lincoln dealership to determine whether the Bulletin applies to your vehicle. Warranty Policy
+and Extended Service Plan documentation determine Warranty and/or Extended Service Plan coverage unless stated otherwise in the TSB article.
+The information in this Technical Service Bulletin (TSB) was current at the time of printing. Ford Motor Company reserves the right to supersede
+this information with updates. The most recent information is available through Ford Motor Company's on-line technical resources.

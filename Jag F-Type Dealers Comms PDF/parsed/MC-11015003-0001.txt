@@ -1,0 +1,54 @@
+ 
+ 
+BULLETIN NOTES
+This service alert supersedes the previously issued service alert listed below. The changes are noted in Red text.
+Previous Service Alert Date(s) Issued:
+SA-004/25 02/22/25
+SA-020/21 03/08/21
+SA-040/20 04/17/20, 04/02/20 and 03/09/20
+SA-037/19 08/20/19
+MODEL(S)/VINS
+2019-2025 Mazda3* 2020-2025 CX-5* 2022-2023 MX-30* 2025 CX-70*
+2020-2021 Mazda6* 2020-2023 CX-9* 2023-2025 CX-50*  
+2020-2025 CX-30* 2020-2025 MX-5* 2024-2025 CX-90*  
+*: Vehicles equipped with advanced keyless entry   
+ 
+DESCRIPTION
+Key Transmitter Power Saving Function:
+When the key transmitter Power Saving Function is turned ON, transmitter battery power consumption is restricted, 
+thereby extending the transmitter battery life and the following will occur:
+The engine will not start unless the key transmitter is held over the Start Stop button.•
+Outside door handle lock/unlock touch sensor is inoperative.•
+Key transmitter indicator lights are inoperative.•
+The following DTC's may be stored:
+DTC B13D3:94 (Communication error with remote transmitter)○
+DTC P1260:00 (Immobilizer system problem).○•
+ 
+Page 1 of
+2
+02/11/2025 10:13 AM tlawrenc
+NOTE:
+Some customers may complain about an engine no start. This may be caused by the customer inadvertently 
+putting the key transmitter in Power Saving Function.•
+The key transmitter control functions (i.e. locking/unlocking door, etc.) are operational when pressing the 
+transmitter switches, even while the key power saving function is turned ON.•
+After the button battery is replaced, the power-saving function will remain activated.•
+Turning on the power saving function
+After you have turned on the power saving function according to the following procedure, the hazard warning lights 
+and sound operate* one time.  
+1. Press the lock button on the transmitter 4 times within 3 seconds to turn on the operation indicator light.  
+2. Press the lock button continuously for 1.5 seconds or longer while the operation indicator light turns on (for 
+5 seconds).  
+3. Press any of the buttons on the transmitter to make sure that the operation indicator light does not turn on/flash.
+Turning off the power saving function
+After you have turned off the power saving function according to the following procedure, the hazard warning lights 
+and sound operate* one time.  
+1. Press any of the buttons on the transmitter to make sure that the operation indicator light does not turn on/flash.  
+2. Press the lock button on the transmitter 4 times within 3 seconds to turn on the operation indicator light.  
+3. Press the lock button continuously for 1.5 seconds or longer while the operation indicator light turns on (for 
+5 seconds).  
+*: With the advanced keyless function
+ 
+Page 2 of
+2
+02/11/2025 10:13 AM tlawrenc

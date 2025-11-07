@@ -1,0 +1,686 @@
+   
+      
+       
+        
+ 
+     
+   
+     
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+ 
+ 
+ 
+  
+ 
+    
+     
+   
+  ____________________________________________________________________ 
+To: All Subaru Retailers 
+From: 
+Date: 
+Re: Subaru of America, Inc. – Service Quality 
+February 3, 2025 
+WRA-24 ODS Sensor Replacement FAQs, Used Vehicle Inventory & CPO Updates 
+As we begin phased owner notification for the WRA -24 ODS Sensor Replacement recall, we have updated 
+the list of frequently asked questions and the instruction on how to handle CPO and Used Vehicle 
+Inventory affected by WRA -24. Please refer to this document as a consistent means of communicating 
+with customers. 
+Frequently Asked Questions 
+1.Question: What is an Occupant Detection System (ODS) ?
+Answer : The Occupant Detection System determines the occupant's presence and status in the 
+passenger seat to enable or disable the passenger side airbag from deployment in an accident . 
+2.Question: What is the reason for the recall ?
+Answer: Vehicles affected by this recall may be equipped with defective Occupant Detection System (ODS) 
+sensors on the front passenger seat. If the defect exists, a short circuit of the ODS sensors may occur, causing 
+the SRS airbag system warning lamp to illuminat e. At the same time, the front passenger’s airbag OFF 
+indicator will also illuminate, indicating that the front passenger airbag may not deploy in certain crashes as 
+designed, increasing the risk of injury to an occupant in the seat. 
+3.Question: Does this recall affect all 2020 -2022 MY Legacy and Outback models ?
+Answer: No. Not all 2020 -2022 MY Legacy and Outback models are affected by this recall. Coverage will be 
+confirmed by using the Vehicle Inquiry function on Subarunet.com . A total of 118,723 U.S vehicles have been 
+affected by this recall. Vehicles not included in the recall are equipped with ODS sensors using a printed circuit 
+board (PCB) that is not affected under this recall. 
+4.Question: What is the recall remedy ?
+Answer: Subaru retailers will replace all four of the ODS sensors on the front passenger seat with new ones at 
+no cost to the customer. 
+5.Question: When will customer notifications begin ?
+Answer: Subaru previously notified all affected vehicle owners of this recall with an interim letter by first class 
+mail on May 17, 2024, advising them they would be re -notified with a follow up letter to schedule an 
+appointment once parts became available. Subaru is currently receiving a limited number of ODS sensors and 
+hardware kits to remedy this recall. To maximize completions of the recall while preventing a potential stock -
+ 
+   
+  
+   
+       
+       
+       
+     
+       
+ 
+      
+ 
+ 
+        
+  
+ 
+  
+   
+      
+ 
+   
+      
+        
+ 
+     
+    
+ 
+     
+  
+  
+     
+  
+ 
+     
+    
+ 
+  
+    
+ 
+     
+  
+  
+      
+  
+ 
+     
+  
+      
+     out situation, Subaru will re -notify affected vehicle owners in small, controlled phases as described below: 
+Mailing Date Group 
+02/0 3/2025 All Legacy models 
+Estimated Q2 2025 2020 Outback (manual passenger seat) 
+Estimated Q3 2025 2020 Outback (power passenger seat) 
+Estimated Q1 2026 21-22 Outback (manual passenger seat) 
+Estimated Q3 2026 21-22 Outback ( power passenger seat) 
+Estimated Q4 2026 21-22 Outback (power passenger seat) 
+We will update you on timing of owner notification letters for subsequent phases as inventory of the remedy 
+parts continues to arrive . 
+6. Question: As the owner notification phases occur, how will a retailer know whether a WRA -24 recall can 
+be performed on an affected vehicle? 
+Answer: As each owner notification for each phase is announced, the recall status for the vehicles included in 
+the phase will change from “Open -Remedy not available” to “Open”. Retailers can perform the WRA -24 recall 
+on any vehicle showing an “Open” status when running a VIN Inquiry on Subarunet. 
+NOTE: The phasing schedule plan is based on the number of vehicles in each phase and the expected parts 
+inventory. To ensure we are able to efficiently phase this recall as planned, it is imperative that retailers do 
+not perform the WRA -24 recall on any vehicle where the recall status is “Open -Remedy Not available”. 
+If you encounter a n affected vehicle in an “Open -Remedy not yet available” status and the customer is 
+experiencing illumination of the SRS light, please refer to question 9, scenario 2 for additional information. 
+If you encounter an affected vehicle that is eligible to be certified in the CPO program, please refer to the 
+“Procedure to CPO vehicle s affected by the WRA -24 recall” section below. 
+If you encounter an affected vehicle in your used vehicle inventory that does not qualify for the CPO Program, 
+please refer to the “Used Vehicle Inventory Process” section below. 
+7. Question: What is the repair procedure for the WRA -24 recall? 
+Answer: For vehicles with an “Open” WRA -24 status, the recall repairs can be performed as outlined 
+in the WRA -24 Recall Bulletin on STIS. The remedy repair will involve replacement of the 4 ODS 
+sensors on the passenger side seat, as well as some hardware replacement. WRA -24 training vid eos 
+will also be part of the required learning for technicians on STAR -U. Videos of the repair procedures 
+are also embedded in the Recall Bulletin on STIS. 
+If you encounter an affected vehicle in an “Open -Remedy not yet available” status and the 
+customer is not experiencing illumination of the SRS light , let the owner know that they will receive 
+owner notification when parts are available to perform the remedy repair on their vehicle. 
+NOTE: The remedy repair should only be performed on affected vehicles with the WRA -24 in an “Open” 
+status. 
+8. Question: What if a customer vehicle does not have a current failure (no SRS light illuminated), but the 
+customer feels unsafe driving the vehicle? 
+Answer: There is NO risk to the driver of the vehicle; this recall affects only the front passenger side air bag. 
+Additionally, a safety risk to the front passenger exists only if the SRS light is illuminated. Please reassure 
+the customer that if the SRS light is not illuminated, then the ODS sensors are operating as designed and there 
+  
+   
+  
+   
+ 
+     
+ 
+ 
+ 
+ 
+  
+    
+ 
+ 
+  
+   
+ 
+   
+    
+ 
+    
+ 
+     
+      
+  
+     
+ 
+  
+  
+       
+ 
+   
+   
+   
+     
+  
+ 
+   
+    
+ 
+ 
+      
+     
+       is no need to take any action until Subaru notifies the customer that parts are available. IMPORTANT NOTE: 
+Customers are eligible for alternate transportation only if the SRS light is illuminated. 
+If the ODS sensor failure occurs, the SRS light will illuminate. Please refer to question 9 for additional 
+information. 
+9. Question: What if a customer vehicle experiences the ODS sensor failure (SRS light illuminates)? 
+SRS airbag warning light: 
+Answer : If an ODS sensor failure occurs, the SRS light will illuminate. The customer should be instructed that if 
+the SRS light illuminates, then any passenger in the front passenger seat should move to the rear seat , and 
+they should avoid using the front passenger seat until the vehicle is inspected and repaired by the retailer . 
+There are a few different scenarios that your retailer can encounter. Please follow the instructions based on 
+the relevant scenario : 
+Scenario 1: WRA -24 vehicle in an “Open” status , regardless of SRS illumination 
+Please refer to the WRA -24 Recall bulletin on STIS for the repair procedure to replace the ODS Sensor Kit and 
+related hardware.  The remedy repair should be performed on any vehicle with an “Open” status, regardless 
+of whether the SRS light is illuminated. 
+Scenario 2: WRA -24 vehicle in an “Open Remedy not yet available” status that has the SRS light illuminated 
+Should a customer bring their vehicle in with the SRS light illuminated, and the ir WRA -24 recall status is 
+“Open -Remedy not yet available ”, the technician should first pull all DTCs. 
+If DTC B1788 is present, then the ODS sensor failure has occurred and a QMR should be submitted. Please 
+click here to navigate to the appendix for specific instructions and requirements for QMR submission for this 
+scenario. 
+If DTC B1788 is not present, then refer to the applicable service manual and perform diagnostics, noting all 
+key steps and results. Please click here to navigate to the appendix for specific instructions and requirements 
+for QMR submission for this scenario. 
+Please note, i f you encounter an affected vehicle in an “Open -Remedy not yet available” status and 
+the customer is not experiencing illumination of the SRS light, let the owner know that they will 
+receive owner notification when parts are available to perform the remedy repair on their vehicle. 
+NOTE: The remedy repair should only be performed on affected vehicles with the WRA -24 in an “Open” 
+status. 
+If the vehicle is used inventory or a Certified Pre -owned vehicle, please refer to the separate instructions titled 
+“Used Vehicle Inventory Process” or “Procedure to CPO vehicle s affected by the WRA -24 recall” in this 
+announcement. 
+Scenario 3: Seat bottom is needed for a non-WRA -24 affected vehicle or an unrelated service issue 
+If the vehicle is not affected by the WRA -24 recall or has an unrelated service issue that requires a seat 
+bottom , a QMR is still required to obtain the seat bottom. Please click here to navigate to the appendix for 
+specific instructions and requirements for QMR submission for this scenario. 
+ 
+   
+ 
+    
+     
+     
+ 
+   
+   
+  
+    
+ 
+    
+  
+ 
+  
+ 
+     
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+    
+    
+  
+   
+  
+ 
+   
+   
+    
+ 
+  
+  
+ 
+    
+ 
+     
+ 
+   
+     
+  
+ 
+ Procedure to CPO vehicle s affected by the WRA -24 recall 
+If you have a used vehicle that is affected by the WRA -24 recall and is in an “Open” Status, please refer to the Recall 
+bulletin on STIS and perform the remedy repair. The process outlined below relates only to used vehicles affected 
+by the WRA -24 recall in an “Open -Remedy not yet available” status that will be considered for CPO certification. 
+To determine CPO eligibility, the retailer must first run a Carfax on the vehicle to ensure the vehicle does not have a 
+branded title, the vehicle has not been in a moderate to severe accident, and there is no evidence of airbag 
+deployment. If the Carfax r eport shows evidence of any of these, the vehicle is not able to go through CPO 
+certification and the retailer should refer to the Used Vehicle Inventory process outlined in this announcement. 
+If the Carfax report is clean, the retailer should then work through the 152 -point Certified Pre -Owned Vehicle 
+Inspection Checklist for the vehicle. The retailer should have an accompanying repair order for any work that is 
+done on the vehicle to meet the CPO certification requirements. 
+If the retailer determines the vehicle is eligible for CPO certification, but has an open WRA -24 recall, the retailer 
+should: 
+• Submit an order for the appropriate seat bottom for the vehicle. There are three seat bottom assembly 
+part numbers, depending on model applicability, for the 2020 -2022 MY Legacy and Outback models 
+affected by this recall, and they are listed below. When placing the order, the last 8 characters of the VIN 
+must be entered as the PO number. 
+64139AN00A CUSHION AY OCPANTRH 
+64139AN01B CUSHION AY OCPANTRH 
+64139AN02B CUSHION AY OCPANTRH 
+• Once the order is placed, the retailer must email the 152 -point CPO Inspection Checklist, with Section A 
+completed, and the accompanying Repair Order to the Parts Information Coordinators (PICs) at 
+Picemail@subaru.com . The subject line of the email should include reference to the WRA -24 recall and 
+include the related 8 -digit order number for the appropriate seat bottom for the vehicle (Example: WRA -24 
+parts order # 12345678). 
+Upon receipt of the email, the PICs will review the information and reply to the retailer email advising that 
+either the order was released or requesting additional information. If the order is released, the retailer 
+should expect to receive the seat botto m within 2 -3 business days. If there is a request for additional 
+information, and there is no response from the retailer providing the requested information within 5 
+business days, the order will be cancelled. 
+Once the retailer receives the part, the WRA -24 recall can be performed on the vehicle and a recall claim should be 
+entered using the following guidelines: 
+Recall Code Labor Operation Description Labor 
+Hours 
+WRA24 100576 WRA -24 ODS SEAT BOTTOM R&R 0.9 
+Once the recall claim is approved, the status of the recall for the VIN will change to Completed. Timely claim entry 
+is very important to keep the process of CPO certification moving forward. Retailers must wait 24 hours after the 
+recall shows completed on the VIN before they can systematically begin certifying one of these vehicles via 
+Subarunet. 
+       
+     
+    
+ 
+ 
+  
+  
+     
+  
+ 
+ 
+      
+  
+ 
+     
+    
+   
+ 
+  
+     
+ 
+ 
+   
+ 
+   
+  
+  
+    
+   
+   
+  
+  
+   
+  
+     
+     
+   
+  
+ 
+   
+    
+ If your vehicle is a CPO, do not proceed beyond this point, follow the submission instructions above. Any 
+questions should be directed to the Parts Information Coordinators (PICS) through email Picemail@subaru.com 
+or phone number 866 -782-2782, option 2. 
+Used Vehicle Inventory Process 
+If you have a used vehicle that is affected by the WRA -24 recall and is in an “Open” Status, please refer to the Recall 
+bulletin on STIS and perform the remedy repair . The process outlined below relates only to used vehicles affected 
+by the WRA -24 recall in an “Open -Remedy not yet available” status that do not have an SRS light illuminated and 
+do not qualify for the CPO program . These vehicles may be delivered to a purchaser if the following 2 conditions are 
+met: 
+1. The vehicle does not have the SRS indicator illuminated , and 
+2. The selling retailer discloses information about this safety recall to the purchaser using the Vehicle 
+Disclosure Form -It is imperative that the purchaser is made aware of the open safety recall on the 
+vehicle and signs the Vehicle Disclosure Form prior to completing the purchase. The customer must 
+initial the Vehicle Disclosure Form to confirm that they received the WRA -24 Subaru Safety Recall 
+Information prior to completing their purchase of the vehicle. 
+If the vehicle is in your used car inventory and has an SRS light illuminated, the vehicle must not be sold . Please 
+refer to question 9 for the procedure for obtaining a seat bottom when the SRS light is illuminated. 
+The Vehicle Disclosure Form and the WRA -24 Subaru Safety Recall Information sheet can be found on Subarunet in 
+Recall & Campaigns, specifically in the WRA -24-ODS Sensor Replacement area of Recall/Campaign Details. 
+If the above conditions are met, as part of the delivery process we ask the Retailer Sales Department to please do 
+the following: 
+1. Fill out the Owner Contact and Vehicle Disclosure Form included with this notice if the purchaser agrees to 
+purchase the vehicle in this condition. This form can be found on Subarunet in the Resources area on the 
+left navigation menu or in Recall & Campaig ns, specifically in the WRA -24-ODS Sensor Replacement area 
+of Recall/Campaign Details. 
+2. Print and provide a copy of the Safety Recall Information sheet, also included with this notice. There is an 
+area on the disclosure form the customer will need to initial to acknowledge receipt of the Safety Recall 
+Information sheet. The Safety Recall Info rmation sheet can be found on Subarunet in the Resources area 
+on the left navigation menu or in Recall & Campaigns, specifically in the WRA -24-ODS Sensor Replacement 
+area of Recall/Campaign Details. 
+3. When remedy parts become available, we ask that the retailer contact s the owner to schedule an 
+appointment to complete the WRA -24 recall. 
+4. Please encourage the purchaser to update their ownership information by visiting Customer Support in the 
+Connect with Us area on  Subaru.com. 
+If a 2020 -2022 Legacy or Outback model affected by the WRA -24 recall does not meet the CPO certification 
+process, the retailer can sell the vehicle as Used Vehicle Inventory using the disclosure letter process that was 
+outlined in the Subarunet announcemen t. 
+   
+ 
+ 
+   
+ 
+ 
+    
+     
+    
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+ 
+        
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+    
+    
+ 
+ 
+  
+ 
+    
+    
+ 
+  
+  
+ Appendix 1-WRA -24 vehicle in an “Open Remedy not yet available” status that has the SRS light illuminated 
+with DTC B1788 
+If DTC B1788 is present, then the ODS sensor failure has occurred and a QMR should be submitte d as outlined 
+below. 
+NOTE: The QMR instructions below must be followed to ensure you receive a response within one business 
+day. This includes completing QMR with the correct coding and including all requested information in the 
+appropriate format. Failure to do so will significantly delay the review process and potential part release. 
+1. The QMR should be coded using WRA as the failure code. The SSM file data must be attached to the QMR 
+in .SEPF format with the VIN written to the data. 
+All QMR submissions should have the customer’s Concern, Cause, and Correction filled out with detail and 
+contain the technician’s observations, diagnostics, and recommendation. 
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a parts order for the 
+appropriate remedy part will be placed by the Parts Information Coordinators ( PICs) for your dealership. 
+NOTE: Orders will only be placed only if a QMR is submitted with the required attachments and SOA is 
+able to confirm the diagnosis of a defect requiring replacement of the seat bottom. 
+If there is sufficient inventory, then a parts order for the ODS sensor kit and related hardware kit will be 
+placed by the PICs for your dealership. If we do not have sufficient inventory of the ODS sensor kits or 
+hardware kits, then a parts order for the appropriate seat bottom part will be placed by the PICs for your 
+dealership. 
+3. Once the appropriate part is received and the vehicle has been repaired, please submit a claim using the 
+following information: 
+• If the vehicle is part of the WRA -24 recall and the retailer was sent an ODS sensor kit and 
+hardware kit, then a Recall Claim (RC) must be submitted using the following information: 
+Recall Code Labor Operation Description Labor Hours 
+WRA24 A100 -579 WRA -24 ODS SENSOR KIT R&R 1.1 (manual seat) 
+0.9 (power seat) 
+• If the vehicle is part of the WRA -24 recall and the retailer was sent a seat bottom, then a Recall 
+Claim (RC) must be submitted using the following labor operation: 
+Recall Code Labor Operation Description Labor Hours 
+WRA24 A100 -576 WRA -24 ODS SEATBOTTOM R&R 0.9 
+4. Please direct any inquiries as follows: 
+• If you have questions regarding the status of your QMR, please refer to the QMR itself, specifically 
+the status on the QMR. 
+      
+    
+   
+ 
+  
+    
+ 
+ 
+  i. If the QMR is in a “Pending Review” status, then it has been received but has not been 
+reviewed yet. The status will be updated once the QMR has been reviewed. 
+-If the status of the QMR is “No Action Needed” , then either the PICs have placed an 
+order for the seat bottom (which can be viewed in RPM), or you will be notified via 
+phone or email of information that was missing from the QMR. 
+• Additional inquiries should be directed to the Subaru Claims Helpline at: 866 -782-2782, 
+option 2. 
+   
+  
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+    
+ 
+    
+        
+    
+ 
+ 
+ 
+ 
+  
+ 
+   
+   
+  
+ 
+ 
+ 
+  
+ 
+        
+    
+ 
+ 
+  
+  
+ 
+ Appendix 2 -WRA -24 vehicle in an “Open Remedy not yet available” status that has the SRS light illuminated 
+with DTC other than B1788 
+Technician s should refer to the applicable service manual and perform diagnostics, noting all key steps and 
+results. A QMR should be submitted as outlined below. 
+Currently, we have a limited supply of seat bottoms, which includes the ODS sensors, available for customers 
+who experience an ODS failure (the SRS lamp is illuminated) prior to the recall part becoming available. There 
+are three seat bottom assembly part numbers, depending on model applicability, for the 2020 -2022 MY 
+Legacy and Outback models affected by this recall: 
+64139AN00A CUSHION AY OCPANTRH 
+64139AN01B CUSHION AY OCPANTRH 
+64139AN02B CUSHION AY OCPANTRH 
+To ensure adequate inventory of these parts is available for customers that are experiencing an ODS sensor 
+failure, these part numbers are restricted from retailer ordering. Therefore, the following process must be 
+followed to obtain one of these parts. Fa ilure to adhere to these instructions may result in a delay. 
+NOTE: The QMR instructions below must be followed to ensure you receive a response within one business 
+day. This includes completing the QMR with the correct coding and including all requested information in 
+the appropriate format. Failure to do so will significantly delay the review process and potential part 
+release. 
+1. If technician’s diagnosis results in the seat bottom requiring replacement, a QMR must be submitted. The 
+QMR should be coded using WRA as the failure code . 
+All QMR submissions should have the customer’s Concern, Cause, and Correction filled out with detail and 
+contain the technician’s observations, diagnostics, and recommendation. If there are DT Cs other than 
+B1788, c ompleted trouble tree results are required in the QMR. Squeaks and rattles should have video 
+documentation and physical damage will require pictures. Secondary component failures such as power 
+seat motors or seat position sensor failures will require completed diagnostics uploaded to the QMR. 
+Body shop orders should have a copy of the body shop repair order or proof of repair added to the QMR 
+for documentation. 
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a parts order for the 
+appropriate remedy part will be placed by the Parts Information Coordinators ( PICs) for your dealership. 
+NOTE: Orders will only be placed only if a QMR is submitted with the required attachments and SOA is 
+able to confirm the diagnosis of a defect requiring replacement of the seat bottom. 
+3. Once the appropriate part is received and the vehicle has been repaired, please submit a claim using the 
+following information: 
+• If the vehicle is part of the WRA -24 recall and the retailer was sent a seat bottom, then a Recall 
+Claim (RC) must be submitted using the following labor operation: 
+    
+    
+ 
+  
+  
+ 
+      
+    
+    
+  
+   
+    
+ 
+ 
+  Recall Code Labor Operation Description Labor Hours 
+WRA24 A100 -576 WRA -24 ODS SEATBOTTOM R&R 0.9 
+4. Please direct any inquiries as follows: 
+• If you have questions regarding the status of your QMR, please refer to the QMR itself, specifically 
+the status on the QMR. 
+i. If the QMR is in a “Pending Review” status, then it has been received but has not been 
+reviewed yet. The status will be updated once the QMR has been reviewed. 
+ii. If the status of the QMR is “No Action Needed” , then either the PICs have placed an order 
+for the seat bottom (which can be viewed in RPM), or you will be notified via phone or 
+email of information that was missing from the QMR. 
+• Additional inquiries should be directed to the Subaru Claims Helpline at: 866 -782-2782, 
+option 2. 
+  
+    
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+   
+    
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+   
+   
+  
+ 
+ 
+ 
+ 
+ 
+        
+    
+ 
+  
+  
+    
+   
+ Appendix 3 -Seat bottom is needed for a non -WRA -24 affected vehicle or an unrelated service issue 
+If the vehicle is not affected by the WRA -24 recall or has an unrelated service issue that requires a seat 
+bottom, then a QMR is still required to obtain the seat bottom. Technicians should refer to the applicable 
+service manual and perform diagnostics, noting all key steps and results. A QMR should be submitted as 
+outlined below. 
+There are three seat bottom assembly part numbers, depending on model applicability, for the 2020 -2022 MY 
+Legacy and Outback models affected by this recall: 
+64139AN00A CUSHION AY OCPANTRH 
+64139AN01B CUSHION AY OCPANTRH 
+64139AN02B CUSHION AY OCPANTRH 
+To ensure adequate inventory of these parts is available for customers that are experiencing an ODS sensor 
+failure, these part numbers are restricted from retailer ordering. Therefore, the following process must be 
+followed to obtain one of these parts. Fa ilure to adhere to these instructions may result in a delay. 
+NOTE: These QMR instructions must be followed to ensure you receive a response to your QMR within one 
+business day. This includes completing the QMR with the correct coding and including all requested 
+information in the appropriate format. Failure to do so will significantly delay the review process and 
+potential parts order. 
+1. If the technician diagnosis results in one of the above seat bottoms requiring replacement, then a QMR 
+must be submitted. The QMR should be coded using WRA as the failure code . All Service Manual 
+diagnostics steps/results as well as the SSM data, if there was a DTC, should be attached to the QMR 
+in .SEPF format with the VIN written to the data. 
+All QMR submissions should have the customer’s Concern, Cause, and Correction filled out with detail and 
+contain the technician’s observations, diagnostics, and recommendation. If there are DTCs other than 
+B1788, c ompleted trouble tree results are required in the QMR. Squeaks and rattles should have video 
+documentation and physical damage will require pictures. Secondary component failures such as power 
+seat motors or seat position sensor failures will require completed diagnostics uploaded to the QMR. 
+Body shop orders should have a copy of the body shop repair order or proof of repair added to the QMR 
+for documentation. 
+2. The QMR and required attachments will be reviewed by SOA and, if approved, a parts order for the 
+appropriate seat bottom part will be placed by the PICs for your dealership. 
+NOTE: Orders will only be placed only if a QMR is submitted with the required attachments and SOA is 
+able to confirm the diagnosis of a defect requiring replacement of the seat bottom. 
+3. Once the appropriate seat bottom part is received and the vehicle has been repaired, please submit a 
+claim using the following information: 
+• The seat bottom was replaced in a vehicle for reasons unrelated to the WRA -24 recall. P lease 
+refer to the Labor Time Guide for applicable coverage and claim coding. 
+  
+  
+ 
+    
+    
+   
+ 
+  
+    
+ 
+ 
+ 4. Please direct any inquiries as follows: 
+• If you have questions regarding the status of your QMR, please refer to the QMR itself, specifically 
+the status on the QMR. 
+i. If the QMR is in a “Pending Review” status, then it has been received but has not been 
+reviewed yet. The status will be updated once the QMR has been reviewed. 
+-If the status of the QMR is “No Action Needed” , then either the PICs have placed an 
+order for the seat bottom (which can be viewed in RPM), or you will be notified via 
+phone or email of information that was missing from the QMR. 
+• Additional inquiries should be directed to the Subaru Claims Helpline at: 866 -782-2782, 
+option 2. 

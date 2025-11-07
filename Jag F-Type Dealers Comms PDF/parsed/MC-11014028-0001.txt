@@ -1,0 +1,51 @@
+ 
+ 
+Page 1 of 2 Subject:  
+The GEN 1 Husky 3 foam pump from FSC is being discontinued. To keep supporting our customers, a conversion 
+kit is available to install the GEN 2.1  Husky 3 foam pump in place of the GEN 1.  
+Purpose:   
+To communicate with the Pierce Dealer/customer network that a conversion kit is available to replace the 
+discontinued GEN 1 foam  pump when a replacement is needed.  
+Description:   
+The “old” GEN 1 Husky 3 foam pump ( PN: 2851584) uses a blue box signal conditioner for the position 
+transducer in the foam pump, the “new” GEN 2.1  Husky 3  foam  pump ( PN: 4503618 ) uses a transducer that does 
+not require a signal conditioner. (See Figure 1)  
+ 
+Figure 1 
+  
+Title:  Husky 3 Foam Pump –  GEN 1 Pump Discontinued   
+Number:  SB_446  Release Date:  06/24/ 2019 
+Revision Number:  4 Revision Date:  02/04/2025 
+Chassis Type:  All chassis types 
+Component 
+Description:  Husky 3 Foam pump redesign, Gen 1 to Gen 2 
+Parts:  *Discontinued* GEN 1 Husky foam pum p, PN 2851584  
+GEN 2 .1 Husky 3 foam  pump , PN 4503618  
+GEN 1 to GEN 2 .1 replacement  kit, PN 3411256  
+
+SERVICE BULLETIN # 446.4 
+Page 2 of 2 In the event you need to replace a GEN 1 pump, a conversion kit is available which includes the GEN 2.1  foam 
+pump and 2.1  harnesses which will allow a direct install.  
+• “Old” Pump = GEN 1 Husky 3 foam pump =  PN 2851584  
+• “New Pump = GEN 2 .1 Husky 3  foam  pump =  PN 4503618 
+• Conversion kit from GEN 1 to GEN 2.1  Husky 3  foam  pump =  PN 3411256  
+o Includes:  
+ 1pc GEN 2.1  Husky 3 Pump (Reference PN 4503618 ) 
+ 1pc Linear Feedback Sensor Adaptor Harness  (Reference PN 3599440)  
+ 1pc Signal Conditioner Delete Adaptor Harness  (Reference PN 3599442)  
+Work Instruction Location:   
+Installation of the GEN 1 to GEN 2.1  Husky 3 instructions can be located on Pierceparts.com under “Technical 
+Support” (Figure 2) . 
+ 
+Figure 2 
+Further details about the Husky 3 pump refurbishment program can be found in parts bullet in PB_383 " Husky 3 
+Pump Refurbishment Program" . Any Gen 1 or Gen 2 pump sent back under this program will be 
+rebuild/refurbished to Gen 2.1. 
+If any additional support is needed, please open a technical support incident on Pierceparts.com.  
+Revision Log  
+Rev. #  Changes  Date  
+1 Update bulletin formatting, added website work instruction  04/18/ 2022 
+2 Update PN 3267102 to PN 4503618 , updated website picture  12/10/2024 
+3 Update Gen 2.1 PN’s and information  12/17/2024 
+4 Removed note about red anodization  02/04/ 2025 
+ 

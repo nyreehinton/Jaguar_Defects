@@ -1,0 +1,43 @@
+ 
+ 
+1/1 
+ Classification:  Reference:  Date: 
+  EC17-031C   ITB17-050C  Februar y 4, 2025 
+  
+ 
+MIL ON WITH DTC(S) STORED IN THE ECM 
+ 
+ 
+APPLIED VEHICLES: 2016-2018 Q50 (V37) 2017 Q60 (CV37) 
+APPLIED ENGINES: VR30DDTT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+September 27, 2017 ITB17-050 Original bulletin published 
+March 10, 2022 ITB17-050A Table A revised 
+November 6, 2023 ITB17-050B  APPLIED VEHICLES  and Table A revised, and “NOTE” 
+references changed to “HINT” 
+February 4, 2025 ITB17-050C Amended to sunset 
+  
+This bulletin is no longer active. 
+ 
+Please discard previous versions of  ITB17-050. 

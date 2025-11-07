@@ -1,0 +1,65 @@
+Involved Region or
+CountryNorth America
+ConditionNo-Start with Blank IPC -Screen, no charge concern, or dead 12 volt battery after vehicle-wide or
+BECM Calibration Update
+CausePotential calibration error that is being investigated where K291 Hybrid/Electric V ehicle Battery
+Pack Communication Module (Internal to the RES S) ma y be stuck in a programming state.
+Bulletin No.: PIP6043
+Published date: 02/21/2025
+Preliminary Information
+PIP6043 BEV3 No-Start with Blank IPC-Screen, No Charge Concern, Or Dead 12 Volt Battery
+After Vehicle-Wide or BECM Calibration Update
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletBlazer EV 2024 - 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Cadillac Lyriq 2023 - 2025 All AllAll All
+Cadillac Optiq 2025 - 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+If within MY23/MY24 L yriq pA WD (X OE) VIN List – replace the BECM
+ 
+Lyriq XOE VIN List
+MY23 PZ000729 - PZ002972
+MY24 RZ010001 - RZ010024
+ 
+If not within MY23/MY24 L yriq pA WD (X OE) VIN List, Or still has same issue after BECM replacement from above
+vehicles listed , Continue with V eriﬁcation Steps:
+Using GDS2 Navigate to Battery Energy Control Module(BECM) > HV Data
+Check the following parameters:
+Pack V oltage
+Positive Mid-P ack V oltage
+Negative Mid-P ack V oltage
+If any of these values are 0V , this conﬁrms a potential calibration error .  Engineering is actively working on a resolution.
+Next Steps:
+Perform SPS2 Hybrid/EV Data Retrieval Process*
+Start a T AC case via DCM (Dealer case management)
+Submit GDS2 V oltage data & SPS2 Hybrid/EV Data Retrieval Warranty Claim Code via the T AC case
+Next steps will be provided once the data extract has been reviewed
+*SPS2 Hybrid/EV Battery Data Retrieval
+1. Access the Service Programming System (SPS) and follow the on-screen instructions.
+2. Select Controller: K16 Battery Energy Control Module  
+ 
+3. Select F unction: Hybrid/ EV Battery Data Retrieval  
+ 
+4. Select Programming T ype: Normal  
+ 
+5. Select the “Next” button at the bottom right of the screen.
+6. Follow the remaining on-screen instructions until completion and receiving the WCC (warranty claim code) 
+NOTE: Additional Data collection ma y be necessary continue to k eep 12V healthy and do not clear codes. 
+ 
+Labor Operation Description Labor Time
+*5086108 No Start after failed BECM SPS2 Programming 1.0 Hrs.
+Add Time BECM Replacement Use published Time
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/21/2025 - Created on.Warranty Information
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

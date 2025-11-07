@@ -1,0 +1,26 @@
+ Page 1 of 1 Published: February 2025
+SC-25-90-01
+Karma Automotive Bulletins and service documents are intended for use by experienced and trained Technicians. If you lack the skills, tools, equipment 
+and a suitable workshop for any procedure described in this document, we suggest you leave such repairs to a Karma retailer and service provider . See 
+your service provider for advice on whether your vehicle may benefit from the information contained within this document. The information contained in the 
+Karma Bulletin is accurate at the date of publication. However, Karma Automotive regularly updates technical information. Please check with your Karma 
+Automotive Retailer and Karma Automotive service provider that the bulletin you intend to use contains the latest available information.
+Title:  External Battery Charging and Jump
+Applicability: MY2025 Revero  
+Market Region:  All                                                                                      Type: Serivce communication 
+Year: 2025
+System: Electrical (90)
+Sequence: 01PURPOSE:  Illustrate access to 12-Volt power for jump start and charging 
+Jumpstart Procedure - Low Voltage
+If power to the low voltage (12 volt) system has been depleted e.g. due to client error, lack of use etc. it 
+is permitted to jumpstart the battery or attach a battery charger to these locations.
+1.Positive Application Point
+Open the hood and manually assist the hood to the fully raised position. You must take
+care to ensure there is sufficient clearance between the top edge of the hood and the ceiling, if indoors 
+or under a structure. Located on the left side under the hood is the Power Distribution Center. The Posi -
+tive application point is the main power point (circled in red in Figure 1A).
+2.The Negative application point is located next to the engine on the driver side of the
+engine (shown circled in red in Figure 1B). There is chassis ground located here as well, that is also 
+suitable, the engine cover will need removal for access, see insert.
+Fig 1A
+Fig 2A

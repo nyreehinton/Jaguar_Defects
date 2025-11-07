@@ -1,0 +1,46 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)S3I
+ConditionDealer installed accessory perimeter rock er panel
+lighting kit is inoperative.
+Cause Software Anomaly
+Version 2
+Modiﬁed11/08/2024 - Created on.  
+02/12/2025- Updated to add software ﬁx to the PI
+Bulletin No.: PIT6280A
+Published date: 02/12/2025
+Preliminary Information
+PIT6280A Illuminated Perimeter Rocker Lighting Inoperative
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletBlazer EV 2025 All AllAll All
+Chevr oletSilverado EV 2025 All AllAll All
+GMC Sierra Denali EV 2025 All AllAll All
+ 
+ 
+ 
+Correction:  
+To correct this concern reprogram the K9 BCM and the K219 Lighting Control
+Module with the latest calibrations in TLC/SPS.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base
+Warranty coverage), use the following labor operation. Reference the
+Applicable W arranties section of Investigate  V ehicle History (IVH) for
+coverage.
+Labor 
+OperationDescription Labor Time
+2810215Body Control Module Reprogramming
+with SPSUse Published Labor
+Time 
+2811105Lighting Control Module Reprogramming
+with SPSUse Published Labor
+Time 
+Additional SI K eywords
+accessory, dealer, gr ound, lamp, inop, inoperative, installed, light, lighting, lights, panel,
+puddle, r ocker, SPO
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

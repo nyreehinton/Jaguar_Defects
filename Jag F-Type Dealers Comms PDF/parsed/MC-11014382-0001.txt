@@ -1,0 +1,43 @@
+Technical Service Bulletin (TSB)
+Exterior Door Handle Inoperable
+REFERENCE: TSB:  23-005-23
+GROUP:  23 - BodyDate: February 11, 2025 REVISION: —
+VEHICLES
+AFFECTED:2023 - Current (GC) Alfa Romeo Tonale
+2023 - Current (GG) Dodge HornetMARKET APPLICABILITY:
+NA
+SA
+EEMEA
+IAP
+CH
+CUSTOMER
+SYMPTOM:Customers may experience the following:
+●One or both front doors will not open or close properly using the exterior door handle
+NOTE :This symptom can be more noticeable due to icy conditions.
+CAUSE: Manufacturing issue
+DISCUSSION:
+This Information Only TSB is to communicate the updated parts numbers for the exterior door handle support
+mechanism Fig. 1  and cable.
+Fig. 1
+Exterior Door Handle Support Mechanism
+1 - Old Design
+2 - Updated Design
+UPDATED PART NUMBERS:
+Part No. Description Notes
+50573687
+68629753AA - MoparBracket, Door Handle Right
+50573689
+68629752AA - MoparBracket, Door Handle Left
+6000633184AA Cable, Outside Handle, Front Door Tie Rod
+NOTE: ● If the driver door is ajar, an audible warning and two visual indications are provided on
+the Instrument Panel Cluster (IPC) to notify the driver the door is not closed. Additionally
+the parking brake will apply when attempting to drive away if the driver door is not latched
+close.
+● If the passenger door is ajar, an audible warning and two visual indications are provided to
+notify to the driver the door is not latched.
+● The issue occurs only in severe low temperature conditions and when vehicle’s interior
+temperature increases the behavior is restored.
+POLICY:
+Information Only
+This bulletin is supplied as technical information only and is not an authorization for repair. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without written permission of FCA US LLC.

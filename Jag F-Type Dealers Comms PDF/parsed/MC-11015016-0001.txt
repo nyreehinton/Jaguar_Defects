@@ -1,0 +1,79 @@
+ 
+CUSTOMER INFORMATION: The information in this bulletin is intended for use only by skilled technicians who have the proper tools, equipment, 
+and training to correctly and safely maintain your vehicle. These procedures should not be attempted by “do- it-yourselfers,” and you should not 
+assume this bulletin applies to your vehicle, or that your vehicle has the condition described. To determine whether this inf ormation applies, contact 
+an authorized Honda automobile dealer.  
+ 
+© 2025  American Honda Motor Co., Inc. – All Rights Reserved   Page 1 of 4 
+         Service Bulletin  23-094 
+February 27 , 2025    Version 2 
+Front Suspension Noise While Turning  
+Supersedes 23- 094, dated November 7, 2023, to revise the information highlighted in yellow.  
+AFFECTED VEHICLES  
+Year  Model  Trim Level  VIN Range  
+2021– 25 Accord  ALL ALL 
+2022– 25 Civic  ALL except 
+Type  R ALL 
+REVISION SUMMARY  
+• Under AFFECTED VEHICLES, 2025  Accord and 2022 –25 Civic  were  added.  
+• Under INSPECTION PROCEDURE, a note and an audio file were added.  
+SYMPTOM  
+There is a dull creaking, rubbing, popping,  or clicking noise coming from the front of the vehicle while turning at  low 
+speeds . 
+POSSIBLE CAUSE  
+The bump stop contacts the top of the front damper body.  
+CORRECTIVE ACTION 
+Apply Shin- Etsu silicone  grease to the bump stops on the front dampers.  
+REQUIRED MATERIALS  
+Part Name  Part Number  Quantity  
+Shin-Etsu Silicone Grease ( one tube repairs 80 cars)  08798- 9013  1 
+WARRANTY CLAIM INFORMATION 
+Operation 
+Number  Description  Flat Rate 
+Time  Defect 
+Code  Symptom 
+Code  Template 
+ID Failed Part Number  
+4145A4  Apply Shin- Etsu 
+silicone grease to the 
+front bump stops . 
+(Includes inspection)  0.4 hr 03001  03217  A23094A  51722- TVA- A01 
+ 
+  
+
+Page 2 of 4 
+ INSPECTION PROCEDURE  
+1. Open the hood and remove the front damper  dust caps. Install the chassis ear clip on the top of the damper shaft  on 
+each side.   
+ 
+2. Add weight to the vehicle by putting the technician in the driver’s seat  and another person in the front passenger ’s seat, 
+while leaving the rear seats empty.   
+3. Position the vehicle on a smooth flat surface,  such as a shop floor (not asphalt or rough cement) . With the vehicle 
+running,  the transmission in Park, and the brake pedal  depressed:  turn the steering wheel left  to full lock, and then right 
+to full lock . Do this  2-3 times while listening for a noise:  
+Click here to play the audio file:   
+• If a creaking, rubbing, popping, or clicking  noise is heard  when turning left or right, continue to the REPAIR 
+PROCEDURE . 
+NOTE: This noise is  not coming from the damper bearing.  
+• If no noise is heard, or a clunking noise is heard, this bulletin does not apply. Continue with normal 
+troubleshooting.  
+  
+
+Page 3 of 4 
+ REPAIR PROCEDURE  
+1. Raise the vehicle.  
+• Accord – Lift and Support Points  
+• Civic – Lift and Support Points  
+2. Remove the front wheels.  
+3. Lift the front damper dust cover to expose the damper shaft  and the bump stop.   
+ 
+4. Dispense approximately 0.5  g, or about a finger -tip dab of Shin -Etsu silicone  grease. Apply the grease around the 
+bottom of the bump stop (shown in blue) .  
+NOTE: Make sure to wipe off any grease from the shaft . 
+ 
+
+Page 4 of 4 
+ 5. Install the damper dust cover.  
+  
+6. Repeat steps 3- 5 for the other front damper.  
+7. Install the front wheels and torque the wheel nuts  to 108 N ·m (80 lb -ft). 

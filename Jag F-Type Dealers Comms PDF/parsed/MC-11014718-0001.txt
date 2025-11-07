@@ -1,0 +1,405 @@
+To: Mercedes -Benz Dealers, General Managers, 
+Sales Managers, Service Managers, Parts 
+ManagersFrom:  Anthony Washington, Senior Manager, 
+Regulations and Certifications
+Re: Service Campaign Notification  
+Model: Metris  
+Model Year: 2021  
+Replace Longitudinal Member  Weld  NutsDate: February 2025
+IMPORTANT SERVICE CAMPAIGN INFORMATION  
+
+Campaign No.:  Campaign Desc.:  NHTSA ID:  Replace Longitudinal Member  Weld  Nuts 2025 020011  VS2SPANBA  N/A  
+This is to notify you of a Service Campaign  to replace weld nuts on the longitudinal member on 1 MY 2021 Metris 
+Van. All affected VINs will be flagged as "OPEN" in VMI
+Background  
+Issue  Mercedes -Benz AG, the manufacturer of Mercedes -Benz Metris Vans, has determined that the weld  nuts on the 
+longitudinal member w ere not installed according to current production specifications.
+What We’re 
+Doing  MBUSA is conducting a service campaign. An authorized Mercedes -Benz dealer will replace and install new weld  
+nuts on the longitudinal member.
+Parts Part is available.
+Vehicles Affected
+Model Year(s) 2021
+Vehicle Model Metris
+Vehicle Populations
+Total Vehicles 1
+Dealer Inventory 0
+Next Steps/Notes  
+AOMS/SOMS  Please ensure your dealers have read and understand this notice
+While we regret any inconvenience this may cause, MBUSA are determined to maintain a high level of vehicle quality and customer 
+satisfaction.
+Operation no. of the operation texts or standard texts and flat rates
+Category Op. no. Operation text Time Damage Code Codeword
+P 02 0032 Operations: Check weld nuts on longitudinal member for
+attachment of fuel tank retaining bracket0.6 hr 47 901 05 VS2SPANBA
+P 02 0033 Operations: Replace weld nut in longitudinal member (after
+check)6.6 hr 47 901 05 VS2SPANBA
+P 02 0034 Operations: Replace weld nut in holder at longitudinal
+member (after check)2.3 hr 47 901 05 VS2SPANBA
+P 02 0035 Operations: Replace weld nuts in longitudinal member and
+in longitudinal member holders (after check)9.0 hr 47 901 05 VS2SPANBA
+S61.10-A098-79
+1 Fuel tank 4 Screw 6 Holder for retaining bracket
+2 Rear retaining bracket 5 Weld nut 7 Longitudinal member
+3 Front retaining bracketReplace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SPANBA)SM61.10-S-0036A
+V-SC-2025020011 1
+S61.10-A100-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 8.1 Center floor section b Dimension (approx. 45 mm)
+7 Longitudinal member a Dimension (approx. 75 mm) c Dimension (approx. 25 mm)
+8 Center floor
+S61.10-A105-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 7 Longitudinal member 8 Center floorSM61.10-S-0036A Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)
+2 V-SC-2025020011
+S61.10-A102-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 8 Center floor 8.1 Center floor section
+7 Longitudinal member
+S61.10-A104-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 6 Holder for retaining bracket 8 Center floorReplace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SPANBA)SM61.10-S-0036A
+V-SC-2025020011 3
+S61.10-A099-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 6 Holder for retaining bracket 8 Center floor
+S61.10-A101-79
+Shown on model 447 with code T19 (Left sliding door)
+5 Weld nut 7 Longitudinal member 8 Center floorSM61.10-S-0036A Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)
+4 V-SC-2025020011
+S61.10-A103-79
+Shown on model 447 with code T19 (Left sliding door)
+8 Center floor 8.1 Center floor section
+aDanger Risk of death caused b y vehicle slipping
+or toppling off of the lifting platform.Align vehicle between vehicle lift
+columns and position the four support
+plates at the vehicle lift support points
+specified b
+y the vehicle manufacturer .AS00.00-Z-0010-01A
+aDanger Risk of explosion caused b y fuel
+igniting, risk of poisoning caused by
+inhaling and swallowing fuel as well as
+risk of injury to eyes and skin caused by
+contactwith fuel.No fir es, sparks, open flames or
+smoking. Pour fuels into suitable and
+appropriately marked containers only.
+Wear protective clothing when handling
+fuel.AS47.00-Z-0001-01A
+aWarning Risk of injury. Skin or e ye injuries may
+result when handling hot or glowing
+objects.Wear protective gloves, protective
+clothing and safety glasses, if necessary
+.AS00.00-Z-0002-01A
+aCaution Risk of injury caused b y scraping or
+cutting body parts on sharp vehicle
+partsAlways wear protective gloves when
+working on or near sharp and non-
+deburr
+ed vehicle parts.
+Deburr repair panels.AS00.00-Z-0017-01A
+Notice General information on body repair AH60.00-P-0001-01KOA
+Notice Information on preventing damage to
+electr
+onic components due to
+electrostatic dischargeAH54.00-P-0001-01A
+General information on MB materials AH98.00-P-9409-03A
+g Check
+1 Check if vehicle is affected b y measure.
+2 Raise vehicle.
+f AR00.60-S-1000E
+3 Support fuel tank (1).
+A 000 588 10 62 00 Support plate WS26.00-P-3309B
+A 000 588 11 62 00 Major assembly mount WS01.00-P-0092B
+i Secure the fuel tank(1) against falling
+down.Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)SM61.10-S-0036A
+V-SC-2025080011 5
+4 Check whether thread of respective
+weld nut (5) and scr
+ew (4) on rear
+retaining bracket (2) and front retaining
+bracket (3) is damaged.p
+When checking the r
+espective weld nut
+(5), it must not be possible to unscrew
+the screws (4) sluggishly and there must
+not be any visible damage to the thread.
+If one of the screws (4) unscrews
+sluggishly or if there is visible damage to
+the thread, replace respective weld nut
+(5) and screw (4).
+Otherwise, the correct torque of the
+respective screws (4) cannot be
+guaranteed.
+p
+At least one of the four follo
+wing weld
+nuts (5) is damaged and must be
+replaced.
+Otherwise, correct mounting of the rear
+retaining bracket (2) or front retaining
+bracket (3) cannot be guaranteed.
+i To do so, unscrew screws (4) from
+rear retaining bracket (2) and front
+retaining bracket (3).
+If the screw (4) can be unscrewed
+sluggishly or if ther
+e is visible damage
+to the thread,
+↓
+replace respective damaged weld nut (5)
+with corr
+esponding screw (4); to do so,
+continue with operation step 5.
+If it is not possible to determine
+whether the scr
+ew (4) can be unscrewed
+sluggishly or if there is any damage to
+the thread without error ,
+↓
+replace all weld nuts (5) with
+corr
+esponding screws (4); to do so,
+continue with operation step 5.
+Replace respective weld nut (5)
+aDanger The high voltage used for electric
+welding pr
+esents a lethal hazard. Risk
+of explosion from welding in areas
+close to highly inflammable materials.
+Risk of injury from weld splatter and
+UV-light when welding. Risk of
+poisoning from inhaling welding gasesUse insulating mats. Wear protective
+clothing, safety glasses and a pr
+otective
+mask. Remove highly inflammable
+materials from the hazard area. Use air
+extraction system.AS00.00-Z-0007-01A
+Notice Measures for preventing damage to
+components when performing electric
+welding and soldering workAH60.00-P-0001-02A
+5 Remove fuel tank.
+f Model 447.603 ## as of 862470 up to
+862471 with engine 274.920
+with code ZU8 (National version for USA)
+e
+xcept code ZL3 (National version for
+Latin America)AR47.10-S-4100EG
+6 Remove propeller shaft. If respective weld nut (5) on holder for
+r
+etaining bracket (6) has to be replaced.
+f AR41.10-S-0050E
+7 Remove floor co vering in load
+compartment.If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+f Model 447.603 ## as of 862470 up to
+862471 with engine 274.920
+with code V43 (W
+ood flooring)
+with code ZU8 (National version for USA)AR68.30-S-0004E
+8 Cover all detachable parts remaining in
+vehicle with spark pr
+otection blanket.If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.SM61.10-S-0036A Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)
+6 V-SC-2025020011
+9 Mark separating points on center floor
+(8) for r
+espective center floor section
+(8.1) (areas A).If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+i To do so, mark center point (arrow A)
+of respective center floor section (8.1)
+through screw hole of weld nut (5) using
+a suitable tool from underside of
+longitudinal member (7).
+i Observe dimensions (a, b, c).
+10 Separate separating points on center
+floor (8) for r
+espective center floor
+section (8.1) (areas A).If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+p
+Only cut thr
+ough one sheet thickness.
+Otherwise the components below can be
+damaged and weakened.
+i This enables access to the respective
+weld nut (5) in the longitudinal member
+(7).
+11 Grind mating surfaces on respective
+center floor section (8.1) and center
+floor (8) do
+wn to bare metal in cross-
+hatched areas.If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+i Remove grinding dust and wood
+shavings.
+12 Separate respective damaged weld nut
+(5) fr
+om holder for retaining bracket (6)
+(areas D).If respective weld nut (5) on holder for
+r
+etaining bracket (6) has to be replaced.
+i To do so, release respective damaged
+weld nut (5) from holder for retaining
+bracket (6) on weld joints.
+i Dispose of removed weld nut (5)
+properly. To do so, observe the
+applicable legal requirements and
+specifications of the relevant country.
+13 Separate respective damaged weld nut
+(5) in longitudinal member (7) (ar
+eas D).If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+i To do so, release respective damaged
+weld nut (5) from longitudinal member
+(7) at weld joints.
+i Dispose of removed weld nut (5)
+properly. To do so, observe the
+applicable legal requirements and
+specifications of the relevant country.
+14 Install and weld in respective new weld
+nut (5) at holder for r
+etaining bracket (6)
+(areas B).If respective weld nut (5) on holder for
+r
+etaining bracket (6) has to be replaced.
+A 000 588 02 84 00 Welder WS60.00-P-0022K
+i Order required new weld nut (5) with
+"DIN 928-M10-ST" specification from free
+market.
+i To do so, fasten respective new weld
+nut (5) at holder for retaining bracket (6)
+using screw (4).
+15 Install and weld in respective new weld
+nut (5) in longitudinal member (7) (ar
+eas
+B).If respective weld nut (5) in longitudinal
+member (7) has to be r
+eplaced.
+A 000 588 02 84 00 Welder WS60.00-P-0022K
+i Order required new weld nut (5) with
+"DIN 928-M10-ST" specification from free
+market.
+i To do so, fasten respective new weld
+nut (5) at screw hole of longitudinal
+member (7) using screw (4).Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)SM61.10-S-0036A
+V-SC-2025020011 7
+16 Install and weld in respective center
+floor section (8.1) at center floor (8)
+(ar
+eas C).If respective weld nut (5) in longitudinal
+member (7) was r
+eplaced.
+A 000 588 02 84 00 Welder WS60.00-P-0022K
+i Perform shielding gas welding at
+intervals and allo
+w to cool down in
+between. This reduces heat distortion.
+17 Grind inert gas weld joints flat on
+r
+espective center floor section (8.1)
+(areas C).If respective weld nut (5) in longitudinal
+member (7) was r
+eplaced.
+18 Clean weld joints and sheet metal
+flange.
+19 Remove spark protection blankets. If respective weld nut (5) in longitudinal
+member (7) was r
+eplaced.
+20 Clean repair area.
+21 Restore surfaces of repair areas on
+center floor (8).If respective weld nut (5) in longitudinal
+member (7) was r
+eplaced.
+If two-component adhesive is not used
+to r
+estore the surfaces,
+↓
+use basic body filler on body .
+f Process filler on body AR60.00-S-0031-01P
+Silicone remover Order No. 3295 BR00.45-Z-1052-04A
+Basic body filler BR00.45-Z-1057-07A
+Parts kit for 2-component adhesive for
+bodyBR00.45-Z-1162-02A
+22 Prime repair areas with primer filler .
+Notice Notes on paintwork repairs AH98.00-P-9408-02A
+i Use only primer fillers approved by
+manufacturer .
+See guidelines for paint technology in
+the workshop portal.
+23 Repaint repair areas.
+Notice Notes on paintwork repairs AH98.00-P-9408-02A
+i Only use paints approved by the
+manufacturer .
+See guidelines for paint technology in
+the workshop portal.
+24 Supplement cavity preservation.
+f AR97.20-S-1500E
+d Install
+25 Install propeller shaft. If respective weld nut (5) on holder for
+r
+etaining bracket (6) was replaced.
+f AR41.10-S-0050E
+26 Install floor co vering in load
+compartment.If respective weld nut (5) in longitudinal
+member (7) was r
+eplaced.
+f Model 447.603 ## as of 862470 up to
+862471 with engine 274.920
+with code V43 (W
+ood flooring)
+with code ZU8 (National version for USA)AR68.30-S-0004E
+27 Install fuel tank.
+f Model 447.603 ## as of 862470 up to
+862471 with engine 274.920
+with code ZU8 (National version for USA)
+e
+xcept code ZL3 (National version for
+Latin America)AR47.10-S-4100EG
+i Use new screws (4).
+i Dispose of old screws (4) properly. To
+do so, observe the applicable legal
+requirements and specifications of the
+relevant country.
+28 Lower vehicle.
+f AR00.60-S-1000ESM61.10-S-0036A Replace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP
+ANBA)
+8 V-SC-2025020011
+Repair materials
+Number Designation Order number
+BR00.45-Z-1052-04A Silicone remover Order No. 3295 Prosol Lacke + Farben GmbH
+Schneidmühlweg 12
+63741 Aschaffenbur g
+Germany
+T
+el. +49 6021 3480-0
+Fax +49 6021 3480-40
+http://www.prosol-farben.de
+BR00.45-Z-1057-07A Basic body filler A 012 989 29 71
+BR00.45-Z-1162-02A Parts kit for 2-component adhesive for body A 012 989 17 71
+Parts ordering note
+Part no. Designation Quantity
+N 910143 010011 Screw, tensioning strap to longitudinal member M10x20 4
+Weld nut M10 (order required new weld nut (5) with specification  "DIN 928-M10-ST" fr om free
+market)As NeededReplace weld nuts on longitudinal member for attaching fuel tank holder (code:
+VS2SP ANBA)SM61.10-S-0036A
+V-SC-2025020011 9

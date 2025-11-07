@@ -1,0 +1,24 @@
+Reference SSM76256
+Models Discovery / L462
+Title Accessory `Fixed Side Step` - Brackets Cracked
+Category Body
+Last modified 28-Jan-2025 00:00:00
+Symptom 108000 Ext. Trim/Accessories
+Content Model / Model Year / Derivative
+Discovery / 21MY onwards / All
+ 
+Situation:
+JLR Engineering investigations have identified reports of front brackets for accessory 'Fixed Side Steps' being
+installed without the spacers. This causes the brackets to fracture during installation.
+The spacers are required when installing the 'Fixed Side Steps' on 21MY onwards vehicles and are detailed in
+the TOPIx installation instructions.
+ 
+Action:
+Refer to the service information below.
+Service Information:
+When installing accessory 'Fixed Side Steps' VPLRP0347 and VPLRP0530 on 21MY onwards vehicles, follow
+the TOPIx installation instructions - Refer to workshop manual section:
+102-03 - Exterior - Fixed Side Steps - VPLRP0269/VPLRP0347 (G2738368) - REMOVAL AND INSTALLATION.
+Spacer kit 'VPLRP0487' must be installed on the front brackets as shown in step 5 of the installation instructions.
+(Ref 000395334 / 3713)
+anBhdHRlcnM7MjA yNS0wMS0yOVQxNT oyNjoyMy4wMzNaOzE2NS4yMjUuOS45ODs=

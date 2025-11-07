@@ -1,0 +1,40 @@
+Involved Region or
+CountryNorth America
+ConditionSome customers may state that the content theft alarm goes oﬀ
+at times for no reason. When the tech inspects the vehicle,
+there are no DTCs, and the theft history shows "glass breakage"
+as the reason. 
+CauseBody Control Module (BCM) software issue. V ehicle is not
+equipped with glass breakage. 
+Version 2
+Modiﬁed01/22/2025 Created On  
+02/13/2025 - Updated Correction.
+Bulletin No.: PIT6323A
+Published date: 02/13/2025
+Preliminary Information
+PIT6323A Content Theft Deterrent Alarm Goes Oﬀ AT Times
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado EV RST 2025 All AllAll All
+GMC Sierra Denali EV 2025 All AllAll All
+ 
+ 
+ 
+ 
+Correction:
+To correct this concern reprogram the K9 BCM with the latest calibrations in TLC/SPS.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base W arranty
+coverage), use the following labor operation. Reference the Applicable W arranties section
+of Investigate  V ehicle History (IVH) for coverage information.
+Labor
+OperationDescription Labor Time 
+2810215Body Control Module Reprogramming
+with SPSUse Published Labor
+Time 
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

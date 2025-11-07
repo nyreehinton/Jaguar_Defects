@@ -1,0 +1,76 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)UKL
+Condition DIC will read SuperCruise unavailable AND driver attention
+assist unavailable AND drowsy driver feature disabled (if
+enabled) 
+CausePossible Image Processing Module Program or Driver Monitoring
+Camera fault
+Bulletin No.: PIT6339
+Published date: 02/17/2025
+Preliminary Information
+PIT6339 Supercruise Unavailable and Driver Attention Assist
+Unavailable and Drowsy Driver Feature Disabled
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Buick Enclave 2025 All AllAll All
+Cadillac CT4 2025 All AllAll All
+Cadillac CT5 2025 All AllAll All
+Cadillac Escalade 2025 All AllAll All
+Cadillac Escalade ESV 2025 All AllAll All
+Cadillac Escalade IQ 2025 All AllAll All
+Cadillac Optiq 2025 All AllAll All
+Chevr oletBlazer EV 2025 All AllAll All
+Chevr oletEquino x EV 2024 - 2025 All AllAll All
+Chevr oletSilverado EV 2024 - 2025 All AllAll All
+Chevr oletSuburban 2025 All AllAll All
+Chevr oletTahoe 2025 All AllAll All
+Chevr oletTraverse (All New) 2024 All AllLKO All
+Chevr oletTraverse 2025 All AllAll All
+GMC Acadia 2024 - 2025 All AllAll All
+GMC Sierra EV 2024 - 2025 All AllAll All
+GMC Yukon 2025 All AllAll All
+GMC Yukon XL 2025 All AllAll All
+ 
+ 
+ 
+ 
+ 
+Correction:    
+Labor Operation Description Labor Time
+*2880067Diagnose SuperCruise unavailable AND
+driver attention assist unavailable AND
+drowsy driver feature disabled0.3 Hr .
+6610050 Driver Monitoring Camera Replacement Use published time
+*This is a unique Labor Operation for Bulletin use only .
+Version 1
+Modiﬁed 02/17/2025 - Created on.If the complaint sa ys BOTH SuperCruise unavailable AND driver attention assist
+unavailable messages
+Reprogram IPM
+Drive the car in SuperCruise enabled/active road - check whether SuperCruise is
+working
+If SuperCruise is still unavailable - check for DTCs set, follow SI Diagnostic
+for appropriate code
+If SuperCruise is still unavailable with driver Attention assist message,
+Replace the Driver Monitoring Camera
+If SuperCruise is working - return the vehicle to the customer
+ 
+If the complaint is SuperCruise unavailable
+Refer to DOC 6763330 SuperCruise Malfunction for further diagnostic
+information to further root cause customer ’s issue.
+Monitor the Drivers Monitoring System Status Signal in the Image Processing
+module 1 Processor1. Under Super Cruise Disable History / Automatically
+Induced Disengagement History /  Lane F ollowing Automatic Disengagement 1 -
+Driver Monitoring System Status Signal Invalid  If invalid replace the Drivers
+Monitoring Camera.
+Perform IPM reset . see - PIC6552 
+If SuperCruise is still unavailable follow  SI Diagnostic
+ 
+Warranty Information
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

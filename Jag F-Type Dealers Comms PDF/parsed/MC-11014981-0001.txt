@@ -1,0 +1,187 @@
+Warranty Field Campaign
+Campaign Number :  c2577  Revision : E Released Date : 27-F eb-2025
+BES CM2450 EV101B Pr ox 2 Connectivity Module Update
+CampaignExpir ation Date (U.S. and
+Canada) : 15-Jan-2026
+Expir ation Date
+(International) : 15-Jan-2026
+Attention
+This is t o revise and r eplace Campaign 2577-D , dated 23-Mar-2023. This r evision is t o:
+1. Re-open the Field Action, and
+2. extend the expir ation date t o: 15-Jan-2026.
+If additional information is r equir ed, please contact y our Cummins W arranty Oper ations Gr oup
+Leader .
+Description
+ActionU.S. / Canadian Distr ./Branches and Div . Offices (A utomotiv e)
+This Campaign is being issued t o addr ess connectivity module (5615689), wiring harness
+(5628700) and GPS antenna (5628701) being r eplaced with a new connectivity module (5661267)
+and wiring harness (6380022) on cer tain BES CM2450 EV101B units. The cellular antenna
+(5628702) is common between the new and old connectivity module, and should be inspected for
+reuse wher e appr opriate. Ther e is no GPS antenna needed with the new Pr ox 2 Connectivity
+Module, and can be discar ded.
+In or der t o qualify for r epair under this field action, a driv etrain system:
+1. will be co vered Regar dless of co verage status, and
+2. must  show as OPEN on QuickSer ve® Online for this field action.
+Note :  The SSN list is attached for r eference.
+After v erifying that the engine meets the abo ve requir ements, per form the following actions:
+Remo ve Prox 1 and Replace with Pr ox 2:
+Material Disposition
+Reimbursements1) Verify installed connectivity module. Check if unit has a Pr ox 1 (5615689) or Pr ox 2
+(5661267) connectivity module.
+1a) If a Pr ox 2 module is installed, no campaign is needed, no fur ther action r equir ed. File an
+Admin ONLY Claim t o close the action for the unit.
+1b) If a Pr ox 1 module is installed, continue with campaign as indicated below . Please r efer to
+Attachment B suppor ting information.
+2) Remo ve the Pr ox 1 connectivity module. Please r efer to the BES CM2450 EV101B Ser vice
+Suite for detailed instructions.
+3) Remo ve bracket (5615691) fr om the panel.
+4) Mount the Pr ox 2 connectivity module t o the br acket accor ding t o instructions in
+Attachment B.
+5) 5. Install the new wiring harness (6380022) and r e-connect the cellular antenna (5628702).
+6) Recor d the Pr ox 2 M AC ID and the bus VIN in the campaign claim.
+Verify Connectivity:
+1) Ensur e SSN/VIN ar e corr ect in SCM.
+1a) Connect t o INSI TE and na vigate t o System ID and Dataplate.
+1b) Under Engine Information ensur e SSN matches dataplate on HVJB, change v alue if
+necessar y.
+1c) Under V ehicle/OEM Information ensur e VIN matches OEM dataplate abo ve driv er seat,
+change v alue if necessar y.
+2) Turn on the v ehicle for 15 minutes in an ar ea of good cell r eception.
+3) Sear ch b y SSN in pdser vice.e v.cummins.com.
+Note :  This is not a liv e link, y ou will need t o key the URL int o your br owser .
+4) The v ehicle should populate and indicate a Last Sync status of ~1 minute ago.
+4a) If a v ehicle does not populate, ensur e the SSN/VIN ar e corr ect in the SCM. If the y are,
+contact connectedsol.suppor t@cummins.com with the De vice ID (Number after the (S) on the
+box label), SSN, VIN.
+4b) If the v ehicle does populate and does not indicate a Last Sync status, ensur e the cell
+antenna is secur ely installed and the gr een light on the Connectivity Module is flashing. If so,
+contact connectedsol.suppor t@cummins.com with the De vice ID (Number after the (S) on the
+box label), SSN, VIN.
+Wher e applicable, items r emo ved should be r eturned t o ReCon for cor e credit. Unless other wise
+indicated, items with no cor e liability can be scr apped.
+Parts
+The following par ts ar e co vered under this field action:
+Note :  All par ts listed ar e OPTION AL. Claim only  the par ts requir ed to complete the
+repair . Both individual components and the t op le vel assembly par t numbers ar e listed.
+The intent of this Campaign is t o update the system t o the new Pr ox 2 Connectivity
+Module and r elated components. Wher e possible and appr opriate for the upfit,
+individual components should be inspected and r eused.
+PART # QUANTITY DESCRIPTION
+562870200 1 ANT (OPTION AL)
+566126700 1 MDL,A CS (OPTION AL)
+638002200 1HAR,WRG (OPTION AL -
+REQUIRED FOR UPD ATE)
+638214000 1 MDL, A CS (OPTION AL)
+Note :  SRTs to gain access that ar e requir ed to complete the r epair , that ar e sufficiently
+explained in the claim narr ative, ma y also be claimed on this action.
+Note :  All SR Ts listed ar e OPTION AL. Select ONLY the appr opriate SR Ts for the r epair
+performed. If the Connectivity Module does not need changed, file an Admin ONLY
+claim t o close the field action.
+Labor Using A pplicable Access Code and Time
+SRT Code Description Time (hrs)
+00-90X Administr ative time
+19-1G4Connectivity Module -
+Remo ve and Install - BES
+CM2450 EV101B (OPTION AL)
+99-00ADRILL HOLES FOR NEW
+MODULE (Q TY 1) (OPTION AL)
+99-901FEATURES AND
+PARAME TERS TRIM
+UPD ATES (Q TY 1)
+(OPTION AL)
+Travel
+Travel is co vered under this field action. Towing is co vered under this field action.
+Other Claimables
+Consumables ar e co vered under this field action.
+Note :  Additional par ts, such as o-rings, gask ets and fasteners, that ar e requir ed to
+complete the r epair , but not listed, ma y be claimed in Other Claimables. Please
+consolidate all consumables and claim them as one line item in Other Claimables titled
+Claim Instructions
+Claim Codes
+Description Code
+Account Code: 65
+Pay Code: North America Distribut or = X
+Pay Code: North America Dealer = D
+Pay Code: International Distribut or = I
+Pay Code: International Dealer = R
+Failur e Code: WDSCMB
+Attachments
+Engine F amily Fuel System
+Design A pplication Mark et Application
+Automotiv e Bus
+Document Hist oryCAMP AIGN SUPPLIES or other appr opriate selections. Please include brief summaries
+on the details of items claimed. A lack of documentation in the narr ative ma y result in
+a reduction in claim r eimbursement or claim denial.
+For Cummins Dealers, claims for this Field Campaign must  be filed via RAPID SERVE™ W eb
+(rsw .cummins.com). F or information r egar ding RAPID SERVE™ W eb, please r eference the
+"Warranty " tab in QuickSer ve® Online. If ther e are additional questions, please contact y our local
+Cummins Distribut or.
+Click her e to see c2577_esn-list.xlsx
+(/ser vice/english/attachments/c2577_esn-list.xlsx)  Click her e to
+see c2577_pr ox2_upfit_instructions_attachment-b.pdf
+(/ser vice/english/attachments/c2577_pr ox2_upfit_instructions_attachment-b.pdf )
+Date Details
+Document Cr eated; 15-Mar-2022
+Updated the Action, update A ttachment B; 10-Ma y-2022
+Last Modified:  27- Feb-2025Date Details
+Updated the P arts List; 19-Ma y-2022
+Update the Description, update the Action, update the P arts List,
+update the SR T list; 07-Mar-2023
+Update the Description, update the Reimbursements, update the P arts
+list; 23-Mar-2023
+Reopen the Field Action, extend the expir aiton date; 27-F eb-2025
+1
+Rover Telematics –Saucon Module –Prox2 Production changes
+5615689 
+MODULE,WIRELESS 
+ACCESS ID15 -1
+5615691 
+BRACKET,MODULE ID10Prox1 5615688 ID21 Manufacturing Assy
+5628700 HARNESS,WIRING ID15 -1
+5628701 ANTENNA  ID15 -1 (gps)
+5628702 ANTENNA ID15 -1 (cellular)
+5661270 HARNESS,WIRING ID15- 1
+5628702 ANTENNA ID15- 1 (cellular)5661267 
+MODULE,WIRELESS ACCESS ID15- 1Prox2 Components
+2Rover Telematics –Saucon Module –Prox2 UPFIT
+5661270 HARNESS,WIRING
+5628702 ANTENNA (cellular)
+Re-use5661267 
+MODULE,WIRELESS 
+ACCESSRequired parts for Prox1 to Prox2 upfit:
+2x 16mm long M5 bolt
+5615691 BRACKET,MODULE
+Re-use
+3 Cummins Confidential
+OEM Sheet Metal Panel 
+installed on back wall of cabinSaucon Prox 1 
+mounted to bracketVertical 
+UpProx1Rover Telematics –Saucon Module –Prox2 UPFIT instructions
+1. Disconnect cellular antenna, but leave installed (will reconnect and use)
+2. Disconnect & remove jumper harness and GPS antenna.
+3. Remove Prox1 module/bracket from OEM panel; save (4) OEM screws for re -use.
+4. Remove 4 M4 screws attaching Prox1 to bracket
+
+4 Cummins ConfidentialRover Telematics –Saucon Module –Prox2 UPFIT instructions (cont.)
+6. Attach Prox2 module backet using 
+existing 16mm long M5 bolts
+1.8 Nm ±0.3 Nm7. Install Prox2/bracket assembly to OEM panel re- using (2) OEM 
+screws. Mount the top of the bracket to the bottom OEM panel holes to shift the bracket down
+8. Re-connect cellular antenna.
+9. Install new jumper harness.
+
+5Verify Communication
+Once the box is replaced:
+1. Ensure SSN/VIN are correct in SCM
+• Connect to INSITE and navigate to System ID and Dataplate
+• Under Engine Information ensure SSN matches dataplate on HVJB, change value if necessary
+• Under Vehicle/OEM Information enusre VIN matches OEM dataplate above driver seat, change value if 
+necessary
+2. Turn on the vehicle for 15 minutes in an area of good cell reception
+3. Search by ESN in pdservice.ev.cummins.com
+4. The vehicle should populate and indicate a Last Sync status of ~1 minute ago
+• If a vehicle doesn’t populate, ensure the SSN/VIN are correct in the SCM. If they are, contact 
+connectedsol.support@cummins.com with the Device ID (Number after the (S) on the box label), SSN, VIN.
+• If the vehicle does populate and doesn’t indicate a Last Sync status, ensure the cell antenna is securely 
+installed and the blue light on the Connectivity Module is flashing. If so, contact 
+connectedsol.support@cummins.com with the Device ID (Number after the (S) on the box label), SSN, VIN.

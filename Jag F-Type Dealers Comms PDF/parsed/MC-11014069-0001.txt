@@ -1,0 +1,144 @@
+  
+ 
+   
+ 
+CAMPAIGN BULLETIN  
+Turbocharger 
+Emission Warranty Extension  
+Retailer Notification  
+ 
+Reference: P4A 05, P4A06  
+Date: February 4, 2025  
+ 
+Attention: Retailer  Principal, Sales , Parts and Service Managers  
+P4A 05/P4A06  | Original Document  QUALITY ACTION  
+Affected  
+ Models/Years:  Affected 
+Population:  Retailer 
+Inventory:  SERVICE COMM 
+Activation date:  Stop Sale  
+In Effect  
+2016-2018  Q50 (V37) 76,618  
+NA February 4, 2025  NO 2017-2018 Q60 (CV37)  19,978  
+* Eligibility will appear on the warranty extension page of Service Comm  
+** MY18.5 not included in warranty extension  
+ 
+***** Retailer Announcement *****   
+ 
+INFINITI is committed to providing the highest levels of product quality and customer satisfaction.  
+Therefore, INFINITI is conducting a warranty extension to Full Useful Life (FUL) of 10 years or 
+120,000 miles, whichever occurs first, if white smoke or oil leak occurs with MIL -On condition that 
+requires replacement of the turbocharger assembly on  model year 2016 -2018 Q50 and model year 
+2017-2018 Q60.  All other warranty terms, limitations, and conditions remain unchanged.  
+  
+On some model year 2016 -2018 INFINITI Q50 and 201 7-2018 Q60 vehicles there is a possibility 
+that the turbocharger bearing may leak engine oil internally due to premature wear.  The internal 
+turbocharger oil leak may cause one or more of the following: Excessive smoke from the exhaust, Service Engine Soon (MIL) light and in severe cases, lack of engine power or damage to the internal 
+components of the turbocharger.  
+ During the limited emission warranty extension period, owners are eligible for free replacement of the Turbocharger if it  is determined to be required by a n INFINITI trained technician.  Owners of eligible 
+vehicles will receive notification of this limited emission warranty extension during February 2025. 
+ ***** What Retailers Should Do *****   
+1. Verify if vehicles are eligible for this Warranty Extension using the warranty extension page 
+of Service Comm . Then , proceed with the instructions in  item (2) below .  
+ 
+2. If a c lient contacts the retailer with a Turbocharger concern in an owned or leased vehicle, 
+retailers  should use the Electronic Service Manual  (ESM) and appropriate Technical Service 
+Bulletin s (TSB) to diagnose the root cause of the customer concern and identify the correct 
+repair to resolve the customer concerns.  
+ 
+NOTE:  Retailers  will need to follow the warranty process and obtain pre -approval when the 
+repair cost exceeds a Retailer’s  Claims Administration/Authorization Limits (DCAL).  
+ 
+CONFIRM: With the vehicle at operating temperature excessive smoke from exhaust, the 
+Service Engine Soon (MIL) light on (with DTC P0106) due to excessive oil in the intake system from a turbocharger, or other damage to the turbocharger due to unusual bearing 
+ 
+P4A05/P4A06  | Original Document  wear and oil leakage. Proceed to replace the affected turbocharger(s) and update the vehicle 
+to the latest engine software.  
+ 
+IMPORTANT :  
+ If the vehicle has some smoke at cold start confirm that it is not due to water vapor and that it remains present after vehicle warm up.  
+ This warranty does not cover vehicles that have modifications of the ECM software and/or hardware modifications that may affect the turbo charger durability.  
+ 
+3. The service department should submit the applicable warranty claim for the action performed.  
+ 
+***** Retailer  Responsibility ***** 
+ 
+It is the retai ler’s responsibility to check Service Comm or DBS National Service History – Open 
+Campaign using the appropriate campaign I.D for the inspection status on each affected vehicle 
+currently in new vehicle inventory.  
+ 
+    Frequently Asked Questions (FAQ):  
+ 
+Q. Is this a recall?   
+ 
+A. No. This is not a recall. This is a limited emission warranty extension.  
+ 
+ 
+Q. How long is the warranty extension?   
+ 
+A. INFINITI is conducting a warranty extension to Full Useful Life (FUL) of 10 years or 120,000 miles, whichever occurs first, if white smoke or oil leak occurs with MIL -On condition that 
+requires replacement of the turbocharger assembly on model year 2016 -2018 Q50 and 
+model year 2017 -2018 Q60 . All other warranty terms, limitations, and conditions remain 
+unchanged.
+ 
+ 
+ 
+Q. What is the reason for this warranty extension?   
+ 
+A. On some model year 2016 -2018 INFINITI Q50 and 201 7-2018 Q60 vehicles there is a 
+possibility that the turbocharger bearing may leak engine oil internally due to premature wear.  The internal turbocharger oil leak may cause one or more of the following: Excessive smoke from the exhaust, Service Engine Soon (MIL) light and in severe cases, lack of engine power or 
+damage to the internal components of the turbocharger.  
+ 
+ 
+Q. What is the possible effect of the condition?   
+ 
+A. These conditions have no effect on vehicle safety  or drivability.  
+ 
+ 
+Q. What will the warranty extension cover?   
+ 
+A. During the warranty extension period, owners are eligible for replacement of the Turbocharger if it  is determined to be required by a n INFINITI trained technician.  
+ 
+P4A05/P4A06  | Original Document   
+ 
+Q. How long will the warranty repair take?  
+ 
+A. These replacements could take up to one (1) day to complete, but your INFINITI retailer  may 
+require your vehicle for a longer period of time based upon their work schedule or if additional diagnosis is required as described above.  
+ 
+ 
+Q. Are parts readily available?  
+ A.  Yes.  
+ 
+ 
+Q. How can a retailer  identify vehicles eligible for the warranty extension?   
+ 
+A. Retailers  can refer to the warranty extension page of Service Comm for eligibility.  
+  
+ 
+Q. I did not receive a letter, how can I tell if my vehicle is affected?  
+ 
+A.  Please provide your vehicle identification number (VIN) so that I can check if your vehicle is included in this warranty extension.  
+  
+Q. Is my vehicle safe to drive?  
+ A. These conditions have no effect on vehicle safety, drivability, or fuel economy.  There could be a decrease in performance if either condition were to occur.  
+ 
+ 
+Q.  Will I have to take my vehicle back to the selling retailer  to have the service performed?  
+ A. No, any authorized INFINITI retailer  is able to perform this service.  
+               
+ 
+Q. How can owners seek reimbursement for repairs previously conducted?   
+ 
+A. If you previously paid to diagnose and repair a turbocharger for your 2016 -2018 INFINITI 
+Q50 or  2017-2018 Q60  within the warranty extension term of 10 years or 1 20,000 miles 
+(whichever occurs first), you may be eligible for reimbursement of this expense, even if your vehicle is now beyond the limits of the warranty extension. Please go to www.INFINITIassist.com
+ for complete information and instructions including the 
+Reimbursement Claim Form.  
+ 
+Revision History:  
+ 
+Date  Announcement  Purpose  
+February 4, 2025  Original Document  Emission Warranty Extension  
+Announcement  
+ 

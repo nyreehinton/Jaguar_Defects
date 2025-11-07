@@ -1,0 +1,304 @@
+THIS ITS DOCUMENT SHOULD BE RETAINED AND REFERRED TO FOR FUTURE MAINTENANCE UNTIL 
+THE NEW FLYER PARTS AND/OR SERVICE MANUAL IS UPDATED TO REFLECT WORK DONE AS A 
+RESULT OF THIS DOCUMENT. ENSURE THAT THIS DOCUMENT IS AVAILABLE FOR PARTS AND 
+MAINTENANCE STAFF GOING FORWARD.  
+ 
+ 
+  
+This document and the contents discussed herein are the confidential and proprietary information of New Flyer Industries Cana da 
+ULC and New Flyer of America Inc. and are disclosed by New Flyer in confidence. This document and the contents herein are not  
+to be disclosed by the intended recipient without the prior written authorization of New Flyer. Any unauthorized disclosure, 
+reproduction or other distribution of this document or information strictly prohibited and may result in action being taken a gainst 
+the party making the unauthorized disclosure. This document and all copies hereof must be returned to New Flyer upon request.    
+INSTRUCTION TO SERVICE  
+ 
+ITS61123  FEB 13, 2025  
+SECTION:  290-ELECTRICAL SCHEMATICS  
+SUBJECT:   
+FEBS BATTERY PROGRAM UPDATE PROCEDURE – FW 2324  
+ 
+SUMMARY:  FW2324 offers:  
+• Improved BMS response to overcharging and other functional safety 
+mechanisms  
+• Robust detection of failure modes through DTCs  
+• Battery Data Recorder (BDR) capabilities  
+• Streamlined flashing processes.  
+• Logic improvements for better integration with application  
+ 
+AFFECTED SR:   ELFA 3 Buses  
+     
+ITS  61268  
+ 
+  
+Ref. NHTSA Recall No.  Ref. Transport Canada Recall No.  
+Not Applicable  Not Applicable  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 2 of 9 Feb 13, 202 5 
+ 
+ 
+ 
+Contents  
+INSTRUCTION TO SERVICE  ................................ ................................ ................................ ................................ .... 1 
+1. EQUIPMENT/FILES REQUIRED:  ................................ ................................ ................................ ......................  3 
+2. SET UP/INSTALL THE XST  ................................ ................................ ................................ ..............................  3 
+3. FLASH THE BOOTLOADER ON SCU  ................................ ................................ ................................ ..............  3 
+4. FLASH THE BOOTLOADER ON MCU ................................ ................................ ................................ ..............  4 
+6. FLASH THE BMS FILE TO THE MCU  ................................ ................................ ................................ ..............  5 
+7. SOFTWARE VERIFICATION  ................................ ................................ ................................ ............................  5 
+8. TROUBLESHOOTING: BDU FAILS TO INITIALIZE  ................................ ................................ .........................  6 
+9. CLEAR CODE INSTRUCTIONS FOR 2150 -2324 XST ................................ ................................ .....................  7 
+LIST OF ABBREVIATIONS  ................................ ................................ ................................ ................................ ........  8 
+ 
+  
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 3 of 9 Feb 13, 202 5 
+ 
+ 
+1. EQUIPMENT /FILES  REQUIR ED: 
+1.1. NEXIQ with USB-Link 2 cable  or PCAN tool  
+1.2. Battery diagnostic cable . NF P/N - 704950  
+1.3. Software package  
+Contact Service Engineering specialist for software package  via sending email at  
+serviceorganization_electrical@newflyer.com   
+1.3.1.   2324 XALT  Service Tool ( XST) 
+1.3.2.   Supplied bootloader 2150 file  
+1.3.3.   Supplied BMS_00XX_232403_02  and above  
+1.3.4.   Supplied MCU  _2150XX_XX .mot file 
+NOTE: Before the start of the procedure make sure the SOC  on the bus  is above 30 %, T30 supply (24V battery) 
+is within the specified range and your laptop is fully charged or connected to a charger to prevent any  
+interruptions .  
+2. SET UP/INSTALL THE XST  
+2.1. Copy and paste the XST_2324.zip file provided by SES.  
+2.2. Extract the zip folder on your  laptop. C drive preferred.  
+2.3. Navigate to the binary folder under the XST_2324 main folder and double click on the XST_2324_01.exe  
+to install the software. A desktop shortcut will be added to the desktop.  
+2.4.  Refer Xpand  service tool user manual in the support documents folder provided with zip folder for any 
+further information on how to use the xst.  
+3. FLASH THE BOOTLOADER ON SCU  
+NOTE: Updating the Boot Loader carries the risk of rendering the controller inoperable if the procedure is not 
+followed correctly or is interrupted. It is crucial to ensure that both CAN communication and Unswitched Power 
+(T30) remain uninterrupted during the up date process. Therefore, take extra care to avoid any disruptions while 
+performing th e following  procedure.  
+ 
+3.1. Turn MRS to the ON position.   
+3.2. Connect the interface harness aka octopus’ cable to the NEXIQ and to the BDU diagnostic port. Connect 
+the NEXIQ to your laptop with a USB cable.  
+3.3. Within the interface harness, connect CAN 1 to STRING 1  (the NEXIQ with the XST tool only 
+communicates on CAN 1 – so you’re connecting the NEXIQ to one string at a time).  
+3.4. On the XST software navigate to the flash tab.  
+3.5. Set the CAN Channel to Channel 1, Baud rate to 250K and Hardware to Nexiq.  
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 4 of 9 Feb 13, 202 5 
+ 
+3.6. Select the “browse” button and navigate to where the BOT_2150_02.mot  file is located . Choose the file 
+and press the Flash button to start flashing the MCU.  
+3.7. Ensure that the flash progress reaches 100%, and the final message from the flash tool states: “FLASH: 
+Positive response to STOP ”. 
+3.8. When done wait for 60 seconds before moving to the next SCU.  
+3.9. Repeat the flashing process for each SCU, closing and reopening the XST software after each flash.  
+4. FLASH  THE BOOTLOADER ON MCU   
+4.1. Turn MRS to the OFF position, ensuring the multiplex system is still awake  
+4.2. In Vansco Diagnostics, force the MCU enable output signal to the active/ON state  i.e. MCU T15 vansco 
+output set to true  
+4.3. Connect the Nexiq CAN interface plug to the Ebus black  diag port.  
+4.4. Connect the Nexiq USB plug to the laptop and launch  XST_2324  software.  
+4.5. On the XST software navigate to the flash tab.  
+4.6. Set the CAN Channel to Channel 2, B aud rate to 250K and Hardware to Nexiq.  
+ 
+Fig 1: XST setup for MCU bootloader  
+ 
+4.7. Select the “browse” button and navigate to where the BOT_2150_02.mot  file is located. Choose the file 
+and press the Flash button to start flashing the MCU.  
+4.8. Ensure that the flash progress reaches 100%, and the final message from the flash tool states: “FLASH: 
+Positive response to STOP ”. 
+ 
+5. UPDATING THE ESS NETWORK TO 500K BAUD RATE   
+NOTE: At this point, the bootloader has been updated, but the system is now running at 250k baud rate. 
+Follow the step below to bring the network to 500K baud rate to be compatible with single binary flash.  
+ 
+5.1. Load the supplied BMS 2150 file appropriate ( MCU _XXXX_0002_ XX.mot) for the batteries .   
+5.2. Connect the Nexiq CAN interface plug to the Ebus black diag port.  
+5.3. Connect the Nexiq  USB plug to the laptop and launch XST_2324 software.  
+5.4. On the XST software navigate to the flash tab.  
+5.5. Set the CAN Channel to Channel 2, Baud rate to 500K and Hardware to Nexiq  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 5 of 9 Feb 13, 202 5 
+ 
+5.6. Select the “browse” button and navigate to where the supplied MCU _XXXX_0002_ XX.mot  file is located. 
+Choose the file and press the Flash button to start flashing the MCU.  
+5.7. Monitor the XST tool completion bar at the bottom of the flash tab on the tool.  
+5.8. Ensure that the flash progress reaches 100%, and the final message from the flash tool states: “FLASH: 
+Positive response to STOP”.  
+5.9. Close the  XST software .  
+5.10.  Clear the forced state on the MCU enables signal.   
+5.11.  Turn the MRS to the ON position.  
+6. FLASH  THE BMS FILE TO THE MCU   
+IMPORTANT! After updating the Bootloader on all battery system components, you only need to perform Single 
+Binary Flash for future BMS software updates.  
+ 
+6.1. Keep  the MRS to the ON position  and CAN interface device to FEBS application CAN (Ebus diag port)  
+6.2. Reopen the XST software, navigate to the Flash tab . 
+6.3. Set the  CAN Channel - Channel 2; Baud rate – 500K; Hardware – Nexiq . 
+6.4. Press the browse button and choose the supplied BMS_00 XX_232403_02.mot .  
+ NOTE: BMS file is specific to battery type  
+6.5. Press the Flash button and wait until the flash bar reaches 100%.  
+6.6. Ensure that the flash progress reaches 100%, and the final message from the flash tool states: “FLASH: 
+Positive response to STOP .  
+6.7. Close the XST software.  
+6.8. Once complete d successfully – Turn the MRS to the OFF position for 5 minutes ( USE TIMER)  and then 
+Turn the MRS to the ON position   
+7. SOFTWARE VERIFICATION  
+7.1. Keep the  MRS to the ON position  
+7.2. Reopen the XST software, navigate to the Flash tab.  
+7.3. Use the settings CAN Channel - Channel 2; Baud rate – 500K ; Hardware – Nexiq . 
+7.4. Under the Live Data tab, you can find the current software version flashed to the MCU, and each battery 
+string.  
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 6 of 9 Feb 13, 202 5 
+ 
+Fig 2: XST to verify the software and bootloader  
+ 
+8. TROUBLESHOOTING: BDU FAILS TO INITIALIZE  
+If the BDU fails to initialize after a BMS flash, follow these steps to diagnose the issue:  
+1. Set the T15 to 24V.  
+2. Monitor the current draw at the T30. Initially, the current should be around 130 mA.  
+3. Observe if the current gradually drops to approximately 0 mA within 5 seconds.  
+If this behavior occurs, it indicates a failure in initialization. In such cases, proceed with the BDU recovery 
+procedure to resolve the issue.  
+RECOVERY PROCEDURE FROM FEBS  
+1. Have access of SCU_1940XXXX_XX.mot  file on your laptop. Contact SES group to share the file if 
+needed.   
+2. Access to either the BDU’s Service CAN or isolated Internal CAN  
+3. Ensure the XST and its CAN interface is connected to the BDU (via Internal or Service CAN)  
+4. Verify T15 is OFF (0 Volts).  
+5. Within the XST, load the 1940 based SCU software into the tool, but do not “Start Flashing”.  
+6. Set T15 ON (24 Volts) and within 5 seconds, “Start Flashing” via the XST.  
+7. The XST will provide positive feedback that flashing was successful.  
+8. Put the BMS to sleep by setting T15 OFF (0 Volts).  
+
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 7 of 9 Feb 13, 202 5 
+ 
+9. Wait either 5 minutes OR until T30 (unswitched power supply) current draw falls to ~0 mA.  
+10. Wake -Up the BMS by setting T15 ON (24 Volts)  
+11. Repeat steps 8 through 10, for a total of two sleep -wake cycles.  
+12. Within the XST, load the Production Intent BMS software, and “Start Flashing”  
+13. The XST will provide positive feedback that flashing was successful.  
+14. Put the BMS to sleep by setting T15 OFF (0 Volts).  
+15. Wait either 5 minutes OR until T30 (unswitched power supply) current draw falls to ~0 mA.  
+16. Restore the BDU into the system with other strings, MCU, low voltage wiring, etc.  
+17. Set T15 ON (24 Volts) and, via Application CAN check that:  
+a. BATT_Comm_StringsAddressed is equal to the number of BDUs in the system.  
+b. BATT_State_sysPwrdMd is IDLE  
+9. CLEAR CODE INSTRUCTIONS FOR 2150 -2324 XST   
+9.1. Click and highlight the Permanent fault.  
+9.2. Right click on the permanent fault.   
+9.3. Select the bottom most option for clear fault in drop down window.   
+9.4. Insert above clear code into newest pop -up window using CTRL+C (to copy) and CTRL+V (to paste).   
+9.5. Copy and paste the Authorization Code into the “Authentication Code” window.  
+9.6. Be sure when copying that no blank or invisible characters populate at the beginning or end of the code.  
+9.7. You will get confirmation that it was activated.  
+9.8. You will need to right click on each string and then select “clear fault”.  
+9.9. It will state something along the lines of code still active.   
+9.10.  After doing this for all strings key the bus off for 10 minutes.    
+9.11.  Key the bus back on and then check with XST to ensure no faults remain.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 8 of 9 Feb 13, 202 5 
+LIST OF ABBREVIATIONS  
+ 
+Abbreviations  Description  
+APP Application  
+BDU  Battery Disconnect Unit  
+BMS  Battery Management System  
+CAN  Controller Area Network  
+FBPS  Freudenberg Battery Power Systems  
+HV High Voltage  
+LV Low Voltage  
+MCU  Master Control Unit  
+SCU  String Control Unit  
+XST XPAND Service Tool  
+SES aka TSS  Service Engineering Specialist.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTION TO SERVICE  
+ITS6 1268  
+ 
+   
+ITS61268  Page 9 of 9 Feb 13, 202 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LABOUR ESTIMATE  
+ Operation  Number of 
+Technician(s)  Hours  Labor Time  
+T X HR  
+1 Rework - Update FEBS software to rev 2324  1 0.25 0.25 
+     

@@ -1,0 +1,30 @@
+From: Broadcast Messaging System
+To: DL-BMS_Message_Monitors
+Subject: MINI Service Action - Tailgate Lock M51 02 25
+Date: Friday, February 7, 2025 5:16:17 PM
+Publish Date:
+From:
+Expiration Date:February 7, 2025 
+Technical ServiceFebruary 21, 2025DCSnet Message  
+Urgent
+Subject:MINI Service Action - Tailgate Lock M51 02 25
+Vehicles affected by the Tailgate Lock Service Action (M51 02 25) may be delivered with verbal
+communication to the customer about this campaign prior to delivery. 
+Inform the customer that the issue is NOT safety-related, but that it is possible the trunk/hatch may
+not completely latch immediately upon closing.  If this occurs, the trunk or hatch will noticeably re-
+open while the vehicle is stationary.  Parts will be available soon, and this will be remedied at a
+future workshop visit.
+As the Service Action is loaded throughout our systems, you may see the vehicles turn Green within
+the ROSS Tools.  However, this is only temporary and will turn Red the next day.  Once parts
+become available, we will turn vehicles Green. 
+ 
+If vehicles have any other open Campaigns, they must be completed prior to delivery to the
+customer.
+ 
+Sincerely,
+Technical Service
+Attachments:
+No Attachments
+Recipients: MINI Passenger Cars, All Offering, All Region, All Areas, All Departments, All Personnel
+MINI Passenger Cars, CC-All
+  

@@ -1,0 +1,81 @@
+  
+ 
+           
+1 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789  
+7ISSUE DATE:  6/8/2020 
+SERVICE BULLETIN SUBJECT:  Defroster Hose Screw Securement Retrofit  
+VINs or MODELS AFFECTED:  Service Specified Buses  
+COMPLETE BY : Next Service Opportunity  
+SERVICE BULLETIN #:  SB-20-82 
+ 
+DEFROSTER HOSE SCREW SECUREMENT  RETROFIT  
+NOTICE! It is expected that this process will require 8  hour s per bus.  Please 
+schedule appropriately to minimize vehicle downtime.  
+Retrofit Description:  
+This retrofit  adds screws to the defroster hoses to better secure them to the defroster.  
+  
+2 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Tools/P arts Required 
+Tools  and Supplies  Required:  
+• T-30 Torx Driver  
+• #2 Phillips Screwdriver  
+• Power Drill  
+• 1/8-Inch Drill Bit  
+ 
+ 
+Parts Required:  
+• 018308-003  SCREW, PAN, TAP, SS, ST6.3X19  14 EA  
+• 044505   HOSE, 2.5", DEFROSTER    17 FT  
+ 
+ 
+ 
+    
+ 
+  
+3 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+Procedure : 
+1. Preform the Proterra approved Lockout/Tagout procedure to make the bus safe for work.  
+ 
+2. This procedure will replace the Defroster Hoses shown in the following illustration and add 
+screws to secure these  new hoses . 
+ 
+ 
+3. Using a T -30 Torx Driver, remove the panels necessary to access the defroster.  
+ 
+4. Using an Approved Safety Knife, cut the new Defroster Hose ( 044505) to length and replace 
+each hose on the Defroster one by one.  
+ 
+5. The following illustration shown the place ment  of the Clamp and Screw (018308- 003) relative 
+to the plenum outlets.  The edge of the clamp should be no more than 9mm from the edge of 
+the outlet. The Screw should be at least 5mm from the edge of the outlet.  
+ 
+9mm Minimum  
+ 
+ 
+  
+5mm Minimum 
+ 
+4 | Page  
+ Headquarters: 1815 Rollins Road, Burlingame, CA 94010 
+East Coast Manufacturing:  1 Whitlee Court, Greenville, SC 29607 
+West Coast Manufacturing: 383 Cheryl Lane, City of Industry, CA 91789 
+6. Using a Power Drill with a 1/8 -Inch Drill Bit, drill a hole and install two Screw s (018308- 003) to 
+secure each flexible duct to the defroster  as shown in the following photographs . The screws 
+should be 180 degrees apart on each duct.  The minimum dimensions shown in the previous 
+step should be observed.  
+  
+ 
+7. Using a #2 Phillips Screwdriver tighten the screws.  
+ 
+8. Using a T -30 Torx Driver, replace the panels that were removed to access t he defroster.  
+ 
+9. Remove the Lockout/Tagout devices and return the bus to service.  

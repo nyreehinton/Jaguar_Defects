@@ -1,0 +1,49 @@
+AfterSalesFeb 21, 2025
+Page 1 of 2E3.II Cayenne – All-Wheel Drive Warning in the Instrument Cluster
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne As of 2024 up to 2025 9YA, 9YB N /A N /A
+Revision History
+Revision Release Date Changes
+0 February 21, 2025 Original document
+Condition
+The customer  experiences of a yellow warning in the instrument cluster for “All-wheel drive system error” and/or 
+white warnings f or various assistance systems.
+The workshop often finds fault code U12B600 – Shiftable all wheel drive control module, No Communication stored 
+in the Ga teway control unit.
+Advanced Technical Information 3Bulletin #: 2504
+Part ID: 3995
+Figure 1
+AfterSalesFeb 21, 2025
+Page 2 of 2Technical Background 
+  A software bug in the Gateway leads to the misdiagnosis of the aforementioned fault code and sets the fault code   
+ each time the ignition is switched off. 
+ As of All-wheel drive control unit (AWD CU) software version 1301, fault code U12B600 does not force the above   
+ yellow warning in the cluster or any white assistance system warnings.
+Service Information 
+ 1. Check the AWD CU software version and ensure that it is at version 1301 or newer. If necessary and   
+  applicable, please update the AWD CU to software version 1301 or newer.
+  a. NOTE:  Software version 1301 is included in Workshop Campaign WRX1 – Update to Software   
+   Network VR14 . Please ensure this campaign is completed before performing any further diagnosis.
+ 2. If the instrument cluster warnings persist, please check the rest of the fault memory and continue with   
+  other diagnosis.
+Warranty 
+ Labor position:
+  
+ PCSS encryption:
+Search Items 
+ E3PA, Cayenne, AWD, all-wheel drive, Gateway, U12B600, instrument cluster
+Advanced Technical Information 3Bulletin #: 2504
+Part ID: 3995
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+6_18960
+©2025 Porsche Cars North America, Inc.Location (FES5) 90350 Gateway control unit
+Damage type (SA4) 1134 Programming errorAPOS Labor operation I No.
+03350050 On board diagnostic
+03350053 On board diagnostic-Create VAL                                                                                                                                                   
+39952550 All-wheel drive electronics (PTM) control unit program

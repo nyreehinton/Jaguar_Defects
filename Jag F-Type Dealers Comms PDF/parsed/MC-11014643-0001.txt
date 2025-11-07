@@ -1,0 +1,54 @@
+Involved Region or
+CountryNorth America
+Additional Options
+(RPO)NQH
+Condition Transfer case clutch set up tools do not ﬁt
+Cause New tool being developed. 
+Bulletin No.: PIP5901B
+Published date: 02/27/2025
+Preliminary Information
+PIP5901B Transfer Case Clutch Set Up and Installation
+Models
+Brand: Model: Model Y ears:VIN:Engine: Transmissions:from to
+Chevr oletSilverado 2500 HD 2020 - 2025 All AllAll MGM MGU
+Chevr oletSilverado 3500 HD 2020 - 2025 All AllAll MGM MGU
+GMC Sierra 2500 HD 2020 - 2025 All AllAll MGM MGU
+GMC Sierra 3500 HD 2020 - 2025 All AllAll MGM MGU
+ 
+ 
+When trying to perform clutch pack set up for the HD NQH the tool currently called out, DT -
+48213-5 T ransfer Case Clutch P ack Height Measuring Adapter , is not available. 
+There is no work around, so for transfer cases needing clutch pack related repairs, you will
+need to replace the complete assembly . 
+Please mak e sure to get the clutch identiﬁer from the tag of the new transfer case
+assembly that needs to be loaded into the transfer case control module.
+For vehicles with shudder/bind on turns in auto 4wd where clutches are suspect, please
+see the latest version of TSB 19-NA-136 .
+For these types of complaints, it has been noted that changing the ﬂuid then driving the
+vehicle, shifting between 2wd and 4wd about 10 times then changing the ﬂuid a second
+time has the best result. (Currently TSB revision being discussed)
+For information on tool availability or tool related questions please
+contact GMToolsAndEquipment@snapon.com    or call  844-742-8471
+This PI will be deleted when the tools are received at dealers.
+Parts Information
+Part Number Description Quantity
+85120263 Transfer case (NQH) MGM or MGU 1
+ 
+Warranty Information
+For vehicles repaired under the Powertrain coverage, use the following labor operation.
+Reference the Applicable W arranties section of Investigate V ehicle History (IVH) for
+coverage information.
+Version 3
+Modiﬁed02/13/2023 - Created on 
+08/20/2019 - Updated models.  
+02/27/2025 - Updated models to add 2025 myLabor
+OperationDescription Labor Time
+8421160Transfer Case Assembly
+ReplacementUse Published Labor
+Time
+ 
+Version History
+ 
+ 
+GM Global Brands
+© 2025 General Motors. All Rights R eserved.

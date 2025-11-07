@@ -1,0 +1,10 @@
+   
+SSM 53375   2023-2025 F-Super Duty - Illuminated Powertrain Malfunction
+(Wrench) Indicator With DTCs P2122, P2123, P2127, P2128, And/Or P2138
+Some 2023-2025 F-Super Duty vehicles may exhibit an illuminated powertrain malfunction (wrench) indicator
+with diagnostic trouble codes (DTC) P2122, P2123, P2127, P2128, and/or P2138 stored in the powertrain
+control module (PCM). The vehicle may or may not exhibit a perceived lack of power intermittently. Perform a
+wiggle test of connector C1580 at the left rear of the engine compartment while the engine is at normal
+operating temperature. Perform a visual inspection of pins 18 through 29 as well as a terminal fit test using the
+appropriately sized flex probe. Repair as necessary. Refer to Wiring Diagram Cell 005. If no concerns are
+found, refer to Workshop Manual (WSM), Section 310-02 for normal diagnostics.

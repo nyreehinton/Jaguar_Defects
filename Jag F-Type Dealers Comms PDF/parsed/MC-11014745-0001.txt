@@ -1,0 +1,90 @@
+Work Instruction
+               Date:  February 14, 2025
+Bulletin Name: MISC-WI-012-A
+            Model:  All but primarily Meridian and  
+  Zero Radius
+Units Affected: Those units with Deep Sea  
+   DisplayProgramming installation for the  
+Deep Sea Display1 of 6
+SAFETY  NOTICE
+Use appropriate Personal Protective 
+Equipment (PPE) as required by your 
+company .This work instruction is limited to authorized use only. Purpose:
+McNeilus Truck and Manufacturing offers these instructions for the programming installation for the Deep Sea 
+Display.
+Notice:
+• This bulletin should be read and understood in its 
+entirety before performing this procedure.
+• All procedures outlined in the bulletin must be 
+performed by skilled service personnel. Refer to the 
+product service manual for descriptions of maintenance 
+procedures.
+• This work instruction is confidential and limited to 
+exclusive distribution within McNeilus Refuse Service 
+and authorized dealer and service networks .
+Tools and Equipment Required:
+Technician to supply:
+• Deep Sea Installer program already installed on your laptop
+• Up-to-date driver for programming cable
+• PN 1687305 cable peak, CAN, USB,DB9
+• PN 1687081 Wire harness, McNeilus programming, display
+• M12 battery power adapter
+• 12V power
+Programming cable M12 batter power adapter
+SAFETY  NOTICE
+Perform your company’ s Lockout/T agout 
+procedure. If your company does not have a 
+Lockout/T agout procedure, follow OSHA  
+1910.147 and 1910.146 Confined Space as 
+appropriate.
+2 of 6
+This work instruction is limited to Internal McNeilus Use Only. Procedure:
+1. Plus the USB end of the programming cable into your laptop. Once the cable is plugged in, the red light on 
+the module in the middle of the cable should light up solid red . See Figure 1.
+Figure 1
+2. Plug the 18-pin connector into the display (Figure 2).
+IMPORTANT: Do NOT plug the power adapter into the harness until Step 5.
+Figure 2
+3. On the laptop, open the DSE Service Tool program (Figure 3).
+Figure 3
+3 of 6
+This work instruction is limited to Internal McNeilus Use Only. 4. Click CAN to select the connection mode (Figure 4).
+Figure 4
+5. After clicking CAN, plug the power adapter into the programming harness (Figure 5). Once the power adapter 
+is plugged in, the screen will populate and enter a BOOTLOADER mode. The DSE Service Tool will advance 
+a screen.
+Figure 5
+6. The DSE program will advance to the next screen. Click in the blank white box to select your desired file 
+(Figure 6).
+Figure 6
+4 of 6
+This work instruction is limited to Internal McNeilus Use Only. 7. Use the File Explorer to locate and select the correct file (Figure 7).
+Figure 7
+8. Select download to initiate the downloading process (Figure 8).
+Figure 8
+9. Wait for the download to complete. On your laptop, you will see the DSE Service Tool communicate to you 
+that it is transferring the file. See Figure 9.
+Figure 9
+5 of 6
+This work instruction is limited to Internal McNeilus Use Only. 10. The display will show stars blinking across the screen (Figure 10).
+Figure 10
+11. When the loading is complete, the DSE Service Tool will request that you cycle the power to the module 
+(Figure 11).
+ To do this, unplug and plug in the power adapter one time.
+Figure 11
+12. When the module boots up, it will display the home screen (Figure 12). If the home screen populates, the file 
+was loaded correctly.
+Figure 12
+6 of 6
+This work instruction is limited to Internal McNeilus Use Only. 
+Continuous Improvement:
+The change included in this document is part of the 
+McNeilus Continuous Improvement Process.
+McNeilus ’s quality policy is providing customer satisfaction 
+through innovative products, dedicated service, and a 
+constant focus on continuous improvement.(888) 686-7278
+www.streetsmartparts.com
+13. Click OK and close out of the DSE Service Tool (Figure 13).
+14. The software installation is complete.
+NOTE: When programming each module, you must close out of the DSE Service Tool and start from step 1.
+Figure 13

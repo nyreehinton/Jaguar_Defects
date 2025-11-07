@@ -1,0 +1,521 @@
+THIS ITS DOCUMENT SHOULD BE RETAINED AND REFERRED TO FOR FUTURE MAINTENANCE UNTIL 
+THE NEW FLYER PARTS AND/OR SERVICE MANUAL IS UPDATED TO REFLECT WORK DONE AS A 
+RESULT OF THIS DOCUMENT. ENSURE THAT THIS DOCUMENT IS AVAILABLE FOR PARTS AND 
+MAINTENANCE STAFF GOING FORWARD. 
+ 
+ 
+  
+This document and the contents discussed herein are the confidential and proprietary information of New Flyer Industries Canada 
+ULC and New Flyer of America Inc. and are disclosed by New Flyer in confidence. This document and the contents herein are not 
+to be disclosed by the intended recipient without the prior written authorization of New Flyer. Any unauthorized disclosure, 
+reproduction or other distribution of this document or information strictly prohibited and may result in action being taken against 
+the party making the unauthorized disclosure. This document and all copies hereof must be returned to New Flyer upon request.   
+INSTRUCTION TO SERVICE  
+ 
+ITS: 61063  6/13/2024  
+SECTION: 219 – Engine and Transmission 
+SUBJECT: Reverting Bypassed DEF Tank Sensors – 18 Inch Tank 
+ISSUE: DEF Tank Sensors Bypassed During Parts Shortage 
+SUMMARY: Remove Bypass Calibration from Engine ECM and New Sensor Installation AR 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ITS 61063 
+ 
+  
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+PROCEDURE: 
+1. Set park brake and chock wheels. 
+ 
+2. Turn the main battery disconnect switch to the “OFF” position. 
+ 
+3. Read these work instructions in their entirety prior to beginning the work.  
+ 
+4. Inspect the DEF tank sensor for replacement.  
+ 
+a. If the sensor harness is cut, this indicates the original sensor from the bypass operation is installed. 
+Proceed to part A.  
+b. If a new sensor has been installed in preparation for reverting the calibration, proceed to part B.  
+ 
+ 
+Part A – Install New DEF Tank Sensor 
+ 
+5. Sourcing the new sensor 
+ 
+a. When the customer requested a bypass calibration, the process was to order a new sensor. This sensor 
+is to be used to replace the failed sensor. 
+b. If the customer did not order a sensor, one will be provided by this ITS. 
+5.b.1. Contact your MCI/New Flyer field service representative if a sensor is needed.   
+ 
+6. Access the DEF tank per the vehicle maintenance manual.  
+ 
+7. Disconnect the coolant outlet, coolant inlet, DEF suction, and DEF return lines.  
+See Figure 1 and Figure 2 below. 
+ 
+  NOTE: Ensure the coolant lines are blocked off prior to removing hose clamps. Otherwise coolant will 
+leak out of the lines. Also note which coolant line is for the MFHU outlet, and which is for the MFHU inlet 
+so that they are not reversed on reassembly. 
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+ 
+Figure 1: Top View of the Multi-Function Head Unit Assembly (MFHU).  
+ 
+Figure 2: DEF line removal.  
+8. Proceed to remove the DEF tank following the instructions provided in your New Flyer Service Manual.  
+ 
+ 
+9. Remove the two #10-32 screws securing the MFHU. See Figure 3 below. 
+ 
+Figure 3: Remove and retain MFHU retention screws. 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+10. Pull the MFHU out of the DEF tank until the bottom of the header is at the bottom of the tank bore. At this 
+point, the MFHU will have to be tilted so that the heel of the sensor faces upwards. See Figure 4 below. 
+ 
+Figure 4: MFHU removal process. 
+ 
+ 
+ 
+11. With the MFHU in hand, loosen and remove the Tri-Function Sensor nut using a wrench. 
+  NOTE: Set the sensor nut and O-ring to the side. 
+ 
+Figure 5: Remove and retain sensor nut and O-ring. 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+12. Then remove the retention screws and sensor bracket. Slide the Tri-Function Sensor from the MFHU 
+mounting base, being careful to not damage the MFHU coil and suction tubes while removing the sensor. 
+Refer to Figure 6. 
+ 
+Figure 6: Remove and retain sensor bracket and retention screws. 
+ 
+13. Ensure that the new GEN 7 sensor has an O-ring installed. See Figure 7 below.  
+ 
+Figure 7: Ensure that an O-ring is installed on the new Tri-Function Sensor. 
+14. Feed the sensor harness through the bottom of the mounting base, as shown in Figure 8. 
+ 
+Figure 8: Feed the sensor harness through the bottom of the mounting base. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+15. Press the Sensor clamp onto the MFHU tubes to align with the sensor bracket and the foot of the sensor. The 
+sensor clamp must rest on the pad feature of the sensor housing. See Figure 9.  
+Torque screws to 13 - 19 in-lbs. 
+ 
+Figure 9: Secure GEN 6 Tri-Function Sensor with the sensor bracket and retention screws. 
+ 
+16. Position the top of the sensor through the mounting base such that the upper threaded portion of the sensor is 
+through the base of the MFHU, as seen in Figure 10 below. Ensure the top surface of the header is clean. 
+Tighten sensor nut to 40 - 44 in. lbs. 
+ 
+Figure 10: Ensure that the top of the MFHU is clean and tighten the sensor nut. 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+17. Now, apply a thin layer of O-ring lubricant to the MFHU O-ring, per Figure 11 below. 
+ 
+Figure 11: Apply lubricant onto the MFHU O-ring. 
+ 
+ 
+ 
+18. Tilt the MFHU assembly to an approximate 45-degree angle, with the heel of the Tri-Function Sensor angled 
+upward, overtop of the DEF tank bore hole. Place the toe of the heater coil into the tank and angle the MFHU 
+assembly upwards as it is lowered into the DEF tank. Refer to Figure 12 below. 
+  WARNING: DO NOT push the MFHU directly into the DEF tank as this could damage the unit. 
+ 
+Figure 12: MFHU installation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+19. Press on the top of the MFHU mounting base until it is completely seated in the tank bore  
+(do not press on the fittings) . Refer to Figure 13 below  
+  NOTE: The lugs on the MFHU will align with the recesses on the tank bore when oriented 
+correctly.  
+ 
+Figure 13: Align MFHU lugs with the recesses on the tank bore during re-assembly. 
+ 
+20. Position the retaining ring on the MFHU to align with the tank mounting holes and tighten the retention 
+screws to 20 - 30 in-lbs . Refer to Figure 14 below. 
+ 
+Figure 14: Secure MFHU assembly to the DEF tank with the two retention screws removed in Step 2. 
+21. Proceed to install the DEF tank following the instructions provided in your vehicle Service Manual. 
+ 
+22. Re-install the DEF lines by pushing them back onto the fittings, until a click is heard. The DEF lines cannot be 
+reversed as the fittings are sized differently. Re-install the coolant lines and tighten hose clamps until snug. 
+  NOTE: Ensure that the coolant lines are not reversed on reassembly.  
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+Figure 15: MFHU line installation. 
+23. Sensor installation complete. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+Part B – Install Original Engine ECM Calibration 
+ 
+24. Turn on the main battery switch and engine run switch (ignition). 
+25. Using Cummins Insite Pro diagnostic software, connect to the engine and retrieve the current ECM calibration 
+code installed. See figure 17. 
+ 
+  NOTE: The ECM calibration code for your vehicle may be different then what is shown in the 
+screenshots.  
+ 
+ 
+ 
+Figure 17 
+ 
+26. Disconnect Insite from the engine. 
+27. Using the ECM calibration look up tool (excel spreadsheet), enter in the current ECM code to retrieve the 
+original production ECM code number. See figure 18. Alternatively, this can be retrieved on the ECM decal or 
+on the Cummins Quickserve website.          
+           
+ 
+Figure 18 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+28. Using Insite and on the Calibration Selection page, select ECM/PDD Code Search. See figure 19. Note- Insite 
+is not connected to the engine at this time.  
+ 
+Figure 19 
+ 
+29. Enter the original production ECM code and select search. See figure 20.     
+   
+ 
+Figure 20 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+ 
+30.  Select Save to download the calibration file to your laptop. See figure 21.     
+   
+ 
+ 
+Figure 21 
+ 
+ 
+31. Confirmation the file was successfully saved to the laptop. Select Exit. See figure 22 
+ 
+ 
+ 
+Figure 22 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+32. Reconnect Insite to the engine ECM. 
+ 
+33. Select ECM/PDD on the Calibration Selection page. See figure 23. 
+ 
+ 
+ 
+Figure 23 
+ 
+ 
+34. Expand the Work Space files until the ECM part number is shown. Double click on the ECM part number. See 
+figure 24. 
+ 
+ 
+ 
+Figure 24 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+ 
+ 
+Note: If a Certification Code Selection window pops up, select ‘Move All’ and click OK. See figure 25.  
+ 
+ 
+ 
+Figure 25 
+ 
+ 
+35. Scroll to the ECM code for your engine. A small hard drive symbol will show under the green check mark. See 
+figure 26. Double click your ECM code and the ECM Download Calibration Wizard will launch.  
+  
+ 
+ 
+Figure 26 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+36. Select Next on the ECM Download Calibration Wizard. See figure 27.   
+ 
+ 
+ 
+Figure 27 
+ 
+37. Verify the Save/Restore Adjustable Parameters has a check mark. Select Next. See figure 28.  
+ 
+ 
+ 
+Figure 28 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+ 
+ 
+ 
+38. Verify the ECM code desired is listed and select next. See figure 29. 
+ 
+Note: Because the bypass calibration being removed has been obsoleted by Cummins, Insite will 
+not require a Fleet Calibration (fleet count) to change the calibration code. If Insite requests a fleet count, 
+confirm your requested ECM calibration code is correct to the engine serial number. See figure 29.  
+ 
+ 
+ 
+Figure 29 
+ 
+ 
+39. Adjustment Confirmation. Before selecting OK, ensure the vehicle batteries are sufficient to provide power 
+throughout the calibration sequence, about 20 minutes. If the vehicle is equipped with engine radiator Efans, 
+disable the power source to the Efans. The ECM will go off-line and the Efan controller will run the fans at full 
+speed with no connection to the engine ECM. Select OK to start the calibration sequence. See figure 30.  
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+ 
+Figure 30 
+ 
+40. The programming sequence will take about 20 mins. There will be prompts to turn the ignition switch off and 
+on throughout the programming sequence. See figure 31. 
+ 
+ 
+Figure 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+41. Select Next when the calibration is complete. See Figure 32. 
+ 
+ 
+ 
+Figure 32 
+ 
+ 
+42. Select Finish on the next screen to close the ECM Calibration Download Wizard. See figure 33.  
+ 
+ 
+ 
+Figure 33 
+ 
+43. ECM calibration complete.  
+44. Enable the Efans if disabled for programming.  
+45. Clear engine area for personnel, start engine and check for any active codes.  
+46. Disconnect Cummins Insite.  
+
+ 
+ INSTRUCTION TO SERVICE 
+ 
+ 
+   
+ITS 61063 
+ 
+47. Remove wheel chocks.  
+48. Return vehicle to service.   
+ 
+LABOUR ESTIMATE 
+ Operation Number of 
+Technician(s)  Hours Labor Time 
+T X HR 
+1 Programming engine ECM 1 1 1 
+2     
+ 
+PARTS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. 
+per 
+Coach  
+Units  
+Notes 
+1 6485695 SENSOR KIT-DEF, 18, GEN 7 1 AR Ea As Required 
+ 
+SPECIAL TOOLS REQUIRED 
+ 
+Item  
+Part Number  
+Description Qty. Units Notes 
+1 NPN O-ring lubricant AR  Source Locally 
+2 NPN Cummins Insite Pro Diag Software AR   
+      
+      
+ 

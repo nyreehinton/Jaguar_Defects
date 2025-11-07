@@ -1,0 +1,206 @@
+ 
+ 
+BULLETIN NOTES
+This TSB supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-001/24 02/21/24 and  01/05/24
+SA-014/23 11/14/23, 07/11/23, 03/20/23 and 03/10/23
+SA-032/22 12/22/22 and 05/10/22
+ 
+APPLICABLE MODEL(S)/VINS  
+2023-2025 CX-50   
+ 
+DESCRIPTION
+Some customers may complain about a rattle from the sunroof (panorama roof) area. Make sure to read the complete 
+repair procedure before attempting any repairs as the sunroof may have rattles from more than one location. The rattle 
+noise may be caused by:
+Looseness in the side cover fitting part1. 
+Looseness in the cross brace cover clip2. 
+Looseness in the movable part inside the sunroof unit3. 
+To eliminate this concern, the following changes have been implemented.
+CAUSE 1: Addition of non-woven fabrics•
+CAUSE 2: Improvement of the assembly process•
+CAUSE 3: Modification of dimensions of the moving parts•
+Customers having this concern should have their vehicle repaired using the following repair procedure.
+Page 1 of
+9
+02/19/2025 11:07 AM tlawrenc
+ 
+ 
+REPAIR PROCEDURE
+1. Verify the customer concern.  
+2. Determine the vehicle type (A, B or C) by using the table below.
+Vehicle 
+TypeVIN RangeSide Cover  
+RattleCross Brace  
+RattleSunroof Unit
+A Up to production date 06/29/23.Follow  
+Procedure AFollow  
+Procedure BFollow 
+Procedure C
+BAfter 06/29/2023 production and up to 
+7MMVA******165681  
+(produced before 09/11/23)Follow  
+Procedure AContact Mazda 
+Techincal HotlineFollow  
+Procedure C
+CAfter 7MMVA******165681  
+(produced after 09/13/23)Contact Mazda 
+Techincal HotlineContact Mazda 
+Techincal HotlineFollow  
+Procedure C
+NOTE:  Make sure to check any new parts for foam and/or felt that could be missing. If it doesn't have the foam and/or 
+felt, attach these items to the new parts.  
+ 
+PROCEDURE A  (FOR SIDE COVER RATTLE)  
+The noise comes from the side cover vibrating against the assembly at the location marked by the arrow due to poor 
+retention of the cover clips.  
+ 
+1. Test drive the vehicle and if you hear the noise, press the edges of the side covers (6 total) as shown in the example 
+below.  
+Was the noise eliminated?  
+ 
+Info Feedback  
+Page 2 of
+9
+02/19/2025 11:07 AM tlawrenc
+YES:  Continue to the next step . •
+NO: Skip to the next section.  
+ •
+2. Order all 6 link covers and inspect them for non-woven felt.  
+Do they have non-woven felt as shown in the image in step 3?
+YES:  Go to step 4. •
+NO: Continue to the next step. •
+Page 3 of
+9
+02/19/2025 11:07 AM tlawrenc
+3. Cut 4 pieces sized 5 mm x 15 mm x 0.4 mm and 4 pieces sized 10 mm x 10 mm x 0.4 mm out of the A-pillar felt 
+(VAY1-68-2A3) and then tape the cut pieces to the new link covers as shown in the image below.  
+ 
+ 
+Page 4 of
+9
+02/19/2025 11:07 AM tlawrenc
+ 
+4. Replace all 6 link covers and retest for the rattle noise.
+PROCEDURE B (FOR CROSS BRACE RATTLE)  
+The noise comes from the cross brace cover after the vehicle has been driven and the clips loosen. Follow the 
+instructions below to eliminate the noise.
+1. Refer to the attached video for a test procedure that does not require a test drive.  
+Is there a rattle?
+YES:  Continue to the next step . •
+NO: Skip to the next section. •
+2. Remove the rear glass panel by referring to the instructions in MGSS (SUNROOF REAR GLASS PANEL REMOVAL).  
+3. Remove the pushpins and then remove the trim.  
+CAUTION: DO NOT damage the trim as it is only available with the sunroof assembly.  
+Page 5 of
+9
+02/19/2025 11:07 AM tlawrenc
+4. Add noise reduction material from the  Interior Noise Kit (see below)  anywhere the trim makes contact with the frame.  
+ 
+ 
+5. Reassemble the trim in reverse order.  
+NOTE: Make sure the clips are ok and properly reinserted.  
+6. Reinstall the rear glass by referring to the instructions in MGSS (SUNROOF REAR GLASS PANEL REMOVAL).  
+7. Retest for the noise.  
+8. Test drive the vehicle.  
+Do any rattling noises remain from the sunroof area?
+YES:  Continue to the next section. •
+NO: Return the vehicle to the customer. •
+ •
+PROCEDURE C (FOR SUNROOF ASSEMBLY RATTLES)
+1. Remove the headliner using the relevant steps from the PANORAMA SUNROOF UNIT REMOVAL procedure.  
+2. Check the sunroof assembly date by inspecting the label marked in green in the image below, the date is written in 
+MM/DD/YYYY format.  
+Page 6 of
+9
+02/19/2025 11:07 AM tlawrenc
+ 
+Was the sunroof produced before 12/07/2022?
+YES: Replace the sunroof unit using the instructions in MGSS (PANORAMA SUNROOF UNIT REMOVAL and 
+PANORAMA SUNROOF UNIT INSTALLATION).•
+NO: Continue to the next section to check the sunroof mounting. •
+ 
+SUNROOF UNIT MOUNTING HARDWARE
+1. Access the sunroof assembly mounting points using the relevant steps from the PANORAMA SUNROOF UNIT 
+REMOVAL procedure.  
+2. Check the attaching hardware and ensure all nuts and bolts are tightened to specification. Refer to the PANORAMA 
+SUNROOF UNIT INSTALLATION procedure for torque specs, the location of the hardware, and the relevant final 
+assembly steps.  
+Were all sunroof rattle noises resolved?
+YES:  Return the vehicle to the customer. •
+NO: Continue to the next section. •
+Page 7 of
+9
+02/19/2025 11:07 AM tlawrenc
+SUNROOF UNIT  
+1. Remove the side cover at the front of the assembly to eliminate it as a possible noise source and for better access to 
+the sunroof linkage.  
+2. Drive the vehicle with the sunroof open and confirm if a rattle is coming from the linkage in the general areas the red 
+arrows point to.  
+ 
+NOTE:  If you can reach the links that are rattling, you can hold them to confirm if the noise is eliminated.  
+Is there a noise from the linkage in this area?
+YES:  Replace the sunroof unit. 1. 
+NO: Create a video of the concern and then contact the Mazda Technical Assistance Hotline. 2. 
+ 
+ 
+ 
+PARTS INFORMATION
+NOTE:  If replacing any existing parts, use the GEPC with the VIN to look up parts to ensure they are the latest version 
+and correct for that VIN.  
+ 
+Part Number Description Qty. Notes
+K001-W0-225 Int. Noise Repair Kit 1K001-W0-225 is considered a "shop supply/bundled" 
+into the labor operation time since the kit repairs 
+multiple vehicles.
+VA45-69-830 75 Unit ,Sunroof 1This does not include glass.
+Page 8 of
+9
+02/19/2025 11:07 AM tlawrenc
+ 
+For Procedure A
+Part Number Description Qty. Notes
+VAY1-68-2A3 Felt 1VAY1-68-2A3 is considered a "shop supply/bundled" 
+into the labor operation time since the kit repairs 
+multiple vehicles.
+VA45-69-815 Link over (R), Front 1
+VA57-69-815 Link over (R), Rear 1
+VA62-69-815 Link over (R), Rear 1
+VA57-69-816 Link over (L), Rear 1
+VA45-69-816 Link over (L), Front 1
+VA62-69-816 Link over (L), Rear 1Only replace if directed by procedure A.  
+VAY1-68-2A3 may still be required with any 
+replacement covers. If a sheet is not available in the 
+shop, order a sheet for shop supplies when ordering a 
+link cover.
+ 
+ 
+WARRANTY INFORMATION
+NOTE:
+This warranty information applies only to verified customer complaints on vehicles eligible for warranty repair.•
+This repair will be covered under Mazda’s New Vehicle Limited Warranty term.•
+Additional diagnostic time cannot be claimed for this repair.•
+Warranty Type A
+Symptom Code 82
+Damage Code 97
+Part Number Main Cause 7777-SP-Y87
+Quantity 0
+Operation Number / Labor Hours:  
+Claim the Operation No. & Labor Hours for only the 
+completed repair procedures.  
+NOTE:  Multiple operation numbers in one claim are 
+acceptable.XXWYXXRX / 1.8 Hrs. (Procedure A: Link cover 
+replacement)•
+XXWYYXRX / 1.1 Hrs (Procedure B: Noise 
+reduction material application to the cross braces)•
+XXWZ1XRX / 3.8 Hrs. (Procedure C w/ Sunroof 
+replacement)•
+XXWZ2XRX / 1.3 Hrs. (Procedure C w/out Sunroof 
+replacement)•
+NOTE:  Claim Link Cover and/or Felt as related parts.  
+ 
+ 
+Page 9 of
+9
+02/19/2025 11:07 AM tlawrenc

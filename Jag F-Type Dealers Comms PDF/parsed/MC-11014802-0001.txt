@@ -1,0 +1,33 @@
+Daimler Truck  
+North America LLC  Customer Advisory Letter  
+02/17/2025 
+CAL F CC 47 -002 
+Subjec t: Incorrect Fu el Tank S upport Rod s 
+Make: FCCC 
+Model:  Tiffin XCR  
+Model Year  Affected: 2024  
+Build Date Range:  Selected Vehicles Built Between  June 27, 2024 and June 27, 2024  
+Our r
+ecords indicate that you are the owner  of certain XCR vehicles and  therefore, DTNA has decided to share 
+the following documentation with you.  
+The fuel tank support rods installed on your vehicle may be incorrect and need to be replaced.  
+Please see the attached communication in this email. We hope you find this information helpful.  
+Daimler Truck  
+North America LLC  Customer Advisory Letter  
+02/17/2025 
+CAL F CC 47 -002 
+Subjec t: Replacing Fuel Tank Support Rods  
+Make: FCCC 
+Model: Tiffin XCR  
+Model Year Affected: 2024  
+Build Date Range: Selected Vehicles Built Between June 27, 2024 and June 27, 2024  
+Work Instructions  
+1.Park the vehicle, shut down the engine, and apply the parking brakes. Chock the tires.
+2.Support the fuel tank cradle .
+3.Remove the currently installed fuel tank support studs.
+4. Install the correct studs, PN 03- 25287- 009, per drawing D03- 44520- 000. Install the upper end of the stud to the
+fuel tank support on the chassis rail and place the washer and fastener on top.
+5.Place
+ the fastener and washer onto the stud , then insert them through the fuel tank cradle.
+6.Place the washer and fastener at the bottom of the stud and tighten the fastener  118 lbf·ft ( 160 N ·m). Repeat th is
+process at four places  for each fuel tank support stud.

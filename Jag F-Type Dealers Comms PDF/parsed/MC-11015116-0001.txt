@@ -1,0 +1,296 @@
+Technical InformationService
+96/24 ENU WRJ44
+WRJ4 - Review Power Steering Gear and Replace if Necessary (Workshop Campaign)
+Model Line: Cayenne (9YA / 9YB)
+Model Year: 2024
+Concerns: Power steering gear
+Cause: There is a possibility that a power steering gear installed on the affected vehicles does not
+meet the required speci ﬁcations.
+Action: Review power steering gear and replace if necessary.
+Affected
+Vehicles:Only vehicles assigned to the campaign (see also PCSS Vehicle Information).
+Installation
+Position:
+Installation position for pow er steering gear
+AfterSalesJan 9, 2025
+Page 1 of 10
+Service4 WRJ4 ENU96/24Technical Information
+Required parts
+Information
+The forecast failure rate is only0.2% .
+Therefore, please order the required parts for replacing defective power steering gear only if
+necessary .
+Thepart numbers of the required parts and materials for the respective vehicle can be seen in the
+assigned scope. For an overview of the campaign scopes, see: Technical Information 'Warranty
+processing' .
+For materials (lubricants) required for carrying out the action, see the corresponding Workshop Manual in
+PCSS. These lubricants are usually available in the Porsche Center.
+Required tools for testing power steering gear
+Tool: • Torque wrench, 2-10 Nm (1.5-7.5 ftlb.), e.g. V.A.G 1783 - torque wrench, 2-10 Nm (1.5-7.5
+ftlb.)
+Required tools for replacement of power steering transmission
+Tools: • Threaded bolts for installing wheel
+• Assembly wedge• Plastic-coated assembly lever
+• Torque wrench, 2-10 Nm (1.5-7.5 ftlb.), e.g. V.A.G 1783 - torque wrench, 2-10 Nm (1.5-7.5
+ftlb.)
+• Torque wrench, 6-50 Nm (4.5-37 ftlb.), e.g. V.A.G 1331A - torque spanner, 6-50 Nm (4.5-37
+ftlb.)
+• Torque wrench, 40-200 Nm (30-148 ftlb.) e.g. V.A.G 1332A - torque wrench, 40-200 Nm
+(30-148 ftlb.)
+• Battery charger with a current rating of at least 90 A ,e . g . VAS 5908 - battery charger 90 A
+•P90999 - PIWIS Tester 4
+•T10187 - Press-out tool
+•VAS 6927 - Tie-wrap pliers
+•VAS 6931A - Transmission and gearbox jack
+•VAS 6826 - Steering wheel balance
+•T40183 - Insertion tool
+•VAS 6918 - Quick-clamping unit
+Tools additionally required for vehicles with hybrid drive system PHEV (M-No. 0K3)
+•T40262 - Locking cap
+•VAS 6410 - Contact surface cleaning set
+•VAS 6558/9–7 High-Voltage Test Adapter HVR 40
+•VAS 6558A - High-Voltage test adapter
+Jan 9, 2025
+Page 2 of 10 AfterSales
+Technical InformationService
+96/24 ENU WRJ44
+•VAS 6558A/45 - HV test adapter
+•VAS 6883A - Insulated tool set
+•WE 1383 - Hybrid warning signs
+Tools additionally required for vehicles with adaptive air suspension (M-No. 1BK / 2MA) or
+Sport air suspension (M-No. 2MB)
+•9229/1 - Puller hook
+•VAS 6918 - Quick-clamping unit
+Tools additionally required for vehicles with Night View Assist (M no. 9R1)•VAS 6350A - Calibration unit
+•VAS 6430/1A - Adjustment device with re ﬂector
+•VAS 6430/6 - Night View Assist calibration unit
+Tools additionally required for vehicles w ith multi-function camera (M-No. QK1)
+•VAS 6350/2A - Spacing laser
+•VAS 6430/4 - Lane Keep Assist calibration board
+•Wheel center mounting VAS 6350
+•VAS 6430/3 - Mirror for adjustment device
+Tools additionally required for vehicles with automatic distance control (M-No. 3V2 / 8T8)•VAS 6430/3 - Mirror for adjustment device
+Check power steering gear
+Work Procedure: 1 Loosen front underbody cover.
+For instructions, see: Workshop Manual '51921900 Removing and installing front underbody
+cover'
+Rubber-metal mount (shown on the
+right side of the vehicle)2 Check power steering gear in the area of the left and
+right rubber-metal mounts. Rubber-metal mount
+(shown on the right side of the vehicle)
+AfterSalesJan 9, 2025
+Page 3 of 10
+Service4 WRJ4 ENU96/24Technical Information
+Assessment Action
+()Cast housing of the power steering gear has
+no cracks .Check OK.
+• Secure cover for front underbody
+• Entering campaign in Warranty and
+Maintenance logbook
+•Scope 1 orScope 2
+(✗)The cast housing of the power steering gear
+has cracks .
+Cracking of rubber-metal mountReview not OK.
+Replace power steering gear.
+Continue with Technical Information
+'51921900 Replacing the power steering
+gear'
+Replacing power steering gear
+Work Procedure: 1 Vehicles with PHEV hybrid drive system (M-No. 0K3):
+Isolate the high-voltage system from the power supply. Workshop Manual '2X00IN Deac-
+tivate/Start the high-voltage system'
+2 Remove power steering gear and install new power steering gear. Workshop Manual '489019
+Removing and installing power steering gear'
+3Vehicles with PHEV hybrid drive system (M-No. 0K3):
+Start the high-voltage system Workshop Manual '2X00IN Deactiv ating high-voltage electrical
+system from power supply/Starting high-voltage electrical system'
+4 Recode the power steering (EPS) control unit. Workshop Manual '489055 Replacing power
+steering gear'
+5T e a c h new power steering gear. Workshop Manual '489025 Teach power steering gear'
+6 Enter the campaign in the Warranty and Maintenance logbook.
+Jan 9, 2025
+Page 4 of 10 AfterSales
+Technical InformationService
+96/24 ENU WRJ44
+Warranty processing
+Information
+The specified labor time was determined specifically for carrying out this campaign and include all
+necessary preliminary and subsequent rework. The la bor time may differ from the labor time published in
+the Labor Operation List in PCSS.
+Scope 1: Check power steering gear
+Valid for vehicles with the following equipment:•with Porsche Dynamic Chassis Control (PDCC) (M-No. 1P7)
+•without engine underbody protection plate (M-No. 1SA)
+Labor time:
+Check power steering gear
+Includes: Loosen and fasten cover for underbody cover at the frontLabor time: 39 TU
+Required parts:
+Part No. Designation
+–L o c a t i o nQuantity
+PAF00072900 M8 x 20 hexagon socket head bolt
+– Front underbody cover3 pieces
+Damage number WRJ4 066 000 1
+Scope 2: Check power steering gear
+Valid for vehicles with the following equipment:•without Porsche Dynamic Chassis Control (PDCC) (M-No. 1P0)
+•with (M-No. 1SF) andwithout (M-No. 1SA) engine underbody protection plate
+Labor time:
+Check power steering gear
+Includes: Loosen and fasten engine underbody protection plate at the
+front
+or
+Loosen and fasten cover for underbody cover at the frontLabor time: 39 TU
+Required parts for vehicles with engine underbody protection plate (M-No. 1SF)
+AfterSalesJan 9, 2025
+Page 5 of 10
+Service4 WRJ4 ENU96/24Technical Information
+Part No. Designation
+–L o c a t i o nQuantity
+N 10082912 Hexagon flange bolt (combination), M6 x 16
+– Engine under underbody protection plate3 pieces
+and
+9A791194602 Cheese head screw M8 x 20
+– Engine under underbody protection plate5 pieces
+Damage number WRJ4 066 000 1
+Scope 3: Check and replace power steering gear
+Valid for vehicles with the following equipment:• Hybrid drive system PHEV (M-No. 0K3)
+Labor time:
+Check and replace power steering gear
+Includes:
+Deactivating and activating high-voltage system
+Removing and installing front cover
+Removing and installing front-axle support
+Removing and installing wheelRemoving and installing front anti-roll bar
+Removing and installing power steering gear
+Removing and installing battery coverConnecting and disconnecting battery charger
+Connecting and disconnecting PIWIS Tester
+Reading out and erasing fault memoriesCheck and adjust steering-angle sensor
+Adjusting distance measuring sensor control unit
+Programming night vision system control unitCalibrating front cameraLabor time: 570 TU
+Required parts:
+Part No. Designation
+–L o c a t i o nQuantity
+Required parts for left hand drive vehicles (M-No. L0L) without rear axle steering (M-No. 0N1)
+9Y1423057A Steering gear 1 piece
+or
+Required parts for left hand drive vehicles (M-No. L0L) with rear axle steering (M-No. 0N5)
+Jan 9, 2025
+Page 6 of 10 AfterSales
+Technical InformationService
+96/24 ENU WRJ44
+9Y1423056A Steering gear 1 piece
+or
+Required parts for right hand drive vehicles (M-No. L0R) without rear axle steering (M-No. 0N1)
+PAB423055K Steering gear 1 piece
+or
+Required parts for right hand drive vehicles (M-No. L0R) with rear axle steering (M-No. 0N5)
+9Y2423055L Steering gear 1 piece
+Additionally required parts
+N 10518405 Cheese head bolt with multiple-tooth head, self-locking, M8 x 30
+– Universal joint on power steering gear1 piece
+WHT006662 Hexagon-head bolt (combination) M12 x 1.5 x 167
+– Power steering gear on front axle carrier2 pieces
+WHT002305 Square nut, M12 x 1.5
+– Power steering gear on front axle carrier2 pieces
+WHT006151 Hexagon collar nut, self-locking M14 x 1.5
+– Tie-rod ball to wheel bearing housing2 pieces
+PAF005372 M12 x 1.5 x 51 cylinder head screw with multiple-tooth head
+– Front-axle support2 pieces
+PAF911511 Hexagon-head bolt (combination) M12 x 1.5 x 42
+– Front-axle support4 pieces
+WHT002305 Square nut, M12 x 1.5
+– Front-axle support4 pieces
+PAF91237901 Hexagon flange bolt (combination), M14 x 1.5 x 100
+– Front-axle carrier, rear4 pieces
+PAF91184301 Hexagon-head bolt, M12 x 1.5 x 90
+– Front axle carrier, front4 pieces
+Additional parts required for vehicles with Porsche Dynamic Chassis Control (PDCC) (M-No. 1P7)
+PAF015081 Hexagon collar nut, M12
+– Connecting link (PDCC)4 pieces
+PAF007423 12-point socket, M12 x 65
+– Connecting link (PDCC)4 pieces
+PAF00072900 M8 x 20 hexagon socket head bolt
+– Front underbody cover3 pieces
+Required parts for vehicles with engine underbody protection plate (M-No. 1SF)
+N 10082912 Hexagon flange bolt (combination), M6 x 16
+– Engine under underbody protection plate3 pieces
+AfterSalesJan 9, 2025
+Page 7 of 10
+Service4 WRJ4 ENU96/24Technical Information
+and
+9A791194602 Cheese head screw M8 x 20
+– Engine under underbody protection plate5 pieces
+Damage number WRJ4 066 000 2
+Scope 4: Check and replace power steering gear
+Valid for vehicles with the following equipment:
+•without PHEV hybrid drive system (M-No. 0K0)
+Labor time:
+Check and replace power steering gear
+Includes: Removing and installing front cover
+Removing and installing front-axle support
+Removing and installing wheel
+Removing and installing front anti-roll barRemoving and installing power steering gear
+Removing and installing battery cover
+Connecting and disconnecting battery chargerConnecting and disconnecting PIWIS Tester
+Reading out and erasing fault memories
+Check and adjust steering-angle sensorAdjusting distance measuring sensor control unit
+Programming night vision system control unit
+Calibrating front cameraLabor time: 570 TU
+Required parts:
+Part No. Designation
+–L o c a t i o nQuantity
+Required parts for left hand drive vehicles (M-No. L0L) without rear axle steering (M-No. 0N1)
+PAB423055J Steering gear 1 piece
+or
+Required parts for left hand drive vehicles (M-No. L0L) with rear axle steering (M-No. 0N5)
+9Y1423055L Steering gear 1 piece
+or
+Required parts for right hand drive vehicles (M-No. L0R) without rear axle steering (M-No. 0N1)
+PAB423055K Steering gear 1 piece
+Jan 9, 2025
+Page 8 of 10 AfterSales
+Technical InformationService
+96/24 ENU WRJ44
+or
+Required parts for right hand drive vehicles (M-No. L0R) with rear axle steering (M-No. 0N5)
+9Y2423055L Steering gear 1 piece
+N 10518405 Cheese head bolt with multiple-tooth head, self-locking, M8 x 30
+– Universal joint on power steering gear1 piece
+WHT006662 Hexagon-head bolt (combination) M12 x 1.5 x 167
+– Power steering gear on front axle carrier2 pieces
+WHT002305 Square nut, M12 x 1.5
+– Power steering gear on front axle carrier2 pieces
+WHT006151 Hexagon collar nut, self-locking M14 x 1.5
+– Tie-rod ball to wheel bearing housing2 pieces
+PAF005372 M12 x 1.5 x 51 cylinder head screw with multiple-tooth head
+– Front-axle support2 pieces
+PAF911511 Hexagon-head bolt (combination) M12 x 1.5 x 42
+– Front-axle support4 pieces
+WHT002305 Square nut, M12 x 1.5
+– Front-axle support4 pieces
+PAF91237901 Hexagon flange bolt (combination), M14 x 1.5 x 100
+– Front-axle carrier, rear4 pieces
+PAF91184301 Hexagon-head bolt, M12 x 1.5 x 90
+– Front axle carrier, front4 pieces
+Additional parts required for vehicles with Porsche Dynamic Chassis Control (PDCC) (M-No. 1P7)
+PAF015081 Hexagon collar nut, M12
+– Connecting link (PDCC)4 pieces
+PAF007423 12-point socket, M12 x 65
+– Connecting link (PDCC)4 pieces
+PAF00072900 M8 x 20 hexagon socket head bolt
+– Front underbody cover3 pieces
+Required parts for vehicles with engine underbody protection plate (M-No. 1SF)
+N 10082912 Hexagon flange bolt (combination), M6 x 16
+– Engine under underbody protection plate3 pieces
+and
+9A791194602 Cheese head screw M8 x 20
+– Engine under underbody protection plate5 pieces
+AfterSalesJan 9, 2025
+Page 9 of 10Damage number WRJ4 066 000 2
+Service4 WRJ4 ENU96/24Technical Information
+Important Notice: Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Po rsche service training
+courses. They are written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special
+tools may be necessary in order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche reco mmends in these bulletins may be detrimental to the
+safe operation of your vehicle, and may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety ins tructions, and know-how to do the job properly and
+safely. Part numbers listed in these bulletins are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic an dt e s t i n gd e v i c et a k ep r e c e d e n c ea n d ,i nt h ee v e n to fa
+discrepancy, the work procedures in the PIWIS Tester are the ones that must be followed.© 2025 Porsche Cars North America, Inc.
+Jan 9, 2025
+Page 10 of 10 AfterSales

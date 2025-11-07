@@ -1,0 +1,53 @@
+ 
+ 
+BULLETIN NOTES
+This SA supersedes the previously issued SA(s) listed below. The changes are noted in Red.
+Previous SAs: Date(s) Issued:
+SA-059/24 08/15/24
+SA-020/23 04/13/23
+SA-059/22 08/23/22
+ 
+APPLICABLE MODEL(S)/VINS:  
+2019- 2025 Mazda3  
+2020- 2025 CX-30  
+2023 -2025  CX-50  
+2024 -2025 CX-90 H3T (inline 6)  
+2025 CX-70 H3T (inline 6)
+ 
+ 
+DESCRIPTION
+Some customers will report that their fuel door was stuck closed and would not open to refuel the vehicle. Follow the 
+repair steps below unless the conditions outlined in TSB 09-007/25 - FUEL-FILLER LID PANEL IS DEFORMED  for 
+2019-2025 Mazda3 and 2020-2025 CX-30 are present.   
+ 
+REPAIR PROCEDURE
+1. Check for pry marks around the door opening.  
+Are there any pry marks?
+YES:  This is due to outside influence and is not covered by Mazda warranty. •
+NO: Continue to the next step. •
+Page 1 of
+2
+03/02/2025 08:07 AM tlawrenc
+2. Check the fuel door lock operation.
+a. Lock the doors and verify if the fuel door lock is locking.
+NOTE: The default setting is a 90-second delay after the doors lock, but the customer can set that to 0, 30, 
+60, 90, or 120 seconds.
+b. Unlock the doors and verify if the fuel door lock is unlocking.
+NOTE: There is no delay to this function, but the fuel door must be locked to confirm it is unlocking. See 
+the lock note above.
+Is the fuel door lock operation working correctly?
+YES:  The fuel door repair IS NOT covered by Mazda warranty. The fuel door lock is OK and the door was 
+damaged because the vehicle was not unlocked.•
+NO: The fuel door repair IS covered by Mazda warranty. The fuel door lock is NOT OK and damage to the door 
+was done in order to access the lock.•
+NOTE: If the door was already broken when it arrived at the dealership, Mazda will pay for the fuel door repair 
+under warranty if the vehicle does NOT have an emergency release. Mazda will NOT pay for the fuel door under 
+warranty if it has an emergency release.•
+ 
+ 
+WARRANTY INFORMATION
+NOTE: Dealership is free to use AWA or DSA for the repair if needed.
+ 
+Page 2 of
+2
+03/02/2025 08:07 AM tlawrenc

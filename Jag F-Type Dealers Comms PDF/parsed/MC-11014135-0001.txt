@@ -1,0 +1,160 @@
+ 
+Technical Service Bulletin  GROUP  NUMBER  
+FUEL SYSTEMS  25-FL-002H 
+DATE  MODEL (S) 
+FEBRUARY  2025 SEE BELOW  
+SUBJECT:  HIGH PRESSURE FUEL PUMP REPLACEMENT  
+(WARRANTY EXTENSION  Z04) 
+ 
+Description:  Certain 2019- 2022MY Veloster N (JSN), 2022- 2023MY Elantra N (CN7N), and  
+2022- 2023MY Kona N (OSN) vehicles are equipped with high pressure fuel pump (HPFP) assemblies 
+that have fuel control valves (FCV) that could allow excess fuel to enter the fuel pump due to gradual 
+wear of the FCV plunger. An air/fuel mixture that runs too “rich” may result in a reduction or loss of 
+motive power at low speeds. The vehicle will also have Diagnostic Trouble Code (DTC) P0088. 
+  
+Hyundai is extending warranty coverage for the HPFP under this condition to 15 years or 150,000 miles 
+from the date of original retail delivery or date of first use (whichever occurs first) and is valid for original 
+and subsequent owners.  
+  
+Follow the service procedure in this TSB to replace the HPFP.  
+ 
+Applicable Vehicles  (Certain) : 
+• 2019- 2022MY Veloster N (JSN) produced from 09/06/2018 – 08/18/2022  
+• 2022- 2023 MY Elantra N (CN7N) produced from 09/15/2021 – 11/23/2023  
+• 2022 -2023MY Kona N (OSN) produced from 10/05/2021 – 04/25/2023  
+ 
+ 
+Parts  Information:  
+Model  Part Name Figure  Remarks  
+Veloster N 
+(JSN)  
+ 
+Elantra N  
+(CN7N)  
+ 
+Kona N 
+(OSN) Pump – High 
+Pressure Kit  
+ 
+35399- 2G333QQH  
+ Pump – High Pressure  
+35320- 2GHA1 (Figure 1: QTY 1)  
+Bolt – Pump 
+11235 -06226K (Figure 2: QTY 2)  
+Pipe – High Pressure  
+35305 -2GPD0 (Figure 3: QTY 1)  
+Pump Gasket  
+(*Figure 4: Transfer from old  
+and reuse. NOT  included in kit.)  
+ 
+ 
+NOTE: Above parts are for high pressure fuel pump replacement, only if the vehicle has DTC P0088. 
+Please order the kit part number 35399- 2G333QQH , not the individual parts.  
+ 
+          
+SST Information:   
+Tool Name  Tool #  Figure  Remarks  
+Torque Wrench  
+Socket 09314- 3Q100   
+ 
+ 
+ 
+  
+For tightening the flare nuts on both 
+ends of the high pressure pipe. 
+ 
+NOTE 1:  All dealers previously received this tool as part of the dealer's essential tool kit.  
+NOTE 2:  Additional SST tools can be ordered through Snap -On at 1-855-763-9199 or 
+https://hyundaiessentialtools.com/ . 
+NOTE 3:  If further assistance is required, please contact hyundaitools@hmausa.com . 
+ 
+ 
+Inspection and Service Procedure Overview:  
+ 
+ 
+ 
+
+Warranty Information:   
+Model  Op. Code  Operation  Op. 
+Time  Casual Part  Nature 
+Code  Cause 
+Code  
+Veloster N 
+(JSN)  
+40D153R0  DTC P0088 Inspection and 
+HPFP Replacement  0.8 M/H 35320- 2GHA1  I14 ZZ3 Elantra N 
+(CN7N)  
+Kona N 
+(OSN)  
+NOTE 1:  If the affected parts are within the e xtended period of 15 years or 150, 000 miles then submit 
+as a campaign claim type. 
+NOTE 2:  If a p art that is not covered by this TSB is found in need of replacement while performing 
+Z04 and the affected part is still under warranty, submit a separate claim using the same repair order. 
+If the affected part is out of warranty, submit a Prior Approval request for goodwill consideration prior to performing the work.  
+NOTE 3: The incident parts are subject to callback through the normal Warranty Technical Center 
+(WTC) parts return process. Claim is subject to debit if the part is not returned.   
+ 
+ 
+Service Procedure:   
+ 
+ 
+ 
+1. Using a GDS scan tool, inspect to confirm if vehicle has DTC P0088 (or P008800 ).  
+• If vehicle has DTC P0088/P008800,  continue with  the step s below  to replace the  
+high pressure fuel pump.  
+• If vehicles does NOT  hav e DTC P0088/P008800, this TSB does NOT  apply.  Continue 
+with normal diagnosis.  
+ 
+ 
+ 
+Applying the recommended torque to all fasteners is essential to reduce potential issues from 
+occurring after the service procedure.  
+NOTICE  
+If dealer attempts to order the high pressure fuel pump kit and there is no corresponding 
+DTC P0088/P008800  found, the order will be subject to cancellation.  
+   Information  
+  i          
+2. Verify that Recall 262  has been completed previously.  
+• Verify ECU Update Event #1141, 1152, and 1153 (depending on model) have  been 
+completed.  
+• If Recall 262 has NOT  been per formed, this TSB does NOT  apply.  
+o Follow the service procedure listed in Recall 262  (TSB 24 -01-075H -1 or latest 
+versi on) to resolve the DTC P0088 (or P008800) concern.  
+3. Refer to the shop manual  to release the residual fuel pressure in the fuel line : 
+• Engine Control / Fuel System > Fuel Delivery System > Repair Procedures > Release 
+Residual Pressure in Fuel Line  
+ 
+ 
+4. Record all radio presets and disconnect the battery negative ( −) terminal.  
+5. Refer to the shop manual to remove the high pressure pipe  and high pressure fuel pump . 
+• Engine Control / Fuel System > Fuel Delivery System > High Pressure Fuel Pump  
+6. Refer to  the shop manual  to complete the 
+installation of the new high pressure fuel 
+pump, the new high pressure pipe, and all related parts.  
+ 
+  
+7. Tighten the high pressure fuel components to the following specifications : 
+ High Pressure Fuel Pump Bolt  
+Tightening Torque:  
+ 
+ High Pressure Fuel Pipe  
+Tightening Torque:  
+ 
+(Use SST 09314 -3Q100 or equivalent)  
+8. Start the engine to confirm proper operation of the vehicle.  
+9. The service procedure is now complete.   
+ 
+11 lb-ft
+14 N.m24 lb-ft
+33 N.m
+When removing the fuel pump fuse, a Diagnostic Trouble Code (DTC) may occur. Delete 
+the code with the diagnostic tool afterwards.  
+   Information  
+  i 
+Be sure to transfer the shim -type metal 
+pump gasket (A) and the low pressure fuel hose quick connector clamp (B) (if equipped) over to the new High Pressure 
+Fuel Pump.  
+      Information  
+  i 
+A 
+B 

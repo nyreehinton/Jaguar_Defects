@@ -1,0 +1,85 @@
+Copyright 2025 General Motors. All Rights Reserved.Bulletin No.: 24-NA-026
+Service BulletinDate: February, 2025
+TECHNICAL
+Convertible Top Water Leak Around Side Glass in High Pressure Car Wash
+Brand: Model: Model Year: Build Date Breakpoint: Engine: Transmission:
+from to from to
+Chevrolet Corvette 2020 2025 SOPMarch 10,
+2025All All
+Involved Region or Country North America, Europe, Middle East, Japan, Australia/New Zealand
+Additional Options (RPOs) Convertible (RPO CM9)
+Condition
+6543378
+Some customers may comment about a water leak from approximately the middle rear of
+the side glass area during a touch-less or other high pressure car wash.
+CauseThe cause of the condition may be due to slight variations in sealing between the roof
+panel seals.
+CorrectionFollow the Service Procedure outlined below to correct vehicles that may be experiencing
+this condition.Subject:
+Service Procedure
+Important: Service agents must comply with all International, Federal, State, Provincial, and/or Local laws
+applicable to the activities it performs under this bulletin, including but not limited to handling, deploying,
+preparing, classifying, packaging, marking, labeling, and shipping dangerous goods. In the event of a
+conflict between the procedures set forth in this bulletin and the laws that apply to your dealership, you
+must follow those applicable laws.
+1. Partially retract the top until access to both ends of the top panel are easily accessible.
+Page 2 February, 2025 Bulletin No.: 24-NA-026
+6535549
+2. Pull on the front side window weatherstrip to remove it.
+6535550
+3. Remove the front side window weatherstrip retainer by removing these three bolts (size T-25).
+4. Cut a 12 mm x 45 mm piece of semi-closed EPDM foam, ¼ inch thick. (See Parts Information)
+Bulletin No.: 24-NA-026 February, 2025 Page 3
+6535551
+5. Install the foam as shown in the photo.
+Place the long edge of the foam just inward of the rolled outboard edge of the top, but not on the edge itself so
+that the foam is less visible when the top is closed. Place the foam’s narrow edge just forward of the trailing
+edge of the top panel. Reposition the existing narrow foam strip slightly inboard to accommodate the size of the
+added foam.
+6. Reinstall the front side window weatherstrip retainer using the three T-25 bolts.
+Note: The retainer should cover some of the added foam to help retain it in the event that the adhesive fails over
+time.
+7. Watch the video before re-installing the weatherstrip.
+Important: Weatherstrip installation is sensitive to position, and the leak can be worse than before if the installation
+is incorrect.
+8. If the customer noted leaks on both sides, repeat this procedure for the remaining side. If not, it may not be
+worth disturbing the existing weatherstrip performance.
+9. Verify the leak is corrected before returning to customer. If the leak persists, try adjusting the weatherstrip
+position again per the video.
+Page 4 February, 2025 Bulletin No.: 24-NA-026
+GM bulletins are intended for use by professional technicians, NOT a "do-it-yourselfer" . They are written to inform these
+technicians of conditions that may occur on some vehicles, or to provide information that could assist in the proper
+service of a vehicle. Properly trained technicians have the equipment, tools, safety instructions, and know-how to do a job
+properly and safely. If a condition is described, DO NOT assume that the bulletin applies to your vehicle, or that your
+vehicle will have that condition. See your GM dealer for information on whether your vehicle may beneﬁt from the
+information.
+WE SUPPORT VOLUNTARY
+TECHNICIAN
+CERTIFICATIONParts Information
+A sheet of suitable EPDM semi-closed foam can be obtained through Grainger, item ID 60DA20.
+6535552
+Causal
+PartDescription Part
+Number / ID
+NumberQty
+N/A EPDM Semi-
+Closed Foam*60DA20 1
+* We believe this source and their products to be reliable.
+There may be additional manufacturers of such products/
+materials. General Motors does not endorse, indicate any
+preference for, or assume any responsibility for the
+products or material from this firm or for any such items
+that may be available from other sources.
+Warranty Information
+For vehicles repaired under the Bumper-to-Bumper coverage (Canada Base Warranty coverage), use the following
+labor operation. Reference the Applicable Warranties section of Investigate Vehicle History (IVH) for coverage infor-
+mation.
+Labor
+OperationDescription Labor Time
+6086068* Convertible Top Roof Panel
+Leak Repair0.5 hr
+Add Additional Side 0.2 hr
+*This is a unique Labor Operation for bulletin use only.
+Version 2
+Modified Released February 01, 2024
+Revised February 07, 2025 – Added the 2025 Model Year and Build Date Breakpoint.

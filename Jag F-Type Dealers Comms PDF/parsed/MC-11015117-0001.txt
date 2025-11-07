@@ -1,0 +1,56 @@
+AfterSalesJan 21, 2025
+Page 1 of 29YA/9YB - ‘Tail Light Faulty’ Warning in the Instrument Cluster
+Vehicles Affected
+Models Model Year Model Type VIN Range Vehicle-Specific Equipment
+Cayenne 2024 9YA, 9YB N /A N /A
+Revision History
+Revision Release Date Changes
+0 January 21. 2025 Original document
+Condition
+ The customer receives a warning message in the instrument cluster 
+ indicating that a tail light is not working. (See Figure 1.) 
+ The workshop confirms the customer’s observation along with one or
+ more of the following Rear BCM (BCM2) fault codes:
+ • B16D6F2 - Outer right tail light – marker light defective
+ • B16D4F2 - Outer left tail light – marker light defective
+ • B16D7F1 - Center right tail light – LED module defective
+ • B16D5F1 - Center left tail light – LED module defective
+ Generally, however, the tail light does work as observed from outside 
+ the vehicle. The warning and faults are a false alarm.
+Technical Background
+ Intermittently, in rare ‘corner cases,’ the tail lights’ internal communication can get stuck. This condition sends an 
+ unwanted failure message to the BCM2. The BCM2 interprets this as a possible loss of tail light function, conse-
+ quently records a fault, and sends a warning to the instrument cluster. If the tail lights are illuminated normally, this
+ is a false alarm and the driver can reset the instrument cluster warning by cycling the ignition. Note the tail lights 
+ will remain safely illuminated during the false alarm condition.
+Advanced Technical Information 9Bulletin #: 2500
+Part ID: 9431
+Figure 1
+AfterSalesJan 21, 2025
+Page 2 of 2 This false alarm fault condition is not affected by any known environmental conditions or by driver behavior, so 
+ nothing can be done to mitigate the fault circumstantially. The fault affects all currently available parts and all 
+ variants of the tail lights, therefore part replacement does not effectively solve the false alarm. Do not exchange 
+ parts unless you observe the lights do not illuminate!
+ Porsche will provide new software for the false alarm condition later this year.
+Service Information
+ A) False warning . If the warning message is present and you observe that all the tail lights are illuminated, do   
+  nothing at this time. Assure the customer that the lights are visible to others on the road.
+ B) Actual tail light outage . If the warning is present and any of the tail lights are not illuminated, replace that   
+  tail light as usual.
+PCSS Coding
+ As always, please document the repair completely in PCSS. For this repair, please code the “cause” as follows:
+ 
+Location (FES5) 94310 Rear light
+Damage type (SA4) 1611 No function 
+Search Items 
+ Taillamps, taillights, rear, back, lamp, false warning, E3-PA
+Advanced Technical Information 9Bulletin #: 2500
+Part ID: 9431
+Important Notice : Technical Bulletins issued by Porsche Cars North America, Inc. are intended only for use by professional automotive technicians who have attended Porsche service training courses. They are 
+written to inform those technicians of conditions that may occur on some Porsche vehicles, or to provide information that could assist in the proper servicing of a vehicle. Porsche special tools may be necessary in 
+order to perform certain operations identified in these bulletins. Use of tools and procedures other than those Porsche recommends in these bulletins may be detrimental to the safe operation of your vehicle, and 
+may endanger the people working on it. Properly trained Porsche technicians have the equipment, tools, safety instructions, and know-how to do the job properly and safely. Part numbers listed in these bulletins 
+are for reference only. The work procedures updated electronically in the Porsche PIWIS diagnostic and testing device take precedence and, in the event of a discrepancy, the work procedures in the PIWIS Tester 
+are the ones that must be followed.
+6000018196
+©2025 Porsche Cars North America, Inc.

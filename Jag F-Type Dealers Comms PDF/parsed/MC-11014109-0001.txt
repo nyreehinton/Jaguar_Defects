@@ -1,0 +1,90 @@
+Volvo Car USA LLC Technical Journal
+Technical Journal Title
+Complimentary Upgrade; OTA Updates not AvailableRef. No.
+TJ 36139.17.0
+Issuer (Dept.)
+Technical ServiceIssue Date
+12/20/24Status Date
+1/15/25
+Car Market
+United States and CanadaPartner
+3 US 7510 Volvo Car USAFunction Group
+3018
+Function Description
+SoftwarePage
+Page 1 of 3Rows beginning with * are modified        
+Note! If using a printed copy of this Technical Journal, first check for the latest online version.
+DESCRIPTION:
+* EX90 added
+This journal only applies to a vehicle with an Android based Infotainment system (iCup).
+This TJ is ONL Y  applicable for vehicles marked with the complimentary upgrade, e.i. “C000XX – 
+Compl.Upgrade TJ 36139” , please follow instructions under “Service” .
+Complimentary upgrade
+For those vehicles identified by Volvo Cars centrally, as not suitable for OTA, the complimentary 
+upgrade is necessary to have these vehicles software baseline up to date and to ensure OTA 
+availability in the future and meet customer expectations. 
+For the customer to be able to get OTA updates the vehicle must have the correct software status.
+If this is not the case, Volvo Cars will, as a pre-caution, will not deploy OTA to these vehicles. 
+For these vehicles a VIDA update is seen as the safer options since a workshop technician will be 
+able to resolve any potential issues that might occur during the software installation. 
+This complimentary upgrade is not released due to any other customer quality issues and only 
+concerns Volvo vehicles.
+These vehicles are identified and marked with a complementary upgrade at every OTA deployment 
+window approx. 7 times a year.
+OTA = Over The Air software update
+CSC   Customer Symptom Codes
+Code Description
+1C Service/repair/Administrative and Factory scheduled maintenance
+3L Technician information/Repair information/Not for warranty use
+Page 2 of 3 2025-01-15
+Technical Journal 36139.17 .0DTC   Diagnostic Trouble Codes
+Vehicle Type
+Type EngEng 
+DescSales Body Gear Steer Model Year PlantChassis 
+rangeStruc Week 
+Range
+224 2023-9999 - 202222-999952
+225 2023-9999 - 202222-999952
+227 2023-9999 - 202222-999952
+234 2022-9999 - 202122-999952
+235 2022-9999 - 202122-999952
+236 2022-9999 - 202122-999952
+238 2022-9999 - 202122-999952
+246 2022-9999 - 202122-999952
+256 2023-9999 - 202222-999952
+356 2025-9999 - 202417-999952
+416 2024-9999 - 202336-999952
+536 ED E400V6 2021-9999 - 202037-999952
+536 EF E400V2 2022-9999 - 202146-999952
+536 EH E400V8 2024-9999 - 202317-999952
+536 EP E400V16 2024-9999 - 202317-999952
+536 ER E400V12 2024-9999 - 202317-999952
+536 K7 BK7KERS 2023-9999 - 202222-999952
+536 K8 BK8KERS 2023-9999 - 202222-999952
+536 K9 BK9KERS 2023-9999 - 202222-999952
+536 L1 BL1KERS 2023-9999 - 202222-999952
+536 L3 BL3KERS 2023-9999 - 202222-999952
+536 L5 BL5KERS 2023-9999 - 202222-999952
+539 2022-9999 - 202139-999952
+SERVICE:
+Perform a Total Upgrade.
+If the Total Upgrade cannot be performed, continue with normal fault tracing.
+  
+Warranty claim info:
+Note that the TJ number must be stated in repair order text.
+To get a warranty claim accepted for a job described in this TJ, please use following data: 
+VST Op number: 36004-2, CSC 52, Cause Code 97.
+2025-01-15 Page 3 of 3
+Technical Journal 36139.17 .0Cartype  Software part number
+XC40/C40 ................. 31676056
+S90L ........................... 31472405
+S/V/90/CC  ................ 31654144
+XC60/XC90 ............... 31483292
+S/V/60/CC  ................ 31493704
+EX30  ........................... 80013398
+* EX90 ........................ 32425147
+VST   Operation Number
+VST Operation Number Description
+36004-2 Software control module downloading
+VEHICLE REPORT:
+N/A

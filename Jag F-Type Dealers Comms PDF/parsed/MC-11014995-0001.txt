@@ -1,0 +1,93 @@
+Technical Ser vice Bulletin
+Technical Ser vice Bulletin : TSB250040 Released Date : 24-F eb-2025
+Engine Misfir e Fault Codes with No Driv ability Issues
+Engine Misfire Fault Codes with No Drivability
+Issues
+Warranty Statement
+ContentsThe information in this document has no eff ect on pr esent warr anty co verage or r epair pr actices,
+nor does it authoriz e TRP or Campaign actions.
+Product Aff ected
+X15N CM2380 X150B
+Issue Summar y
+Sympt om:
+Following fault codes pr esent with no driv ability issues:
+5895
+5896
+5897
+5898
+5899
+5911
+5914
+6413
+6425
+6426
+6427
+6428
+6429
+6431
+Root Cause:
+Low batter y voltage
+ECM calibr ation tuning
+Verification
+Verify F ault Code 1966 is not activ e.
+Verify no driv ability issues wer e detected.
+Check if any of the sympt om fault codes ar e activ e.
+Resolution
+If Fault Code 1966 is activ e, follow published Troubleshooting Tree.
+Fault codes occurr ences ar e pending an ECM calibr ation code r elease and tuning adjustment.
+Continue t o monit or for futur e ECM calibr ation code r elease. Tempor ary solutions for when fault
+codes log during the following situations:
+Start-up
+If engine speed is below  800 rpms, manually r aise t o appr oximately 800 rpm b y tapping
+the acceler ator pedal position during warm-up
+OR
+Adjust par ameter “Low Idle Speed” t o 800 rpm in the r ecommended Cummins®
+electr onic ser vice t ool or equiv alent
+Idle Low Load
+If engine speed is below  800 rpm during idling, tempor arily incr ease the engine rpm t o
+appr oximately 800 rpm b y tapping the acceler ator pedal position
+OR
+Enable the par ameter “ Adjustable Low Idle Speed” in the r ecommended Cummins®
+electr onic ser vice t ool or equiv alent
+Adjust par ameter Low Idle Speed Additional Settings > Step Siz e to 50 rpm
+Cruise Contr ol
+For vehicles running on adaptiv e cruise contr ol, change in the r ecommended Cummins®
+electr onic ser vice t ool or equiv alent the par ameter “Load Based Torque Contr ol” >
+Torque Contr ol > Smar t Torque 2 > F uel E conomy Adjustment F actor one le vel closer t o
+max fuel economy (see Table 1).
+For vehicles with standar d cruise contr ol, manually incr ease r oad speed prior t o hill
+climbs.
+High Speed High Load
+No interim solutions
+Mid-Speed Low Load
+No interim solutions
+Table 1, Adaptiv e Cruise Contr ol Fuel E conomy Adjustment F actor
+Notes:
+If regularly hauling mor e than 30,000 k g [~66,000 lbs] and existing adaptiv e cruise contr ol
+setting is Base, Max per formance, or P erformance, mo ve to Economy
+The lower on the char t (closer t o economy), the gr eater the r eduction in fault code
+occurr ences per r ating type.
+Document Hist ory
+Last Modified:  24- Feb-2025Table 1, Adaptiv e Cruise Contr ol Fuel E conomy Adjustment F actor
+Rating Type Baseline Recommended
+Standar d or ST
+RatingsBase Smar t Torque 2 Balanced
+Smar t Torque 2Max
+PerformanceSmar t Torque 2 Balanced
+Smar t Torque 2 Performance Smar t Torque 2 Balanced
+Smar t Torque 2 Balanced Smar t Torque 2 Economy
+Smar t Torque 2 Economy Smar t Torque 2 Max E conomy
+ 
+EX RatingsBase Dynamic P ower Balanced
+Smar t Torque 2Max
+PerformanceDynamic P ower Balanced
+Smar t Torque 2 Performance Dynamic P ower Balanced
+Dynamic P ower Balanced Smar t Torque 2 Balanced
+Smar t Torque 2 Balanced Smar t Torque 2 Economy
+Smar t Torque 2Economy/Max
+EconomyDynamic P ower Economy
+Dynamic P ower Economy Dynamic P ower Max E conomy
+Continue t o monit or for futur e ECM calibr ation code r elease.
+Date Details
+2025-2-20Module Cr eated
+2025-2-24Quick Fix application:

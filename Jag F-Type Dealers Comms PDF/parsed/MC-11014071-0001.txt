@@ -1,0 +1,1305 @@
+ 
+ 
+Classification: Reference: Date: 
+EC24-015 NTB24-061 January 30, 2025 
+ 
+ 
+Bulletins are intended for use by qualified technicians,  not 'do-it-yourselfers'.  Qualified technicians are 
+properly trained individuals who have the equipment, tools, safety instruction, and know-how to do a job 
+properly and safely. NOTE:  If you believe that a described condition may apply to a particular vehicle, DO 
+NOT assume that it does.  See your Nissan dealer to determine if this applies to your vehicle. 
+ 
+1/47 
+ 
+VOLUNTARY EMISSIONS RECALL CAMPAIGN  
+2016-2017 TITAN XD DIESEL; PM SENSOR 
+ 
+CAMPAIGN ID #: PD128  
+APPLIED VEHICLES: 2016-2017 Titan XD (A61) 
+APPLIED ENGINES: Cummins 5.0L Diesel 
+ 
+Check Service COMM or Dealer  Business Systems (DBS)  
+National Service History to confirm campaign eligibility . 
+ 
+ 
+INTRODUCTION 
+ 
+Nissan is conducting this voluntar
+y emission s recall campaign on certain specific model 
+year 2016-2017 Titan XD vehicles equipped with a diesel engine, to install a Particulate 
+Matter (PM) Sensor and reprogram the Engine C ontrol Module (ECM). This service will be 
+performed at no charge to the cu stomer for parts or labor. 
+  
+IDENTIFICATION NUMBER 
+ 
+Nissan has assigned identificat ion number PD128 to this ca mpaign. This number must 
+appear on all communication and documentation of any nature dealing with this campaign
+. 
+  
+DEALER RESPONSIBILITY 
+ 
+It is the dealer’s responsib
+ility to check Serv ice COMM or Dealer Business Systems (DBS) 
+National Service History for the campaign status  on each vehicle falling within the range of 
+this voluntary emissions recall which for any reason enters the service department. This 
+includes vehicles purchased from private parti es or presented by transient (tourist) owners 
+and vehicles in a dealer’s inventory.  Federal law requires that new vehicles in dealer 
+inventory which are the subject of a safety recall must be corrected prior to sale.  
+Failure to do so can result in civil penalties by the Na tional Highway Traffic Safety 
+Administration .  While federal law applies only to new vehicles, Nissan strongly 
+encourages dealers to correct any used vehicles in  their inventory before they are retailed. 
+2/47 NTB24-061  
+REPAIR OVERVIEW 
+ 
+ 
+ 
+  
+Confirmed through Service COMM or DBS:  
+ 
+Campaign ID # PD128 applies  
+PM Sensor installation 
+PM Sensor Control Unit 
+installation and harness routing 
+END  
+Write Saved Data with  
+CONSULT-III plus and VI3 
+Save ECM data with  
+CONSULT-III plus and VI3 
+Reprogram the ECM  
+with CONSULT-III plus and VI3 
+Exhaust leak check  
+3/47 NTB24-061  
+IMPORTANT 
+ 
+Attention California Dealers 
+ 
+ 
+An Emission Recall Campaign Completion (ERCC) label must be filled ou t by the technician 
+performing the repair, and then attached to the underside of the vehicle hood. A sample of the label is shown below. 
+ 
+                                                                  
+                                                                                                Figure 1  
+  
+ 
+California dealers are now required to issue a proof  of correction certificate to vehicle owners 
+upon completion of emissions related recall work. Please fill out one of the campaign 
+completion forms for each owner that has this  campaign performed. Inst ruct owners to keep 
+this certificate unless they are requested to mail it to the DMV. A sample of the form is shown 
+in Figure 2 below. 
+ 
+ 
+Figure 2  
+ 
+HINT: 
+ 
+ These forms (item number CAEMRC 1-20 ) and labels (item number NIS-UHL-
+16) are available from Nissan Publicat ions (1-800-247-5321) at no charge. 
+ 
+ When either item (form or label) is ordered, you will automatically receive the 
+other item as well. 
+  
+Orange colored NIS-UHL-16 Technician: Fill in here: 
+ 
+“Installed PM Sensor and Reprogrammed ECM  
+per Campaign ID # PD128” 
+Fill in “DEALER CODE” and “DATE”  
+ 
+Put “ARB/EPA” under “CHANGE AUTHORITY” 
+4/47 NTB24-061  
+REQUIRED TOOLS / MATERIALS 
+ 
+ 
+ 
+Figure 3  
+ 
+ 
+ 
+Figure 4  
+ 
+ 
+ 
+Figure 5 
+ 
+ 
+Figure 6  
+ Step drill bit 22157-EZ41A 
+(Provided with PM Sensor Upfit Kit) 
+ 
+ Paper Template 226B0-EZ41A 
+(Provided with PM Sensor Upfit Kit) 
+ 
+ 
+ 3/16” Drill Bit (available from local 
+sources) 
+ 
+ 5 Plastic straps approximately  
+12” long (shop supply) 
+ Step Drill Bit 
+Paper 
+Template 
+3/16” drill bit 
+Plastic straps 
+5/47 NTB24-061  
+SERVICE PROCEDURE 
+ 
+ 
+PM Sensor Installation 
+ 
+ 
+Figure 7  
+ 
+  
+1. Place the vehicle on a suitable lift and 
+raise the vehicle. 
+ 
+ Verify the lift arms will clear the 
+running boards (if equipped). 
+ 
+ If needed, place a pole jack on 
+the trailer hitch receiver (if 
+equipped) or rear bumper structure to help stabilize the vehicle. 
+  
+Pole 
+jack 
+6/47 NTB24-061  
+ 
+ 
+Figure 8  
+ 
+ 
+ 
+Figure 9  
+ 
+  
+ 
+Figure 10
+ 
+ 
+     
+   2. Remove the tailpipe.   
+  
+a. Remove the two (2) tailpipe 
+hanger retaining bolts. 
+  
+  
+b. Loosen the tailpipe clamp. 
+ 
+c. Twist and rock the tailpipe up and 
+down to loosen it from the Selective Catalytic Reduction (SCR) Catalyst Outlet. 
+  Tailpipe 
+Tailpipe 
+hanger Bolts 
+(2)Bolts (2) 
+Tailpipe 
+clamp 
+7/47 NTB24-061  
+ 
+Figure 11  
+ 
+ 
+ 
+Figure 12  
+ 
+ 
+ 
+Figure 13  
+ 
+ 
+  
+3. Locate the SCR catalyst outlet and 
+alignment tab ( Figure 11). 
+ 
+ Reference the location of the 
+alignment tab as this will be important in the following steps. 
+  
+4. Clean the SCR catalyst outlet. 
+ 
+a. Clean the SCR catalyst outlet 
+from the end of  the pipe around 
+the alignment tab and up to the 
+rear SCR catalyst hanger bracket. 
+ 
+b. Using a clean dampened cloth, 
+clean all dirt, road salt and debris from the SCR catalyst outlet. 
+ 
+ 
+ 
+c. Use 100-120 grit sandpaper to 
+clean all rust, dirt and debris off 
+of the SCR catalyst outlet in and around the alignment tab. 
+ 
+IMPORTANT:  Do not 
+aggressively file or grind  the SCR catalyst outlet. SCR 
+catalyst 
+outlet 
+Alignment tab 
+Clean 
+dampened cloth 
+Sandpaper 
+8/47 NTB24-061  
+ 
+ 
+Figure 14  
+ 
+    
+ 
+Figure 15
+ 
+   
+  
+5. Open the PM Sensor Upfit Kit and 
+locate the Paper Template (226B0-EZ41A). 
+  
+6. Find the “Punch and Drill” location on 
+the Paper Template and create a 
+small hole using a center punch. (This action is to create a locating hole for the center punch for future punch and drill steps). 
+ 
+HINT:  Do NOT push the entire center 
+punch all the way through the Paper Template. 
+  Paper 
+Template 
+Center punch 
+9/47 NTB24-061  
+ 
+ 
+Figure 16  
+ 
+b. Adjust the Paper Template until the right  side of the Paper Template is parallel 
+with the SCR catalyst outlet ( Figure 17). 
+ 
+c. Once the Paper Template placement is finalized, use normal office tape to attach 
+the Paper Template to the SCR cata lyst at the locations marked “Tape”. 
+ 
+  
+ 
+   
+   7. Place the Paper Template on the 
+SCR catalyst outlet, as shown in Figure 16. 
+ 
+a. The Paper Template “Tab” 
+hole should be located over the SCR catalyst alignment 
+tab. 
+Figure 17 Alignment tab 
+Paper Template parallel 
+to SCR Catalyst Outlet 
+10/47 NTB24-061  
+ 
+Figure 18  
+ 
+ 
+ 
+Figure 19  
+ 
+ 
+ 
+Figure 20  
+  
+ 8. Center punch the SCR catalyst outlet. 
+ 
+a. Find the “Punch and Drill” 
+location on the Paper Template. 
+ 
+b. Using a suitable center punch 
+and hammer, center punch the SCR Catalyst Outlet at the “Punch and Drill” location. 
+ 
+c. Do NOT remove the Paper 
+Template from the SCR catalyst outlet. 
+  
+ 
+   9. Using an electric variable speed drill 
+and a 3/16” Drill Bit, drill a 3/16” pilot hole (at a depth of no more than 1”) 
+through the Paper Template and the SCR catalyst outlet. 
+ 
+IMPORTANT:  Limit the drill depth to 
+1” to prevent damage to the internal structure of the SCR catalyst. 
+ 
+ Remove the Paper Template 
+from the SCR catalyst outlet after drilling the 3/16” pilot hole. 
+ 
+ Center 
+punch 
+Drill 
+here 
+11/47 NTB24-061  
+ 
+Figure 21  
+ 
+  
+ 
+Figure 22
+ 
+ 
+  
+ 
+Figure 23
+ 
+ 
+  
+10. Drill the hole in the SCR catalyst 
+outlet larger (at a depth of no more 
+than 1”) using the Step Drill Bit (22157-EZ41A) provided in the installation kit. 
+ 
+a. Note the red line on the Step Bit. 
+This is the stop line to utilize when drilling the hole larger. 
+ 
+b. Enlarge the hole until the red line 
+is on top of the SCR outlet. 
+ 
+IMPORTANT:  Limit the drill depth to 
+1” to prevent damage to the internal structure of the SCR catalyst. Do NOT let the red line go into the SCR 
+catalyst outlet. 
+11. Deburr the hole drilled into the SCR 
+catalyst outlet. 
+ 
+ Use a suitable small round file, 
+deburring tool, or 100-150 grit sandpaper to deburr the drilled hole. 
+ 
+IMPORTANT:  Limit the filing depth to 
+1” to prevent damage to the internal structure of the SCR catalyst. 
+ 
+12. Remove any drill or file debris from 
+inside the SCR catalyst outlet. 
+ 
+ Use a shop vacuum to remove 
+the debris. 
+ 
+ Red stop line 
+12/47 NTB24-061  
+ 
+ 
+Figure 24  
+          
+  IMPORTANT:  The tailpipe must be installed before the U-bolt clamps are tightened. The U-
+bolt clamps distort the SCR catalyst outlet, preventing tailpipe reinstallation. 
+   
+ 
+Figure 25
+ 
+ 
+  
+ 13. Install the tailpipe to the SCR catalyst 
+outlet. 
+ 
+a. Line up the cut-out on the tailpipe 
+with the alignment tab on the 
+SCR catalyst outlet. 
+ 
+b. Install the two (2) tailpipe hanger 
+retaining bolts and tighten to 
+specification. 
+ 
+ Tailpipe hanger retaining 
+bolt torque 18 N•m  (1.8 kg-m, 13 ft-lb ) 
+ 
+c. Tighten the tailpipe clamp. 
+ 
+ Tailpipe clamp retaining nut 
+torque 55 N•m (5.6 kg-m,  41 ft-lb ) 
+ 
+14. Loosely install the U-bolt clamps 
+(22095-EZ41A) onto the SCR catalyst outlet. 
+ 
+ Orient the U-bolt clamps on the 
+SCR catalyst outlet with the U-bolt clamp nuts facing upward, as shown in Figure 25. 
+  Tailpipe 
+Up 
+13/47 NTB24-061  
+Figure 26  
+ 
+ 
+ 
+Figure 27  
+ 
+ 
+Figure 28  
+ 
+  
+ 15. Assemble the precut exhaust gasket 
+(20691-EZ41A) on the PM Sensor bracket (22795-EZ41A) as shown in Figure 26. 
+ 
+a. Place the exhaust gasket onto 
+the PM Sensor bracket with the hole centered over the bracket 
+pilot. 
+ 
+b. Carefully mash the exhaust 
+gasket down so it conforms to the 
+curvature of the bracket. 
+ 
+c. Make sure the bracket pilot is 
+protruding through the gasket. 
+16. Place the PM Sensor bracket with 
+gasket onto the SCR catalyst outlet at the drilled hole. 
+ 
+ Orient the bracket so the laser 
+etched number will be facing toward the front of the vehicle. 
+ 
+ Verify the gasket tab is facing 
+toward the rear of the vehicle. 
+ 
+HINT:  For clarity, Figure 27 does 
+not show the U-bolt clamps. 
+  
+17. Install the U-bolt clamps onto the PM 
+sensor bracket and the SCR catalyst outlet. 
+ 
+a. Install the U-bolt clamps in the 
+position shown in Figure 28. 
+ 
+b. Tighten the U-bolt clamp nuts 
+evenly to 15 N•m (1.5 kg-m,  11 ft-lb ). 
+ 
+IMPORTANT:  Do NOT tighten 
+the U-bolt clamp nuts to more than 15 N•m (1.5 kg-m, 11 ft-lb ) 
+in this step or the SCR catalyst outlet will become distorted. 
+ 
+ Bracket pilot Gasket 
+tab 
+Etched Number Gasket Tab 
+Front of 
+Vehicle 
+14/47 NTB24-061  
+ 
+Figure 29  
+ 
+ 
+ 19. Locate the following components from the pa rts kit to mount the PM sensor control 
+unit to the passenger (RH) side frame. 
+ 
+ 
+   20. To install the PM sensor contro l unit bracket (22644-EZ42E) and harness: 
+ 
+ For Short Wheel Base (SWB) King Cab and Regular C ab with Long Bed, 
+continue to step 21 on page 15. 
+ 
+ For Long Wheel Base (LWB) Crew Cab, skip to step 33 on page 22. 
+      
+18. Install the PM sensor (227A3-EZ41B) 
+into the PM sensor bracket. 
+ 
+ PM sensor torque: 50 N•m  
+(5.0 kg-m, 37 ft-lb ). 
+  
+Figure 30 Control Unit Bracket Bracket Bolts C/U Retaining 
+Bolts 
+081A6-6252A 081A0-8201A 22644-EZ42E 
+15/47 NTB24-061 PM Sensor Control Unit Insta llation And Harness Routing (SWB) 
+ 
+  
+ 
+Figure 31
+ 
+ 
+ 
+Figure 32  
+  
+ 
+Figure 33
+ 
+   
+21. Locate the area shown in Figure 31 
+between the chassis harness and the right rear shock absorber on the passenger (RH) side inner frame rail. 
+ 
+ Locate the two (2) threaded holes 
+in the inner frame rail between the chassis harness and the right rear shock absorber. 
+  
+22. Install the PM sensor control unit 
+bracket. 
+ 
+a. Install the bracket with the 
+directional arrow pointing toward the front of the vehicle (the “FR” on the bracket will be upside down). 
+ 
+b. Install and tighten the two (2) 
+bracket retaining bolts (081A0-8201A). 
+ 
+c. PM sensor control unit bracket 
+retaining bolt torque: 18 N•m  (1.8 kg-m, 13 ft-lb ) 
+  
+23. Install the PM sensor control unit onto 
+the PM sensor control unit bracket. 
+ 
+a. Install the PM sensor control unit 
+with the harness facing toward the rear of the vehicle. 
+ 
+b. Install and tighten the two (2) PM 
+sensor control unit retaining bolts (081A6-6252A). 
+ 
+c. PM sensor control unit retaining 
+bolt torque: 9 N•m (0.92 kg-m,  80 in-lb) 
+  
+ Front of 
+Vehicle 
+Threaded 
+holes (2) 
+Directional 
+arrow 
+PM sensor 
+control unit 
+16/47 NTB24-061  
+ 
+ 
+Figure 34  
+ 
+  
+ 
+Figure 35
+ 
+  
+ 
+Figure 36
+ 
+ 
+  
+24. Route the PM s ensor wiring harness 
+from the PM sensor control unit to the 
+PM sensor. 
+ 
+ Install the PM sensor wiring 
+harness into three (3) existing harness clips on the RH side frame rail (inner). 
+ Make sure there is clearance 
+from the exhaust tailpipe and enough clearance for some SCR catalyst movement. 
+  
+25. Locate the jumper harness (22159-
+EZ41A) from the PM Sensor Upfit kit, 
+as shown in Figure 35. 
+ 
+ 
+ 
+26. Plug the single end of the jumper 
+harness into the PM sensor control 
+unit. 
+ 
+  PM sensor 
+harness 
+Single end of 
+jumper harness Clip Clip Clip 
+17/47 NTB24-061  
+ 
+ 
+Figure 37  
+  
+ 
+Figure 38
+ 
+  
+    27. Route the jumper harness up to the 
+RH side frame rail (outer) toward the front of the vehicle. 
+ 
+ The jumper harness will rest on 
+top of the existing chassis harness. 
+ 
+  Route 
+harness up in 
+this direction 
+Jumper harness 
+Front of 
+Vehicle 
+18/47 NTB24-061  
+  
+ 
+Figure 39
+ 
+  
+ 
+Figure 40
+ 
+  
+    28. Disconnect the large rectangular  
+(4-pin) wiring harness connector from the Outlet NO x sensor control 
+unit (Figure 39 and Figure 40). 
+ 
+ 
+  
+Rectangular Outlet NOx 
+sensor control unit harness Look here 
+19/47 NTB24-061  
+  
+ 
+Figure 41
+ 
+  
+ 
+Figure 42
+ 
+  
+    29. Plug the jumper harness into the 
+Outlet NOx sensor control unit and the existing chassis harness connector on the frame rail  (Figure 41 and Figure 42). 
+ 
+ 
+  
+Rectangular Outlet NOx 
+sensor control unit harness Existing Chassis 
+harness connector 
+20/47 NTB24-061  
+ 
+Figure 43  
+ 
+ 
+Figure 44  
+ 
+ 
+Figure 45  
+ 
+ 
+Figure 46  
+  
+ 
+    30. Working from the rear of the vehicle 
+toward the front, secure the jumper harness to the existing chassis harness on the RH side frame rail using five (5) plastic straps  (Figure 43- Figure 46). 
+  
+ Five (5) plastic straps (zip-ties) 
+will be required. 
+ 
+ Figure 43 is from under the 
+vehicle at the PM sensor  
+control unit. 
+ 
+  Figure 44 is from the frame rail 
+RH side (outer) above the leaf spring eyelet. 
+ 
+ Figure 45 is from the frame rail RH side (outer) behind the right rear cab mount. 
+ 
+ Figure 46 is from under the 
+vehicle facing toward the RH 
+side frame rail (inner) above the SCR catalyst. 
+ 
+  Plastic strap #1 
+Front of 
+Vehicle Front of 
+Vehicle 
+Plastic strap #2 
+Plastic strap #3 
+Plastic strap #4 Front of 
+Vehicle 
+Front of 
+Vehicle 
+Plastic strap #5 
+21/47 NTB24-061  
+ 
+Figure 47  
+ 
+ 
+  
+31. Remove the pole jack (if applicable) 
+and lower the vehicle. 
+ 
+ Do not remove the vehicle from 
+the lift. 
+ 
+32. Skip to step 45 on page 27 for the 
+Exhaust Leak Check . 
+Pole 
+jack 
+22/47 NTB24-061  
+PM Sensor Control Unit Insta llation And Harness Routing (LWB) 
+  
+ 
+Figure 48
+ 
+ 
+ 
+Figure 49  
+  
+ 
+Figure 50
+ 
+  
+33. Locate the area shown in Figure 48 
+on the RH side frame rail. 
+ 
+ Locate the two (2) threaded 
+holes. 
+  
+34. Install the PM sensor control unit 
+bracket. 
+ 
+a. Install the bracket with the 
+directional arrow pointing toward the front of the vehicle (the “FR” on the bracket will be upside down). 
+ 
+b. Install and tighten the two (2) 
+bracket retaining bolts  (081A0-8201A). 
+ 
+c. PM sensor control unit bracket 
+retaining bolt torque: 18 N•m  (1.8 kg-m, 13 ft-lb ) 
+  
+35. Install the PM sensor control unit onto 
+the PM sensor control unit bracket. 
+ 
+a. Install the PM sensor control unit 
+with the harness facing toward the front of the vehicle. 
+ 
+b. Install and tighten the two (2) PM 
+sensor control unit retaining bolts (081A6-6252A). 
+ 
+c. PM sensor control unit retaining 
+bolt torque: 9 N•m (0.92 kg-m,  80 in-lb) 
+  Threaded 
+holes (2) 
+PM sensor 
+control unit Directional 
+arrow 
+Front of 
+Vehicle 
+23/47 NTB24-061  
+ 
+ 
+Figure 51  
+ 
+  
+ 
+Figure 52
+ 
+  
+ 
+Figure 53
+ 
+ 
+36. Route the PM s ensor wiring harness 
+from the PM sensor control unit to the 
+PM sensor. 
+ 
+ Install the PM sensor wiring 
+harness into four (4) existing harness clips on the RH side frame rail. 
+ 
+ Make sure there is clearance 
+from the exhaust tailpipe and enough clearance for some SCR catalyst movement. 
+  
+37. Locate the jumper  harness from the 
+installation kit, as shown in Figure 52. 
+ 
+ 
+ 
+ 
+  38. Plug the single end of the jumper 
+harness into the PM sensor control unit. 
+ 
+  PM sensor harness 
+Single end of 
+jumper harness  Clip (1) 
+ Clips (3) 
+24/47 NTB24-061  
+ 
+Figure 54  
+ 
+ 
+ 
+ 
+Figure 55  
+ 
+ 
+Figure 56  
+ 
+  39. Route the jumper harness up to the 
+RH side frame rail (outer) toward the front of the vehicle. 
+ 
+ The jumper harness will rest on 
+top of the existing chassis harness. 
+ 
+  
+ 
+ 40. Disconnect the la rge rectangular (4-
+pin) wiring harness connector from the Outlet NOx sensor control unit. 
+ 
+ 
+ 
+41. Plug the jumper harness into the 
+Outlet NOx sensor control unit and the 
+existing chassis harness connector on the frame rail. 
+ 
+ 
+ Route harness toward 
+front of vehicle 
+Rectangular Outlet NOx sensor 
+control unit harness connector Existing chassis 
+harness connector 
+Existing chassis 
+harness connector 
+25/47 NTB24-061  
+Figure 57  
+ 
+ 
+Figure 58  
+ 
+ 
+Figure 59  
+ 
+  
+42. Working from the rear of the vehicle 
+toward the front, secure the jumper harness to the existing chassis harness on the RH side frame rail using four (4) plastic  straps ( Figure 57- Figure 59). 
+ 
+ Four (4) plastic straps (zip-ties) 
+will be required. 
+ 
+ Figure 57 is from the RH side 
+frame rail above the leaf spring 
+eyelet. 
+     
+ 
+    
+ Figure 58 is from the RH side 
+frame rail behind t he right rear 
+cab mount. 
+ 
+                  
+ Figure 59 is from under the vehicle facing toward the RH side frame rail (inner) above the SCR catalyst (The plastic strap is around the Outlet NOx sensor control unit connector and the chassis harness connector is tying it to the chassis harness). 
+ 
+  Plastic strap #1 
+Front of 
+Vehicle 
+Plastic 
+strap #2 Plastic 
+strap #3 
+Plastic strap #4 Front of 
+Vehicle 
+Front of 
+Vehicle 
+26/47 NTB24-061  
+ 
+Figure 60  
+ 
+ 
+  
+43. Remove the pole jack (if applicable) 
+and lower the vehicle. 
+ 
+ Do not remove the vehicle from 
+the lift. 
+ 
+44. Continue to step 45 on page 27 for 
+the Exhaust Leak Check . 
+Pole 
+jack 
+27/47 NTB24-061 Exhaust Leak Check 
+ 
+45. Start the engine. 
+ 
+ Apply the parking brake. 
+ 
+ 
+Figure 61  
+ 
+ 
+ 
+Figure 62  
+    
+46. Raise the vehicle. 
+ 
+ Verify the lift arms will clear the 
+running boards (if equipped). 
+ 
+ If needed, place a pole jack on 
+the trailer hitch receiver (if equipped) or rear bumper structure to help stabilize the 
+vehicle. 
+47. Verify there are no exhaust leaks in 
+the area shown in Figure 62. 
+ 
+ Inspect for any leak at the PM 
+sensor and PM sensor bracket. 
+ 
+ Inspect for any leak at the 
+exhaust tailpipe to SCR catalyst outlet connection. Pole jack Verify no exhaust leak 
+at these locations Pole 
+jack 
+28/47 NTB24-061  
+ 
+Figure 63  
+ 
+ 
+  
+  48. Once it is verified that no exhaust 
+leaks exist, remove  the pole jack (if 
+applicable) and lower the vehicle. 
+ 49. Turn the engine OFF. 
+Pole 
+jack 
+29/47 NTB24-061 ECM Reprogram Procedure 
+ 
+ IMPORTANT: Before starting, make sure: 
+ 
+ ASIST on the CONSULT PC has been synchr onized (updated) to the current date. 
+ 
+ All CONSULT-III plus  software updates (if any) have been installed. 
+ 
+Save Computer Data 
+ 
+ 50. Confirm that the CON
+SULT PC is connected to Wi-Fi. 
+  51. Connect the Vehicle Interface (VI3) to the vehicle. 
+ 
+ Connect the provided USB cable to  the VI3 and the CONSULT PC. 
+ 
+ 
+ 
+To prevent insufficient or unstable WI FI connections and potential damage to the 
+ECM during the reprogram procedure, ensure to use th e USB cable between the VI3 
+and the CONSULT PC. 
+ 
+ 52. Turn the ignition ON with t he engine OFF (engine not running). 
+  53. Start CONSULT-III plus (C-I II plus) on the CONSULT PC. 
+  54. If prompted, select USA/CANADA Dealers  from the drop-down menu, and then 
+select OK. 
+    
+55. Login using your NNAnet credentials. 
+ 
+IMPORTANT:  If not prompted to enter your username and password, the CONSULT 
+PC may not be connected to Wi-Fi. Close C-III plus, confirm the CONSULT PC is 
+connected to Wi-Fi, and then reopen C-III plus. 
+  
+  
+
+30/47 NTB24-061  
+56. Wait for the VI to be recognized. 
+ 
+ The serial number will be displa yed when the VI is recognized. 
+  57. Select Diagnosis (One System) . 
+ 
+ 
+Figure 64 
+ 
+  
+VI is 
+recognized 
+31/47 NTB24-061  
+58. Navigate C-III plus to ENGINE > Work support. 
+  59. Select SAVE COMPUTER DATA . 
+  60. Select Start . 
+ 
+ After selecting Start , a screen message may appear that says: “Latest diagnostic 
+tool update must be used before saving the data, otherwise there is a risk that 
+the data entry will not work”. 
+ 
+o If the message above appears, select Continue . 
+  
+ 
+Figure 65 
+  
+  
+
+32/47 NTB24-061 61. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+ 
+ 62. Select Confirm . 
+ 
+ 
+Figure 66 
+  63. Select End. 
+ 
+ 
+Figure 67  
+
+33/47 NTB24-061  
+Reprogram ECM 
+ 
+ 
+HINT: 
+ 
+ Most instructions for reprogramming with CONSULT-III plus (C-III plus) are 
+displayed on the CONSULT PC screen. 
+ 
+ If you are not familiar with the reprogramming procedure, click here . This will link 
+you to the "CONSULT-III PLUS REPROGRAMMING FOR ENGINE OR 
+TRANSMISSION CONTROL MODULE (ECM  OR TCM)" general procedure. 
+ 
+ For the Titan XD Diesel, the GR8 set to ECM power supply mode can be 
+attached to either 12 volt battery. 
+ 
+ 
+ 
+ 
+Perform the following before st arting the reprogramming proc edure to prevent damage to  
+the control unit. 
+ Connect the AC Adapter  to the CONSULT PC. 
+ 
+ Connect the CONSULT PC to the VI3 via USB cable. 
+ 
+ Ensure ASIST on the CONSULT PC has  been synchronized (updated) to the 
+current date and all CONSULT software updates (if any) have been installed. 
+ 
+HINT:   
+ 
+ When reprogramming is complete, you will be required to perform DTC Erase . 
+ 
+ Turn OFF all external Bluetooth® devices (e.g., cell phones,  printers, etc.) within 
+range   of the CONSULT PC and the VI. If Bluetooth® signal waves are within range 
+of the CONSULT PC or VI during reprogramming, the reprogramming may be 
+interrupted. 
+ 
+ Turn the hazard warning lamps ON. 
+ 
+o Turn OFF all other vehicle electrical loads such as exterior lights, interior lights, 
+HVAC, blower, rear defogger, audio, NAV I, seat heater, steering wheel heater, 
+etc. If electrical loads rema in ON, the ECM may be damaged. 
+ 
+ Connect a battery maintainer  or smart charger, set to reflash mode or a similar 
+setting, to ensure the battery volt age stays between 12.0 V and 13.5 V. 
+  
+
+34/47 NTB24-061  
+64. Return to the C-III plus Home screen.   65. Turn the ignition ON with the engine OFF (engine not running). 
+  66. Confirm the plus VI is recognized.  
+ 
+ The Serial No. will display when the plus VI is recognized. 
+  67. Select Re/programming, Configuration . 
+  
+ 
+Figure 68 
+ 
+
+35/47 NTB24-061  
+68. Confirm if ECM reprogramming applies: 
+ 
+a. Find the ECM Part Number and write it on the repair order.  
+ 
+HINT:  This is the current ECM Part Number (P/N). 
+ 
+ 
+Figure 69 
+  
+A.  
+b. Compare the P/N you wrote down to the numbers in the CURRENT ECM PART 
+NUMBER  column in Table A  below. 
+ 
+ 
+ If there is a match, continue with the reprogra mming procedure. 
+ 
+ If there is not a match, r eprogramming is not needed; skip to CLAIMS 
+INFORMATION  on the last page. 
+ 
+ 
+Table A 
+ 
+MODEL YEAR CURRENT ECM PART NUMBER: 23710- 
+2016 - 2017 EZ41C,  EZ41D,  EZ41E 
+EZ42A,  EZ42B,  EZ42C,  EZ42D,  EZ42E 
+EZ43A,  EZ43B,  EZ44D,  EZ44E 
+EZ45A,  EZ45B,  EZ45C  EZ45D,  EZ45E 
+EZ46A,  EZ46B,  EZ46C 
+ 
+ 
+   
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxx Current ECM P/N 
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx 
+36/47 NTB24-061  
+  69. Follow the on-screen instructions to navigate C-III plus and reprogram the ECM. 
+ 
+ If the screen in Figure 70 displays, reprogramming is complete. Skip to step 71 
+on page 39. 
+ 
+ If the screen in Figure 70 does not display (indica ting that reprogramming did  
+not complete), continue to step 70 on page 37. 
+  
+ 
+Figure 70
+ 
+    
+
+37/47 NTB24-061  
+70. Did Error Code  “15-2-1-No_Boot_Mode” shown in Figure 71 display, (indicating that 
+reprogramming did not complete)? 
+ 
+YES:  Select Retry . 
+ 
+o If the same Error Code  occurs after selecting Retry , restart C-III plus and 
+retry reprogramming by cont inuing the operation log. 
+ 
+NO: Refer to ECM Recovery  on the next page. 
+  
+ 
+Figure 71
+ 
+  
+23710 -xxxxx 
+23710 -xxxxx 
+xxxxxxxxxxxxxxxxx 
+38/47 NTB24-061 ECM Recovery 
+ 
+Do not disconnect the plus VI or shut down C-III plus if reprogramming does not 
+complete . 
+ 
+If reprogramming does not complete and the “!?”  icon displays as shown in  
+Figure 72: 
+ 
+ 
+ 
+Figure 72  
+ 
+  
+If reprogramming does not complete and the 
+“X” icon displays as shown in  
+Figure 73: 
+ 
+ 
+ 
+Figure 73  
+  
+   
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ External Bluetooth® devices 
+are OFF. 
+ 
+ All electrical loads are OFF. 
+ 
+ Select retry and follow the 
+on screen instructions. 
+ 
+ “Retry” may not go through on 
+first attempt and can be 
+selected more than once. 
+ 
+ 
+ 
+ Check battery voltage  
+(12.0 - 13.5 V). 
+ 
+ CONSULT A/C adapter is 
+plugged in. 
+ 
+ Ignition is ON, engine OFF. 
+ 
+ Transmission is in Park. 
+ 
+ All C-III plus / VI cables are 
+securely connected. 
+ 
+ All C-III plus updates are 
+installed. 
+ 
+ Select Home, and restart 
+the reprogram procedure 
+from the beginning. xxxxxxxxxxx 
+xxxxxxxxxxx xxxxxx 
+xxxxxx xxxxxxxxxxx 
+xxxxxxxxxxx 
+39/47 NTB24-061  
+ 
+71. Select Next . 
+  
+ 
+Figure 74
+ 
+  72. Follow the on-screen instructions to Erase DTCs . 
+ 
+ DTC erase is required before C-III plus  will provide the final reprogramming 
+confirmation report. 
+  73. When the entire reprogramming pr ocess is complete, the screen in Figure 75 will 
+display. 
+  74. Verify the before and afte r part numbers are different. 
+  75. 
+Print a copy of this screen and attach it to the repair order for warranty 
+documentation. 
+ 
+ 
+76. Select Confirm . 
+  
+
+40/47 NTB24-061   
+Figure 75  
+  
+xxxxxxx xxxxxx 
+xxxxxx 
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx 
+41/47 NTB24-061  
+77. Return to the C-III- plus Home screen.   78. Confirm the ignition is ON, with engine OFF. 
+  79. Confirm the VI is recognized. 
+ 
+ The serial number will be displa yed when the VI is recognized. 
+  80. Select Diagnosis (One System) . 
+ 
+ 
+Figure 76 
+ 
+  
+VI is 
+recognized 
+42/47 NTB24-061  
+ 81. Navigate C-III plus to ENGINE > Work support. 
+  82. Select WRITE SAVED DATA . 
+  83. Select Start . 
+  
+ 
+Figure 77  
+  84. Confirm the ignition is ON wi th the engine OFF (engine not running). 
+   
+
+43/47 NTB24-061  
+85. Select Confirm . 
+  
+ 
+Figure 78  
+  86. Wait for the procedure to complete.  
+ 
+Figure 79
+ 
+   
+
+44/47 NTB24-061  
+87. Select End. 
+ 
+ 
+Figure 80  
+   88. Close C-III plus by selecting t he “X” in the upper right hand corner. 
+  89. Turn the ignition OFF.   90. Turn the hazard warning lamps OFF.   91. Disconnect and remove t he VI from the vehicle. 
+  92. Disconnect the battery maintainer/smart charger.   93. Close the hood.   
+ 
+ 
+  
+
+45/47 NTB24-061 PARTS INFORMATION 
+ 
+DESCRIPTION PART NUMBER QUANTITY 
+PM SENSOR UPFIT KIT 22793-EZ41A 1 
+EXHAUST GAS BRACKET 22644-EZ42E 1 
+BOLTS (2 required) 081A0-8201A 1 
+BOLTS (2 required) 081A6-6252A 1 
+ 
+ 
+PARTS CROSS REFERENCE LIST  (PM SENSOR UPFIT KIT) 
+ 
+The following table lists all of the indivi dual parts in the PM SENSOR UPFIT KIT  
+(22793-EZ41A) plus a cross refer ence to Cummins part numbers. 
+ 
+ 
+ 
+  DESCRIPTION NISSAN PART NUMBER CUMMINS PART NUMBER QTY: 
+PARTICULATE 
+MATTER SENSOR 227A3-EZ41B 5461551 1 
+HARNESS - WIRING 22159-EZ41A 5518128 1 
+BRACKET - 
+MOUNTING 22795-EZ41A 5517961 1 
+GASKET - 
+BRACKET 20691-EZ41A 5517963 1 
+CLAMP – U-BOLT 22095-EZ41A 5517962 2 
+PAPER TEMPLATE 226B0-EZ41A 5518101 1 
+ROTOR – HEAD 
+(Step Drill Bit) 22157-EZ41A 5518102 1 
+46/47 NTB24-061  
+Exhaust Gas Bracket And Bolts  
+ 
+ 
+Figure 81 
+ 
+ 
+ PM Sensor Upfit Kit  
+ 
+ 
+Figure 82  
+
+47/47 NTB24-061  
+CLAIMS INFORMATION 
+ 
+Submit a “CM” line claim using the following claims coding: 
+ 
+CAMPAIGN (“CM”) ID DESCRIPTION OP CODE FRT 
+PD128 Install PM Sensor and  Reprogram ECM PD1280 1.6 
+ 
+ 
+AMENDMENT HISTORY 
+ 
+PUBLISHED DATE REFERENCE DESCRIPTION 
+January 30, 2025 NTB24-061 Orig inal bulletin published 
+ 
+ 

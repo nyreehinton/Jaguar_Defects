@@ -1,0 +1,619 @@
+L-SB-0057 -22 Rev2  December 7, 2022  
+ 
+Enform 2.0 Dynamic Navigation Map Update Process  
+Service 
+Category  Audio/Visual/Telematics   
+ Section    Navigation/Multi Info Display  Market   USA  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA  Page 1 of 16 
+ 
+Applicability  
+ 
+YEAR(S)  MODEL(S)  ADDITIONAL INFORMATION  
+2019 - 2022  ES300H, ES350, UX200, 
+UX250H   
+2022 - 2023  GX460   
+2021 - 2025  IS300, IS350   
+2018 - 2023  LC500, LC500H   
+2021 - 2023  LC500C   
+2018 - 2022  LS500, LS500H   
+2018 - 2021  NX300, NX300H   
+2018 - 2024  RC F, RC300, RC350   
+2020 - 2022  RX350, RX450H   
+ 
+ 
+ 
+  REVISION NOTICE  
+January  14, 2025  Rev2 : 
+ Applicability has been updated to include 2023 model year GX 460 , 2023 – 2025  model year  
+IS 300 and IS 350 , 2022  – 2023 model year LC 500 , LC 500h, and LC 500c, 2022 model year  LS 
+500 and LS 500h,  2023  – 2024 model year RC F, and 2021  – 2024 RC 300 and RC 350  vehicles.  
+ The Introduction, Required Tools & Equipment, and Dynamic Navigation Update sections have 
+been updated.  
+ 
+February 20 , 2024  Rev1:  
+ The Required Tools & Equipment section has been updated.  
+Any previous  printed  versions  of this bulletin  should  be discarded.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 2 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Applicability  (continued)  
+ 
+ 
+ 
+Introduction  
+Some 2018  – 2025 model year Lexus vehicles equipped with the Enform™ 2.0 Navigation 
+System, require a Special Service Tool (SST) USB flash drive to update the map, points of 
+interest, and system software. The SST is used with applicable vehicles to deliver the update, 
+however, the process for generating license keys differs from previous generations.  
+ 
+Before attempting to perform a map update, the expiration date of the dynamic subscription 
+(stored in the head unit), must be checked. If the expiration date has not passed, a license key 
+may be generated without the purchase of an activation card number (ACN). Updating the map 
+without the use of an ACN is considered an Embedded Navigation Update (refer to pg.  11) and 
+performing this update does not exte nd the subscription to dynamic map services. If the 
+subscription period has expired, or is expiring within the next 90 days, it should be recommended 
+to the customer to purchase an ACN. Utilizing an ACN, will initiate the Dynamic Navigation Update 
+(refer t o pg.  4). This Dynamic Navigation Update will perform the embedded navigation update and 
+provide dynamic map services for a period of two years from the date that the Dynamic Navigation 
+Update is performed.  
+ 
+ACNs are provided in a pa mphlet available through the normal parts ordering system. Follow the 
+process in this bulletin to perform the update.  
+ 
+ 
+ 
+  NOTE  
+Map data is released once each year through the shipment of an SST USB flash drive to each dealer. 
+The SST MUST be stored in the SST cabinet to ensure it can be easily found.  SUPERSESSION  NOTICE  
+The information  contained  in this bulletin  supersedes  Service Bulletin  No. L-SB-0043-20. 
+ Applicability has been updated to include 2021 – 2022 model year Lexus vehicles.  
+ The Introduction section has been updated.  
+Service Bulletin No. L-SB-0043-20 is obsolete, and any printed versions should be discarded . 
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 3 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Introduction  (continued)  
+ 
+ 
+ 
+Warranty Information  
+OP CODE  DESCRIPTION  TIME  OFP T1 T2 
+N/A Not Applicable to Warranty  – – – – 
+ 
+  
+Check the head unit 
+expiration date.
+Is the
+expiration date 
+visible? 17CY+
+vehicle
+view on SLP –
+Telematics
+tab
+Is the expiration
+date valid for more
+than 90 days?Is the
+expiration date
+expired?
+The customer
+wants the
+embedded map
+update WITHOUT
+extending dynamic 
+map services.
+Dynamic (Telematics)
+Navigation
+Expiration Date 
+Will NOT Be Extended
+ACN NOT Required
+Perform Embedded
+Navigation Update.
+Go to page 11.ACN REQUIRED
+Perform Dynamic 
+Navigation Update.
+Continue to Page 4.Dynamic (Telematic) 
+Navigation expiration date 
+will be extended AND
+embedded map data will 
+also be updated.The customer wants
+the embedded map
+update AND to extend
+dynamic services.Customer
+JudgementYESYESNO
+NO
+NOYES11 4 
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 4 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Parts Information  
+PART NUMBER  PART  NAME  QTY 
+86271 -HDD09 -00 NAV ACN Card V.20.00  1 
+ 
+ 
+ 
+Required Tools & Equipment  
+SPECIAL SERVICE TOOLS (SST)  PART NUMBER  QTY 
+USB Drive Navigation Update – AWTEC*  TLAWS -D017 -24F 1 
+*Essential SST.  
+ 
+ 
+ 
+Dynamic Navigation Update  
+1. Search TIS for ANY available firmware updates for the selected model and model year. 
+Complete the firmware update(s) BEFORE installing the map data.  
+ 
+2. Cycle the ignition ON (Engine/Hybrid/EV system OFF).  
+ 
+ 
+3. Select the MAP button on the touch pad.  
+ Figure 1. 
+ 
+ 
+   NOTE  
+ Vehicles WITHOUT Smart Key system:  
+Turn the ignition key to the ON  position.  
+ Vehicles WITH Smart Key system:  
+Press the Engine Start/Stop  button  two times with the brake pedal released.  NOTE  
+Additional SSTs may  be ordered by calling 1 -800-368-6787  or by visiting  
+Home – Service Resources – Lexus  Special Service Tools (SSTs) . 
+
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 5 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+4. Select the Map Options icon on the 
+navigation screen.  
+ Figure 2. 
+ 
+ 
+5. Select Map Data on the   
+Map Options menu.  
+ Figure 3. 
+ 
+ 
+6. Record the old map date (YYYYMMD D) 
+and expiration date from the  
+navigation  screen.  
+ Figure 4. 
+ 
+ 
+7. Is the expiration date displayed as shown?  
+ YES — Record the expiration date  
+ from the navigation  screen  and 
+ go to step 10. 
+ NO — Continue to step 8.  
+ Figure 5. 
+ 
+ 
+  
+
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 6 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+8. Login to TIS, go to Service Lane –  
+Vehicle One-View , input the VIN , and  
+select Lookup . 
+ Figure 6. 
+ 
+ 
+9. Click the Telematics tab and record the  
+subscriber’s  expiration date.  
+ 
+ Figure 7. 
+ 
+ 
+10. Select Legal Info.  
+ 
+ Figure 8. 
+ 
+ 
+11. Record the map update ID.  
+ Figure 9. 
+ 
+ 
+   
+
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 7 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+12. Log into TIS.  
+ 
+13. Log into the Navigation Update Wizard.  
+A. Select the TIS tab. 
+B. Select the Diagnostics  tab. 
+C. Select the Navigation  tab. 
+D. Re-enter your password.  
+E. Select Login . 
+ Figure 10. 
+ 
+ 
+ 
+14. Select AWTEC from the Select Navigation  
+Manufacturer dropdown menu.  
+ 
+15. Enter the VIN and head unit   
+expiration date , then select  Submit . 
+ 
+ Figure 11. 
+  
+ 
+ 
+16. Enter the ACN  from the inside of the 
+pamphlet (obtained from the  
+parts department).  
+ Figure 12. 
+ 
+ 
+   
+NOTE  
+It is recommended to perform a  
+Dynamic Navigation Update under the 
+following conditions:  
+ The expiration date is expired.  
+ The expiration date will expire in 90 days  
+or less.  
+ The customer would like to continue the 
+dynamic navigation system for a period of  
+two years from the date of  the update . 
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 8 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+17. Enter the navigation data into the 
+Navigation Update Wizard form.  
+A. Select the correct USB part number 
+(found on the SST packaging, starts 
+with “TLAW”).  
+B. Input the map update ID into TIS 
+(without hyphens ). 
+C. Input the old map date into TIS using 
+the following format: YYYYMMD D 
+(without hyphen s). 
+D. Enter the VIN.  
+E. Enter the repair order number.  
+F. Enter the expiration date.  
+G. Select Submit.  
+ 
+ Figure 13. 
+ 
+ 
+18. Check off each item AFTER confirming  
+that it is correct. If ANY of the information  
+is incorrect, select the Back button.  
+ 
+ 
+19. Select Confirm.  
+ 
+ Figure 14. 
+ 
+ 
+20. Record  the license key that is generated.  
+ 
+ Figure 15. 
+ 
+   
+NOTE  
+If ANY of the navigation data is entered 
+incorrectly, the update will NOT complete 
+successfully, and it is possible a NEW ACN 
+will be required.  
+NOTE  
+It is recommended to print this page.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 9 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+21. Insert the USB flash drive SST into the USB port of the vehicle (usually located under the 
+navigation head unit, in the center console/armrest, or glove box).  
+ 
+ 
+22. Select Update Map  on the  
+Map Data screen.  
+ Figure 16. 
+  
+ 
+23. Select Yes.  
+ 
+24. Enter the license key from step 20. 
+ 
+ 
+25. Select OK.  Figure 17. 
+  
+ 
+26. The head unit software MUST  be updated  
+first. Figure 18 will display during  
+the update .  
+ 
+If the head unit software is already 
+updated, Figure 20 will display. If Figure 20 
+displays, continue  to step 27. 
+ 
+ Figure 18. 
+ 
+ 
+ 
+ 
+   
+NOTE  
+Navigation map data will load  when this 
+process completes.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 10 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Dynamic Navigation Update (continued)  
+A. Allow the update to complete.  
+ 
+ Figure 19. 
+ 
+ 
+B. The head unit will prompt to cycle the ignition. Cycle the ignition OFF, then ON  
+(Ready OFF/Engine OFF) when prompted.  
+ 
+ 
+27. After completing the head unit software 
+update, the Map Update screen wil l 
+display , and the navigation map update  will 
+begin  automatically . 
+ 
+ Figure 20. 
+ 
+ 
+28. When prompted, remove the USB flash 
+drive from the vehicle’s USB port.   
+ 
+29. The map update is complete.  
+ Figure 21. 
+ 
+ 
+30. Verify navigation operation.  
+ 
+   
+NOTE  
+This process will take a pproximately  
+10 minutes.  
+NOTE  
+Do NOT remove the USB flash drive during this process.  
+NOTE  
+This process will take a pproximately 
+45 minutes.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 11 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  
+1. Search TIS for ANY firmware updates that are available for the selected model and model year. 
+Complete the firmware update(s) BEFORE installing the map data.  
+ 
+2. Cycle the ignition ON (Engine/Hybrid/EV system OFF).  
+ 
+ 
+3. Select the MAP button on the touch pad.  
+ 
+ Figure 22. 
+ 
+ 
+4. Press the Map Options icon on the 
+navigation screen.  
+ Figure 23. 
+ 
+ 
+5. Select Map Data  on the   
+Map Options menu.  
+ Figure 24. 
+ 
+   
+NOTE  
+ Vehicles WITHOUT Smart Key system:  
+Turn the ignition key to the ON  position.  
+ Vehicles WITH Smart Key system:  
+Press the Engine Start/Stop  button two times with the brake pedal released.  
+
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 12 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  (continued)  
+6. Record the old map date ( YYYYMMDD ) 
+and expiration date from the 
+navigation  screen.  
+ Figure 25. 
+  
+ 
+7. Select Legal Info . 
+ Figure 26. 
+  
+ 
+8. Record the map update ID.  
+ Figure 27. 
+  
+ 
+9. Log into TIS.  
+ 
+10. Log into the Navigation Update Wizard.  
+A. Select the TIS tab. 
+B. Select the Diagnostics  tab. 
+C. Select the Navigation  tab. 
+D. Re-enter your password.  
+E. Select Login . 
+ Figure 28. 
+ 
+ 
+   
+
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 13 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  (continued)  
+11. Select AWTEC from the Select Navigation 
+Manufacturer dropdown menu.  
+ Figure 29. 
+ 
+ 
+12. Enter the VIN and head unit  
+expiration date.  
+ 
+ 
+13. Select Submit.  
+ Figure 30. 
+ 
+ 
+ 
+ 
+  
+NOTE  
+It is recommended to perform a n 
+Embedded  Navigation Update under the 
+following conditions:  
+ The head unit’s expiration date is valid  
+and NOT expired.  
+ The head unit’s expiration date will NOT 
+expire in the  next 90 days.  
+ The customer would like to perform an 
+Embedded Navigation Update during the 
+last 90 days. (This process will NOT 
+extend the dynamic navigation system.)  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 14 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  (continued)  
+14. Enter the navigate -on data into the 
+Navigation Update  Wizard form.  
+(An ACN  is NOT  required.)  
+A. Select the correct USB part number 
+(found on the SST packaging, starts 
+with “TLAW”).  
+B. Input the map update ID into TIS 
+(without hyphens ). 
+C. Input the old map date into TIS using 
+the following format: YYYYMMD D 
+(without hyphens).  
+D. Enter the VIN.  
+E. Enter the repair order number.  
+F. Enter the expiration date.  
+G. Select Submit.  
+ Figure 31. 
+ 
+ 
+ 
+15. Check off each item AFTER confirming 
+that it is correct. If ANY of the information 
+is incorrect, select the back button.  
+ 
+16. Select Confirm . 
+ Figure 32. 
+ 
+ 
+17. Record  the license key that is generated.  
+ 
+ Figure 33. 
+ 
+ 
+   
+NOTE  
+It is recommended to print this page.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 15 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  (continued)  
+18. Insert the USB flash drive SST into the USB port of the vehicle (usually located under the  
+navigation head unit, in the center console/armrest, or glove box).  
+ 
+19. Select Update Map on the 
+Map Data  screen.  
+ 
+20. Select YES.  
+ 
+ Figure 34. 
+ 
+ 
+21. Enter the license key from step 17. 
+ 
+22. Select Ok.  
+ Figure 35. 
+ 
+ 
+23. The head unit software MUST  be updated  
+first. Figure 36 will display  during 
+this process.  
+ 
+If the head unit software is already 
+updated, Figure 37 will display. If Figure 37 
+displays, continue to step 24.  
+ Figure 36. 
+ 
+ 
+   
+NOTE  
+Navigation map d ata will load  when this 
+process completes.  
+ L-SB-0057 -22 Rev2  December 7, 2022  Page 16 of 16 
+Enform 2.0 Dynamic Navigation Map Update Process  
+ 
+ © 2025 Lexus, a division of Toyota Motor Sales, USA   
+   
+Embedded Navigation Update  (continued)  
+A. Allow the update to complete.  
+ 
+ 
+ Figure 37. 
+ 
+ 
+B. The head unit will prompt to cycle the ignition. Cycle the ignition OFF, then ON  
+(Ready OFF/Engine OFF) when prompted.  
+ 
+ 
+24. After completing  the head unit software  
+update, the Map Update screen will  display 
+and the navigation map update will 
+begin  automatically.  
+ 
+ Figure 38. 
+ 
+ 
+25. When prompted, remove the USB flash 
+drive from the vehicle’s USB port.   
+ 
+26. The map update is complete.  
+ 
+27. Verify navigation operation.  
+ Figure 39. 
+ 
+ 
+ 
+NOTE  
+This process will take a pproximately  
+10 minutes.  
+NOTE  
+Do NOT remove the USB flash drive during this process.  
+NOTE  
+This process will take a pproximately  
+45 minutes.  

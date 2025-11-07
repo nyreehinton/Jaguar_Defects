@@ -1,0 +1,178 @@
+SIB 65 03 25
+SEAT SIDE AIR BAG W ARNING2025-02-28
+ 
+☐ THIS REP AIR IS MOBILE FRIENDL Y
+ 
+MODEL
+E-
+SeriesModel Description Production Date 
+U11 X1 Sports Activity V ehicleVehicles produced up to May 10,
+2024
+ 
+SITUA TION
+The customer states that the air bag warning lamp is illuminated. 
+ 
+A fault is stored in the airbag control module ACSM6 for either of the front seats: 
+930982  - side air bag PASSENGER : resistance too high
+93097C  - side air bag DRIVER : resistance too high
+ 
+CAUSE
+Movement in the seat-mounted air bags’  wiring connector due to the harness being under tension.
+ 
+CORRECTION
+Relieve the tension on the seat-mounted air bags’  electrical connector . 
+ 
+The air bag harness may be twisted where it is held onto the back of the seat frame by a push clip
+assembly . 
+ 
+PROCEDURE
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 1/6
+ 1. Check the resistance of the seat-mounted air
+bag before seat disassembly . 
+ 
+Does the resistance change when sitting in
+the seat, or moving on the outside seat
+bolster? 
+ 
+If resistance increases when moving on a
+particular section the seat, then that is the
+area to examine the wiring harness.
+  
+2. If problem is found to occur when there is
+pressure on the outer seat bolster , it is not
+necessary to remove the seat from the vehicle.  
+ 
+Disassemble the backrest of the seat only
+so you can access the harness for the seat
+mounted side air bag.
+ 
+Here you can see the harness is pulled
+tightly around the seat backrest frame and
+the area where we need to introduce some
+slack.
+  
+Copyright ©2025 BMW of North America, Inc.
+3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 2/6
+3. The harness is held to the back of the seat frame
+with a push-in clip. You can move this clip on the
+wiring harness, or move the harness around to
+introduce more slack.
+ 
+4. If problem cannot be identified, follow Repair Instruction 72 12 051 to remove the seat leather . Check the
+complete harness routing to see if it is pulled tightly or routed so that the electrical connector is under tension. 
+ 
+NOTE : If you remove seat from vehicle, the 4 seat mounting bolts and 1 safety belt strap 
+bolt must be replaced (refer to ETK per the VIN; tightening torque is 42 Nm per AIR).
+ 
+5. If there is no damage to the wire insulation , routing the harness so it is not under tension once installed should
+resolve the problem.
+ 
+OR
+ 
+If harness is damaged , then replace seat air bag assembly .
+ 
+PARTS INFORMA TION
+Obtain and confirm the part numbers for your specific vehicle by entering the chassis number in either ETK
+or AIR which considers specific equipment and/or options.
+ 
+Part Number Description Quantity
+07 14 9 321 690Fillister head screw – 4 seat mounting bolts and 1 safety belt
+strap fitting to seat mechanism5
+ 
+CLAIM INFORMA TION
+Covered under the terms of the BMW New V ehicle Limited W arranty for Passenger Cars and Light Trucks
+as described below .
+ 
+Repair Code: 6112588100 Seat wiring harness interruption
+ 
+Obtain the flat rate unit (FRU) allowances for the following that applies.
+ 
+Diagnosis
+ 
+Labor Operation Description Labor Allowance
+00 00 006 Carrying out vehicle test (Main work) As applicable
+Or:   
+00 00 556 Carrying out vehicle test (Plusposition work) As applicable
+And:   
+61 21 528Supporting voltage of the vehicle electrical system /
+recharging vehicle batteryAs applicable
+And, as needed:   Copyright ©2025 BMW of North America, Inc.
+3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 3/6
+61 00 006*Carrying out vehicle diagnosis, ABL (Work time)
+(Including positioning the seat and checking the wire
+harness under driver ’s seatWT FRU
+Or:   
+00 58 500* Diagnosis W orktime Flat Rate 2 FRU
+ 
+If you are using a Main labor code for another repair , use the Plus code labor operation 00 00 556 instead of
+00 00 006, or exclude them (including 61 21 528) when the V ehicle Test is included in another repair .
+ 
+And:
+ 
+Slacking Seat Harness on One Side 
+ 
+Labor Operation Description Labor Allowance
+52 NN NNN**Step 2:  Refer to AIR’s (Plusposition): Removing and
+installing or replacing rear panel on left or right  front
+seat backrestAs applicable
+Or only if required:   
+72 15 551Step 4:  Remove and install/replace the front seat side
+airbag (Plusposition) (Outer and inside)As applicable
+And:   
+61 99 000Associated work time to slacken the seat harness as
+needed3 FRU
+ 
+Of:
+ 
+Slacking Seat Harness on Both Sides 
+ 
+Labor Operation Description Labor Allowance
+52 NN NNN**Step 2:  Refer to AIR’s Plusposition: Removing and
+mounting/replacing both  rear panels on front seat
+backrestsAs applicable
+Or only if required:   
+72 15 551Step 4:  Remove and install/replace the front seat side
+airbag (Plusposition) (Outer and inside on one side)As applicable
+And:   
+72 99 000Step 4:  Work time to remove and install/replace the
+front seat side airbag (Outer and inside on the other
+side only in conjunction with 72 15 551)19 FRU
+And:   
+61 99 000Associated work time to slacken both seat harnesses
+as needed6 FRU
+ 
+(**) Refer to AIR to obtain Plusposition flat rate operation code that applies to the vehicle’ s installed seats option.
+ 
+(*) Based on which one applies to your center , please refer to SI B01 01 20 or B01 07 20 for the applicable
+procedure for documenting, claiming, and explaining, on the RO and in the claim comments, your diagnosis
+work time (WT), job/repair work time (WT), and the vehicle repairs your center performed, unless otherwise
+required by State law .
+ 
+BMW Group’ s AIR Application Resource for Flat Rate Labor Operation Codes
+ 
+To obtain the corresponding flat rate unit (FRU) allowance information from the BMW Group AIR application
+resource, start by entering the the Chassis Number (last seven (7) characters of the VIN), and click on the
+“Search” icon. If the “V ehicle Selection” window displays two or more model possible vehicle choices, select
+the applicable Model, or enter the full VIN (17 characters) instead to proceed.  Click on the “Flat Rate Units”
+button and enter a flat rate labor operation code number “without spaces” in the field to the right, click on the
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 4/6
+“Search” icon to display the corresponding listing of “Flat rate unit group details” that are available and their
+corresponding FRU allowances.
+ 
+FEEDBACK REGARDING THIS BULLETIN
+Technical FeedbackTo submit feedback for the technical topic of this bulletin: Submit your
+feedback in the rating box at the top of this bulletin
+Warranty FeedbackTo submit feedback for the CLAIMS section of this bulletin: Submit an IDS
+ticket to the W arranty Department, or use the chat available in the
+Warranty Documentation Portal
+Parts FeedbackTo submit feedback for the P ARTS section of this bulletin: Submit an IDS
+ticket to the Parts Department
+ 
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 5/6
+Copyright ©2025 BMW of North America, Inc.3/1/25, 6:49 AM 65 03 25_SEAT SIDE AIR BAG WARNING
+about:blank 6/6
