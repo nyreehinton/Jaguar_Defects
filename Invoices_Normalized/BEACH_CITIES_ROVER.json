@@ -1,0 +1,127 @@
+{
+  "invoice_number": "9361",
+  "document_type": "INVOICE",
+  "invoice_date": "2025-11-04",
+  "vendor": {
+    "name": "BEACH CITIES ROVER",
+    "address": "529 N. PACIFIC COAST HWY, REDONDO BEACH, CA. 90277",
+    "phone": "(310) 921-8393",
+    "email": "JBULEN@BEACHCITIESROVER.COM"
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "6401 WILSHIRE BOULEVARD, LOS ANGELES, CA. 90048",
+    "phone": "(732) 979-6264",
+    "email": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE P300",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 30294,
+    "mileage_out": 30295,
+    "license": "9PCM313"
+  },
+  "service_advisor": {
+    "name": "ALEX DALZIEL"
+  },
+  "technician": {
+    "name": "GUTIERRE"
+  },
+  "line_items": [
+    {
+      "description": "CHECK ENGINE LIGHT ON. PISTON COOLING JET FAILURE/MULTI MISFIRE DETECTED. Replace piston oil jet and spark plugs.",
+      "tech_notes": "VERIFIED CONCERN. MULTIPLE CODES/SOME STORED PRIOR TO CHECK IN TODAY. P25A9-13 PISTON COOLING JET FAILURE/MULTI MISFIRE DETECTED. PERFORMED VISUAL INSPECTION OF SPARK PLUGS (WORN STATE). PENDING CAT EFFICIENCY CODE BANK 1",
+      "type": "repair",
+      "issue": "piston_cooling_jet_failure",
+      "parts": 354.43,
+      "labor": 780.00,
+      "total": 1134.43,
+      "parts_used": [
+        {"part_number": "AJ813393", "description": "VALVE CONTROL JET", "quantity": 1, "price": 354.43}
+      ]
+    },
+    {
+      "description": "SPARK PLUGS FOULED, CUSTOMER AUTH TO REPLACE",
+      "tech_notes": "REMOVE AND REPLACED FOULED SPARK PLUGS. CLEANED AREA. REINSTALLED ALL REMOVED COMPONENTS. TEST OPERATION. WORKING AS DESIGNED AT THIS TIME.",
+      "type": "repair",
+      "issue": "fouled_spark_plugs",
+      "parts": 124.96,
+      "labor": 390.00,
+      "total": 514.96,
+      "parts_used": [
+        {"part_number": "JDE38685", "description": "SPARK PLUG", "quantity": 4, "price": 31.24}
+      ]
+    },
+    {
+      "description": "OIL AND FILTER CHANGE SERVICE",
+      "tech_notes": "PERFORMED OIL CHANGE SERVICE",
+      "type": "maintenance",
+      "parts": 108.94,
+      "labor": 50.00,
+      "total": 158.94,
+      "parts_used": [
+        {"part_number": "JDE37128", "description": "INGENIUM OIL FILTER KIT", "quantity": 1, "price": 27.95},
+        {"part_number": "OIL SYNTHETIC 0W20", "description": "CASTROL SYNTHETIC 0W20", "quantity": 7, "price": 11.57}
+      ]
+    },
+    {
+      "description": "REAR BRAKES @ 1MM. CUSTOMER AUTH TO REPLACE",
+      "tech_notes": "CUSTOMER AUTH TO REPLACE REAR BRAKES W/ AFTERMARKET \"BREMBO\" OPTION. TEST OPERATION. WORKING AS DESIGNED AT THIS TIME.",
+      "type": "repair",
+      "issue": "worn_rear_brakes",
+      "parts": 632.06,
+      "labor": 437.50,
+      "total": 1069.56,
+      "parts_used": [
+        {"part_number": "T2R61946", "description": "REAR BRAKE PAD **BREMBO**", "quantity": 1, "price": 100.00},
+        {"part_number": "C2D29140", "description": "REAR BRAKE SENSOR", "quantity": 1, "price": 40.00},
+        {"part_number": "T2R5941", "description": "BRAKE DISC **BREMBO**", "quantity": 2, "price": 240.00}
+      ]
+    },
+    {
+      "description": "LEFT REAR TIRE HAS NAIL. PERFORMED TIRE REPAIR PER COURTESY.",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "MULTI POINT INSPECTION",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "TIRE PRESSURE SERVICE",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "recommended_repairs": [
+    {
+      "description": "ENGINE MOUNTS WORN, REC TO REPLACE",
+      "estimated_cost": 1830.00
+    },
+    {
+      "description": "RADIATOR LEAKING, REC TO REPLACE",
+      "estimated_cost": 2005.00
+    }
+  ],
+  "summary": {
+    "parts_total": 1220.39,
+    "labor_total": 1657.50,
+    "subtotal": 2877.89,
+    "tax": 118.99,
+    "total": 2996.88,
+    "amount_paid": 0.00,
+    "balance_due": 2996.88
+  },
+  "status": "COMPLETED",
+  "warranty_covered": false,
+  "notes": "Significant engine issues including piston cooling jet failure. Radiator leak identified."
+}

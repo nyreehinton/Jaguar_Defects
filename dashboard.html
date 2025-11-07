@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2020 Jaguar F-TYPE Warranty Dispute - Executive Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Libre+Baskerville:wght@400;700&family=Lato:wght@300;400;700;900&display=swap');
+
+        body {
+            font-family: 'Lato', sans-serif;
+            background: #1a1a1a;
+            position: relative;
+            min-height: 100vh;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('Media/IMG_1873.jpeg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            opacity: 0.15;
+            z-index: -1;
+        }
+
+        body::after {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #f5f5f0;
+            opacity: 0.95;
+            z-index: -1;
+        }
+
+        .glass-card {
+            background: #ffffff;
+            border: 1px solid #d1d5db;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .stat-card {
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Crimson Text', serif;
+        }
+
+        .legal-heading {
+            font-family: 'Libre Baskerville', serif;
+            letter-spacing: 0.5px;
+        }
+
+        .timeline-dot {
+            position: relative;
+        }
+
+        .timeline-dot::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 100%;
+            transform: translateX(-50%);
+            width: 2px;
+            height: 100%;
+            background: #e5e7eb;
+        }
+
+        .issue-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .legal-document-style {
+            line-height: 1.8;
+            color: #1f2937;
+        }
+
+        .exhibit-marker {
+            display: inline-block;
+            padding: 0.125rem 0.5rem;
+            background: #000;
+            color: #fff;
+            font-weight: bold;
+            font-size: 0.75rem;
+            margin-right: 0.5rem;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .chart-container {
+            position: relative;
+            height: 300px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .modal-content {
+            background: white;
+            max-width: 900px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+
+        @media print {
+            .modal {
+                display: none !important;
+            }
+        }
+    </style>
+</head>
+<body class="min-h-screen p-4 md:p-8" style="background: #f5f5f0;">
+    <!-- Header -->
+    <header class="glass-card shadow-lg p-8 mb-8 fade-in" style="border-top: 4px solid #1a1a1a;">
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+            <div>
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-2">Case Documentation</div>
+                <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-2 legal-heading">
+                    In Re: 2020 Jaguar F-TYPE
+                </h1>
+                <p class="text-gray-700 text-sm font-mono mb-1">
+                    VIN: SAJDD1GX4LCK67497
+                </p>
+                <p class="text-gray-600 text-sm">
+                    Warranty Dispute Analysis & Evidence Summary
+                </p>
+            </div>
+            <div class="flex flex-col gap-2">
+                <button onclick="downloadReport()" class="px-6 py-2 bg-gray-900 text-white hover:bg-gray-800 transition-colors font-medium text-sm uppercase tracking-wide">
+                    Export Report
+                </button>
+                <button onclick="printDashboard()" class="px-6 py-2 border-2 border-gray-900 text-gray-900 hover:bg-gray-900 hover:text-white transition-colors font-medium text-sm uppercase tracking-wide">
+                    Print
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Vehicle Purchase Info -->
+    <div class="glass-card shadow-lg p-6 mb-8 fade-in" style="border-left: 4px solid #1e3a8a;">
+        <div class="flex items-center gap-4">
+            <div class="flex-shrink-0 w-16 h-16 bg-gray-900 flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                </svg>
+            </div>
+            <div class="flex-1">
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Vehicle Acquisition</div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-1">September 17, 2024</h3>
+                <p class="text-sm text-gray-700">
+                    <span class="font-semibold">Purchased by:</span> Nyree Hinton |
+                    <span class="font-semibold">Seller:</span> Volvo Palo Alto / McLaren San Francisco |
+                    <span class="font-semibold">Odometer:</span> 22,270 miles |
+                    <span class="font-semibold">Sale Price:</span> $35,850.00
+                </p>
+                <p class="text-xs text-gray-600 mt-2 bg-blue-50 p-2 border-l-2 border-blue-900">
+                    <strong>Warranty Status at Purchase:</strong> Active Jaguar EliteCare New Vehicle Limited Warranty (5 years / 60,000 miles) - Transferable
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Key Metrics -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+        <div class="glass-card shadow p-6 stat-card fade-in" style="border-left: 4px solid #991b1b;">
+            <div class="mb-3">
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Exhibit A</div>
+                <span class="text-4xl font-bold text-gray-900" id="total-defects">10</span>
+            </div>
+            <h3 class="text-gray-900 font-bold text-sm uppercase tracking-wide">Service Visits</h3>
+            <p class="text-xs text-gray-600 mt-1">Documented repair attempts</p>
+        </div>
+
+        <div class="glass-card shadow p-6 stat-card fade-in" style="animation-delay: 0.1s; border-left: 4px solid #065f46;">
+            <div class="mb-3">
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Exhibit B</div>
+                <span class="text-4xl font-bold text-gray-900" id="total-cost">$3,616</span>
+            </div>
+            <h3 class="text-gray-900 font-bold text-sm uppercase tracking-wide">Repair Costs</h3>
+            <p class="text-xs text-gray-600 mt-1">Documented expenses</p>
+        </div>
+
+        <div class="glass-card shadow p-6 stat-card fade-in" style="animation-delay: 0.2s; border-left: 4px solid #92400e;">
+            <div class="mb-3">
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Exhibit C</div>
+                <span class="text-4xl font-bold text-gray-900" id="dtc-count">33</span>
+            </div>
+            <h3 class="text-gray-900 font-bold text-sm uppercase tracking-wide">Active DTCs</h3>
+            <p class="text-xs text-gray-600 mt-1">Diagnostic trouble codes</p>
+        </div>
+
+        <div class="glass-card shadow p-6 stat-card fade-in" style="animation-delay: 0.3s; border-left: 4px solid #1e3a8a;">
+            <div class="mb-3">
+                <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Timeline</div>
+                <span class="text-4xl font-bold text-gray-900" id="days-since">449</span>
+            </div>
+            <h3 class="text-gray-900 font-bold text-sm uppercase tracking-wide">Days Elapsed</h3>
+            <p class="text-xs text-gray-600 mt-1">Since purchase date</p>
+        </div>
+    </div>
+
+    <!-- Main Content Grid -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8">
+        <!-- Left Column: Timeline -->
+        <div class="lg:col-span-2">
+            <div class="glass-card shadow-lg p-8 fade-in" style="border-top: 3px solid #1a1a1a;">
+                <div class="mb-6 pb-4 border-b-2 border-gray-900">
+                    <div class="text-xs uppercase tracking-widest text-gray-500 mb-2">Exhibit D</div>
+                    <h2 class="text-3xl font-bold text-gray-900 legal-heading">
+                        Chronological Service Record
+                    </h2>
+                    <p class="text-sm text-gray-600 mt-1">Documentary Evidence of Repair Attempts</p>
+                </div>
+                <div id="timeline-container" class="space-y-6 legal-document-style"></div>
+            </div>
+        </div>
+
+        <!-- Right Column: Charts & Stats -->
+        <div class="space-y-6">
+            <!-- Issue Categories -->
+            <div class="glass-card shadow-lg p-6 fade-in" style="border-top: 3px solid #1a1a1a;">
+                <div class="mb-4 pb-3 border-b border-gray-300">
+                    <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Exhibit E</div>
+                    <h3 class="text-xl font-bold text-gray-900 legal-heading">Issue Classification</h3>
+                </div>
+                <div class="chart-container">
+                    <canvas id="issueChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Cost Breakdown -->
+            <div class="glass-card shadow-lg p-6 fade-in" style="border-top: 3px solid #1a1a1a;">
+                <div class="mb-4 pb-3 border-b border-gray-300">
+                    <div class="text-xs uppercase tracking-widest text-gray-500 mb-1">Exhibit F</div>
+                    <h3 class="text-xl font-bold text-gray-900 legal-heading">Financial Analysis</h3>
+                </div>
+                <div id="cost-breakdown" class="space-y-3"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Known Technical Bulletins -->
+    <div class="glass-card shadow-lg p-8 mb-8 fade-in" style="border-top: 3px solid #1a1a1a;">
+        <div class="mb-6 pb-4 border-b-2 border-gray-900">
+            <div class="text-xs uppercase tracking-widest text-gray-500 mb-2">Exhibit G</div>
+            <h2 class="text-3xl font-bold text-gray-900 legal-heading">
+                Manufacturer Technical Service Bulletins
+            </h2>
+            <p class="text-sm text-gray-600 mt-1">Known Defects & Corroborating Evidence</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="tsb-container"></div>
+    </div>
+
+    <!-- Legal Timeline -->
+    <div class="glass-card shadow-lg p-8 fade-in" style="border-top: 3px solid #1a1a1a;">
+        <div class="mb-6 pb-4 border-b-2 border-gray-900">
+            <div class="text-xs uppercase tracking-widest text-gray-500 mb-2">Exhibit H</div>
+            <h2 class="text-3xl font-bold text-gray-900 legal-heading">
+                Procedural History & Regulatory Actions
+            </h2>
+            <p class="text-sm text-gray-600 mt-1">Documentary Record of Legal Proceedings</p>
+        </div>
+        <div id="legal-timeline" class="space-y-4 legal-document-style"></div>
+    </div>
+
+    <!-- TSB Viewer Modal -->
+    <div id="tsb-modal" class="modal">
+        <div class="modal-content">
+            <div class="p-8" style="border-top: 4px solid #1a1a1a;">
+                <!-- Modal Header -->
+                <div class="flex justify-between items-start mb-6 pb-4 border-b-2 border-gray-900">
+                    <div>
+                        <div class="text-xs uppercase tracking-widest text-gray-500 mb-2">Technical Service Bulletin</div>
+                        <h2 class="text-3xl font-bold text-gray-900 legal-heading" id="modal-tsb-title"></h2>
+                        <p class="text-sm font-mono text-gray-600 mt-2" id="modal-tsb-bulletin"></p>
+                    </div>
+                    <button onclick="closeTSBModal()" class="text-gray-500 hover:text-gray-900 transition-colors">
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- Modal Content -->
+                <div class="space-y-6 legal-document-style">
+                    <div>
+                        <h3 class="text-lg font-bold text-gray-900 mb-3 uppercase tracking-wide">Bulletin Description</h3>
+                        <p class="text-gray-800 leading-relaxed" id="modal-tsb-description"></p>
+                    </div>
+
+                    <div class="bg-gray-50 p-6 border-l-4 border-gray-900">
+                        <h3 class="text-lg font-bold text-gray-900 mb-3 uppercase tracking-wide">Affected Components</h3>
+                        <div id="modal-tsb-components"></div>
+                    </div>
+
+                    <div class="bg-blue-50 p-6 border-l-4 border-blue-900">
+                        <h3 class="text-lg font-bold text-gray-900 mb-3 uppercase tracking-wide">Related Diagnostic Trouble Codes (DTCs)</h3>
+                        <div id="modal-tsb-dtcs" class="flex flex-wrap gap-2"></div>
+                    </div>
+
+                    <div class="bg-red-50 p-6 border-l-4 border-red-900">
+                        <h3 class="text-lg font-bold text-red-900 mb-3 uppercase tracking-wide">Vehicle Evidence Match</h3>
+                        <p class="text-gray-800" id="modal-tsb-evidence"></p>
+                    </div>
+
+                    <div class="bg-yellow-50 p-6 border-l-4 border-yellow-900">
+                        <h3 class="text-lg font-bold text-gray-900 mb-3 uppercase tracking-wide">Severity Assessment</h3>
+                        <div id="modal-tsb-severity"></div>
+                    </div>
+                </div>
+
+                <!-- Modal Footer -->
+                <div class="mt-8 pt-6 border-t-2 border-gray-900 flex justify-end">
+                    <button onclick="closeTSBModal()" class="px-6 py-3 bg-gray-900 text-white hover:bg-gray-800 transition-colors font-medium text-sm uppercase tracking-wide">
+                        Close Document
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Invoice data (normalized)
+        const invoices = [
+            {
+                date: '2024-09-30',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '100821',
+                mileage: 28769,
+                description: 'Low coolant warning, brake pad warning, multi-point inspection',
+                issues: ['coolant', 'electrical'],
+                amount: 0,
+                warranty: true,
+                status: 'Estimate'
+            },
+            {
+                date: '2024-10-02',
+                vendor: 'Jaguar Land Rover South Bay',
+                invoice: '908960',
+                mileage: 23072,
+                description: 'Driver door electronics failure - blown fuse, ground wire short circuit repaired',
+                issues: ['electrical'],
+                amount: 0,
+                warranty: true,
+                status: 'Warranty Repair'
+            },
+            {
+                date: '2024-10-10',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '824373',
+                mileage: 23278,
+                description: 'Harness repair for electrical short, battery replacement',
+                issues: ['electrical', 'battery'],
+                amount: 0,
+                warranty: true,
+                status: 'Warranty Repair',
+                notes: 'Fuse blew again after 2 miles'
+            },
+            {
+                date: '2024-10-14',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '824373',
+                mileage: 23278,
+                description: 'Complete harness repair - short circuit under driver carpet',
+                issues: ['electrical'],
+                amount: 0,
+                warranty: true,
+                status: 'Warranty Repair'
+            },
+            {
+                date: '2024-11-15',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '825556',
+                mileage: 23915,
+                description: 'Low coolant warning - No diagnosis completed, customer took vehicle',
+                issues: ['coolant'],
+                amount: 0,
+                warranty: false,
+                status: 'Incomplete',
+                notes: 'Warranty expired 11/08/24. Customer reported issue 11/07/24'
+            },
+            {
+                date: '2024-11-21',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '825649',
+                mileage: 23963,
+                description: 'Expansion tank bleed pipe leak - Coolant hose replacement',
+                issues: ['coolant'],
+                amount: 294.62,
+                warranty: false,
+                status: 'Customer Paid'
+            },
+            {
+                date: '2025-08-25',
+                vendor: 'West Adams Radiator',
+                invoice: 'ESTIMATE',
+                mileage: null,
+                description: 'Supercharger water pump & expansion tank hose replacement estimate',
+                issues: ['coolant'],
+                amount: 1244.03,
+                warranty: false,
+                status: 'Estimate'
+            },
+            {
+                date: '2025-11-04',
+                vendor: 'Beach Cities Rover',
+                invoice: '9361',
+                mileage: 30294,
+                description: 'Piston cooling jet failure, fouled spark plugs, rear brakes, oil change',
+                issues: ['engine', 'electrical', 'brakes'],
+                amount: 2996.88,
+                warranty: false,
+                status: 'Completed',
+                notes: 'Check engine light, radiator leak identified'
+            },
+            {
+                date: '2025-11-04',
+                vendor: 'Jaguar Land Rover LA',
+                invoice: '102820',
+                mileage: 30315,
+                description: 'Check engine light, vehicle in limp mode (won\'t exceed 40mph)',
+                issues: ['engine'],
+                amount: 325.00,
+                warranty: false,
+                status: 'Estimate'
+            }
+        ];
+
+        const tsbs = [
+            {
+                title: 'Coolant System Faults',
+                bulletin: 'JLRTB02030NAS1 / Service Action H291',
+                description: 'Variable coolant pump failure causing engine fan to run constantly at high speed',
+                fullDescription: 'This Technical Service Bulletin addresses a known defect with the variable coolant pump assembly in 2018-2020 F-TYPE vehicles equipped with the Ingenium I4 2.0L Petrol engine. The fault causes the engine cooling fan to operate continuously at maximum speed, regardless of actual cooling requirements. This condition can result in excessive noise, reduced fuel economy, and potential battery drain.',
+                components: ['Variable Coolant Pump Assembly', 'Engine Cooling System', 'Powertrain Control Module (PCM)'],
+                dtcs: ['P2B61-73', 'P26CB-72'],
+                dtcDescriptions: {
+                    'P2B61-73': 'Engine coolant flow control valve stuck closed',
+                    'P26CB-72': 'Variable coolant pump performance/stuck off'
+                },
+                evidence: 'Both DTCs (P2B61-73 and P26CB-72) were found as "History" codes in the vehicle\'s August 27, 2025 diagnostic scan performed by West Adams Radiator at 28,812 miles. Customer reported coolant warning lights on multiple occasions beginning September 30, 2024.',
+                severity: 'high',
+                severityReason: 'Critical cooling system component failure that can lead to engine overheating and catastrophic engine damage if not addressed.'
+            },
+            {
+                title: 'Variable Camshaft Timing (VCT) Solenoid Issues',
+                bulletin: 'JLRTB02023NAS1/2 / Service Action H299',
+                description: 'Insufficient wear resistance of VCT solenoid bush leading to illuminated MIL',
+                fullDescription: 'This bulletin addresses premature wear of the Variable Camshaft Timing (VCT) solenoid bushing in 2018-2020 F-TYPE vehicles with the Ingenium I4 2.0L engine. The insufficient wear resistance causes the solenoid to fail, resulting in improper camshaft timing, rough idle, reduced performance, increased emissions, and illumination of the Malfunction Indicator Lamp (MIL/Check Engine Light).',
+                components: ['VCT Solenoid Assembly', 'Camshaft Position System', 'Engine Timing System', 'Emissions Control System'],
+                dtcs: ['VVT Monitor Bank 1 Failure'],
+                dtcDescriptions: {
+                    'VVT Monitor Bank 1 Failure': 'Variable Valve Timing system monitor failure - Bank 1 (MID: 35, TID: 80) - Test value: -58.95° exceeds acceptable maximum of -58.89°'
+                },
+                evidence: 'October 18, 2025 Mode 6 diagnostic report showed "Complete and Fail" status for VVT Monitor Bank 1 test. This failure directly corresponds to the known VCT solenoid wear issue documented in Service Action H299.',
+                severity: 'high',
+                severityReason: 'Affects engine performance, emissions compliance, and can cause additional engine damage if timing issues persist. May result in failure of emissions testing.'
+            },
+            {
+                title: 'Electrical System - Battery Drain',
+                bulletin: 'SSM 74570',
+                description: 'Known battery drain issue caused by InControl touch head unit',
+                fullDescription: 'Service Supplementary Message (SSM) 74570 addresses a parasitic battery drain condition in various Jaguar models including the F-TYPE. The InControl Touch infotainment head unit fails to properly enter sleep mode, causing continuous power draw that depletes the battery when the vehicle is not in use. This can result in dead battery conditions, especially after short periods of non-use.',
+                components: ['InControl Touch Head Unit', '12V Battery System', 'Body Control Module (BCM)', 'Gateway Module (GWM)'],
+                dtcs: ['U3003-16', 'B1412-96'],
+                dtcDescriptions: {
+                    'U3003-16': 'Battery voltage - Circuit voltage below threshold (stored in Gateway System Module)',
+                    'B1412-96': 'Gateway Module "A" (GWM) - Component internal fault (Permanent)'
+                },
+                evidence: 'Customer reported low battery warnings beginning October 2024. Battery was replaced under warranty on October 10, 2024 (Invoice #824373). August 2025 diagnostic scan revealed permanent GWM fault code B1412-96 and U3003-16 stored in GSM, consistent with ongoing battery/electrical issues.',
+                severity: 'medium',
+                severityReason: 'While not immediately catastrophic, repeated battery drain can cause permanent battery damage, leave vehicle inoperable, and indicates broader electrical system issues as evidenced by permanent GWM fault.'
+            }
+        ];
+
+        const legalEvents = [
+            {
+                date: '2024-11-14',
+                event: 'Repurchase Request Initiated',
+                description: 'Consumer formally requests repurchase from JLRNA (Case #8001315826)',
+                type: 'action'
+            },
+            {
+                date: '2025-01-31',
+                event: 'Repurchase Denied & Arbitration Mandated',
+                description: 'JLRNA denies repurchase and requires BBB AUTO LINE arbitration for both Song-Beverly and Magnuson-Moss (MMWA) claims',
+                type: 'response'
+            },
+            {
+                date: '2025-01-31',
+                event: 'NHTSA Complaint Filed',
+                description: 'Safety complaint filed with National Highway Traffic Safety Administration (Complaint #11639993)',
+                type: 'action'
+            },
+            {
+                date: '2025-02-03',
+                event: 'BBB AUTO LINE Filing',
+                description: 'Arbitration claim JAG2501941 filed and immediately denied citing Rodriguez v. FCA',
+                type: 'action'
+            },
+            {
+                date: '2025-03-24',
+                event: 'Arbitration Appeal Denied',
+                description: 'Arbitrator Paula M. Stenlund affirms dismissal and explicitly declines jurisdiction over MMWA claims',
+                type: 'response',
+                critical: true
+            },
+            {
+                date: '2025-05-08',
+                event: 'Certification Program Complaint',
+                description: 'Complaint filed with CA Arbitration Certification Program against BBB AUTO LINE for failure to exercise MMWA jurisdiction',
+                type: 'action'
+            }
+        ];
+
+        // Calculate stats
+        const totalCost = invoices.reduce((sum, inv) => sum + inv.amount, 0);
+        const daysSincePurchase = Math.floor((new Date() - new Date('2024-09-17')) / (1000 * 60 * 60 * 24));
+
+        document.getElementById('total-defects').textContent = invoices.length;
+        document.getElementById('total-cost').textContent = '$' + totalCost.toFixed(2);
+        document.getElementById('days-since').textContent = daysSincePurchase;
+
+        // Render Timeline
+        function renderTimeline() {
+            const container = document.getElementById('timeline-container');
+            container.innerHTML = invoices.map((inv, idx) => `
+                <div class="flex gap-4 pb-6 ${idx < invoices.length - 1 ? 'border-l-2 border-gray-300 ml-6' : ''}">
+                    <div class="flex-shrink-0 w-12 h-12 ${inv.warranty ? 'bg-gray-800' : 'bg-red-800'} flex items-center justify-center text-white font-bold -ml-6 ring-4 ring-white text-sm">
+                        ${idx + 1}
+                    </div>
+                    <div class="flex-1 pt-0.5">
+                        <div class="flex items-start justify-between mb-3">
+                            <div>
+                                <p class="text-xs uppercase tracking-wide text-gray-500 mb-1">${new Date(inv.date).toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}</p>
+                                <h4 class="text-lg font-bold text-gray-900">${inv.vendor}</h4>
+                                <p class="text-xs text-gray-600 font-mono mt-1">Invoice No. ${inv.invoice}</p>
+                            </div>
+                            <span class="issue-badge ${inv.warranty ? 'bg-gray-800 text-white' : 'bg-red-800 text-white'}">
+                                ${inv.status}
+                            </span>
+                        </div>
+                        <p class="text-gray-800 mb-3 leading-relaxed">${inv.description}</p>
+                        <div class="flex flex-wrap gap-2 mb-3">
+                            ${inv.issues.map(issue => `
+                                <span class="px-2 py-1 bg-gray-200 text-gray-800 text-xs font-bold uppercase tracking-wide">${issue}</span>
+                            `).join('')}
+                        </div>
+                        <div class="flex items-center justify-between text-sm bg-gray-50 p-3 border-l-2 border-gray-900">
+                            ${inv.mileage ? `<span class="text-gray-700 font-semibold">Odometer: ${inv.mileage.toLocaleString()} mi</span>` : '<span></span>'}
+                            ${inv.amount > 0 ? `<span class="font-bold text-red-900">Cost: $${inv.amount.toFixed(2)}</span>` : '<span class="text-gray-600 font-semibold">Warranty Covered</span>'}
+                        </div>
+                        ${inv.notes ? `<div class="mt-3 text-sm text-red-900 bg-red-50 p-3 border-l-4 border-red-900"><strong>Note:</strong> ${inv.notes}</div>` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Render Issue Chart
+        function renderIssueChart() {
+            const issueCounts = {};
+            invoices.forEach(inv => {
+                inv.issues.forEach(issue => {
+                    issueCounts[issue] = (issueCounts[issue] || 0) + 1;
+                });
+            });
+
+            const ctx = document.getElementById('issueChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: Object.keys(issueCounts).map(k => k.charAt(0).toUpperCase() + k.slice(1)),
+                    datasets: [{
+                        data: Object.values(issueCounts),
+                        backgroundColor: [
+                            '#1a1a1a',
+                            '#991b1b',
+                            '#065f46',
+                            '#92400e',
+                            '#1e3a8a',
+                            '#4c1d95'
+                        ],
+                        borderWidth: 2,
+                        borderColor: '#ffffff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                font: {
+                                    family: 'Lato',
+                                    size: 11,
+                                    weight: 'bold'
+                                },
+                                textTransform: 'uppercase'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Render Cost Breakdown
+        function renderCostBreakdown() {
+            const container = document.getElementById('cost-breakdown');
+            const paidInvoices = invoices.filter(inv => inv.amount > 0);
+
+            container.innerHTML = paidInvoices.map(inv => `
+                <div class="flex items-center justify-between py-2 border-b border-gray-200">
+                    <div>
+                        <p class="font-medium text-gray-900">${inv.vendor}</p>
+                        <p class="text-xs text-gray-500">${new Date(inv.date).toLocaleDateString()}</p>
+                    </div>
+                    <span class="font-bold text-gray-900">$${inv.amount.toFixed(2)}</span>
+                </div>
+            `).join('') + `
+                <div class="flex items-center justify-between py-3 pt-4">
+                    <span class="font-bold text-gray-900">Total</span>
+                    <span class="text-2xl font-bold text-red-600">$${totalCost.toFixed(2)}</span>
+                </div>
+            `;
+        }
+
+        // Render TSBs
+        function renderTSBs() {
+            const container = document.getElementById('tsb-container');
+            container.innerHTML = tsbs.map((tsb, index) => `
+                <div class="p-6 border-2 ${
+                    tsb.severity === 'high' ? 'border-red-900 bg-red-50' : 'border-yellow-900 bg-yellow-50'
+                } shadow cursor-pointer hover:shadow-lg transition-shadow" onclick="openTSBModal(${index})">
+                    <div class="text-xs uppercase tracking-widest ${
+                        tsb.severity === 'high' ? 'text-red-900' : 'text-yellow-900'
+                    } mb-2 font-bold">Technical Service Bulletin</div>
+                    <h4 class="font-bold text-gray-900 mb-3 text-lg">${tsb.title}</h4>
+                    <p class="text-xs font-mono text-gray-700 mb-3 p-2 bg-white border-l-2 border-gray-900">${tsb.bulletin}</p>
+                    <p class="text-sm text-gray-800 mb-4 leading-relaxed">${tsb.description}</p>
+                    <div class="pt-3 border-t border-gray-300">
+                        <div class="text-xs uppercase tracking-wide text-gray-600 mb-2 font-bold">Related DTCs:</div>
+                        <div class="flex flex-wrap gap-2">
+                            ${tsb.dtcs.map(dtc => `
+                                <span class="px-2 py-1 bg-gray-900 text-white text-xs font-mono">${dtc}</span>
+                            `).join('')}
+                        </div>
+                    </div>
+                    <div class="mt-4 text-xs text-gray-600 font-medium text-center pt-3 border-t border-gray-300">
+                        Click to view detailed bulletin information
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Render Legal Timeline
+        function renderLegalTimeline() {
+            const container = document.getElementById('legal-timeline');
+            container.innerHTML = legalEvents.map(event => `
+                <div class="flex gap-4 p-6 ${event.critical ? 'bg-red-50 border-l-4 border-red-900' : 'bg-gray-50 border-l-4 border-gray-900'} shadow">
+                    <div class="flex-shrink-0 w-14 h-14 ${
+                        event.type === 'action' ? 'bg-gray-900' : 'bg-gray-600'
+                    } flex items-center justify-center">
+                        <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            ${event.type === 'action'
+                                ? '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>'
+                                : '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>'
+                            }
+                        </svg>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex items-start justify-between mb-2">
+                            <div>
+                                <div class="text-xs uppercase tracking-widest ${event.critical ? 'text-red-900' : 'text-gray-600'} mb-1 font-bold">
+                                    ${event.type === 'action' ? 'Claimant Action' : 'Respondent Action'}
+                                </div>
+                                <h4 class="font-bold text-gray-900 text-lg">${event.event}</h4>
+                            </div>
+                            <span class="text-xs text-gray-600 font-mono">${new Date(event.date).toLocaleDateString('en-US', {year: 'numeric', month: 'short', day: 'numeric'})}</span>
+                        </div>
+                        <p class="text-sm text-gray-800 leading-relaxed">${event.description}</p>
+                        ${event.critical ? '<div class="mt-3 text-xs uppercase tracking-wide text-red-900 font-bold">⚠ Critical Procedural Issue</div>' : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // TSB Modal Functions
+        function openTSBModal(index) {
+            const tsb = tsbs[index];
+            const modal = document.getElementById('tsb-modal');
+
+            // Populate modal content
+            document.getElementById('modal-tsb-title').textContent = tsb.title;
+            document.getElementById('modal-tsb-bulletin').textContent = tsb.bulletin;
+            document.getElementById('modal-tsb-description').textContent = tsb.fullDescription;
+
+            // Populate components list
+            const componentsContainer = document.getElementById('modal-tsb-components');
+            componentsContainer.innerHTML = tsb.components.map(component => `
+                <div class="flex items-start gap-2 mb-2">
+                    <svg class="w-4 h-4 text-gray-900 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <span class="text-gray-800">${component}</span>
+                </div>
+            `).join('');
+
+            // Populate DTCs with descriptions
+            const dtcsContainer = document.getElementById('modal-tsb-dtcs');
+            dtcsContainer.innerHTML = tsb.dtcs.map(dtc => `
+                <div class="bg-white p-4 border-2 border-blue-900 shadow-sm">
+                    <div class="font-mono font-bold text-blue-900 mb-2">${dtc}</div>
+                    <div class="text-sm text-gray-700">${tsb.dtcDescriptions[dtc] || 'No description available'}</div>
+                </div>
+            `).join('');
+
+            // Populate evidence
+            document.getElementById('modal-tsb-evidence').textContent = tsb.evidence;
+
+            // Populate severity assessment
+            const severityContainer = document.getElementById('modal-tsb-severity');
+            const severityBadge = tsb.severity === 'high'
+                ? '<span class="inline-block px-3 py-1 bg-red-900 text-white text-xs font-bold uppercase tracking-wide mb-3">High Severity</span>'
+                : '<span class="inline-block px-3 py-1 bg-yellow-900 text-white text-xs font-bold uppercase tracking-wide mb-3">Medium Severity</span>';
+            severityContainer.innerHTML = severityBadge + `<p class="text-gray-800">${tsb.severityReason}</p>`;
+
+            // Show modal
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeTSBModal() {
+            const modal = document.getElementById('tsb-modal');
+            modal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Close modal on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeTSBModal();
+            }
+        });
+
+        // Close modal when clicking outside content
+        document.getElementById('tsb-modal')?.addEventListener('click', (e) => {
+            if (e.target.id === 'tsb-modal') {
+                closeTSBModal();
+            }
+        });
+
+        // Utility functions
+        function downloadReport() {
+            window.print();
+        }
+
+        function printDashboard() {
+            window.print();
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            renderTimeline();
+            renderIssueChart();
+            renderCostBreakdown();
+            renderTSBs();
+            renderLegalTimeline();
+        });
+    </script>
+</body>
+</html>

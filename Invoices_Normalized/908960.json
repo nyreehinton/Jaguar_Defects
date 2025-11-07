@@ -1,0 +1,68 @@
+{
+  "invoice_number": "908960",
+  "document_type": "INVOICE",
+  "invoice_date": "2024-10-02",
+  "vendor": {
+    "name": "JAGUAR LAND ROVER SOUTH BAY",
+    "address": null,
+    "phone": null
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": null,
+    "phone": "732-979-6264",
+    "email": "na@na.com"
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 23072,
+    "mileage_out": 23073
+  },
+  "service_advisor": {
+    "name": "JOEL CRUZ",
+    "id": "78714"
+  },
+  "technician": {
+    "name": "CHAVEZ CUEVAS"
+  },
+  "line_items": [
+    {
+      "description": "CUSTOMER STATES DRIVERS SIDE WINDOW DOES NOT ROLL UP.",
+      "tech_notes": "VERIFIED CUSTOMER CONCERN FOUND WINDOW SWITCH NOT WORKING. CHECK SEAT SWITCH AND IT ALSO NOT WORKING SO IS THE LOCK AND UNLOCK SWITCH NOT WORKING. CHECK FUSE AT THE REAR JUNCTION BOX FOR FRONT LEFT DOOR MODULE AND FUSE WAS BLOWN. CHECK POWER WIRE FOR 12 VOLTS AND GOT 12VOLTS FROM JUNCTION BOX TO LEFT DOOR CONTROL MODULE. CHECK GROUND FROM JUNCTION BOX TO LEFT DOOR MODULE AND THERE WAS A SHORT TO GROUND. REPAIR GROUND WIRE AND REPLACE FUSE AND FUSE DIDN'T BLOW AGAIN. NOW GOT POWER TO LEFT FRONT DOOR MODULE AND WINDOW SWITCH IS NOW WORKING AS IT SHOULD.",
+      "type": "repair",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "MULTI POINT INSPECTION",
+      "tech_notes": "PERFORMED MPI. ALL TIRES AT 9/32ND (MINIMUM IS 3/32ND). FRONT BRAKES AT 6MM (MINIMUM IS 3MM). REAR BRAKES AT 4MM (MINIMUM IS 3MM). Declined Rear Brake Replacement. Declined Scheduled Maintenance.",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "PERFORM TIRE PRESSURE SERVICE",
+      "tech_notes": "SET TIRES PRESSURE TO SPEC. LEFT 37PSI FRONT RIGHT 37PSI REAR LEFT 37PSI REAR RIGHT 37PSI.",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "summary": {
+    "parts_total": 0.00,
+    "labor_total": 0.00,
+    "subtotal": 0.00,
+    "tax": 0.00,
+    "total": 0.00,
+    "amount_paid": 0.00,
+    "balance_due": 0.00
+  },
+  "status": "COMPLETED",
+  "warranty_covered": true
+}

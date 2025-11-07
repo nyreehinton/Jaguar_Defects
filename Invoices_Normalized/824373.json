@@ -1,0 +1,83 @@
+{
+  "invoice_number": "824373",
+  "document_type": "INVOICE",
+  "invoice_date": "2024-10-14",
+  "vendor": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. La Brea Avenue Los Angeles CA 90036",
+    "phone": "(310) 274-5133"
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "phone": "732-979-6264",
+    "email": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 23278,
+    "mileage_out": 23282
+  },
+  "service_advisor": {
+    "name": "Danny Sanchez",
+    "phone": "(310) 274-5133"
+  },
+  "technician": {
+    "name": "KESROUANI, ROY",
+    "id": "3238"
+  },
+  "line_items": [
+    {
+      "description": "CLIENT STATES THAT THE DRIVERS SIDE DOOR ELECTRONICS DO NOT OPERATE CHECK AND ADVISE",
+      "tech_notes": "LEFT ENGINE JUNCTION BOX TO REAR JUNCTION BOX CIRCUIT SHORT CIRCUIT TO GROUND. Found circuit from connector C13H-13 to left engine junction box at C1BB01A-15 shorted to ground where driver rests his/her left foot underneath the carpet. Performed harness repair. Driver door electronics now working correctly.",
+      "type": "repair",
+      "issue": "electrical_short",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "CLIENT STATES LOW BATTERY WARNING LIGHT COMES ON THE CLUSTER CHECK AND ADVISE",
+      "tech_notes": "START UP BATTERY FAILURE. Battery failed in-vehicle and out-of-vehicle tests. Replaced start-up battery. Low battery message no longer displayed.",
+      "type": "repair",
+      "issue": "battery_failure",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00,
+      "parts_used": [
+        {"part_number": "T2H33020", "description": "BATTERY", "quantity": 1, "price": 0.00},
+        {"part_number": "BAT", "description": "California Battery Fee", "quantity": 1, "price": 0.00}
+      ]
+    },
+    {
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "tech_notes": "TIRE PSI VALUES. LEFT 37PSI FRONT RIGHT 37PSI REAR LEFT 37PSI REAR RIGHT 37PSI",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "summary": {
+    "parts_total": 0.00,
+    "labor_total": 0.00,
+    "subtotal": 0.00,
+    "tax": 0.00,
+    "total": 0.00,
+    "amount_paid": 0.00,
+    "balance_due": 0.00
+  },
+  "status": "COMPLETED",
+  "warranty_covered": true,
+  "notes": "Fuse blew again after driving 2 miles - recurring electrical short issue"
+}

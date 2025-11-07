@@ -2,8 +2,8 @@
 <html lang="en" class="scroll-smooth">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The 2020 Jaguar F-TYPE Dispute</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -234,8 +234,8 @@
 <body class="text-gray-800">
     <!-- Video Background -->
     <video id="video-background" autoplay muted loop playsinline>
-        <source src="Media/Jaguar_Background.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+      <source src="Media/Jaguar_Background.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
     </video>
     <div id="video-overlay"></div>
 
@@ -251,27 +251,42 @@
                     </div>
                     <!-- Search Bar -->
                     <div class="hidden md:flex flex-1 max-w-md mx-4">
-                        <input type="text" id="global-search" placeholder="Search invoices, reports, inspections..." class="w-full px-4 py-2 rounded-md bg-gray-800 text-white placeholder-gray-400 border border-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <input type="text" id="global-search" placeholder="Search invoices, reports, inspections..." class="w-full px-4 py-2 rounded-md bg-gray-800 text-white placeholder-gray-400 border border-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500" />
                     </div>
                     <!-- Navigation Links -->
                     <div class="hidden md:flex space-x-4">
-                        <button onclick="showPage('page-overview')" class="nav-btn active py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">Overview</button>
-                        <button onclick="showPage('page-chronology')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">Chronology</button>
-                        <button onclick="showPage('page-evidence')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">Evidence
-                            Locker</button>
-                        <button onclick="showPage('page-legal')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">The
-                            Legal Case</button>
+                        <button onclick="showPage('page-overview')" class="nav-btn active py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">
+                Overview
+              </button>
+                        <button onclick="showPage('page-chronology')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">
+                Chronology
+              </button>
+                        <button onclick="showPage('page-evidence')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">
+                Evidence Locker
+              </button>
+                        <button onclick="showPage('page-legal')" class="nav-btn py-2 px-3 rounded-md text-sm font-medium hover:bg-gray-700 transition-colors">
+                The Legal Case
+              </button>
                     </div>
                     <!-- Mobile Menu Button -->
                     <div class="md:hidden">
                         <button onclick="document.getElementById('mobile-menu').classList.toggle('hidden')" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white">
-                            <span class="sr-only">Open main menu</span>
-                            <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M4 6h16M4 12h16m-7 6h7" />
-                            </svg>
-                        </button>
+                <span class="sr-only">Open main menu</span>
+                <svg
+                  class="h-6 w-6"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 6h16M4 12h16m-7 6h7"
+                  />
+                </svg>
+              </button>
                     </div>
                 </div>
             </nav>
@@ -279,14 +294,20 @@
             <div class="md:hidden hidden" id="mobile-menu">
                 <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                     <div class="px-3 mb-2">
-                        <input type="text" id="mobile-search" placeholder="Search..." class="w-full px-4 py-2 rounded-md bg-gray-800 text-white placeholder-gray-400 border border-gray-700">
+                        <input type="text" id="mobile-search" placeholder="Search..." class="w-full px-4 py-2 rounded-md bg-gray-800 text-white placeholder-gray-400 border border-gray-700" />
                     </div>
-                    <button onclick="showPage('page-overview');" class="nav-btn active block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">Overview</button>
-                    <button onclick="showPage('page-chronology');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">Chronology</button>
-                    <button onclick="showPage('page-evidence');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">Evidence
-                        Locker</button>
-                    <button onclick="showPage('page-legal');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">The
-                        Legal Case</button>
+                    <button onclick="showPage('page-overview');" class="nav-btn active block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">
+              Overview
+            </button>
+                    <button onclick="showPage('page-chronology');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">
+              Chronology
+            </button>
+                    <button onclick="showPage('page-evidence');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">
+              Evidence Locker
+            </button>
+                    <button onclick="showPage('page-legal');" class="nav-btn block w-full text-left px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700 transition-colors">
+              The Legal Case
+            </button>
                 </div>
             </div>
         </header>
@@ -305,348 +326,398 @@
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                     <!-- Left Column: Executive Summary -->
                     <div class="lg:col-span-2 bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                        <h2 class="text-3xl font-extrabold text-gray-900 mb-4 border-b pb-2">Executive Summary</h2>
+                        <h2 class="text-3xl font-extrabold text-gray-900 mb-4 border-b pb-2">
+                            Executive Summary
+                        </h2>
                         <p class="text-lg text-gray-700 mb-4">
-                            This document synthesizes a series of events concerning a used <strong>2020 Jaguar F-TYPE
-                                (VIN: ...LCK67497)</strong> purchased by consumer Nyree Hinton. The core of the dispute centers on the vehicle's significant, recurring mechanical and electrical defects, the manufacturer's refusal to repurchase the vehicle,
-                            and the subsequent failure of a state-certified arbitration program to adjudicate the claim under all applicable laws.
+                            This document synthesizes a series of events concerning a used
+                            <strong>2020 Jaguar F-TYPE (VIN: ...LCK67497)</strong> purchased by consumer Nyree Hinton. The core of the dispute centers on the vehicle's significant, recurring mechanical and electrical defects, the manufacturer's refusal
+                            to repurchase the vehicle, and the subsequent failure of a state-certified arbitration program to adjudicate the claim under all applicable laws.
                         </p>
                         <p class="mb-4 text-gray-600">
                             After purchasing the vehicle with an active transferable manufacturer's warranty, the consumer experienced numerous faults, including critical electrical short circuits and coolant system failures. These faults are corroborated by multiple technical bulletins
                             issued by Jaguar for this model. Jaguar Land Rover North America, LLC (JLRNA) denied a repurchase request under California's Song-Beverly Consumer Warranty Act.
                         </p>
                         <p class="mb-4 text-gray-600">
-                            Crucially, JLRNA's denial letter mandated that the consumer use the BBB AUTO LINE arbitration program before pursuing court remedies under both the state Song-Beverly Act and the federal <strong class="font-semibold text-gray-800">Magnuson-Moss Warranty Act
-                                (MMWA)</strong>.
-                        </p>
-                        <p class="mb-4 p-4 bg-red-50 border-l-4 border-red-500 text-red-900 rounded-md">
-                            However, the BBB AUTO LINE arbitrator dismissed the case, citing a recent California Supreme Court ruling. The arbitrator then <strong class="font-bold">explicitly refused to consider
-                                remedies under the MMWA</strong>, stating it was "not within the purview" of the program. This created a direct conflict with JLRNA's referral and the program's own stated rules, leaving the consumer without the mandated
-                            arbitration for their federal warranty claims.
-                        </p>
-                        <p class="text-gray-600">
-                            Subsequent complaints were filed with the California Bureau of Automotive Repair, the NHTSA, and the California Arbitration Certification Program. Post-warranty diagnostics confirm the persistence of widespread systemic faults.
-                        </p>
+                            Crucially, JLRNA's denial letter mandated that the consumer use the BBB AUTO LINE arbitration program before pursuing court remedies under both the state Song-Beverly Act and the federal
+                            <strong class="font-semibold text-gray-800">Magnuson-Moss Warranty Act (MMWA)</strong
+                >.
+              </p>
+              <p class="mb-4 p-4 bg-red-50 border-l-4 border-red-500 text-red-900 rounded-md">
+                However, the BBB AUTO LINE arbitrator dismissed the case, citing a recent California
+                Supreme Court ruling. The arbitrator then
+                <strong class="font-bold"
+                  >explicitly refused to consider remedies under the MMWA</strong
+                >, stating it was "not within the purview" of the program. This created a direct
+                conflict with JLRNA's referral and the program's own stated rules, leaving the
+                consumer without the mandated arbitration for their federal warranty claims.
+              </p>
+              <p class="text-gray-600">
+                Subsequent complaints were filed with the California Bureau of Automotive Repair,
+                the NHTSA, and the California Arbitration Certification Program. Post-warranty
+                diagnostics confirm the persistence of widespread systemic faults.
+              </p>
 
-                        <!-- Dynamic Statistics -->
-                        <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">
-                            <div class="bg-blue-50 rounded-lg p-4 border-l-4 border-blue-500">
-                                <div class="text-sm text-blue-600 font-medium">Service Visits</div>
-                                <div class="text-2xl font-bold text-blue-900" id="stat-service-visits">-</div>
-                            </div>
-                            <div class="bg-green-50 rounded-lg p-4 border-l-4 border-green-500">
-                                <div class="text-sm text-green-600 font-medium">Total Cost</div>
-                                <div class="text-2xl font-bold text-green-900" id="stat-total-cost">-</div>
-                            </div>
-                            <div class="bg-yellow-50 rounded-lg p-4 border-l-4 border-yellow-500">
-                                <div class="text-sm text-yellow-600 font-medium">Inspections</div>
-                                <div class="text-2xl font-bold text-yellow-900" id="stat-inspections">-</div>
-                            </div>
-                            <div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
-                                <div class="text-sm text-purple-600 font-medium">Reports</div>
-                                <div class="text-2xl font-bold text-purple-900" id="stat-reports">-</div>
-                            </div>
-                        </div>
-
-                        <!-- Full Chronology -->
-                        <div class="mt-6">
-                            <h3 class="text-xl font-bold text-gray-900 mb-3">Full Chronology</h3>
-                            <div id="recent-activity" class="space-y-2 max-h-96 overflow-y-auto">
-                                <div class="spinner"></div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Right Column: Vehicle Details -->
-                    <div class="lg:col-span-1 space-y-6">
-                        <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                            <h3 class="text-xl font-bold text-gray-900 mb-4">Vehicle at a Glance</h3>
-                            <img src="https://placehold.co/600x400/333/999?text=2020+Jaguar+F-TYPE" alt="2020 Jaguar F-TYPE" class="rounded-lg mb-4 w-full h-auto object-cover">
-                            <ul class="space-y-2 text-sm">
-                                <li class="flex justify-between"><strong>Make/Model:</strong> <span>2020 Jaguar F-TYPE
-                                        P300</span></li>
-                                <li class="flex justify-between"><strong>VIN:</strong> <span>...LCK67497</span></li>
-                                <li class="flex justify-between"><strong>Engine:</strong> <span>2.0L I4 (296 hp)</span>
-                                </li>
-                                <li class="flex justify-between"><strong>Color:</strong> <span>Narvik Black</span></li>
-                            </ul>
-                        </div>
-                        <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                            <h3 class="text-xl font-bold text-gray-900 mb-4">Purchase Details</h3>
-                            <ul class="space-y-2 text-sm">
-                                <li class="flex justify-between"><strong>Buyer:</strong> <span>Nyree Hinton</span></li>
-                                <li class="flex justify-between"><strong>Purchase Date:</strong> <span>Sep 17,
-                                        2024</span></li>
-                                <li class="flex justify-between"><strong>Mileage at Purchase:</strong>
-                                    <span>22,270</span></li>
-                                <li class="flex justify-between"><strong>Warranty:</strong> <span class="text-right">Active Jaguar EliteCare (5yr/60k)</span></li>
-                            </ul>
-                        </div>
-
-                        <!-- Podcasts Section -->
-                        <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                            <h3 class="text-xl font-bold text-gray-900 mb-4">Podcasts</h3>
-                            <div id="overview-podcasts" class="space-y-4">
-                                <div class="spinner"></div>
-                            </div>
-                        </div>
-                    </div>
+              <!-- Dynamic Statistics -->
+              <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="bg-blue-50 rounded-lg p-4 border-l-4 border-blue-500">
+                  <div class="text-sm text-blue-600 font-medium">Service Visits</div>
+                  <div class="text-2xl font-bold text-blue-900" id="stat-service-visits">-</div>
                 </div>
-            </section>
-
-            <!-- ============================================= -->
-            <!-- Page 2: Chronology                          -->
-            <!-- ============================================= -->
-            <section id="page-chronology" class="page-content hidden">
-                <div class="bg-white rounded-lg shadow-lg p-6 mb-6 border-2 border-gray-200">
-                    <h2 class="text-3xl font-extrabold text-gray-900 mb-4">Chronology of Defects & Dispute</h2>
-
-                    <!-- Filter Controls -->
-                    <div class="flex flex-wrap gap-4 mb-4">
-                        <select id="timeline-filter-type" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm">
-                            <option value="all">All Types</option>
-                            <option value="invoice">Invoices</option>
-                            <option value="inspection">Inspections</option>
-                            <option value="report">Reports</option>
-                        </select>
-                        <select id="timeline-sort" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm">
-                            <option value="asc">Oldest First</option>
-                            <option value="desc">Newest First</option>
-                        </select>
-                        <input type="date" id="timeline-date-from" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm" placeholder="From Date">
-                        <input type="date" id="timeline-date-to" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm" placeholder="To Date">
-                        <button onclick="applyTimelineFilters()" class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 shadow-md">Apply
-                            Filters</button>
-                        <button onclick="clearTimelineFilters()" class="px-4 py-2 bg-gray-300 text-gray-700 rounded-md hover:bg-gray-400 shadow-md">Clear</button>
-                    </div>
+                <div class="bg-green-50 rounded-lg p-4 border-l-4 border-green-500">
+                  <div class="text-sm text-green-600 font-medium">Total Cost</div>
+                  <div class="text-2xl font-bold text-green-900" id="stat-total-cost">-</div>
                 </div>
-
-                <div class="bg-white rounded-lg shadow-lg p-8 border-2 border-gray-200">
-                    <div class="relative pl-10 border-l-4 border-blue-500" id="timeline-container">
-                        <div class="spinner"></div>
-                    </div>
+                <div class="bg-yellow-50 rounded-lg p-4 border-l-4 border-yellow-500">
+                  <div class="text-sm text-yellow-600 font-medium">Inspections</div>
+                  <div class="text-2xl font-bold text-yellow-900" id="stat-inspections">-</div>
                 </div>
-            </section>
-
-            <!-- ============================================= -->
-            <!-- Page 3: Evidence Locker                       -->
-            <!-- ============================================= -->
-            <section id="page-evidence" class="page-content hidden">
-                <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 mb-6">
-                    <h2 class="text-3xl font-extrabold text-gray-900 mb-4">Evidence Locker</h2>
-
-                    <!-- Tab Navigation -->
-                    <div class="mb-6 border-b border-gray-300">
-                        <nav class="flex -mb-px space-x-6 overflow-x-auto" aria-label="Tabs">
-                            <button onclick="showTab('tab-diagnostics')" class="tab-btn active whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
-                                Diagnostic Reports
-                            </button>
-                            <button onclick="showTab('tab-bulletins')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                                Technical Bulletins
-                            </button>
-                            <button onclick="showTab('tab-invoices')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                                Repair History
-                            </button>
-                            <button onclick="showTab('tab-inspections')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                                Multi-Point Inspections
-                            </button>
-                            <button onclick="showTab('tab-reports')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                                Reports
-                            </button>
-                            <button onclick="showTab('tab-podcasts')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                                Podcasts
-                            </button>
-                        </nav>
-                    </div>
-
-                    <!-- Search/Filter for Evidence -->
-                    <div class="mb-4 flex flex-wrap gap-4">
-                        <input type="text" id="evidence-search" placeholder="Search evidence..." class="flex-1 min-w-64 px-4 py-2 border border-gray-300 rounded-md bg-white">
-                        <select id="evidence-filter-dealer" class="px-4 py-2 border border-gray-300 rounded-md bg-white">
-                            <option value="all">All Dealers</option>
-                        </select>
-                    </div>
+                <div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
+                  <div class="text-sm text-purple-600 font-medium">Reports</div>
+                  <div class="text-2xl font-bold text-purple-900" id="stat-reports">-</div>
                 </div>
+              </div>
 
-                <!-- Tab Content: Diagnostic Reports -->
-                <div id="tab-diagnostics" class="tab-content space-y-6">
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-red-600">
-                        <h3 class="text-xl font-bold text-red-800 mb-2">August 27, 2025: Autel MaxiSys Elite Scan</h3>
-                        <p class="text-sm text-gray-500 mb-4">(Odometer: 28,812 miles)</p>
-                        <p class="text-lg font-semibold text-gray-900 mb-3">Total Faults Found: 33 DTCs across 18 Modules
-                        </p>
-                        <ul class="list-disc list-inside space-y-2 text-gray-700">
-                            <li>
-                                <strong class="font-semibold text-red-700">Gateway Module 'A' (GWM):</strong> Permanent "Component internal fault" (B1412-96). This is the central communication hub for the vehicle's electronics.
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Powertrain Control Module (PCM):</strong> "History" codes for coolant pump failure: P2B61-73 (Engine coolant flow control valve stuck closed) and P26CB-72 (Variable coolant pump performance/stuck
-                                off).
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Communication Errors:</strong> Widespread communication bus errors (U0001-81, U0046-81), consistent with a failing GWM.
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Passenger Front Seat Module (PSM):</strong> Permanent "Control module improper shutdown (voltage related)" fault (U3001-46), corroborating battery issues.
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-red-600">
-                        <h3 class="text-xl font-bold text-red-800 mb-2">October 18, 2025: Mode 6 Report</h3>
-                        <p class="text-lg font-semibold text-gray-900 mb-3">VVT Monitor Failure</p>
-                        <ul class="list-disc list-inside space-y-2 text-gray-700">
-                            <li>
-                                <strong class="font-semibold text-red-700">Test Status: Complete and Fail</strong>
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Test ID:</strong> VVT Monitor Bank 1 (MID: 35, TID: 80)
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Value:</strong> -58.95° (Acceptable Max: -58.89°)
-                            </li>
-                            <li>
-                                <strong class="font-semibold">Conclusion:</strong> This failure aligns with known VCT solenoid issues detailed in Jaguar Service Action H299.
-                            </li>
-                        </ul>
-                    </div>
+              <!-- Full Chronology -->
+              <div class="mt-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-3">Full Chronology</h3>
+                <div id="recent-activity" class="space-y-2 max-h-96 overflow-y-auto">
+                  <div class="spinner"></div>
                 </div>
-
-                <!-- Tab Content: Technical Bulletins -->
-                <div id="tab-bulletins" class="tab-content hidden space-y-6">
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
-                        <h3 class="text-xl font-bold text-yellow-800 mb-2">Coolant System Faults</h3>
-                        <p class="font-semibold text-gray-800 mb-2">Bulletins: JLRTB02030NAS1 & Service Action H291</p>
-                        <p class="text-gray-700">
-                            Addresses a fault with the variable coolant pump causing the engine fan to run constantly. The associated DTCs (<strong class="font-mono">P2B61-73</strong> and <strong class="font-mono">P26CB-72</strong>) were both found in
-                            the vehicle's August 2025 diagnostic scan.
-                        </p>
-                    </div>
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
-                        <h3 class="text-xl font-bold text-yellow-800 mb-2">Variable Camshaft Timing (VCT) Solenoids</h3>
-                        <p class="font-semibold text-gray-800 mb-2">Bulletins: JLRTB02023NAS1/2 & Service Action H299
-                        </p>
-                        <p class="text-gray-700">
-                            Addresses insufficient wear resistance of the VCT solenoid bush, leading to an illuminated Malfunction Indicator Lamp (MIL). This directly corresponds to the <strong class="font-semibold">VVT Monitor Bank 1 failure</strong>                            found in the October 2025 Mode 6 report.
-                        </p>
-                    </div>
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
-                        <h3 class="text-xl font-bold text-yellow-800 mb-2">Electrical / Battery Issues</h3>
-                        <p class="font-semibold text-gray-800 mb-2">Bulletins: SSM 74570 & SSM 74763</p>
-                        <p class="text-gray-700">
-                            <strong class="font-mono">SSM 74570</strong> addresses a known battery drain issue caused by the InControl touch head unit. <strong class="font-mono">SSM 74763</strong> addresses a non-functional InControl Remote App due to
-                            a Telematics Control Unit (TCU) error. Both align with the consumer's initial service complaints.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Tab Content: Repair History -->
-                <div id="tab-invoices" class="tab-content hidden space-y-6">
-                    <div id="invoices-container">
-                        <div class="spinner"></div>
-                    </div>
-                </div>
-
-                <!-- Tab Content: Multi-Point Inspections -->
-                <div id="tab-inspections" class="tab-content hidden space-y-6">
-                    <div id="inspections-container">
-                        <div class="spinner"></div>
-                    </div>
-                </div>
-
-                <!-- Tab Content: Reports -->
-                <div id="tab-reports" class="tab-content hidden space-y-6">
-                    <div id="reports-container">
-                        <div class="spinner"></div>
-                    </div>
-                </div>
-
-                <!-- Tab Content: Podcasts -->
-                <div id="tab-podcasts" class="tab-content hidden space-y-6">
-                    <div id="podcasts-container">
-                        <div class="spinner"></div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- ============================================= -->
-            <!-- Page 4: The Legal Case                        -->
-            <!-- ============================================= -->
-            <section id="page-legal" class="page-content hidden">
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <!-- Left Column: Legal Framework -->
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">Legal Framework</h3>
-
-                        <h4 class="text-lg font-semibold text-gray-800">CA Song-Beverly Act ("Lemon Law")</h4>
-                        <p class="text-gray-600 mb-4">
-                            Provides repurchase remedies for "new motor vehicles." A recent CA Supreme Court case (*Rodriguez v. FCA US, LLC*) affirmed this does not include used vehicles with a transferred warranty.
-                        </p>
-
-                        <h4 class="text-lg font-semibold text-gray-800">Magnuson-Moss Warranty Act (MMWA)</h4>
-                        <p class="text-gray-600">
-                            A federal law protecting consumers with a "written warranty." It is not limited to new goods and applies to this vehicle's transferred warranty. It provides remedies if a warrantor fails to repair defects in a reasonable time.
-                        </p>
-                    </div>
-
-                    <!-- Right Column: The Precedent -->
-                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">The *Rodriguez v. FCA* Precedent</h3>
-                        <p class="text-gray-600 mb-4">
-                            This ruling was the sole basis for the arbitrator's dismissal of the *Song-Beverly* claim.
-                        </p>
-                        <p class="p-4 bg-gray-50 border-l-4 border-gray-400 text-gray-700 rounded-md">
-                            <strong>The Ruling:</strong> The court established that a used car sold by a third party with a *remaining* warranty is not a "new motor vehicle" under the Song-Beverly Act's specific definition.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- The Central Conflict -->
-                <div class="bg-white bg-opacity-95 rounded-lg shadow-xl p-6 md:p-8 mt-8">
-                    <h3 class="text-2xl font-extrabold text-red-800 mb-6 text-center">The Jurisdictional Failure</h3>
-                    <p class="text-lg text-center text-gray-600 mb-8">
-                        The core of the dispute lies in the direct contradiction between the manufacturer's mandate and the arbitrator's refusal to act.
-                    </p>
-
-                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                        <!-- JLRNA's Mandate -->
-                        <div class="border border-gray-300 rounded-lg p-5">
-                            <h4 class="text-lg font-semibold text-gray-900 mb-3">1. JLRNA's Mandate (Jan 31, 2025)</h4>
-                            <p class="text-gray-700">In its denial letter, JLRNA required the consumer to use BBB AUTO LINE arbitration for all claims:</p>
-                            <blockquote class="mt-3 p-4 bg-blue-50 border-l-4 border-blue-500 text-blue-900 rounded-md italic">
-                                "...before exercising rights or seeking remedies created by <strong class="font-semibold">Title I of the Magnuson-Moss Warranty Act</strong>."
-                            </blockquote>
-                        </div>
-
-                        <!-- BBB's Refusal -->
-                        <div class="border border-red-400 bg-red-50 rounded-lg p-5">
-                            <h4 class="text-lg font-semibold text-red-900 mb-3">2. The Arbitrator's Refusal (Mar 24, 2025)
-                            </h4>
-                            <p class="text-red-800">The arbitrator dismissed the case and explicitly declined jurisdiction over the federal claim:</p>
-                            <blockquote class="mt-3 p-4 bg-red-100 border-l-4 border-red-500 text-red-900 rounded-md italic">
-                                "There may be other bases... such as perhaps the federal Magnuson-Moss Warranty Act, however, consideration of those other options is <strong class="font-semibold">not
-                                    within the purview</strong> of the California Lemon Law nor the Auto Line Program."
-                            </blockquote>
-                        </div>
-                    </div>
-
-                    <div class="mt-8 text-center">
-                        <h4 class="text-xl font-bold text-gray-900">Conclusion of the Dispute</h4>
-                        <p class="text-lg text-gray-700 max-w-3xl mx-auto mt-2">
-                            This refusal created a "catch-22," leaving the consumer with no path to the arbitration mandated by the manufacturer for their federal warranty claims. This failure to exercise jurisdiction is the subject of ongoing complaints with state regulatory bodies.
-                        </p>
-                    </div>
-                </div>
-            </section>
-        </main>
-
-        <!-- Footer -->
-        <footer class="bg-gray-800 bg-opacity-95 text-gray-400 mt-12">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm">
-                <p>This is a case file summary based on provided documents. All information is presented for analysis.
-                </p>
-                <p>Vehicle: 2020 Jaguar F-TYPE | VIN: SAJDD1GX4LCK67497</p>
+              </div>
             </div>
-        </footer>
+
+            <!-- Right Column: Vehicle Details -->
+            <div class="lg:col-span-1 space-y-6">
+              <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-4">Vehicle at a Glance</h3>
+                <img
+                  src="https://placehold.co/600x400/333/999?text=2020+Jaguar+F-TYPE"
+                  alt="2020 Jaguar F-TYPE"
+                  class="rounded-lg mb-4 w-full h-auto object-cover"
+                />
+                <ul class="space-y-2 text-sm">
+                  <li class="flex justify-between">
+                    <strong>Make/Model:</strong> <span>2020 Jaguar F-TYPE P300</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>VIN:</strong> <span>...LCK67497</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>Engine:</strong> <span>2.0L I4 (296 hp)</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>Color:</strong> <span>Narvik Black</span>
+                            </li>
+                            </ul>
+                    </div>
+                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Purchase Details</h3>
+                        <ul class="space-y-2 text-sm">
+                            <li class="flex justify-between">
+                                <strong>Buyer:</strong> <span>Nyree Hinton</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>Purchase Date:</strong> <span>Sep 17, 2024</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>Mileage at Purchase:</strong> <span>22,270</span>
+                            </li>
+                            <li class="flex justify-between">
+                                <strong>Warranty:</strong>
+                                <span class="text-right">Active Jaguar EliteCare (5yr/60k)</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Podcasts Section -->
+                    <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Podcasts</h3>
+                        <div id="overview-podcasts" class="space-y-4">
+                            <div class="spinner"></div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+    </section>
+
+    <!-- ============================================= -->
+    <!-- Page 2: Chronology                          -->
+    <!-- ============================================= -->
+    <section id="page-chronology" class="page-content hidden">
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-6 border-2 border-gray-200">
+            <h2 class="text-3xl font-extrabold text-gray-900 mb-4">
+                Chronology of Defects & Dispute
+            </h2>
+
+            <!-- Filter Controls -->
+            <div class="flex flex-wrap gap-4 mb-4">
+                <select id="timeline-filter-type" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm">
+                <option value="all">All Types</option>
+                <option value="invoice">Invoices</option>
+                <option value="inspection">Inspections</option>
+                <option value="report">Reports</option>
+              </select>
+                <select id="timeline-sort" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm">
+                <option value="asc">Oldest First</option>
+                <option value="desc">Newest First</option>
+              </select>
+                <input type="date" id="timeline-date-from" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm" placeholder="From Date" />
+                <input type="date" id="timeline-date-to" class="px-4 py-2 border border-gray-300 rounded-md bg-white shadow-sm" placeholder="To Date" />
+                <button onclick="applyTimelineFilters()" class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 shadow-md">
+                Apply Filters
+              </button>
+                <button onclick="clearTimelineFilters()" class="px-4 py-2 bg-gray-300 text-gray-700 rounded-md hover:bg-gray-400 shadow-md">
+                Clear
+              </button>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-lg p-8 border-2 border-gray-200">
+            <div class="relative pl-10 border-l-4 border-blue-500" id="timeline-container">
+                <div class="spinner"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================= -->
+    <!-- Page 3: Evidence Locker                       -->
+    <!-- ============================================= -->
+    <section id="page-evidence" class="page-content hidden">
+        <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-3xl font-extrabold text-gray-900 mb-4">Evidence Locker</h2>
+
+            <!-- Tab Navigation -->
+            <div class="mb-6 border-b border-gray-300">
+                <nav class="flex -mb-px space-x-6 overflow-x-auto" aria-label="Tabs">
+                    <button onclick="showTab('tab-diagnostics')" class="tab-btn active whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
+                  Diagnostic Reports
+                </button>
+                    <button onclick="showTab('tab-bulletins')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                  Technical Bulletins
+                </button>
+                    <button onclick="showTab('tab-invoices')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                  Repair History
+                </button>
+                    <button onclick="showTab('tab-inspections')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                  Multi-Point Inspections
+                </button>
+                    <button onclick="showTab('tab-reports')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                  Reports
+                </button>
+                    <button onclick="showTab('tab-podcasts')" class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                  Podcasts
+                </button>
+                </nav>
+            </div>
+
+            <!-- Search/Filter for Evidence -->
+            <div class="mb-4 flex flex-wrap gap-4">
+                <input type="text" id="evidence-search" placeholder="Search evidence..." class="flex-1 min-w-64 px-4 py-2 border border-gray-300 rounded-md bg-white" />
+                <select id="evidence-filter-dealer" class="px-4 py-2 border border-gray-300 rounded-md bg-white">
+                <option value="all">All Dealers</option>
+              </select>
+            </div>
+        </div>
+
+        <!-- Tab Content: Diagnostic Reports -->
+        <div id="tab-diagnostics" class="tab-content space-y-6">
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-red-600">
+                <h3 class="text-xl font-bold text-red-800 mb-2">
+                    August 27, 2025: Autel MaxiSys Elite Scan
+                </h3>
+                <p class="text-sm text-gray-500 mb-4">(Odometer: 28,812 miles)</p>
+                <p class="text-lg font-semibold text-gray-900 mb-3">
+                    Total Faults Found: 33 DTCs across 18 Modules
+                </p>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                    <li>
+                        <strong class="font-semibold text-red-700">Gateway Module 'A' (GWM):</strong> Permanent "Component internal fault" (B1412-96). This is the central communication hub for the vehicle's electronics.
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Powertrain Control Module (PCM):</strong> "History" codes for coolant pump failure: P2B61-73 (Engine coolant flow control valve stuck closed) and P26CB-72 (Variable coolant pump performance/stuck off).
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Communication Errors:</strong> Widespread communication bus errors (U0001-81, U0046-81), consistent with a failing GWM.
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Passenger Front Seat Module (PSM):</strong> Permanent "Control module improper shutdown (voltage related)" fault (U3001-46), corroborating battery issues.
+                    </li>
+                </ul>
+            </div>
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-red-600">
+                <h3 class="text-xl font-bold text-red-800 mb-2">October 18, 2025: Mode 6 Report</h3>
+                <p class="text-lg font-semibold text-gray-900 mb-3">VVT Monitor Failure</p>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                    <li>
+                        <strong class="font-semibold text-red-700">Test Status: Complete and Fail</strong>
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Test ID:</strong> VVT Monitor Bank 1 (MID: 35, TID: 80)
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Value:</strong> -58.95° (Acceptable Max: -58.89°)
+                    </li>
+                    <li>
+                        <strong class="font-semibold">Conclusion:</strong> This failure aligns with known VCT solenoid issues detailed in Jaguar Service Action H299.
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Tab Content: Technical Bulletins -->
+        <div id="tab-bulletins" class="tab-content hidden space-y-6">
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
+                <h3 class="text-xl font-bold text-yellow-800 mb-2">Coolant System Faults</h3>
+                <p class="font-semibold text-gray-800 mb-2">
+                    Bulletins: JLRTB02030NAS1 & Service Action H291
+                </p>
+                <p class="text-gray-700">
+                    Addresses a fault with the variable coolant pump causing the engine fan to run constantly. The associated DTCs (<strong class="font-mono">P2B61-73</strong> and
+                    <strong class="font-mono">P26CB-72</strong>) were both found in the vehicle's August 2025 diagnostic scan.
+                </p>
+            </div>
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
+                <h3 class="text-xl font-bold text-yellow-800 mb-2">
+                    Variable Camshaft Timing (VCT) Solenoids
+                </h3>
+                <p class="font-semibold text-gray-800 mb-2">
+                    Bulletins: JLRTB02023NAS1/2 & Service Action H299
+                </p>
+                <p class="text-gray-700">
+                    Addresses insufficient wear resistance of the VCT solenoid bush, leading to an illuminated Malfunction Indicator Lamp (MIL). This directly corresponds to the
+                    <strong class="font-semibold">VVT Monitor Bank 1 failure</strong> found in the October 2025 Mode 6 report.
+                </p>
+            </div>
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 border-l-4 border-yellow-500">
+                <h3 class="text-xl font-bold text-yellow-800 mb-2">Electrical / Battery Issues</h3>
+                <p class="font-semibold text-gray-800 mb-2">Bulletins: SSM 74570 & SSM 74763</p>
+                <p class="text-gray-700">
+                    <strong class="font-mono">SSM 74570</strong> addresses a known battery drain issue caused by the InControl touch head unit.
+                    <strong class="font-mono">SSM 74763</strong> addresses a non-functional InControl Remote App due to a Telematics Control Unit (TCU) error. Both align with the consumer's initial service complaints.
+                </p>
+            </div>
+        </div>
+
+        <!-- Tab Content: Repair History -->
+        <div id="tab-invoices" class="tab-content hidden space-y-6">
+            <div id="invoices-container">
+                <div class="spinner"></div>
+            </div>
+        </div>
+
+        <!-- Tab Content: Multi-Point Inspections -->
+        <div id="tab-inspections" class="tab-content hidden space-y-6">
+            <div id="inspections-container">
+                <div class="spinner"></div>
+            </div>
+        </div>
+
+        <!-- Tab Content: Reports -->
+        <div id="tab-reports" class="tab-content hidden space-y-6">
+            <div id="reports-container">
+                <div class="spinner"></div>
+            </div>
+        </div>
+
+        <!-- Tab Content: Podcasts -->
+        <div id="tab-podcasts" class="tab-content hidden space-y-6">
+            <div id="podcasts-container">
+                <div class="spinner"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================= -->
+    <!-- Page 4: The Legal Case                        -->
+    <!-- ============================================= -->
+    <section id="page-legal" class="page-content hidden">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Left Column: Legal Framework -->
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-4">Legal Framework</h3>
+
+                <h4 class="text-lg font-semibold text-gray-800">CA Song-Beverly Act ("Lemon Law")</h4>
+                <p class="text-gray-600 mb-4">
+                    Provides repurchase remedies for "new motor vehicles." A recent CA Supreme Court case (*Rodriguez v. FCA US, LLC*) affirmed this does not include used vehicles with a transferred warranty.
+                </p>
+
+                <h4 class="text-lg font-semibold text-gray-800">Magnuson-Moss Warranty Act (MMWA)</h4>
+                <p class="text-gray-600">
+                    A federal law protecting consumers with a "written warranty." It is not limited to new goods and applies to this vehicle's transferred warranty. It provides remedies if a warrantor fails to repair defects in a reasonable time.
+                </p>
+            </div>
+
+            <!-- Right Column: The Precedent -->
+            <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-4">The *Rodriguez v. FCA* Precedent</h3>
+                <p class="text-gray-600 mb-4">
+                    This ruling was the sole basis for the arbitrator's dismissal of the *Song-Beverly* claim.
+                </p>
+                <p class="p-4 bg-gray-50 border-l-4 border-gray-400 text-gray-700 rounded-md">
+                    <strong>The Ruling:</strong> The court established that a used car sold by a third party with a *remaining* warranty is not a "new motor vehicle" under the Song-Beverly Act's specific definition.
+                </p>
+            </div>
+        </div>
+
+        <!-- The Central Conflict -->
+        <div class="bg-white bg-opacity-95 rounded-lg shadow-xl p-6 md:p-8 mt-8">
+            <h3 class="text-2xl font-extrabold text-red-800 mb-6 text-center">
+                The Jurisdictional Failure
+            </h3>
+            <p class="text-lg text-center text-gray-600 mb-8">
+                The core of the dispute lies in the direct contradiction between the manufacturer's mandate and the arbitrator's refusal to act.
+            </p>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                <!-- JLRNA's Mandate -->
+                <div class="border border-gray-300 rounded-lg p-5">
+                    <h4 class="text-lg font-semibold text-gray-900 mb-3">
+                        1. JLRNA's Mandate (Jan 31, 2025)
+                    </h4>
+                    <p class="text-gray-700">
+                        In its denial letter, JLRNA required the consumer to use BBB AUTO LINE arbitration for all claims:
+                    </p>
+                    <blockquote class="mt-3 p-4 bg-blue-50 border-l-4 border-blue-500 text-blue-900 rounded-md italic">
+                        "...before exercising rights or seeking remedies created by
+                        <strong class="font-semibold">Title I of the Magnuson-Moss Warranty Act</strong>."
+                    </blockquote>
+                </div>
+
+                <!-- BBB's Refusal -->
+                <div class="border border-red-400 bg-red-50 rounded-lg p-5">
+                    <h4 class="text-lg font-semibold text-red-900 mb-3">
+                        2. The Arbitrator's Refusal (Mar 24, 2025)
+                    </h4>
+                    <p class="text-red-800">
+                        The arbitrator dismissed the case and explicitly declined jurisdiction over the federal claim:
+                    </p>
+                    <blockquote class="mt-3 p-4 bg-red-100 border-l-4 border-red-500 text-red-900 rounded-md italic">
+                        "There may be other bases... such as perhaps the federal Magnuson-Moss Warranty Act, however, consideration of those other options is
+                        <strong class="font-semibold">not within the purview</strong> of the California Lemon Law nor the Auto Line Program."
+                    </blockquote>
+                </div>
+            </div>
+
+            <div class="mt-8 text-center">
+                <h4 class="text-xl font-bold text-gray-900">Conclusion of the Dispute</h4>
+                <p class="text-lg text-gray-700 max-w-3xl mx-auto mt-2">
+                    This refusal created a "catch-22," leaving the consumer with no path to the arbitration mandated by the manufacturer for their federal warranty claims. This failure to exercise jurisdiction is the subject of ongoing complaints with state regulatory bodies.
+                </p>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 bg-opacity-95 text-gray-400 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm">
+            <p>
+                This is a case file summary based on provided documents. All information is presented for analysis.
+            </p>
+            <p>Vehicle: 2020 Jaguar F-TYPE | VIN: SAJDD1GX4LCK67497</p>
+        </div>
+    </footer>
     </div>
 
     <script>
@@ -657,7 +728,7 @@
             reports: [],
             podcasts: [],
             timelineItems: [],
-            searchQuery: ''
+            searchQuery: '',
         };
 
         // Store references to pages and buttons
@@ -698,7 +769,7 @@
          */
         function showPage(pageId) {
             // Hide all pages
-            pages.forEach(page => {
+            pages.forEach((page) => {
                 page.classList.add('hidden');
             });
 
@@ -709,7 +780,7 @@
             }
 
             // Update nav button active state
-            navButtons.forEach(btn => {
+            navButtons.forEach((btn) => {
                 if (btn.getAttribute('onclick').includes(`'${pageId}'`)) {
                     btn.classList.add('active');
                 } else {
@@ -743,7 +814,7 @@
          */
         function showTab(tabId) {
             // Hide all tab contents
-            tabContents.forEach(tab => {
+            tabContents.forEach((tab) => {
                 tab.classList.add('hidden');
             });
 
@@ -754,7 +825,7 @@
             }
 
             // Update tab button active state
-            tabButtons.forEach(btn => {
+            tabButtons.forEach((btn) => {
                 if (btn.getAttribute('onclick').includes(`'${tabId}'`)) {
                     btn.classList.add('active');
                     btn.classList.remove('text-gray-500', 'hover:text-gray-700', 'hover:border-gray-300');
@@ -835,18 +906,18 @@
             // Try formats like "30SEP24" or "04NOV25" (DDMMMYY)
             if (dateStr.match(/^\d{2}[A-Z]{3}\d{2}$/)) {
                 const months = {
-                    'JAN': 0,
-                    'FEB': 1,
-                    'MAR': 2,
-                    'APR': 3,
-                    'MAY': 4,
-                    'JUN': 5,
-                    'JUL': 6,
-                    'AUG': 7,
-                    'SEP': 8,
-                    'OCT': 9,
-                    'NOV': 10,
-                    'DEC': 11
+                    JAN: 0,
+                    FEB: 1,
+                    MAR: 2,
+                    APR: 3,
+                    MAY: 4,
+                    JUN: 5,
+                    JUL: 6,
+                    AUG: 7,
+                    SEP: 8,
+                    OCT: 9,
+                    NOV: 10,
+                    DEC: 11,
                 };
                 const day = parseInt(dateStr.substring(0, 2));
                 const monthStr = dateStr.substring(2, 5);
@@ -878,7 +949,7 @@
             return date.toLocaleDateString('en-US', {
                 year: 'numeric',
                 month: 'short',
-                day: 'numeric'
+                day: 'numeric',
             });
         }
 
@@ -895,7 +966,7 @@
                 'Invoices/908960.json',
                 'Invoices/BEACH CITIES ROVER.json',
                 'Invoices/Invoice (Workorder) 102820.json',
-                'Invoices/West Adams Radiator Estimate.json'
+                'Invoices/West Adams Radiator Estimate.json',
             ];
 
             try {
@@ -907,7 +978,7 @@
                             const data = await response.json();
                             invoices.push({
                                 ...data,
-                                sourceFile: file
+                                sourceFile: file,
                             });
                         }
                     } catch (error) {
@@ -935,39 +1006,53 @@
             // Apply search filter
             if (appData.searchQuery) {
                 const query = appData.searchQuery.toLowerCase();
-                invoices = invoices.filter(inv => {
+                invoices = invoices.filter((inv) => {
                     const searchText = JSON.stringify(inv).toLowerCase();
                     return searchText.includes(query);
                 });
             }
-
             // Apply dealer filter
             const dealerFilter = document.getElementById('evidence-filter-dealer') ? .value;
             if (dealerFilter && dealerFilter !== 'all') {
-                invoices = invoices.filter(inv => {
+                invoices = invoices.filter((inv) => {
                     const dealer = inv.dealer_information ? .name || inv.vendor_name || '';
                     return dealer.toLowerCase().includes(dealerFilter.toLowerCase());
                 });
             }
 
             if (invoices.length === 0) {
-                container.innerHTML = '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No invoices found matching your criteria.</div>';
+                container.innerHTML =
+                    '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No invoices found matching your criteria.</div>';
                 return;
             }
 
             // Sort by date
             invoices.sort((a, b) => {
-                const dateA = parseDate(a['Invoice Date'] || a.dates ? .in || a.work_order_dates ? .ro_opened_date || a.service_details ? .ro_opened_date || a.service_details ? .invoice_date);
-                const dateB = parseDate(b['Invoice Date'] || b.dates ? .in || b.work_order_dates ? .ro_opened_date || b.service_details ? .ro_opened_date || b.service_details ? .invoice_date);
+                const dateA = parseDate(
+                    a['Invoice Date'] ||
+                    a.dates ? .in ||
+                    a.work_order_dates ? .ro_opened_date ||
+                    a.service_details ? .ro_opened_date ||
+                    a.service_details ? .invoice_date
+                );
+                const dateB = parseDate(
+                    b['Invoice Date'] ||
+                    b.dates ? .in ||
+                    b.work_order_dates ? .ro_opened_date ||
+                    b.service_details ? .ro_opened_date ||
+                    b.service_details ? .invoice_date
+                );
                 if (!dateA && !dateB) return 0;
                 if (!dateA) return 1;
                 if (!dateB) return -1;
                 return dateB - dateA; // Newest first
             });
 
-            container.innerHTML = invoices.map((invoice, index) => {
+            container.innerHTML = invoices
+                .map((invoice, index) => {
                         // Extract invoice date from various formats
-                        const invoiceDate = invoice['Invoice Date'] ||
+                        const invoiceDate =
+                            invoice['Invoice Date'] ||
                             invoice.dates ? .in ||
                             invoice.work_order_dates ? .ro_opened_date ||
                             invoice.service_details ? .ro_opened_date ||
@@ -975,7 +1060,8 @@
                             invoice.document_date;
 
                         // Extract invoice number from various formats
-                        const invoiceNumber = invoice['Invoice #'] ||
+                        const invoiceNumber =
+                            invoice['Invoice #'] ||
                             invoice['Repair Order #'] ||
                             invoice.invoice_number ||
                             invoice.work_order_number ||
@@ -983,12 +1069,12 @@
                             'N/A';
 
                         // Extract dealer/vendor name
-                        const dealer = invoice.dealer_information ? .name ||
-                            invoice.vendor_name ||
-                            'Unknown Dealer';
+                        const dealer =
+                            invoice.dealer_information ? .name || invoice.vendor_name || 'Unknown Dealer';
 
                         // Extract total amount from various formats
-                        const total = invoice['Total Amount Due'] ||
+                        const total =
+                            invoice['Total Amount Due'] ||
                             invoice.summary ? .total_amount ||
                             invoice.totals ? .total_amount ||
                             invoice.summary_and_totals ? .please_pay_this_amount ||
@@ -997,82 +1083,179 @@
                             0;
 
                         // Extract mileage from various formats
-                        const mileage = invoice['Mileage In'] ||
+                        const mileage =
+                            invoice['Mileage In'] ||
                             invoice.vehicle_details ? .mileage_in ||
                             invoice.vehicle_information ? .mileage_in ||
                             invoice.vehicle_details ? .mileage ||
                             'N/A';
 
                         // Extract line items from various formats
-                        const lineItems = invoice['Line Items'] ||
-                            invoice.service_details ||
-                            invoice.line_items || [];
+                        const lineItems =
+                            invoice['Line Items'] || invoice.service_details || invoice.line_items || [];
                         const repairItems = invoice.repair_items || [];
 
                         return `
                     <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 card-hover">
                         <div class="flex justify-between items-start mb-4">
                             <div>
-                                <h3 class="text-lg font-semibold text-gray-900">${formatDate(invoiceDate)} - Invoice #${invoiceNumber}</h3>
+                                <h3 class="text-lg font-semibold text-gray-900">${formatDate(
+                                  invoiceDate
+                                )} - Invoice #${invoiceNumber}</h3>
                                 <p class="text-sm text-gray-600">${dealer}</p>
                                 <p class="text-sm text-gray-500">Mileage: ${mileage}</p>
                             </div>
-                            ${total > 0 ? `<div class="text-right"><span class="text-lg font-bold text-green-700">$${parseFloat(total).toFixed(2)}</span></div>` : ''}
+                            ${
+                              total > 0
+                                ? `<div class="text-right"><span class="text-lg font-bold text-green-700">$${parseFloat(
+                                    total
+                                  ).toFixed(2)}</span></div>`
+                                : ''
+                            }
                         </div>
                         
                         <div class="expandable-content" id="invoice-${index}">
                             <div class="mt-4 space-y-3">
-                                ${lineItems.map((item, idx) => {
-                    const description = item.Description || item.description || item.item || 'Service Item';
-                    const laborDesc = item['Labor Description'] || item.tech_report || item.labor_description || '';
-                    const parts = item.Items || item.line_items || item.items || [];
-                    const partsTotal = item.Parts || item.parts_amount || item.parts || 0;
-                    const laborTotal = item.Labor || item.labor_amount || item.labor || 0;
-                    const itemTotal = item.Total || item.total || item.total_line_amount || 0;
+                                ${lineItems
+                                  .map((item, idx) => {
+                                    const description =
+                                      item.Description ||
+                                      item.description ||
+                                      item.item ||
+                                      'Service Item';
+                                    const laborDesc =
+                                      item['Labor Description'] ||
+                                      item.tech_report ||
+                                      item.labor_description ||
+                                      '';
+                                    const parts = item.Items || item.line_items || item.items || [];
+                                    const partsTotal =
+                                      item.Parts || item.parts_amount || item.parts || 0;
+                                    const laborTotal =
+                                      item.Labor || item.labor_amount || item.labor || 0;
+                                    const itemTotal =
+                                      item.Total || item.total || item.total_line_amount || 0;
 
-                    return `
+                                    return `
                                     <div class="border-l-4 border-blue-500 pl-4 py-2 bg-blue-50 rounded">
                                         <p class="font-semibold text-gray-900">${description}</p>
-                                        ${laborDesc ? `<p class="text-sm text-gray-700 mt-1">${laborDesc}</p>` : ''}
-                                        ${parts.length > 0 ? `
+                                        ${
+                                          laborDesc
+                                            ? `<p class="text-sm text-gray-700 mt-1">${laborDesc}</p>`
+                                            : ''
+                                        }
+                                        ${
+                                          parts.length > 0
+                                            ? `
                                             <div class="mt-2 text-sm">
                                                 <strong>Parts:</strong>
                                                 <ul class="list-disc list-inside ml-4">
-                                                    ${parts.map(part => {
-                        const partDesc = part.Description || part.description || part.item || '';
-                        const partQty = part.Quantity || part.quantity || part.qty || 1;
-                        const partPrice = part['Unit Price'] || part.unit_price || part.price || 0;
-                        const partTotal = part['Total Price'] || part.total_price || part.amount || (partPrice * partQty);
-                        return `<li>${partDesc}${partQty > 1 ? ` - ${partQty}x` : ''}${partTotal > 0 ? ` - $${parseFloat(partTotal).toFixed(2)}` : ''}</li>`;
-                    }).join('')}
+                                                    ${parts
+                                                      .map((part) => {
+                                                        const partDesc =
+                                                          part.Description ||
+                                                          part.description ||
+                                                          part.item ||
+                                                          '';
+                                                        const partQty =
+                                                          part.Quantity ||
+                                                          part.quantity ||
+                                                          part.qty ||
+                                                          1;
+                                                        const partPrice =
+                                                          part['Unit Price'] ||
+                                                          part.unit_price ||
+                                                          part.price ||
+                                                          0;
+                                                        const partTotal =
+                                                          part['Total Price'] ||
+                                                          part.total_price ||
+                                                          part.amount ||
+                                                          partPrice * partQty;
+                                                        return `<li>${partDesc}${
+                                                          partQty > 1 ? ` - ${partQty}x` : ''
+                                                        }${
+                                                          partTotal > 0
+                                                            ? ` - $${parseFloat(partTotal).toFixed(
+                                                                2
+                                                              )}`
+                                                            : ''
+                                                        }</li>`;
+                                                      })
+                                                      .join('')}
                                                 </ul>
                                             </div>
-                                        ` : ''}
-                                        ${(partsTotal > 0 || laborTotal > 0 || itemTotal > 0) ? `
+                                        `
+                                            : ''
+                                        }
+                                        ${
+                                          partsTotal > 0 || laborTotal > 0 || itemTotal > 0
+                                            ? `
                                             <div class="mt-2 text-xs text-gray-600">
-                                                ${partsTotal > 0 ? `<span>Parts: $${parseFloat(partsTotal).toFixed(2)}</span>` : ''}
-                                                ${laborTotal > 0 ? `<span class="ml-3">Labor: $${parseFloat(laborTotal).toFixed(2)}</span>` : ''}
-                                                ${itemTotal > 0 ? `<span class="ml-3 font-semibold">Total: $${parseFloat(itemTotal).toFixed(2)}</span>` : ''}
+                                                ${
+                                                  partsTotal > 0
+                                                    ? `<span>Parts: $${parseFloat(
+                                                        partsTotal
+                                                      ).toFixed(2)}</span>`
+                                                    : ''
+                                                }
+                                                ${
+                                                  laborTotal > 0
+                                                    ? `<span class="ml-3">Labor: $${parseFloat(
+                                                        laborTotal
+                                                      ).toFixed(2)}</span>`
+                                                    : ''
+                                                }
+                                                ${
+                                                  itemTotal > 0
+                                                    ? `<span class="ml-3 font-semibold">Total: $${parseFloat(
+                                                        itemTotal
+                                                      ).toFixed(2)}</span>`
+                                                    : ''
+                                                }
                                             </div>
-                                        ` : ''}
+                                        `
+                                            : ''
+                                        }
                                     </div>
                                 `;
-                }).join('')}
+                                  })
+                                  .join('')}
                                 
-                                ${repairItems.map((item, idx) => `
+                                ${repairItems
+                                  .map(
+                                    (item, idx) => `
                                     <div class="border-l-4 border-yellow-500 pl-4 py-2 bg-yellow-50 rounded">
-                                        <p class="font-semibold text-gray-900">${item.description || 'Repair Item'}</p>
+                                        <p class="font-semibold text-gray-900">${
+                                          item.description || 'Repair Item'
+                                        }</p>
                                     </div>
-                                `).join('')}
+                                `
+                                  )
+                                  .join('')}
                                 
-                                ${invoice.recommended_repairs ? `
+                                ${
+                                  invoice.recommended_repairs
+                                    ? `
                                     <div class="mt-4 p-4 bg-orange-50 border-l-4 border-orange-500 rounded">
                                         <h4 class="font-semibold text-orange-900 mb-2">Recommended Repairs (Not Performed)</h4>
-                                        ${invoice.recommended_repairs.map(rec => `
-                                            <p class="text-sm text-orange-800">${rec.description || rec.Description} - Estimated: $${(rec.estimated_cost || rec['Estimated Cost'] || 0).toFixed(2)}</p>
-                                        `).join('')}
+                                        ${invoice.recommended_repairs
+                                          .map(
+                                            (rec) => `
+                                            <p class="text-sm text-orange-800">${
+                                              rec.description || rec.Description
+                                            } - Estimated: $${(
+                                              rec.estimated_cost ||
+                                              rec['Estimated Cost'] ||
+                                              0
+                                            ).toFixed(2)}</p>
+                                        `
+                                          )
+                                          .join('')}
                                     </div>
-                                ` : ''}
+                                `
+                                    : ''
+                                }
                             </div>
                         </div>
                         
@@ -1081,133 +1264,183 @@
                         </button>
                     </div>
                 `;
-            }).join('');
-        }
+          })
+          .join('');
+      }
 
-        /**
-         * Load inspections from JSON files
-         */
-        async function loadInspections() {
-            const inspectionFiles = [
-                'Multi-Point Inspections/Inspection Aug 21, 2025.json',
-                'Multi-Point Inspections/inspection Nov 18, 2024.json',
-                'Multi-Point Inspections/Inspection Oct 07, 2024.json',
-                'Multi-Point Inspections/inspection Oct 26, 2025.json'
-            ];
+      /**
+       * Load inspections from JSON files
+       */
+      async function loadInspections() {
+        const inspectionFiles = [
+          'Multi-Point Inspections/Inspection Aug 21, 2025.json',
+          'Multi-Point Inspections/inspection Nov 18, 2024.json',
+          'Multi-Point Inspections/Inspection Oct 07, 2024.json',
+          'Multi-Point Inspections/inspection Oct 26, 2025.json',
+        ];
 
+        try {
+          const inspections = [];
+          for (const file of inspectionFiles) {
             try {
-                const inspections = [];
-                for (const file of inspectionFiles) {
-                    try {
-                        const response = await fetch(file);
-                        if (response.ok) {
-                            const data = await response.json();
-                            inspections.push({ ...data, sourceFile: file });
-                        }
-                    } catch (error) {
-                        console.warn(`Failed to load ${file}:`, error);
-                    }
-                }
-                appData.inspections = inspections;
-                renderInspections();
+              const response = await fetch(file);
+              if (response.ok) {
+                const data = await response.json();
+                inspections.push({ ...data, sourceFile: file });
+              }
             } catch (error) {
-                console.error('Error loading inspections:', error);
-                document.getElementById('inspections-container').innerHTML =
-                    '<div class="bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">Error loading inspections. Please check console for details.</div>';
+              console.warn(`Failed to load ${file}:`, error);
             }
+          }
+          appData.inspections = inspections;
+          renderInspections();
+        } catch (error) {
+          console.error('Error loading inspections:', error);
+          document.getElementById('inspections-container').innerHTML =
+            '<div class="bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">Error loading inspections. Please check console for details.</div>';
+        }
+      }
+
+      /**
+       * Render inspections
+       */
+      function renderInspections() {
+        const container = document.getElementById('inspections-container');
+        if (!container) return;
+
+        let inspections = appData.inspections;
+
+        // Apply search filter
+        if (appData.searchQuery) {
+          const query = appData.searchQuery.toLowerCase();
+          inspections = inspections.filter((ins) => {
+            const searchText = JSON.stringify(ins).toLowerCase();
+            return searchText.includes(query);
+          });
         }
 
-        /**
-         * Render inspections
-         */
-        function renderInspections() {
-            const container = document.getElementById('inspections-container');
-            if (!container) return;
+        if (inspections.length === 0) {
+          container.innerHTML =
+            '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No inspections found matching your criteria.</div>';
+          return;
+        }
 
-            let inspections = appData.inspections;
+        // Sort by date
+        inspections.sort((a, b) => {
+          const dateA = parseDate(a.date || a.advisor?.date_time);
+          const dateB = parseDate(b.date || b.advisor?.date_time);
+          if (!dateA && !dateB) return 0;
+          if (!dateA) return 1;
+          if (!dateB) return -1;
+          return dateB - dateA; // Newest first
+        });
 
-            // Apply search filter
-            if (appData.searchQuery) {
-                const query = appData.searchQuery.toLowerCase();
-                inspections = inspections.filter(ins => {
-                    const searchText = JSON.stringify(ins).toLowerCase();
-                    return searchText.includes(query);
-                });
-            }
+        container.innerHTML = inspections
+          .map((inspection, index) => {
+            const date = inspection.date || inspection.advisor?.date_time || 'Unknown Date';
+            const vendor = inspection.vendor || inspection.vendor_name || 'Unknown Vendor';
+            const videoSummary = inspection.video_summary || {};
+            const findings = videoSummary.findings || [];
+            const recommendations = videoSummary.recommendations || [];
+            const measurements =
+              inspection.inspection_details?.measurements || inspection.measurements || {};
 
-            if (inspections.length === 0) {
-                container.innerHTML = '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No inspections found matching your criteria.</div>';
-                return;
-            }
-
-            // Sort by date
-            inspections.sort((a, b) => {
-                const dateA = parseDate(a.date || a.advisor?.date_time);
-                const dateB = parseDate(b.date || b.advisor?.date_time);
-                if (!dateA && !dateB) return 0;
-                if (!dateA) return 1;
-                if (!dateB) return -1;
-                return dateB - dateA; // Newest first
-            });
-
-            container.innerHTML = inspections.map((inspection, index) => {
-                const date = inspection.date || inspection.advisor?.date_time || 'Unknown Date';
-                const vendor = inspection.vendor || inspection.vendor_name || 'Unknown Vendor';
-                const videoSummary = inspection.video_summary || {};
-                const findings = videoSummary.findings || [];
-                const recommendations = videoSummary.recommendations || [];
-                const measurements = inspection.inspection_details?.measurements || inspection.measurements || {};
-
-                return `
+            return `
                     <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 card-hover">
                         <div class="flex justify-between items-start mb-4">
                             <div>
-                                <h3 class="text-lg font-semibold text-gray-900">${formatDate(date)}</h3>
+                                <h3 class="text-lg font-semibold text-gray-900">${formatDate(
+                                  date
+                                )}</h3>
                                 <p class="text-sm text-gray-600">${vendor}</p>
-                                ${inspection.overall_status ? `<p class="text-sm font-semibold text-orange-600 mt-1">Status: ${inspection.overall_status}</p>` : ''}
+                                ${
+                                  inspection.overall_status
+                                    ? `<p class="text-sm font-semibold text-orange-600 mt-1">Status: ${inspection.overall_status}</p>`
+                                    : ''
+                                }
                             </div>
                         </div>
                         
-                        ${findings.length > 0 ? `
+                        ${
+                          findings.length > 0
+                            ? `
                             <div class="mb-4">
                                 <h4 class="font-semibold text-gray-900 mb-2">Findings:</h4>
                                 <ul class="list-disc list-inside space-y-1 text-gray-700">
-                                    ${findings.map(f => `<li>${f}</li>`).join('')}
+                                    ${findings.map((f) => `<li>${f}</li>`).join('')}
                                 </ul>
                             </div>
-                        ` : ''}
+                        `
+                            : ''
+                        }
                         
-                        ${recommendations.length > 0 ? `
+                        ${
+                          recommendations.length > 0
+                            ? `
                             <div class="mb-4 p-3 bg-yellow-50 border-l-4 border-yellow-500 rounded">
                                 <h4 class="font-semibold text-yellow-900 mb-2">Recommendations:</h4>
                                 <ul class="list-disc list-inside space-y-1 text-yellow-800">
-                                    ${recommendations.map(r => `<li>${r}</li>`).join('')}
+                                    ${recommendations.map((r) => `<li>${r}</li>`).join('')}
                                 </ul>
                             </div>
-                        ` : ''}
+                        `
+                            : ''
+                        }
                         
                         <div class="expandable-content" id="inspection-${index}">
                             <div class="mt-4 space-y-3">
-                                ${inspection.concerns_and_estimates ? `
+                                ${
+                                  inspection.concerns_and_estimates
+                                    ? `
                                     <div class="p-4 bg-gray-50 rounded">
                                         <h4 class="font-semibold text-gray-900 mb-2">Concerns & Estimates</h4>
-                                        ${inspection.concerns_and_estimates.map(concern => `
+                                        ${inspection.concerns_and_estimates
+                                          .map(
+                                            (concern) => `
                                             <div class="mb-3 p-3 bg-white rounded border">
-                                                <p class="font-medium">${concern.concern || concern.description || 'N/A'}</p>
-                                                ${concern.status ? `<p class="text-sm text-gray-600">Status: ${concern.status}</p>` : ''}
-                                                ${concern.comments ? `<p class="text-sm text-gray-700 mt-1">${concern.comments}</p>` : ''}
-                                                ${concern.additional_repair_estimate_debit ? `<p class="text-sm font-semibold text-green-700 mt-1">Estimate: $${concern.additional_repair_estimate_debit.toFixed(2)}</p>` : ''}
+                                                <p class="font-medium">${
+                                                  concern.concern || concern.description || 'N/A'
+                                                }</p>
+                                                ${
+                                                  concern.status
+                                                    ? `<p class="text-sm text-gray-600">Status: ${concern.status}</p>`
+                                                    : ''
+                                                }
+                                                ${
+                                                  concern.comments
+                                                    ? `<p class="text-sm text-gray-700 mt-1">${concern.comments}</p>`
+                                                    : ''
+                                                }
+                                                ${
+                                                  concern.additional_repair_estimate_debit
+                                                    ? `<p class="text-sm font-semibold text-green-700 mt-1">Estimate: $${concern.additional_repair_estimate_debit.toFixed(
+                                                        2
+                                                      )}</p>`
+                                                    : ''
+                                                }
                                             </div>
-                                        `).join('')}
+                                        `
+                                          )
+                                          .join('')}
                                     </div>
-                                ` : ''}
+                                `
+                                    : ''
+                                }
                                 
-                                ${Object.keys(measurements).length > 0 ? `
+                                ${
+                                  Object.keys(measurements).length > 0
+                                    ? `
                                     <div class="p-4 bg-blue-50 rounded">
                                         <h4 class="font-semibold text-blue-900 mb-2">Measurements</h4>
-                                        <pre class="text-sm text-blue-800">${JSON.stringify(measurements, null, 2)}</pre>
+                                        <pre class="text-sm text-blue-800">${JSON.stringify(
+                                          measurements,
+                                          null,
+                                          2
+                                        )}</pre>
                                     </div>
-                                ` : ''}
+                                `
+                                    : ''
+                                }
                             </div>
                         </div>
                         
@@ -1216,73 +1449,79 @@
                         </button>
                     </div>
                 `;
-            }).join('');
-        }
+          })
+          .join('');
+      }
 
-        /**
-         * Load reports from markdown files
-         */
-        async function loadReports() {
-            const reportFiles = [
-                'Reports/Briefing Document- Analysis of the 2020 Jaguar F-TYPE Warranty and Arbitration Dispute.md',
-                'Reports/Report on Service Failures and Negligence Regarding 2020 Jaguar F-Type, VIN- SAJDD1GX4LCK67497.md',
-                'Reports/Updated File- Vehicle Service History Analysis- 2020 Jaguar F-Type.md',
-                'Reports/Vehicle Service History Analysis- 2020 Jaguar F-Type.md',
-                'Reports/Vehicle-and-Report-Summary.md'
-            ];
+      /**
+       * Load reports from markdown files
+       */
+      async function loadReports() {
+        const reportFiles = [
+          'Reports/Briefing Document- Analysis of the 2020 Jaguar F-TYPE Warranty and Arbitration Dispute.md',
+          'Reports/Report on Service Failures and Negligence Regarding 2020 Jaguar F-Type, VIN- SAJDD1GX4LCK67497.md',
+          'Reports/Updated File- Vehicle Service History Analysis- 2020 Jaguar F-Type.md',
+          'Reports/Vehicle Service History Analysis- 2020 Jaguar F-Type.md',
+          'Reports/Vehicle-and-Report-Summary.md',
+        ];
 
+        try {
+          const reports = [];
+          for (const file of reportFiles) {
             try {
-                const reports = [];
-                for (const file of reportFiles) {
-                    try {
-                        const response = await fetch(file);
-                        if (response.ok) {
-                            const text = await response.text();
-                            const title = file.split('/').pop().replace('.md', '');
-                            reports.push({ title, content: text, sourceFile: file });
-                        }
-                    } catch (error) {
-                        console.warn(`Failed to load ${file}:`, error);
-                    }
-                }
-                appData.reports = reports;
-                renderReports();
+              const response = await fetch(file);
+              if (response.ok) {
+                const text = await response.text();
+                const title = file.split('/').pop().replace('.md', '');
+                reports.push({ title, content: text, sourceFile: file });
+              }
             } catch (error) {
-                console.error('Error loading reports:', error);
-                document.getElementById('reports-container').innerHTML =
-                    '<div class="bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">Error loading reports. Please check console for details.</div>';
+              console.warn(`Failed to load ${file}:`, error);
             }
+          }
+          appData.reports = reports;
+          renderReports();
+        } catch (error) {
+          console.error('Error loading reports:', error);
+          document.getElementById('reports-container').innerHTML =
+            '<div class="bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">Error loading reports. Please check console for details.</div>';
+        }
+      }
+
+      /**
+       * Render reports
+       */
+      function renderReports() {
+        const container = document.getElementById('reports-container');
+        if (!container) return;
+
+        let reports = appData.reports;
+
+        // Apply search filter
+        if (appData.searchQuery) {
+          const query = appData.searchQuery.toLowerCase();
+          reports = reports.filter((rep) => {
+            return (
+              rep.title.toLowerCase().includes(query) || rep.content.toLowerCase().includes(query)
+            );
+          });
         }
 
-        /**
-         * Render reports
-         */
-        function renderReports() {
-            const container = document.getElementById('reports-container');
-            if (!container) return;
+        if (reports.length === 0) {
+          container.innerHTML =
+            '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No reports found matching your criteria.</div>';
+          return;
+        }
 
-            let reports = appData.reports;
+        container.innerHTML = reports
+          .map((report, index) => {
+            // Get preview (first 500 characters)
+            const preview =
+              report.content.substring(0, 500) + (report.content.length > 500 ? '...' : '');
+            const previewHtml = marked.parse(preview);
+            const fullHtml = marked.parse(report.content);
 
-            // Apply search filter
-            if (appData.searchQuery) {
-                const query = appData.searchQuery.toLowerCase();
-                reports = reports.filter(rep => {
-                    return rep.title.toLowerCase().includes(query) || rep.content.toLowerCase().includes(query);
-                });
-            }
-
-            if (reports.length === 0) {
-                container.innerHTML = '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No reports found matching your criteria.</div>';
-                return;
-            }
-
-            container.innerHTML = reports.map((report, index) => {
-                // Get preview (first 500 characters)
-                const preview = report.content.substring(0, 500) + (report.content.length > 500 ? '...' : '');
-                const previewHtml = marked.parse(preview);
-                const fullHtml = marked.parse(report.content);
-
-                return `
+            return `
                     <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 card-hover">
                         <h3 class="text-xl font-bold text-gray-900 mb-4">${report.title}</h3>
                         
@@ -1299,65 +1538,79 @@
                         </button>
                     </div>
                 `;
-            }).join('');
+          })
+          .join('');
+      }
+
+      /**
+       * Toggle report preview visibility
+       */
+      function toggleReportPreview(index) {
+        const preview = document.getElementById(`report-${index}-preview`);
+        const toggle = document.getElementById(`report-${index}-toggle`);
+        if (preview && toggle) {
+          const isExpanded = preview.classList.contains('hidden');
+          if (isExpanded) {
+            preview.classList.remove('hidden');
+            toggle.textContent = 'Read Full Report';
+          } else {
+            preview.classList.add('hidden');
+            toggle.textContent = 'Show Preview';
+          }
+        }
+      }
+
+      /**
+       * Load podcasts
+       */
+      async function loadPodcasts() {
+        const podcastFiles = [
+          {
+            file: 'Podcast/Beyond_the_Dipstick__Uncovering_the_Hidden_Genius_of_High-Performance_Cars.m4a',
+            title: 'Beyond the Dipstick: Uncovering the Hidden Genius of High-Performance Cars',
+          },
+          {
+            file: 'Podcast/JLR_s_Secret_Headaches__Inside_the_Stop_Sales,_Cooling_Fan_Chao.m4a',
+            title: "JLR's Secret Headaches: Inside the Stop Sales, Cooling Fan Chaos",
+          },
+          {
+            file: 'Podcast/The_Known_Flaws__How_One_Jaguar_F-Type_Suffered_a_Cascade_of_Do.m4a',
+            title: 'The Known Flaws: How One Jaguar F-Type Suffered a Cascade of Do',
+          },
+        ];
+
+        appData.podcasts = podcastFiles;
+        renderPodcasts();
+      }
+
+      /**
+       * Render podcasts
+       */
+      function renderPodcasts() {
+        const container = document.getElementById('podcasts-container');
+        if (!container) return;
+
+        let podcasts = appData.podcasts;
+
+        // Apply search filter
+        if (appData.searchQuery) {
+          const query = appData.searchQuery.toLowerCase();
+          podcasts = podcasts.filter((pod) => {
+            return (
+              pod.title.toLowerCase().includes(query) || pod.file.toLowerCase().includes(query)
+            );
+          });
         }
 
-        /**
-         * Toggle report preview visibility
-         */
-        function toggleReportPreview(index) {
-            const preview = document.getElementById(`report-${index}-preview`);
-            const toggle = document.getElementById(`report-${index}-toggle`);
-            if (preview && toggle) {
-                const isExpanded = preview.classList.contains('hidden');
-                if (isExpanded) {
-                    preview.classList.remove('hidden');
-                    toggle.textContent = 'Read Full Report';
-                } else {
-                    preview.classList.add('hidden');
-                    toggle.textContent = 'Show Preview';
-                }
-            }
+        if (podcasts.length === 0) {
+          container.innerHTML =
+            '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No podcasts found matching your criteria.</div>';
+          return;
         }
 
-        /**
-         * Load podcasts
-         */
-        async function loadPodcasts() {
-            const podcastFiles = [
-                { file: 'Podcast/Beyond_the_Dipstick__Uncovering_the_Hidden_Genius_of_High-Performance_Cars.m4a', title: 'Beyond the Dipstick: Uncovering the Hidden Genius of High-Performance Cars' },
-                { file: 'Podcast/JLR_s_Secret_Headaches__Inside_the_Stop_Sales,_Cooling_Fan_Chao.m4a', title: "JLR's Secret Headaches: Inside the Stop Sales, Cooling Fan Chaos" },
-                { file: 'Podcast/The_Known_Flaws__How_One_Jaguar_F-Type_Suffered_a_Cascade_of_Do.m4a', title: 'The Known Flaws: How One Jaguar F-Type Suffered a Cascade of Do' }
-            ];
-
-            appData.podcasts = podcastFiles;
-            renderPodcasts();
-        }
-
-        /**
-         * Render podcasts
-         */
-        function renderPodcasts() {
-            const container = document.getElementById('podcasts-container');
-            if (!container) return;
-
-            let podcasts = appData.podcasts;
-
-            // Apply search filter
-            if (appData.searchQuery) {
-                const query = appData.searchQuery.toLowerCase();
-                podcasts = podcasts.filter(pod => {
-                    return pod.title.toLowerCase().includes(query) || pod.file.toLowerCase().includes(query);
-                });
-            }
-
-            if (podcasts.length === 0) {
-                container.innerHTML = '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No podcasts found matching your criteria.</div>';
-                return;
-            }
-
-            container.innerHTML = podcasts.map((podcast, index) => {
-                return `
+        container.innerHTML = podcasts
+          .map((podcast, index) => {
+            return `
                     <div class="bg-white bg-opacity-95 rounded-lg shadow-md p-6 card-hover">
                         <h3 class="text-xl font-bold text-gray-900 mb-4">${podcast.title}</h3>
                         <div class="audio-player">
@@ -1368,368 +1621,429 @@
                         </div>
                     </div>
                 `;
-            }).join('');
+          })
+          .join('');
+      }
+
+      /**
+       * Load timeline data from all sources
+       */
+      async function loadTimelineData() {
+        const container = document.getElementById('timeline-container');
+        if (!container) return;
+
+        // Ensure we have invoices and inspections loaded
+        if (appData.invoices.length === 0) {
+          await loadInvoices();
+        }
+        if (appData.inspections.length === 0) {
+          await loadInspections();
         }
 
-        /**
-         * Load timeline data from all sources
-         */
-        async function loadTimelineData() {
-            const container = document.getElementById('timeline-container');
-            if (!container) return;
+        const timelineItems = [];
 
-            // Ensure we have invoices and inspections loaded
-            if (appData.invoices.length === 0) {
-                await loadInvoices();
+        // Add invoice items
+        appData.invoices.forEach((invoice) => {
+          // Try multiple date fields
+          const dateStr =
+            invoice['Invoice Date'] ||
+            invoice.dates?.in ||
+            invoice.service_details?.invoice_date ||
+            invoice.service_details?.ro_opened_date ||
+            invoice.work_order_dates?.ro_opened_date ||
+            invoice.work_order_dates?.delivery_date ||
+            invoice.document_date;
+
+          const date = parseDate(dateStr);
+          if (date) {
+            const invoiceNumber =
+              invoice['Invoice #'] ||
+              invoice.invoice_number ||
+              invoice.work_order_number ||
+              invoice['Repair Order #'] ||
+              invoice.dealer_information?.work_order_number ||
+              invoice.work_order_dates?.work_order_number ||
+              'N/A';
+            const dealer =
+              invoice.dealer_information?.name || invoice.vendor_name || 'Unknown Dealer';
+
+            // Get all line items/repair items descriptions
+            const lineItems =
+              invoice['Line Items'] || invoice.service_details || invoice.line_items || [];
+            const repairItems = invoice.repair_items || [];
+            const allDescriptions = [];
+
+            // Collect all descriptions from line items
+            lineItems.forEach((item) => {
+              const desc = item.Description || item.description || item.item;
+              if (desc) {
+                allDescriptions.push(desc);
+              }
+            });
+
+            // Collect all descriptions from repair items
+            repairItems.forEach((item) => {
+              const desc = item.description;
+              if (desc) {
+                allDescriptions.push(desc);
+              }
+            });
+
+            // Combine all descriptions (limit to first 200 chars for timeline)
+            let description =
+              allDescriptions.length > 0 ? allDescriptions.join(' | ') : 'Service visit';
+            if (description.length > 200) {
+              description = description.substring(0, 197) + '...';
             }
-            if (appData.inspections.length === 0) {
-                await loadInspections();
+
+            timelineItems.push({
+              date,
+              type: 'invoice',
+              title: `Service Visit - Invoice #${invoiceNumber}`,
+              description: `${dealer}: ${description}`,
+              data: invoice,
+            });
+          }
+        });
+
+        // Add inspection items
+        appData.inspections.forEach((inspection) => {
+          const date = parseDate(inspection.date || inspection.advisor?.date_time);
+          if (date) {
+            const vendor = inspection.vendor || inspection.vendor_name || 'Unknown Vendor';
+
+            // Get all findings directly from the file
+            const findings = inspection.video_summary?.findings || [];
+            const recommendations = inspection.video_summary?.recommendations || [];
+            const allInfo = [];
+
+            if (findings.length > 0) {
+              allInfo.push('Findings: ' + findings.join('; '));
+            }
+            if (recommendations.length > 0) {
+              allInfo.push('Recommendations: ' + recommendations.join('; '));
             }
 
-            const timelineItems = [];
+            const description =
+              allInfo.length > 0 ? allInfo.join(' | ') : 'Multi-point inspection performed';
 
-            // Add invoice items
-            appData.invoices.forEach(invoice => {
-                // Try multiple date fields
-                const dateStr = invoice['Invoice Date'] ||
-                    invoice.dates?.in ||
-                    invoice.service_details?.invoice_date ||
-                    invoice.service_details?.ro_opened_date ||
-                    invoice.work_order_dates?.ro_opened_date ||
-                    invoice.work_order_dates?.delivery_date ||
-                    invoice.document_date;
-
-                const date = parseDate(dateStr);
-                if (date) {
-                    const invoiceNumber = invoice['Invoice #'] ||
-                        invoice.invoice_number ||
-                        invoice.work_order_number ||
-                        invoice['Repair Order #'] ||
-                        invoice.dealer_information?.work_order_number ||
-                        invoice.work_order_dates?.work_order_number ||
-                        'N/A';
-                    const dealer = invoice.dealer_information?.name ||
-                        invoice.vendor_name ||
-                        'Unknown Dealer';
-
-                    // Get all line items/repair items descriptions
-                    const lineItems = invoice['Line Items'] || invoice.service_details || invoice.line_items || [];
-                    const repairItems = invoice.repair_items || [];
-                    const allDescriptions = [];
-
-                    // Collect all descriptions from line items
-                    lineItems.forEach(item => {
-                        const desc = item.Description || item.description || item.item;
-                        if (desc) {
-                            allDescriptions.push(desc);
-                        }
-                    });
-
-                    // Collect all descriptions from repair items
-                    repairItems.forEach(item => {
-                        const desc = item.description;
-                        if (desc) {
-                            allDescriptions.push(desc);
-                        }
-                    });
-
-                    // Combine all descriptions (limit to first 200 chars for timeline)
-                    let description = allDescriptions.length > 0
-                        ? allDescriptions.join(' | ')
-                        : 'Service visit';
-                    if (description.length > 200) {
-                        description = description.substring(0, 197) + '...';
-                    }
-
-                    timelineItems.push({
-                        date,
-                        type: 'invoice',
-                        title: `Service Visit - Invoice #${invoiceNumber}`,
-                        description: `${dealer}: ${description}`,
-                        data: invoice
-                    });
-                }
+            timelineItems.push({
+              date,
+              type: 'inspection',
+              title: `Multi-Point Inspection - ${vendor}`,
+              description: description,
+              data: inspection,
             });
+          }
+        });
 
-            // Add inspection items
-            appData.inspections.forEach(inspection => {
-                const date = parseDate(inspection.date || inspection.advisor?.date_time);
-                if (date) {
-                    const vendor = inspection.vendor || inspection.vendor_name || 'Unknown Vendor';
+        // Add hardcoded timeline items
+        const hardcodedItems = [
+          {
+            date: new Date('2024-09-17'),
+            type: 'event',
+            title: 'Vehicle Purchased',
+            description:
+              'Nyree Hinton purchases the 2020 Jaguar F-Type with 22,270 miles and active manufacturer warranty.',
+            color: 'blue',
+          },
+          {
+            date: new Date('2024-11-08'),
+            type: 'event',
+            title: 'New Vehicle Limited Warranty Expires',
+            description: 'The 5-year/60,000-mile warranty expires.',
+            color: 'gray',
+          },
+          {
+            date: new Date('2025-01-31'),
+            type: 'event',
+            title: 'Repurchase Denied & Arbitration Mandated',
+            description:
+              'JLRNA denies the repurchase request and mandates use of BBB AUTO LINE for both Song-Beverly and Magnuson-Moss (MMWA) claims.',
+            color: 'gray',
+          },
+          {
+            date: new Date('2025-03-24'),
+            type: 'event',
+            title: 'Arbitration Dismissed (Case JAG2501941)',
+            description:
+              'Arbitrator dismisses the Song-Beverly claim citing *Rodriguez v. FCA*. Crucially, the arbitrator refuses to hear the MMWA claim, stating it is "not within the purview" of the program.',
+            color: 'red',
+          },
+          {
+            date: new Date('2025-08-27'),
+            type: 'event',
+            title: 'Post-Warranty Diagnostic Scan',
+            description:
+              'Autel scan reveals 33 Diagnostic Trouble Codes (DTCs) across 18 modules, including a permanent "Component internal fault" in the Gateway Module (GWM) and history codes for coolant pump failure.',
+            color: 'red',
+          },
+          {
+            date: new Date('2025-10-18'),
+            type: 'event',
+            title: 'Mode 6 Diagnostic Report',
+            description:
+              'Report shows a "Complete and Fail" status for the VVT Monitor Bank 1 test, confirming an unresolved engine timing fault.',
+            color: 'red',
+          },
+        ];
 
-                    // Get all findings directly from the file
-                    const findings = inspection.video_summary?.findings || [];
-                    const recommendations = inspection.video_summary?.recommendations || [];
-                    const allInfo = [];
+        hardcodedItems.forEach((item) => {
+          timelineItems.push(item);
+        });
 
-                    if (findings.length > 0) {
-                        allInfo.push('Findings: ' + findings.join('; '));
-                    }
-                    if (recommendations.length > 0) {
-                        allInfo.push('Recommendations: ' + recommendations.join('; '));
-                    }
+        // Sort by date
+        timelineItems.sort((a, b) => {
+          if (!a.date && !b.date) return 0;
+          if (!a.date) return 1;
+          if (!b.date) return -1;
+          return a.date - b.date;
+        });
 
-                    const description = allInfo.length > 0
-                        ? allInfo.join(' | ')
-                        : 'Multi-point inspection performed';
+        appData.timelineItems = timelineItems;
+        renderTimeline();
+      }
 
-                    timelineItems.push({
-                        date,
-                        type: 'inspection',
-                        title: `Multi-Point Inspection - ${vendor}`,
-                        description: description,
-                        data: inspection
-                    });
-                }
-            });
+      /**
+       * Render timeline
+       */
+      function renderTimeline() {
+        const container = document.getElementById('timeline-container');
+        if (!container) return;
 
-            // Add hardcoded timeline items
-            const hardcodedItems = [
-                { date: new Date('2024-09-17'), type: 'event', title: 'Vehicle Purchased', description: 'Nyree Hinton purchases the 2020 Jaguar F-Type with 22,270 miles and active manufacturer warranty.', color: 'blue' },
-                { date: new Date('2024-11-08'), type: 'event', title: 'New Vehicle Limited Warranty Expires', description: 'The 5-year/60,000-mile warranty expires.', color: 'gray' },
-                { date: new Date('2025-01-31'), type: 'event', title: 'Repurchase Denied & Arbitration Mandated', description: 'JLRNA denies the repurchase request and mandates use of BBB AUTO LINE for both Song-Beverly and Magnuson-Moss (MMWA) claims.', color: 'gray' },
-                { date: new Date('2025-03-24'), type: 'event', title: 'Arbitration Dismissed (Case JAG2501941)', description: 'Arbitrator dismisses the Song-Beverly claim citing *Rodriguez v. FCA*. Crucially, the arbitrator refuses to hear the MMWA claim, stating it is "not within the purview" of the program.', color: 'red' },
-                { date: new Date('2025-08-27'), type: 'event', title: 'Post-Warranty Diagnostic Scan', description: 'Autel scan reveals 33 Diagnostic Trouble Codes (DTCs) across 18 modules, including a permanent "Component internal fault" in the Gateway Module (GWM) and history codes for coolant pump failure.', color: 'red' },
-                { date: new Date('2025-10-18'), type: 'event', title: 'Mode 6 Diagnostic Report', description: 'Report shows a "Complete and Fail" status for the VVT Monitor Bank 1 test, confirming an unresolved engine timing fault.', color: 'red' }
-            ];
+        let items = [...appData.timelineItems];
 
-            hardcodedItems.forEach(item => {
-                timelineItems.push(item);
-            });
-
-            // Sort by date
-            timelineItems.sort((a, b) => {
-                if (!a.date && !b.date) return 0;
-                if (!a.date) return 1;
-                if (!b.date) return -1;
-                return a.date - b.date;
-            });
-
-            appData.timelineItems = timelineItems;
-            renderTimeline();
+        // Apply filters
+        const typeFilter = document.getElementById('timeline-filter-type')?.value;
+        if (typeFilter && typeFilter !== 'all') {
+          items = items.filter((item) => item.type === typeFilter);
         }
 
-        /**
-         * Render timeline
-         */
-        function renderTimeline() {
-            const container = document.getElementById('timeline-container');
-            if (!container) return;
+        const dateFrom = document.getElementById('timeline-date-from')?.value;
+        const dateTo = document.getElementById('timeline-date-to')?.value;
 
-            let items = [...appData.timelineItems];
+        if (dateFrom) {
+          const fromDate = new Date(dateFrom);
+          items = items.filter((item) => item.date && item.date >= fromDate);
+        }
 
-            // Apply filters
-            const typeFilter = document.getElementById('timeline-filter-type')?.value;
-            if (typeFilter && typeFilter !== 'all') {
-                items = items.filter(item => item.type === typeFilter);
-            }
+        if (dateTo) {
+          const toDate = new Date(dateTo);
+          toDate.setHours(23, 59, 59, 999);
+          items = items.filter((item) => item.date && item.date <= toDate);
+        }
 
-            const dateFrom = document.getElementById('timeline-date-from')?.value;
-            const dateTo = document.getElementById('timeline-date-to')?.value;
+        // Apply sort
+        const sortOrder = document.getElementById('timeline-sort')?.value || 'asc';
+        if (sortOrder === 'desc') {
+          items.reverse();
+        }
 
-            if (dateFrom) {
-                const fromDate = new Date(dateFrom);
-                items = items.filter(item => item.date && item.date >= fromDate);
-            }
+        if (items.length === 0) {
+          container.innerHTML =
+            '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No timeline items found matching your criteria.</div>';
+          return;
+        }
 
-            if (dateTo) {
-                const toDate = new Date(dateTo);
-                toDate.setHours(23, 59, 59, 999);
-                items = items.filter(item => item.date && item.date <= toDate);
-            }
+        const colorMap = {
+          invoice: { dot: 'bg-yellow-500', text: 'text-yellow-700' },
+          inspection: { dot: 'bg-green-500', text: 'text-green-700' },
+          report: { dot: 'bg-purple-500', text: 'text-purple-700' },
+          event: { dot: 'bg-blue-600', text: 'text-blue-700' },
+          red: { dot: 'bg-red-600', text: 'text-red-700' },
+          gray: { dot: 'bg-gray-500', text: 'text-gray-700' },
+        };
 
-            // Apply sort
-            const sortOrder = document.getElementById('timeline-sort')?.value || 'asc';
-            if (sortOrder === 'desc') {
-                items.reverse();
-            }
+        container.innerHTML = items
+          .map((item, index) => {
+            const colors = colorMap[item.color] || colorMap[item.type] || colorMap.event;
+            const icon =
+              item.type === 'invoice'
+                ? 'M13 10V3L4 14h7v7l9-11h-7z'
+                : item.type === 'inspection'
+                ? 'M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z'
+                : item.type === 'event'
+                ? 'M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z'
+                : 'M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z';
 
-            if (items.length === 0) {
-                container.innerHTML = '<div class="bg-gray-50 border-l-4 border-gray-400 text-gray-700 p-4 rounded">No timeline items found matching your criteria.</div>';
-                return;
-            }
-
-            const colorMap = {
-                invoice: { dot: 'bg-yellow-500', text: 'text-yellow-700' },
-                inspection: { dot: 'bg-green-500', text: 'text-green-700' },
-                report: { dot: 'bg-purple-500', text: 'text-purple-700' },
-                event: { dot: 'bg-blue-600', text: 'text-blue-700' },
-                red: { dot: 'bg-red-600', text: 'text-red-700' },
-                gray: { dot: 'bg-gray-500', text: 'text-gray-700' }
-            };
-
-            container.innerHTML = items.map((item, index) => {
-                const colors = colorMap[item.color] || colorMap[item.type] || colorMap.event;
-                const icon = item.type === 'invoice' ? 'M13 10V3L4 14h7v7l9-11h-7z' :
-                    item.type === 'inspection' ? 'M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' :
-                        item.type === 'event' ? 'M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z' :
-                            'M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z';
-
-                return `
+            return `
                     <div class="timeline-item mb-10 bg-gray-50 p-4 rounded-lg border border-gray-200">
                         <div class="timeline-dot ${colors.dot}">
                             <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="${icon}"></path>
                             </svg>
                         </div>
-                        <time class="mb-1 text-sm font-semibold ${colors.text}">${formatDate(item.date)}</time>
+                        <time class="mb-1 text-sm font-semibold ${colors.text}">${formatDate(
+              item.date
+            )}</time>
                         <h3 class="text-lg font-semibold text-gray-900">${item.title}</h3>
                         <p class="text-base font-normal text-gray-700">${item.description}</p>
                     </div>
                 `;
-            }).join('');
+          })
+          .join('');
+      }
+
+      /**
+       * Apply timeline filters
+       */
+      function applyTimelineFilters() {
+        renderTimeline();
+      }
+
+      /**
+       * Clear timeline filters
+       */
+      function clearTimelineFilters() {
+        document.getElementById('timeline-filter-type').value = 'all';
+        document.getElementById('timeline-sort').value = 'asc';
+        document.getElementById('timeline-date-from').value = '';
+        document.getElementById('timeline-date-to').value = '';
+        renderTimeline();
+      }
+
+      /**
+       * Toggle expandable content
+       */
+      function toggleExpand(elementId) {
+        const element = document.getElementById(elementId);
+        const toggle = document.getElementById(elementId + '-toggle');
+
+        if (element && toggle) {
+          element.classList.toggle('expanded');
+          const isExpanded = element.classList.contains('expanded');
+          toggle.textContent = isExpanded ? 'Hide Details' : 'Show Details';
+        }
+      }
+
+      /**
+       * Perform global search
+       */
+      function performSearch(query) {
+        appData.searchQuery = query.toLowerCase();
+
+        // Update search results indicator
+        const indicator = document.getElementById('search-results-indicator');
+        const countEl = document.getElementById('search-count');
+
+        if (query.trim() === '') {
+          indicator.classList.add('hidden');
+          return;
         }
 
-        /**
-         * Apply timeline filters
-         */
-        function applyTimelineFilters() {
+        // Count results
+        let count = 0;
+
+        // Count in invoices
+        if (appData.invoices.length > 0) {
+          count += appData.invoices.filter((inv) => {
+            const searchText = JSON.stringify(inv).toLowerCase();
+            return searchText.includes(appData.searchQuery);
+          }).length;
+        }
+
+        // Count in inspections
+        if (appData.inspections.length > 0) {
+          count += appData.inspections.filter((ins) => {
+            const searchText = JSON.stringify(ins).toLowerCase();
+            return searchText.includes(appData.searchQuery);
+          }).length;
+        }
+
+        // Count in reports
+        if (appData.reports.length > 0) {
+          count += appData.reports.filter((rep) => {
+            return (
+              rep.title.toLowerCase().includes(appData.searchQuery) ||
+              rep.content.toLowerCase().includes(appData.searchQuery)
+            );
+          }).length;
+        }
+
+        // Count in podcasts
+        if (appData.podcasts.length > 0) {
+          count += appData.podcasts.filter((pod) => {
+            return (
+              pod.title.toLowerCase().includes(appData.searchQuery) ||
+              pod.file.toLowerCase().includes(appData.searchQuery)
+            );
+          }).length;
+        }
+
+        countEl.textContent = count;
+        indicator.classList.remove('hidden');
+
+        // Re-render current page/tab
+        const activePage = document.querySelector('.page-content:not(.hidden)');
+        if (activePage) {
+          const pageId = activePage.id;
+          if (pageId === 'page-evidence') {
+            const activeTab = document.querySelector('.tab-btn.active');
+            if (activeTab) {
+              const tabId = activeTab.getAttribute('onclick').match(/'([^']+)'/)[1];
+              loadTabData(tabId);
+            }
+          } else if (pageId === 'page-chronology') {
             renderTimeline();
+          }
+        }
+      }
+
+      /**
+       * Calculate and display statistics
+       */
+      async function calculateStatistics() {
+        // Ensure invoices are loaded
+        if (appData.invoices.length === 0) {
+          await loadInvoices();
         }
 
-        /**
-         * Clear timeline filters
-         */
-        function clearTimelineFilters() {
-            document.getElementById('timeline-filter-type').value = 'all';
-            document.getElementById('timeline-sort').value = 'asc';
-            document.getElementById('timeline-date-from').value = '';
-            document.getElementById('timeline-date-to').value = '';
-            renderTimeline();
+        // Service visits
+        const serviceVisits = appData.invoices.length;
+        document.getElementById('stat-service-visits').textContent = serviceVisits;
+
+        // Total cost
+        let totalCost = 0;
+        appData.invoices.forEach((invoice) => {
+          const cost = parseFloat(
+            invoice['Total Amount Due'] ||
+              invoice.summary?.total_amount ||
+              invoice.estimates?.estimated_total ||
+              0
+          );
+          totalCost += cost;
+        });
+        document.getElementById('stat-total-cost').textContent = '$' + totalCost.toFixed(2);
+
+        // Inspections
+        if (appData.inspections.length === 0) {
+          await loadInspections();
+        }
+        document.getElementById('stat-inspections').textContent = appData.inspections.length;
+
+        // Reports
+        if (appData.reports.length === 0) {
+          await loadReports();
+        }
+        document.getElementById('stat-reports').textContent = appData.reports.length;
+
+        // Full chronology
+        if (appData.timelineItems.length === 0) {
+          await loadTimelineData();
         }
 
-        /**
-         * Toggle expandable content
-         */
-        function toggleExpand(elementId) {
-            const element = document.getElementById(elementId);
-            const toggle = document.getElementById(elementId + '-toggle');
+        const recentActivity = appData.timelineItems.sort((a, b) => {
+          if (!a.date && !b.date) return 0;
+          if (!a.date) return 1;
+          if (!b.date) return -1;
+          return a.date - b.date; // Oldest first for chronological order
+        });
 
-            if (element && toggle) {
-                element.classList.toggle('expanded');
-                const isExpanded = element.classList.contains('expanded');
-                toggle.textContent = isExpanded ? 'Hide Details' : 'Show Details';
-            }
-        }
-
-        /**
-         * Perform global search
-         */
-        function performSearch(query) {
-            appData.searchQuery = query.toLowerCase();
-
-            // Update search results indicator
-            const indicator = document.getElementById('search-results-indicator');
-            const countEl = document.getElementById('search-count');
-
-            if (query.trim() === '') {
-                indicator.classList.add('hidden');
-                return;
-            }
-
-            // Count results
-            let count = 0;
-
-            // Count in invoices
-            if (appData.invoices.length > 0) {
-                count += appData.invoices.filter(inv => {
-                    const searchText = JSON.stringify(inv).toLowerCase();
-                    return searchText.includes(appData.searchQuery);
-                }).length;
-            }
-
-            // Count in inspections
-            if (appData.inspections.length > 0) {
-                count += appData.inspections.filter(ins => {
-                    const searchText = JSON.stringify(ins).toLowerCase();
-                    return searchText.includes(appData.searchQuery);
-                }).length;
-            }
-
-            // Count in reports
-            if (appData.reports.length > 0) {
-                count += appData.reports.filter(rep => {
-                    return rep.title.toLowerCase().includes(appData.searchQuery) ||
-                        rep.content.toLowerCase().includes(appData.searchQuery);
-                }).length;
-            }
-
-            // Count in podcasts
-            if (appData.podcasts.length > 0) {
-                count += appData.podcasts.filter(pod => {
-                    return pod.title.toLowerCase().includes(appData.searchQuery) ||
-                        pod.file.toLowerCase().includes(appData.searchQuery);
-                }).length;
-            }
-
-            countEl.textContent = count;
-            indicator.classList.remove('hidden');
-
-            // Re-render current page/tab
-            const activePage = document.querySelector('.page-content:not(.hidden)');
-            if (activePage) {
-                const pageId = activePage.id;
-                if (pageId === 'page-evidence') {
-                    const activeTab = document.querySelector('.tab-btn.active');
-                    if (activeTab) {
-                        const tabId = activeTab.getAttribute('onclick').match(/'([^']+)'/)[1];
-                        loadTabData(tabId);
-                    }
-                } else if (pageId === 'page-chronology') {
-                    renderTimeline();
-                }
-            }
-        }
-
-        /**
-         * Calculate and display statistics
-         */
-        async function calculateStatistics() {
-            // Ensure invoices are loaded
-            if (appData.invoices.length === 0) {
-                await loadInvoices();
-            }
-
-            // Service visits
-            const serviceVisits = appData.invoices.length;
-            document.getElementById('stat-service-visits').textContent = serviceVisits;
-
-            // Total cost
-            let totalCost = 0;
-            appData.invoices.forEach(invoice => {
-                const cost = parseFloat(invoice['Total Amount Due'] || invoice.summary?.total_amount || invoice.estimates?.estimated_total || 0);
-                totalCost += cost;
-            });
-            document.getElementById('stat-total-cost').textContent = '$' + totalCost.toFixed(2);
-
-            // Inspections
-            if (appData.inspections.length === 0) {
-                await loadInspections();
-            }
-            document.getElementById('stat-inspections').textContent = appData.inspections.length;
-
-            // Reports
-            if (appData.reports.length === 0) {
-                await loadReports();
-            }
-            document.getElementById('stat-reports').textContent = appData.reports.length;
-
-            // Full chronology
-            if (appData.timelineItems.length === 0) {
-                await loadTimelineData();
-            }
-
-            const recentActivity = appData.timelineItems
-                .sort((a, b) => {
-                    if (!a.date && !b.date) return 0;
-                    if (!a.date) return 1;
-                    if (!b.date) return -1;
-                    return a.date - b.date; // Oldest first for chronological order
-                });
-
-            const activityContainer = document.getElementById('recent-activity');
-            if (activityContainer) {
-                activityContainer.innerHTML = recentActivity.map(item => `
+        const activityContainer = document.getElementById('recent-activity');
+        if (activityContainer) {
+          activityContainer.innerHTML = recentActivity
+            .map(
+              (item) => `
                     <div class="flex items-start space-x-3 p-2 hover:bg-gray-50 rounded">
                         <div class="flex-shrink-0 w-2 h-2 bg-blue-500 rounded-full mt-2"></div>
                         <div class="flex-1">
@@ -1737,25 +2051,28 @@
                             <p class="text-xs text-gray-500">${formatDate(item.date)}</p>
                         </div>
                     </div>
-                `).join('');
-            }
-
-            // Load podcasts for overview
-            if (appData.podcasts.length === 0) {
-                await loadPodcasts();
-            }
-            renderOverviewPodcasts();
+                `
+            )
+            .join('');
         }
 
-        /**
-         * Render podcasts on overview page
-         */
-        function renderOverviewPodcasts() {
-            const container = document.getElementById('overview-podcasts');
-            if (!container || appData.podcasts.length === 0) return;
+        // Load podcasts for overview
+        if (appData.podcasts.length === 0) {
+          await loadPodcasts();
+        }
+        renderOverviewPodcasts();
+      }
 
-            container.innerHTML = appData.podcasts.map((podcast, index) => {
-                return `
+      /**
+       * Render podcasts on overview page
+       */
+      function renderOverviewPodcasts() {
+        const container = document.getElementById('overview-podcasts');
+        if (!container || appData.podcasts.length === 0) return;
+
+        container.innerHTML = appData.podcasts
+          .map((podcast, index) => {
+            return `
                     <div class="border border-gray-200 rounded-lg p-4 bg-gray-50">
                         <h4 class="font-semibold text-gray-900 mb-2 text-sm">${podcast.title}</h4>
                         <audio controls preload="metadata" class="w-full">
@@ -1764,65 +2081,66 @@
                         </audio>
                     </div>
                 `;
-            }).join('');
+          })
+          .join('');
+      }
+
+      /**
+       * Populate dealer filter
+       */
+      async function populateDealerFilter() {
+        if (appData.invoices.length === 0) {
+          await loadInvoices();
         }
 
-        /**
-         * Populate dealer filter
-         */
-        async function populateDealerFilter() {
-            if (appData.invoices.length === 0) {
-                await loadInvoices();
-            }
-
-            const dealers = new Set();
-            appData.invoices.forEach(invoice => {
-                const dealer = invoice.dealer_information?.name || invoice.vendor_name;
-                if (dealer) {
-                    dealers.add(dealer);
-                }
-            });
-
-            const filter = document.getElementById('evidence-filter-dealer');
-            if (filter) {
-                dealers.forEach(dealer => {
-                    const option = document.createElement('option');
-                    option.value = dealer;
-                    option.textContent = dealer;
-                    filter.appendChild(option);
-                });
-            }
-        }
-
-        // Set up search handlers with debouncing
-        document.addEventListener('DOMContentLoaded', () => {
-            showPage('page-overview');
-
-            // Debounced search function (300ms delay)
-            const debouncedSearch = debounce((query) => {
-                performSearch(query);
-            }, 300);
-
-            // Set up search
-            const searchInputs = ['global-search', 'mobile-search', 'evidence-search'];
-            searchInputs.forEach(id => {
-                const input = document.getElementById(id);
-                if (input) {
-                    input.addEventListener('input', (e) => {
-                        debouncedSearch(e.target.value);
-                    });
-                }
-            });
-
-            // Set up dealer filter
-            document.getElementById('evidence-filter-dealer')?.addEventListener('change', () => {
-                renderInvoices();
-            });
-
-            // Load initial data
-            calculateStatistics();
-            populateDealerFilter();
+        const dealers = new Set();
+        appData.invoices.forEach((invoice) => {
+          const dealer = invoice.dealer_information?.name || invoice.vendor_name;
+          if (dealer) {
+            dealers.add(dealer);
+          }
         });
+
+        const filter = document.getElementById('evidence-filter-dealer');
+        if (filter) {
+          dealers.forEach((dealer) => {
+            const option = document.createElement('option');
+            option.value = dealer;
+            option.textContent = dealer;
+            filter.appendChild(option);
+          });
+        }
+      }
+
+      // Set up search handlers with debouncing
+      document.addEventListener('DOMContentLoaded', () => {
+        showPage('page-overview');
+
+        // Debounced search function (300ms delay)
+        const debouncedSearch = debounce((query) => {
+          performSearch(query);
+        }, 300);
+
+        // Set up search
+        const searchInputs = ['global-search', 'mobile-search', 'evidence-search'];
+        searchInputs.forEach((id) => {
+          const input = document.getElementById(id);
+          if (input) {
+            input.addEventListener('input', (e) => {
+              debouncedSearch(e.target.value);
+            });
+          }
+        });
+
+        // Set up dealer filter
+        document.getElementById('evidence-filter-dealer')?.addEventListener('change', () => {
+          renderInvoices();
+        });
+
+        // Load initial data
+        calculateStatistics();
+        populateDealerFilter();
+      });
     </script>
 </body>
 

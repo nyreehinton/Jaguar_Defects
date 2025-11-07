@@ -1,0 +1,72 @@
+{
+  "invoice_number": "ESTIMATE",
+  "document_type": "ESTIMATE",
+  "invoice_date": "2025-08-25",
+  "vendor": {
+    "name": "WEST ADAMS RADIATOR",
+    "address": "4928 W Adams, Los Angeles, CA 90016",
+    "phone": "(323) 731-0816",
+    "email": null
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "CA 90016",
+    "phone": "(732) 979 - 6264",
+    "email": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": null,
+    "mileage_out": null,
+    "license": "9PCM313"
+  },
+  "line_items": [
+    {
+      "description": "REMOVE AND REPLACE SUPERCHARGER WATER PUMP",
+      "type": "repair",
+      "issue": "supercharger_water_pump",
+      "parts": 306.90,
+      "labor": 495.00,
+      "total": 801.90,
+      "parts_used": [
+        {"part_number": "JDE41599", "description": "SUPERCHARGER WATER PUMP", "quantity": 1, "price": 306.90}
+      ]
+    },
+    {
+      "description": "REMOVE AND REPLACE EXPANSION TANK HOSE (TANK TO RADIATOR OUTLET)",
+      "type": "repair",
+      "issue": "expansion_tank_hose",
+      "parts": 205.97,
+      "labor": 165.00,
+      "total": 370.97,
+      "parts_used": [
+        {"part_number": "T2R47919", "description": "EXPANSION TANK HOSE", "quantity": 1, "price": 205.97}
+      ]
+    },
+    {
+      "description": "COOLANT/ANTIFREEZE",
+      "type": "parts",
+      "parts": 19.28,
+      "labor": 0.00,
+      "total": 19.28,
+      "parts_used": [
+        {"part_number": "G 012 A8G 1G", "description": "Coolant/Antifreeze SF (Pink) 1.5 Liters", "quantity": 1, "price": 19.28}
+      ]
+    }
+  ],
+  "summary": {
+    "parts_total": 532.15,
+    "labor_total": 660.00,
+    "subtotal": 1192.15,
+    "tax": 51.88,
+    "total": 1244.03,
+    "amount_paid": 0.00,
+    "balance_due": 1244.03
+  },
+  "status": "ESTIMATE",
+  "warranty_covered": false,
+  "notes": "Estimate for coolant system repairs including supercharger water pump and expansion tank hose replacement"
+}

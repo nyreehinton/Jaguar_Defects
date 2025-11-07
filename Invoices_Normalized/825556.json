@@ -1,0 +1,70 @@
+{
+  "invoice_number": "825556",
+  "document_type": "WORK_ORDER",
+  "invoice_date": "2024-11-15",
+  "vendor": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. La Brea Avenue Los Angeles CA 90036",
+    "phone": "(310) 274-5133"
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "phone": "732-979-6264",
+    "email": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 23915,
+    "mileage_out": 23915
+  },
+  "service_advisor": {
+    "name": "Danny Sanchez",
+    "id": "3391"
+  },
+  "technician": {
+    "name": "REYES, ALVARO",
+    "license": "3259"
+  },
+  "line_items": [
+    {
+      "description": "CLIENT STATES LOW COOLANT WARNING LIGHT IS ON. CLIENT REQUEST GOOD WILL BE SENT FOR REPAIRS. VEHICLE WARRANTY EXPIRED 11/08/24. CLIENT ATTEMPTED TO BRING THE VEHICLE IN ON 11/07/24 BUT WAS UNABLE TO GET AN APPT UNTIL 11/18/24.",
+      "type": "diagnosis",
+      "issue": "coolant_warning",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00,
+      "notes": "NO DIAG COMPLETED CLIENT ELECTED TO TAKE THE VEHICLE"
+    },
+    {
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "summary": {
+    "parts_total": 0.00,
+    "labor_total": 0.00,
+    "subtotal": 0.00,
+    "tax": 0.00,
+    "total": 0.00,
+    "amount_paid": 0.00,
+    "balance_due": 0.00
+  },
+  "status": "INCOMPLETE",
+  "warranty_covered": false,
+  "warranty_expired_date": "2024-11-08",
+  "notes": "Customer reported issue on 11/07/24 (day before warranty expired). Unable to get appointment until after warranty expiration."
+}

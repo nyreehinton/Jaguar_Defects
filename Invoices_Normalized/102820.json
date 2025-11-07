@@ -1,0 +1,64 @@
+{
+  "invoice_number": "102820",
+  "document_type": "WORK_ORDER",
+  "invoice_date": "2025-11-04",
+  "vendor": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. LA BREA AVE LOS ANGELES, CA 90036",
+    "phone": "(310) 274-5133"
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "6401 WILSHIRE BLVD #608D Los Angeles, CA 90048",
+    "phone": "732-979-6264",
+    "email": "nyreehinton@gmail.com"
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 30315,
+    "mileage_out": null
+  },
+  "service_advisor": {
+    "name": "CAIN, CHRISTOPHER",
+    "id": "82880"
+  },
+  "line_items": [
+    {
+      "description": "GUEST REPORTS CHECK ENGINE LIGHT IS COMING ON AND VEHICLE WILL NOT GO OVER 40MPH",
+      "type": "diagnosis",
+      "issue": "check_engine_light_limp_mode",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "COMPLIMENTARY LAND ROVER MULTI POINT INSPECTION",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "summary": {
+    "parts_total": 0.00,
+    "labor_total": 0.00,
+    "subtotal": 0.00,
+    "tax": 0.00,
+    "total": 325.00,
+    "amount_paid": 0.00,
+    "balance_due": 325.00
+  },
+  "status": "ESTIMATE",
+  "warranty_covered": false,
+  "notes": "Vehicle in limp mode - check engine light on, will not exceed 40 mph"
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_number": "825649",
+  "document_type": "INVOICE",
+  "invoice_date": "2024-11-21",
+  "vendor": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. La Brea Avenue Los Angeles CA 90036",
+    "phone": "(424) 329-5332"
+  },
+  "customer": {
+    "name": "NYREE HINTON",
+    "address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "phone": "732-979-6264",
+    "email": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "mileage_in": 23963,
+    "mileage_out": 23964
+  },
+  "service_advisor": {
+    "name": "Danny Sanchez",
+    "phone": "(424) 329-5332"
+  },
+  "technician": {
+    "name": "Robert Salcido"
+  },
+  "line_items": [
+    {
+      "description": "REPLACE EXPANSION TANK TO BLEED PIPE DUE TO LEAK FROM PIPE. PRESSURE TESTED COOLING SYSTEM FOUND BLEED PIPE FROM EXPANSION TANK LEAKING COOLANT.",
+      "tech_notes": "Using TOPIX Cloud, started a new fault work flow and acquired RVC 'TYKTIUCO'. Removed leaking bleed pipe and refitted new expansion tank bleed pipe. Vacuum filled expansion tank with coolant to correct level. After test drive no leaks were found.",
+      "type": "repair",
+      "issue": "coolant_leak",
+      "parts": 132.53,
+      "labor": 149.50,
+      "total": 282.03,
+      "parts_used": [
+        {"part_number": "T2R47919", "description": "HOSE", "quantity": 1, "price": 89.33},
+        {"part_number": "T2H59152", "description": "ANTIFREEZE", "quantity": 1, "price": 43.20}
+      ]
+    },
+    {
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES",
+      "type": "service",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    },
+    {
+      "description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION",
+      "type": "inspection",
+      "parts": 0.00,
+      "labor": 0.00,
+      "total": 0.00
+    }
+  ],
+  "summary": {
+    "parts_total": 132.53,
+    "labor_total": 149.50,
+    "subtotal": 282.03,
+    "tax": 12.59,
+    "total": 294.62,
+    "amount_paid": 294.62,
+    "balance_due": 0.00
+  },
+  "payment": {
+    "method": "Chip",
+    "card_type": "Amex",
+    "last_four": "2000",
+    "approval_code": "479385",
+    "date": "2024-11-21"
+  },
+  "status": "COMPLETED",
+  "warranty_covered": false,
+  "notes": "Post-warranty repair. Customer requested goodwill coverage but was denied. Attempted to bring vehicle in before warranty expired on 11/08/24."
+}
