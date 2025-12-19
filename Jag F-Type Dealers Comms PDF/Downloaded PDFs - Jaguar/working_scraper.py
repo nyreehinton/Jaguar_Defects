@@ -7,20 +7,23 @@ import requests
 import re
 import os
 
-def extract_tsb_urls_from_file(filename):
+def extract_tsb_urls_from_file(filename, target_codes=None):
     """Extract TSB detail page URLs from the CarComplaints markdown file"""
     urls = []
     with open(filename, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Find all TSB detail page links
-    pattern = r'\[Read More »\]\((/Jaguar/S-TYPE/2004/tsbs/[^)]+\.shtml)\)'
+    # Find all TSB detail page links for F-TYPE
+    pattern = r'\[Read More »\]\((/Jaguar/F-TYPE/2020/tsbs/[^)]+\.shtml)\)'
     matches = re.findall(pattern, content)
     
     # Convert relative URLs to absolute
     base_url = "https://www.carcomplaints.com"
     for match in matches:
-        urls.append(base_url + match)
+        full_url = base_url + match
+        # If target_codes is specified, only include URLs that contain those codes
+        if target_codes is None or any(code.lower() in full_url.lower() for code in target_codes):
+            urls.append(full_url)
     
     return urls
 
@@ -79,16 +82,30 @@ def main():
     """Main scraping and download function"""
     os.makedirs("tsb_pdfs", exist_ok=True)
     
-    # Extract TSB detail page URLs
-    tsb_urls = extract_tsb_urls_from_file("www.carcomplaints.comjaguar-s-type-2004-tsbs.md")
-    print(f"Found {len(tsb_urls)} TSB detail pages")
+    # Target TSB codes to download
+    target_codes = [
+        "SFCC_NOV2024_32",
+        "SSM75559",
+        "SFCC_SEP2024_45",
+        "SSM74023",
+        "JTB00566",
+        "JTB00566NAS1",
+        "SSM76258",
+        "SFCC_FEB2025_46",
+        "JTB00278NAS3",
+        "SFCC_APR2022_29",
+        "JTB00566NAS4"
+    ]
     
-    # Process all TSBs (or limit for testing)
+    # Extract TSB detail page URLs for specific codes
+    tsb_urls = extract_tsb_urls_from_file("www.carcomplaints.comjaguar-f-type-2020-tsbs.md", target_codes)
+    print(f"Found {len(tsb_urls)} matching TSB detail pages")
+    
+    # Process all matching TSBs
     downloaded = 0
-    limit = 87  # Process first 10 for testing
     
-    for i, tsb_url in enumerate(tsb_urls[:limit]):
-        print(f"\nProcessing TSB {i+1}/{min(limit, len(tsb_urls))}: {tsb_url.split('/')[-1]}")
+    for i, tsb_url in enumerate(tsb_urls):
+        print(f"\nProcessing TSB {i+1}/{len(tsb_urls)}: {tsb_url.split('/')[-1]}")
         
         # Extract PDF URL from detail page
         pdf_url = extract_pdf_url_from_page(tsb_url)
@@ -99,7 +116,7 @@ def main():
         else:
             print("No PDF found")
     
-    print(f"\nDownloaded {downloaded} out of {min(limit, len(tsb_urls))} TSB PDFs")
+    print(f"\nDownloaded {downloaded} out of {len(tsb_urls)} TSB PDFs")
 
 if __name__ == "__main__":
     main()

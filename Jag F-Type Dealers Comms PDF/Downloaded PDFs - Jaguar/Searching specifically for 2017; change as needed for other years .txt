@@ -1,0 +1,75 @@
+
+--- NHTSA Complaints ---
+No records matched the keywords: coolant, leak, LR186859, LR186917, redesign, upgrade, overheat
+
+--- Recalls ---
+No records matched the keywords: coolant, leak, LR186859, LR186917, redesign, upgrade, overheat
+
+--- Service Bulletins ---
+Found 13 matching record(s):
+--------------------
+ID: SSM75925
+Details: Oil Leak Transmission Oil Cooler Pipes
+--------------------
+ID: SSM75925
+Details: Oil Leak Transmission Oil Cooler Pipes
+--------------------
+ID: SFCC_OCT2022_34
+Details: Customer reports that low coolant lamp on, coolant leak.
+--------------------
+ID: SFCC_APR2022_29
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+--------------------
+ID: SFCC_APR2022_29
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+--------------------
+ID: SSM75700
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+--------------------
+ID: SFCC_MAR2022_33
+Details: Thermostat coolant leak
+--------------------
+ID: SFCC_DEC2021_37
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+--------------------
+ID: SSM75559
+Details: Coolant leak from Thermostat
+--------------------
+ID: SSM75559
+Details: Coolant leak from Thermostat
+--------------------
+ID: SFCC_OCT2021_30
+Details: Transmission fluid leaks
+--------------------
+ID: NAS20.07.001
+Details: Please be advised that effective immediately Service Actions H291 and N451, Coolant Pump Operation, have been reinstated.
+--------------------
+ID: SFCC Jul20_7
+Details: RE-LAUNCHED CAMPAIGNS N451 & H291 AJ20P ENGINE COOLANT PUMP OPERATION
+
+--- Warranty Communications ---
+No records found for 2020 Jaguar F-Type.
+
+--- Service Campaigns ---
+No records found for 2020 Jaguar F-Type.
+
+--- Over-the-Air Updates ---
+No records found for 2020 Jaguar F-Type.
+
+--- Other Communications ---
+Found 4 matching record(s):
+--------------------
+ID: TUCC_APR2025_18
+Details: Leaking windshield that caused the water ingress on the electrical component.
+--------------------
+ID: SFCC_DEC2024_48
+Details: Low coolant light on or smell of coolant from engine area.
+--------------------
+ID: SFCC_NOV2024_32
+Details: The engine cooling pump has a visible coolant leak.
+--------------------
+ID: SFCC_SEP2024_45
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+
+--- Emissions Communications ---
+No records found for 2020 Jaguar F-Type.

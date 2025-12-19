@@ -1,0 +1,1581 @@
+
+--- NHTSA Complaints ---
+No records matched the keywords: coolant, leak, LR186859, LR186917, redesign, upgrade, overheat, pump, thermostat, cross over, outlet pipe
+
+--- Recalls ---
+Found 6 matching record(s) across all model years:
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: AFTERSALES BULLETIN - SAFETY RECALL H081 (NHTSA 18V090):
+UNDERHOOD PETROL FUEL LEAK
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: Safety Recall 18V090 (H081) - Underhood Petrol Fuel Leak - Technical Bulletin
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: Safety Recall: 18V080 (H081) - Underhood Petrol Fuel Leak Technical Bulletin
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: Safety Recall: 18V090 (H081) - SSM73803 - Under Hood Petrol Fuel Leak_ Injector Refit Kit Incorrect Installation Instruction
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: Service Bulletin - Notification of Safety Recall NHTSA 18V090 (H081) - An issue has been identified on a limited number of vehicles for an underhood gasoline fuel leak. The brazing of fuel rail end caps is inconsistent and may not properly  seal  the fuel rail ends. Fuel vapor and liquid fuel leaks can occur over time. This can lead to a liquid fuel leak into the engine bay.
+------------------------------
+ID: 18V090
+Model Year: 2018
+Details: Safety Recall: 18V090 (H081) - Underhood Petrol Leak  - Service Bulletin
+
+--- Service Bulletins ---
+Found 352 matching record(s) across all model years:
+------------------------------
+ID: BIG5JAN24_27
+Model Year: 2014
+Details: POTENTIAL MANUFACTURING ISSUE WITH REPLACEMENT THERMOSTATS.
+------------------------------
+ID: NAS24.01.001
+Model Year: 2014
+Details: Potential manufacturing issue with replacement thermostats
+------------------------------
+ID: JLRTB02102NAS2
+Model Year: 2022
+Details: Engine Oil Leak From Cylinder Head
+------------------------------
+ID: JLRTB02102NAS2
+Model Year: 2021
+Details: Engine Oil Leak From Cylinder Head
+------------------------------
+ID: SSM75925
+Model Year: 2022
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2019
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2019
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2023
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2021
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2021
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2020
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2020
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2023
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM75925
+Model Year: 2022
+Details: Oil Leak Transmission Oil Cooler Pipes
+------------------------------
+ID: SSM71238
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump (engine)
+------------------------------
+ID: SSM72114
+Model Year: 2021
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2022
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2021
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2023
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2022
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2021
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2023
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2022
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114
+Model Year: 2023
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2015
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2014
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2016
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2014
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2018
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2019
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2017
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2023
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2022
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2016
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2021
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2020
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2015
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2019
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2021
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2018
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2022
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2020
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2023
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: SSM72114Attachme
+Model Year: 2017
+Details: 3.0 & 5.0 Gasoline engines ? High pressure fuel pump diagnostics
+------------------------------
+ID: 6-252NAS
+Model Year: 2015
+Details: vehicles with the durability of the supercharger cooling coolant pump
+------------------------------
+ID: 7091USA
+Model Year: 2015
+Details: In the case of the Primary drive belt becoming loose or detached, or the Power Steering pump pulley detaching, the vehicle will lose its power assisted steering.
+------------------------------
+ID: 7091USA
+Model Year: 2015
+Details: In the case of the Primary drive belt becoming loose or detached, or the Power Steering pump pulley detaching, the vehicle will lose its power assisted steering.
+------------------------------
+ID: SSM71238
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2014
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2021
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2016
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2022
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2023
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2020
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2019
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2018
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2017
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: SSM71238Attachme
+Model Year: 2015
+Details: Exhaust sound enhancement vacuum pump
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2014
+Details: Active Exhaust Vacuum Pump Noisy
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2014
+Details: Active Exhaust Vacuum Pump Noisy
+------------------------------
+ID: SFCC_OCT2022_34
+Model Year: 2022
+Details: Customer reports that low coolant lamp on, coolant leak.
+------------------------------
+ID: SFCC_OCT2022_34
+Model Year: 2021
+Details: Customer reports that low coolant lamp on, coolant leak.
+------------------------------
+ID: SFCC_OCT2022_34
+Model Year: 2020
+Details: Customer reports that low coolant lamp on, coolant leak.
+------------------------------
+ID: SFCC_OCT2022_34
+Model Year: 2019
+Details: Customer reports that low coolant lamp on, coolant leak.
+------------------------------
+ID: JLRTB02102NAS1
+Model Year: 2021
+Details: Engine Oil Leak From Cylinder Head
+------------------------------
+ID: JLRTB02102NAS1
+Model Year: 2022
+Details: Engine Oil Leak From Cylinder Head
+------------------------------
+ID: K261-UPS7314-4bN
+Model Year: 2015
+Details: Supercharger Cooling Coolant Pump Durability Concern.
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2022
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2019
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2021
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2019
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2018
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2020
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2020
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2021
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2018
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SFCC_APR2022_29
+Model Year: 2022
+Details: Thermostat coolant leak - Evident fluid leak from the engine compartment and the "Coolant Level Low" warning message may be on the cluster
+------------------------------
+ID: SSM75700
+Model Year: 2022
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2021
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2020
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2019
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2017
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2018
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SSM75700
+Model Year: 2023
+Details: 8HP 8-Speed Automatic Transmission replacements due to Automatic Transmission Fluid (ATF) contamination with coolant.
+------------------------------
+ID: SFCC_MAR2022_33
+Model Year: 2018
+Details: Thermostat coolant leak
+------------------------------
+ID: SFCC_MAR2022_33
+Model Year: 2019
+Details: Thermostat coolant leak
+------------------------------
+ID: SFCC_MAR2022_33
+Model Year: 2022
+Details: Thermostat coolant leak
+------------------------------
+ID: SFCC_MAR2022_33
+Model Year: 2020
+Details: Thermostat coolant leak
+------------------------------
+ID: SFCC_MAR2022_33
+Model Year: 2021
+Details: Thermostat coolant leak
+------------------------------
+ID: SFCC_DEC2021_37
+Model Year: 2021
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+------------------------------
+ID: SFCC_DEC2021_37
+Model Year: 2022
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+------------------------------
+ID: SFCC_DEC2021_37
+Model Year: 2019
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+------------------------------
+ID: SFCC_DEC2021_37
+Model Year: 2020
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+------------------------------
+ID: SFCC_DEC2021_37
+Model Year: 2018
+Details: AJ20-P4 engine- Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2015
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2020
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2018
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2017
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2022
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2014
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2021
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2019
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2016
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2019
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2018
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2017
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2015
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2014
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2022
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2020
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2016
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SSM75559
+Model Year: 2021
+Details: Coolant leak from Thermostat
+------------------------------
+ID: SFCC_OCT2021_30
+Model Year: 2022
+Details: Transmission fluid leaks
+------------------------------
+ID: SFCC_OCT2021_30
+Model Year: 2021
+Details: Transmission fluid leaks
+------------------------------
+ID: SFCC_OCT2021_30
+Model Year: 2020
+Details: Transmission fluid leaks
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS3
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS3
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS3
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS3
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS3
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: NAS20.07.001
+Model Year: 2019
+Details: Please be advised that effective immediately Service Actions H291 and N451, Coolant Pump Operation, have been reinstated.
+------------------------------
+ID: NAS20.07.001
+Model Year: 2020
+Details: Please be advised that effective immediately Service Actions H291 and N451, Coolant Pump Operation, have been reinstated.
+------------------------------
+ID: SFCC Jul20_7
+Model Year: 2019
+Details: RE-LAUNCHED CAMPAIGNS N451 & H291 AJ20P ENGINE COOLANT PUMP OPERATION
+------------------------------
+ID: SFCC Jul20_7
+Model Year: 2021
+Details: RE-LAUNCHED CAMPAIGNS N451 & H291 AJ20P ENGINE COOLANT PUMP OPERATION
+------------------------------
+ID: SFCC Jul20_7
+Model Year: 2020
+Details: RE-LAUNCHED CAMPAIGNS N451 & H291 AJ20P ENGINE COOLANT PUMP OPERATION
+------------------------------
+ID: Tech_RS_NOV19_87
+Model Year: 2018
+Details: The variable coolant pump shroud is sticking causing electronic cooling fan to run at 100% duty cycle and/or  illuminate the Check Engine MIL.
+------------------------------
+ID: Tech_RS_NOV19_87
+Model Year: 2018
+Details: The variable coolant pump shroud is sticking causing electronic cooling fan to run at 100% duty cycle and/or  illuminate the Check Engine MIL.
+------------------------------
+ID: JTB00677NAS2
+Model Year: 2019
+Details: An oil leak from underneath the vehicle may be evident. Upon further inspection, the leak  may be found to be from the transmission.
+------------------------------
+ID: SSM74589
+Model Year: 2020
+Details: Vehicles equipped with an AJ126 supercharged V6  engine are experiencing noise from the HP fuel pumps  and/or a Check Engine MIL illuminated with one of the  following DTCs stored in the PCM.  P228F-85  P025C-11  P0251-13  P064A-38  P0256-13
+------------------------------
+ID: SSM74589
+Model Year: 2019
+Details: Vehicles equipped with an AJ126 supercharged V6  engine are experiencing noise from the HP fuel pumps  and/or a Check Engine MIL illuminated with one of the  following DTCs stored in the PCM.  P228F-85  P025C-11  P0251-13  P064A-38  P0256-13
+------------------------------
+ID: SSM74589
+Model Year: 2017
+Details: Vehicles equipped with an AJ126 supercharged V6  engine are experiencing noise from the HP fuel pumps  and/or a Check Engine MIL illuminated with one of the  following DTCs stored in the PCM.  P228F-85  P025C-11  P0251-13  P064A-38  P0256-13
+------------------------------
+ID: SSM74589
+Model Year: 2016
+Details: Vehicles equipped with an AJ126 supercharged V6  engine are experiencing noise from the HP fuel pumps  and/or a Check Engine MIL illuminated with one of the  following DTCs stored in the PCM.  P228F-85  P025C-11  P0251-13  P064A-38  P0256-13
+------------------------------
+ID: SSM74589
+Model Year: 2018
+Details: Vehicles equipped with an AJ126 supercharged V6  engine are experiencing noise from the HP fuel pumps  and/or a Check Engine MIL illuminated with one of the  following DTCs stored in the PCM.  P228F-85  P025C-11  P0251-13  P064A-38  P0256-13
+------------------------------
+ID: NAS1909013
+Model Year: 2018
+Details: Service Actions H251 and N377 are Owner Notified Programs (ONP) to update InControl® Touch Pro? software in 2016-18MY vehicles to version 19B from earlier levels. This upgrade will be free of charge and delivered via the standard campaign process. Included in this software update is the Smartphone Pack, comprising of Apple CarPlay® and Android Auto? (subject to minimum vehicle specifications). Vehicles will also receive Software-Over-The-Air (SOTA) functionality.
+------------------------------
+ID: NAS1909013
+Model Year: 2017
+Details: Service Actions H251 and N377 are Owner Notified Programs (ONP) to update InControl® Touch Pro? software in 2016-18MY vehicles to version 19B from earlier levels. This upgrade will be free of charge and delivered via the standard campaign process. Included in this software update is the Smartphone Pack, comprising of Apple CarPlay® and Android Auto? (subject to minimum vehicle specifications). Vehicles will also receive Software-Over-The-Air (SOTA) functionality.
+------------------------------
+ID: NAS1909013
+Model Year: 2016
+Details: Service Actions H251 and N377 are Owner Notified Programs (ONP) to update InControl® Touch Pro? software in 2016-18MY vehicles to version 19B from earlier levels. This upgrade will be free of charge and delivered via the standard campaign process. Included in this software update is the Smartphone Pack, comprising of Apple CarPlay® and Android Auto? (subject to minimum vehicle specifications). Vehicles will also receive Software-Over-The-Air (SOTA) functionality.
+------------------------------
+ID: H225NAS1
+Model Year: 2019
+Details: A potential issue has been identified on certain Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error.
+------------------------------
+ID: H225NAS1
+Model Year: 2018
+Details: A potential issue has been identified on certain Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error.
+------------------------------
+ID: H225NAS1
+Model Year: 2018
+Details: A potential issue has been identified on certain Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error.
+------------------------------
+ID: H225NAS1
+Model Year: 2019
+Details: A potential issue has been identified on certain Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error.
+------------------------------
+ID: NAS19.06.004
+Model Year: 2019
+Details: An issue has been identified on a limited number of Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error
+------------------------------
+ID: NAS19.06.004
+Model Year: 2019
+Details: An issue has been identified on a limited number of Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error
+------------------------------
+ID: H225NAS1
+Model Year: 2019
+Details: A potential issue has been identified on certain Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error.
+------------------------------
+ID: NAS19-06-004
+Model Year: 2019
+Details: An issue has been identified on a limited number of Jaguar vehicles within the listed Affected Vehicle Range where the evaporative leak monitor function within the Powertrain Control Module (PCM) contains a software error
+------------------------------
+ID: SSM74375
+Model Year: 2018
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74375
+Model Year: 2016
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74375
+Model Year: 2019
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74375
+Model Year: 2014
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74375
+Model Year: 2015
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74375
+Model Year: 2017
+Details: Air leak from the right hand camshaft cover assembly due to a split diaphragm within the pressure control valve.  Any of the following DTCs (indicating an air intake system leak) could be stored in the Powertrain Control Module (PCM) ? P2187, P2189, P0505, P0507.
+------------------------------
+ID: SSM74008
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2019
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2019
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74038
+Model Year: 2014
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74038
+Model Year: 2018
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74038
+Model Year: 2015
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74038
+Model Year: 2016
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74038
+Model Year: 2017
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74038
+Model Year: 2019
+Details: Issue: A customer may report an oil leak under the vehicle from the transmission suspected to be the sump pan. Engineering would like to investigate the root cause as to these concerns
+------------------------------
+ID: SSM74008
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM74008Attachme
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM72254
+Model Year: 2015
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM72254
+Model Year: 2017
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM72254
+Model Year: 2014
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM72254
+Model Year: 2016
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SSM72254
+Model Year: 2018
+Details: Automatic transmission oil leaks (8HP45/75) resulting in transmission sump replacements.
+------------------------------
+ID: SFCC Jul12 2018
+Model Year: 2016
+Details: A customer may complain of a coolant leak from the vehicle.
+------------------------------
+ID: SFCC Jul12 2018
+Model Year: 2015
+Details: A customer may complain of a coolant leak from the vehicle.
+------------------------------
+ID: SSM74023
+Model Year: 2014
+Details: Issue:  The customer reports a coolant leak from the engine compartment which is found to originate from the thermostat housing seam.
+------------------------------
+ID: SSM74023
+Model Year: 2016
+Details: Issue:  The customer reports a coolant leak from the engine compartment which is found to originate from the thermostat housing seam.
+------------------------------
+ID: SSM74023
+Model Year: 2017
+Details: Issue:  The customer reports a coolant leak from the engine compartment which is found to originate from the thermostat housing seam.
+------------------------------
+ID: SSM74023
+Model Year: 2018
+Details: Issue:  The customer reports a coolant leak from the engine compartment which is found to originate from the thermostat housing seam.
+------------------------------
+ID: SSM74023
+Model Year: 2015
+Details: Issue:  The customer reports a coolant leak from the engine compartment which is found to originate from the thermostat housing seam.
+------------------------------
+ID: SFCC_14JUN18_10_
+Model Year: 2015
+Details: A Customer may experience a coolant leak or engine overheat condition.
+------------------------------
+ID: SFCC_14JUN18_10_
+Model Year: 2016
+Details: A Customer may experience a coolant leak or engine overheat condition.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS4
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: SFCC_08MAR18_11
+Model Year: 2018
+Details: A customer may complain of a coolant leak from the vehicle.
+------------------------------
+ID: SSM73384
+Model Year: 2017
+Details: Issue: Rear differential oil leak evident from the pinion seal.
+------------------------------
+ID: SSM73384
+Model Year: 2018
+Details: Issue: Rear differential oil leak evident from the pinion seal.
+------------------------------
+ID: SSM73384
+Model Year: 2015
+Details: Issue: Rear differential oil leak evident from the pinion seal.
+------------------------------
+ID: SSM73384
+Model Year: 2014
+Details: Issue: Rear differential oil leak evident from the pinion seal.
+------------------------------
+ID: SSM73384
+Model Year: 2016
+Details: Issue: Rear differential oil leak evident from the pinion seal.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2015
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2017
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2016
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2018
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00566NAS2
+Model Year: 2014
+Details: An 'engine overheat' message may be displayed on the Instrument Cluster and that coolant may be leaking from engine compartment area.
+------------------------------
+ID: JTB00533NAS1
+Model Year: 2014
+Details: SITUATION:    During an engine cold-start (coolant temperature at or below 75°C / 167°F), the engine may exhibit hard starting, rough idle, poor running, and/or an engine misfire. The engine Malfunction Indicator Lamp (MIL) may be illuminated with Diagnostic Trouble Code (DTC) P0316 stored in the Powertrain Control Module (PCM) and one or more misfire code(s) P0300, P0301, P0302, P0303, P0304, P0305, P0306, P0307, and/or P0308.
+------------------------------
+ID: SSM 71238
+Model Year: 2014
+Details: "ISSUE: A CUSTOMER MAY REPOR T A NOISE IN THE CABIN AREA,  THAT MAY APPEAR TO BE COMING F ROM THE REAR LEF T HAND  SIDE OF THE VEHICLE  CAUSE: THIS MAY BE DUE TO THE VACUUM HOSE ON THE  EXHAUS T SOUND VACUUM PUMP, BEING IN CONTACT WI TH THE  BODY."
+------------------------------
+ID: SSM72617
+Model Year: 2014
+Details: COOLANT EXPANSION TANK PRESSURE CAPS LEAKING
+------------------------------
+ID: SSM72617
+Model Year: 2016
+Details: COOLANT EXPANSION TANK PRESSURE CAPS LEAKING
+------------------------------
+ID: SSM72617
+Model Year: 2015
+Details: COOLANT EXPANSION TANK PRESSURE CAPS LEAKING
+------------------------------
+ID: JTB00417NAS3
+Model Year: 2014
+Details: SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.
+------------------------------
+ID: JTB00417NAS3
+Model Year: 2016
+Details: SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.
+------------------------------
+ID: JTB00417NAS3
+Model Year: 2017
+Details: SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.
+------------------------------
+ID: JTB00417NAS3
+Model Year: 2015
+Details: SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.
+------------------------------
+ID: JTB00417NAS1
+Model Year: 2014
+Details: "SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.  CAUSE: THE CAUSE MAY BE UNKNOWN."
+------------------------------
+ID: JTB00417NAS1
+Model Year: 2013
+Details: "SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.  CAUSE: THE CAUSE MAY BE UNKNOWN."
+------------------------------
+ID: JTB00417NAS1
+Model Year: 2015
+Details: "SITUATION: AN OIL LEAK MAY BE EVIDENT FROM UNDERNEATH THE VEHICLE OR DISCOVERED DURING ROUTINE SERVICE.  CAUSE: THE CAUSE MAY BE UNKNOWN."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2016
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2016
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS3
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00278NAS3
+Model Year: 2015
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER  A PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK  MAY BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE  COOLANT PUMP BEARING."
+------------------------------
+ID: JTB00278NAS3
+Model Year: 2015
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER  A PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK  MAY BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE  COOLANT PUMP BEARING."
+------------------------------
+ID: JTB00278NAS3
+Model Year: 2014
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER  A PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK  MAY BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE  COOLANT PUMP BEARING."
+------------------------------
+ID: JTB00278NAS3
+Model Year: 2014
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER  A PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK  MAY BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE  COOLANT PUMP BEARING."
+------------------------------
+ID: SSM72114
+Model Year: 2015
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2015
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2015
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: JTB00365NAS2
+Model Year: 2015
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00365NAS2
+Model Year: 2015
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00365NAS2
+Model Year: 2015
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS1
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS2
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS2
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS2
+Model Year: 2015
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: JTB00394NAS2
+Model Year: 2014
+Details: "SITUATION: A METALLIC 'CLICKING' / 'RASPING' NOISE MAY BE EVIDENT FROM THE ENGINE. THE NOISE MAY BE MORE  NOTICEABLE WHEN THE ENGINE IS AT IDLE SPEED AND WHEN THE ENGINE IS COLD.  CAUSE: THIS MAY BE CAUSED BY A NOISY HIGH PRESSURE FUEL PUMP OUTLET VALVE."
+------------------------------
+ID: SSM72114
+Model Year: 2015
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: SSM72114
+Model Year: 2015
+Details: "ISSUE: HIGH PRESSURE FUEL PUMP DIAGNOSTICS ON 3.0L AJ126 AND 5.0L AJ133 ENGINES HAVE BEEN UPDATED.  ACTION: PLEASE REFER TO THE PROCEDURE BELOW FOR INFORMATION ON HOW TO ACCESS THE NEW INFORMATION THROUGH SDD."
+------------------------------
+ID: 6-252NAS
+Model Year: 2015
+Details: A POTENTIAL ISSUE HAS BEEN IDENTIFIED ON A LIMITED NUMBER OF 2015 MODEL YEAR F-TYPE (X152) AND XF  (X250; 3.0L S/C V6 AND 5.0L S/C V8 ONLY) VEHICLES WITH THE DURABILITY OF THE SUPERCHARGER COOLING  COOLANT PUMP"
+------------------------------
+ID: K261 UPS7314-4BN
+Model Year: 2015
+Details: "SITUATION: A POTENTIAL ISSUE HAS BEEN IDENTIFIED ON A LIMITED NUMBER OF 2015MY F-TYPE (X152) AND XF (X250;  3.0L S/C V6 AND 5.0L S/C V8 ONLY) VEHICLES WITH THE DURABILITY OF THE SUPERCHARGER COOLING COOLANT PUMP.  ACTION: RETAILERS ARE REQUIRED TO HOLD ONLY AFFECTED VEHICLES THAT ARE WITHIN YOUR CONTROL AND REFRAIN FROM  RELEASING THE VEHICLES FOR NEW OR USED VEHICLE SALE PENDING COMPLETION OF THE REWORK ACTION DETAILED IN THIS  TECHNICAL BULLETIN."
+------------------------------
+ID: SSM72670
+Model Year: 2017
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2015
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2017
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2016
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2014
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2015
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2016
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: SSM72670
+Model Year: 2014
+Details: ISSUE: A NUMBER OF INSTANCES HAVE BEEN REPORTED WHERE A LOSS OF PRESSURE IN TYRES HAS BEEN OBSERVED WITH ASSOCIATED TYRE PRESSURE MONITORING SYSTEM (TPMS) WARNING MESSAGES. CUSTOMERS AND RETAILERS HAVE BEEN UNABLE TO REINFLATE AND MAINTAIN SERVICE PRESSURES DUE TO LEAKAGE FROM THE TPMS VALVES.
+------------------------------
+ID: JA14PA-11
+Model Year: 2015
+Details: "PLEASE BE ADVISED THAT WATER PUMP PART NUMBERS C2Z21781, C2Z28248, AND C2Z29189 -- 3.0L V6 / 5.0L V8 -- COME WITH FOUR (4) MOUNTING BOLTS.  PRIOR TO INSTALLING THIS PART, INSPECT THE PACKAGING AND MAKE SURE ALL FOUR (4) BOLTS ARE PRESENT."
+------------------------------
+ID: JA14PA-11
+Model Year: 2014
+Details: "PLEASE BE ADVISED THAT WATER PUMP PART NUMBERS C2Z21781, C2Z28248, AND C2Z29189 -- 3.0L V6 / 5.0L V8 -- COME WITH FOUR (4) MOUNTING BOLTS.  PRIOR TO INSTALLING THIS PART, INSPECT THE PACKAGING AND MAKE SURE ALL FOUR (4) BOLTS ARE PRESENT."
+------------------------------
+ID: JA14PA-11
+Model Year: 2014
+Details: "PLEASE BE ADVISED THAT WATER PUMP PART NUMBERS C2Z21781, C2Z28248, AND C2Z29189 -- 3.0L V6 / 5.0L V8 -- COME WITH FOUR (4) MOUNTING BOLTS.  PRIOR TO INSTALLING THIS PART, INSPECT THE PACKAGING AND MAKE SURE ALL FOUR (4) BOLTS ARE PRESENT."
+------------------------------
+ID: JA14PA-11
+Model Year: 2015
+Details: "PLEASE BE ADVISED THAT WATER PUMP PART NUMBERS C2Z21781, C2Z28248, AND C2Z29189 -- 3.0L V6 / 5.0L V8 -- COME WITH FOUR (4) MOUNTING BOLTS.  PRIOR TO INSTALLING THIS PART, INSPECT THE PACKAGING AND MAKE SURE ALL FOUR (4) BOLTS ARE PRESENT."
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2015
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2015
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2014
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00365NAS1
+Model Year: 2014
+Details: "SITUATION: A BUZZING NOISE COMING FROM THE REAR LEFT OF THE VEHICLE MAY BE EVIDENT, OCCURRING PREDOMINANTLY AT LOW  SPEEDS.  CAUSE: THIS MAY BE CAUSED BY THE ORIENTATION OF THE ACTIVE EXHAUST VACUUM PUMP AGAINST THE VEHICLE BODY, WHICH  AMPLIFIES THE PUMP VIBRATIONS."
+------------------------------
+ID: JTB00278NAS2
+Model Year: 2014
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER A  PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK MAY  BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE COOLANT  PUMP BEARING."
+------------------------------
+ID: JTB00278NAS2
+Model Year: 2014
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER A  PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK MAY  BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE COOLANT  PUMP BEARING."
+------------------------------
+ID: JTB00278NAS2
+Model Year: 2014
+Details: "SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER A  PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK MAY  BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE COOLANT  PUMP BEARING."
+------------------------------
+ID: SSM73028
+Model Year: 2014
+Details: ISSUE: THE CUSTOMER MAY REPORT A NOISE FROM THE ENGINE BAY.  THIS MAYBE ACCOMPANIED WITH THE COOLANT GAUGE READING HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATED. INVESTIGATION FINDS A CONCERN WITH THE PRIMARY IDLER PULLEY ASSEMBLY WHICH IN SOME CASES CAN LEAD TO DAMAGE OF THE PRIMARY DRIVE BELT.  THE PRIMARY BELT DRIVES THE COOLANT PUMP AND GENERATOR HENCE THE POTENTIAL FOR THE COOLANT GAUGE TO READ HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATING IF THE BELT IS DAMAGED AND NOT FUNCTIONING CORRECTLY.  THIS CONCERNS AFFECTS LTIS (LOW TIME IN SERVICE) VEHICLES WITH THE 3.0 AJ126 AND 5.0 AJ133 GASOLINE ENGINES FITTED.
+------------------------------
+ID: SSM73028
+Model Year: 2016
+Details: ISSUE: THE CUSTOMER MAY REPORT A NOISE FROM THE ENGINE BAY.  THIS MAYBE ACCOMPANIED WITH THE COOLANT GAUGE READING HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATED. INVESTIGATION FINDS A CONCERN WITH THE PRIMARY IDLER PULLEY ASSEMBLY WHICH IN SOME CASES CAN LEAD TO DAMAGE OF THE PRIMARY DRIVE BELT.  THE PRIMARY BELT DRIVES THE COOLANT PUMP AND GENERATOR HENCE THE POTENTIAL FOR THE COOLANT GAUGE TO READ HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATING IF THE BELT IS DAMAGED AND NOT FUNCTIONING CORRECTLY.  THIS CONCERNS AFFECTS LTIS (LOW TIME IN SERVICE) VEHICLES WITH THE 3.0 AJ126 AND 5.0 AJ133 GASOLINE ENGINES FITTED.
+------------------------------
+ID: SSM73028
+Model Year: 2015
+Details: ISSUE: THE CUSTOMER MAY REPORT A NOISE FROM THE ENGINE BAY.  THIS MAYBE ACCOMPANIED WITH THE COOLANT GAUGE READING HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATED. INVESTIGATION FINDS A CONCERN WITH THE PRIMARY IDLER PULLEY ASSEMBLY WHICH IN SOME CASES CAN LEAD TO DAMAGE OF THE PRIMARY DRIVE BELT.  THE PRIMARY BELT DRIVES THE COOLANT PUMP AND GENERATOR HENCE THE POTENTIAL FOR THE COOLANT GAUGE TO READ HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATING IF THE BELT IS DAMAGED AND NOT FUNCTIONING CORRECTLY.  THIS CONCERNS AFFECTS LTIS (LOW TIME IN SERVICE) VEHICLES WITH THE 3.0 AJ126 AND 5.0 AJ133 GASOLINE ENGINES FITTED.
+------------------------------
+ID: SSM73028
+Model Year: 2017
+Details: ISSUE: THE CUSTOMER MAY REPORT A NOISE FROM THE ENGINE BAY.  THIS MAYBE ACCOMPANIED WITH THE COOLANT GAUGE READING HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATED. INVESTIGATION FINDS A CONCERN WITH THE PRIMARY IDLER PULLEY ASSEMBLY WHICH IN SOME CASES CAN LEAD TO DAMAGE OF THE PRIMARY DRIVE BELT.  THE PRIMARY BELT DRIVES THE COOLANT PUMP AND GENERATOR HENCE THE POTENTIAL FOR THE COOLANT GAUGE TO READ HIGH AND/OR THE CHARGE WARNING INDICATOR ILLUMINATING IF THE BELT IS DAMAGED AND NOT FUNCTIONING CORRECTLY.  THIS CONCERNS AFFECTS LTIS (LOW TIME IN SERVICE) VEHICLES WITH THE 3.0 AJ126 AND 5.0 AJ133 GASOLINE ENGINES FITTED.
+------------------------------
+ID: JTB00278NAS2
+Model Year: 2014
+Details: SITUATION: THE FLUID LEVEL IN THE ENGINE COOLANT SYSTEM EXPANSION TANK MAY FALL BELOW THE MINIMUM LEVEL OVER A  PERIOD OF TIME OR A LOW COOLANT LEVEL MESSAGE IS DISPLAYED IN THE MESSAGE CENTER. UPON INSPECTION, A LEAK MAY  BE FOUND TO BE FROM THE FRONT OF THE ENGINE-DRIVEN COOLANT PUMP, TOGETHER WITH EXCESSIVE WEAR OF THE COOLANT  PUMP BEARING.
+------------------------------
+ID: K261UPS7314
+Model Year: 2015
+Details: JAGUAR 2015 F TYPE, XF(250) ; INFORMATION REGARDING SUPERCHARGER COOLING COOLANT PUMP DURABILITY CONCERN WITH 3.0L S/C V6 AND 5.0L VEHICLES.   *LJ
+------------------------------
+ID: 6-252NAS
+Model Year: 2015
+Details: JAGUAR 2015 F-TYPE MODEL YEAR.  DURABILITY CONCERN FOR SUPERCHARGER COOLING COOLANT PUMP .     *LJ
+------------------------------
+ID: SSM72114
+Model Year: 2014
+Details: JAGUAR: F-TYPE  HIGH PRESSURE FUEL PUMP DIAGNOSTICS:   INFORMATION ON HIGH PRESSURE FUEL PUMP ENGINES HAVE BEEN UPDATED.    *LJ
+------------------------------
+ID: SSM-71811
+Model Year: 2015
+Details: JAGUAR:  THE POWER STEERING GEARS ARE LEAKING FLUID DUE TO AN O RING IN TRANSFER PIPES CAN, DEFORM IN SOME CASES, RESULTING IN LEAKAGE FROM MATING SURFACE BETWEEN STEERING GEAR AND TRANSFER PIPES.  MODEL XK (X150), F-TYPE (X152), XJ (351), XF (X250).    *PE
+------------------------------
+ID: 6-217
+Model Year: 2014
+Details: 2014 XJR JAGUAR REQUIRES A UPGRADE TO THE REAR SUSPENSION. *LJ
+
+--- Warranty Communications ---
+No records found for Jaguar F-Type in this dataset.
+
+--- Service Campaigns ---
+No records found for Jaguar F-Type in this dataset.
+
+--- Over-the-Air Updates ---
+No records found for Jaguar F-Type in this dataset.
+
+--- Other Communications ---
+Found 31 matching record(s) across all model years:
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2024
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2014
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2015
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2016
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2017
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2018
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2019
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2020
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2021
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2022
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: TUCC_APR2025_18
+Model Year: 2023
+Details: Leaking windshield that caused the water ingress on the electrical component.
+------------------------------
+ID: SFCC_FEB2025_46
+Model Year: 2024
+Details: Low engine coolant lamp warning on instrument panel and/or coolant leak at expansion tank cap.
+------------------------------
+ID: SFCC_FEB2025_46
+Model Year: 2023
+Details: Low engine coolant lamp warning on instrument panel and/or coolant leak at expansion tank cap.
+------------------------------
+ID: SSM76258
+Model Year: 2023
+Details: Coolant Loss Through Engine Coolant Expansion Tank Cap
+------------------------------
+ID: SSM76258
+Model Year: 2024
+Details: Coolant Loss Through Engine Coolant Expansion Tank Cap
+------------------------------
+ID: SFCC_DEC2024_48
+Model Year: 2020
+Details: Low coolant light on or smell of coolant from engine area.
+------------------------------
+ID: SFCC_DEC2024_48
+Model Year: 2021
+Details: Low coolant light on or smell of coolant from engine area.
+------------------------------
+ID: SFCC_DEC2024_48
+Model Year: 2023
+Details: Low coolant light on or smell of coolant from engine area.
+------------------------------
+ID: SFCC_DEC2024_48
+Model Year: 2024
+Details: Low coolant light on or smell of coolant from engine area.
+------------------------------
+ID: SFCC_DEC2024_48
+Model Year: 2022
+Details: Low coolant light on or smell of coolant from engine area.
+------------------------------
+ID: SFCC_NOV2024_32
+Model Year: 2022
+Details: The engine cooling pump has a visible coolant leak.
+------------------------------
+ID: SFCC_NOV2024_32
+Model Year: 2020
+Details: The engine cooling pump has a visible coolant leak.
+------------------------------
+ID: SFCC_NOV2024_32
+Model Year: 2021
+Details: The engine cooling pump has a visible coolant leak.
+------------------------------
+ID: SFCC_NOV2024_32
+Model Year: 2023
+Details: The engine cooling pump has a visible coolant leak.
+------------------------------
+ID: SFCC_NOV2024_32
+Model Year: 2024
+Details: The engine cooling pump has a visible coolant leak.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2022
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2023
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2020
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2024
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2019
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+------------------------------
+ID: SFCC_SEP2024_45
+Model Year: 2021
+Details: Low coolant light on or visible signs of engine coolant on or around the coolant pump.
+
+--- Emissions Communications ---
+No records found for Jaguar F-Type in this dataset.
