@@ -1,0 +1,134 @@
+{
+    "Invoice #": "908960",
+    "Repair Order #": "908960",
+    "Invoice Date": "2024-10-02",
+    "Customer Name": "NYREE HINTON",
+    "Customer Address": null,
+    "Customer Phone": "732-979-6264",
+    "Customer Email": "na@na.com",
+    "Vehicle Year": null,
+    "Vehicle Make": "JAGUAR",
+    "Vehicle Model": "F-TYPE",
+    "Vehicle VIN": "SAJDD1GX4LCK67497",
+    "Vehicle License Plate": null,
+    "Vehicle Tag #": "124",
+    "Mileage In": "23072",
+    "Mileage Out": "23073",
+    "Service Advisor Name": "JOEL CRUZ",
+    "Service Advisor ID": "78714",
+    "Technician Name": "CHAVEZ CUEVAS",
+    "Line Items": [{
+            "Line": "A",
+            "Description": "CUSTOMER STATES DRIVERS SIDE WINDOW DOES NOT ROLL UP.",
+            "Labor Description": "VERIFIED CUSTOMER CONCERN FOUND WINDOW SWITCH NOT WORKING. CHECK SEAT SWITCH AND IT ALSO NOT WORKING SO IS THE LOCK AND UNLOCK SWITCH NOT WORKING. CHECK FUSE AT THE REAR JUNCTION BOX FOR FRONT LEFT DOOR MODULE AND FUSE WAS BLOWN. CHECK POWER WIRE FOR 12 VOLTS AND GOT 12VOLTS FROM JUNCTION BOX TO LEFT DOOR CONTROL MODULE. CHECK GROUND FROM JUNCTION BOX TO LEFT DOOR MODULE AND THERE WAS A SHORT TO GROUND. REPAIR GROUND WIRE AND REPLACE FUSE AND FUSE DIDN'T BLOW AGAIN. NOW GOT POWER TO LEFT FRONT DOOR MODULE AND WINDOW SWITCH IS NOW WORKING AS IT SHOULD.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "B",
+            "Description": "MULTI POINT INSPECTION",
+            "Labor Description": "PERFORMED MPI. ALL TIRES AT 9/32ND (MINIMUM IS 3/32ND). FRONT BRAKES AT 6MM (MINIMUM IS 3MM). REAR BRAKES AT 4MM (MINIMUM IS 3MM). Declined Rear Brake Replacement. Declined Scheduled Maintenance.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "C",
+            "Description": "PERFORM TIRE PRESSURE SERVICE",
+            "Labor Description": "SET TIRES PRESSURE TO SPEC. LEFT 37PSI FRONT RIGHT 37PSI REAR LEFT 37PSI REAR RIGHT 37PSI.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        }
+    ],
+    "Parts Subtotal": 0.00,
+    "Labor Subtotal": 0.00,
+    "Other Subtotal": 0.00,
+    "Sales Tax": 0.00,
+    "Total Amount Due": 0.00,
+    "Amount Paid": 0.00,
+    "Payment Date": null,
+    "Payment Type": null,
+    "Card Type": null,
+    "Last 4 Digits of Card": null,
+    "Approval Code": null,
+    "Multi-Point Inspection Summary": {
+        "Date": "2024-10-02",
+        "Fluid Levels and Filters": {
+            "Engine Oil": "OK FILL",
+            "Brake Reservoir": "OK FILL",
+            "Windshield Washer": "OK FILL",
+            "Headlamp Washer": "OK FILL",
+            "Power Steering": "OK FILL",
+            "Coolant Recovery Reservoir": "OK FILL",
+            "Transmission": "OK FILL"
+        },
+        "Battery Condition": "Good",
+        "Systems/Components Check": [
+            "Operation of horn, interior lights, exterior lamps, turn signals, hazard and brake lamps: Passed",
+            "Visually inspect headlamp alignment: Passed",
+            "Windshield washer spray, wiper operation and wiper blades: Passed",
+            "Windshield cracks and/or chips: Passed",
+            "Heating, ventilation and air conditioning check: Passed",
+            "Engine air cleaner filter: Passed",
+            "Oil and/or fluid leaks: Passed",
+            "Constant velocity (Cv) drive axle boots (if equipped): Passed",
+            "Exhaust system (leaks, damage, loose parts): Passed",
+            "Steering and steering linkages: Passed",
+            "Shocks/struts, air suspension and other suspension components for leaks and/or damage: Passed",
+            "Brake system (including lines, hoses and parking brake): Passed",
+            "Engine cooling system, hoses and clamps: Passed",
+            "Radiator, heater and air conditioning hoses for leaks / damage: Passed",
+            "Accessory drive belt(s): Passed",
+            "Clutch operation (if equipped): Passed",
+            "Floor mats: Passed",
+            "Navigation map update required: Passed",
+            "State inspection due (if applicable): Passed",
+            "Your last completed maintenance: Passed",
+            "Your next factory scheduled maintenance: Passed"
+        ],
+        "Brakes": {
+            "Front Brake Linings": {
+                "RF": "6mm",
+                "LF": "6mm"
+            },
+            "Rear Brake Linings": {
+                "RR": "4mm",
+                "LR": "4mm"
+            },
+            "Comments": "Brake/tire replacement will be required prior to the next scheduled maintenance service."
+        },
+        "Tires": {
+            "Tread Depth Measurements": {
+                "Front Left": "9/32\"",
+                "Front Right": "9/32\"",
+                "Rear Left": "9/32\"",
+                "Rear Right": "9/32\""
+            },
+            "Wear Pattern/Damage": "OK",
+            "Alignment Check Recommended": "No",
+            "Wheel Balance Recommended": "No",
+            "Tire Pressures (Factory Recommendations)": {
+                "Front": "35PSI",
+                "Rear": "35PSI"
+            }
+        }
+    },
+    "Recommendations (Not Performed)": [{
+            "Description": "AutoNation Parts - Aftermarket REAR BRAKE PADS/SHOES",
+            "Reason Denied": "Customer will have work performed later",
+            "Person Contacted": "NYREE HINTON",
+            "Estimated Cost": 696.70
+        },
+        {
+            "Description": "Service - 64,000 Miles",
+            "Reason Denied": "Customer will have work performed later",
+            "Person Contacted": "NYREE HINTON",
+            "Estimated Cost": 1428.79
+        }
+    ]
+}

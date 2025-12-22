@@ -1,0 +1,96 @@
+{
+    "Invoice #": "825649",
+    "Repair Order #": "825649",
+    "Invoice Date": "2024-11-21 04:08 PM",
+    "Customer Name": "NYREE HINTON",
+    "Customer Address": "616 MASSELIN AVE APT 210 Los Angeles, CA 90036",
+    "Customer Phone": "732-979-6264",
+    "Customer Email": null,
+    "Vehicle Year": "2020",
+    "Vehicle Make": "JAGUAR",
+    "Vehicle Model": "F-TYPE",
+    "Vehicle VIN": "SAJDD1GX4LCK67497",
+    "Vehicle License Plate": null,
+    "Vehicle Tag #": "T4486",
+    "Mileage In": "23963",
+    "Mileage Out": "23964",
+    "Service Advisor Name": "Danny Sanchez",
+    "Service Advisor Phone": "(424) 329-5332",
+    "Technician Name": "Robert Salcido",
+    "Line Items": [{
+            "Line": "A",
+            "Description": "COOLING SYSTEM CLIENT STATES LOW COOLANT WARNING LIGHT IS ON CLIENT REQUEST GOOD WILL BE SENT FOR REPAIRS VEHICLE WARRANTY EXPIRED. CLIENT ATTEMPTED TO BRING THE VEHICLE IN ON 11/07/24 BUT WAS UNABLE TO GET AN APPT UNTIL 11/18/24 CRC 8001315826. REPLACE EXPANSION TANK TO BLEED PIPE DUE TO LEAK FROM PIPE PRESSURE TESTED COOLING SYSTEM. FOUND:-BLEED PIPE FROM EXPANSION TANK LEAKING COOLANT.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "B",
+            "Description": "CUSTOMER STATES RESET ALL TIRE PRESSURES. LEFT 37PSI FRONT RIGHT 37PSI REAR LEFT 37PSI REAR RIGHT 37PSI.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "C",
+            "Description": "COMPLIMENTARY JAGUAR MULTI-POINT INSPECTION. MPI AVAILABLE IN MYKAARMA.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "D",
+            "Description": "I HAVE BEEN ADVISED AND I HAVE REMOVED EVERYTHING OF VALUE FROM MY VEHICLE. I UNDERSTAND THAT JLR LA WILL NOT BE RESPONSIBLE FOR THE LOSS OR DAMAGE OF ANY ITEMS LEFT IN MY VEHICLE.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "E",
+            "Description": "UBER VOUCHER COMPLIMENTARY RIDE SERVICE.",
+            "Parts": 0.00,
+            "Labor": 0.00,
+            "Other": 0.00,
+            "Total": 0.00
+        },
+        {
+            "Line": "F",
+            "Description": "REPLACE EXPANSION TANK TO BLEED PIPE DUE TO LEAK FROM PIPE. PRESSURE TESTED COOLING SYSTEM FOUND BLEED PIPE FROM EXPANSION TANK LEAKING COOLANT. USING TOPIX CLOUD, STARTED A NEW FAULT WORK FLOW AND ACQUIRED RVC 'TYKTIUCO'. REMOVED LEAKING BLEED PIPE AND REFITTED NEW EXPANSION TANK BLEED PIPE. VACUUM FILLED EXPANSTON TANK WITH COOLANT TO CORRECT LEVEL. AFTER TEST DRIVE NO LEAKS WERE FOUND.",
+            "Items": [{
+                    "Part Number": "T2R47919",
+                    "Description": "HOSE",
+                    "Quantity": 1,
+                    "Unit Price": 89.33,
+                    "Total Price": 89.33
+                },
+                {
+                    "Part Number": "T2H59152",
+                    "Description": "ANTIFREEZE",
+                    "Quantity": 1,
+                    "Unit Price": 43.20,
+                    "Total Price": 43.20
+                }
+            ],
+            "Labor Description": "REPLACE EXPANSION TANK TO BLEED PIPE DUE TO LEAK FROM PIPE",
+            "Parts": 132.53,
+            "Labor": 149.50,
+            "Other": 0.00,
+            "Total": 282.03
+        }
+    ],
+    "Parts Subtotal": 132.53,
+    "Labor Subtotal": 149.50,
+    "Other Subtotal": 0.00,
+    "Sales Tax": 12.59,
+    "Total Amount Due": 294.62,
+    "Amount Paid": 294.62,
+    "Payment Date": "2024-11-21 04:09 PM",
+    "Payment Type": "Chip",
+    "Card Type": "Amex",
+    "Last 4 Digits of Card": "2000",
+    "Approval Code": "479385"
+}

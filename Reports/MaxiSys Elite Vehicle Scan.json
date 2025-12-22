@@ -1,0 +1,371 @@
+{
+  "report_id": "MAXIA20250827114736",
+  "test_time": "2025-08-27 11:47:36",
+  "technician": null,
+  "shop_info": {
+    "name": null,
+    "tel": null,
+    "email": null,
+    "address": null
+  },
+  "customer_info": {
+    "name": null,
+    "tel": null
+  },
+  "vehicle_info": {
+    "year_make_model": "2020/Jaguar/F-Type (X152)/204PT - 2.0 AJ200P petrol",
+    "vin": "SAJDD1GX4LCK67497",
+    "odometer_reading": "28812.36miles",
+    "license_plate": null
+  },
+  "device_info": {
+    "scanner": "MaxiSys Elite",
+    "version": "V8.91",
+    "serial_number": "V09R50102204",
+    "repair_order_number": null
+  },
+  "scanned_systems_summary": {
+    "total_systems_scanned": 33,
+    "systems": [
+      {
+        "module": "PCM (Powertrain Control Module)",
+        "dtc_count": 3
+      },
+      {
+        "module": "TCM (Transmission Control Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "ABS (Anti-Lock Brake System Control Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "RCM (Restraints Control Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "IPC (Instrument Panel Cluster Control Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "PBM (Park Brake Control Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "TPM (Tire Pressure Monitor Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "BCM (Body Control Module)",
+        "dtc_count": 5
+      },
+      {
+        "module": "ATCM (All Terrain Control Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "CHCM (Chassis Control Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "DDM (Driver Front Door Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "DSM (Driver Front Seat Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "FCIM (Front Controls Interface Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "GWM (Gateway Module 'A')",
+        "dtc_count": 1
+      },
+      {
+        "module": "GSM (Gear Shift Module)",
+        "dtc_count": 3
+      },
+      {
+        "module": "HCM (Headlamp Control Module 'A')",
+        "dtc_count": 1,
+        "adas": true
+      },
+      {
+        "module": "HCMB (Headlamp Control Module 'B')",
+        "dtc_count": 1,
+        "adas": true
+      },
+      {
+        "module": "HVAC (HVAC Control Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "IPMB (Image Processing Module 'B')",
+        "dtc_count": 4,
+        "adas": true
+      },
+      {
+        "module": "IMC (Infotainment Master Controller)",
+        "dtc_count": 1
+      },
+      {
+        "module": "PAM (Parking Assist Control Module)",
+        "dtc_count": 1,
+        "adas": true
+      },
+      {
+        "module": "PDM (Passenger Front Door Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "PSM (Passenger Front Seat Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "PSCM (Power Steering Control Module)",
+        "dtc_count": 1
+      },
+      {
+        "module": "RGTM (Rear Gate / Trunk Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "RFA (Remote Function Actuator)",
+        "dtc_count": 0
+      },
+      {
+        "module": "OCS (Restraints Occupant Classification System Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "SODL (Side Obstacle Detection Control Module - Left)",
+        "dtc_count": 0,
+        "adas": true
+      },
+      {
+        "module": "SODR (Side Obstacle Detection Control Module - Right)",
+        "dtc_count": 0,
+        "adas": true
+      },
+      {
+        "module": "SASM (Steering Angle Sensor Module)",
+        "dtc_count": 0
+      },
+      {
+        "module": "AAM (Audio Amplifier Module)",
+        "dtc_count": 4
+      },
+      {
+        "module": "IPMA (Image Processing Module 'A')",
+        "dtc_count": 2,
+        "adas": true
+      },
+      {
+        "module": "TCU (Telematic Control Unit Module)",
+        "dtc_count": 1
+      }
+    ]
+  },
+  "dtc_details": [
+    {
+      "module": "PCM (Powertrain Control Module)",
+      "dtc": "U0402-68",
+      "description": "Invalid data received from Transmission Control Module (TCM) - Event information",
+      "status": "History"
+    },
+    {
+      "module": "PCM (Powertrain Control Module)",
+      "dtc": "P2B61-73",
+      "description": "Engine coolant flow control valve stuck closed - Actuator stuck closed",
+      "status": "History"
+    },
+    {
+      "module": "PCM (Powertrain Control Module)",
+      "dtc": "P26CB-72",
+      "description": "Variable coolant pump performance/stuck off - Actuator stuck open",
+      "status": "History"
+    },
+    {
+      "module": "ABS (Anti-Lock Brake System Control Module)",
+      "dtc": "U0001-81",
+      "description": "High speed CAN communication bus - Invalid serial data received",
+      "status": "History"
+    },
+    {
+      "module": "IPC (Instrument Panel Cluster Control Module)",
+      "dtc": "U0028-87",
+      "description": "Vehicle communication bus A - Missing message",
+      "status": "History"
+    },
+    {
+      "module": "BCM (Body Control Module)",
+      "dtc": "B123A-23",
+      "description": "Left front turn signal - Signal stuck low",
+      "status": "History"
+    },
+    {
+      "module": "BCM (Body Control Module)",
+      "dtc": "B123B-23",
+      "description": "Right front turn signal - Signal stuck low",
+      "status": "History"
+    },
+    {
+      "module": "BCM (Body Control Module)",
+      "dtc": "B1C33-14",
+      "description": "Steering column tilt feedback signal - Circuit short to ground or open",
+      "status": "Unknown"
+    },
+    {
+      "module": "BCM (Body Control Module)",
+      "dtc": "B1C35-14",
+      "description": "Steering column telescope feedback signal - Circuit short to ground or open",
+      "status": "Unknown"
+    },
+    {
+      "module": "BCM (Body Control Module)",
+      "dtc": "B1C45-67",
+      "description": "Front windshield wiper park position switch - Signal incorrect after event",
+      "status": "Unknown"
+    },
+    {
+      "module": "CHCM (Chassis Control Module)",
+      "dtc": "U0001-81",
+      "description": "High speed CAN communication bus - Invalid serial data received",
+      "status": "History"
+    },
+    {
+      "module": "GWM (Gateway Module 'A')",
+      "dtc": "B1412-96",
+      "description": "Quiescent relay box - Component internal fault",
+      "status": "Permanent"
+    },
+    {
+      "module": "GSM (Gear Shift Module)",
+      "dtc": "B146A-29",
+      "description": "Control module integral user switches - Signal invalid",
+      "status": "History"
+    },
+    {
+      "module": "GSM (Gear Shift Module)",
+      "dtc": "U0402-92",
+      "description": "Invalid data received from Transmission Control Module (TCM) - Performance or incorrect operation",
+      "status": "History"
+    },
+    {
+      "module": "GSM (Gear Shift Module)",
+      "dtc": "U2011-02",
+      "description": "Motor - General signal fault",
+      "status": "History"
+    },
+    {
+      "module": "HCM (Headlamp Control Module 'A')",
+      "dtc": "U0046-81",
+      "description": "Vehicle communication bus C - Invalid serial data received",
+      "status": "History"
+    },
+    {
+      "module": "HCMB (Headlamp Control Module 'B')",
+      "dtc": "U0046-81",
+      "description": "Vehicle communication bus C - Invalid serial data received",
+      "status": "History"
+    },
+    {
+      "module": "HVAC (HVAC Control Module)",
+      "dtc": "B1088-88",
+      "description": "LIN bus B - Bus off",
+      "status": "Unknown"
+    },
+    {
+      "module": "IPMB (Image Processing Module 'B')",
+      "dtc": "B14AD-31",
+      "description": "Touch screen - No signal",
+      "status": "History"
+    },
+    {
+      "module": "IPMB (Image Processing Module 'B')",
+      "dtc": "U0447-29",
+      "description": "Invalid data received from gateway A - Signal invalid",
+      "status": "History"
+    },
+    {
+      "module": "IPMB (Image Processing Module 'B')",
+      "dtc": "U1A4B-49",
+      "description": "Control module processor B - Internal electronic fault",
+      "status": "History"
+    },
+    {
+      "module": "IPMB (Image Processing Module 'B')",
+      "dtc": "U201B-54",
+      "description": "Control module calibration data 2 - Missing calibration",
+      "status": "Unknown"
+    },
+    {
+      "module": "IMC (Infotainment Master Controller)",
+      "dtc": "U2016-68",
+      "description": "Control module main software - Event information",
+      "status": "Unknown"
+    },
+    {
+      "module": "PAM (Parking Assist Control Module)",
+      "dtc": "U0001-82",
+      "description": "High speed CAN communication bus - Alive/sequence counter incorrect/not updated",
+      "status": "History"
+    },
+    {
+      "module": "PSM (Passenger Front Seat Module)",
+      "dtc": "U3001-46",
+      "description": "Control module improper shutdown (voltage related) - Calibration/parameter memory fault",
+      "status": "Permanent"
+    },
+    {
+      "module": "PSCM (Power Steering Control Module)",
+      "dtc": "U2300-54",
+      "description": "Central configuration - Missing calibration",
+      "status": "Unknown"
+    },
+    {
+      "module": "AAM (Audio Amplifier Module)",
+      "dtc": "B128A-11",
+      "description": "Speaker #13 - Circuit short to ground",
+      "status": "Unknown"
+    },
+    {
+      "module": "AAM (Audio Amplifier Module)",
+      "dtc": "B128A-12",
+      "description": "Speaker #13 - Circuit short to battery",
+      "status": "History"
+    },
+    {
+      "module": "AAM (Audio Amplifier Module)",
+      "dtc": "B128B-11",
+      "description": "Speaker #14 - Circuit short to ground",
+      "status": "Unknown"
+    },
+    {
+      "module": "AAM (Audio Amplifier Module)",
+      "dtc": "B128B-12",
+      "description": "Speaker #14 - Circuit short to battery",
+      "status": "History"
+    },
+    {
+      "module": "IPMA (Image Processing Module 'A')",
+      "dtc": "U0001-81",
+      "description": "High speed CAN communication bus - Invalid serial data received",
+      "status": "History"
+    },
+    {
+      "module": "IPMA (Image Processing Module 'A')",
+      "dtc": "U0001-82",
+      "description": "High speed CAN communication bus - Alive/sequence counter incorrect/not updated",
+      "status": "History"
+    },
+    {
+      "module": "TCU (Telematic Control Unit Module)",
+      "dtc": "B1A56-13",
+      "description": "Antenna - Open circuit",
+      "status": "History"
+    }
+  ]
+}

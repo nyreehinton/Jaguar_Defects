@@ -1,0 +1,92 @@
+{
+  "dealer_information": {
+    "name": "JAGUAR LAND ROVER LOS ANGELES",
+    "address": "400 S. LA BREA AVE LOS ANGELES, CA 90036",
+    "phone": "(310) 274-5133",
+    "work_order_number": "100821",
+    "page_number": "1",
+    "bar_reg_number": "ARD 313300",
+    "epa_number": "CAL-000-470-554"
+  },
+  "customer_information": {
+    "customer_number": "10012996",
+    "name": "NYREE HINTON",
+    "address": "6401 WILSHIRE BLVD #608D Los Angeles, CA 90048",
+    "email": "nyreehinton@gmail.com",
+    "home_phone": "732-979-6264",
+    "business_phone": "732-979-6264"
+  },
+  "vehicle_information": {
+    "year": "20",
+    "make_model": "JAGUAR F-TYPE",
+    "vin": "SAJDD1GX4LCK67497",
+    "license": null,
+    "tag": "T8671",
+    "mileage_in": "28769",
+    "mileage_out": null,
+    "color": null,
+    "options": "ENG:2.0_Liter_Supercharged"
+  },
+  "service_advisor": {
+    "id": "82903",
+    "name": "COLAVITTI, MICHAEL"
+  },
+  "work_order_dates": {
+    "delivery_date": "30SEP24",
+    "promised_date_time": "18:00 20AUG25",
+    "ro_opened_date": "30SEP24",
+    "production_date": "30SEP24"
+  },
+  "payment_details": {
+    "payment_method": "CASH",
+    "rate": "0.00"
+  },
+  "repair_items": [
+    {
+      "item_number": "A",
+      "op_code": "26",
+      "technician": null,
+      "type": "CCJ",
+      "description": "*CUSTOMER STATES LOW COOLANT WARNING COMING ON. PLEASE ADVISE."
+    },
+    {
+      "item_number": "B",
+      "op_code": "70",
+      "technician": null,
+      "type": "CCJ",
+      "description": "*CUSTOMER STATES BRAKE PAD WARNING ON. PLEASE ADVISE."
+    },
+    {
+      "item_number": "C",
+      "op_code": "12",
+      "technician": null,
+      "type": "CCJ",
+      "description": "*CUSTOMER STATES WOULD LIKE ESTIMATE TO REPLACE AIR FITLERS"
+    },
+    {
+      "item_number": "D",
+      "op_code": "99PL",
+      "technician": null,
+      "type": "CCJ",
+      "description": "COMPLIMENTARY LAND ROVER MULTI POINT INSPECTION"
+    },
+    {
+      "item_number": "E",
+      "op_code": "TP",
+      "technician": null,
+      "type": "CCJ",
+      "description": "CUSTOMER STATES RESET ALL TIRE PRESSURES"
+    },
+    {
+      "item_number": "F",
+      "op_code": "SLV",
+      "technician": null,
+      "type": "CCJ",
+      "description": "PROVIDE COURTESY VEHICLE FOR 24 HOURS UNLESS OTHERWISE EXTENDED BY JAGUAR LAND ROVER LOS ANGELES. $75/DAY LATE RETURN FEE; FUEL, TOLL VIOLATIONS AND DAMAGES WILL BE AT THE CUSTOMERS EXPENSE. VALID DRIVERS LICENSE AND INSURANCE REQUIRED."
+    }
+  ],
+  "estimates": {
+    "estimated_total": "325.88",
+    "preliminary_estimate": "325.88"
+  }
+}
