@@ -1,0 +1,7 @@
+Customer Comments to Manufacturer Appeal Comments
+
+Case Number:  JAG2501941
+
+This claim falls squarely within the jurisdiction of the BBB AUTO LINE program under Rule 2.B and 2.C, as it was purchased with an active transferable  New Vehicle Limited Warranty covered by Jaguar Land Rover North America, serviced repeatedly at Jaguar-authorized dealerships for the same unresolved defects, and the claim was filed within six months of its expiration. Under California Civil Code § 1795.5 and Jaguar Land Rover’s transferable factory warranty, BBB Auto Line retains jurisdiction to arbitrate claims arising from defects covered by the manufacturer’s express warranty. Jaguar erroneously relies on the inapplicability of California’s Song-Beverly Consumer Warranty Act to used vehicles without considering the federal Magnuson-Moss Warranty Act, which mandates arbitration for disputes arising under written manufacturer warranties. Jaguar’s prior referral of this dispute to BBB AUTO LINE, as evidenced by its mediation correspondence dated January 31, 2025, constitutes procedural consent to arbitration irrespective of Song-Beverly limitations. Arbitrator determination of manufacturer warranty noncompliance is thus warranted."
+
+1676 International Drive, Suite 550 - McLean, VA 22102 - Phone: 800.955.5100 - Fax: 703.247.9700

@@ -1,0 +1,1744 @@
+Software Updates | See how to update the software in your Jaguar
+
+来源: https://www.jaguarusa.com/ownership/software-update/index.html
+
+European Model Shown.
+
+You can update your Jaguar vehicle through your Pivi Pro system7. Updates to your vehicle will provide you with the latest features and ensure the utmost stability across all areas of your vehicle, including the engine, transmission, interior electronics, and infotainment systems. Some recall software updates are now also able to be performed over the air.
+
+WIRELESS SOFTWARE UPDATES
+
+DOWNLOAD
+
+Your vehicle will connect automatically and check if any updates have been pushed to your vehicle. If an update is available, it will automatically download and prepare the update for you in the background.
+
+European Model Shown.
+
+APPROVE
+
+Once the update is fully downloaded to the vehicle and ready to install, a notification icon will show the update is available with a “learn more” link to take you to the software update settings screen.
+
+You will also receive a pop-up notification at ignition off to ask you to accept the update.
+
+European Model Shown.
+
+INSTALL
+
+After accepting the update, you will be asked to either “Update Now” or “Schedule”.
+
+Ensure the vehicle is in a good network coverage area (Wi-Fi or Mobile data)
+
+If you wish to schedule the update, press Schedule, select the date, time and press OK. Otherwise press ‘Update Now”.
+
+European Model Shown.
+Autoplay Start
+    Autoplay Stop
+
+HOW TO UPDATE
+
+Before updating, close all windows, lock and arm the vehicle. Leave the vehicle for the period of time presented in the pop-up notification.
+
+If update now is selected the vehicle will wait 10 minutes before starting the update process. Starting the vehicle in this period will cancel this update attempt. When scheduled, the vehicle will start the update at the scheduled time.
+
+• 12 V battery state of charge.
+• Secure state of the vehicle, including window position, locked state, parking brake applied.
+• Connectivity available.
+• HV battery (if applicable) above 25% state of charge.
+• PHEV/BEV vehicle not currently on charge*.
+
+If any conditions are not satisfied the update will not proceed. The software update screen will provide guidance on how to remedy this before another attempt.
+
+If all conditions are satisfied, the vehicle will then initiate the update.
+
+During the update you will not be able to use the vehicle. This can last between 30-90 mins. Most vehicle systems are unavailable during the update, but you will be able to unlock/lock and access the vehicle. For vehicles with pop-out door handles please see the owner’s manual for how to operate them.
+
+COMPLETION
+
+On returning to your vehicle, all systems on your vehicle will start up with new software. A notification will inform you of a successful update, the software update screen will show the new version number as well as release note text explaining all changes and improvements.
+
+AMAZON ALEXA
+
+Use Alexa20to control your navigation and music, including Spotify, naturally and intuitively with your voice. It's built-in to our Pivi Pro infotainment system, so it's fast, responsive and easy to use.
+
+European Model Shown.
+FIND OUT MORE
+
+AMAZON ALEXA
+
+Use Alexa20to control your navigation and music, including Spotify, naturally and intuitively with your voice. It's built-in to our Pivi Pro infotainment system, so it's fast, responsive and easy to use.
+
+European Model Shown.
+FIND OUT MORE
+
+SOFTWARE UPDATE FAQS
+
+I’ve recently taken delivery of my vehicle and my software update screen is blank, is something wrong?
+• 
+Nothing is wrong, this screen remains blank until you receive your first Software Over The Air (SOTA) update – any updates completed in the retailer are not reflected on this screen.
+
+New vehicles need to connect to our servers and hand back software versions of all ECUs, this will prompt them to be included in the next update wave if an update is required.
+When does my vehicle get sent an update?
+• 
+Each time you drive your vehicle, it will handshake all the vehicle software with our servers and will then queue your vehicle into one of the new software release batches.
+My vehicle just updated to a version older than the latest release, is something wrong?
+• 
+No, all vehicles must complete software updates in order, this is due to the fact we can update most modules in your vehicle. Each release is dependent on the previous releases to ensure system stability and compatibility.
+
+After an update, there may be a delay before your vehicle receives the next release as they are queued into batches.
+I can’t get my update to pass?
+• 
+• 12 V – For some larger updates we require the 12 V battery to be charged to a high level, if this issue occurs, please drive your vehicle for a longer period before reattempting the update to give the vehicle time to recharge the 12 V battery.
+
+• Connectivity – Try updating the vehicle in a different location or connecting the vehicle to WiFi.
+
+• Charging – Disconnect your vehicles charger and reattempt the update.
+
+• Windows – Ensure all windows are fully close and reattempt the update.
+
+• Vehicle not locked – Ensure the vehicle is locked when reattempting the update.
+
+• HV SoC – Ensure the HV battery is above 25% and reattempt the update.
+What does the system do to ensure software updates are applied safely?
+• 
+The preconditions are used to ensure the updates are only attempted when the vehicle is in a safe state,
+
+During the update all SOTA components support one of the following safety mechanisms:
+
+• Dual bank – the component has a duplicated bank of software where the update is applied to a new bank that currently is not being used, in the unlikely event of any failure, the system can automatically revert back to the previous back and operate exactly as it behaved prior to attempting the update.
+
+• Rollback – before applying the update, the current software version is also prepared, in the unlikely event of any failure, the current software version is rolled back to ensure the vehicle operates as it did prior to attempting the update.
+
+PIVI SOFTWARE VERSION RELEASE NOTES
+
+OS 4.3.2
+• 
+
+Jaguar I-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+
+- More language options
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar F-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+
+- More language options
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jagaur XF
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+
+- More language options
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar XE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+
+- More language options
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Display systems
+
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar E-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+
+- More language options
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+OS 4.3.1
+• 
+
+Jaguar I-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+This includes
+
+- Sunroof status within InControl Remote app optimizations (Applicable vehicles)
+
+- Adjustment to support mobile network 3G sunset
+
+Note: There may be disruption to the cellular network connection for up to 48 hours after updating. During this time, with the exception of legally required eCall services, connected vehicle services may not be available.
+
+- Enhancements to diagnostics
+
+- Improvements to the telematic backup power system.
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Vehicle communication network
+
+• 
+
+Jaguar F-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+This includes
+
+- Sunroof status within InControl Remote app optimizations (Applicable vehicles)
+
+- Adjustment to support mobile network 3G sunset
+
+Note: There may be disruption to the cellular network connection for up to 48 hours after updating. During this time, with the exception of legally required eCall services, connected vehicle services may not be available.
+
+- Enhancements to diagnostics
+
+- Improvements to the telematic backup power system.
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Vehicle communication network
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+• 
+
+Jagaur XF
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+This includes
+
+- Sunroof status within InControl Remote app optimizations (Applicable vehicles)
+
+- Adjustment to support mobile network 3G sunset
+
+Note: There may be disruption to the cellular network connection for up to 48 hours after updating. During this time, with the exception of legally required eCall services, connected vehicle services may not be available.
+
+- Enhancements to diagnostics
+
+- Improvements to the telematic backup power system.
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Vehicle communication network
+
+• 
+
+Jaguar XE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+This includes
+
+- Sunroof status within InControl Remote app optimizations (Applicable vehicles)
+
+- Adjustment to support mobile network 3G sunset
+
+Note: There may be disruption to the cellular network connection for up to 48 hours after updating. During this time, with the exception of legally required eCall services, connected vehicle services may not be available.
+
+- Enhancements to diagnostics
+
+- Improvements to the telematic backup power system.
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Vehicle communication network
+
+• 
+
+Jaguar E-PACE
+
+Never stand still: new over-the-air software update ready for your Jaguar.
+
+This includes
+
+- Sunroof status within InControl Remote app optimizations (Applicable vehicles)
+
+- Adjustment to support mobile network 3G sunset
+
+Note: There may be disruption to the cellular network connection for up to 48 hours after updating. During this time, with the exception of legally required eCall services, connected vehicle services may not be available.
+
+- Enhancements to diagnostics
+
+- Improvements to the telematic backup power system.
+
+This update also brings bug fixes and general performance advancements to the following systems where applicable
+
+- Propulsion systems
+
+- Vehicle communication network
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+OS 4.3.0 20-23MY
+• 
+
+Jaguar I-PACE
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+- More language options
+Performance improvements to the following system:
+- Battery Energy Control Module (BECM) 21-23MY
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar F-PACE
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+- More language options
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+• 
+
+Jaguar XF
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+- More language options
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar XE
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+- More language options
+Performance improvements to the following systems
+- Interactive Display Module A (IDMA) 22-23MY
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+• 
+
+Jaguar E-PACE
+
+PIVI PRO Infotainment improvements.
+
+- Security enhancements
+
+- Reversing camera upgrade to improve nighttime visibility
+
+- Once a year sign in (password retention increased from 90 days to one year)
+
+- Connectivity fix for Amazon Alexa, Apple CarPlay and Android Auto
+
+- Ability to search for JLR public chargers
+
+- Traffic on your commute is now visible in the home screen navigation panel
+
+- Ability to select navigation route based on time of journey.
+
+- Distraction notification disabled feature moved to drive assistance screen.
+- More language options
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+If you experience abrupt Android Auto wireless disconnection; Please relaunch using the Android Auto icon from App-drawer or reconnect device over Bluetooth, should it not recover automatically.
+
+OS 4.2.1
+• 
+
+Jaguar I-PACE
+
+Diagnostic improvements to Chassis control system. 21MY Chassis Control Module (CHCM)
+
+Improvements to in-vehicle communication networks. 24MY Gateway Module (GWM)
+
+• 
+
+Jaguar XE
+
+4-Cylinder diesel - Improvements to the Diesel exhaust fluid (DEF) delivery system 21/22MY Powertrain Control Module (PCM)
+
+Audio quality improvements which resolves
+
+- Rear Traffic Alert may be inaudible in some instances.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System. 22MY Audio Amplifier Module (AAM)
+
+Audio quality improvements which resolves
+
+- Rear Traffic Alert may be inaudible in some instances.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System. 23MY Audio Amplifier Module (AAM)
+
+Improvements to in-vehicle communication networks. 24MY Gateway Module (GWM)
+
+Audio quality improvements which resolves
+
+- Rear Traffic Alert may be inaudible in some instances.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System. 24MY Audio Amplifier Module (AAM)
+
+• 
+
+Jagaur XF
+
+4-Cylinder diesel - Improvements to the Diesel exhaust fluid (DEF) delivery system 21/22MY Powertrain Control Module (PCM)
+
+Audio quality improvements which resolves
+
+- Rear Traffic Alert may be inaudible in some instances.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System. 22MY Audio Amplifier Module (AAM)
+
+Audio quality improvements which resolves
+
+- Rear Traffic Alert may be inaudible in some instances.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System. 23MY Audio Amplifier Module (AAM)
+
+Improvements to in-vehicle communication networks. 24MY Gateway Module (GWM)
+
+• 
+
+Jaguar E-PACE
+
+4-Cylinder diesel - Improvements to the Diesel exhaust fluid (DEF) delivery system. 21/22MY Powertrain Control Module (PCM)
+
+Charging Robustness improvements to charge compatibility and charging performance. 21/22MY Battery Charger Control Module (BCCM)
+
+Improvement to invertor Diagnostics. 21/22MY Electric Power Inverter Converter Control Module B (EPIC B)
+
+Improved electric propulsion reliability at very high State of charge conditions. 21/22MY Powertrain Control Module (PCM)
+
+Software update to improve Software over the air (SOTA) (software over the air) update reliability. 21/22MY Powertrain Control Module (PCM)
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+Charging Robustness improvements to charge compatibility and charging performance. 23MY Battery Charger Control Module (BCCM)
+
+Improvement to invertor Diagnostics. 23MY Electric Power Inverter Converter Control Module B (EPIC B)
+
+Improvement to Fuel Pump Driver Module diagnostics. 23MY Fuel Pump Driver Module (FPDM)
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+
+Charging Robustness improvements to charge compatibility and charging performance. 24MY Battery Charger Control Module (BCCM)
+
+Improvements to in-vehicle communication networks. 24MY Gateway Module (GWM)
+
+4-Cylinder gas Diagnostic improvement. 24MY Powertrain Control Module (PCM)
+
+Improvement to invertor Diagnostics. 24MY Electric Power Inverter Converter Control Module B (EPIC B)
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+OS 4.2.0- XCL
+• 
+
+Jaguar I-PACE
+
+This update enables improvements to SOTA (Software Over The Air) capability.
+
+Jaguar I-PACE only: Following this update, over the air updates will be possible while the vehicle is actively charging using an 'AC' charger, such as a home charger.
+
+Please note: If the vehicle is plugged in but not currently charging, you will need to schedule the update for the same time the vehicle is scheduled to be charging or disconnect the charging cable. Over the air updates can not be carried out while using rapid 'DC' chargers
+
+• 
+
+Jaguar XE
+
+"This update enables improvements to SOTA (Software Over The Air) capability.
+
+Please note: If the vehicle is plugged in but not currently charging, you will need to schedule the update for the same time the vehicle is scheduled to be charging or disconnect the charging cable. Over the air updates can not be carried out while using rapid 'DC' chargers.
+
+• 
+
+Jagaur XF
+
+This update enables improvements to SOTA (Software Over The Air) capability.
+
+Please note: If the vehicle is plugged in but not currently charging, you will need to schedule the update for the same time the vehicle is scheduled to be charging or disconnect the charging cable. Over the air updates can not be carried out while using rapid 'DC' chargers.
+
+• 
+
+Jaguar E-PACE
+
+This update enables improvements to SOTA (Software Over The Air) capability.
+
+Please note: If the vehicle is plugged in but not currently charging, you will need to schedule the update for the same time the vehicle is scheduled to be charging or disconnect the charging cable. Over the air updates can not be carried out while using rapid 'DC' chargers.
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in the EV capabilities after the update has completed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+OS 4.1.6 - XCL
+• 
+
+Jaguar I-PACE
+
+This update provides Driver Display (Instrument cluster) stability improvements and associated display settings issue such as the default speed units.
+
+• 
+
+Jaguar XE
+
+This update provides Driver Display (Instrument cluster) stability improvements and associated display settings issue such as the default speed units.
+
+• 
+
+Jagaur XF
+
+This update provides Driver Display (Instrument cluster) stability improvements and associated display settings issue such as the default speed units.
+
+• 
+
+Jaguar E-PACE
+
+This update provides Driver Display (Instrument cluster) stability improvements and associated display settings issue such as the default speed units.
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in your EV capabilities after the update has been installed. Software updates require at least 25% battery charge.
+OS 4.1.5
+• 
+
+Jaguar I-PACE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Maps in the Driver Display may be replaced by a blank area.
+
+- Audio may continue to play after exiting the vehicle.
+
+- Apple VehiclePlay / Android Auto icon on the homescreen opens the incorrect screen.
+
+- The last used radio station is incorrectly recalled on the next journey.
+
+- New Speed limit Notification has moved from the Driver Assistance Menu to the Cruise and Limiter Menu. The audio notification can now be permanently set on/off in the new menu and is no longer affected by the Driver Assistance Settings.
+
+This update also brings improvements to the following features and systems:
+
+- Touchscreen stability.
+
+- Bluetooth stability.
+
+- Apple VehiclePlay stability.
+
+• 
+
+Jaguar XE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Loss of steering assist on start-up.
+
+• 
+
+Jagaur XF
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Loss of steering assist on start-up.
+
+• 
+
+Jaguar E-PACE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Maps in the Driver Display may be replaced by a blank area.
+
+- Audio may continue to play after exiting the vehicle.
+
+- Apple VehiclePlay / Android Auto icon on the homescreen opens the incorrect screen.
+
+- The last used radio station is incorrectly recalled on the next journey.
+
+- New Speed limit Notification has moved from the Driver Assistance Menu to the Cruise and Limiter Menu. The audio notification can now be permanently set on/off in the new menu and is no longer affected by the Driver Assistance Settings.
+
+This update also brings improvements to the following features and systems:
+
+- Touchscreen stability.
+
+- Bluetooth stability.
+
+- Apple VehiclePlay stability.
+OS 4.1.4
+• 
+
+Jaguar I-PACE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Maps in the Driver Display may be replaced by a blank area.
+
+- Audio may continue to play after exiting the vehicle.
+
+- Apple VehiclePlay / Android Auto icon on the homescreen opens the incorrect screen.
+
+- The last used radio station is incorrectly recalled on the next journey.
+
+This update also brings improvements to the following features and systems:
+
+- Touchscreen stability.
+
+- Bluetooth stability.
+
+- Apple VehiclePlay stability
+
+- Diagnostics for the main HV battery.
+
+- Charging status.
+
+• 
+
+Jaguar XE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Maps in the Driver Display may be replaced by a blank area.
+
+- Audio may continue to play after exiting the vehicle.
+
+- Apple VehiclePlay / Android Auto icon on the homescreen opens the incorrect screen.
+
+- The last used radio station is incorrectly recalled on the next journey.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System on 24MY.
+
+- Control of the audio level based on the vehicle speed for the Meridian Surround Sound System on 22MY.
+
+This update also brings improvements to the following features and systems:
+
+- Touchscreen stability.
+
+- Bluetooth stability.
+
+- Apple VehiclePlay stability.
+
+Drivetrain:
+
+- Resolves the possibility of a false engine warning light being shown (applicable Gas engines only).
+
+• 
+
+Jagaur XF
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Maps in the Driver Display may be replaced by a blank area.
+
+- Audio may continue to play after exiting the vehicle.
+
+- Apple VehiclePlay / Android Auto icon on the homescreen opens the incorrect screen.
+
+- The last used radio station is incorrectly recalled on the next journey.
+
+- Sound may be played through the incorrect audio channel on Meridian Sound System on 24MY.
+
+This update also brings improvements to the following features and systems:
+
+- Touchscreen stability.
+
+- Bluetooth stability.
+
+- Apple VehiclePlay stability.
+
+Drivetrain:
+
+- Resolves the possibility of a false engine warning light being shown (applicable Gas engines only)
+
+• 
+
+Jaguar E-PACE
+
+This update includes a number of general interface and performance improvements as well as resolving the following specific issues. Thank you for your feedback.
+
+- Charging on applicable PHEV vehicles.
+
+- Resolves the possibility of a false engine warning light being shown (applicable Diesel engines only).
+
+PHEV only: Please note that for a short period of time, you may experience some disruption in your EV capabilities after the update has installed. Please disconnect the vehicle charger and ensure the battery has a minimum charge level of 25% before starting the update.
+OS 4.1.3
+• 
+
+Jaguar I-PACE
+
+This update prepares the system for upcoming feature and performance enhancements.
+
+• 
+
+Jaguar XE
+
+This update prepares the system for upcoming feature and performance enhancements.
+
+• 
+
+Jagaur XF
+
+This update prepares the system for upcoming feature and performance enhancements.
+
+• 
+
+Jaguar E-PACE
+
+This update prepares the system for upcoming feature and performance enhancements
+
+- PHEV only: Please note that for a short period of time, you may experience some disruption in your EV capabilities after the update has installed. Software updates require at least 25% battery charge.
+OS 4.1.1
+• 
+
+Jaguar I-PACE
+
+With our continued drive to deliver improvements to your vehicle, this update brings enhancements to the following systems:
+
+Wireless Device Charging:
+
+Improved detection and adaption to phones resulting in the initiation of charging being less sensitive to device location. Updates to communication with Apple devices running the latest iOS releases.
+
+High Voltage (HV) Battery Charge Control:
+
+Changes to the control of the charging cable locking pin to reduce the possibility of an unresponsive locking pin.
+
+Changes to the charge indicator LED behavior
+
+- The flashing white LED charge indicator no longer illuminates when attempting to plug-in the charge cable when the locking pin is already in a locked position.
+
+- If the charging pin is stuck in a midway position during locking attempt, a Rapid flashing white LED to indicate the error condition. In such cases recommend removal/reinsertion of charging cable.
+
+Vehicles without Surround Cameras:
+
+Added automatic display of the rear view when the vehicle rolls back plus other general performance improvements.
+
+Jaguar I-PACE (21MY Only – already included in later models):
+
+Improvements to cold weather range prediction accuracy.
+
+Improved support for Charge Now.
+
+Fixed Time charging now works across multiple days.
+
+Improved range estimation for vehicles fitted with 20" wheels.
+
+Improved range estimation impact influenced by the vehicle’s climate control system.
+
+Range estimation updates more frequently, preventing unexpected range drop off at lower range values.
+
+All other vehicles:
+
+General powertrain refinements.
+
+• 
+
+Jaguar XE
+
+With our continued drive to deliver improvements to your vehicle, this update brings enhancements to the following systems:
+
+Wireless Device Charging:
+
+Improved detection and adaption to phones resulting in the initiation of charging being less sensitive to device location. Updates to communication with Apple devices running the latest iOS releases.
+
+ABS (Anti-Lock Braking System):
+
+- Improvement in Anti-Lock Brake system diagnostics.
+
+Vehicles without Surround Cameras:
+
+Added automatic display of the rear view when the vehicle rolls back plus other general performance improvements.
+
+Powertrain:
+
+PHEV Vehicles fitted with Belt Integrated Starters:
+
+Resolved an issue that could result in a delayed engine start.
+
+All other vehicles:
+
+General powertrain refinements.
+
+• 
+
+Jagaur XF
+
+With our continued drive to deliver improvements to your vehicle, this update brings enhancements to the following systems:
+
+Wireless Device Charging:
+
+Improved detection and adaption to phones resulting in the initiation of charging being less sensitive to device location. Updates to communication with Apple devices running the latest iOS releases.
+
+ABS (Anti-Lock Braking System):
+
+- Updates to remove noises from the brake system modulator ((applicable to New Range Rover (L460) and New Range Rover Sport (L461)).
+
+- Improvement in Anti-Lock Brake system diagnostics.
+
+Vehicles without Surround Cameras:
+
+Added automatic display of the rear view when the vehicle rolls back plus other general performance improvements.
+
+Powertrain:
+
+PHEV Vehicles fitted with Belt Integrated Starters:
+
+Resolved an issue that could result in a delayed engine start.
+
+All other vehicles:
+
+General powertrain refinements.
+
+• 
+
+Jaguar E-PACE
+
+With our continued drive to deliver improvements to your vehicle, this update brings enhancements to the following systems:
+
+Wireless Device Charging:
+
+Improved detection and adaption to phones resulting in the initiation of charging being less sensitive to device location. Updates to communication with Apple devices running the latest iOS releases.
+
+ABS (Anti-Lock Braking System):
+
+- Improvement in Anti-Lock Brake system diagnostics.
+
+Vehicles without Surround Cameras:
+
+Added automatic display of the rear view when the vehicle rolls back plus other general performance improvements.
+
+Powertrain:
+
+PHEV Vehicles fitted with Belt Integrated Starters:
+
+Resolved an issue that could result in a delayed engine start.
+
+All other vehicles:
+
+General powertrain refinements.
+
+- PHEV only: Please note that for a short period of time, you may experience some disruption in your EV capabilities after the update has installed. Software updates require at least 25% battery charge.
+OS 4.1.0
+• 
+
+Jaguar I-PACE
+
+In this release our Driving Assistance and Vehicle Dynamics teams have created a number of improvements to the performance of a number of vehicle control systems and consequently enhanced the vehicle's refinement.
+
+Adaptive Cruise Control with Steering Assist / Lane Keep Assist
+
+(Please note: Not all of the below improvements are applicable to vehicles with only Lane Keep Assist):
+
+Smoother assisted steering for road layouts which include direction changes, lanes splitting and road marking transitions.
+
+Image processing improvements for surface estimation.
+
+Calibration updates improving lane corridor quality & consistency, resulting in smoother steering through corners.
+
+Improved determination of road edges.
+
+Several line geometry related image processing refinements to help avoid false positives.
+
+Improvements when managing cross intersections with no lane markings.
+
+Emergency Braking:
+
+General performance refinements.
+
+Traffic Sign Recognition:
+
+General improvement in sign recognition.
+
+Auto High Beam Assist:
+
+Oncoming vehicle detection refinements to help avoid unintended dazzling of oncoming drivers.
+
+Electric Power Assisted Steering:
+
+Improvements to steering feedback.
+
+Please Note: Availability of features can vary by vehicle specification, model years and markets.
+
+PHEV only: Please note that following the update, you may for a short period of time experience some irregularity in when the vehicle deploys EV energy.
+
+• 
+
+Jaguar XE
+
+In this release our Driving Assistance and Vehicle Dynamics teams have created a number of improvements to the performance of a number of vehicle control systems and consequently enhanced the vehicle's refinement.
+
+Adaptive Cruise Control with Steering Assist / Lane Keep Assist
+
+(Please note: Not all of the below improvements are applicable to vehicles with only Lane Keep Assist):
+
+Smoother assisted steering for road layouts which include direction changes, lanes splitting and road marking transitions.
+
+Image processing improvements for surface estimation.
+
+Calibration updates improving lane corridor quality & consistency, resulting in smoother steering through corners.
+
+Improved determination of road edges.
+
+Several line geometry related image processing refinements to help avoid false positives.
+
+Improvements when managing cross intersections with no lane markings.
+
+Emergency Braking:
+
+General performance refinements.
+
+Traffic Sign Recognition:
+
+General improvement in sign recognition.
+
+Auto High Beam Assist:
+
+Oncoming vehicle detection refinements to help avoid unintended dazzling of oncoming drivers.
+
+Electric Power Assisted Steering:
+
+Improvements to steering feedback.
+
+Please Note: Availability of features can vary by vehicle specification, model years and markets.
+
+• 
+
+Jagaur XF
+
+In this release our Driving Assistance and Vehicle Dynamics teams have created a number of improvements to the performance of a number of vehicle control systems and consequently enhanced the vehicle's refinement.
+
+Adaptive Cruise Control with Steering Assist / Lane Keep Assist
+
+(Please note: Not all of the below improvements are applicable to vehicles with only Lane Keep Assist):
+
+Smoother assisted steering for road layouts which include direction changes, lanes splitting and road marking transitions.
+
+Image processing improvements for surface estimation.
+
+Calibration updates improving lane corridor quality & consistency, resulting in smoother steering through corners.
+
+Improved determination of road edges.
+
+Several line geometry related image processing refinements to help avoid false positives.
+
+Improvements when managing cross intersections with no lane markings.
+
+Emergency Braking:
+
+General performance refinements.
+
+Traffic Sign Recognition:
+
+General improvement in sign recognition.
+
+Auto High Beam Assist:
+
+Oncoming vehicle detection refinements to help avoid unintended dazzling of oncoming drivers.
+
+Electric Power Assisted Steering:
+
+Improvements to steering feedback.
+
+Please Note: Availability of features can vary by vehicle specification, model years and markets.
+
+• 
+
+Jaguar E-PACE
+
+In this release our Driving Assistance and Vehicle Dynamics teams have created a number of improvements to the performance of a number of vehicle control systems and consequently enhanced the vehicle's refinement.
+
+Adaptive Cruise Control with Steering Assist / Lane Keep Assist
+
+(Please note: Not all of the below improvements are applicable to vehicles with only Lane Keep Assist):
+
+Smoother assisted steering for road layouts which include direction changes, lanes splitting and road marking transitions.
+
+Image processing improvements for surface estimation.
+
+Calibration updates improving lane corridor quality & consistency, resulting in smoother steering through corners.
+
+Improved determination of road edges.
+
+Several line geometry related image processing refinements to help avoid false positives.
+
+Improvements when managing cross intersections with no lane markings.
+
+Emergency Braking:
+
+General performance refinements.
+
+Traffic Sign Recognition:
+
+General improvement in sign recognition.
+
+Auto High Beam Assist:
+
+Oncoming vehicle detection refinements to help avoid unintended dazzling of oncoming drivers.
+
+Electric Power Assisted Steering:
+
+Improvements to steering feedback.
+
+Please Note: Availability of features can vary by vehicle specification, model years and markets.
+
+PHEV only: Please note that following the update, you may for a short period of time experience some irregularity in when the vehicle deploys EV energy.
+
+PHEV & BEV Vehicles only: Software updates require at least 25% battery charge.
+OS 4.0.1
+• 
+
+Jaguar I-PACE
+
+Nothing new to see in this release, purely certificate updates to keep everything running smoothly.
+
+• 
+
+Jaguar XE
+
+Nothing new to see in this release, purely certificate updates to keep everything running smoothly.
+
+• 
+
+Jagaur XF
+
+Nothing new to see in this release, purely certificate updates to keep everything running smoothly.
+
+• 
+
+Jaguar E-PACE
+
+Nothing new to see in this release, purely certificate updates to keep everything running smoothly.
+OS 4.0.0
+• 
+
+Jaguar I-PACE
+
+Enhanced High Voltage battery cell (primary battery) health monitoring/management.
+
+This is a required update and forms the delivery of the recall remedy for safety recall H441
+
+IMPORTANT – CHANGES TO PROFILES
+
+Markets where InControl Accounts are supported:
+
+To provide greater flexibility and opportunity in future updates, it’s been necessary to redevelop Profiles (referred to as Accounts after the update).
+
+Please Note: Only personal settings and navigation destinations as part of a Profile linked to a signed in InControl Account PRIOR to this update will be preserved. Profiles not linked to a signed in InControl Account will need to be recreated after the update.
+
+Markets where InControl Accounts are not supported:
+
+Profiles will no longer be supported following this update and therefore personal profiles will no longer be accessible.
+
+We apologise for any inconvenience these changes may cause.
+
+This update brings a number of significant new features as follows:
+
+New features
+
+- The Interactive Driver Display (where fitted) can now display Google Maps when Android AutoTMis in use or Apple Maps when Apple VehiclePlay® is in use. Please note: Support for this capability via other navigation apps is subject to the necessary updates being released by their respective developers. The Digital Driver Display and Analog Dials with Central TFT Display are unsupported.
+
+- Apple iPhone Favorite contacts can now be accessed directly from the Pivi homescreen phone tile or via the contacts tab within Pivi’s Phone app.
+
+- Following feedback, we’ve added a phone reminder which can be displayed when you shut the vehicle down for those vehicles with Wireless Device Charging.
+
+- The Pivi Pro navigation app for Range Rover & Range Rover Sport PHEV vehicles can now display a range overlay on the map. This is visible when no destination is set.
+
+- Wireless Android AutoTM& Wireless Apple VehiclePlay® is now available in more countries.
+
+Features we’ve improved or changed
+
+- We’ve made changes to the traffic info and the text color making it more useful and readable. This especially improves the available information when the Interactive Driver Display is in full screen map view and the traffic list is shown.
+
+- In the Navigation / About settings the map information now shows the date each region was last updated. Note: the region your vehicle is located in is automatically updated over the air in most markets where there is a valid Connected Navigation Subscription.
+
+- The Map & Service subscription expiry date is now visible from the map information screen.
+
+- Phone settings have been reorganized combining Bluetooth and Android AutoTM/ Apple VehiclePlay® settings.
+
+- A variety of bug fixes and general performance improvements.
+
+- Profiles are now referenced as Accounts in the touchscreen.
+
+Please Note: Availability of features can vary by vehicle specification, model year and market.
+
+• 
+
+Jaguar XE
+
+IMPORTANT – CHANGES TO PROFILES
+
+Markets where InControl Accounts are supported:
+
+To provide greater flexibility and opportunity in future updates, it’s been necessary to redevelop Profiles (referred to as Accounts after the update).
+
+Please Note: Only personal settings and navigation destinations as part of a Profile linked to a signed in InControl Account PRIOR to this update will be preserved. Profiles not linked to a signed in InControl Account will need to be recreated after the update.
+
+Markets where InControl Accounts are not supported:
+
+Profiles will no longer be supported following this update and therefore personal profiles will no longer be accessible.
+
+We apologise for any inconvenience these changes may cause.
+
+This update brings a number of significant new features as follows:
+
+New features
+
+- The Interactive Driver Display (where fitted) can now display Google Maps when Android AutoTMis in use or Apple Maps when Apple VehiclePlay® is in use. Please note: Support for this capability via other navigation apps is subject to the necessary updates being released by their respective developers. The Digital Driver Display and Analog Dials with Central TFT Display are unsupported.
+
+- Apple iPhone Favorite contacts can now be accessed directly from the Pivi homescreen phone tile or via the contacts tab within Pivi’s Phone app.
+
+- Following feedback, we’ve added a phone reminder which can be displayed when you shut the vehicle down for those vehicles with Wireless Device Charging.
+
+- The Pivi Pro navigation app for Range Rover & Range Rover Sport PHEV vehicles can now display a range overlay on the map. This is visible when no destination is set.
+
+- Wireless Android AutoTM& Wireless Apple VehiclePlay® is now available in more countries.
+
+Features we’ve improved or changed
+
+- We’ve made changes to the traffic info and the text color making it more useful and readable. This especially improves the available information when the Interactive Driver Display is in full screen map view and the traffic list is shown.
+
+- In the Navigation / About settings the map information now shows the date each region was last updated. Note: the region your vehicle is located in is automatically updated over the air in most markets where there is a valid Connected Navigation Subscription.
+
+- The Map & Service subscription expiry date is now visible from the map information screen.
+
+- Phone settings have been reorganized combining Bluetooth and Android AutoTM/ Apple VehiclePlay® settings.
+
+- A variety of bug fixes and general performance improvements.
+
+- Profiles are now referenced as Accounts in the touchscreen.
+
+Please Note: Availability of features can vary by vehicle specification, model year and market.
+
+• 
+
+Jagaur XF
+
+IMPORTANT – CHANGES TO PROFILES
+
+Markets where InControl Accounts are supported:
+
+To provide greater flexibility and opportunity in future updates, it’s been necessary to redevelop Profiles (referred to as Accounts after the update).
+
+Please Note: Only personal settings and navigation destinations as part of a Profile linked to a signed in InControl Account PRIOR to this update will be preserved. Profiles not linked to a signed in InControl Account will need to be recreated after the update.
+
+Markets where InControl Accounts are not supported:
+
+Profiles will no longer be supported following this update and therefore personal profiles will no longer be accessible.
+
+We apologise for any inconvenience these changes may cause.
+
+This update brings a number of significant new features as follows:
+
+New features
+
+- The Interactive Driver Display (where fitted) can now display Google Maps when Android AutoTMis in use or Apple Maps when Apple VehiclePlay® is in use. Please note: Support for this capability via other navigation apps is subject to the necessary updates being released by their respective developers. The Digital Driver Display and Analog Dials with Central TFT Display are unsupported.
+
+- Apple iPhone Favorite contacts can now be accessed directly from the Pivi homescreen phone tile or via the contacts tab within Pivi’s Phone app.
+
+- Following feedback, we’ve added a phone reminder which can be displayed when you shut the vehicle down for those vehicles with Wireless Device Charging.
+
+- The Pivi Pro navigation app for Range Rover & Range Rover Sport PHEV vehicles can now display a range overlay on the map. This is visible when no destination is set.
+
+- Wireless Android AutoTM& Wireless Apple VehiclePlay® is now available in more countries.
+
+Features we’ve improved or changed
+
+- We’ve made changes to the traffic info and the text color making it more useful and readable. This especially improves the available information when the Interactive Driver Display is in full screen map view and the traffic list is shown.
+
+- In the Navigation / About settings the map information now shows the date each region was last updated. Note: the region your vehicle is located in is automatically updated over the air in most markets where there is a valid Connected Navigation Subscription.
+
+- The Map & Service subscription expiry date is now visible from the map information screen.
+
+- Phone settings have been reorganized combining Bluetooth and Android AutoTM/ Apple VehiclePlay® settings.
+
+- A variety of bug fixes and general performance improvements.
+
+- Profiles are now referenced as Accounts in the touchscreen.
+
+Please Note: Availability of features can vary by vehicle specification, model year and market.
+
+• 
+
+Jaguar E-PACE
+
+IMPORTANT – CHANGES TO PROFILES
+
+Markets where InControl Accounts are supported:
+
+To provide greater flexibility and opportunity in future updates, it’s been necessary to redevelop Profiles (referred to as Accounts after the update).
+
+Please Note: Only personal settings and navigation destinations as part of a Profile linked to a signed in InControl Account PRIOR to this update will be preserved. Profiles not linked to a signed in InControl Account will need to be recreated after the update.
+
+Markets where InControl Accounts are not supported:
+
+Profiles will no longer be supported following this update and therefore personal profiles will no longer be accessible.
+
+We apologise for any inconvenience these changes may cause.
+
+This update brings a number of significant new features as follows:
+
+New features
+
+- The Interactive Driver Display (where fitted) can now display Google Maps when Android AutoTMis in use or Apple Maps when Apple VehiclePlay® is in use. Please note: Support for this capability via other navigation apps is subject to the necessary updates being released by their respective developers. The Digital Driver Display and Analog Dials with Central TFT Display are unsupported.
+
+- Apple iPhone Favorite contacts can now be accessed directly from the Pivi homescreen phone tile or via the contacts tab within Pivi’s Phone app.
+
+- Following feedback, we’ve added a phone reminder which can be displayed when you shut the vehicle down for those vehicles with Wireless Device Charging.
+
+- The Pivi Pro navigation app for Range Rover & Range Rover Sport PHEV vehicles can now display a range overlay on the map. This is visible when no destination is set.
+
+- Wireless Android AutoTM& Wireless Apple VehiclePlay® is now available in more countries.
+
+Features we’ve improved or changed
+
+- We’ve made changes to the traffic info and the text color making it more useful and readable. This especially improves the available information when the Interactive Driver Display is in full screen map view and the traffic list is shown.
+
+- In the Navigation / About settings the map information now shows the date each region was last updated. Note: the region your vehicle is located in is automatically updated over the air in most markets where there is a valid Connected Navigation Subscription.
+
+- The Map & Service subscription expiry date is now visible from the map information screen.
+
+- Phone settings have been reorganized combining Bluetooth and Android AutoTM/ Apple VehiclePlay® settings.
+
+- A variety of bug fixes and general performance improvements.
+
+- Profiles are now referenced as Accounts in the touchscreen.
+
+Please Note: Availability of features can vary by vehicle specification, model year and market
+
+- PHEV only: Please note that for a short period of time, you may experience some disruption in your EV capabilities after the update has installed. Software updates require at least 25% battery charge.
+
+TOUCH PRO SOFTWARE VERSION RELEASE NOTES
+
+SOFTWARE VERSION 19A3
+• 
+19A3 – SOFTWARE RELEASE NOTES
+
+INFOTAINMENT MASTER CONTROLLER (IMC) SOFTWARE VERSION – INCONTROL TOUCH PRO 19A3
+
+NEW FEATURES INCLUDED IN THIS RELEASE:
+
+WIRELESS SOFTWARE UPDATES
+
+•        Vehicles will now have software updates activated as standard
+
+ISSUES FIXED IN THIS RELEASE:
+
+ANDROID AUTO™
+
+•        Improved automatic connection of Android Auto™ phones*
+
+CLIMATE CONTROL
+
+•        Fix for ‘Climate not available’ appearing on the instrument cluster and the climate controls not responding
+
+PARKING AID AND CAMERAS
+
+•        If front camera is selected, it will no longer be replaced by the parking aid pop-up when approaching an obstacle
+
+•        After the front camera view has been automatically activated, you can now use the soft keys at the bottom of the screen to navigate away from this view
+
+*The services offered by Android Auto™ depends on feature availability in your country, please see [https://www.android.com/auto/] for more information.
+SOFTWARE VERSION 19A4
+• 
+19A4 – SOFTWARE RELEASE NOTES
+
+INFOTAINMENT MASTER CONTROLLER (IMC) SOFTWARE VERSION – INCONTROL TOUCH PRO 19A4
+
+ISSUES FIXED IN THIS RELEASE:
+
+APPLE CARPLAY®
+
+•        Call audio will no longer be lost on the system speaker after accepting a call using Apple CarPlay®*
+
+(E-PACE ONLY)
+
+DRIVE INFORMATION SCREEN
+
+•        Front and rear torque distribution will now be displayed correctly
+
+•        Torque levels will now be displayed correctly
+
+*The services offered by Apple CarPlay® depend on feature availability in your country, please see [https://apps.apple.com/us/app/land-rover-iguide/] for more information.
+SOFTWARE VERSION 19B
+• 
+19B – SOFTWARE RELEASE NOTES
+
+INFOTAINMENT MASTER CONTROLLER (IMC) SOFTWARE VERSION – INCONTROL TOUCH PRO 19B
+
+NEW FEATURES INCLUDED IN THIS RELEASE:
+
+SMARTPHONE PACK
+
+•        The Smartphone Pack* comprising of Apple CarPlay®, Android Auto™ is now enabled for compatible vehicles
+
+WI-FI
+
+•        Vehicle systems that were previously unable to connect to Wi-Fi for wireless software updates can now do so. This will enable future wireless InControl Touch Pro software updates for these vehicles
+
+WIRELESS SOFTWARE UPDATES
+
+•        The wireless software update customer experience has been simplified
+
+•        New software update pending notification icon
+
+•        Along with the Wi-Fi update, wireless software updates will be available for all InControl Touch Pro vehicles
+
+MEDIA PLAYER
+
+•        On vehicle start-up, media sources will now be remembered from the last drive cycle
+
+•        When playing a podcast, +15 seconds and -15 seconds options will be displayed
+
+BLUETOOTH® PHONE
+
+•        Improved experience when uploading recent call list from phone to vehicle
+
+(I-PACE ONLY)
+
+CLIMATE CONTROL
+
+•        Climate functionality will now be fully supported when the vehicle’s power is on
+
+(ELECTRIC VEHICLES ONLY)
+
+NAVIGATION
+
+•        Charging stations reachable with 1-4% battery charge on arrival will now be displayed
+
+•        Charging points are more accurately displayed on route based on vehicle state of charge
+
+ISSUES FIXED IN THIS RELEASE:
+
+GENERAL/SYSTEM
+
+•        General performance improvements
+
+•        General stability improvements
+
+•        Fixed issue of no audio being available for a whole drive cycle seen in previous software version
+
+•        Side Panel theme will no longer change when the date format has been changed
+
+AUDIO QUALITY
+
+•        General performance improvements
+
+SMART PHONE PACK
+
+ANDROID AUTO™
+
+•        Improved Google Maps navigation audio when playing media using Android Auto™
+
+•        When a phone is connected by Android Auto™ it will no longer also show as a Bluetooth® source
+
+•        Android Auto™ icon will now always disappear after the phone has been disconnected
+
+•        Performance improvements for audio replies to Android Auto™
+
+•        General improved stability
+
+•        The Android phone header will now be displayed with the Android Auto™ icon
+
+APPLE CARPLAY®
+
+•        Improved display of Apple CarPlay®
+
+•        General improved stability
+
+•        When playing media from Apple CarPlay®, it will be displayed in the media view
+
+•        Performance improvements for outgoing calls made using Apple CarPlay®
+
+BLUETOOTH® PHONE
+
+•        Fixed an issue when using the steering wheel switch to move to the next song through Bluetooth audio® source
+
+•        When system is set to French, messages will no longer be read out in English
+
+•        (Satellite Digital Audio Radio System only) Messages received when skipping through SDARS channels will no longer be lost
+
+AMBIENT LIGHTING
+
+•        Fixed an issue with the ambient lighting control screen
+
+BLUETOOTH®
+
+•        Fixed an issue preventing Bluetooth® audio playing for a drive cycle
+
+CD PLAYER
+
+•        Improved user experience when switching media source from Apple CarPlay® to CD
+
+CLIMATE CONTROL
+
+•        Temperature settings and adjustments now available in the climate home screen
+
+•        Purify icon disabled when the vehicle is in defrost mode
+
+•        Third Row Climate Controls will only be available when the engine is running
+
+•        Temperature unit will no longer change from Celsius to Fahrenheit in Side Panel when language is changed to Portuguese
+
+•        Temperature control on rear screens will now work even when all zones are set to high
+
+•        (North American vehicles only) Fixed an issue of Smart Climate incorrectly showing the front passenger seat occupancy status
+
+CONNECTIVITY
+
+•        Signal bars for vehicle connection strength will now display correctly
+
+•        When a phone is connected, Wi-Fi will now automatically enable after a power cycle
+
+•        Improved error message for data connection
+
+RADIO
+
+DAB RADIO
+
+•        Improved DAB reliability
+
+•        (Head Up Display (HUD) vehicles only) Media information for DAB radio will now be displayed correctly in the HUD
+
+AM/FM RADIO
+
+•        (InControl Touch Pro Duo only) Interactive Display Module 'A' (IDMA) will now show AM not FM when AM radio is playing
+
+SATELLITE RADIO
+
+•        Satellite Digital Audio Radio System (SDARS) will now always launch first time
+
+•        SDARS screen will now load correctly
+
+•        The correct song will now always play when selected from the satellite radio playlist
+
+•        General stability improvements
+
+DUAL VIEW SCREENS
+
+•        Improved DVD playback image when a display theme is selected
+
+•        Display improvements for Bluetooth® settings icon
+
+ECO DATA SCREEN
+
+•        Improved accuracy for ECO data when climate control is in ECO mode
+
+FORWARD TRAFFIC DETECTION
+
+•        Forward Traffic Detection alert will no longer stay visible if the camera view is changed during an alert
+
+PERSONALIZATION
+
+•        Keys can now be switched to different existing user profiles
+
+LIVE
+
+•        Live will now launch from the 'Extra Features' screen
+
+•        Fixed an issue of Live sometimes not launching
+
+•        Live will no longer skip to the first page when opening a second one
+
+•        Display improvements for Live applications
+
+MEDIA PLAYER
+
+•        General improved stability
+
+•        Improved handling of the track duration bar
+
+•        Tracks will no longer sometimes pause 3 seconds before the end
+
+•        Correct graphic will now be shown in the background of the Instrument Panel Cluster (IPC) media panel
+
+•        Fixed an issue of resuming podcast after ending a call
+
+NAVIGATION
+
+STANDARD NAVIGATION
+
+•        Improved stability when resuming a route
+
+•        Improved accuracy of voice guidance
+
+•        Improved accuracy of safety cameras
+
+•        Display improvements for pop-up screens
+
+•        Improved "Send to Driver" from rear screens experience
+
+•        Improved map display during traffic side panel
+
+•        Improved map display within the Instrument Panel Cluster
+
+•        Improved reliability of address summary screen when the city selected is not unique
+
+•        Improved route calculation
+
+•        General improved reliability
+
+•        (Japan vehicles only) Rear screens will no longer display the Navigation icon
+
+•        Improved Traffic Info stability
+
+•        When the map license has been extended, the status will update immediately
+
+ELECTRIC VEHICLE NAVIGATION FEATURES
+
+•        Navigation will no longer reset after switching the Instrument Panel Cluster to full map view
+
+•        Improved charge station searching
+
+PARKING AID
+
+•        Fixed an issue with parking aid audio
+
+•        Fixed an issue with the parking aid 360 pop-up when in reverse
+
+REAR SEAT ENTERTAINMENT
+
+•        Rear screens will no longer activate when opening the front console panel
+
+•        Time displayed on the rear screen will now match the front Touchscreen
+
+•        "SIRIUS XM" button is now functional in "All Settings" in Rear Seat Entertainment
+
+•        Improved performance of climate on the rear screen when using the remote control
+
+•        (Rear Massage seat vehicles only) Massage location now called ‘Upper back’ and ‘Lower back’ on the rear screens
+
+SEAT CONTROLS
+
+•        Passenger seat icon now correctly displayed after favorite seat settings are selected
+
+•        Climate buttons will no longer be lost if the seat screen is opened multiple times in the same ignition cycle
+
+•        Improved performance of seat massage buttons
+
+SPEECH
+
+•        Improved graphics of speech tutorial
+
+•        Improved speech 'Call contact' reliability
+
+TELEVISION
+
+•        Television reception will now recover automatically after leaving a low reception area
+
+•        Improved performance of 'No reception' notification
+
+•        (Brazil vehicles only) Touchscreen will no longer show a blank screen after Brazil Television runs for approximately 2.5 minutes, rear screen will no longer show "No reception" message
+
+TERRAIN RESPONSE
+
+•        Display improvements during terrain response mode
+
+•        Terrain response mode will be displayed in the correct language
+
+TEXT TO SPEECH
+
+•        Text to speech will now behave correctly during playback
+
+TIMED CLIMATE
+
+•        Timed climate will now use the same icon in all menus
+
+TRANSLATIONS
+
+•        Improved translations for all languages
+
+VALET MODE
+
+•        Improved phone reconnection when exiting valet mode
+
+WADE SENSING
+
+•        Improved graphics for wade sensing screen when on a hill
+
+WEB BROWSER
+
+•        A horizontal scroll bar is now displayed when a web page has been zoomed
+
+•        General speed and reliability improvements
+
+*The Smartphone Pack is only available for vehicles equipped with either a 10" Touch Pro or 10" Touch Pro Dual View touchscreen, a SIM slot and front On-The-Go-enabled USB ports. The services offered by Apple CarPlay® depend on feature availability in your country, please see [https://apps.apple.com/us/app/land-rover-iguide/] for more information. The services offered by Android Auto™ depends on feature availability in your country, please see [https://www.android.com/auto/] for more information.
+
+DISCLAIMERS1-21
+
+----------------------------------------
+Generated by Clearly Reader (clearlyreader.com)
